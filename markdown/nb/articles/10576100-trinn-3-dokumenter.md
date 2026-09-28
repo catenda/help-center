@@ -38,6 +38,6 @@ Bruk merkningsverktøyene til å identifisere områder du vil kommunisere om med
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/06-markups.png)
 
-_Videre lesing:_ [Laster opp](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument), [Filtrering av dokumenter](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden), [Dokumenthandlinger](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen), [Viser](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub), [Markeringer](https://support.catenda.com/nb/articles/10210710-spor-annoteringar-med-merknader)
+_Videre lesing:_ [Laster opp](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument), [Filtrering av dokumenter](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden), [Dokumenthandlinger](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen), [Viser](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub), [Markeringer](https://support.catenda.com/nb/articles/10210710-spor-annoteringer-med-merknader)
 
 > **Merknad:** Finn [trinn 4](https://support.catenda.com/nb/articles/10576177-trinn-4-modeller) i [Komme i gang](https://support.catenda.com/nb/collections/2657208-sette-i-gang) i hjelpesentralen eller i hjelpemenyen.

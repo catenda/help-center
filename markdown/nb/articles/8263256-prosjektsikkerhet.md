@@ -12,7 +12,7 @@ Når et prosjekt overføres til en utløpt status eller slettes manuelt, handlin
 
 ### 1.3 **Data på hjemmebane**
 
-Standardplattformdata er vert i sikre, etablerte regioner. Selv om gjeldende konfigurasjoner er sentraliserte, kan det finnes muligheter for å etablere databolig innenfor spesifikke geografiske lokasjoner for å samsvare med lokale juridiske krav. Organisasjoner med unike hosting- eller "hjemmebane"-behov oppfordres til å kontakte support på [support@catenda.com](mailto:support@catenda.com) for å diskutere mulige tekniske muligheter og konfigurasjoner.
+Standardplattformdata driftes i sikre, etablerte regioner. Selv om gjeldende konfigurasjoner er sentraliserte, kan det finnes muligheter for å etablere databolig innenfor spesifikke geografiske lokasjoner for å samsvare med lokale juridiske krav. Organisasjoner med unike hosting- eller "hjemmebane"-behov oppfordres til å kontakte support på [support@catenda.com](mailto:support@catenda.com) for å diskutere mulige tekniske muligheter og konfigurasjoner.
 
 ## 2. **Deling av data med personer utenfor prosjektet**
 

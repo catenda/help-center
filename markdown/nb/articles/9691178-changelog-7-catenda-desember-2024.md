@@ -12,7 +12,7 @@ Etter hvert som nye funksjoner lanseres og feil fikses, oppdateres artikler med 
 
 ### 1.1 **Nye artikler:**
 
-_Kom i gang og Vanlige spørsmål_ [Dokumentadministrasjon i Catenda Hub](https://support.catenda.com/nb/articles/9775623-dokumentstyring-i-catenda-hub) [Brukerveiledning - Statusarbeidsflyt (ISO 19650)](https://support.catenda.com/nb/articles/9874698-ny-statusarbeidsflyt-iso-19650) [Hold styr på merknader med kommentarer](https://support.catenda.com/nb/articles/10210710-spor-annoteringar-med-merknader)
+_Kom i gang og Vanlige spørsmål_ [Dokumentadministrasjon i Catenda Hub](https://support.catenda.com/nb/articles/9775623-dokumentstyring-i-catenda-hub) [Brukerveiledning - Statusarbeidsflyt (ISO 19650)](https://support.catenda.com/nb/articles/9874698-ny-statusarbeidsflyt-iso-19650) [Hold styr på merknader med kommentarer](https://support.catenda.com/nb/articles/10210710-spor-annoteringer-med-merknader)
 
 _Nylige oppdateringer_ [Statusarbeidsflyt🖥️Delt ->✔️Publisert](https://support.catenda.com/nb/articles/9662473-statusarbeidsflyt-delt-publisert)
 
@@ -32,7 +32,7 @@ _Kom i gang_ [Lagring av filtre](https://support.catenda.com/nb/articles/8551755
 
 _Vanlige spørsmål_ [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) [Hvordan kan jeg invitere et medlem?](https://support.catenda.com/nb/articles/4670319-hvordan-kan-jeg-invitere-et-medlem) [Sorteringsrekkefølge for lister](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) [Sider uten tilgang](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
 
-_Hovedside_ [Flerfaktorautentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering) [Varselsfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknappar) [Prosjektsider](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Legge til brukere uten e-postinvitasjon](https://support.catenda.com/nb/articles/8434846-legge-til-brukere-uten-e-postinvitasjon) [Endre ditt foretrukne språk](https://support.catenda.com/nb/articles/4670248-endre-foretrukket-sprak)
+_Hovedside_ [Flerfaktorautentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering) [Varselsfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Prosjektsider](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Legge til brukere uten e-postinvitasjon](https://support.catenda.com/nb/articles/8434846-legge-til-brukere-uten-e-postinvitasjon) [Endre ditt foretrukne språk](https://support.catenda.com/nb/articles/4670248-endre-foretrukket-sprak)
 
 _Dashbord_ [Dashbordside](https://support.catenda.com/nb/articles/8212646-dashbord-side)
 

@@ -26007,7 +26007,7 @@ Der Dokumentvergleich verfügt jetzt über einen Textvergleichmodus neben dem vo
 
 ### 2.3 **Projektvorlagen mit Genehmigungs-Workflows und Themenvorlagen**
 
-Neue Projekte, die aus einem Vorlagenprojekt erstellt werden, enthalten jetzt die Genehmiguns-Workflows und Themenvorlagen des Vorlagenprojekts, sodass diese nicht mehr in jedem neuen Projekt eingerichtet werden müssen. Ein Genehmiguns-Workflow oder eine Themenvorlage kann auch dupliziert werden, sodass nur die unterschiedlichen Teile geändert werden müssen, anstatt von Grund auf neu aufgebaut zu werden. 📽️ **[Tutorial-Video](https://eu.guidde.com/share/playbooks/gZ36ivayHPwGhubAMgHKQq?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+Neue Projekte, die aus einem Vorlagenprojekt erstellt werden, enthalten jetzt die Genehmigungs-Workflows und Themenvorlagen des Vorlagenprojekts, sodass diese nicht mehr in jedem neuen Projekt eingerichtet werden müssen. Ein Genehmigungs-Workflow oder eine Themenvorlage kann auch dupliziert werden, sodass nur die unterschiedlichen Teile geändert werden müssen, anstatt von Grund auf neu aufgebaut zu werden. 📽️ **[Tutorial-Video](https://eu.guidde.com/share/playbooks/gZ36ivayHPwGhubAMgHKQq?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
 
 ## 3. **Aktivierung von On-Demand-Funktionen**
 

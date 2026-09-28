@@ -16,7 +16,7 @@ Når nye funksjoner lanseres og feil blir fikset, oppdateres artikler med endrin
 
 _Kontoadministrasjon_
 
-- [Kontoknapper](https://support.catenda.com/nb/articles/4670260-kontoknappar)
+- [Kontoknapper](https://support.catenda.com/nb/articles/4670260-kontoknapper)
 
 _Feilsøking_
 

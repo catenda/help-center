@@ -64,7 +64,7 @@ En invitasjon sendes til deg via e-post fra Catenda med en lenke til neste trinn
 
 Etter at registreringen er fullført, kan du få tilgang til prosjektene dine på Catenda Hub fra en hvilken som helst nettleser. [https://hub.catenda.com/signin](https://hub.catenda.com/signin)
 
-Videre lesing: [Påloggingsside](https://support.catenda.com/nb/articles/7891486-paloggingsside), [Opprette en konto](https://support.catenda.com/nb/articles/8412895-opprette-en-konto), [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknappar)
+Videre lesing: [Påloggingsside](https://support.catenda.com/nb/articles/7891486-paloggingsside), [Opprette en konto](https://support.catenda.com/nb/articles/8412895-opprette-en-konto), [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknapper)
 
 > **Merknad:** Finn [trinn 2](https://support.catenda.com/nb/articles/10576075-trinn-2-grensesnitt) i [komme i gang](https://support.catenda.com/nb/collections/2657208-sette-i-gang) på hjelpesenteret eller i hjelpemenyen.
 
@@ -132,7 +132,7 @@ Bruk merkningsverktøyene til å identifisere områder du vil kommunisere om med
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/06-markups.png)
 
-_Videre lesing:_ [Laster opp](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument), [Filtrering av dokumenter](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden), [Dokumenthandlinger](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen), [Viser](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub), [Markeringer](https://support.catenda.com/nb/articles/10210710-spor-annoteringar-med-merknader)
+_Videre lesing:_ [Laster opp](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument), [Filtrering av dokumenter](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden), [Dokumenthandlinger](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen), [Viser](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub), [Markeringer](https://support.catenda.com/nb/articles/10210710-spor-annoteringer-med-merknader)
 
 > **Merknad:** Finn [trinn 4](https://support.catenda.com/nb/articles/10576177-trinn-4-modeller) i [Komme i gang](https://support.catenda.com/nb/collections/2657208-sette-i-gang) i hjelpesentralen eller i hjelpemenyen.
 
@@ -710,7 +710,7 @@ Etter at du har koblet til en MFA-kode, kan du trygt redigere kontonavnet på ko
 
 _Google Authenticator_
 
-1. Langtast på koden
+1. Trykk lenge på koden
 1. Klikk på blyanten øverst til høyre for å endre navnet.
 
 _Microsoft Authenticator_
@@ -768,7 +768,7 @@ Etter at du har deaktivert koden på Catenda Hub, vil koden forbli på applikasj
 
 _Google Authenticator_
 
-1. Langtast på koden
+1. Trykk lenge på koden
 1. Klikk på søppelikonen øverst til høyre.
 
 _Microsoft Authenticator_
@@ -1109,13 +1109,13 @@ Et nytt medlem kan legges til ved å gå til:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2n4vhvx6/01-intro.png)
 
-# Kontoknappar
+# Kontoknapper
 
-Kontoknappar er alltid tilgjengelege mot øvre høgre hjørne på ei Catenda Hub-side. Dette er korleis kontoknappar kan sjå ut:
+Kontoknapper er alltid tilgjengelige mot øvre høyre hjørne på en Catenda Hub-side. Dette er hvordan kontoknapper kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/01-intro.png)
 
-Kontoknappar er til stades overalt du er på Catenda Hub. Dette betyr at varsel- og kontosidene alltid er tilgjengelege sjølv om den venstre navigeringsmenyen har endra seg.
+Kontoknapper er til stede overalt du er på Catenda Hub. Dette betyr at varsel- og kontosidene alltid er tilgjengelige selv om den venstre navigeringsmenyen har endret seg.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/02-intro.png)
 
@@ -1123,31 +1123,31 @@ Følgjande saker er beskrivne i denne artikkelen:
 
 ## 1. **Varselknapp**
 
-Dersom det finst nye varsel, blir ein raud varselindikator vist på varselknappen. Klikk på varselknappen for å opne varsel-rullegardinen. Då forsvinn indikatoren for ulest varsel. Varsel-rullegardinen kan sjå slik ut:
+Dersom det finnes nye varsler, blir en rød varselindikator vist på varselknappen. Klikk på varselknappen for å åpne varsel-rullegardinen. Da forsvinner indikatoren for ulest varsel. Varsel-rullegardinen kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/03-notifications-button.png)
 
-Rullegardinen viser dei siste 5 varslinga med all ny informasjon om prosjekta du er med i. Du kan alltid sjå denne knappen på øvre høgre hjørne av skjermen. Klikk på Vis alle varsel for å gå til [varselkontoside](https://support.catenda.com/nb/articles/7439223-siden-for-kontovarsler) di
+Rullegardinen viser de siste 5 varslene med all ny informasjon om prosjektene du er med i. Du kan alltid se denne knappen i øvre høyre hjørne av skjermen. Klikk på Vis alle varsler for å gå til [varselkontosiden](https://support.catenda.com/nb/articles/7439223-siden-for-kontovarsler) din
 
-> **Merknad:** Dersom du navigerer til varselkontosida på denne måten, blir ho filtrert etter varsel frå forrige månad som standard. Fjern dateFrom=last-month-filteret frå URL-en for å sjå varsel frå meir enn ein månad sidan.
+> **Merknad:** Dersom du navigerer til varselkontosiden på denne måten, blir den filtrert etter varsler fra forrige måned som standard. Fjern dateFrom=last-month-filteret fra URL-en for å se varsler fra mer enn en måned siden.
 
 ## 2. **Delingslenkeknapp**
 
-[Delingslenkefunksjonen](https://support.catenda.com/nb/articles/4728886-sharelink-varsle-personer-om-catenda-hub-innhold) er berre tilgjengeleg frå innan eit prosjekt og vil derfor vere deaktivert på prosjektsida.
+[Delingslenkefunksjonen](https://support.catenda.com/nb/articles/4728886-sharelink-varsle-personer-om-catenda-hub-innhold) er bare tilgjengelig fra innenfor et prosjekt og vil derfor være deaktivert på prosjektsiden.
 
 ## 3. **Støtteknapp**
 
-Klikk på den svarte nedbletknappen for å opne støttemenyen. Klikk [her](https://support.catenda.com/nb/articles/8894066-plassering-og-funksjonalitet-for-stotteknappen) for å lese meir om støttemenyen.
+Klikk på den svarte chatboble-knappen for å åpne støttemenyen. Klikk [her](https://support.catenda.com/nb/articles/8894066-plassering-og-funksjonalitet-for-stotteknappen) for å lese mer om støttemenyen.
 
 ## 4. **Kontoknapp**
 
-Kontoknappen viser profilbildet ditt eller initialane til brukarnamnet ditt. Dersom du klikkar på kontoknappen, opnast kontoens rullegardin.
+Kontoknappen viser profilbildet ditt eller initialene til brukernavnet ditt. Hvis du klikker på kontoknappen, åpnes kontoens rullegardinmeny.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/04-account-button.png)
 
 ### 4.1 **Min konto**
 
-Klikk [her](https://support.catenda.com/nb/articles/6880968-kontosida) for å lese meir om [kontosida](https://hub.catenda.com/account/profile). Dette opnar same sida som kontoknappen i den venstre navigeringsmenyen. Skilnaden er at denne kontoknappen er tilgjengeleg overalt på Catenda Hub, medan den venstre navigeringsmenyen kan endre seg avhengig av kvar du er på sida.
+Klikk [her](https://support.catenda.com/nb/articles/6880968-kontosida) for å lese mer om [kontosiden](https://hub.catenda.com/account/profile). Dette åpner samme side som kontoknappen i den venstre navigeringsmenyen. Forskjellen er at denne kontoknappen er tilgjengelig overalt på Catenda Hub, mens den venstre navigeringsmenyen kan endre seg avhengig av hvor du er på siden.
 
 ### 4.2 **Logg ut**
 
@@ -1431,7 +1431,7 @@ Hvis du oppretter en konto vil du ikke automatisk være del av et prosjekt. For 
 
 ## 1. **Trinn 1 av 4 - Opprett en gratis konto**
 
-Her kan du skrive inn e-postadressen din og passordet ditt for å registrere deg for en gratis konto. Etter vellykket pålogging vil du bli omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknappar).
+Her kan du skrive inn e-postadressen din og passordet ditt for å registrere deg for en gratis konto. Etter vellykket pålogging vil du bli omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknapper).
 
 ### 1.1 **Eksisterende konto**
 
@@ -1503,7 +1503,7 @@ Klikk "Fortsett"-knappen for å bli tatt til [prosjektsiden](https://support.cat
 
 # Opprette et nytt prosjekt
 
-Hvis din gjeldende plan og tilgang tillater det, kan du opprette et nytt prosjekt ved å logge inn og på [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknappar), klikke på "Nytt prosjekt"-knappen eller gå til [siden for nytt prosjekt](https://hub.catenda.com/new-project).
+Hvis din gjeldende plan og tilgang tillater det, kan du opprette et nytt prosjekt ved å logge inn og på [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknapper), klikke på "Nytt prosjekt"-knappen eller gå til [siden for nytt prosjekt](https://hub.catenda.com/new-project).
 
 Ellers, for å opprette et nytt prosjekt, kontakt Catenda-støtten på [support@catenda.com](mailto:support@catenda.com) eller via chat-knappen. Den sorte chat-knappen finnes øverst til høyre inne i Catenda Hub eller nederst til høyre på hjelpe-/hjemmesidene våre for å oppgradere planen din. Vi vil veilede deg gjennom opprettingen.
 
@@ -2296,7 +2296,7 @@ Her kan du skrive inn passordet som passer for kontoen som er registrert under d
 
 ## 3. **Logg inn**
 
-Klikk på logg inn for å verifisere de oppgitte legitimasjonene. Etter at verifiseringsprosessen er gjennomført med hell, blir brukere omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknappar).
+Klikk på logg inn for å verifisere de oppgitte legitimasjonene. Etter at verifiseringsprosessen er gjennomført med hell, blir brukere omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknapper).
 
 ## 4. **MFA**
 
@@ -5950,9 +5950,9 @@ Klikk på prosjekt-rullgardinen for å navigere til dashbordet for et annet pros
 
 Klikk [her](https://support.catenda.com/nb/articles/13141464-prosjektpaneler) for å lese mer om prosjektpaneler
 
-### 1.3 **Kontoknappar**
+### 1.3 **Kontoknapper**
 
-Klikk [her](https://support.catenda.com/nb/articles/4670260-kontoknappar) for å lese mer om kontoknappar
+Klikk [her](https://support.catenda.com/nb/articles/4670260-kontoknapper) for å lese mer om kontoknapper
 
 ## 2. **Saker**
 
@@ -8963,7 +8963,7 @@ Fordi du ikke har valgt noe, vil de valgte vareopplastingene ikke vises øverst 
 
 # Handlinger i saksrelatert tabell
 
-Handlingsknappar kan finnast på ulike stader på [sakssida](https://support.catenda.com/nb/articles/4670271-sakside) avhengig av val av sak og tilgangsinstellingar du har. Alle handlingsknappar vil verta listet opp i handlingsmenyane som kan sjå slik ut:
+Handlingsknapper kan finnes på ulike steder på [sakssiden](https://support.catenda.com/nb/articles/4670271-sakside) avhengig av valg av sak og tilgangsinnstillinger du har. Alle handlingsknapper vil bli listet opp i handlingsmenyene som kan se slik ut:
 
 ![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/01-intro.png)
 
@@ -8971,31 +8971,33 @@ Følgjande saker er beskrivne i denne artikkelen:
 
 ## 1. **Nye elementhandlingar**
 
-Plussknappen og handlingsmenyelementa kan finnast mot øvre høgre hjørne av sida og kan sjå slik ut:
+Plussknappen og handlingsmenyelementene kan finnes mot øvre høyre hjørne av siden og kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/02-new-item-actions.png)
 
-Handlingane du finn her er alle knytte til å skapa ny informasjon. [Handlingar for valde element](#h_b5c00c149b) som gjeld eksisterande element på sida kan òg finnast mot toppen av tabellen etter at du har gjort eit val.
+Handlingene du finner her er alle knyttet til å skape ny informasjon. [Handlinger for valgte elementer](#h_b5c00c149b) som gjelder eksisterende elementer på siden kan også finnes mot toppen av tabellen etter at du har gjort et valg.
+
+Følgjande saker er beskrivne i denne delen:
 
 ### 1.1 **Ny sak**
 
-Klikk [her](https://support.catenda.com/nb/articles/4670268-opprett-en-ny-sak) for å lesa meir om å oppretta ei ny sak _Tilgang påkravd:_ Skrive- eller full tilgang i ei saksliste
+Klikk [her](https://support.catenda.com/nb/articles/4670268-opprett-en-ny-sak) for å lese mer om å opprette en ny sak _Tilgang påkrevd:_ Skrive- eller full tilgang i en saksliste
 
 ### 1.2 **Utveksle saker**
 
-Med utveksling kan du importera og exportera saker. _Tilgjengelege importfilformat er:_ BCF _Tilgjengelege exportfilformat er:_ BCF, Excel, PDF Les meir om å utveksle saker [her](https://support.catenda.com/nb/articles/4670289-utveksle-saker) _Tilgang påkravd:_ Les-tilgang til ei saksliste
+Med utveksling kan du importere og eksportere saker. _Tilgjengelige importfilformater er:_ BCF _Tilgjengelige eksportfilformater er:_ BCF, Excel, PDF Les mer om å utveksle saker [her](https://support.catenda.com/nb/articles/4670289-utveksle-saker) _Tilgang påkrevd:_ Lesetilgang til en saksliste
 
-> **Merknad:** Eksportering av saker er berre mogleg i éi saksliste og vil ikkje vera tilgjengeleg i lista over alle saker.
+> **Merknad:** Eksportering av saker er bare mulig i én saksliste og vil ikke være tilgjengelig i listen over alle saker.
 
 ### 1.3 **Historikk**
 
-**Importhistorikk** Dette viser sakene som har blitt importert og kvar dei har blitt lasta opp.
+_Importhistorikk_ Dette viser sakene som har blitt importert og hvor de har blitt lastet opp.
 
-**Exporthistorikk** Dette viser exporthistorikken inne i saker. Du kan òg lasta ned exportane frå her, PDF-, Excel- og BCF-rapportar.
+_Eksporthistorikk_ Dette viser eksporthistorikken inne i saker. Du kan også laste ned eksportene herfra, PDF-, Excel- og BCF-rapporter.
 
-**Flytthistorikk** Dette viser sakene som har blitt flytta og kvar dei har blitt flytta til på tvers av alle sakslistene i prosjektet.
+_Flyttehistorikk_ Dette viser sakene som har blitt flyttet og hvor de har blitt flyttet til på tvers av alle sakslistene i prosjektet.
 
-## 2. **Handlingar for valde element**
+## 2. **Handlinger for valgte elementer**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/03-selected-item-actions.png)
 
@@ -9003,55 +9005,55 @@ Følgjande saker er beskrivne i denne delen:
 
 ### 2.1 **Kopier lenke**
 
-Med kopier lenke-handlinga kan ei lenke som berre viser dei valde tabelradene kopierast. Klikk [her](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp) for å læra meir om å kopiera lenker.
+Med kopier lenke-handlingen kan en lenke som bare viser de valgte tabellradene kopieres. Klikk [her](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp) for å lære mer om å kopiere lenker.
 
 ### 2.2 **Eksporter saker**
 
-Med eksporter saker-handlinga kan du exportera sak(ar).
+Med eksporter saker-handlingen kan du eksportere sak(er).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/04-export-topics.png)
 
-Eksporter saker-handlinga vil opna [exportdialoggboksen for saker](https://support.catenda.com/nb/articles/4670289-utveksle-saker). Her kan du exportera alle saker i lista, filtrerte saker og valde saker. _Tilgjengelege filformat er:_ BCF, Excel, [PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf)
+Eksporter saker-handlingen vil åpne [eksportdialogboksen for saker](https://support.catenda.com/nb/articles/4670289-utveksle-saker). Her kan du eksportere alle saker i listen, filtrerte saker og valgte saker. _Tilgjengelige filformater er:_ BCF, Excel, [PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf)
 
-> **Merknad:** Det er berre mogleg å exportera saker frå éi saksliste om gongen. Alternativet kan derfor forsvinna viss du vel saker frå fleire sakslistor i lista over alle saker.
+> **Merknad:** Det er bare mulig å eksportere saker fra én saksliste om gangen. Alternativet kan derfor forsvinne hvis du velger saker fra flere sakslister i listen over alle saker.
 
 ### 2.3 **Lag rapport**
 
-Rapporteringsverktøyet kan monterast på pasis per prosjekt. Med lag rapport-handlinga kan du laga ein rapport over dei valdeSakene dine. _Tilgang påkravd:_ Les-tilgang til ei saksliste
+Rapporteringsverktøyet kan monteres på basis per prosjekt. Med lag rapport-handlingen kan du lage en rapport over de valgte sakene dine. _Tilgang påkrevd:_ Lesetilgang til en saksliste
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Dette alternativet er tilgjengeleg når saker frå fleire sakslistor er valde. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å læra meir om å laga rapportar.
+Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å lære mer om å lage rapporter.
 
 ### 2.4 **Følg**
 
-Med følg-handlinga kan den valde saka følgjast.
+Med følg-handlingen kan den valgte saken følges.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
 
-> **Merknad 1:** Viss du tidlegare har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9), stilt in som [begjærar](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7), eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) i saka, vil du automatisk følgja saka. **Merknad 2:** Viss ei sak du følgjer blir flytta til ei saksliste du ikkje har tilgang til, vil du framleis følgja henne, men vil ikkje lenger få varslingar om ho.
+> **Merknad 1:** Hvis du tidligere har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9), satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7), eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) i saken, vil du automatisk følge saken. **Merknad 2:** Hvis en sak du følger blir flyttet til en saksliste du ikke har tilgang til, vil du fortsatt følge den, men vil ikke lenger få varslinger om den.
 
-**Varslingar på følgde saker** Å følgja ei sak handlar om varslingar. Medlemmar som følgjer ei sak får varslingar om endringar som blir gjort på saka. Når ei sak blir oppretta, får alle medlemmar med tilgang til sakslistakvar ho blir oppretta, ein varsling om at saka er oppretta. Fordi dette generer mange varslingar, har mange slått av denne typen varsling i innstillingane sine. Etter opprettinga vil medlemmar som ikkje har noko med saka å gjøra ikkje få varslingar vidare om framtidsmessige hendelsar som kommentarar og endringar i nokon av felten i sakshauaden. Å følgja ei sak gjer det slik at desse varslingane blir sendt ut.
+_Varslinger på fulgte saker_ Å følge en sak handler om varslinger. Medlemmer som følger en sak får varslinger om endringer som blir gjort på saken. Når en sak blir opprettet, får alle medlemmer med tilgang til sakslisten der den blir opprettet, en varsling om at saken er opprettet. Fordi dette genererer mange varslinger, har mange slått av denne typen varsling i innstillingene sine. Etter opprettelsen vil medlemmer som ikke har noe med saken å gjøre ikke få varslinger videre om fremtidige hendelser som kommentarer og endringer i noen av feltene i sakshodet. Å følge en sak gjør at disse varslingene blir sendt ut.
 
-**Slutt å følgja** Medlemmar som følgjer ei sak kan bruka handlinga "slutt å følgja" for å slutta å følgja saka, sjølv om dei var dei som oppretta saka.
+_Slutt å følge_ Medlemmer som følger en sak kan bruke handlingen "slutt å følge" for å slutte å følge saken, selv om de var de som opprettet saken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/07-follow.png)
 
-Etter at du har slutta å følgja, blir ikkje varslingar om saksendringar som nye kommentarar eller endringar i sakshauadefeld sendt til medlemmane som slutta å følgja. _Tilgang påkravd:_ Les-tilgang til saklista som saka er i
+Etter at du har sluttet å følge, blir ikke varslinger om saksendringer som nye kommentarer eller endringer i sakshodefelt sendt til medlemmene som sluttet å følge. _Tilgang påkrevd:_ Lesetilgang til sakslisten som saken er i
 
-**Få andre medlemmar til å følgja** [Tildeling](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) av ein medlem til ei sak gjer at dei automatisk følgjer saka. Å stilla ein medlem in som [begjærar](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) av ei sak gjer at dei automatisk følgjer saka. Fordi saksskaparen er stilt in som [begjærar](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) som standard ved opprettinga av saka, følgjer dei typisk saker dei har oppretta. [Omtaling](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) av ein medlem i ei sak gjer at dei automatisk følgjer saka.
+_Få andre medlemmer til å følge_ [Tildeling](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) av et medlem til en sak gjør at de automatisk følger saken. Å sette et medlem som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) av en sak gjør at de automatisk følger saken. Fordi saksskaperen er satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) som standard ved opprettelsen av saken, følger de typisk saker de har opprettet. [Omtale](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) av et medlem i en sak gjør at de automatisk følger saken.
 
-> **Merknad:** Medan begjærar, tildelte og omtalte medlemmar blir sette som fylgjarar, gjeld ikkje det same for medlemmar av team som er sette som begjærar, tildelingar eller omtalt i saka. I dette tilfellet blir det sendt ein eingangsvarsl ing som seier at eit team dei er medlem av har blitt sett som begjærar, tildeling eller omtalt, men medlemmane i teamet blir då ikkje sette som fylgjarar til saka.
+> **Merknad:** Mens begjærer, tildelte og omtalte medlemmer blir satt som følgere, gjelder ikke det samme for medlemmer av team som er satt som begjærer, tildelinger eller omtalt i saken. I dette tilfellet blir det sendt en engangsvarsling som sier at et team de er medlem av har blitt satt som begjærer, tildeling eller omtalt, men medlemmene i teamet blir da ikke satt som følgere til saken.
 
-**Manuell fylgjing** Viss ein annan medlem har laga ei sak som verkar uavhengig for ein medlem, men dei er interessert og vil sjå korleis saka utviklar seg, kan saka følgjast for å få varslingar. Andre medlemmar kan ikkje sjå kven som har følgt ei sak. Dette gjer berre at frå då av blir varslingar sendt ut om endringar i saka til medlemmane som følgjer.
+_Manuell følging_ Hvis et annet medlem har laget en sak som virker uavhengig for et medlem, men de er interessert og vil se hvordan saken utvikler seg, kan saken følges for å få varslinger. Andre medlemmer kan ikke se hvem som har fulgt en sak. Dette gjør bare at fra da av blir varslinger sendt ut om endringer i saken til medlemmene som følger.
 
-Tilfelle der ein medlem ikkje følgjer ei sak kan vera i saker der dei ikkje har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c).
+Tilfeller der et medlem ikke følger en sak kan være i saker der de ikke har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c).
 
-**Slutt å følgja** Viss du ikkje ønskjer å få varslingar om framtidsutvikling av denne saka, kan du slutta å følgja ho ved å klikka på slutt å følgja.
+_Slutt å følge_ Hvis du ikke ønsker å få varslinger om fremtidig utvikling av denne saken, kan du slutte å følge den ved å klikke på slutt å følge.
 
 ### 2.5 **Flytt sak**
 
-Med denne handlinga kan saka flyttast til ein annan saksliste.
+Med denne handlingen kan saken flyttes til en annen saksliste.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/08-move-topic.png)
 
@@ -9059,25 +9061,25 @@ _Tilgang påkravd:_ Prosjektadministrator
 
 ### 2.6 **Slett sak**
 
-Med ei sak vald kan slett-handlinga brukast til å sletta ei vald sak.
+Med en sak valgt kan slett-handlingen brukes til å slette den valgte saken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/09-delete-topic.png)
 
 _Tilgang påkravd:_ Full tilgang til sakslisttabellen eller saksskapar
 
-Det er berre mogleg å sletta éi sak om gongen, så denne handlinga blir berre vist i handlingslista viss ei og berre ei sak er vald. Sletting av saka fjernar ho fullstendig frå prosjektet. I stadleggjering kan du i stadleggjering anten gemma eller arkivera saka for å slå ho av for prosjektmedlemmane.
+Det er bare mulig å slette én sak om gangen, så denne handlingen blir bare vist i handlingslisten hvis én og bare én sak er valgt. Sletting av saken fjerner den fullstendig fra prosjektet. I stedet for sletting kan du enten skjule eller arkivere saken for å deaktivere den for prosjektmedlemmene.
 
-**Gjemming eller arkivering mot sletting** Ved å gemma eller arkivera ei sak blir dataa lagra i prosjektet. For å gemma ei sak kan du flytta ho til ein annan saksliste. Tilgang kan avgjerast per saksliste. _Tilgang påkravd for å avgjerda tilgang til ei saksliste:_ Full tilgang til sakslisten
+_Skjuling eller arkivering fremfor sletting_ Ved å skjule eller arkivere en sak blir dataene lagret i prosjektet. For å skjule en sak kan du flytte den til en annen saksliste. Tilgang kan bestemmes per saksliste. _Tilgang påkrevd for å bestemme tilgang til en saksliste:_ Full tilgang til sakslisten
 
-Utan tilgang til ei sak vil knytte element som dokument og objekt framleis visa at ei sak som var knytt til dei finst, men brukaren må ha tilgang til sakslistta for å sjå innhaldet hennar.
+Uten tilgang til en sak vil knyttede elementer som dokument og objekt fortsatt vise at en sak som var knyttet til dem finnes, men brukeren må ha tilgang til sakslisten for å se innholdet i den.
 
-For å fullstendig gemma ei sak frå prosjektmedlemmane slik at ho ikkje lenger viser opp i knytte element, kan ho flyttest til ei liste som deretter blir arkivert. Saker i arkiverte sakslistor viser ikkje lenger opp i knytte element som dokument og objekt. _Tilgang påkravd for å arkivera ei saksliste:_ Full tilgang til sakslisten
+For å skjule en sak fullstendig fra prosjektmedlemmene slik at den ikke lenger vises i knyttede elementer, kan den flyttes til en liste som deretter blir arkivert. Saker i arkiverte sakslister vises ikke lenger i knyttede elementer som dokument og objekt. _Tilgang påkrevd for å arkivere en saksliste:_ Full tilgang til sakslisten
 
-**Sletta saker kan ikkje bli åtoppretta** Berre slett saker viss dataa ikkje vil vera påkravd i prosjektet seinare. Etter at ei sak er sletta, er det ikkje mogleg å importera ein BCF for ei sak med same ID att fordi den framleis er i bruk av den sletta saka.
+_Slettede saker kan ikke gjenopprettes_ Slett bare saker hvis dataene ikke vil være påkrevd i prosjektet senere. Etter at en sak er slettet, er det ikke mulig å importere en BCF for en sak med samme ID igjen fordi den fortsatt er i bruk av den slettede saken.
 
-_Hindring av redigering eller sletting_ Lag ein PDF-export av ei sak for å laga ein export av saka som ikkje kan redigerast.
+_Hindring av redigering eller sletting_ Lag en PDF-eksport av en sak for å lage en eksport av saken som ikke kan redigeres.
 
-**Ynskjer om sikringsgjenoppretting** Sikringsgjenoppretting av sletta saker kan bli ynska i tilfelle av uenskap. Ynskjer om sikringsgjenoppretting kan ta opp til to veker.
+_Forespørsler om sikkerhetskopigjenoppretting_ Gjenoppretting av slettede saker fra sikkerhetskopi kan forespørres ved en tvist. Forespørsler om sikkerhetskopigjenoppretting kan ta opptil to uker.
 
 # Handlinger på siden for modelinnhold
 
@@ -14086,7 +14088,7 @@ Tabellen nedenfor relaterer operasjonene som kan utføres på en publisert revis
 
 **Tilgang i applikasjoner** Medlemmer med minst lesetilgang til et dokument kan få tilgang til publiserte revisjoner fra applikasjoner som får tilgang til API-en, for eksempel vår mobilapplikasjon, Catenda Site.
 
-**2D/3D-viserknappar** Medlemmer med minst lesetilgang til et dokument med publiserte 3D-dokumentrevisjoner kan bruke 2D- og 3D-knappane i viserkolonnen for å laste inn 3D-dokumentet i den respektive viseren. En av følgende er påkrevd:
+**2D/3D-viserknapper** Medlemmer med minst lesetilgang til et dokument med publiserte 3D-dokumentrevisjoner kan bruke 2D- og 3D-knappene i viserkolonnen for å laste inn 3D-dokumentet i den respektive viseren. En av følgende er påkrevd:
 
 - Dokument lenket til modell og siste revisjon er en vellykket behandlet `.ifc` eller `.ifczip`
 - Siste revisjon er en punktsky
@@ -15770,7 +15772,7 @@ Etter at du har lastet opp et dokument med en QR-kode-plassholder, kan du se at 
 
 Hvis genereringen av QR-koden har mislyktes, kan det skyldes at QR-koden var mindre enn 2 cm x 2 cm eller at den ble plassert som en annotering i stedet for et bilde.
 
-**Flatterer annoteringar** Noen programvare lar deg flattere annoteringar som tillater at plassholdingen blir behandlet. Her er noen eksempler:
+**Flatterer annoteringer** Noen programvare lar deg flattere annoteringer som tillater at plassholdingen blir behandlet. Her er noen eksempler:
 
 **PDF X-change**
 
@@ -18355,97 +18357,97 @@ Catenda-lenker er alltid Absolutt, noe som betyr at de ikke er relative til hvor
 
 Fjern Klikk "Catenda" for å fjerne lenken for det valgte dokumentet.
 
-# Spor annoteringar med merknader
+# Spor annoteringer med merknader
 
-Den nye Markup-funksjonen lar deg gruppere annoteringar på nytt som kan vere plassert på ulike sider av eit dokument og på tvers av fleire revisjoner. Sett med annoteringar kan finnast som [kommentarar på topics](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_f76b44d3ca). I [merknader-fanen](https://support.catenda.com/nb/articles/10205725-hoyremeny-for-en-revisjon-merknader) i høgre informasjonsmeny i eit dokument vil du finne setta av annoteringar som er grupperte saman i ei merknad. Når dei er aktiverte, kan annoteringar i ei merknad vere [førehandsvisne på eit dokument](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader).
+Den nye Markup-funksjonen lar deg gruppere annoteringer på nytt som kan være plassert på ulike sider av et dokument og på tvers av flere revisjoner. Sett med annoteringer kan finnes som [kommentarer på topics](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_f76b44d3ca). I [merknader-fanen](https://support.catenda.com/nb/articles/10205725-hoyremeny-for-en-revisjon-merknader) i høyre informasjonsmeny i et dokument vil du finne settene av annoteringer som er gruppert sammen i en merknad. Når de er aktivert, kan annoteringer i en merknad [forhåndsvises på et dokument](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader).
 
-Diagrammet nedanfor illustrerer korleis annoteringar er grupperte under ulike merknader som kan [lagrast som kommentar](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad) under nye eller eksisterande topics.
+Diagrammet nedenfor illustrerer hvordan annoteringer er gruppert under ulike merknader som kan [lagres som kommentar](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad) under nye eller eksisterende topics.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/01-intro.png)
 
 Merk følgjande:
 
-1. Ein **merknad** kan **innehalde ein eller fleire sett med annoteringar.**
-1. Ein **topic** kan **innehalde ein eller fleire merknader** lagra som **kommentarar.**
-1. Innanfor ein **topic** er ein **merknad** ein **sett av annoteringar** som alltid **høyrer til same revisjon.**
-1. **Fleire merknader** på eitt dokument kan lagrast som **fleire topics** ELLER under ein **einaste eksisterande topic.**
-1. Dersom ein **merknad** inneheld **fleire sett med annoteringar spreidde på fleire sider**, vil det vere **ein kommentar per sett med annoteringar på kvar side**.
+1. En **merknad** kan **inneholde ett eller flere sett med annoteringer.**
+1. En **topic** kan **inneholde en eller flere merknader** lagret som **kommentarer.**
+1. Innenfor en **topic** er en **merknad** et **sett av annoteringer** som alltid **hører til samme revisjon.**
+1. **Flere merknader** på ett dokument kan lagres som **flere topics** ELLER under en **eneste eksisterende topic.**
+1. Dersom en **merknad** inneholder **flere sett med annoteringer spredt på flere sider**, vil det være **en kommentar per sett med annoteringer på hver side**.
 
 Følgjande topics er beskrivne i denne artikkelen:
 
 ## 1. **To arbeidsflyt**
 
-Når du vil påpeika noko i eit dokument, kan det vere ulike måtar å kommunisere dette med kollegaane dine.
+Når du vil påpeke noe i et dokument, kan det være ulike måter å kommunisere dette med kollegaene dine.
 
 Følgjande topics er beskrivne i denne delen:
 
-### 1.1 **Ein topic per merknad**
+### 1.1 **En topic per merknad**
 
-Kvar merknad med annoteringar blir kommunisert separat.
+Hver merknad med annoteringer blir kommunisert separat.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/02-one-topic-per-markup.png)
 
-Dette kan vere bra for merknader som kvar er rettleia til ein eller fleire personar. Ein topic kan då lagrast frå kvar merknad. Kvar topic kan deretter følgjast opp.
+Dette kan være bra for merknader som hver er rettet til en eller flere personer. En topic kan da lagres fra hver merknad. Hver topic kan deretter følges opp.
 
-### 1.2 **Alle merknader i ein topic**
+### 1.2 **Alle merknader i en topic**
 
-Hald all kommunikasjon om annoteringar du lagar på ein stad.
+Hold all kommunikasjon om annoteringer du lager på ett sted.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/03-all-markups-in-one-topic.png)
 
-Dette kan vere bra for merknader med generelle annoteringar som alle vil bli følgde opp av ein eller fleire personar. Ein topic bør då verte utarbeida der du kombinerer alle merknadane dine.
+Dette kan være bra for merknader med generelle annoteringer som alle vil bli fulgt opp av en eller flere personer. En topic bør da utarbeides der du kombinerer alle merknadene dine.
 
-## 2. **Opprette annoteringar**
+## 2. **Opprette annoteringer**
 
-Som før kan du opprette annoteringar ved å navigere til dokumentet i [dokumenttabellen](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_54e8dfcac2) og klikke på namnet for å sjå [dokumentvisinga](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader). Her kan du velje eit annoteringsverktøy frå verktøyraden. Klikk overalt i dokumentet for å opprette den første annoteringa og starte merknadaren din:
+Som før kan du opprette annoteringer ved å navigere til dokumentet i [dokumenttabellen](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_54e8dfcac2) og klikke på navnet for å se [dokumentvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader). Her kan du velge et annoteringsverktøy fra verktøyraden. Klikk overalt i dokumentet for å opprette den første annoteringen og starte merknaden din:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/04-creating-annotations.png)
 
 ## 3. **Merknader-fane**
 
-Etter at du har opprettet nokre annoteringar, vil du sjå at du har [ulagra merknader](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad) i [merknader-fanen i høgre informasjonspanel](https://support.catenda.com/nb/articles/10205725-hoyremeny-for-en-revisjon-merknader).
+Etter at du har opprettet noen annoteringer, vil du se at du har [ulagrede merknader](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad) i [merknader-fanen i høyre informasjonspanel](https://support.catenda.com/nb/articles/10205725-hoyremeny-for-en-revisjon-merknader).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/05-markups-tab.png)
 
 > **Merknad:** Når du først åpner et dokument, kan høyre meny være lukket. Du kan klikke på informasjonsknappen nederst til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) for å utvide denne menyen. <div> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/06-document-banner-information-button.png" width="400" > </div>
 
-### 3.1 **Fleire merknader på ein gong**
+### 3.1 **Flere merknader på en gang**
 
-La oss seie at denne merknadaren var rettleia mot arkitekten, men du vil og sende ut nokre endringar for den konstruktive ingenøren. Du kan då klikke på den nye merknad-knappen for å starte forberedinga av ei anna merknad. På dette tidspunktet kan du enno gå tilbake til den førre merknadaren din og redigere den førre merknadaren din
+La oss si at denne merknaden var rettet mot arkitekten, men du vil også sende ut noen endringer for den konstruktive ingeniøren. Du kan da klikke på den nye merknad-knappen for å starte forberedelsen av en annen merknad. På dette tidspunktet kan du fortsatt gå tilbake til den forrige merknaden din og redigere den forrige merknaden din
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/07-multiple-markups-at-once.png)
 
 ## 4. **Lagre merknader**
 
-Etter at du er ferdig med å redigere merknadane dine, kan du [lagre dei](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_8542b82cf8). Når du lagrar, vert ein kommentar oppretta for kvar sett av annoteringar på sida til ein revisjon
+Etter at du er ferdig med å redigere merknadene dine, kan du [lagre dem](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_8542b82cf8). Når du lagrer, blir en kommentar opprettet for hvert sett av annoteringer på siden til en revisjon
 
 Følgjande topics er beskrivne i denne delen:
 
-### 4.1 **Lagre kvar merknad til sin eigen topic**
+### 4.1 **Lagre hver merknad til sin egen topic**
 
-Dersom du klikkar [Lagre merknader](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_8542b82cf8), vil du opprette ein topic for kvar merknad.
+Dersom du klikker [Lagre merknader](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_8542b82cf8), vil du opprette en topic for hver merknad.
 
-Desse topicsa kan sjå noko sånn ut:
+Disse topicsene kan se noe sånt ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/08-save-each-markup-to-its-own-topic.png)
 
-Dersom det er annoteringar på fleire sider i dokumenta, vil det vere ein [kommentar](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) med eit skjermbilete av annoteringa for kvar side som inneheld annoteringar.
+Dersom det er annoteringer på flere sider i dokumentene, vil det være en [kommentar](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) med et skjermbilde av annoteringen for hver side som inneholder annoteringer.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/09-save-each-markup-to-its-own-topic.png)
 
-Du kan no tildele kvar topic til rett person slik at dei kan starte å gjere endringane.
+Du kan nå tildele hver topic til rett person slik at de kan starte å gjøre endringene.
 
-### 4.2 **Lagre alle merknader til ein topic**
+### 4.2 **Lagre alle merknader til en topic**
 
-Dersom du heller vil ha alle merknader i ein topic, kan du førebu ein topic og klikke på topic-veljar-nedtrekken og velje ein eksisterande topic.
+Dersom du heller vil ha alle merknader i en topic, kan du forberede en topic og klikke på topic-velger-nedtrekken og velge en eksisterende topic.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/10-br-save-all-markups-to-one-topic.png)
 
-Her vil du sjå topics der dokumentet [er blitt kopla](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_b00b9c5150) og dersom det er nokre [kommentarar](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) om denne revisjonen. Dersom det er annoteringar på fleire sider i dokumenta, vil det vere ein [kommentar](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) med eit skjermbilete av annoteringa for kvar side med annoteringar i kvar merknad.
+Her vil du se topics der dokumentet [har blitt koblet](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_b00b9c5150) og dersom det er noen [kommentarer](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) om denne revisjonen. Dersom det er annoteringer på flere sider i dokumentene, vil det være en [kommentar](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) med et skjermbilde av annoteringen for hver side med annoteringer i hver merknad.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/11-br-save-all-markups-to-one-topic.png)
 
-Dette er korleis topicen kan sjå ut når du lagrar fleire merknader til same topic:
+Dette er hvordan topicen kan se ut når du lagrer flere merknader til samme topic:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/12-br-save-all-markups-to-one-topic.png)
 
@@ -18633,42 +18635,42 @@ Dette er hvordan statusarbeidsflytmenyen på [dokumentinnstillingssiden](https:/
 
 Prosjekter som er opprettet basert på et [malprosjekt](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt#h_5db32e5398) og prosjekter som aktiverte delte revisjoner før 2. oktober 2025 vil se den gamle statusarbeidsflytmenyen.
 
-## 1. **Delte statusar**
+## 1. **Delte statuser**
 
-Aktiver delte statusar for å tilpasse seg ISO 19650 og konfigurer arbeidsflyter. Dette er hvordan statusarbeidsflytmenyen kan se ut etter at delte statusar er aktivert
+Aktiver delte statuser for å tilpasse seg ISO 19650 og konfigurer arbeidsflyter. Dette er hvordan statusarbeidsflytmenyen kan se ut etter at delte statuser er aktivert
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/02-shared-statuses.png)
 
-### 1.1 Aktivere delte statusar
+### 1.1 Aktivere delte statuser
 
-Som standard er det ein delt status med namnet «delt» som er konfigurert. Typiske publiserte statusar som blir lagt til er:
+Som standard er det en delt status med navnet «delt» som er konfigurert. Typiske publiserte statuser som blir lagt til er:
 
 - WIP - Blå
 - Arbeid pågår - Blå
 - Intern validering - Blå
 
-**Prosjektendringer**
+_Prosjektendringer_
 
-- Informasjon startar med eit minor revisjonstal: 0.1, 0.2, 1.1, osv...
-- Informasjon kan bli publisert for å få eit major revisjonstal: 1.0, 2.0, 3.0, osv...
-- Tilgangskontrollmenyen på dokumentsiden vil ha ein ekstra kolonne der tilgang til delte revisjoner og publiseringsrettar kan konfiguerast.
-- Delte og publiserte statusar - Ny informasjon sendt inn i den delte fasen.
+- Informasjon starter med et minor revisjonstall: 0.1, 0.2, 1.1, osv...
+- Informasjon kan bli publisert for å få et major revisjonstall: 1.0, 2.0, 3.0, osv...
+- Tilgangskontrollmenyen på dokumentsiden vil ha en ekstra kolonne der tilgang til delte revisjoner og publiseringsrettigheter kan konfigureres.
+- Delte og publiserte statuser - Ny informasjon sendt inn i den delte fasen.
 - Standard status er sett til «Delt».
-- Ein gjennomgangsmeny i dokumentinnstillingar dukkar opp.
-- Ein gjennomgangsfane til dokumentsiden dukkar opp.
+- En gjennomgangsmeny i dokumentinnstillinger dukker opp.
+- En gjennomgangsfane til dokumentsiden dukker opp.
 
-### 1.2 **Deaktivere delte statusar**
+### 1.2 **Deaktivere delte statuser**
 
-**Prosjektendringer**
+_Prosjektendringer_
 
-- Publiserte statusar - Ny informasjon sendt inn i den publiserte fasen.
+- Publiserte statuser - Ny informasjon sendt inn i den publiserte fasen.
 - Standard status er sett til «Ingen status».
 - Gjennomgangmenyen i dokumentinnstillingar er deaktivert.
 - Godkjenningssiden for dokumenter er deaktivert.<br>
 
-## 2. **Publiserte statusar**
+## 2. **Publiserte statuser**
 
-Som standard er det éin publisert status med namnet «publisert» som er konfigurert. Klikk på «Legg til status» for å leggje til fleire statusar. Typiske delte statusar som blir lagt til er:
+Som standard er det én publisert status med navnet «publisert» som er konfigurert. Klikk på «Legg til status» for å legge til flere statuser. Typiske delte statuser som blir lagt til er:
 
 - Publisert, med merknader - Lys grøn
 - Ventar - Gul
@@ -18676,51 +18678,51 @@ Som standard er det éin publisert status med namnet «publisert» som er konfig
 
 ## 3. **Legg til status**
 
-Du kan leggje til ein status ved å klikka på «Legg til status». Ein ny status kan ha ein farge og eit namn. Statusar kan anten leggjast til i lista over delte statusar eller i lista over publiserte statusar.
+Du kan legge til en status ved å klikke på «Legg til status». En ny status kan ha en farge og et navn. Statuser kan enten legges til i listen over delte statuser eller i listen over publiserte statuser.
 
-## 4. **Endre statusar**
+## 4. **Endre statuser**
 
-Status kan endrast ved å klikka på blyantikonet til høgre for statusen.
+Status kan endres ved å klikke på blyantikonet til høyre for statusen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/03-changing-statuses.png)
 
-Fargen og namnet på ein status kan endrast.
+Fargen og navnet på en status kan endres.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/04-changing-statuses.png)
 
 ### 4.1 **Sorteringsrekkjefølgje**
 
-Etter redigering klikkar du på pilene for å flytte statusen opp og ned i lista over statusar innan sin fase.
+Etter redigering klikker du på pilene for å flytte statusen opp og ned i listen over statuser innenfor sin fase.
 
-### 4.2 **Arkivering av statusar**
+### 4.2 **Arkivering av statuser**
 
-Statusar kan arkiverast ved å klikka på søpelbøtta-ikonet til høgre for statusen. Det er berre mogleg å arkivere og gjenopprette statusen innan same fase. Dersom statusen som no er arkivert var brukt på informasjon, vil statusen være synleg men gjennomstreka.
+Statuser kan arkiveres ved å klikke på søppelbøtte-ikonet til høyre for statusen. Det er bare mulig å arkivere og gjenopprette statusen innenfor samme fase. Dersom statusen som nå er arkivert var brukt på informasjon, vil statusen være synlig, men gjennomstreket.
 
-### 4.3 **Gjenopprette statusar**
+### 4.3 **Gjenopprette statuser**
 
-Arkiverte statusar kan alltid bli henta tilbake ved å klikka på "Vis arkiverte statusar". Her er alle arkiverte statusar viste og kan gjenopprettast.
+Arkiverte statuser kan alltid bli hentet tilbake ved å klikke på "Vis arkiverte statuser". Her er alle arkiverte statuser vist og kan gjenopprettes.
 
 ## 5. Standard status
 
-Statusen som blir vist som standard når publiseringshandlinga blir brukt for ein delt revisjon. Ein annan status kan framleis bli vald før publisering. Delte revisjoner kan òg bli publisert via [gjennomgangsførespurnader](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel). Avhengig av kva arbeidsflyt innsendar valde på vegne av sitt innsendar-team, når eit medlem gjer ein endelg validering på vegne av det endelege valideringsteamet vil statusen på det publiserte dokumentet endast basert på korleis arbeidsflytoppsettet er konfigurert.
+Statusen som blir vist som standard når publiseringshandlingen blir brukt for en delt revisjon. En annen status kan fremdeles bli valgt før publisering. Delte revisjoner kan også bli publisert via [gjennomgangsforespørsler](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel). Avhengig av hvilken arbeidsflyt innsenderen valgte på vegne av sitt innsender-team, når et medlem gjør en endelig validering på vegne av det endelige valideringsteamet, vil statusen på det publiserte dokumentet endres basert på hvordan arbeidsflytoppsettet er konfigurert.
 
 ## 6. Opplastingsmeny
 
-### 6.1 **Delte statusar aktivert**
+### 6.1 **Delte statuser aktivert**
 
-Dette er korleis opplastingsmenyen kan sjå ut når den publiserte og delte arbeidsflyten har blitt ber om å bli aktivert på eit prosjekt.
+Dette er hvordan opplastingsmenyen kan se ut når den publiserte og delte arbeidsflyten har blitt bedt om å bli aktivert på et prosjekt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/05-shared-statuses-enabled.png)
 
-Som standard er den standard delte statusen «Delt». Ein status frå lista over delte statusar kan bli vald før opplasting.
+Som standard er den standard delte statusen «Delt». En status fra listen over delte statuser kan bli valgt før opplasting.
 
-### 6.2 **Delte statusar deaktivert**
+### 6.2 **Delte statuser deaktivert**
 
-Dette er korleis opplastingsmenyen kan sjå ut når delte statusar er deaktiverte.
+Dette er hvordan opplastingsmenyen kan se ut når delte statuser er deaktivert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/06-shared-statuses-disabled.png)
 
-Som standard er den standard publiserte statusen «ingen status». Ein status frå lista over publiserte statusar kan bli vald før opplasting.
+Som standard er den standard publiserte statusen «ingen status». En status fra listen over publiserte statuser kan bli valgt før opplasting.
 
 # Statusarbeidsflyt - Dokumentinnstillinger - Eldre versjon
 
@@ -23416,7 +23418,7 @@ Når et prosjekt overføres til en utløpt status eller slettes manuelt, handlin
 
 ### 1.3 **Data på hjemmebane**
 
-Standardplattformdata er vert i sikre, etablerte regioner. Selv om gjeldende konfigurasjoner er sentraliserte, kan det finnes muligheter for å etablere databolig innenfor spesifikke geografiske lokasjoner for å samsvare med lokale juridiske krav. Organisasjoner med unike hosting- eller "hjemmebane"-behov oppfordres til å kontakte support på [support@catenda.com](mailto:support@catenda.com) for å diskutere mulige tekniske muligheter og konfigurasjoner.
+Standardplattformdata driftes i sikre, etablerte regioner. Selv om gjeldende konfigurasjoner er sentraliserte, kan det finnes muligheter for å etablere databolig innenfor spesifikke geografiske lokasjoner for å samsvare med lokale juridiske krav. Organisasjoner med unike hosting- eller "hjemmebane"-behov oppfordres til å kontakte support på [support@catenda.com](mailto:support@catenda.com) for å diskutere mulige tekniske muligheter og konfigurasjoner.
 
 ## 2. **Deling av data med personer utenfor prosjektet**
 
@@ -24344,7 +24346,7 @@ Etter hvert som nye funksjoner lanseres og feil rettes, oppdateres artikler med 
 
 **Nylige oppdateringer** [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)
 
-**Hovedside** [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknappar) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
+**Hovedside** [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
 
 **Saker** [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) [Saksbrødtekst](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg)
 
@@ -24445,7 +24447,7 @@ Etter hvert som nye funksjoner lanseres og feil fikses, oppdateres artikler med 
 
 ### 1.1 **Nye artikler:**
 
-_Kom i gang og Vanlige spørsmål_ [Dokumentadministrasjon i Catenda Hub](https://support.catenda.com/nb/articles/9775623-dokumentstyring-i-catenda-hub) [Brukerveiledning - Statusarbeidsflyt (ISO 19650)](https://support.catenda.com/nb/articles/9874698-ny-statusarbeidsflyt-iso-19650) [Hold styr på merknader med kommentarer](https://support.catenda.com/nb/articles/10210710-spor-annoteringar-med-merknader)
+_Kom i gang og Vanlige spørsmål_ [Dokumentadministrasjon i Catenda Hub](https://support.catenda.com/nb/articles/9775623-dokumentstyring-i-catenda-hub) [Brukerveiledning - Statusarbeidsflyt (ISO 19650)](https://support.catenda.com/nb/articles/9874698-ny-statusarbeidsflyt-iso-19650) [Hold styr på merknader med kommentarer](https://support.catenda.com/nb/articles/10210710-spor-annoteringer-med-merknader)
 
 _Nylige oppdateringer_ [Statusarbeidsflyt🖥️Delt ->✔️Publisert](https://support.catenda.com/nb/articles/9662473-statusarbeidsflyt-delt-publisert)
 
@@ -24465,7 +24467,7 @@ _Kom i gang_ [Lagring av filtre](https://support.catenda.com/nb/articles/8551755
 
 _Vanlige spørsmål_ [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) [Hvordan kan jeg invitere et medlem?](https://support.catenda.com/nb/articles/4670319-hvordan-kan-jeg-invitere-et-medlem) [Sorteringsrekkefølge for lister](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) [Sider uten tilgang](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
 
-_Hovedside_ [Flerfaktorautentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering) [Varselsfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknappar) [Prosjektsider](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Legge til brukere uten e-postinvitasjon](https://support.catenda.com/nb/articles/8434846-legge-til-brukere-uten-e-postinvitasjon) [Endre ditt foretrukne språk](https://support.catenda.com/nb/articles/4670248-endre-foretrukket-sprak)
+_Hovedside_ [Flerfaktorautentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering) [Varselsfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Prosjektsider](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Legge til brukere uten e-postinvitasjon](https://support.catenda.com/nb/articles/8434846-legge-til-brukere-uten-e-postinvitasjon) [Endre ditt foretrukne språk](https://support.catenda.com/nb/articles/4670248-endre-foretrukket-sprak)
 
 _Dashbord_ [Dashbordside](https://support.catenda.com/nb/articles/8212646-dashbord-side)
 
@@ -24870,7 +24872,7 @@ Når nye funksjoner lanseres og feil blir fikset, oppdateres artikler med endrin
 
 _Kontoadministrasjon_
 
-- [Kontoknapper](https://support.catenda.com/nb/articles/4670260-kontoknappar)
+- [Kontoknapper](https://support.catenda.com/nb/articles/4670260-kontoknapper)
 
 _Feilsøking_
 
@@ -25215,7 +25217,7 @@ De følgende sakene er beskrevet i denne delen:
 
 ### 1.1 **Nye artikler:**
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - [Hvordan tilgangsnivåer beregnes](https://support.catenda.com/nb/articles/15644094-hvordan-tilgangsnivaer-beregnes)
 - [Brukstilfeller for tilgangskontrollutplassering](https://support.catenda.com/nb/articles/15644249-bruk-av-tilgangskontroll-brukstilfeller)
@@ -25223,12 +25225,12 @@ De følgende sakene er beskrevet i denne delen:
 - [Opprette en ny modeleksport](https://support.catenda.com/nb/articles/15481038-opprette-en-ny-modeleksport)
 - [Innholdsside for modeleksport](https://support.catenda.com/nb/articles/15480883-modelleksportinnholdsside)
 
-**Brukstilfeller**
+_Brukstilfeller_
 
 - [Brukstilfeller for revisjonsnavn](https://support.catenda.com/nb/articles/15886912-bruk-av-revisjonsnavn)
 - [Revisjonblokker i navnkonvensjoner](https://support.catenda.com/nb/articles/15886483-revisionblokker-i-navngivningskonvensjoner)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Feilsøking for dokumentforhåndsvisning](https://support.catenda.com/nb/articles/13962654-feilsoking-for-dokumentforhandsvisning)
 - [Feilsøking for gjennomgangsfilforhåndsvisning](https://support.catenda.com/nb/articles/15286207-gjennomgang-av-godkjenningsfil-feilsoking)
@@ -25236,13 +25238,13 @@ De følgende sakene er beskrevet i denne delen:
 
 ### 1.2 **Artikler som har endret seg:**
 
-**Kontoadministrasjon**
+_Kontoadministrasjon_
 
 - [Opprette et team](https://support.catenda.com/nb/articles/4670264-opprette-et-team)
 - [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
 - [Pålogging og passord](https://support.catenda.com/nb/articles/10798891-palogging-og-passord)
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - [Oversikt over de viktigste hurtigtastene og grunnleggende kontroller](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller)
 - [Sakekropp - innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
@@ -25260,7 +25262,7 @@ De følgende sakene er beskrevet i denne delen:
 - [2D-plassering av saker - Catenda Site](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
 - [2D-viser - Catenda Site](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Feilsøking for opplastingsdialog for dokument](https://support.catenda.com/nb/articles/11070748-feilsoking-for-dialogboksen-last-opp-dokument)
 - [Feilsøking for Catenda Revit Plugin](https://support.catenda.com/nb/articles/14301534-feilsoking-for-catenda-revit-plugin)
@@ -25316,7 +25318,7 @@ De følgende sakene er beskrevet i denne delen:
 ### 4.1 Saker
 
 - **En ny visning for saker er lagt til: Kanban**<br>Organiser, filtrer og oppdater saker direkte på et Kanban-brett, noe som forbedrer problemhåndtering, oppgavehåndtering og teamsamarbeid i Catenda Hub. <br>Endre filtrene for å se ikke bare alle saker i en liste som med listevisningen, men se sakene i kolonner basert på de ulike filtrene som er tilgjengelige.<br>For eksempel en kolonne per tilordnet person slik at du ser saker tildelt personer ved siden av hverandre, eller en kolonne per status eller en kolonne for saker som forfaller i dag, forfaller innen en uke, forfaller om mer enn en uke og som er forfalt.
-- **Statistikksiden for saker**<br>har gjennomgått en visuell oppgradering som gjør den mer responsiv. Det er nå mulig å holde musepekeren hvor som helst på grafen for å se antall saker med ulike statusar på et gitt tidspunkt i prosjekttidslinjen i stedet for bare når graflinjen holdes over.
+- **Statistikksiden for saker**<br>har gjennomgått en visuell oppgradering som gjør den mer responsiv. Det er nå mulig å holde musepekeren hvor som helst på grafen for å se antall saker med ulike statuser på et gitt tidspunkt i prosjekttidslinjen i stedet for bare når graflinjen holdes over.
 
 ### 4.2 **Dokumenter**
 
@@ -25326,8 +25328,8 @@ De følgende sakene er beskrevet i denne delen:
 - **Fane for oversikt over dokumentrevisjoner** <br>Siden for gjennomganger har nå en dedikert "Dokumentrevisjoner"-fane som gir en fullstendig tabeloversikt over alle filer som for tiden gjennomgår gjennomgang i alle åpne gjennomganger. <br>Du kan nå søke, sortere og filtrere individuelle dokumentrevisjoner etter teamtilordning, vurderingstilstand og frist uten å måtte åpne hver gjennomgangspakke separat.
 - **Japansk lokalisering for gjennomganger**
 
-  Fullstendig japansk lokalisering har blitt implementert på tvers av gjennomgangsgrensesnittet og arbeidsflytkonfigurasjonsider.
-  Team som arbeider på japansk kan nå navigere gjennomgangskort, dokumentgjennomgangsverktøy og oppsettsmenyer med nøyaktig og konsistent lokalisert terminologi.
+    Fullstendig japansk lokalisering har blitt implementert på tvers av gjennomgangsgrensesnittet og arbeidsflytkonfigurasjonsider.
+    Team som arbeider på japansk kan nå navigere gjennomgangskort, dokumentgjennomgangsverktøy og oppsettsmenyer med nøyaktig og konsistent lokalisert terminologi.
 
 ### 4.3 **Prosjektinnstillinger**
 
@@ -25335,11 +25337,11 @@ De følgende sakene er beskrevet i denne delen:
 
 ## 5. **Nye utgivelser** - Programtillegg og integrasjoner
 
-**Catenda AI Connect** Catenda AI Connect er nå live og bringer avansert intelligens sømløst inn i dine eksisterende arbeidsflyter. Denne muligheten kan låses opp som en funksjonsutvidelse for eksisterende prosjektlisensjoner, eller bli forespurt direkte av eksterne prosjektmedlemmer. Kontakt kundestøttelaget vårt for å be om aktivering for arbeidsområdet ditt.
+_Catenda AI Connect_ Catenda AI Connect er nå live og bringer avansert intelligens sømløst inn i dine eksisterende arbeidsflyter. Denne muligheten kan låses opp som en funksjonsutvidelse for eksisterende prosjektlisensjoner, eller bli forespurt direkte av eksterne prosjektmedlemmer. Kontakt kundestøttelaget vårt for å be om aktivering for arbeidsområdet ditt.
 
-**Catenda dataeksport** Catenda dataeksport er nå tilgjengelig og gir fleksibel gjentakende eller engangsekstraksjon tilpasset din totale eksportstørrelse. Eksisterende klienter kan integrere denne muligheten på tvers av deres gjeldende prosjekter, mens eksterne prosjektmedlemmer kan forespørre frittstående tilgang. Ta kontakt med kundestøttelaget vårt for å konfigurere og aktivere denne funksjonen. Eksporter til Amazon S3 eller Azure Blob-lagring
+_Catenda dataeksport_ Catenda dataeksport er nå tilgjengelig og gir fleksibel gjentakende eller engangsekstraksjon tilpasset din totale eksportstørrelse. Eksisterende klienter kan integrere denne muligheten på tvers av deres gjeldende prosjekter, mens eksterne prosjektmedlemmer kan forespørre frittstående tilgang. Ta kontakt med kundestøttelaget vårt for å konfigurere og aktivere denne funksjonen. Eksporter til Amazon S3 eller Azure Blob-lagring
 
-**Tekla programtillegg v1.5.0** Støtte for Tekla 2026
+_Tekla programtillegg v1.5.0_ Støtte for Tekla 2026
 
 # Endringslogg 2 Catenda - Juli 2023
 
@@ -25981,130 +25983,6 @@ Nye funksjoner i 1.0.15
 
 > **Merknad:** Avinstallering av forrige versjon og installering av den nye versjonen er påkrevd for å bruke dette plugin.
 
-# Funksjonsstatusar Q2 2026
-
-For å forhindre varslingsspam og for å sikre en reibeløs lansering kan ny oppførsel eller endringar av eksisterande oppførsel rullerast ut gradvis og utan varsel. Dei som legg merke til endringar i oppførselen til ein del av ei side dei brukar ofte, eller dei som lurarer på kva som er nytt, kan konsultere desse artiklane for oppdateringar om nylige endringar i oppførselen for alle brukarar.
-
-Følgjande saker er beskrevne i denne artikkelen:
-
-## 1. **Nye funksjonar**
-
-Kvar brukar brukar plattformen annleis. Sjølv om ein ny funksjon vert gjeven ut eller endringar vert gjort på ein funksjon kan det vere at brukarar ikkje brukar den delen av funksjonen. For dei som er nysgjerrige på kva "den nye knappen" eller "den nye sida" er på plattformen inneheld denne artikkelen ei innleiing på kva endringa handlar om. For desse funksjonane er ofte berre grunnleggjande eller litt forelda støttemateriell tilgjengeleg då dette vert oppdatert undervegs. Saman med å hjelpe folk i støtte vert artiklane ofte oppdaterte, og viss spørsmål som vart stilte kan finnast forklarte raskt i ein artikkel neste veke.
-
-## 2. **Oppdaterte funksjonar**
-
-### 2.1 **Objektnamn i treepanel**
-
-Til no vart namn for dei nestla nivåa viste, men for objektet på det lågaste nivået vart eit autogenerert namn vist som:
-
-```
-WallStandardCase1.0WallStandardCase1.1WallStandardCase1.2
-```
-
-Standardoppførselen av dette har no endra til i staden å vise verdien i namnet på objektet som kan sjåast i inspeksjonspanelet slik:
-
-```
-Basic Wall:Exterior - Insul Panel on Mtl. Stud:140707Basic Wall:Exterior - Insul Panel on Mtl. Stud:140832Basic Wall:Exterior - Insul Panel on Mtl. Stud:140972
-```
-
-Ein ny modelrevijon må lastast opp for å kunne sjå skilnaden.
-
-Den tidlegare oppførselen med det autogenererte namnet, som kan vere nyttig, er bewart ved å klikke på tannhjulikonet mot øvre høgre hjørne av kvart modeltrjemeny.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/f63pyyrc/01-object-name-in-trees-panel.png)
-
-## 3. **Aktivering av etterspørde funksjonar**
-
-Kvar etterspørd funksjon er produksjonskvalitet og klar for ekte prosjektbruk. Sjølv om desse funksjonane har vorte testa for å fungere som dei skal, kan det vere variasjonar i kor mange prosjekt som har byrja å bruke desse funksjonane, så ukjende edge-case kan finnast. Medan endringar kan skje medan vi arbeider for å gjere desse funksjonane tilgjengelege for alle brukarar vil data som vert send inn i desse funksjonane ikkje bli sletta.
-
-### 3.1 **Førespurnad om aktivering av etterspørde funksjonar**
-
-Nokre funksjonar kan forespørsast aktiverte for eksisterande prosjekt av kontaktpersonen for Catenda-lisensen din medan andre kan aktiverast med ei innstilling i prosjektet. Når ein etterspørd funksjon forespørsast aktivert, vert eit møte sett opp med ein stødterepresentant for å diskutere gjeldande status for funksjonen. Viss eit prosjekt ikkje allereie er tilgjengeleg der den etterspørde funksjonen kan testast, kan eit dummyprosjekt opprettast for ei avgrensa tid der den etterspørde funksjonen kan testast for å vurdera om funksjonen er klar til bruk.
-
-### 3.2 **Rapportredigerar**
-
-Lag rapportmalar for saker og dokumenter slik at prosjektmedlemmar kan velja saker eller dokumenter frå tabellen og bruka rapporthandlinga for å generera ein rapport. Rapportsida er ein etterspørd funksjon som kan forespørsast aktivert for gjeldande prosjekt. Nye prosjekt som vert oppretta basert på eit malprosjekt der denne funksjonen er aktivert, har ikkje denne funksjonen aktivert. Separate malar kan opprettast for saker og dokumenter. Når ein mal er tilgjengeleg i eit prosjekt kan rapporthandlinga brukast med valde saker og dokumenter for å generera ein rapport basert på den valde malen. Støtte for korleis ulike verdiar kan visast på sida vert tilbode av Catenda. Viss du ønskjer ein tilpassa rapport skreiden til firmaet ditt kan vi få deg i kontakt med ein konsulent som kan hjelpa med dette.
-
-# Funksjonsstatusar Q3 2026
-
-For å unngå varselstøy og sikre ein smidig lansering kan ny åtferd eller endringar i eksisterande åtferd rollast ut gradvis og utan varsel. Dei som merkar endringar i åtferda på ein del av sida dei brukar ofte, eller dei som lurer på kva som er nytt, kan sjekke desse artiklane for oppdateringar om nyleg endringar i åtferda for alle brukarar.
-
-## 1. **Nye funksjonar**
-
-Kvar brukar brukar plattforma ulikt. Sjølv om ein ny funksjon blir lansert eller endringar blir gjort på ein funksjon, kan det vere at brukarar ikkje brukar den delen av funksjonen. For dei som er nysgjerrig på kva det er med "den nye knappen" eller "den nye sida" på plattforma, inneheld denne artikkelen ei introduksjon til kva endringa handlar om. For desse funksjonane er det ofte berre grunnleggjande eller litt utdatert støttemateriale tilgjengeleg, då det blir oppdatert medan vi held fram. Saman med å hjelpe folk i kundesupport blir artiklane ofte oppdaterte, og viss spørsmål som vart stilt, kan bli funne forklarte i ein artikkel neste veke.
-
-### 1.1 **Figma URL-lenke som utviklar seg i sakar**
-
-Råe URL-lenker og markdown-formaterte URL-lenker til Figma-kort utviklarar seg no og viser Figma-kortet i saksbeskrivingar og kommentarar.
-
-### 1.2 **Innstilling for kontospråk**
-
-Rumensk er no tilgjengeleg som brukargrensesnittspråk.
-
-### 1.3 **Kanban-visning for sakar**
-
-Ein ny kanban-visning er tilgjengeleg på sakssida. Finn ho mot øvre høgre hjørne av sakskortet ved siden av listevisning og tabelvisning. Organiser, filtrer og oppdater sakar direkte på eit Kanban-brett, og forbetrar problemhåndtering, oppgåvehåndtering og teamsamarbeid i Catenda Hub.
-
-### 1.4 **Catenda AI Connect**
-
-Catenda AI Connect er no live og bring avansert intelligens saumløst inn i dine eksisterande arbeidsflyter. Denne kapasiteten kan låsast opp som ein funksjonsutvidelse for eksisterande projektlisensar, eller bli førespurt direkte av eksterne projektmedlemmer. Kontakt kundesupport-teamet vårt for å be om aktivering av arbeidsstaden din.
-
-### 1.5 **Catenda Data Export**
-
-Catenda Data Export er no tilgjengeleg og gjev fleksibel gjentakande eller éin-gongs utdrag tilpassa den totale eksportstorleiken din. Eksisterande klientar kan integrere denne kapasiteten på tvers av sine noverande projekt, medan eksterne projektmedlemmer kan be om fritståande tilgang. Kontakt kundesupport-teamet vårt for å konfigurere og aktivere denne funksjonen. Eksporter til Amazon S3 eller Azure Blob-lagring
-
-### 1.6 **QR-kodar på PDF-teikninga**
-
-Eit QR-kodeverktøy er no tilgjengeleg i dokumentforhandsvisingsverktøylinja på delte revisjoner. Plasshalderen kan plasserast direkte på PDF-en i Catenda Hub. Tidlegare måtte plasshaldarbildet bli lasta ned frå Hjelpesenter og lagt til fila i ein PDF-editor før opplasting. Det er ikkje lenger nødvendig.
-
-_To vilkår gjeld:_ Verktøyet viser seg berre på delte revisjoner, så prosjektet må ha statusarbeidsflyt aktivert. Prosjekt der kvar opplasting blir publisert umiddelbart, har ikkje eit delt revisjonstrinn å plassere det på. Dokumentet må vere i ei mappe med Tilordna QR-kode sett til ja. Berre då blir plasshalderen gjenkjent ved publisering og byttet ut med ein skanbar Catenda QR-kode for den revisjonen.
-
-Plasshalderen er plassert på den delte revisjonen, og QR-koden blir generert når den revisjonen blir publisert. Dette fungerer både når publisering skjer frå dokumentseksjonen og når publisering skjer som del av ein gjennomgangsarbeidsflyt. QR-kodar blir plasserte ein dokumentom gangen. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/cdpo9DyYmZWxWvRUrR7LWb?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
-
-### 1.7 Tavlelenker vist i Hub
-
-Ein lenke til eit Figma-, FigJam- eller Miro-tavle kan plasserast i ei saksbeskrivning eller ein sakskommentar, og tavla blir då vist under teksten. Dette er tavla frå den eksterne tenesta, ikkje sakskortet som saka sjølv sit på. Legg til lenka på same måte som nokon annan lenke i markdown-editoren, anten som ein råe URL eller som ein markdown-formatert lenke. Tavla viser seg under beskrivinga eller kommentaren når ho blir lagra. Tavla blir berre vist til brukarar som allereie er logga inn på Figma eller Miro og som har tilgang til ho der. Catenda gjev ikkje tilgang, tilgangen blir kontrollert heilt i Figma eller Miro, så ein brukar utan tilgang ser ikkje noko tavleinnhald.
-
-### 1.8 **Dokumentlenking**
-
-Relaterte dokumenter kan nå lenkes til hverandre, både i dokumentområdet og i gjennomganger. Når du vurderer en arkitektonisk tegning, er de tilknyttede struktur-, installasjon- og dreneringsteagningene rett der, så det er ikke behov for å lete etter dem på tvers av mapper. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/gULz2n5GJ3SxmEY2qomnVR?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
-
-## 2. **Oppdaterte funksjonar**
-
-### 2.1 **Gjennomgangsforbetringar**
-
-Den nye valideringsflytane som vart frigjeven i Q3 2025, fortente litt meir kjærleik. Følgjande funksjonar har blitt lagt til som ein oppfølgjingsfrigjering til den nye gjennomgangsarbeidsflyten:
-
-**👁 [Synlegheit på status for den enkelte gjennomgangsansvarleg (3:14):](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** få eit raskt oversyn over kvar medlems aktivitet innan eit team tildelt eit gjennomgangstrinn, så du kan fjerne blokkeringar raskt. **[Pt. 2 Video (3:26)](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** **📄 [Dokument på tvers av alle opne gjennomgangar i ein visning (3:41):](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** sjå omedelbart dokumenta som treng di merksemd, utan å opne individuelle gjennomgangsførespurnader. **🖱 [Tilgang med eitt klikk til vurderingssida (2:05):](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** hopp direkte til vurderingssida og start med å vurdere. **✅ [Krev signering av alle teammedlemmer (3:20):](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** vere sikker på at kvart medlem av vurderingsteamet har vurdert dokumentet før det går vidare.
-
-_Gjennomgang av flere dokumenter samtidig_ Flere dokumenter i en gjennomgang kan nå gjennomgås og viderefølges i en omgang i stedet for en etter en. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/acnYCKQCh1WTWzs2i1D2GQ?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
-
-_Redigering av ein gjennomgangs tittel og beskrivning_ Tittelen og beskrivinga av ein gjennomgang kan no bli redigerte etter at ho har blitt sendt inn. Tidlegare var begge fastsette ved oppretting, så ein stavefeil eller ein tittel som ikkje lenger passa omfanget av førespurnaden, ville vere ein må leve med det heile livet til gjennomgangen, eller avbryte og starte på nytt. Redigering er begrenst til personen som opprett gjennomgangen, og til prosjektadministratorar. Å vere medlem av eit innsendar-team er det som tillét at ein gjennomgang kan opprettast, men det gjev ikkje retten til å redigere gjennomgangar oppretta av andre medlemmer av same team. Viss ein kollega opprett ho, er redigering ikkje tilgjengeleg, opprettar eller ein prosjektadministrator må gjere endringa.
-
-_Lange beskrivelser i gjennomgangsoversikten_ Lange gjennomgangsbeskrivelser håndteres bedre i gjennomgangsoversikten, slik at en lang beskrivelse ikke lenger skyver resten av informasjonen ut av sikten. En lang beskrivelse blir heller ikke avskåret lenger. Bruk Vis mer og Vis mindre for å utvide og skjule den.
-
-_Teams-kolonne i dokumenter-på-tvers-av-gjennomganger-tabellen_ Teams-kolonnen i tabellen over dokumenter på tvers av alle åpne gjennomganger er forbedret, noe som gjør det lettere å se hvilket team som forventes å handle på hvert dokument. Når et dokument har flere gjennomgangsteams, vises hver teammerkelapp nå tydelig i dokumentlisten.
-
-### 2.2 **Dokumentsamanlikning: samanlikn tekst, ikkje berre pikslar**
-
-Dokumentsamanlikning har no ein tekstsamanlikningmodus ved sida av den eksisterande overlagsmodus. Tekstsamanlikning les det faktiske tekstinnhaldet av to revisjoner og fremhever alle ordingsendringar, så ei spesifikasjon eller kontrakt kan bli kontrollert på sekund i staden for å bli lesen linje for linje. Overlagsmodus er uendra og heldt fast som det rette valet for teikninga og geometri, der ein pikslarsamanlikning er det som blir kravd. Begge modusa sit bak same Samanlikn-handling i dokumentvisaren, så modus som passar til dokumentet kan bli vald der. Samanlikning krev ein PDF med minst to revisjoner av same dokumentet. Knappen Samanlikn viser seg ved sida av revisjonsrullemenyen når desse vilkåra er møtte. Viss ho ikkje er synleg, er dokumentet anten ikkje ein PDF eller har berre ein revisjon. 📽️ **[Opplæringsvideo](https://eu.guidde.com/playbooks/9hrXCk2DMw75wrspDCvJDv?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
-
-### 2.3 **Prosjektmaler med gjennomgangsarbeidsflyten og saksmalene**
-
-Nye prosjekter opprettet fra et malprosekt inkluderer nå malprosektets gjennomgangsarbeidsflyten og saksmalene, slik at de ikke lenger trenger å settes opp på nytt i hvert nytt prosjekt. En gjennomgangsarbeidsflyt eller en saksmal kan også dupliseres, slik at en variant bare trenger de delene som er forskjellige endret i stedet for å bygges fra bunnen av. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/gZ36ivayHPwGhubAMgHKQq?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
-
-## 3. **Aktivering av funksjonar på førespørnad**
-
-Kvar funksjon på førespørnad er produksjonskvalitet og klar til reell projektbruk. Medan desse funksjonane har blitt testa for å fungere som dei skal, kan det vere variasjonar med omsyn til hvor mange projekt som har byrja å bruke desse funksjonane, så ukjende grensekasus kan bli funne. Medan endringar kan hende medan me arbeider for å gjere desse funksjonane tilgjengelege for alle brukarar, vil data som blir sendt inn i desse funksjonane ikkje bli sletta.
-
-### 3.1 **Be om at funksjonar på førespørnad blir aktiverte**
-
-Nokre funksjonar kan bli førespurte å bli aktiverte for eksisterande projekt av kontaktpersonen for Catenda-lisensa di medan andre kan bli aktiverte med ein innstilling i prosjektet. Når ein funksjon på førespørnad blir førespurt å bli aktivert, blir eit møte sett opp med ein kundesupport-representant for å diskutere den gjeldande statusen av funksjonen. Viss eit projekt ikkje allereie er tilgjengeleg der funksjonen på førespørnad kan bli testa, kan eit testprosjekt bli oppretta for ei avgrensa tid der funksjonen på førespørnad kan bli testa for å vurdera om funksjonen er klar til å bli brukt.
-
-### 3.2 **Rapportredaktør**
-
-Opprett rapportmalar for sakar og dokument så projektmedlemmer kan velja sakar eller dokument frå tabellen og bruke rapporthandlinga for å generere ein rapport. Rapportesida er ein funksjon på førespørnad som kan bli førespurt å bli aktivert for pågåande projekt. Nye projekt som blir opprett basert på eit malprosjekt der denne funksjonen er aktivert, har ikkje denne funksjonen aktivert. Eigne malar kan bli opprett for sakar og dokument. Når ein mal er tilgjengeleg i eit projekt, kan rapporthandlinga bli brukt med valde sakar og dokument for å generere ein rapport basert på den valde malen. Støtte for korleis ulike verdiar kan bli viste på sida, blir tilbode av Catenda. Viss du ynskjer ein rapport som er tilpassa firmaet ditt, kan me få deg i kontakt med ein konsulent som kan hjelpe med det.
-
 # Funksjonsstatuser Q1 2026
 
 For å forhindre varsler og sikre en jevn lansering kan ny oppførsel eller endringer i eksisterende oppførsel rulles ut gradvis og uten varsel. De som legger merke til endringer i oppførselen på en del av siden de bruker hyppig, eller de som lurer på hva som er nytt, kan konsultere disse artiklene for oppdateringer om nylige oppførselsendringer for alle brukere.
@@ -26161,6 +26039,50 @@ Noen funksjoner kan forespørres aktivert for eksisterende prosjekter av kontakt
 
 Opprett rapportmaler for saker og dokumenter slik at prosjektmedlemmer kan velge saker eller dokumenter fra tabellen og bruke rapporthandlingen for å generere en rapport. Rapportsiden er en etterspurt funksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Separate maler kan opprettes for saker og dokumenter. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen brukes med valgte saker og dokumenter for å generere en rapport basert på den valgte malen. Støtte for hvordan ulike verdier kan vises på siden tilbys av Catenda. Hvis du ønsker en egendefinert rapport tilpasset bedriften din, kan vi få deg i kontakt med en konsulent som kan hjelpe deg.
 
+# Funksjonsstatuser Q2 2026
+
+For å forhindre varslingsspam og for å sikre en sømløs lansering kan ny oppførsel eller endringer av eksisterende oppførsel rulles ut gradvis og uten varsel. De som legger merke til endringer i oppførselen til en del av en side de bruker ofte, eller de som lurer på hva som er nytt, kan konsultere disse artiklene for oppdateringer om nylige endringer i oppførselen for alle brukere.
+
+Følgjande saker er beskrevne i denne artikkelen:
+
+## 1. **Nye funksjonar**
+
+Hver bruker bruker plattformen annerledes. Selv om en ny funksjon blir gitt ut eller endringer blir gjort på en funksjon kan det være at brukere ikke bruker den delen av funksjonen. For de som er nysgjerrige på hva "den nye knappen" eller "den nye siden" er på plattformen inneholder denne artikkelen en innledning på hva endringen handler om. For disse funksjonene er ofte bare grunnleggende eller litt foreldet støttemateriell tilgjengelig da dette blir oppdatert underveis. Sammen med å hjelpe folk i støtte blir artiklene ofte oppdatert, og hvis spørsmål som ble stilt kan finnes forklart raskt i en artikkel neste uke.
+
+## 2. **Oppdaterte funksjonar**
+
+### 2.1 **Objektnamn i treepanel**
+
+Til nå ble navn for de nestede nivåene vist, men for objektet på det laveste nivået ble et autogenerert navn vist som:
+
+```
+WallStandardCase1.0WallStandardCase1.1WallStandardCase1.2
+```
+
+Standardoppførselen for dette er nå endret til i stedet å vise verdien i navnet på objektet som kan ses i inspeksjonspanelet slik:
+
+```
+Basic Wall:Exterior - Insul Panel on Mtl. Stud:140707Basic Wall:Exterior - Insul Panel on Mtl. Stud:140832Basic Wall:Exterior - Insul Panel on Mtl. Stud:140972
+```
+
+En ny modellrevisjon må lastes opp for å kunne se forskjellen.
+
+Den tidligere oppførselen med det autogenererte navnet, som kan være nyttig, er beholdt ved å klikke på tannhjulikonet øverst til høyre i hver modelltremeny.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/f63pyyrc/01-object-name-in-trees-panel.png)
+
+## 3. **Aktivering av etterspørde funksjonar**
+
+Hver etterspurt funksjon er produksjonskvalitet og klar for ekte prosjektbruk. Selv om disse funksjonene har blitt testet for å fungere som de skal, kan det være variasjoner i hvor mange prosjekter som har begynt å bruke disse funksjonene, så ukjente edge-case kan finnes. Mens endringer kan skje mens vi arbeider for å gjøre disse funksjonene tilgjengelige for alle brukere vil data som blir sendt inn i disse funksjonene ikke bli slettet.
+
+### 3.1 **Førespurnad om aktivering av etterspørde funksjonar**
+
+Noen funksjoner kan forespørres aktivert for eksisterende prosjekter av kontaktpersonen for Catenda-lisensen din mens andre kan aktiveres med en innstilling i prosjektet. Når en etterspurt funksjon forespørres aktivert, blir et møte satt opp med en støtterepresentant for å diskutere gjeldende status for funksjonen. Hvis et prosjekt ikke allerede er tilgjengelig der den etterspurte funksjonen kan testes, kan et dummyprosjekt opprettes for en begrenset tid der den etterspurte funksjonen kan testes for å vurdere om funksjonen er klar til bruk.
+
+### 3.2 **Rapportredigerar**
+
+Lag rapportmaler for saker og dokumenter slik at prosjektmedlemmer kan velge saker eller dokumenter fra tabellen og bruke rapporthandlingen for å generere en rapport. Rapportsiden er en etterspurt funksjon som kan forespørres aktivert for gjeldende prosjekt. Nye prosjekter som blir opprettet basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Separate maler kan opprettes for saker og dokumenter. Når en mal er tilgjengelig i et prosjekt kan rapporthandlingen brukes med valgte saker og dokumenter for å generere en rapport basert på den valgte malen. Støtte for hvordan ulike verdier kan vises på siden blir tilbudt av Catenda. Hvis du ønsker en tilpasset rapport skreddersydd til firmaet ditt kan vi få deg i kontakt med en konsulent som kan hjelpe med dette.
+
 # Funksjonsstatuser Q3 2025
 
 For å hindre varselstøy og sikre en jevn lansering kan ny atferd eller endringer i eksisterende atferd rulles ut gradvis og uten varsel. De som legger merke til endringer i atferden til en del av en side de bruker ofte, eller de som lurer på hva som er nytt, kan konsultere disse artiklene for oppdateringer om nylige endringer i atferd for alle brukere.
@@ -26205,6 +26127,86 @@ Søk på alt innhold fra din IFC med logikk. Objektsiden er en funksjon på fore
 ### 2.3 **Rapporteditor**
 
 Opprett rapportmaler for saker og dokumenter slik at prosjektmedlemmer kan velge saker eller dokumenter fra tabellen og bruke rapporthandlingen for å generere en rapport. Rapportsiden er en funksjon på forespørsel som kan bes om å aktiveres for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt hvor denne funksjonen er aktivert har ikke denne funksjonen aktivert. Separate maler kan opprettes for saker og dokumenter. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen brukes med valgte saker og dokumenter for å generere en rapport basert på den valgte malen. Støtte for hvordan ulike verdier kan vises på siden tilbys av Catenda. Hvis du ønsker en egendefinert rapport tilpasset bedriften din, kan vi få deg i kontakt med en konsulent som kan hjelpe med dette.
+
+# Funksjonsstatuser Q3 2026
+
+For å unngå varselstøy og sikre en smidig lansering kan ny atferd eller endringer i eksisterende atferd rulles ut gradvis og uten varsel. De som merker endringer i atferden på en del av siden de bruker ofte, eller de som lurer på hva som er nytt, kan sjekke disse artiklene for oppdateringer om nylige endringer i atferden for alle brukere.
+
+## 1. **Nye funksjonar**
+
+Hver bruker bruker plattformen ulikt. Selv om en ny funksjon blir lansert eller endringer blir gjort på en funksjon, kan det være at brukere ikke bruker den delen av funksjonen. For de som er nysgjerrige på hva det er med "den nye knappen" eller "den nye siden" på plattformen, inneholder denne artikkelen en introduksjon til hva endringen handler om. For disse funksjonene er det ofte bare grunnleggende eller litt utdatert støttemateriale tilgjengelig, da det blir oppdatert mens vi holder på. Sammen med å hjelpe folk i kundesupport blir artiklene ofte oppdatert, og spørsmål som ble stilt, kan bli funnet forklart i en artikkel neste uke.
+
+### 1.1 **Figma URL-lenke som utviklar seg i sakar**
+
+Råe URL-lenker og markdown-formaterte URL-lenker til Figma-kort utviklarar seg no og viser Figma-kortet i saksbeskrivingar og kommentarar.
+
+### 1.2 **Innstilling for kontospråk**
+
+Rumensk er nå tilgjengelig som brukergrensesnittspråk.
+
+### 1.3 **Kanban-visning for sakar**
+
+En ny kanban-visning er tilgjengelig på sakssiden. Finn den mot øvre høyre hjørne av sakskortet ved siden av listevisning og tabellvisning. Organiser, filtrer og oppdater saker direkte på et Kanban-brett, og forbedre problemhåndtering, oppgavehåndtering og teamsamarbeid i Catenda Hub.
+
+### 1.4 **Catenda AI Connect**
+
+Catenda AI Connect er nå live og bringer avansert intelligens sømløst inn i dine eksisterende arbeidsflyter. Denne kapasiteten kan låses opp som en funksjonsutvidelse for eksisterende prosjektlisenser, eller bli forespurt direkte av eksterne prosjektmedlemmer. Kontakt kundesupport-teamet vårt for å be om aktivering av arbeidsområdet ditt.
+
+### 1.5 **Catenda Data Export**
+
+Catenda Data Export er nå tilgjengelig og gir fleksible gjentakende eller engangs uttrekk tilpasset den totale eksportstørrelsen din. Eksisterende klienter kan integrere denne kapasiteten på tvers av sine nåværende prosjekter, mens eksterne prosjektmedlemmer kan be om frittstående tilgang. Kontakt kundesupport-teamet vårt for å konfigurere og aktivere denne funksjonen. Eksporter til Amazon S3 eller Azure Blob-lagring
+
+### 1.6 **QR-kodar på PDF-teikninga**
+
+Et QR-kodeverktøy er nå tilgjengelig i dokumentforhåndsvisningsverktøylinjen på delte revisjoner. Plassholderen kan plasseres direkte på PDF-en i Catenda Hub. Tidligere måtte plassholderbildet bli lastet ned fra Hjelpesenter og lagt til filen i en PDF-editor før opplasting. Det er ikke lenger nødvendig.
+
+_To vilkår gjelder:_ Verktøyet viser seg bare på delte revisjoner, så prosjektet må ha statusarbeidsflyt aktivert. Prosjekter der hver opplasting blir publisert umiddelbart, har ikke et delt revisjonstrinn å plassere det på. Dokumentet må være i en mappe med Tildel QR-kode satt til ja. Bare da blir plassholderen gjenkjent ved publisering og byttet ut med en skannbar Catenda QR-kode for den revisjonen.
+
+Plassholderen er plassert på den delte revisjonen, og QR-koden blir generert når den revisjonen blir publisert. Dette fungerer både når publisering skjer fra dokumentseksjonen og når publisering skjer som del av en gjennomgangsarbeidsflyt. QR-koder blir plassert ett dokument om gangen. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/cdpo9DyYmZWxWvRUrR7LWb?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
+### 1.7 Tavlelenker vist i Hub
+
+En lenke til en Figma-, FigJam- eller Miro-tavle kan plasseres i en saksbeskrivelse eller en sakskommentar, og tavlen blir da vist under teksten. Dette er tavlen fra den eksterne tjenesten, ikke sakskortet som saken selv sitter på. Legg til lenken på samme måte som enhver annen lenke i markdown-editoren, enten som en rå URL eller som en markdown-formatert lenke. Tavlen viser seg under beskrivelsen eller kommentaren når den blir lagret. Tavlen blir bare vist til brukere som allerede er logget inn på Figma eller Miro og som har tilgang til den der. Catenda gir ikke tilgang, tilgangen blir kontrollert helt i Figma eller Miro, så en bruker uten tilgang ser ikke noe tavleinnhold.
+
+### 1.8 **Dokumentlenking**
+
+Relaterte dokumenter kan nå lenkes til hverandre, både i dokumentområdet og i gjennomganger. Når du vurderer en arkitektonisk tegning, er de tilknyttede struktur-, installasjon- og dreneringsteagningene rett der, så det er ikke behov for å lete etter dem på tvers av mapper. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/gULz2n5GJ3SxmEY2qomnVR?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
+## 2. **Oppdaterte funksjonar**
+
+### 2.1 **Gjennomgangsforbetringar**
+
+De nye valideringsflytene som ble frigitt i Q3 2025, fortjente litt mer kjærlighet. Følgende funksjoner har blitt lagt til som en oppfølgingsutgivelse til den nye gjennomgangsarbeidsflyten:
+
+**👁 [Synlighet på status for den enkelte gjennomgangsansvarlige (3:14):](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** få en rask oversikt over hvert medlems aktivitet innen et team tildelt et gjennomgangstrinn, så du kan fjerne blokkeringer raskt. **[Pt. 2 Video (3:26)](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** **📄 [Dokumenter på tvers av alle åpne gjennomganger i én visning (3:41):](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** se umiddelbart dokumentene som trenger din oppmerksomhet, uten å åpne individuelle gjennomgangsforespørsler. **🖱 [Tilgang med ett klikk til vurderingssiden (2:05):](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** hopp direkte til vurderingssiden og start med å vurdere. **✅ [Krev signering av alle teammedlemmer (3:20):](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** vær sikker på at hvert medlem av vurderingsteamet har vurdert dokumentet før det går videre.
+
+_Gjennomgang av flere dokumenter samtidig_ Flere dokumenter i en gjennomgang kan nå gjennomgås og viderefølges i en omgang i stedet for en etter en. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/acnYCKQCh1WTWzs2i1D2GQ?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
+_Redigering av en gjennomgangs tittel og beskrivelse_ Tittelen og beskrivelsen av en gjennomgang kan nå bli redigert etter at den har blitt sendt inn. Tidligere var begge fastsatt ved oppretting, så en stavefeil eller en tittel som ikke lenger passet omfanget av forespørselen, ville være noe man måtte leve med hele livet til gjennomgangen, eller avbryte og starte på nytt. Redigering er begrenset til personen som opprettet gjennomgangen, og til prosjektadministratorer. Å være medlem av et innsender-team er det som tillater at en gjennomgang kan opprettes, men det gir ikke retten til å redigere gjennomganger opprettet av andre medlemmer av samme team. Hvis en kollega opprettet den, er redigering ikke tilgjengelig, oppretteren eller en prosjektadministrator må gjøre endringen.
+
+_Lange beskrivelser i gjennomgangsoversikten_ Lange gjennomgangsbeskrivelser håndteres bedre i gjennomgangsoversikten, slik at en lang beskrivelse ikke lenger skyver resten av informasjonen ut av sikten. En lang beskrivelse blir heller ikke avskåret lenger. Bruk Vis mer og Vis mindre for å utvide og skjule den.
+
+_Teams-kolonne i dokumenter-på-tvers-av-gjennomganger-tabellen_ Teams-kolonnen i tabellen over dokumenter på tvers av alle åpne gjennomganger er forbedret, noe som gjør det lettere å se hvilket team som forventes å handle på hvert dokument. Når et dokument har flere gjennomgangsteams, vises hver teammerkelapp nå tydelig i dokumentlisten.
+
+### 2.2 **Dokumentsammenligning: sammenlign tekst, ikke bare piksler**
+
+Dokumentsammenligning har nå en tekstsammenligningsmodus ved siden av den eksisterende overleggsmodusen. Tekstsammenligning leser det faktiske tekstinnholdet i to revisjoner og fremhever alle ordendringer, så en spesifikasjon eller kontrakt kan bli kontrollert på sekunder i stedet for å bli lest linje for linje. Overleggsmodus er uendret og forblir det rette valget for tegninger og geometri, der en pikselsammenligning er det som kreves. Begge modusene sitter bak samme Sammenlign-handling i dokumentviseren, så modusen som passer til dokumentet kan bli valgt der. Sammenligning krever en PDF med minst to revisjoner av samme dokument. Knappen Sammenlign viser seg ved siden av revisjonsrullemenyen når disse vilkårene er oppfylt. Hvis den ikke er synlig, er dokumentet enten ikke en PDF eller har bare én revisjon. 📽️ **[Opplæringsvideo](https://eu.guidde.com/playbooks/9hrXCk2DMw75wrspDCvJDv?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
+### 2.3 **Prosjektmaler med gjennomgangsarbeidsflyten og saksmalene**
+
+Nye prosjekter opprettet fra et malprosekt inkluderer nå malprosektets gjennomgangsarbeidsflyten og saksmalene, slik at de ikke lenger trenger å settes opp på nytt i hvert nytt prosjekt. En gjennomgangsarbeidsflyt eller en saksmal kan også dupliseres, slik at en variant bare trenger de delene som er forskjellige endret i stedet for å bygges fra bunnen av. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/gZ36ivayHPwGhubAMgHKQq?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
+## 3. **Aktivering av funksjonar på førespørnad**
+
+Hver funksjon på forespørsel er produksjonskvalitet og klar til reell prosjektbruk. Mens disse funksjonene har blitt testet for å fungere som de skal, kan det være variasjoner med hensyn til hvor mange prosjekter som har begynt å bruke disse funksjonene, så ukjente grensetilfeller kan bli funnet. Mens endringer kan skje mens vi arbeider for å gjøre disse funksjonene tilgjengelige for alle brukere, vil data som blir sendt inn i disse funksjonene ikke bli slettet.
+
+### 3.1 **Be om at funksjonar på førespørnad blir aktiverte**
+
+Noen funksjoner kan bli forespurt å bli aktivert for eksisterende prosjekter av kontaktpersonen for Catenda-lisensen din, mens andre kan bli aktivert med en innstilling i prosjektet. Når en funksjon på forespørsel blir forespurt å bli aktivert, blir et møte satt opp med en kundesupport-representant for å diskutere den gjeldende statusen til funksjonen. Hvis et prosjekt ikke allerede er tilgjengelig der funksjonen på forespørsel kan bli testet, kan et testprosjekt bli opprettet for en begrenset tid der funksjonen på forespørsel kan bli testet for å vurdere om funksjonen er klar til å bli brukt.
+
+### 3.2 **Rapportredaktør**
+
+Opprett rapportmaler for saker og dokumenter så prosjektmedlemmer kan velge saker eller dokumenter fra tabellen og bruke rapporthandlingen for å generere en rapport. Rapportsiden er en funksjon på forespørsel som kan bli forespurt å bli aktivert for pågående prosjekter. Nye prosjekter som blir opprettet basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Egne maler kan bli opprettet for saker og dokumenter. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen bli brukt med valgte saker og dokumenter for å generere en rapport basert på den valgte malen. Støtte for hvordan ulike verdier kan bli vist på siden, blir tilbudt av Catenda. Hvis du ønsker en rapport som er tilpasset firmaet ditt, kan vi sette deg i kontakt med en konsulent som kan hjelpe med det.
 
 # Funksjonsstatuser Q4 2025
 
@@ -26440,7 +26442,7 @@ Den nye modelltabellen kan se slik ut:
 
 Modellisten har kolonner som viser det meste av informasjonen du trenger å vite om modellene dine.
 
-_Navn_ Namnet på modell-dokumentet. Modellnavnet er også navnet du vil se i revisjonsvelgeren i 3D-visningen.
+_Navn_ Navnet på modell-dokumentet. Modellnavnet er også navnet du vil se i revisjonsvelgeren i 3D-visningen.
 
 _Dokumentnavn_ Navnet på dokument-modellen i dokumentdelen
 
@@ -26474,13 +26476,13 @@ _Laste ned en modellrevisjon_ Du trenger minst lesetilgang til dokument-modellen
 
 En meny for informasjon til høyre vil være tilgjengelig hvis en modell er valgt.
 
-_Dokumentfelt_ I denne menyen vil du se modellinformasjonen din samt et grått felt som lenker til dokument-modellen i dokumentdelen som er lenket til denne modell-dokumenten. Klikk på dokumentfeltet for å åpne dokument-modellen som er lenket til denne modellen.
+**Dokumentfelt** I denne menyen vil du se modellinformasjonen din samt et grått felt som lenker til dokument-modellen i dokumentdelen som er lenket til denne modell-dokumenten. Klikk på dokumentfeltet for å åpne dokument-modellen som er lenket til denne modellen.
 
-_Modellmerkelapper_ Du kan nå også legge til merkelapper i modellene dine her.
+**Modellmerkelapper** Du kan nå også legge til merkelapper i modellene dine her.
 
-_Modellstatus_ Hvis statusar har blitt konfigurert i dokumentinnstillinger, vil du kunne konfigurere en status for modellen din her.
+**Modellstatus** Hvis statuser har blitt konfigurert i dokumentinnstillinger, vil du kunne konfigurere en status for modellen din her.
 
-_Modelltransformasjon_ Hvis du har åpnet denne modellen i 3D, vil du kunne konfigurere modelltransformasjon her.
+**Modelltransformasjon** Hvis du har åpnet denne modellen i 3D, vil du kunne konfigurere modelltransformasjon her.
 
 ## 4. **Endringer i dokumentdelen**
 
@@ -26653,7 +26655,7 @@ Nye funksjoner i 1.0.8
 
 > Varsle brukere manuelt når det er nødvendig og viktig.
 
-Finn ShareLink-knappen mot [øvre høyre hjørne av siden](https://support.catenda.com/nb/articles/4670260-kontoknappar#h_7e60f1b700) ved siden av profilbildet ditt.
+Finn ShareLink-knappen mot [øvre høyre hjørne av siden](https://support.catenda.com/nb/articles/4670260-kontoknapper#h_7e60f1b700) ved siden av profilbildet ditt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/01-intro.png)
 

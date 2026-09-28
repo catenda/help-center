@@ -70,7 +70,7 @@ Etter at du har koblet til en MFA-kode, kan du trygt redigere kontonavnet på ko
 
 _Google Authenticator_
 
-1. Langtast på koden
+1. Trykk lenge på koden
 1. Klikk på blyanten øverst til høyre for å endre navnet.
 
 _Microsoft Authenticator_
@@ -128,7 +128,7 @@ Etter at du har deaktivert koden på Catenda Hub, vil koden forbli på applikasj
 
 _Google Authenticator_
 
-1. Langtast på koden
+1. Trykk lenge på koden
 1. Klikk på søppelikonen øverst til høyre.
 
 _Microsoft Authenticator_

@@ -1,6 +1,6 @@
 # Handlinger i saksrelatert tabell
 
-Handlingsknappar kan finnast på ulike stader på [sakssida](https://support.catenda.com/nb/articles/4670271-sakside) avhengig av val av sak og tilgangsinstellingar du har. Alle handlingsknappar vil verta listet opp i handlingsmenyane som kan sjå slik ut:
+Handlingsknapper kan finnes på ulike steder på [sakssiden](https://support.catenda.com/nb/articles/4670271-sakside) avhengig av valg av sak og tilgangsinnstillinger du har. Alle handlingsknapper vil bli listet opp i handlingsmenyene som kan se slik ut:
 
 ![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/01-intro.png)
 
@@ -8,31 +8,33 @@ Følgjande saker er beskrivne i denne artikkelen:
 
 ## 1. **Nye elementhandlingar**
 
-Plussknappen og handlingsmenyelementa kan finnast mot øvre høgre hjørne av sida og kan sjå slik ut:
+Plussknappen og handlingsmenyelementene kan finnes mot øvre høyre hjørne av siden og kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/02-new-item-actions.png)
 
-Handlingane du finn her er alle knytte til å skapa ny informasjon. [Handlingar for valde element](#h_b5c00c149b) som gjeld eksisterande element på sida kan òg finnast mot toppen av tabellen etter at du har gjort eit val.
+Handlingene du finner her er alle knyttet til å skape ny informasjon. [Handlinger for valgte elementer](#h_b5c00c149b) som gjelder eksisterende elementer på siden kan også finnes mot toppen av tabellen etter at du har gjort et valg.
+
+Følgjande saker er beskrivne i denne delen:
 
 ### 1.1 **Ny sak**
 
-Klikk [her](https://support.catenda.com/nb/articles/4670268-opprett-en-ny-sak) for å lesa meir om å oppretta ei ny sak _Tilgang påkravd:_ Skrive- eller full tilgang i ei saksliste
+Klikk [her](https://support.catenda.com/nb/articles/4670268-opprett-en-ny-sak) for å lese mer om å opprette en ny sak _Tilgang påkrevd:_ Skrive- eller full tilgang i en saksliste
 
 ### 1.2 **Utveksle saker**
 
-Med utveksling kan du importera og exportera saker. _Tilgjengelege importfilformat er:_ BCF _Tilgjengelege exportfilformat er:_ BCF, Excel, PDF Les meir om å utveksle saker [her](https://support.catenda.com/nb/articles/4670289-utveksle-saker) _Tilgang påkravd:_ Les-tilgang til ei saksliste
+Med utveksling kan du importere og eksportere saker. _Tilgjengelige importfilformater er:_ BCF _Tilgjengelige eksportfilformater er:_ BCF, Excel, PDF Les mer om å utveksle saker [her](https://support.catenda.com/nb/articles/4670289-utveksle-saker) _Tilgang påkrevd:_ Lesetilgang til en saksliste
 
-> **Merknad:** Eksportering av saker er berre mogleg i éi saksliste og vil ikkje vera tilgjengeleg i lista over alle saker.
+> **Merknad:** Eksportering av saker er bare mulig i én saksliste og vil ikke være tilgjengelig i listen over alle saker.
 
 ### 1.3 **Historikk**
 
-**Importhistorikk** Dette viser sakene som har blitt importert og kvar dei har blitt lasta opp.
+_Importhistorikk_ Dette viser sakene som har blitt importert og hvor de har blitt lastet opp.
 
-**Exporthistorikk** Dette viser exporthistorikken inne i saker. Du kan òg lasta ned exportane frå her, PDF-, Excel- og BCF-rapportar.
+_Eksporthistorikk_ Dette viser eksporthistorikken inne i saker. Du kan også laste ned eksportene herfra, PDF-, Excel- og BCF-rapporter.
 
-**Flytthistorikk** Dette viser sakene som har blitt flytta og kvar dei har blitt flytta til på tvers av alle sakslistene i prosjektet.
+_Flyttehistorikk_ Dette viser sakene som har blitt flyttet og hvor de har blitt flyttet til på tvers av alle sakslistene i prosjektet.
 
-## 2. **Handlingar for valde element**
+## 2. **Handlinger for valgte elementer**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/03-selected-item-actions.png)
 
@@ -40,55 +42,55 @@ Følgjande saker er beskrivne i denne delen:
 
 ### 2.1 **Kopier lenke**
 
-Med kopier lenke-handlinga kan ei lenke som berre viser dei valde tabelradene kopierast. Klikk [her](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp) for å læra meir om å kopiera lenker.
+Med kopier lenke-handlingen kan en lenke som bare viser de valgte tabellradene kopieres. Klikk [her](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp) for å lære mer om å kopiere lenker.
 
 ### 2.2 **Eksporter saker**
 
-Med eksporter saker-handlinga kan du exportera sak(ar).
+Med eksporter saker-handlingen kan du eksportere sak(er).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/04-export-topics.png)
 
-Eksporter saker-handlinga vil opna [exportdialoggboksen for saker](https://support.catenda.com/nb/articles/4670289-utveksle-saker). Her kan du exportera alle saker i lista, filtrerte saker og valde saker. _Tilgjengelege filformat er:_ BCF, Excel, [PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf)
+Eksporter saker-handlingen vil åpne [eksportdialogboksen for saker](https://support.catenda.com/nb/articles/4670289-utveksle-saker). Her kan du eksportere alle saker i listen, filtrerte saker og valgte saker. _Tilgjengelige filformater er:_ BCF, Excel, [PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf)
 
-> **Merknad:** Det er berre mogleg å exportera saker frå éi saksliste om gongen. Alternativet kan derfor forsvinna viss du vel saker frå fleire sakslistor i lista over alle saker.
+> **Merknad:** Det er bare mulig å eksportere saker fra én saksliste om gangen. Alternativet kan derfor forsvinne hvis du velger saker fra flere sakslister i listen over alle saker.
 
 ### 2.3 **Lag rapport**
 
-Rapporteringsverktøyet kan monterast på pasis per prosjekt. Med lag rapport-handlinga kan du laga ein rapport over dei valdeSakene dine. _Tilgang påkravd:_ Les-tilgang til ei saksliste
+Rapporteringsverktøyet kan monteres på basis per prosjekt. Med lag rapport-handlingen kan du lage en rapport over de valgte sakene dine. _Tilgang påkrevd:_ Lesetilgang til en saksliste
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Dette alternativet er tilgjengeleg når saker frå fleire sakslistor er valde. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å læra meir om å laga rapportar.
+Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å lære mer om å lage rapporter.
 
 ### 2.4 **Følg**
 
-Med følg-handlinga kan den valde saka følgjast.
+Med følg-handlingen kan den valgte saken følges.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
 
-> **Merknad 1:** Viss du tidlegare har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9), stilt in som [begjærar](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7), eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) i saka, vil du automatisk følgja saka. **Merknad 2:** Viss ei sak du følgjer blir flytta til ei saksliste du ikkje har tilgang til, vil du framleis følgja henne, men vil ikkje lenger få varslingar om ho.
+> **Merknad 1:** Hvis du tidligere har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9), satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7), eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) i saken, vil du automatisk følge saken. **Merknad 2:** Hvis en sak du følger blir flyttet til en saksliste du ikke har tilgang til, vil du fortsatt følge den, men vil ikke lenger få varslinger om den.
 
-**Varslingar på følgde saker** Å følgja ei sak handlar om varslingar. Medlemmar som følgjer ei sak får varslingar om endringar som blir gjort på saka. Når ei sak blir oppretta, får alle medlemmar med tilgang til sakslistakvar ho blir oppretta, ein varsling om at saka er oppretta. Fordi dette generer mange varslingar, har mange slått av denne typen varsling i innstillingane sine. Etter opprettinga vil medlemmar som ikkje har noko med saka å gjøra ikkje få varslingar vidare om framtidsmessige hendelsar som kommentarar og endringar i nokon av felten i sakshauaden. Å følgja ei sak gjer det slik at desse varslingane blir sendt ut.
+_Varslinger på fulgte saker_ Å følge en sak handler om varslinger. Medlemmer som følger en sak får varslinger om endringer som blir gjort på saken. Når en sak blir opprettet, får alle medlemmer med tilgang til sakslisten der den blir opprettet, en varsling om at saken er opprettet. Fordi dette genererer mange varslinger, har mange slått av denne typen varsling i innstillingene sine. Etter opprettelsen vil medlemmer som ikke har noe med saken å gjøre ikke få varslinger videre om fremtidige hendelser som kommentarer og endringer i noen av feltene i sakshodet. Å følge en sak gjør at disse varslingene blir sendt ut.
 
-**Slutt å følgja** Medlemmar som følgjer ei sak kan bruka handlinga "slutt å følgja" for å slutta å følgja saka, sjølv om dei var dei som oppretta saka.
+_Slutt å følge_ Medlemmer som følger en sak kan bruke handlingen "slutt å følge" for å slutte å følge saken, selv om de var de som opprettet saken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/07-follow.png)
 
-Etter at du har slutta å følgja, blir ikkje varslingar om saksendringar som nye kommentarar eller endringar i sakshauadefeld sendt til medlemmane som slutta å følgja. _Tilgang påkravd:_ Les-tilgang til saklista som saka er i
+Etter at du har sluttet å følge, blir ikke varslinger om saksendringer som nye kommentarer eller endringer i sakshodefelt sendt til medlemmene som sluttet å følge. _Tilgang påkrevd:_ Lesetilgang til sakslisten som saken er i
 
-**Få andre medlemmar til å følgja** [Tildeling](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) av ein medlem til ei sak gjer at dei automatisk følgjer saka. Å stilla ein medlem in som [begjærar](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) av ei sak gjer at dei automatisk følgjer saka. Fordi saksskaparen er stilt in som [begjærar](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) som standard ved opprettinga av saka, følgjer dei typisk saker dei har oppretta. [Omtaling](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) av ein medlem i ei sak gjer at dei automatisk følgjer saka.
+_Få andre medlemmer til å følge_ [Tildeling](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) av et medlem til en sak gjør at de automatisk følger saken. Å sette et medlem som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) av en sak gjør at de automatisk følger saken. Fordi saksskaperen er satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) som standard ved opprettelsen av saken, følger de typisk saker de har opprettet. [Omtale](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) av et medlem i en sak gjør at de automatisk følger saken.
 
-> **Merknad:** Medan begjærar, tildelte og omtalte medlemmar blir sette som fylgjarar, gjeld ikkje det same for medlemmar av team som er sette som begjærar, tildelingar eller omtalt i saka. I dette tilfellet blir det sendt ein eingangsvarsl ing som seier at eit team dei er medlem av har blitt sett som begjærar, tildeling eller omtalt, men medlemmane i teamet blir då ikkje sette som fylgjarar til saka.
+> **Merknad:** Mens begjærer, tildelte og omtalte medlemmer blir satt som følgere, gjelder ikke det samme for medlemmer av team som er satt som begjærer, tildelinger eller omtalt i saken. I dette tilfellet blir det sendt en engangsvarsling som sier at et team de er medlem av har blitt satt som begjærer, tildeling eller omtalt, men medlemmene i teamet blir da ikke satt som følgere til saken.
 
-**Manuell fylgjing** Viss ein annan medlem har laga ei sak som verkar uavhengig for ein medlem, men dei er interessert og vil sjå korleis saka utviklar seg, kan saka følgjast for å få varslingar. Andre medlemmar kan ikkje sjå kven som har følgt ei sak. Dette gjer berre at frå då av blir varslingar sendt ut om endringar i saka til medlemmane som følgjer.
+_Manuell følging_ Hvis et annet medlem har laget en sak som virker uavhengig for et medlem, men de er interessert og vil se hvordan saken utvikler seg, kan saken følges for å få varslinger. Andre medlemmer kan ikke se hvem som har fulgt en sak. Dette gjør bare at fra da av blir varslinger sendt ut om endringer i saken til medlemmene som følger.
 
-Tilfelle der ein medlem ikkje følgjer ei sak kan vera i saker der dei ikkje har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c).
+Tilfeller der et medlem ikke følger en sak kan være i saker der de ikke har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c).
 
-**Slutt å følgja** Viss du ikkje ønskjer å få varslingar om framtidsutvikling av denne saka, kan du slutta å følgja ho ved å klikka på slutt å følgja.
+_Slutt å følge_ Hvis du ikke ønsker å få varslinger om fremtidig utvikling av denne saken, kan du slutte å følge den ved å klikke på slutt å følge.
 
 ### 2.5 **Flytt sak**
 
-Med denne handlinga kan saka flyttast til ein annan saksliste.
+Med denne handlingen kan saken flyttes til en annen saksliste.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/08-move-topic.png)
 
@@ -96,22 +98,22 @@ _Tilgang påkravd:_ Prosjektadministrator
 
 ### 2.6 **Slett sak**
 
-Med ei sak vald kan slett-handlinga brukast til å sletta ei vald sak.
+Med en sak valgt kan slett-handlingen brukes til å slette den valgte saken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/09-delete-topic.png)
 
 _Tilgang påkravd:_ Full tilgang til sakslisttabellen eller saksskapar
 
-Det er berre mogleg å sletta éi sak om gongen, så denne handlinga blir berre vist i handlingslista viss ei og berre ei sak er vald. Sletting av saka fjernar ho fullstendig frå prosjektet. I stadleggjering kan du i stadleggjering anten gemma eller arkivera saka for å slå ho av for prosjektmedlemmane.
+Det er bare mulig å slette én sak om gangen, så denne handlingen blir bare vist i handlingslisten hvis én og bare én sak er valgt. Sletting av saken fjerner den fullstendig fra prosjektet. I stedet for sletting kan du enten skjule eller arkivere saken for å deaktivere den for prosjektmedlemmene.
 
-**Gjemming eller arkivering mot sletting** Ved å gemma eller arkivera ei sak blir dataa lagra i prosjektet. For å gemma ei sak kan du flytta ho til ein annan saksliste. Tilgang kan avgjerast per saksliste. _Tilgang påkravd for å avgjerda tilgang til ei saksliste:_ Full tilgang til sakslisten
+_Skjuling eller arkivering fremfor sletting_ Ved å skjule eller arkivere en sak blir dataene lagret i prosjektet. For å skjule en sak kan du flytte den til en annen saksliste. Tilgang kan bestemmes per saksliste. _Tilgang påkrevd for å bestemme tilgang til en saksliste:_ Full tilgang til sakslisten
 
-Utan tilgang til ei sak vil knytte element som dokument og objekt framleis visa at ei sak som var knytt til dei finst, men brukaren må ha tilgang til sakslistta for å sjå innhaldet hennar.
+Uten tilgang til en sak vil knyttede elementer som dokument og objekt fortsatt vise at en sak som var knyttet til dem finnes, men brukeren må ha tilgang til sakslisten for å se innholdet i den.
 
-For å fullstendig gemma ei sak frå prosjektmedlemmane slik at ho ikkje lenger viser opp i knytte element, kan ho flyttest til ei liste som deretter blir arkivert. Saker i arkiverte sakslistor viser ikkje lenger opp i knytte element som dokument og objekt. _Tilgang påkravd for å arkivera ei saksliste:_ Full tilgang til sakslisten
+For å skjule en sak fullstendig fra prosjektmedlemmene slik at den ikke lenger vises i knyttede elementer, kan den flyttes til en liste som deretter blir arkivert. Saker i arkiverte sakslister vises ikke lenger i knyttede elementer som dokument og objekt. _Tilgang påkrevd for å arkivere en saksliste:_ Full tilgang til sakslisten
 
-**Sletta saker kan ikkje bli åtoppretta** Berre slett saker viss dataa ikkje vil vera påkravd i prosjektet seinare. Etter at ei sak er sletta, er det ikkje mogleg å importera ein BCF for ei sak med same ID att fordi den framleis er i bruk av den sletta saka.
+_Slettede saker kan ikke gjenopprettes_ Slett bare saker hvis dataene ikke vil være påkrevd i prosjektet senere. Etter at en sak er slettet, er det ikke mulig å importere en BCF for en sak med samme ID igjen fordi den fortsatt er i bruk av den slettede saken.
 
-_Hindring av redigering eller sletting_ Lag ein PDF-export av ei sak for å laga ein export av saka som ikkje kan redigerast.
+_Hindring av redigering eller sletting_ Lag en PDF-eksport av en sak for å lage en eksport av saken som ikke kan redigeres.
 
-**Ynskjer om sikringsgjenoppretting** Sikringsgjenoppretting av sletta saker kan bli ynska i tilfelle av uenskap. Ynskjer om sikringsgjenoppretting kan ta opp til to veker.
+_Forespørsler om sikkerhetskopigjenoppretting_ Gjenoppretting av slettede saker fra sikkerhetskopi kan forespørres ved en tvist. Forespørsler om sikkerhetskopigjenoppretting kan ta opptil to uker.

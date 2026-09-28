@@ -20,7 +20,7 @@ De følgende sakene er beskrevet i denne delen:
 
 ### 1.1 **Nye artikler:**
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - [Hvordan tilgangsnivåer beregnes](https://support.catenda.com/nb/articles/15644094-hvordan-tilgangsnivaer-beregnes)
 - [Brukstilfeller for tilgangskontrollutplassering](https://support.catenda.com/nb/articles/15644249-bruk-av-tilgangskontroll-brukstilfeller)
@@ -28,12 +28,12 @@ De følgende sakene er beskrevet i denne delen:
 - [Opprette en ny modeleksport](https://support.catenda.com/nb/articles/15481038-opprette-en-ny-modeleksport)
 - [Innholdsside for modeleksport](https://support.catenda.com/nb/articles/15480883-modelleksportinnholdsside)
 
-**Brukstilfeller**
+_Brukstilfeller_
 
 - [Brukstilfeller for revisjonsnavn](https://support.catenda.com/nb/articles/15886912-bruk-av-revisjonsnavn)
 - [Revisjonblokker i navnkonvensjoner](https://support.catenda.com/nb/articles/15886483-revisionblokker-i-navngivningskonvensjoner)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Feilsøking for dokumentforhåndsvisning](https://support.catenda.com/nb/articles/13962654-feilsoking-for-dokumentforhandsvisning)
 - [Feilsøking for gjennomgangsfilforhåndsvisning](https://support.catenda.com/nb/articles/15286207-gjennomgang-av-godkjenningsfil-feilsoking)
@@ -41,13 +41,13 @@ De følgende sakene er beskrevet i denne delen:
 
 ### 1.2 **Artikler som har endret seg:**
 
-**Kontoadministrasjon**
+_Kontoadministrasjon_
 
 - [Opprette et team](https://support.catenda.com/nb/articles/4670264-opprette-et-team)
 - [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
 - [Pålogging og passord](https://support.catenda.com/nb/articles/10798891-palogging-og-passord)
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - [Oversikt over de viktigste hurtigtastene og grunnleggende kontroller](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller)
 - [Sakekropp - innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
@@ -65,7 +65,7 @@ De følgende sakene er beskrevet i denne delen:
 - [2D-plassering av saker - Catenda Site](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
 - [2D-viser - Catenda Site](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Feilsøking for opplastingsdialog for dokument](https://support.catenda.com/nb/articles/11070748-feilsoking-for-dialogboksen-last-opp-dokument)
 - [Feilsøking for Catenda Revit Plugin](https://support.catenda.com/nb/articles/14301534-feilsoking-for-catenda-revit-plugin)
@@ -121,7 +121,7 @@ De følgende sakene er beskrevet i denne delen:
 ### 4.1 Saker
 
 - **En ny visning for saker er lagt til: Kanban**<br>Organiser, filtrer og oppdater saker direkte på et Kanban-brett, noe som forbedrer problemhåndtering, oppgavehåndtering og teamsamarbeid i Catenda Hub. <br>Endre filtrene for å se ikke bare alle saker i en liste som med listevisningen, men se sakene i kolonner basert på de ulike filtrene som er tilgjengelige.<br>For eksempel en kolonne per tilordnet person slik at du ser saker tildelt personer ved siden av hverandre, eller en kolonne per status eller en kolonne for saker som forfaller i dag, forfaller innen en uke, forfaller om mer enn en uke og som er forfalt.
-- **Statistikksiden for saker**<br>har gjennomgått en visuell oppgradering som gjør den mer responsiv. Det er nå mulig å holde musepekeren hvor som helst på grafen for å se antall saker med ulike statusar på et gitt tidspunkt i prosjekttidslinjen i stedet for bare når graflinjen holdes over.
+- **Statistikksiden for saker**<br>har gjennomgått en visuell oppgradering som gjør den mer responsiv. Det er nå mulig å holde musepekeren hvor som helst på grafen for å se antall saker med ulike statuser på et gitt tidspunkt i prosjekttidslinjen i stedet for bare når graflinjen holdes over.
 
 ### 4.2 **Dokumenter**
 
@@ -131,8 +131,8 @@ De følgende sakene er beskrevet i denne delen:
 - **Fane for oversikt over dokumentrevisjoner** <br>Siden for gjennomganger har nå en dedikert "Dokumentrevisjoner"-fane som gir en fullstendig tabeloversikt over alle filer som for tiden gjennomgår gjennomgang i alle åpne gjennomganger. <br>Du kan nå søke, sortere og filtrere individuelle dokumentrevisjoner etter teamtilordning, vurderingstilstand og frist uten å måtte åpne hver gjennomgangspakke separat.
 - **Japansk lokalisering for gjennomganger**
 
-  Fullstendig japansk lokalisering har blitt implementert på tvers av gjennomgangsgrensesnittet og arbeidsflytkonfigurasjonsider.
-  Team som arbeider på japansk kan nå navigere gjennomgangskort, dokumentgjennomgangsverktøy og oppsettsmenyer med nøyaktig og konsistent lokalisert terminologi.
+    Fullstendig japansk lokalisering har blitt implementert på tvers av gjennomgangsgrensesnittet og arbeidsflytkonfigurasjonsider.
+    Team som arbeider på japansk kan nå navigere gjennomgangskort, dokumentgjennomgangsverktøy og oppsettsmenyer med nøyaktig og konsistent lokalisert terminologi.
 
 ### 4.3 **Prosjektinnstillinger**
 
@@ -140,8 +140,8 @@ De følgende sakene er beskrevet i denne delen:
 
 ## 5. **Nye utgivelser** - Programtillegg og integrasjoner
 
-**Catenda AI Connect** Catenda AI Connect er nå live og bringer avansert intelligens sømløst inn i dine eksisterende arbeidsflyter. Denne muligheten kan låses opp som en funksjonsutvidelse for eksisterende prosjektlisensjoner, eller bli forespurt direkte av eksterne prosjektmedlemmer. Kontakt kundestøttelaget vårt for å be om aktivering for arbeidsområdet ditt.
+_Catenda AI Connect_ Catenda AI Connect er nå live og bringer avansert intelligens sømløst inn i dine eksisterende arbeidsflyter. Denne muligheten kan låses opp som en funksjonsutvidelse for eksisterende prosjektlisensjoner, eller bli forespurt direkte av eksterne prosjektmedlemmer. Kontakt kundestøttelaget vårt for å be om aktivering for arbeidsområdet ditt.
 
-**Catenda dataeksport** Catenda dataeksport er nå tilgjengelig og gir fleksibel gjentakende eller engangsekstraksjon tilpasset din totale eksportstørrelse. Eksisterende klienter kan integrere denne muligheten på tvers av deres gjeldende prosjekter, mens eksterne prosjektmedlemmer kan forespørre frittstående tilgang. Ta kontakt med kundestøttelaget vårt for å konfigurere og aktivere denne funksjonen. Eksporter til Amazon S3 eller Azure Blob-lagring
+_Catenda dataeksport_ Catenda dataeksport er nå tilgjengelig og gir fleksibel gjentakende eller engangsekstraksjon tilpasset din totale eksportstørrelse. Eksisterende klienter kan integrere denne muligheten på tvers av deres gjeldende prosjekter, mens eksterne prosjektmedlemmer kan forespørre frittstående tilgang. Ta kontakt med kundestøttelaget vårt for å konfigurere og aktivere denne funksjonen. Eksporter til Amazon S3 eller Azure Blob-lagring
 
-**Tekla programtillegg v1.5.0** Støtte for Tekla 2026
+_Tekla programtillegg v1.5.0_ Støtte for Tekla 2026

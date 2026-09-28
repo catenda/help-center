@@ -86,7 +86,7 @@ Tabellen nedenfor relaterer operasjonene som kan utføres på en publisert revis
 
 **Tilgang i applikasjoner** Medlemmer med minst lesetilgang til et dokument kan få tilgang til publiserte revisjoner fra applikasjoner som får tilgang til API-en, for eksempel vår mobilapplikasjon, Catenda Site.
 
-**2D/3D-viserknappar** Medlemmer med minst lesetilgang til et dokument med publiserte 3D-dokumentrevisjoner kan bruke 2D- og 3D-knappane i viserkolonnen for å laste inn 3D-dokumentet i den respektive viseren. En av følgende er påkrevd:
+**2D/3D-viserknapper** Medlemmer med minst lesetilgang til et dokument med publiserte 3D-dokumentrevisjoner kan bruke 2D- og 3D-knappene i viserkolonnen for å laste inn 3D-dokumentet i den respektive viseren. En av følgende er påkrevd:
 
 - Dokument lenket til modell og siste revisjon er en vellykket behandlet `.ifc` eller `.ifczip`
 - Siste revisjon er en punktsky

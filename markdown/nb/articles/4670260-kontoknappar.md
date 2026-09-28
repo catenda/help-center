@@ -1,10 +1,10 @@
-# Kontoknappar
+# Kontoknapper
 
-Kontoknappar er alltid tilgjengelege mot øvre høgre hjørne på ei Catenda Hub-side. Dette er korleis kontoknappar kan sjå ut:
+Kontoknapper er alltid tilgjengelige mot øvre høyre hjørne på en Catenda Hub-side. Dette er hvordan kontoknapper kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/01-intro.png)
 
-Kontoknappar er til stades overalt du er på Catenda Hub. Dette betyr at varsel- og kontosidene alltid er tilgjengelege sjølv om den venstre navigeringsmenyen har endra seg.
+Kontoknapper er til stede overalt du er på Catenda Hub. Dette betyr at varsel- og kontosidene alltid er tilgjengelige selv om den venstre navigeringsmenyen har endret seg.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/02-intro.png)
 
@@ -12,31 +12,31 @@ Følgjande saker er beskrivne i denne artikkelen:
 
 ## 1. **Varselknapp**
 
-Dersom det finst nye varsel, blir ein raud varselindikator vist på varselknappen. Klikk på varselknappen for å opne varsel-rullegardinen. Då forsvinn indikatoren for ulest varsel. Varsel-rullegardinen kan sjå slik ut:
+Dersom det finnes nye varsler, blir en rød varselindikator vist på varselknappen. Klikk på varselknappen for å åpne varsel-rullegardinen. Da forsvinner indikatoren for ulest varsel. Varsel-rullegardinen kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/03-notifications-button.png)
 
-Rullegardinen viser dei siste 5 varslinga med all ny informasjon om prosjekta du er med i. Du kan alltid sjå denne knappen på øvre høgre hjørne av skjermen. Klikk på Vis alle varsel for å gå til [varselkontoside](https://support.catenda.com/nb/articles/7439223-siden-for-kontovarsler) di
+Rullegardinen viser de siste 5 varslene med all ny informasjon om prosjektene du er med i. Du kan alltid se denne knappen i øvre høyre hjørne av skjermen. Klikk på Vis alle varsler for å gå til [varselkontosiden](https://support.catenda.com/nb/articles/7439223-siden-for-kontovarsler) din
 
-> **Merknad:** Dersom du navigerer til varselkontosida på denne måten, blir ho filtrert etter varsel frå forrige månad som standard. Fjern dateFrom=last-month-filteret frå URL-en for å sjå varsel frå meir enn ein månad sidan.
+> **Merknad:** Dersom du navigerer til varselkontosiden på denne måten, blir den filtrert etter varsler fra forrige måned som standard. Fjern dateFrom=last-month-filteret fra URL-en for å se varsler fra mer enn en måned siden.
 
 ## 2. **Delingslenkeknapp**
 
-[Delingslenkefunksjonen](https://support.catenda.com/nb/articles/4728886-sharelink-varsle-personer-om-catenda-hub-innhold) er berre tilgjengeleg frå innan eit prosjekt og vil derfor vere deaktivert på prosjektsida.
+[Delingslenkefunksjonen](https://support.catenda.com/nb/articles/4728886-sharelink-varsle-personer-om-catenda-hub-innhold) er bare tilgjengelig fra innenfor et prosjekt og vil derfor være deaktivert på prosjektsiden.
 
 ## 3. **Støtteknapp**
 
-Klikk på den svarte nedbletknappen for å opne støttemenyen. Klikk [her](https://support.catenda.com/nb/articles/8894066-plassering-og-funksjonalitet-for-stotteknappen) for å lese meir om støttemenyen.
+Klikk på den svarte chatboble-knappen for å åpne støttemenyen. Klikk [her](https://support.catenda.com/nb/articles/8894066-plassering-og-funksjonalitet-for-stotteknappen) for å lese mer om støttemenyen.
 
 ## 4. **Kontoknapp**
 
-Kontoknappen viser profilbildet ditt eller initialane til brukarnamnet ditt. Dersom du klikkar på kontoknappen, opnast kontoens rullegardin.
+Kontoknappen viser profilbildet ditt eller initialene til brukernavnet ditt. Hvis du klikker på kontoknappen, åpnes kontoens rullegardinmeny.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/04-account-button.png)
 
 ### 4.1 **Min konto**
 
-Klikk [her](https://support.catenda.com/nb/articles/6880968-kontosida) for å lese meir om [kontosida](https://hub.catenda.com/account/profile). Dette opnar same sida som kontoknappen i den venstre navigeringsmenyen. Skilnaden er at denne kontoknappen er tilgjengeleg overalt på Catenda Hub, medan den venstre navigeringsmenyen kan endre seg avhengig av kvar du er på sida.
+Klikk [her](https://support.catenda.com/nb/articles/6880968-kontosida) for å lese mer om [kontosiden](https://hub.catenda.com/account/profile). Dette åpner samme side som kontoknappen i den venstre navigeringsmenyen. Forskjellen er at denne kontoknappen er tilgjengelig overalt på Catenda Hub, mens den venstre navigeringsmenyen kan endre seg avhengig av hvor du er på siden.
 
 ### 4.2 **Logg ut**
 

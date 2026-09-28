@@ -18,9 +18,9 @@ Klikk på prosjekt-rullgardinen for å navigere til dashbordet for et annet pros
 
 Klikk [her](https://support.catenda.com/nb/articles/13141464-prosjektpaneler) for å lese mer om prosjektpaneler
 
-### 1.3 **Kontoknappar**
+### 1.3 **Kontoknapper**
 
-Klikk [her](https://support.catenda.com/nb/articles/4670260-kontoknappar) for å lese mer om kontoknappar
+Klikk [her](https://support.catenda.com/nb/articles/4670260-kontoknapper) for å lese mer om kontoknapper
 
 ## 2. **Saker**
 

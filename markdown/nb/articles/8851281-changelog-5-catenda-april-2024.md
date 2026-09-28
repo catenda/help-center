@@ -26,7 +26,7 @@ Etter hvert som nye funksjoner lanseres og feil rettes, oppdateres artikler med 
 
 **Nylige oppdateringer** [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)
 
-**Hovedside** [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknappar) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
+**Hovedside** [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
 
 **Saker** [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) [Saksbrødtekst](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg)
 

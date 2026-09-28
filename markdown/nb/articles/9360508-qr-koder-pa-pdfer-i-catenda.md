@@ -88,7 +88,7 @@ Etter at du har lastet opp et dokument med en QR-kode-plassholder, kan du se at 
 
 Hvis genereringen av QR-koden har mislyktes, kan det skyldes at QR-koden var mindre enn 2 cm x 2 cm eller at den ble plassert som en annotering i stedet for et bilde.
 
-**Flatterer annoteringar** Noen programvare lar deg flattere annoteringar som tillater at plassholdingen blir behandlet. Her er noen eksempler:
+**Flatterer annoteringer** Noen programvare lar deg flattere annoteringer som tillater at plassholdingen blir behandlet. Her er noen eksempler:
 
 **PDF X-change**
 

@@ -1,6 +1,6 @@
 # Opprette et nytt prosjekt
 
-Hvis din gjeldende plan og tilgang tillater det, kan du opprette et nytt prosjekt ved å logge inn og på [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknappar), klikke på "Nytt prosjekt"-knappen eller gå til [siden for nytt prosjekt](https://hub.catenda.com/new-project).
+Hvis din gjeldende plan og tilgang tillater det, kan du opprette et nytt prosjekt ved å logge inn og på [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknapper), klikke på "Nytt prosjekt"-knappen eller gå til [siden for nytt prosjekt](https://hub.catenda.com/new-project).
 
 Ellers, for å opprette et nytt prosjekt, kontakt Catenda-støtten på [support@catenda.com](mailto:support@catenda.com) eller via chat-knappen. Den sorte chat-knappen finnes øverst til høyre inne i Catenda Hub eller nederst til høyre på hjelpe-/hjemmesidene våre for å oppgradere planen din. Vi vil veilede deg gjennom opprettingen.
 

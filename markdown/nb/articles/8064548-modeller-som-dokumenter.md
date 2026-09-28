@@ -26,7 +26,7 @@ Den nye modelltabellen kan se slik ut:
 
 Modellisten har kolonner som viser det meste av informasjonen du trenger å vite om modellene dine.
 
-_Navn_ Namnet på modell-dokumentet. Modellnavnet er også navnet du vil se i revisjonsvelgeren i 3D-visningen.
+_Navn_ Navnet på modell-dokumentet. Modellnavnet er også navnet du vil se i revisjonsvelgeren i 3D-visningen.
 
 _Dokumentnavn_ Navnet på dokument-modellen i dokumentdelen
 
@@ -60,13 +60,13 @@ _Laste ned en modellrevisjon_ Du trenger minst lesetilgang til dokument-modellen
 
 En meny for informasjon til høyre vil være tilgjengelig hvis en modell er valgt.
 
-_Dokumentfelt_ I denne menyen vil du se modellinformasjonen din samt et grått felt som lenker til dokument-modellen i dokumentdelen som er lenket til denne modell-dokumenten. Klikk på dokumentfeltet for å åpne dokument-modellen som er lenket til denne modellen.
+**Dokumentfelt** I denne menyen vil du se modellinformasjonen din samt et grått felt som lenker til dokument-modellen i dokumentdelen som er lenket til denne modell-dokumenten. Klikk på dokumentfeltet for å åpne dokument-modellen som er lenket til denne modellen.
 
-_Modellmerkelapper_ Du kan nå også legge til merkelapper i modellene dine her.
+**Modellmerkelapper** Du kan nå også legge til merkelapper i modellene dine her.
 
-_Modellstatus_ Hvis statusar har blitt konfigurert i dokumentinnstillinger, vil du kunne konfigurere en status for modellen din her.
+**Modellstatus** Hvis statuser har blitt konfigurert i dokumentinnstillinger, vil du kunne konfigurere en status for modellen din her.
 
-_Modelltransformasjon_ Hvis du har åpnet denne modellen i 3D, vil du kunne konfigurere modelltransformasjon her.
+**Modelltransformasjon** Hvis du har åpnet denne modellen i 3D, vil du kunne konfigurere modelltransformasjon her.
 
 ## 4. **Endringer i dokumentdelen**
 

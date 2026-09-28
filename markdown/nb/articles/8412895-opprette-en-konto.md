@@ -8,7 +8,7 @@ Hvis du oppretter en konto vil du ikke automatisk være del av et prosjekt. For 
 
 ## 1. **Trinn 1 av 4 - Opprett en gratis konto**
 
-Her kan du skrive inn e-postadressen din og passordet ditt for å registrere deg for en gratis konto. Etter vellykket pålogging vil du bli omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknappar).
+Her kan du skrive inn e-postadressen din og passordet ditt for å registrere deg for en gratis konto. Etter vellykket pålogging vil du bli omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknapper).
 
 ### 1.1 **Eksisterende konto**
 

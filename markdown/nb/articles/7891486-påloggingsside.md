@@ -31,7 +31,7 @@ Her kan du skrive inn passordet som passer for kontoen som er registrert under d
 
 ## 3. **Logg inn**
 
-Klikk på logg inn for å verifisere de oppgitte legitimasjonene. Etter at verifiseringsprosessen er gjennomført med hell, blir brukere omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknappar).
+Klikk på logg inn for å verifisere de oppgitte legitimasjonene. Etter at verifiseringsprosessen er gjennomført med hell, blir brukere omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknapper).
 
 ## 4. **MFA**
 

@@ -6,42 +6,42 @@ Dette er hvordan statusarbeidsflytmenyen på [dokumentinnstillingssiden](https:/
 
 Prosjekter som er opprettet basert på et [malprosjekt](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt#h_5db32e5398) og prosjekter som aktiverte delte revisjoner før 2. oktober 2025 vil se den gamle statusarbeidsflytmenyen.
 
-## 1. **Delte statusar**
+## 1. **Delte statuser**
 
-Aktiver delte statusar for å tilpasse seg ISO 19650 og konfigurer arbeidsflyter. Dette er hvordan statusarbeidsflytmenyen kan se ut etter at delte statusar er aktivert
+Aktiver delte statuser for å tilpasse seg ISO 19650 og konfigurer arbeidsflyter. Dette er hvordan statusarbeidsflytmenyen kan se ut etter at delte statuser er aktivert
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/02-shared-statuses.png)
 
-### 1.1 Aktivere delte statusar
+### 1.1 Aktivere delte statuser
 
-Som standard er det ein delt status med namnet «delt» som er konfigurert. Typiske publiserte statusar som blir lagt til er:
+Som standard er det en delt status med navnet «delt» som er konfigurert. Typiske publiserte statuser som blir lagt til er:
 
 - WIP - Blå
 - Arbeid pågår - Blå
 - Intern validering - Blå
 
-**Prosjektendringer**
+_Prosjektendringer_
 
-- Informasjon startar med eit minor revisjonstal: 0.1, 0.2, 1.1, osv...
-- Informasjon kan bli publisert for å få eit major revisjonstal: 1.0, 2.0, 3.0, osv...
-- Tilgangskontrollmenyen på dokumentsiden vil ha ein ekstra kolonne der tilgang til delte revisjoner og publiseringsrettar kan konfiguerast.
-- Delte og publiserte statusar - Ny informasjon sendt inn i den delte fasen.
+- Informasjon starter med et minor revisjonstall: 0.1, 0.2, 1.1, osv...
+- Informasjon kan bli publisert for å få et major revisjonstall: 1.0, 2.0, 3.0, osv...
+- Tilgangskontrollmenyen på dokumentsiden vil ha en ekstra kolonne der tilgang til delte revisjoner og publiseringsrettigheter kan konfigureres.
+- Delte og publiserte statuser - Ny informasjon sendt inn i den delte fasen.
 - Standard status er sett til «Delt».
-- Ein gjennomgangsmeny i dokumentinnstillingar dukkar opp.
-- Ein gjennomgangsfane til dokumentsiden dukkar opp.
+- En gjennomgangsmeny i dokumentinnstillinger dukker opp.
+- En gjennomgangsfane til dokumentsiden dukker opp.
 
-### 1.2 **Deaktivere delte statusar**
+### 1.2 **Deaktivere delte statuser**
 
-**Prosjektendringer**
+_Prosjektendringer_
 
-- Publiserte statusar - Ny informasjon sendt inn i den publiserte fasen.
+- Publiserte statuser - Ny informasjon sendt inn i den publiserte fasen.
 - Standard status er sett til «Ingen status».
 - Gjennomgangmenyen i dokumentinnstillingar er deaktivert.
 - Godkjenningssiden for dokumenter er deaktivert.<br>
 
-## 2. **Publiserte statusar**
+## 2. **Publiserte statuser**
 
-Som standard er det éin publisert status med namnet «publisert» som er konfigurert. Klikk på «Legg til status» for å leggje til fleire statusar. Typiske delte statusar som blir lagt til er:
+Som standard er det én publisert status med navnet «publisert» som er konfigurert. Klikk på «Legg til status» for å legge til flere statuser. Typiske delte statuser som blir lagt til er:
 
 - Publisert, med merknader - Lys grøn
 - Ventar - Gul
@@ -49,48 +49,48 @@ Som standard er det éin publisert status med namnet «publisert» som er konfig
 
 ## 3. **Legg til status**
 
-Du kan leggje til ein status ved å klikka på «Legg til status». Ein ny status kan ha ein farge og eit namn. Statusar kan anten leggjast til i lista over delte statusar eller i lista over publiserte statusar.
+Du kan legge til en status ved å klikke på «Legg til status». En ny status kan ha en farge og et navn. Statuser kan enten legges til i listen over delte statuser eller i listen over publiserte statuser.
 
-## 4. **Endre statusar**
+## 4. **Endre statuser**
 
-Status kan endrast ved å klikka på blyantikonet til høgre for statusen.
+Status kan endres ved å klikke på blyantikonet til høyre for statusen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/03-changing-statuses.png)
 
-Fargen og namnet på ein status kan endrast.
+Fargen og navnet på en status kan endres.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/04-changing-statuses.png)
 
 ### 4.1 **Sorteringsrekkjefølgje**
 
-Etter redigering klikkar du på pilene for å flytte statusen opp og ned i lista over statusar innan sin fase.
+Etter redigering klikker du på pilene for å flytte statusen opp og ned i listen over statuser innenfor sin fase.
 
-### 4.2 **Arkivering av statusar**
+### 4.2 **Arkivering av statuser**
 
-Statusar kan arkiverast ved å klikka på søpelbøtta-ikonet til høgre for statusen. Det er berre mogleg å arkivere og gjenopprette statusen innan same fase. Dersom statusen som no er arkivert var brukt på informasjon, vil statusen være synleg men gjennomstreka.
+Statuser kan arkiveres ved å klikke på søppelbøtte-ikonet til høyre for statusen. Det er bare mulig å arkivere og gjenopprette statusen innenfor samme fase. Dersom statusen som nå er arkivert var brukt på informasjon, vil statusen være synlig, men gjennomstreket.
 
-### 4.3 **Gjenopprette statusar**
+### 4.3 **Gjenopprette statuser**
 
-Arkiverte statusar kan alltid bli henta tilbake ved å klikka på "Vis arkiverte statusar". Her er alle arkiverte statusar viste og kan gjenopprettast.
+Arkiverte statuser kan alltid bli hentet tilbake ved å klikke på "Vis arkiverte statuser". Her er alle arkiverte statuser vist og kan gjenopprettes.
 
 ## 5. Standard status
 
-Statusen som blir vist som standard når publiseringshandlinga blir brukt for ein delt revisjon. Ein annan status kan framleis bli vald før publisering. Delte revisjoner kan òg bli publisert via [gjennomgangsførespurnader](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel). Avhengig av kva arbeidsflyt innsendar valde på vegne av sitt innsendar-team, når eit medlem gjer ein endelg validering på vegne av det endelege valideringsteamet vil statusen på det publiserte dokumentet endast basert på korleis arbeidsflytoppsettet er konfigurert.
+Statusen som blir vist som standard når publiseringshandlingen blir brukt for en delt revisjon. En annen status kan fremdeles bli valgt før publisering. Delte revisjoner kan også bli publisert via [gjennomgangsforespørsler](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel). Avhengig av hvilken arbeidsflyt innsenderen valgte på vegne av sitt innsender-team, når et medlem gjør en endelig validering på vegne av det endelige valideringsteamet, vil statusen på det publiserte dokumentet endres basert på hvordan arbeidsflytoppsettet er konfigurert.
 
 ## 6. Opplastingsmeny
 
-### 6.1 **Delte statusar aktivert**
+### 6.1 **Delte statuser aktivert**
 
-Dette er korleis opplastingsmenyen kan sjå ut når den publiserte og delte arbeidsflyten har blitt ber om å bli aktivert på eit prosjekt.
+Dette er hvordan opplastingsmenyen kan se ut når den publiserte og delte arbeidsflyten har blitt bedt om å bli aktivert på et prosjekt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/05-shared-statuses-enabled.png)
 
-Som standard er den standard delte statusen «Delt». Ein status frå lista over delte statusar kan bli vald før opplasting.
+Som standard er den standard delte statusen «Delt». En status fra listen over delte statuser kan bli valgt før opplasting.
 
-### 6.2 **Delte statusar deaktivert**
+### 6.2 **Delte statuser deaktivert**
 
-Dette er korleis opplastingsmenyen kan sjå ut når delte statusar er deaktiverte.
+Dette er hvordan opplastingsmenyen kan se ut når delte statuser er deaktivert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/06-shared-statuses-disabled.png)
 
-Som standard er den standard publiserte statusen «ingen status». Ein status frå lista over publiserte statusar kan bli vald før opplasting.
+Som standard er den standard publiserte statusen «ingen status». En status fra listen over publiserte statuser kan bli valgt før opplasting.
