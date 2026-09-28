@@ -26088,6 +26088,10 @@ The placeholder is placed on the shared revision, and the QR code is generated w
 
 A link to a Figma, FigJam or Miro whiteboard can be placed in a topic description or a topic comment, and the whiteboard is then displayed underneath the text. This is the whiteboard from the external service, not the topic board the topic itself sits on. Add the link the same way as any other link in the markdown editor, either as a plain URL or as a markdown formatted link. The whiteboard appears below the description or comment once it is saved. The whiteboard is only displayed to users who are already signed in to Figma or Miro and who have access to it there. Catenda does not grant access, access is controlled entirely in Figma or Miro, so a user without access sees no whiteboard content.
 
+### 1.8 **Document to document linking**
+
+Related documents can now be linked to each other, both in the document area and in approvals. When reviewing an architectural drawing, the linked structural, installation and drainage drawings are right there, so there is no need to hunt for them across folders. 📽️ **[Tutorial video](https://eu.guidde.com/share/playbooks/gULz2n5GJ3SxmEY2qomnVR?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
 ## 2. **Updated features**
 
 ### 2.1 **Approval improvements**
@@ -26096,15 +26100,21 @@ The new validation flow that was released in Q3 2025 deserved some more love. Th
 
 **👁 [Visibility on individual reviewer status (3:14):](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** get a quick overview of each member's activity within a team assigned to an approval step, so you can clear blockers fast. **[Pt. 2 Video (3:26)](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** **📄 [Documents across all open approvals in one view (3:41):](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** instantly see the documents that need your attention, without opening individual approval requests. **🖱 [One-click access to the review page (2:05):](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** jump straight to the review page and start reviewing. **✅ [Require sign-off by all team members (3:20):](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** be certain every member of the review team has reviewed the document before it moves on.
 
+**Reviewing several documents at once** Several documents in an approval can now be reviewed and approved in one go, instead of one by one. 📽️ **[Tutorial video](https://eu.guidde.com/share/playbooks/acnYCKQCh1WTWzs2i1D2GQ?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
 **Editing an approval's title and description** The title and description of an approval can now be edited after it has been submitted. Previously both were fixed at creation, so a typo or a title that no longer matched the scope of the request meant living with it for the life of the approval, or cancelling and starting again. Editing is limited to the person who created the approval, and to project administrators. Being a member of a submitter team is what allows an approval to be created, but it does not carry the right to edit approvals created by other members of the same team. If a colleague created it, the edit is not available, the creator or a project administrator has to make the change.
 
-**Long descriptions in the approval overview** Long approval descriptions are handled better in the approval overview, so a long description no longer pushes the rest of the information out of view.
+**Long descriptions in the approval overview** Long approval descriptions are handled better in the approval overview, so a long description no longer pushes the rest of the information out of view. A long description is no longer cut off either. Use Show more and Show less to expand and collapse it.
 
-**Teams column in the documents-across-approvals table** The teams column in the table of documents across all open approvals has been improved, making it easier to see which team is expected to act on each document.
+**Teams column in the documents-across-approvals table** The teams column in the table of documents across all open approvals has been improved, making it easier to see which team is expected to act on each document. When a document has several reviewer teams, each team label is now displayed clearly in the document list.
 
 ### 2.2 **Document compare: compare text, not just pixels**
 
 Document compare now has a text compare mode alongside the existing overlay mode. Text compare reads the actual text content of two revisions and highlights every wording change, so a specification or contract can be checked in seconds rather than read line by line. Overlay mode is unchanged and remains the right choice for drawings and geometry, where a pixel comparison is what is needed. Both modes sit behind the same Compare action in the document viewer, so the mode that fits the document can be chosen there. Compare requires a PDF with at least two revisions of the same document. The Compare button appears next to the revision dropdown when those conditions are met. If it is not visible, the document is either not a PDF or has only one revision. 📽️ **[Tutorial video](https://eu.guidde.com/playbooks/9hrXCk2DMw75wrspDCvJDv?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
+### 2.3 **Project templates with approval workflows and topic templates**
+
+New projects created from a template project now include the template's approval workflows and topic templates, so they no longer have to be set up again in every new project. An approval workflow or a topic template can also be duplicated, so a variation only needs the parts that differ changed instead of being built from scratch. 📽️ **[Tutorial video](https://eu.guidde.com/share/playbooks/gZ36ivayHPwGhubAMgHKQq?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
 
 ## 3. **Enabling on-demand features**
 
