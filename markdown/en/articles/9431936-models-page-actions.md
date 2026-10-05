@@ -60,7 +60,7 @@ With the publish action the latest shared revision can be published. Previous sh
 
 ### 2.4 **Download latest revision**
 
-If you have access to downloading models you can click on the download button. This will let you download the latest revision of a model as an ifc file. If you are looking for a previous revision of this model please to the its [model page](https://support.catenda.com/en/articles/4670270-model-contents-page) _Access required:_ Access to at least one document-model in the models section.
+If you have access to downloading models you can click on the download button. This will let you download the latest revision of a model as an ifc file. The name of the downloaded file can be affected by the [document download title option](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f). The project owner configures this option for their whole organization, so project members cannot request or change it themselves. If you are looking for a previous revision of this model please to the its [model page](https://support.catenda.com/en/articles/4670270-model-contents-page) _Access required:_ Access to at least one document-model in the models section.
 
 ### 2.5 **New revision**
 

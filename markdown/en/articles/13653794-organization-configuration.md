@@ -26,7 +26,7 @@ Total projects per organization Project expiry date
 
 ### **Document download title**
 
-The title that downloaded documents in this organization have.
+The file name that downloaded files get. This is the default for new projects in the organization, and the options are described in [Organization options](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f).
 
 ### **Public sharing**
 

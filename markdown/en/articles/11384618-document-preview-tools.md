@@ -23,7 +23,7 @@ This is wat the toolbar menu can look like:
 
 ### 1.1 **Download**
 
-Click on Download to download the document with any annotations that are active in the document preview.
+Click on Download to download the document with any annotations that are active in the document preview. The downloaded file always gets the [revision name](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page#h_01e7f2d654), whatever the [document download title option](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f) is set to. The project owner configures this option for their whole organization, so project members cannot request or change it themselves.
 
 ### 1.2 **Enter Full Screen**
 

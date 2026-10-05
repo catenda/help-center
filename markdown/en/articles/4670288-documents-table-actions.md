@@ -46,7 +46,7 @@ With the download action selected items and their contents can be downloaded by 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Receive a single document with one document row selected. Receive a zip file that contains the content of the selection when a folder row or multiple rows are selected. _Access required:_ full access to your selected document(s) and/or folder(s)
+Receive a single document with one document row selected. Receive a zip file that contains the content of the selection when a folder row or multiple rows are selected. The names of the downloaded files can be affected by the [document download title option](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f). The project owner configures this option for their whole organization, so project members cannot request or change it themselves. _Access required:_ full access to your selected document(s) and/or folder(s)
 
 **Discovering documents** Once the download button is pressed a dialogue opens up towards the bottom left of the page. First the system will start discovering the different files in the download. This is what the preparing download dialogue can look like:
 

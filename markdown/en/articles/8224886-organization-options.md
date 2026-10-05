@@ -14,25 +14,45 @@ Please contact [sales@catenda.com](mailto:sales@catenda.com) for questions regar
 
 ### 3.1 Document download title option
 
-If you download a single document the filename will always be the original file name. If you download multiple documents the filenames will be the names of the documents.
+The document download title option decides which file name a downloaded file gets. You can let the file keep its [revision name](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page#h_01e7f2d654), or you can use the name of the document in Catenda. This can be useful in combination with the naming convention, and for overwriting documents that have the same name instead of with a different revision number every time.
 
-With this option you can configure what filename you will get when you download multiple documents. This can be useful in combination with the naming convention and for overwriting documents that have the same name instead of with a different revision number every time.
+The option is one of the defaults for new projects. When the organization changes it, the change only applies to projects created afterwards. Existing projects keep the setting they already have.
 
 **Example:** The name of the project is _testproject._ Two files are uploaded with two revisions each: _test01.pdf_ and _test02.pdf_ The names of the documents are then changed to: _changed01.pdf_ and _changed02.pdf_
 
-Default download behavior: If you download these documents one for one they will always be named _test01.pdf_ and _test02.pdf_ If you download both these documents at the same time they will by default be called _changed01.pdf_ and _changed02.pdf_ This is what can be changed with the following options:
+**Options:** The options below decide what these two files are called when you download them.
 
-**Options:**
+**Revision file name** \<Revision name>.\<Extension> _test01.pdf_ and _test02.pdf_
 
-**Revision file name** Note that this is the same as when downloading a single file so the names will be consistent if you choose this option. \<Original file name>.\<Extension> _test01.pdf_ and _test02.pdf_
-
-_Document title_ - default \<Document name>.\<Extension> _changed01.pdf_ and _changed02.pdf_
+**Document title** \<Document name>.\<Extension> _changed01.pdf_ and _changed02.pdf_
 
 **Document title with revision number** \<Document name>\<Revision number>.\<Extension> _changed01.pdf #2_ and _changed02.pdf #2_
 
 **Project title with Document title and Revision number** \<Project name>\<Document name>\<Revision number>.\<Extension> _testproject changed01.pdf #2_ and _testproject changed02.pdf #2_
 
-### 3.2 **Downloading of infected documents**
+### 3.2 Where the option applies
+
+The option applies when you download a single file and when you download several files at once. It applies to documents downloaded from the documents section and to models downloaded from the models section. It also applies when you click **Download collection** on the collections page.
+
+### 3.3 Exceptions to the option
+
+A few downloads ignore the option.
+
+**Public links** If you share a collection with a public link, the person who opens the link downloads from the Catenda Transfer page. The files they download always keep their revision name.
+
+**Annotation toolbar** When you download from the action menu in the annotation toolbar of the document preview, the file always gets the revision name, whatever the option is set to. If you choose **Save As** in the same menu, you can enter the file name you want.
+
+### 3.4 Challenges with the option
+
+Two projects in the same organization can name the same file differently. The option is only a default for new projects, so a project created before the option was changed keeps its old setting.
+
+The same document can also get different names depending on where you download it. The annotation toolbar and public links always use the revision name, while the other downloads follow the option.
+
+If you choose an option that uses the document name, the file name depends on the document name in Catenda. When a new revision is uploaded and the document name is not updated, the downloaded file can be missing information that was in the revision name. This is why some organizations keep the **Revision file name** option.
+
+With the **Revision file name** option, a file that was uploaded with an unclear name keeps that name when it is downloaded.
+
+### 3.5 **Downloading of infected documents**
 
 Quarantine handling for infected files in owned projects. If a document is found to be infected, by default, it can be downloaded. The user will get a warning that this document includes a virus. An option can be set per organization that makes it so no-one, not even administrators will be able to download infected documents.
 
@@ -40,13 +60,13 @@ Quarantine handling for infected files in owned projects. If a document is found
 
 **Block download**
 
-### 3.3 **Models as documents**
+### 3.6 **Models as documents**
 
 If this feature is turned on all new projects that are made in the organization will have the [Models as documents](https://support.catenda.com/en/articles/8064548-models-as-documents) feature turned enabled.
 
 > **Note:** 24 November: This feature will be enabled for all new organizations. We will support the old view for about a year before all projects are migrated.
 
-### 3.4 **Document upload draft option**
+### 3.7 **Document upload draft option**
 
 If approval flow has been enabled and there are draft statuses in document settings the upload as draft checkbox is checked by default upon document upload. Per request this can this checkbox can be set to unchecked by default for all projects in an organization.
 

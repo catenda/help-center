@@ -72,7 +72,7 @@ If multiple pdf revisions are present in a document the [PDF compare](https://su
 
 ### 3.2 **Download**
 
-Click the download icon on the top right of the revision menu or download in the hamburger menu next to the download icon to download the current revision. _Access required:_ Read access to the document
+Click the download icon on the top right of the revision menu or download in the hamburger menu next to the download icon to download the current revision. The name of the downloaded file can be affected by the [document download title option](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f). The project owner configures this option for their whole organization, so project members cannot request or change it themselves. _Access required:_ Read access to the document
 
 ### 3.3 **Withdraw revision**
 
@@ -106,7 +106,7 @@ It is not recommended to download a document revision that is infected. You will
 
 ### 4.3 **Revision name**
 
-The revision name is the name that the file had on the system when it was first uploaded. This name cannot be changed.
+The [revision name](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page#h_01e7f2d654) of the revision.
 
 ### 4.4 **Published by**
 
@@ -154,7 +154,7 @@ If the new status workflow with shared revisions instead of draft revisions has 
 
 ### 6.1 **Download**
 
-Use the download action to download the current revision. Regardless of revision type, revisions can also be downloaded via the revisions menu below. In the [workspace tab](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_cfc9a53600) of the [documents table](https://support.catenda.com/en/articles/4670288-documents-table-actions) the last shared revision in the document is downloaded via the existing element action. In the [published tab](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_cfc9a53600) of the [documents table](https://support.catenda.com/en/articles/4670288-documents-table-actions) the last published revision in the document is downloaded via the existing element action. _Access required:_ Read access to the document and view shared revisions checkbox checked.
+Use the download action to download the current revision. The name of the downloaded file can be affected by the [document download title option](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f). The project owner configures this option for their whole organization, so project members cannot request or change it themselves. Regardless of revision type, revisions can also be downloaded via the revisions menu below. In the [workspace tab](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_cfc9a53600) of the [documents table](https://support.catenda.com/en/articles/4670288-documents-table-actions) the last shared revision in the document is downloaded via the existing element action. In the [published tab](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_cfc9a53600) of the [documents table](https://support.catenda.com/en/articles/4670288-documents-table-actions) the last published revision in the document is downloaded via the existing element action. _Access required:_ Read access to the document and view shared revisions checkbox checked.
 
 ### 6.2 **Publish**
 

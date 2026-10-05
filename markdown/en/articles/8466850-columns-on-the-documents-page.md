@@ -62,13 +62,27 @@ If you hover over the name column you will see that a grid of dots appears to th
 
 If you mouse over this you will see you cursor change to a hand. If you drag this grid icon you will be able to move your selected files/folders to another folder.
 
-## 5. **Revision** - Default 1 panel
+## 5. **Revisions**
 
-The amount of public and/or draft revisions in the document Each revisions can have their own revision name, creation date, file size, and owner.
+Each revision can have its own revision name, creation date, file size and owner.
 
-### 5.1 **Revision name**
+### 5.1 **Revision** - Default 1 panel
 
-The name of the latest public document revision. This is the name of the file that was originally uploaded and cannot be changed. As there can be multiple revisions in a document this name can be different from the document name which is the gather name for all the revisions in the document.
+The number of revisions in the document. Revisions are displayed with a green checkmark and a whole number 1, 2, 3, etc...
+
+**Shared revisions** If shared revisions have been enabled in the document status section of document settings, in the workspace tab new uploads will appear with a major and a minor number like 0.1, 0.2, 1.1, etc... If the latest revision is a published revision it will appear as a whole number. In the published tab the latest published revision is always displayed with its whole number regardless of if there is a newer shared revision or not.
+
+**Draft revisions - Legacy** In the legacy view the number of draft revisions after the last published revision is listed.
+
+### 5.2 **Revision name**
+
+The name of the latest public revision in the document.
+
+The revision name is the name the file was given when it was uploaded. This is usually the original file name, but the name can be changed in the [upload dialogue](https://support.catenda.com/en/articles/4670278-uploading-a-document#h_00fa77db3e) before the file is uploaded. After the upload, the revision name cannot be changed.
+
+The document name is shared by all revisions in the document, so it can be different from the revision name.
+
+When you download a file, the [document download title option](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f) decides whether the file gets the revision name or a name based on the document name.
 
 > **Note:** The revision name can be different from the document or model name.
 

@@ -64,7 +64,7 @@ Once the collection is finalized, you can :
 
 **13. Enter an expiration date for shared links**
 
-**14. Share the collection externally** Document collections that are shared externally can be downloaded by anyone with the link. People with the link do not need a Catenda account to download the files from this collection.
+**14. Share the collection externally** Document collections that are shared externally can be downloaded by anyone with the link. People with the link do not need a Catenda account to download the files from this collection. The files they download through the public link always keep their [revision name](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page#h_01e7f2d654), whatever the [document download title option](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f) is set to. The project owner configures this option for their whole organization, so project members cannot request or change it themselves.
 
 > **Note:** It is possible to request that the public sharing feature is disabled. If you wish this option to be enabled please contact support.
 

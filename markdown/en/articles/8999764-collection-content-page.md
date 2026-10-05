@@ -62,11 +62,11 @@ Finalized collections are locked for editing. Finalized collections have to be l
 
 Table actions can be found towards the top right of the colelctions table
 
-**Download collection** Click on download collection to download a zip file with all the documents in the collection.
+**Download collection** Click on download collection to download a zip file with all the documents in the collection. The names of the files in the zip file can be affected by the [document download title option](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f). The project owner configures this option for their whole organization, so project members cannot request or change it themselves.
 
 **Add documents** Click on [Add documents](https://support.catenda.com/en/articles/6344318-collections-page#h_b94d108342) to add documents to your collection If your document has been found to be infected with a virus you will not be able to add it to the collection.
 
-> **Note:** The name of the document in the collection will be the name of the revision that was added. This is somewhat like the original filename. This name can be different from the name of the document as a document can contain multiple revisions with different names.
+> **Note:** The name of the document in the collection will be the [revision name](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page#h_01e7f2d654) of the revision that was added. This name can be different from the name of the document as a document can contain multiple revisions with different names.
 
 ### 4.2 **Document actions**
 
