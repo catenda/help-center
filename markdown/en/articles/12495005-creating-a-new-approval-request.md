@@ -1,6 +1,8 @@
 # Creating a new approval request
 
-The new approval request action can be found for projects that enabled shared revisions after 2 October 2025. Clicking the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) to create a new approval requets. Click on the new approval request button in the approvals menu of the right menu of a revision on the documents page where the latest revision is a shared revision to create a new approval request. This is what the create a new approval request dialogue can look like:
+The new approval request action can be found for projects that enabled shared revisions after 2 October 2025. Clicking the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) to create a new approval request. Click on the new approval request button in the approvals menu of the right menu of a revision on the documents page where the latest revision is a shared revision to create a new approval request.
+
+This is what the create a new approval request dialogue can look like:
 
 ![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -16,7 +18,9 @@ This is what the header of a new approval can look like for projects that enable
 
 Members that are part of submitter teams configured in a project workflow can select between one of the workflows that their teams are configured for. The workflow that was previously selected is remembered. As long as the previously selected workflow is still available it will be selected once again next time an approval is created.
 
-**Automatic selection** If only onle of the teams a member is part of is configured for a workflow, that workflow will automatically be selected. This is what it can look like when the workflow is automatically selected.
+A project's workflows may have been predefined in the template project the project was [created from](https://support.catenda.com/en/articles/4670245-creating-a-new-project). Project administrators can add new workflows or edit existing ones on the [workflows page](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings) of the document settings. A workflow existing in the project does not mean every member can select it: only members of a submitter team configured for that workflow can select it. Members that are asked to submit approval requests but do not have a workflow available can ask a project administrator to add one of their teams as a submitter team to a workflow.
+
+**Automatic selection** If only one of the teams a member is part of is configured for a workflow, that workflow will automatically be selected. This is what it can look like when the workflow is automatically selected.
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -40,7 +44,7 @@ The title of the approval request. An approval must have a title to be submitted
 
 ## 2. **Approval request body**
 
-The new validation workflow is an on-demand feature that can be requested to be enabled when starting a new project. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project. This is what the body of a new approval can look like for projects that enabled shared revisions after 2 October 2025:
+The new validation workflow is active in all new projects. Projects that use a legacy version of the validation workflow can request a migration to the new validation workflow from support. Projects created based on a template project include the approval workflows and topic templates of that template project. This is what the body of a new approval can look like for projects that enabled shared revisions after 2 October 2025:
 
 ![Approval Reqeust body Description (optional) Documents for review add documents cancel no documents added yet](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 

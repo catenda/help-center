@@ -10,7 +10,7 @@ _Access required:_ One of the following regardless of administrator status:
 - Member of a reviewer team that is configured to review one of the steps for the selected workflow in the approval request.
 - Member of the publisher team that is configured to submit the final approval for the selected workflow in the approval request.
 
-Approval requests can be submitted on the approvals page or any approval request drafts they have previously created can be submitted from their approval draft page. Projects where shared revisions were enabled before 2 October 2025 will see the legacy approval request page instead. It is only possible to create a project based on a template project legacy validation workflow is enabled in that template project.
+Approval requests can be submitted on the approvals page or any approval request drafts they have previously created can be submitted from their approval draft page. Projects where shared revisions were enabled before 2 October 2025 will see the legacy approval request page instead. Projects created based on a template project include the approval workflows and topic templates of that template project.
 
 ## 1. **New item actions**
 

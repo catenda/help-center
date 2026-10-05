@@ -1,6 +1,6 @@
 # Workflows page - Document settings
 
-The workflows page can be found by clicking on the configure workflows button in the approvals menu of the [documents settings page](https://support.catenda.com/en/articles/7831371-document-settings-page) in projects where the new validation workflow has been requested to be enabled and shared statuses are enabled in the status workflow menu of [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page). The new validation workflow is an on-demand feature that can be requested to be enabled when starting a new project. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project. On the workflows page workflows for different approval configurations can be configured. _Access required:_ Administrator
+The workflows page can be found by clicking on the configure workflows button in the approvals menu of the [documents settings page](https://support.catenda.com/en/articles/7831371-document-settings-page) in projects where the new validation workflow is active and shared statuses are enabled in the status workflow menu of [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page). The new validation workflow is active in all new projects. Projects that use a legacy version of the validation workflow can request a migration to the new validation workflow from support. On the workflows page workflows for different approval configurations can be configured. _Access required:_ Administrator
 
 The workflows page can look something like this:
 
@@ -10,7 +10,7 @@ The following topics will be described in this article:
 
 _[New item actions](https://support.catenda.com/en/articles/8204673-documents-page#h_d0f4a44fb7) - [Search or filter](https://support.catenda.com/en/articles/8204673-documents-page#h_bbf4dcad58) - [Right menu](https://support.catenda.com/en/articles/8204673-documents-page#h_fc89aaa1fe) - [Table](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) - [Sub-pages](https://support.catenda.com/en/articles/8204673-documents-page#h_5751ccd2b7)_
 
-While the workflows page is a sub-page to the approvals page as is apparent by the approvals page being higlighted and the breadcrumbs towards the top, the page is only accessible from the approvals menu in document settings.
+While the workflows page is a sub-page to the approvals page as is apparent by the approvals page being highlighted and the breadcrumbs towards the top, the page is only accessible from the approvals menu in document settings.
 
 ## 1. **New item actions**
 
@@ -77,3 +77,7 @@ Created by - _Default_ The member that created the workflow.
 Created at - _Default_ The date and time the workflow was created
 
 Status - _Default_ The status of the workflow
+
+## 4. **Workflows from a template project**
+
+Projects created based on a template project include the approval workflows and topic templates of that template project. These workflows are listed in the workflows table of the new project. Click [here](https://support.catenda.com/en/articles/4670245-creating-a-new-project) to read more about creating a project based on a template project.

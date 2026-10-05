@@ -1,24 +1,28 @@
 # Creating a new workflow
 
-The new workflow page can be opened by clicking on the green plus button on [the workflows page](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings) or clicking on the action in the new element action menu on [the approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy). It is only possible to create new workflows in projects where the new validation workflow has been requested to be enabled. The new validation workflow is an on-demand feature that can be requested to be enabled when starting a new project. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project. This is what the title part of a new approval can look like:
+The new workflow page can be opened by clicking on the green plus button on [the workflows page](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings) or clicking on the action in the new element action menu on [the approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy). It is only possible to create new workflows in projects where the new validation workflow is active. The new validation workflow is active in all new projects. Projects that use a legacy version of the validation workflow can request a migration to the new validation workflow from support. This is what the title part of a new approval can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
-## 1. **Title**
+## 1. **Workflows from a template project**
+
+A workflow does not always have to be created from scratch. Projects created based on a template project include the approval workflows and topic templates of that template project. Click [here](https://support.catenda.com/en/articles/4670245-creating-a-new-project) to read more about creating a project based on a template project.
+
+## 2. **Title**
 
 Enter the name of the workflow. This is the only part of the workflow that can be edited after it has been submitted.
 
-### 1.1 **Requirement**
+### 2.1 **Requirement**
 
 A title must be provided to be able to sumit a workflow.
 
-### 1.2 **Approval contents**
+### 2.2 **Approval contents**
 
 This is what the contents of a new approval can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/02-approval-contents.png)
 
-## 2. **Time settings**
+## 3. **Time settings**
 
 Team members will have a limited amount of working days to review documents in review steps where their team has been set as a reviewer team. This is what the time settings of a new approval workflow can look like:
 
@@ -28,11 +32,11 @@ The time that is configured in time settings is the time for the working day to 
 
 **Example of how time settings can be considered:** Submissions can be dated based on these times. A submission at 2 AM belongs to the previous day if time setting is set to 6 AM.
 
-### 2.1 **Start time**
+### 3.1 **Start time**
 
 Chose between a value from 01 to 24 based on the 24 hour clock system otherwise known as military time.
 
-### 2.2 **Selected timezone**
+### 3.2 **Selected timezone**
 
 The default timezone is the timezone configured in your operating system. This is what a selected timezone list element can look like.
 
@@ -46,13 +50,13 @@ The first part of the selected timezone list element shows can display:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/05-selected-timezone.png)
 
-### 2.3 **GMT offset**
+### 3.3 **GMT offset**
 
 The second part of the selected timezone list element displays the current GMT offset for the selected timzone list element.
 
 The current timezone for the timezone list element is displayed. If the GMT offset for a geographical location changes to for example summer or winter time the GMT offset displayed for these geographical locations also changes.
 
-### 2.4 **Selecting a list element in the timezone dropdown**
+### 3.4 **Selecting a list element in the timezone dropdown**
 
 Click on the selected timezone list element to open the timezone dropdown. This is what the timezone dropdown can look like:
 
@@ -114,7 +118,7 @@ Or the timezone abbreviation:
 
 Since some timezones have a GMT offesset as type it is often better to search for the full timezone name rather than the timezone abbreviation. Only timezones that are currently active are displayed so for timezones that change for geographical locations only the timezone that is currently active for that geographical location can be found.
 
-## 3. **Submitters**
+## 4. **Submitters**
 
 Select which teams members in the final approval team will see in the list of teams they can choose from when selecting a submitter team for an approval with this workflow. This is what the submitters part of a new approval workflow can look like:
 
@@ -128,23 +132,23 @@ Select which teams members in the final approval team will see in the list of te
 
 > **Note:** It is only possible to select teams and not individual members
 
-### 3.1 **Requirement**
+### 4.1 **Requirement**
 
 At least one submitter must be selected to sumit the workflow.
 
-## 4. **Review steps**
+## 5. **Review steps**
 
 Build a multi-stage review process This is what the review steps part of a new approval workflow can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
-### 4.1 **Step amount**
+### 5.1 **Step amount**
 
 **No steps** While it is possible to create a workflow with no steps by deleting all steps it will not be possible to create an approval with this workflow as there has to be at least one step to be eable to submit an approval.
 
 **Maximum amount of steps** The maximum step amount that a workflow can have is 10.
 
-### 4.2 **Teams**
+### 5.2 **Teams**
 
 Select reviewer teams who will be able to participate in the review step. The maximum amount of teams a workflow can have is 20. Each team must submit their review before proceeding the wokflow advances to the next step. If auto approve is checked the workflow will automatically go to the next step after the configured amount of working days.
 
@@ -154,7 +158,7 @@ Select reviewer teams who will be able to participate in the review step. The ma
 
 **Selecting a team with one member** Since it is not possible to add individual members, if only one member will work with this way of approving documents a team with only one member can be selected. After creating the workflow it will not be possible to edit it so even with one member a team allows for the flexibility of moving people in-and-out of that team.
 
-### 4.3 **Working days to review**
+### 5.3 **Working days to review**
 
 Working days are defined as Monday through Friday. Public holdidays are included in the working days to review. _Minimum working days requried:_ 1 working day
 
@@ -167,13 +171,13 @@ If the start date for the approval step is on a Friday the due date will be set 
 - The start time that is configured in the time setting area of the wofklow
 - On Tuesday the next week regardlses of whether that Tuesday is a public holdiday or not.
 
-### 4.4 **Auto-approve**
+### 5.4 **Auto-approve**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
 
 Enable auto-approve to prevent bottlenecks - documents will automatically receive approved reviews on behalf of teams that haven't responded by the due date.
 
-### 4.5 Require review from all team members
+### 5.5 Require review from all team members
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
 
@@ -183,21 +187,21 @@ Enable Require review from all team members to require every individual member o
 
 - **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.<br>
 
-### 4.6 **Delete review step**
+### 5.6 **Delete review step**
 
 Click on the trashcan icon on the top right of a review step to delete it.
 
-### 4.7 **Requirement**
+### 5.7 **Requirement**
 
 If there are review steps each step must have at least one submitter to be able to sumit the workflow.
 
-## 5. **Final approval**
+## 6. **Final approval**
 
 Final approval will be given manually by a single team. This is what the final approval part of a new approval workflow can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
 
-### 5.1 **Team**
+### 6.1 **Team**
 
 The final appproval team that will give the final approval based on the reviews of each of the reviewer teams.
 
@@ -207,11 +211,11 @@ The final appproval team that will give the final approval based on the reviews 
 
 **Selecting a team with one member** Since it is not possible to add individual members, if only one member will work with this way of approving documents a team with only one member can be selected. After creating the workflow it will not be possible to edit it so even with one member a team allows for the flexibility of moving people in-and-out of that team.
 
-### 5.2 **Working days to approve**
+### 6.2 **Working days to approve**
 
 The amount of working days the final aproval team has to configure the final approval. _Minimum working days requried:_ 0 working days
 
-### 5.3 Topic template
+### 6.3 Topic template
 
 In the field topic templates you can choose the template the system use wich creates a topic when the approval flow is ended. Choosing nothing means that er no topics get created!
 
@@ -223,25 +227,25 @@ When there is no template you have ability to create one directly into the setti
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
 
-### 5.4 **Review state**
+### 6.4 **Review state**
 
 Approved or rejected
 
-### 5.5 **Final status**
+### 6.5 **Final status**
 
 Select the final status for approved and rejected documents. Approved documents will be published, Rejected documents will not be published.
 
-### 5.6 **Requirement**
+### 6.6 **Requirement**
 
 A final approval team must have been selected to be able to sumit the workflow. A final status for approved workflows must be selected to be able to sumit the workflow. A final status for rejected workflows must be selected to be able to sumit the workflow.
 
-## 6. **Submit**
+## 7. **Submit**
 
 Click on submit to submit the workflow.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
 
-### 6.1 **Required field warning**
+### 7.1 **Required field warning**
 
 If the workflow is missing a required field a warning towards the top of the page will ask for the missing fields to be filled out. This is what the warning can look like:
 
@@ -257,6 +261,6 @@ The following are required to submit a new workflow:
 - A final status for approved workflows has to be selected
 - A final status for rejected workflows has to be selected
 
-### 6.2 **Locked after submitting**
+### 7.2 **Locked after submitting**
 
 After submitting it will only be possible to change the title of the workflow.

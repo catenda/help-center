@@ -46,4 +46,12 @@ Click [here](https://support.catenda.com/en/articles/6707924-quantity-take-off-q
 
 ## 5. **Objects page**
 
-Search on any content from your IFC with logic. The objects page is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
+The [objects page](https://support.catenda.com/en/articles/12352750-objects-page) performs a similar task to the QTO menu: it displays rows with the information of the objects in your models. The two work in opposite directions, and they differ in how much they can export.
+
+### 5.1 **Finding objects**
+
+The QTO menu is dynamic and updates with the objects that are selected in the 3D viewer or tree panel. The objects page works the other way around. Search on any content from your IFC with logic to find objects with filters, and then load the objects that were found in the 3D viewer. Use the selected filter on the objects page to get a result similar to the QTO menu.
+
+### 5.2 **Exporting**
+
+Both the QTO menu and the objects page can be exported to Excel. On the objects page only the enabled columns are exported, so the columns in the exported file can be limited by turning columns on and off in the products table. The objects page can also handle a much larger number of cells than the QTO menu, which matters because objects often generate many cells (see [object count](#object-count)).

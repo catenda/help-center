@@ -36,7 +36,7 @@ This is what the approvals menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-The approvals menu is only available in projects where the new validation workflow has been requested to be enabled. The new validation workflow is an on-demand feature that can be requested to be enabled for new projects. New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
+The approvals menu is only available in projects where the new validation workflow is active. The new validation workflow is active in all new projects. Projects that use a legacy version of the validation workflow can request a migration to the new validation workflow from support. Projects created based on a template project include the approval workflows and topic templates of that template project.
 
 ### 3.1 **Configure workflows**
 

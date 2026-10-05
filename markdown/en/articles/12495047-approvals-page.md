@@ -20,7 +20,7 @@ The approvals page is hidden by default. Enable shared revisions in [document se
 
 ### 1.1 **Enabling from template project**
 
-Projects created based on a template project where shared statuses were enabled will have shared statuses enabled and the approvals page will be displayed upon creation. Workflows are not carried over from project to project so in a new project a workflow has to be created for members to be able to start submitting approval requests.
+Projects created based on a template project where shared statuses were enabled will have shared statuses enabled and the approvals page will be displayed upon creation. The approval workflows and topic templates of the template project are carried over to the new project, so they do not have to be created again before members can start submitting approval requests.
 
 ## 2. **New item actions**
 

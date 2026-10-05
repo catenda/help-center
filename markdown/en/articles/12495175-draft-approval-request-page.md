@@ -6,7 +6,7 @@ This is what the draft approval request page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Draft approval requests are only available for projects that enabled shared revisions after 2 October 2025. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project.
+Draft approval requests are only available for projects that enabled shared revisions after 2 October 2025. Projects created based on a template project include the approval workflows and topic templates of that template project.
 
 ## 1. **New item actions**
 

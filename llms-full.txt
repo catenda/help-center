@@ -475,7 +475,7 @@ If your current plan and access allows for it, you can create a new project by s
 
 Otherwise, to create a new project contact Catenda support at [support@catenda.com](mailto:support@catenda.com) or via the chat button. The black chat button can be found on the top right inside of Catenda Hub or to the bottom right on our help/home pages to upgrade your plan. We will guide you through creating it.
 
-The new project page can look something like this:
+This is what the new project page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
@@ -515,69 +515,82 @@ The document download setting that a created project receives is based on the do
 
 When the document download option for new projects in an organization is changed this setting is only applied to new projects created in the organization and not for the existing projects. It is therefore possible that there are projects in the same organization with different document download settings.
 
+### 3.3 **Projects created from a template project**
+
+The document download setting of a new project is based on the organization it is created in, not on the template project. It is never copied from the template project, so it is not one of the options when a template project is used.
+
 ## 4. **On-demand features**
 
-When a new project is created opt-in features are not enabled by default. It is possible to request for the following features to be enabled after creating a project:
+When a new project is created opt-in features are not enabled by default. It is possible to request for the following feature to be enabled after creating a project:
 
-[Objects page](https://support.catenda.com/en/articles/12352750-objects-page) [Reports page](https://support.catenda.com/en/articles/12303098-reports-page)
+[Reports page](https://support.catenda.com/en/articles/12303098-reports-page)
 
 ## 5. **Select a project to use as template**
 
-You can choose to inherit some of the settings of another project when making a new project. _Access required:_ Project member
+Check the use another project as a template box to inherit settings of another project when making a new project. _Access required:_ Project member
 
-### 5.1 **Models -** No revisions
+This is what it can look like when a template project is used:
 
-Empty models ready to receive new revisions
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/02-select-a-project-to-use-as-template.png)
+
+Items with a light green checkbox are always copied and cannot be unchecked. Labels, Milestones, Teams and Topic boards are always copied from the template project. Items with a dark green checkbox are optional and can be unchecked.
+
+Some items become required when another item is checked, as the note above the list says: "Items required by your selection are included automatically and cannot be unchecked." Currently the only dependency is on Approval workflows. When Approval workflows is checked, Document status configuration and Topic templates are included automatically and are shown in light green. When Approval workflows is unchecked, Document status configuration and Topic templates become optional and are shown in dark green.
+
+### 5.1 **Models (no revisions)**
+
+The models of the template project are copied without their revisions, so they are empty and ready to receive new revisions. _Selection:_ Optional
 
 ### 5.2 **Labels**
 
-Labels that can be connected to topics, models and documents. It is useful to have the same labels in multiple projects for analysis with tools like PowerBI
+The labels of the template project are copied, ready to be connected to topics, models and documents. It is useful to have the same labels in multiple projects for analysis with tools like Power BI. _Selection:_ Mandatory
 
-### 5.3 **Milestones -** No dates
+### 5.3 **Milestones (no dates)**
 
-Useful when creating a new project upon a phase change that has the same milestones as the last one.
+The milestones of the template project are copied without their dates. This is useful when creating a new project upon a phase change that has the same milestones as the last one. _Selection:_ Mandatory
 
-### 5.4 **Teams -** No member
+### 5.4 **Teams (no members)**
 
-Teams ready to accept members. Access in the document structure is also distributed through teams.
+The teams of the template project are copied without their members, ready to accept members. Access in the document structure is also distributed through teams. _Selection:_ Mandatory
 
-### 5.5 **Topic boards -** Including statuses and types, but no topics
+### 5.5 **Topic boards (including statuses and types, but no topics)**
 
-Boards that are set up and ready to be used for communication. Boards can lie archived until they are ready to be used.
+The topic boards of the template project are copied with their statuses and types, but without topics, so they are set up and ready to be used for communication. Boards can lie archived until they are ready to be used. _Selection:_ Mandatory
 
 ### 5.6 **Folder structure**
 
-Copy the names and structure of the template project folders without its documents. _Access required:_ Full access to the template project
+The names and structure of the template project folders are copied without their documents. _Access required:_ Full access to the template project _Selection:_ Optional
 
 ### 5.7 **Document status configuration**
 
-Public document statuses can be used to keep track of the progress of a document. Draft document statuses can be used for approvals.
+The document statuses of the template project are copied. Public document statuses can be used to keep track of the progress of a document. Draft document statuses can be used for approvals. _Selection:_ Mandatory when Approval workflows is checked, optional otherwise
 
-### 5.8 **Document download setting**
+### 5.8 **Document and topic board access control**
 
-The document download setting that the created project received is based on the document download setting for new projects in the organization and not based on which document download setting the template project has.
-
-### 5.9 **Document and topic board access control**
-
-This will copy the access control for the following options (if selected)
-
-- Folder structure
-- Topic boards
-
-_Access required:_ Full access to the template project
+The access control of the folder structure and the topic boards is copied, for those of the two that are selected.
 
 The following is included:
 
-- Defined access for "Teams". (If teams are selected)
-- Other access settings. ("All users", "Owners", etc...)
+- Defined access for "Teams"
+- Other access settings, such as "All users" and "Owners"
 
 The following is not included:
 
 - Defined access for "Users"
 
-### 5.10 **Custom fields and naming conventions**
+When this option is unchecked, the new project gets the default access instead. That is the default access for the root of the documents, which can be found in the documents settings, and the default access for the default topic board. _Access required:_ Administrator or owner of the template project _Selection:_ Optional
 
-Custom fields can be shown in issues and used in naming conventions.
+### 5.9 **Custom fields, naming conventions and QR code**
+
+The [folder configuration](https://support.catenda.com/en/articles/12302595-folder-configuration-document-settings) of the template project is copied: its custom fields, naming conventions and QR code stamping settings. Custom fields can be shown in issues and used in naming conventions. _Selection:_ Optional
+
+### 5.10 **Topic templates**
+
+The topic templates of the template project are copied, so topics can be created from the same templates in the new project. _Selection:_ Mandatory when Approval workflows is checked, optional otherwise
+
+### 5.11 **Approval workflows**
+
+The approval workflows of the template project are copied, so members can start submitting approval requests without a workflow being created first. The teams, document statuses and topic templates that a workflow uses are copied along with it, so every reference in the workflow still works in the new project. That is why checking Approval workflows makes Document status configuration and Topic templates mandatory. _Selection:_ Optional
 
 # Creating a team
 
@@ -5078,7 +5091,7 @@ The approvals page is hidden by default. Enable shared revisions in [document se
 
 ### 1.1 **Enabling from template project**
 
-Projects created based on a template project where shared statuses were enabled will have shared statuses enabled and the approvals page will be displayed upon creation. Workflows are not carried over from project to project so in a new project a workflow has to be created for members to be able to start submitting approval requests.
+Projects created based on a template project where shared statuses were enabled will have shared statuses enabled and the approvals page will be displayed upon creation. The approval workflows and topic templates of the template project are carried over to the new project, so they do not have to be created again before members can start submitting approval requests.
 
 ## 2. **New item actions**
 
@@ -7561,7 +7574,9 @@ The description of the custom field
 
 # Creating a new approval request
 
-The new approval request action can be found for projects that enabled shared revisions after 2 October 2025. Clicking the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) to create a new approval requets. Click on the new approval request button in the approvals menu of the right menu of a revision on the documents page where the latest revision is a shared revision to create a new approval request. This is what the create a new approval request dialogue can look like:
+The new approval request action can be found for projects that enabled shared revisions after 2 October 2025. Clicking the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) to create a new approval request. Click on the new approval request button in the approvals menu of the right menu of a revision on the documents page where the latest revision is a shared revision to create a new approval request.
+
+This is what the create a new approval request dialogue can look like:
 
 ![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -7577,7 +7592,9 @@ This is what the header of a new approval can look like for projects that enable
 
 Members that are part of submitter teams configured in a project workflow can select between one of the workflows that their teams are configured for. The workflow that was previously selected is remembered. As long as the previously selected workflow is still available it will be selected once again next time an approval is created.
 
-**Automatic selection** If only onle of the teams a member is part of is configured for a workflow, that workflow will automatically be selected. This is what it can look like when the workflow is automatically selected.
+A project's workflows may have been predefined in the template project the project was [created from](https://support.catenda.com/en/articles/4670245-creating-a-new-project). Project administrators can add new workflows or edit existing ones on the [workflows page](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings) of the document settings. A workflow existing in the project does not mean every member can select it: only members of a submitter team configured for that workflow can select it. Members that are asked to submit approval requests but do not have a workflow available can ask a project administrator to add one of their teams as a submitter team to a workflow.
+
+**Automatic selection** If only one of the teams a member is part of is configured for a workflow, that workflow will automatically be selected. This is what it can look like when the workflow is automatically selected.
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -7601,7 +7618,7 @@ The title of the approval request. An approval must have a title to be submitted
 
 ## 2. **Approval request body**
 
-The new validation workflow is an on-demand feature that can be requested to be enabled when starting a new project. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project. This is what the body of a new approval can look like for projects that enabled shared revisions after 2 October 2025:
+The new validation workflow is active in all new projects. Projects that use a legacy version of the validation workflow can request a migration to the new validation workflow from support. Projects created based on a template project include the approval workflows and topic templates of that template project. This is what the body of a new approval can look like for projects that enabled shared revisions after 2 October 2025:
 
 ![Approval Reqeust body Description (optional) Documents for review add documents cancel no documents added yet](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 
@@ -8059,25 +8076,29 @@ It is not possible to create a topic template for projects starting out with the
 
 # Creating a new workflow
 
-The new workflow page can be opened by clicking on the green plus button on [the workflows page](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings) or clicking on the action in the new element action menu on [the approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy). It is only possible to create new workflows in projects where the new validation workflow has been requested to be enabled. The new validation workflow is an on-demand feature that can be requested to be enabled when starting a new project. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project. This is what the title part of a new approval can look like:
+The new workflow page can be opened by clicking on the green plus button on [the workflows page](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings) or clicking on the action in the new element action menu on [the approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy). It is only possible to create new workflows in projects where the new validation workflow is active. The new validation workflow is active in all new projects. Projects that use a legacy version of the validation workflow can request a migration to the new validation workflow from support. This is what the title part of a new approval can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
-## 1. **Title**
+## 1. **Workflows from a template project**
+
+A workflow does not always have to be created from scratch. Projects created based on a template project include the approval workflows and topic templates of that template project. Click [here](https://support.catenda.com/en/articles/4670245-creating-a-new-project) to read more about creating a project based on a template project.
+
+## 2. **Title**
 
 Enter the name of the workflow. This is the only part of the workflow that can be edited after it has been submitted.
 
-### 1.1 **Requirement**
+### 2.1 **Requirement**
 
 A title must be provided to be able to sumit a workflow.
 
-### 1.2 **Approval contents**
+### 2.2 **Approval contents**
 
 This is what the contents of a new approval can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/02-approval-contents.png)
 
-## 2. **Time settings**
+## 3. **Time settings**
 
 Team members will have a limited amount of working days to review documents in review steps where their team has been set as a reviewer team. This is what the time settings of a new approval workflow can look like:
 
@@ -8087,11 +8108,11 @@ The time that is configured in time settings is the time for the working day to 
 
 **Example of how time settings can be considered:** Submissions can be dated based on these times. A submission at 2 AM belongs to the previous day if time setting is set to 6 AM.
 
-### 2.1 **Start time**
+### 3.1 **Start time**
 
 Chose between a value from 01 to 24 based on the 24 hour clock system otherwise known as military time.
 
-### 2.2 **Selected timezone**
+### 3.2 **Selected timezone**
 
 The default timezone is the timezone configured in your operating system. This is what a selected timezone list element can look like.
 
@@ -8105,13 +8126,13 @@ The first part of the selected timezone list element shows can display:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/05-selected-timezone.png)
 
-### 2.3 **GMT offset**
+### 3.3 **GMT offset**
 
 The second part of the selected timezone list element displays the current GMT offset for the selected timzone list element.
 
 The current timezone for the timezone list element is displayed. If the GMT offset for a geographical location changes to for example summer or winter time the GMT offset displayed for these geographical locations also changes.
 
-### 2.4 **Selecting a list element in the timezone dropdown**
+### 3.4 **Selecting a list element in the timezone dropdown**
 
 Click on the selected timezone list element to open the timezone dropdown. This is what the timezone dropdown can look like:
 
@@ -8173,7 +8194,7 @@ Or the timezone abbreviation:
 
 Since some timezones have a GMT offesset as type it is often better to search for the full timezone name rather than the timezone abbreviation. Only timezones that are currently active are displayed so for timezones that change for geographical locations only the timezone that is currently active for that geographical location can be found.
 
-## 3. **Submitters**
+## 4. **Submitters**
 
 Select which teams members in the final approval team will see in the list of teams they can choose from when selecting a submitter team for an approval with this workflow. This is what the submitters part of a new approval workflow can look like:
 
@@ -8187,23 +8208,23 @@ Select which teams members in the final approval team will see in the list of te
 
 > **Note:** It is only possible to select teams and not individual members
 
-### 3.1 **Requirement**
+### 4.1 **Requirement**
 
 At least one submitter must be selected to sumit the workflow.
 
-## 4. **Review steps**
+## 5. **Review steps**
 
 Build a multi-stage review process This is what the review steps part of a new approval workflow can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
-### 4.1 **Step amount**
+### 5.1 **Step amount**
 
 **No steps** While it is possible to create a workflow with no steps by deleting all steps it will not be possible to create an approval with this workflow as there has to be at least one step to be eable to submit an approval.
 
 **Maximum amount of steps** The maximum step amount that a workflow can have is 10.
 
-### 4.2 **Teams**
+### 5.2 **Teams**
 
 Select reviewer teams who will be able to participate in the review step. The maximum amount of teams a workflow can have is 20. Each team must submit their review before proceeding the wokflow advances to the next step. If auto approve is checked the workflow will automatically go to the next step after the configured amount of working days.
 
@@ -8213,7 +8234,7 @@ Select reviewer teams who will be able to participate in the review step. The ma
 
 **Selecting a team with one member** Since it is not possible to add individual members, if only one member will work with this way of approving documents a team with only one member can be selected. After creating the workflow it will not be possible to edit it so even with one member a team allows for the flexibility of moving people in-and-out of that team.
 
-### 4.3 **Working days to review**
+### 5.3 **Working days to review**
 
 Working days are defined as Monday through Friday. Public holdidays are included in the working days to review. _Minimum working days requried:_ 1 working day
 
@@ -8226,13 +8247,13 @@ If the start date for the approval step is on a Friday the due date will be set 
 - The start time that is configured in the time setting area of the wofklow
 - On Tuesday the next week regardlses of whether that Tuesday is a public holdiday or not.
 
-### 4.4 **Auto-approve**
+### 5.4 **Auto-approve**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
 
 Enable auto-approve to prevent bottlenecks - documents will automatically receive approved reviews on behalf of teams that haven't responded by the due date.
 
-### 4.5 Require review from all team members
+### 5.5 Require review from all team members
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
 
@@ -8242,21 +8263,21 @@ Enable Require review from all team members to require every individual member o
 
 - **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.<br>
 
-### 4.6 **Delete review step**
+### 5.6 **Delete review step**
 
 Click on the trashcan icon on the top right of a review step to delete it.
 
-### 4.7 **Requirement**
+### 5.7 **Requirement**
 
 If there are review steps each step must have at least one submitter to be able to sumit the workflow.
 
-## 5. **Final approval**
+## 6. **Final approval**
 
 Final approval will be given manually by a single team. This is what the final approval part of a new approval workflow can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
 
-### 5.1 **Team**
+### 6.1 **Team**
 
 The final appproval team that will give the final approval based on the reviews of each of the reviewer teams.
 
@@ -8266,11 +8287,11 @@ The final appproval team that will give the final approval based on the reviews 
 
 **Selecting a team with one member** Since it is not possible to add individual members, if only one member will work with this way of approving documents a team with only one member can be selected. After creating the workflow it will not be possible to edit it so even with one member a team allows for the flexibility of moving people in-and-out of that team.
 
-### 5.2 **Working days to approve**
+### 6.2 **Working days to approve**
 
 The amount of working days the final aproval team has to configure the final approval. _Minimum working days requried:_ 0 working days
 
-### 5.3 Topic template
+### 6.3 Topic template
 
 In the field topic templates you can choose the template the system use wich creates a topic when the approval flow is ended. Choosing nothing means that er no topics get created!
 
@@ -8282,25 +8303,25 @@ When there is no template you have ability to create one directly into the setti
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
 
-### 5.4 **Review state**
+### 6.4 **Review state**
 
 Approved or rejected
 
-### 5.5 **Final status**
+### 6.5 **Final status**
 
 Select the final status for approved and rejected documents. Approved documents will be published, Rejected documents will not be published.
 
-### 5.6 **Requirement**
+### 6.6 **Requirement**
 
 A final approval team must have been selected to be able to sumit the workflow. A final status for approved workflows must be selected to be able to sumit the workflow. A final status for rejected workflows must be selected to be able to sumit the workflow.
 
-## 6. **Submit**
+## 7. **Submit**
 
 Click on submit to submit the workflow.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
 
-### 6.1 **Required field warning**
+### 7.1 **Required field warning**
 
 If the workflow is missing a required field a warning towards the top of the page will ask for the missing fields to be filled out. This is what the warning can look like:
 
@@ -8316,7 +8337,7 @@ The following are required to submit a new workflow:
 - A final status for approved workflows has to be selected
 - A final status for rejected workflows has to be selected
 
-### 6.2 **Locked after submitting**
+### 7.2 **Locked after submitting**
 
 After submitting it will only be possible to change the title of the workflow.
 
@@ -9536,7 +9557,7 @@ This is what the approvals menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-The approvals menu is only available in projects where the new validation workflow has been requested to be enabled. The new validation workflow is an on-demand feature that can be requested to be enabled for new projects. New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
+The approvals menu is only available in projects where the new validation workflow is active. The new validation workflow is active in all new projects. Projects that use a legacy version of the validation workflow can request a migration to the new validation workflow from support. Projects created based on a template project include the approval workflows and topic templates of that template project.
 
 ### 3.1 **Configure workflows**
 
@@ -9969,7 +9990,7 @@ This is what the draft approval request page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Draft approval requests are only available for projects that enabled shared revisions after 2 October 2025. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project.
+Draft approval requests are only available for projects that enabled shared revisions after 2 October 2025. Projects created based on a template project include the approval workflows and topic templates of that template project.
 
 ## 1. **New item actions**
 
@@ -13700,7 +13721,7 @@ _Access required:_ One of the following regardless of administrator status:
 - Member of a reviewer team that is configured to review one of the steps for the selected workflow in the approval request.
 - Member of the publisher team that is configured to submit the final approval for the selected workflow in the approval request.
 
-Approval requests can be submitted on the approvals page or any approval request drafts they have previously created can be submitted from their approval draft page. Projects where shared revisions were enabled before 2 October 2025 will see the legacy approval request page instead. It is only possible to create a project based on a template project legacy validation workflow is enabled in that template project.
+Approval requests can be submitted on the approvals page or any approval request drafts they have previously created can be submitted from their approval draft page. Projects where shared revisions were enabled before 2 October 2025 will see the legacy approval request page instead. Projects created based on a template project include the approval workflows and topic templates of that template project.
 
 ## 1. **New item actions**
 
@@ -15191,7 +15212,15 @@ Click [here](https://support.catenda.com/en/articles/6707924-quantity-take-off-q
 
 ## 5. **Objects page**
 
-Search on any content from your IFC with logic. The objects page is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
+The [objects page](https://support.catenda.com/en/articles/12352750-objects-page) performs a similar task to the QTO menu: it displays rows with the information of the objects in your models. The two work in opposite directions, and they differ in how much they can export.
+
+### 5.1 **Finding objects**
+
+The QTO menu is dynamic and updates with the objects that are selected in the 3D viewer or tree panel. The objects page works the other way around. Search on any content from your IFC with logic to find objects with filters, and then load the objects that were found in the 3D viewer. Use the selected filter on the objects page to get a result similar to the QTO menu.
+
+### 5.2 **Exporting**
+
+Both the QTO menu and the objects page can be exported to Excel. On the objects page only the enabled columns are exported, so the columns in the exported file can be limited by turning columns on and off in the products table. The objects page can also handle a much larger number of cells than the QTO menu, which matters because objects often generate many cells (see [object count](#object-count)).
 
 # Queries
 
@@ -20317,7 +20346,7 @@ The value conversion button appears in the pop-up menu when right clicking the p
 
 # Workflows page - Document settings
 
-The workflows page can be found by clicking on the configure workflows button in the approvals menu of the [documents settings page](https://support.catenda.com/en/articles/7831371-document-settings-page) in projects where the new validation workflow has been requested to be enabled and shared statuses are enabled in the status workflow menu of [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page). The new validation workflow is an on-demand feature that can be requested to be enabled when starting a new project. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project. On the workflows page workflows for different approval configurations can be configured. _Access required:_ Administrator
+The workflows page can be found by clicking on the configure workflows button in the approvals menu of the [documents settings page](https://support.catenda.com/en/articles/7831371-document-settings-page) in projects where the new validation workflow is active and shared statuses are enabled in the status workflow menu of [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page). The new validation workflow is active in all new projects. Projects that use a legacy version of the validation workflow can request a migration to the new validation workflow from support. On the workflows page workflows for different approval configurations can be configured. _Access required:_ Administrator
 
 The workflows page can look something like this:
 
@@ -20327,7 +20356,7 @@ The following topics will be described in this article:
 
 _[New item actions](https://support.catenda.com/en/articles/8204673-documents-page#h_d0f4a44fb7) - [Search or filter](https://support.catenda.com/en/articles/8204673-documents-page#h_bbf4dcad58) - [Right menu](https://support.catenda.com/en/articles/8204673-documents-page#h_fc89aaa1fe) - [Table](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) - [Sub-pages](https://support.catenda.com/en/articles/8204673-documents-page#h_5751ccd2b7)_
 
-While the workflows page is a sub-page to the approvals page as is apparent by the approvals page being higlighted and the breadcrumbs towards the top, the page is only accessible from the approvals menu in document settings.
+While the workflows page is a sub-page to the approvals page as is apparent by the approvals page being highlighted and the breadcrumbs towards the top, the page is only accessible from the approvals menu in document settings.
 
 ## 1. **New item actions**
 
@@ -20394,6 +20423,10 @@ Created by - _Default_ The member that created the workflow.
 Created at - _Default_ The date and time the workflow was created
 
 Status - _Default_ The status of the workflow
+
+## 4. **Workflows from a template project**
+
+Projects created based on a template project include the approval workflows and topic templates of that template project. These workflows are listed in the workflows table of the new project. Click [here](https://support.catenda.com/en/articles/4670245-creating-a-new-project) to read more about creating a project based on a template project.
 
 # Create a new approval workflow template - Short video
 
