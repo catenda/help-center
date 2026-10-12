@@ -514,6 +514,8 @@ Dit is hoe de pagina voor het nieuwe project eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
+De volgende onderwerpen zijn beschreven in dit artikel:
+
 ## 1. **Een eigenaar selecteren**
 
 Gebruikers met toegang tot bedrijfsorganisaties kunnen het aantal projecten maken dat hun plan toestaat.
@@ -571,6 +573,8 @@ Dit is hoe het eruit kan zien wanneer een templateproject wordt gebruikt:
 Items met een licht groen selectievakje worden altijd gekopieerd en kunnen niet worden uitgeschakeld. Labels, Mijlpalen, Teams en Topic boards worden altijd van het templateproject gekopieerd. Items met een donker groen selectievakje zijn optioneel en kunnen worden uitgeschakeld.
 
 Sommige items worden verplicht wanneer een ander item is ingeschakeld, zoals in de opmerking boven de lijst staat: "Items die vereist zijn voor uw selectie worden automatisch opgenomen en kunnen niet worden uitgeschakeld." Momenteel is de enige afhankelijkheid van Approval workflows. Wanneer Approval workflows is ingeschakeld, worden Document status configuration en Topic templates automatisch opgenomen en in licht groen weergegeven. Wanneer Approval workflows is uitgeschakeld, worden Document status configuration en Topic templates optioneel en in donker groen weergegeven.
+
+De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 5.1 **Modellen (geen revisies)**
 
@@ -7648,9 +7652,9 @@ Klik op Indienen voor beoordeling om de goedkeuring in te dienen en het goedkeur
 - Een indiener-Team waarop u namens wilt indienen moet worden geselecteerd
 - Een titel
 - Documenten
-  - Minimaal 1 Document met een geselecteerde gedeelde revision moet worden toegevoegd om de goedkeuring in te kunnen dienen.
-  - Maximaal 1000 documentrevisies met een geselecteerde gedeelde revision kunnen worden toegevoegd.
-  - Om een goedkeuringsvraag met meer dan 1000 documentrevisies aan te maken, maakt u eerst een concept aan met maximaal 1000 revisies en voegt u vervolgens maximaal 1000 documentrevisies tegelijk toe aan het concept voordat u het concept indient voor beoordeling.
+    - Minimaal 1 Document met een geselecteerde gedeelde revision moet worden toegevoegd om de goedkeuring in te kunnen dienen.
+    - Maximaal 1000 documentrevisies met een geselecteerde gedeelde revision kunnen worden toegevoegd.
+    - Om een goedkeuringsvraag met meer dan 1000 documentrevisies aan te maken, maakt u eerst een concept aan met maximaal 1000 revisies en voegt u vervolgens maximaal 1000 documentrevisies tegelijk toe aan het concept voordat u het concept indient voor beoordeling.
 
 Na het indienen van een goedkeuringsvraag ter beoordeling met de nieuwe validatiewerkstroom is het enige dat kan worden gewijzigd dat gedeelde revisiedocumenten uit het verzoek kunnen worden verwijderd. Leden van het indienersteam en leden van het definitieve beoordelingsteam kunnen documentrevisies gedurende de gehele werkstroom verwijderen. Leden van een team dat aan een beoordelingsstap is toegewezen, kunnen dit alleen doen terwijl die stap actief is.
 
@@ -8088,6 +8092,8 @@ De nieuwe werkstroompage kan worden geopend door op de groene plusknop op [de we
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
+De volgende topics zijn beschreven in dit artikel:
+
 ## 1. **Werkstromen uit een sjabloonproject**
 
 Een werkstroom hoeft niet altijd helemaal opnieuw te worden gemaakt. Projecten die zijn gebaseerd op een sjabloonproject, bevatten de goedkeuringswerkstromen en onderwerpsjablonen van dat sjabloonproject. Klik [hier](https://support.catenda.com/nl/articles/4670245-een-nieuw-project-maken) voor meer informatie over het maken van een project op basis van een sjabloonproject.
@@ -8115,6 +8121,8 @@ Teamleden hebben een beperkt aantal werkdagen om documenten in beoordelingsstapp
 De tijd die in tijdinstellingen is ingesteld, is de tijd waarop de werkdag voor elk van deze werkdagen begint en eindigt. Configureer de tijdinstellingen zodat ze overeenkomen met de teamleden van teams die zijn ingesteld als revisorteams voor beoordelingsstappen in deze workflow. Teamleden kunnen hun beoordeling indienen binnen het gegeven timeframe op basis van het aantal werkdagen en de tijd die in dit veld is geconfigureerd.
 
 **Voorbeeld van hoe tijdinstellingen kunnen worden overwogen:** Inzendingen kunnen worden gedateerd op basis van deze tijden. Een inzending om 2:00 uur behoort tot de vorige dag als de tijdinstelling is ingesteld op 6:00 uur.
+
+De volgende topics zijn beschreven in deze sectie:
 
 ### 3.1 **Begintijd**
 
@@ -8226,6 +8234,8 @@ Bouw een meertrapsbeoordelingsproces Dit is hoe het stappendeel van een nieuwe g
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
+De volgende topics zijn beschreven in deze sectie:
+
 ### 5.1 **Stapgrootte**
 
 **Geen stappen** Hoewel het mogelijk is om een workflow met geen stappen te maken door alle stappen te verwijderen, is het niet mogelijk om een goedkeuring met deze workflow te maken omdat er minstens één stap moet zijn om een goedkeuring in te dienen.
@@ -8284,6 +8294,8 @@ Als er beoordelingsstappen zijn, moet elke stap minstens één indiener hebben o
 De definitieve goedkeuring wordt handmatig gegeven door een enkel team. Dit is hoe het onderdeel definitieve goedkeuring van een nieuwe goedkeuringswerkflow eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
+
+De volgende topics zijn beschreven in deze sectie:
 
 ### 6.1 **Team**
 

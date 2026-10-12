@@ -8,6 +8,8 @@ Dit is hoe de pagina voor het nieuwe project eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
+De volgende onderwerpen zijn beschreven in dit artikel:
+
 ## 1. **Een eigenaar selecteren**
 
 Gebruikers met toegang tot bedrijfsorganisaties kunnen het aantal projecten maken dat hun plan toestaat.
@@ -65,6 +67,8 @@ Dit is hoe het eruit kan zien wanneer een templateproject wordt gebruikt:
 Items met een licht groen selectievakje worden altijd gekopieerd en kunnen niet worden uitgeschakeld. Labels, Mijlpalen, Teams en Topic boards worden altijd van het templateproject gekopieerd. Items met een donker groen selectievakje zijn optioneel en kunnen worden uitgeschakeld.
 
 Sommige items worden verplicht wanneer een ander item is ingeschakeld, zoals in de opmerking boven de lijst staat: "Items die vereist zijn voor uw selectie worden automatisch opgenomen en kunnen niet worden uitgeschakeld." Momenteel is de enige afhankelijkheid van Approval workflows. Wanneer Approval workflows is ingeschakeld, worden Document status configuration en Topic templates automatisch opgenomen en in licht groen weergegeven. Wanneer Approval workflows is uitgeschakeld, worden Document status configuration en Topic templates optioneel en in donker groen weergegeven.
+
+De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 5.1 **Modellen (geen revisies)**
 

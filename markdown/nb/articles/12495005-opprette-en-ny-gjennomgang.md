@@ -20,7 +20,7 @@ Medlemmer som er del av innsenderteam som er konfigurert i en projektarbeidsflyt
 
 Prosjektets arbeidsflyter kan ha vært forhåndsdefinert i malprosjektet som prosjektet ble [opprettet fra](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt). Prosjektadministratorer kan legge til nye arbeidsflyter eller redigere eksisterende på [arbeidsflytsiden](https://support.catenda.com/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger) i dokumentinnstillingene. En arbeidsflyt som finnes i prosjektet betyr ikke at alle medlemmer kan velge den: bare medlemmer av et innsendingsteam som er konfigurert for den arbeidsflytene kan velge den. Medlemmer som blir bedt om å sende inn gjennomgangsforespørsler, men som ikke har en tilgjengelig arbeitsflyt, kan spørre en prosjektadministrator om å legge til ett av deres teams som et innsendingsteam i en arbeidsflyt.
 
-**Automatisk utvalg** Hvis bare ett av teamene som et medlem er del av, er konfigurert for en arbeidsflyt, blir denne arbeidsflytenen automatisk valgt. Slik kan det se ut når arbeidsflytenen er automatisk valgt.
+_Automatisk utvalg_ Hvis bare ett av teamene som et medlem er del av, er konfigurert for en arbeidsflyt, blir denne arbeidsflytenen automatisk valgt. Slik kan det se ut når arbeidsflytenen er automatisk valgt.
 
 ![Arbeidsflyt Innsender Tittel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -32,7 +32,7 @@ Etter at en arbeidsflyt er valgt, kan medlemmer som er del av flere innsendertea
 
 Når gjennomgangsforespørselen opprettes, vil medlemmer som er del av det valgte innsenderteamet se forespørselen, mens medlemmer som er del av de andre mulige innsenderteamene bare vil se forespørselen hvis de er del av ett av vurderingsteamene eller del av det endelige gjennomgangsteamet som er konfigurert for arbeidsflyten.
 
-**Automatisk valg** Hvis et medlem bare er del av ett av innsenderteamene som er konfigurert for arbeidsflyten, velges innsenderteamet automatisk når arbeidsflyten velges.
+_Automatisk valg_ Hvis et medlem bare er del av ett av innsenderteamene som er konfigurert for arbeidsflyten, velges innsenderteamet automatisk når arbeidsflyten velges.
 
 ![Arbeidsflyt Innsender Tittel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/04-submitter-selection.png)
 
@@ -100,9 +100,9 @@ Klikk på Send til vurdering for å sende gjennomgangen og starte gjennomgangspr
 - Et innsenderteam som skal sende på vegne av, må velges
 - En tittel
 - Dokumenter
-  - Minst 1 dokument med en valgt delt revisjon må legges til for å kunne sende gjennomgangen.
-  - Maksimalt 1000 dokumentrevisjoner med en valgt delt revisjon kan legges til.
-  - For å opprette en gjennomgangsforespørsel med mer enn 1000 dokumentrevisjoner, oppretter du først et utkast med opptil 1000 revisjoner, og deretter legger du til opptil 1000 dokumentrevisjoner om gangen til utkastet før du sender utkastet til vurdering.
+    - Minst 1 dokument med en valgt delt revisjon må legges til for å kunne sende gjennomgangen.
+    - Maksimalt 1000 dokumentrevisjoner med en valgt delt revisjon kan legges til.
+    - For å opprette en gjennomgangsforespørsel med mer enn 1000 dokumentrevisjoner, oppretter du først et utkast med opptil 1000 revisjoner, og deretter legger du til opptil 1000 dokumentrevisjoner om gangen til utkastet før du sender utkastet til vurdering.
 
 Etter at en gjennomgangforespørsel er sendt inn for vurdering med den nye valideringarbeidsflyten, er det eneste som kan endres at delte revisjonsdokumenter kan forkastes fra forespørselen. Medlemmer av innsendingsteamet og medlemmer av det endelige vurderingsteamet kan forkaste dokumentrevisjoner gjennom hele arbeidsflyten. Medlemmer av et team som er tildelt et vurderingstrinn kan gjøre det bare mens det trinnet er aktivt.
 

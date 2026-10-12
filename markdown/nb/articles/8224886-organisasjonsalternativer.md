@@ -18,17 +18,17 @@ Alternativet for nedlastingsnavn på dokument bestemmer hvilket filnavn en nedla
 
 Alternativet er ett av standardalternativene for nye prosjekter. Når organisasjonen endrer det, gjelder endringen bare for prosjekter som opprettes etterpå. Eksisterende prosjekter beholder innstillingen de allerede har.
 
-**Eksempel:** Navnet på prosjektet er _testproject._ To filer lastes opp med to revisjoner hver: _test01.pdf_ og _test02.pdf_ Navnene på dokumentene blir deretter endret til: _changed01.pdf_ og _changed02.pdf_
+_Eksempel:_ Navnet på prosjektet er _testproject._ To filer lastes opp med to revisjoner hver: _test01.pdf_ og _test02.pdf_ Navnene på dokumentene blir deretter endret til: _changed01.pdf_ og _changed02.pdf_
 
-**Alternativer:** Alternativene nedenfor bestemmer hva disse to filene kalles når du laster dem ned.
+_Alternativer:_ Alternativene nedenfor bestemmer hva disse to filene kalles når du laster dem ned.
 
-**Revisjonsnavn** \<Revisjonsnavn>.\<Filtype> _test01.pdf_ og _test02.pdf_
+_Revisjonsnavn_ \<Revisjonsnavn>.\<Filtype> _test01.pdf_ og _test02.pdf_
 
-**Dokumenttittel** \<Dokumentnavn>.\<Filtype> _changed01.pdf_ og _changed02.pdf_
+_Dokumenttittel_ \<Dokumentnavn>.\<Filtype> _changed01.pdf_ og _changed02.pdf_
 
-**Dokumenttittel med revisjonsnummer** \<Dokumentnavn>\<Revisjonsnummer>.\<Filtype> _changed01.pdf #2_ og _changed02.pdf #2_
+_Dokumenttittel med revisjonsnummer_ \<Dokumentnavn>\<Revisjonsnummer>.\<Filtype> _changed01.pdf #2_ og _changed02.pdf #2_
 
-**Prosjekttittel med dokumenttittel og revisjonsnummer** \<Prosjektnavn>\<Dokumentnavn>\<Revisjonsnummer>.\<Filtype> _testproject changed01.pdf #2_ og _testproject changed02.pdf #2_
+_Prosjekttittel med dokumenttittel og revisjonsnummer_ \<Prosjektnavn>\<Dokumentnavn>\<Revisjonsnummer>.\<Filtype> _testproject changed01.pdf #2_ og _testproject changed02.pdf #2_
 
 ### 3.2 Hvor alternativet gjelder
 
@@ -38,9 +38,9 @@ Alternativet gjelder når du laster ned en enkelt fil og når du laster ned fler
 
 Noen få nedlastinger ignorerer alternativet.
 
-**Offentlige lenker** Hvis du deler en samling med en offentlig lenke, laster personen som åpner lenken ned fra Catenda Transfer-siden. Filene de laster ned beholder alltid revisjonsnavnet sitt.
+_Offentlige lenker_ Hvis du deler en samling med en offentlig lenke, laster personen som åpner lenken ned fra Catenda Transfer-siden. Filene de laster ned beholder alltid revisjonsnavnet sitt.
 
-**Merknadsverktøylinje** Når du laster ned fra handlingsmenyen i merknadverktøylinjen i forhåndsvisningen av dokumentet, får filen alltid revisjonsnavnet, uavhengig av hva alternativet er satt til. Hvis du velger **Lagre som** i samme meny, kan du skrive inn filnavnet du ønsker.
+_Merknadsverktøylinje_ Når du laster ned fra handlingsmenyen i merknadverktøylinjen i forhåndsvisningen av dokumentet, får filen alltid revisjonsnavnet, uavhengig av hva alternativet er satt til. Hvis du velger **Lagre som** i samme meny, kan du skrive inn filnavnet du ønsker.
 
 ### 3.4 Utfordringer med alternativet
 
@@ -56,9 +56,9 @@ Med alternativet **Revisjonsnavn** beholder en fil som ble lastet opp med et ukl
 
 Karantenebehandling for infiserte filer i eide prosjekter. Hvis et dokument blir funnet infisert, kan det som standard lastes ned. Brukeren vil få en advarsel om at dette dokumentet inneholder et virus. Et alternativ kan settes per organisasjon som gjør at ingen, ikke engang administratorer, vil være i stand til å laste ned infiserte dokumenter.
 
-**Alternativer:** _Advar ved nedlasting_ - standard
+_Alternativer:_ _Advar ved nedlasting_ - standard
 
-**Blokker nedlasting**
+_Blokker nedlasting_
 
 ### 3.6 **Modeller som dokumenter**
 
@@ -102,11 +102,11 @@ _Microsoft Active Directory:_ For å konfigurere SSO med Microsoft Active Direct
 
 Når det er gjort, må systemadministratoren din komme tilbake til oss med App Federation Metadata URL og Federation Metadata XML for det nye programmet.
 
-**GSuite:** Sett opp SSO som i [denne artikkelen](https://support.google.com/a/answer/12032922?hl=en)
+_GSuite:_ Sett opp SSO som i [denne artikkelen](https://support.google.com/a/answer/12032922?hl=en)
 
-**Testbrukere:** Når SSO-oppsettet er konfigurert, vennligst oppgi en liste over testbrukere som SSO kan aktiveres for først slik at du kan se hvordan SSO vil fungere for dem. Når testbrukerne har blitt testet, kan de resterende brukerne aktiveres.
+_Testbrukere:_ Når SSO-oppsettet er konfigurert, vennligst oppgi en liste over testbrukere som SSO kan aktiveres for først slik at du kan se hvordan SSO vil fungere for dem. Når testbrukerne har blitt testet, kan de resterende brukerne aktiveres.
 
-**Blacklist og Whitelist:** Det er også mulig å konfigurere en blacklist/whitelist: For eksempel: Alle brukere unntatt: X, Y og osv. skal være tillatt å logge inn med SSO, eller, Bare X, Y og osv. skal være tillatt å logge inn med SSO Denne informasjonen må leveres i tillegg til XML-filen som spesifisert ovenfor.
+_Blacklist og Whitelist:_ Det er også mulig å konfigurere en blacklist/whitelist: For eksempel: Alle brukere unntatt: X, Y og osv. skal være tillatt å logge inn med SSO, eller, Bare X, Y og osv. skal være tillatt å logge inn med SSO Denne informasjonen må leveres i tillegg til XML-filen som spesifisert ovenfor.
 
 ### 5.3 **Deaktiver offentlig delingsfunksjon**
 

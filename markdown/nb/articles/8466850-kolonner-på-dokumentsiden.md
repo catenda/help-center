@@ -26,9 +26,9 @@ For de fleste dokumenter vises filtypeikonet. For bildefiltyper vises bildet i s
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/01-document-icons.png)
 
-**Modellmerke** Dokumenter som er knyttet til en modell på modeltsiden vil vise et modellmerke nederst til venstre.
+_Modellmerke_ Dokumenter som er knyttet til en modell på modeltsiden vil vise et modellmerke nederst til venstre.
 
-**Mappekonfigurasjon** Hvis den overordnede mappen for dokumentet har blitt konfigurert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) vil du se et grått girmerke nederst til høyre for dokumentikonet.
+_Mappekonfigurasjon_ Hvis den overordnede mappen for dokumentet har blitt konfigurert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) vil du se et grått girmerke nederst til høyre for dokumentikonet.
 
 ### 3.3 **Mappeikoner**
 
@@ -36,13 +36,13 @@ Avhengig av konfigurasjonen av mappen kan det hende du ser merker som vises i hj
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/02-folder-icons.png)
 
-**Elementantall** Hvis det ikke er noen elementer i en mappe (undermapper eller dokumenter) vil det være hvitt.
+_Elementantall_ Hvis det ikke er noen elementer i en mappe (undermapper eller dokumenter) vil det være hvitt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/03-folder-icons.png)
 
 Hvis det er elementer i en mappe (undermapper eller dokumenter) vil det være grønt. Nederst til høyre vil du se antallet elementer som befinner seg i denne mappen.
 
-**Mappekonfigurasjon** Hvis en mappe har blitt konfigurert i dokumentinnstillinger vil du se et grønt girmerke nederst til høyre. Hvis en overordnet mappe av en mappe har blitt konfigurert vil girfikonen være grå i stedet.
+_Mappekonfigurasjon_ Hvis en mappe har blitt konfigurert i dokumentinnstillinger vil du se et grønt girmerke nederst til høyre. Hvis en overordnet mappe av en mappe har blitt konfigurert vil girfikonen være grå i stedet.
 
 ## 4. **Navn** - Standard 1 panel, Standard flerpanel
 
@@ -70,9 +70,9 @@ Hver revisjon kan ha sitt eget revisjonsnavn, opprettelsesdato, filstørrelse og
 
 Antallet revisjoner i dokumentet. Revisjoner vises med en grønn hake og et helt tall 1, 2, 3, osv...
 
-**Delte revisjoner** Hvis delte revisjoner har blitt aktivert i dokumentstatusseksjonen i dokumentinnstillinger, vil nye opplastinger i arbeidsplass-fanen vises med et hoved- og et birnummer som 0.1, 0.2, 1.1, osv... Hvis den siste revisjonen er en publisert revisjon, vises den som et helt tall. I den publiserte fanen vises den siste publiserte revisjonen alltid med sitt hele tall uavhengig av om det er en nyere delt revisjon eller ikke.
+_Delte revisjoner_ Hvis delte revisjoner har blitt aktivert i dokumentstatusseksjonen i dokumentinnstillinger, vil nye opplastinger i arbeidsplass-fanen vises med et hoved- og et birnummer som 0.1, 0.2, 1.1, osv... Hvis den siste revisjonen er en publisert revisjon, vises den som et helt tall. I den publiserte fanen vises den siste publiserte revisjonen alltid med sitt hele tall uavhengig av om det er en nyere delt revisjon eller ikke.
 
-**Utkastrevisjoner - Legacy** I den gamle visningen er antallet utkastrevisjoner etter den siste publiserte revisjonen oppført.
+_Utkastrevisjoner - Legacy_ I den gamle visningen er antallet utkastrevisjoner etter den siste publiserte revisjonen oppført.
 
 ### 5.2 **Revisjonsnavn**
 
@@ -116,9 +116,9 @@ I denne kolonnen vil du se medlemmet som opprettet den nyeste dokumentrevisjonen
 
 Hvis du har aktivert dokumentstatusarbeidsflyten, vil oppførselen til denne kolonnen være annerledes avhengig av hvilken fane du er i.
 
-**Arbeidsflate-fane** I arbeidsflate-fanen vil du se medlemmet som opprettet den nyeste revisjonen og datoen og tiden den ble opprettet.
+_Arbeidsflate-fane_ I arbeidsflate-fanen vil du se medlemmet som opprettet den nyeste revisjonen og datoen og tiden den ble opprettet.
 
-**Publisert fane** I den publiserte fanen vil du se medlemmet som publiserte den nyeste publiserte revisjonen og datoen og tiden den ble publisert.
+_Publisert fane_ I den publiserte fanen vil du se medlemmet som publiserte den nyeste publiserte revisjonen og datoen og tiden den ble publisert.
 
 > **Merk:** Den nyeste publiserte revisjonen er ikke nødvendigvis den nyeste revisjonen i dokumentet siden delte revisjoner kan ha blitt lastet opp siden den siste publiserte revisjonen.
 
