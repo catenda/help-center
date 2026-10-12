@@ -1,6 +1,6 @@
 # Page Workflows - Paramètres des documents
 
-La page workflows se trouve en cliquant sur le bouton configurer les workflows dans le menu approbations de la [page paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) dans les projets où le nouveau circuit de validation a été demandé à être activé et les statuts partagés sont activés dans le menu circuit de statut des [paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document). Le nouveau circuit de validation est une fonctionnalité à la demande qui peut être demandée à être activée lors du démarrage d'un nouveau projet. Il est uniquement possible de créer un projet basé sur un projet de modèle lorsque le nouveau circuit de validation n'est pas activé dans ce projet de modèle. Sur la page workflows, les workflows pour différentes configurations d'approbation peuvent être configurés. _Accès requis:_ Administrateur
+La page des flux de travail se trouve en cliquant sur le bouton configurer les flux de travail dans le menu des approbations de la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) dans les projets où le nouveau flux de travail de validation est actif et les statuts partagés sont activés dans le menu du flux de travail des statuts des [paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document). Le nouveau flux de travail de validation est actif dans tous les nouveaux projets. Les projets qui utilisent une version héritée du flux de travail de validation peuvent demander une migration vers le nouveau flux de travail de validation au support. Sur la page des flux de travail, les flux de travail pour différentes configurations d'approbation peuvent être configurés. _Accès requis :_ Administrateur
 
 La page workflows peut ressembler à ceci :
 
@@ -10,7 +10,7 @@ Les sujets suivants seront décrits dans cet article :
 
 _[Nouvelles actions d'élément](https://support.catenda.com/fr/articles/8204673-page-documents#h_d0f4a44fb7) - [Rechercher ou filtrer](https://support.catenda.com/fr/articles/8204673-page-documents#h_bbf4dcad58) - [Menu droit](https://support.catenda.com/fr/articles/8204673-page-documents#h_fc89aaa1fe) - [Tableau](https://support.catenda.com/fr/articles/8204673-page-documents#h_54e8dfcac2) - [Sous-pages](https://support.catenda.com/fr/articles/8204673-page-documents#h_5751ccd2b7)_
 
-Bien que la page workflows soit une sous-page de la page approbations comme c'est apparent par la page approbations étant mise en évidence et les fils d'Ariane vers le haut, la page n'est accessible que depuis le menu approbations dans les paramètres des documents.
+Bien que la page des flux de travail soit une sous-page de la page des approbations, comme c'est apparent car la page des approbations est mise en évidence et le fil d'Ariane en haut, la page n'est accessible que depuis le menu des approbations dans les paramètres des documents.
 
 ## 1. **Nouvelles actions d'élément**
 
@@ -77,3 +77,7 @@ Créé par - _Par défaut_ Le membre qui a créé le workflow.
 Créé à - _Par défaut_ La date et l'heure de création du workflow
 
 Statut - _Par défaut_ Le statut du workflow
+
+## 4. **Flux de travail provenant d'un projet de modèle**
+
+Les projets créés à partir d'un projet de modèle incluent les flux de travail d'approbation et les modèles de sujets de ce projet de modèle. Ces flux de travail sont répertoriés dans le tableau des flux de travail du nouveau projet. Cliquez [ici](https://support.catenda.com/fr/articles/4670245-creer-un-nouveau-projet) pour en savoir plus sur la création d'un projet basé sur un projet de modèle.

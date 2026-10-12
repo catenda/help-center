@@ -62,11 +62,11 @@ Afgeronde verzamelingen zijn vergrendeld voor bewerking. Afgeronde verzamelingen
 
 Tabelacties vindt u rechtsboven in de verzamelingstabel
 
-**Verzameling downloaden** Klik op verzameling downloaden om een zipbestand met alle documenten in de verzameling te downloaden.
+**Verzameling downloaden** Klik op Verzameling downloaden om een zipbestand met alle documenten in de verzameling te downloaden. De namen van de bestanden in het zipbestand kunnen worden beïnvloed door de [optie Titel document downloaden](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor hun hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen.
 
 **Documenten toevoegen** Klik op [Documenten toevoegen](https://support.catenda.com/nl/articles/6344318-collectiespagina#h_b94d108342) om documenten aan uw verzameling toe te voegen. Als uw document als virussen besmet is aangemerkt, kunt u het niet aan de verzameling toevoegen.
 
-> **Opmerking:** De naam van het document in de verzameling is de naam van de revisie die is toegevoegd. Dit lijkt enigszins op de originele bestandsnaam. Deze naam kan verschillen van de naam van het document, omdat een document meerdere revisies met verschillende namen kan bevatten.
+> **Opmerking:** De naam van het document in de verzameling is de [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654) van de revision die is toegevoegd. Deze naam kan afwijken van de naam van het document, omdat een document meerdere revisies met verschillende namen kan bevatten.
 
 ### 4.2 **Documentacties**
 

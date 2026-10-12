@@ -46,7 +46,7 @@ Med Last ned-handlingen kan valgte elementer og deres innhold lastes ned ved å 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Motta et enkelt dokument med en dokumentrad valgt. Motta en zip-fil som inneholder innholdet i valget når en mapperay eller flere rader er valgt. _Nødvendig tilgang:_ Full tilgang til dine valgte dokument(er) og/eller mappe(r)
+Motta et enkelt dokument når en dokumentrad er valgt. Motta en zip-fil som inneholder innholdet i utvalget når en mapperadå eller flere rader er valgt. Navnene på de nedlastede filene kan påvirkes av [dokumentnedlastingstiteloppgaven](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Prosjekteieren konfigurerer dette alternativet for hele organisasjonen, så prosjektmedlemmer kan ikke be om eller endre det selv. _Påkrevd tilgang:_ full tilgang til valgte dokument(er) og/eller mappe(r)
 
 **Oppdage dokumenter** Når du trykker på Last ned-knappen, åpnes en dialogboks nedover til venstre på siden. Først vil systemet begynne å oppdage de ulike filene for nedlasting. Slik kan dialogboksen for Klargjør nedlasting se ut:
 

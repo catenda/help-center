@@ -62,11 +62,11 @@ Les collections finalisées sont verrouillées pour la modification. Les collect
 
 Les actions du tableau se trouvent vers le haut à droite du tableau des collections
 
-**Télécharger la collection** Cliquez sur Télécharger la collection pour télécharger un fichier zip contenant tous les Documents de la collection.
+**Télécharger la collection** Cliquez sur télécharger la collection pour télécharger un fichier zip contenant tous les Documents de la collection. Les noms des fichiers du fichier zip peuvent être affectés par l'[option titre de téléchargement des Documents](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f). Le propriétaire du projet configure cette option pour toute son organisation, de sorte que les Membres du projet ne peuvent pas la demander ou la modifier eux-mêmes.
 
 **Ajouter des Documents** Cliquez sur [Ajouter des Documents](https://support.catenda.com/fr/articles/6344318-page-collections#h_b94d108342) pour ajouter des Documents à votre collection. Si votre Document a été trouvé infecté par un virus, vous ne pourrez pas l'ajouter à la collection.
 
-> **Remarque :** Le nom du Document dans la collection sera le nom de la revision qui a été ajoutée. Ceci est un peu comme le nom de fichier d'origine. Ce nom peut être différent du nom du Document car un Document peut contenir plusieurs revisions avec des noms différents.
+> **Remarque :** Le nom du Document dans la collection sera le [nom de la revision](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents#h_01e7f2d654) de la revision qui a été ajoutée. Ce nom peut être différent du nom du Document car un Document peut contenir plusieurs revisions avec des noms différents.
 
 ### 4.2 **Actions Document**
 

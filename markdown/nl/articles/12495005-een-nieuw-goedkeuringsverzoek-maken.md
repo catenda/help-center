@@ -1,6 +1,8 @@
 # Een nieuw goedkeuringsverzoek maken
 
-De actie voor het nieuwe goedkeuringsverzoek is beschikbaar voor projecten waarvoor gedeelde revisies zijn ingeschakeld na 2 oktober 2025. Klik op het actiemenu rechts van de groene plusknop op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) om een nieuw goedkeuringsverzoek te maken. Klik op de knop voor het nieuwe goedkeuringsverzoek in het goedkeuringenmenu van het rechtermenu van een revisie op de Documenten-pagina waar de nieuwste revisie een gedeelde revisie is, om een nieuw goedkeuringsverzoek te maken. Dit is hoe de dialoogvenster voor het maken van een nieuw goedkeuringsverzoek eruit kan zien:
+De nieuwe actie voor goedkeuringsverzoeken is beschikbaar voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld. Klik op het actiemenu rechts van de groene plusknop op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) om een nieuw goedkeuringsverzoek te maken. Klik op de knop voor nieuw goedkeuringsverzoek in het goedkeuringenmenu van het rechtermenu van een revisie op de documentenpagina waar de meest recente revisie een gedeelde revisie is om een nieuw goedkeuringsverzoek te maken.
+
+Dit is hoe de dialoogvenster voor het maken van een nieuw goedkeuringsverzoek eruit kan zien:
 
 ![Nieuw goedkeuringverzoek Workflow Indiener Titel Beschrijving (optioneel) Documenten ter beoordeling documenten toevoegen naam revision # Revisienummer Status Verwijderen Annuleren Opslaan als concept Verzenden voor beoordeling](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -16,7 +18,9 @@ Dit is hoe de header van een nieuw goedkeuringsverzoek eruit kan zien voor proje
 
 Leden die deel uitmaken van indienersteams die zijn geconfigureerd in een projectworkflow kunnen kiezen uit één van de workflows waarvoor hun teams zijn geconfigureerd. De eerder geselecteerde workflow wordt onthouden. Zolang de eerder geselecteerde workflow nog beschikbaar is, wordt deze de volgende keer dat een goedkeuring wordt gemaakt, opnieuw geselecteerd.
 
-**Automatische selectie** Als slechts één van de teams waarvan een lid deel uitmaakt, is geconfigureerd voor een workflow, wordt die workflow automatisch geselecteerd. Dit is hoe het eruit kan zien wanneer de workflow automatisch wordt geselecteerd.
+De workflows van een project kunnen vooraf zijn gedefinieerd in het templateproject waarvan het project [is gemaakt](https://support.catenda.com/nl/articles/4670245-een-nieuw-project-maken). Projectbeheerders kunnen nieuwe workflows toevoegen of bestaande workflows bewerken op de [workflowspagina](https://support.catenda.com/nl/articles/12309903-workflowpagina-documentinstellingen) van de documentinstellingen. Een workflow die in het project aanwezig is, betekent niet dat elk lid deze kan selecteren: alleen leden van een indienerteam dat voor deze workflow is geconfigureerd, kunnen deze selecteren. Leden van wie wordt gevraagd goedkeuringsverzoeken in te dienen maar die geen workflow beschikbaar hebben, kunnen een projectbeheerder vragen om een van hun Teams als indienerteam toe te voegen aan een workflow.
+
+**Automatische selectie** Als slechts één van de Teams waarvan een lid deel uitmaakt, voor een workflow is geconfigureerd, wordt die workflow automatisch geselecteerd. Dit is hoe het eruit kan zien wanneer de workflow automatisch is geselecteerd.
 
 ![Workflow Indiener Titel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -40,7 +44,7 @@ De titel van de goedkeuringsaanvraag. Een goedkeuring moet een titel hebben om i
 
 ## 2. **Goedkeuringsverzoek-body**
 
-De nieuwe validatieworkflow is een op aanvraag beschikbare functie die kan worden aangevraagd om te worden ingeschakeld bij het starten van een nieuw project. Het is alleen mogelijk om een project op basis van een sjabloonproject te maken wanneer de nieuwe validatieworkflow niet is ingeschakeld in dat sjabloonproject. Dit is hoe de body van een nieuw goedkeuringsverzoek eruit kan zien voor projecten waarvoor gedeelde revisies zijn ingeschakeld na 2 oktober 2025:
+De nieuwe validatieworkflow is actief in alle nieuwe projecten. Projecten die een oudere versie van de validatieworkflow gebruiken, kunnen een migratie naar de nieuwe validatieworkflow aanvragen bij ondersteuning. Projecten die op basis van een templateproject zijn gemaakt, bevatten de goedkeuringworkflows en onderwerpsjablonen van dat templateproject. Dit is hoe het hoofdgedeelte van een nieuw goedkeuringsverzoek eruit kan zien voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld:
 
 ![Goedkeuringverzoek body Beschrijving (optioneel) Documenten ter beoordeling documenten toevoegen annuleren geen documenten toegevoegd tot nu toe](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 

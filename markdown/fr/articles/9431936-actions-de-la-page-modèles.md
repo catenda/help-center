@@ -60,7 +60,7 @@ Avec l'action Publier, la dernière révision partagée peut être publiée. Les
 
 ### 2.4 **Télécharger la dernière révision**
 
-Si vous avez accès au téléchargement de modèles, vous pouvez cliquer sur le bouton de téléchargement. Cela vous permettra de télécharger la dernière révision d'un modèle en tant que fichier ifc. Si vous recherchez une révision précédente de ce modèle, veuillez vous rendre sur sa [page de modèle](https://support.catenda.com/fr/articles/4670270-page-de-contenu-du-model) _Accès requis :_ Accès à au moins un document-modèle dans la section des modèles.
+Si vous avez accès au téléchargement des models, vous pouvez cliquer sur le bouton de téléchargement. Cela vous permettra de télécharger la dernière revision d'un model sous la forme d'un fichier ifc. Le nom du fichier téléchargé peut être affecté par l'[option de titre de téléchargement de document](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f). Le propriétaire du projet configure cette option pour toute son organisation, de sorte que les Membres du projet ne peuvent pas la demander ou la modifier eux-mêmes. Si vous recherchez une revision antérieure de ce model, veuillez consulter sa [page model](https://support.catenda.com/fr/articles/4670270-page-de-contenu-du-model) _Accès requis:_ Accès à au moins un document-model dans la section models.
 
 ### 2.5 **Nouvelle révision**
 

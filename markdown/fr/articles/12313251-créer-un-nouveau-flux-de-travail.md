@@ -1,24 +1,28 @@
 # Créer un nouveau flux de travail
 
-La page du nouveau flux de travail peut être ouverte en cliquant sur le bouton plus vert sur [la page des flux de travail](https://support.catenda.com/fr/articles/12309903-page-workflows-parametres-des-documents) ou en cliquant sur l'action dans le menu d'action du nouvel élément sur [la page des approbations](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage). Il est uniquement possible de créer de nouveaux flux de travail dans les projets où le nouveau flux de travail de validation a été demandé à être activé. Le nouveau flux de travail de validation est une fonctionnalité à la demande qui peut être demandée à être activée au démarrage d'un nouveau projet. Il est uniquement possible de créer un projet basé sur un projet modèle lorsque le nouveau flux de travail de validation n'est pas activé dans ce projet modèle. Voici à quoi peut ressembler la partie titre d'une nouvelle approbation :
+La nouvelle page de flux de travail peut être ouverte en cliquant sur le bouton plus vert sur [la page des flux de travail](https://support.catenda.com/fr/articles/12309903-page-workflows-parametres-des-documents) ou en cliquant sur l'action du menu d'action du nouvel élément sur [la page des approbations](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage). Il est uniquement possible de créer de nouveaux flux de travail dans les projets où le nouveau flux de travail de validation est actif. Le nouveau flux de travail de validation est actif dans tous les nouveaux projets. Les projets qui utilisent une version antérieure du flux de travail de validation peuvent demander une migration vers le nouveau flux de travail de validation au support. Voici à quoi peut ressembler la partie titre d'une nouvelle approbation :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
-## 1. **Titre**
+## 1. **Flux de travail du projet modèle**
+
+Un flux de travail n'a pas toujours besoin d'être créé à partir de zéro. Les projets créés à partir d'un projet modèle incluent les flux de travail d'approbation et les modèles de sujets du projet modèle. Cliquez [ici](https://support.catenda.com/fr/articles/4670245-creer-un-nouveau-projet) pour en savoir plus sur la création d'un projet basé sur un projet modèle.
+
+## 2. **Titre**
 
 Entrez le nom du flux de travail. C'est la seule partie du flux de travail qui peut être modifiée après sa soumission.
 
-### 1.1 **Requis**
+### 2.1 **Requis**
 
 Un titre doit être fourni pour pouvoir soumettre un flux de travail.
 
-### 1.2 **Contenu de l'approbation**
+### 2.2 **Contenu de l'approbation**
 
 Voici à quoi peut ressembler le contenu d'une nouvelle approbation :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/02-approval-contents.png)
 
-## 2. **Réglages de l'heure**
+## 3. **Réglages de l'heure**
 
 Les membres de l'équipe auront un nombre limité de jours ouvrables pour examiner les documents dans les étapes de validation où leur équipe a été définie comme équipe d'examinateur. Voici à quoi peuvent ressembler les paramètres de temps d'un nouveau flux de travail d'approbation :
 
@@ -28,11 +32,11 @@ L'heure configurée dans les paramètres de temps est l'heure du début et de la
 
 **Exemple de la façon dont les paramètres de temps peuvent être considérés :** Les soumissions peuvent être datées en fonction de ces heures. Une soumission à 2 h du matin appartient au jour précédent si le paramètre de temps est défini sur 6 h du matin.
 
-### 2.1 **Heure de début**
+### 3.1 **Heure de début**
 
 Choisissez une valeur de 01 à 24 basée sur le système d'horloge 24 heures, autrement connu sous le nom d'heure militaire.
 
-### 2.2 **Fuseau horaire sélectionné**
+### 3.2 **Fuseau horaire sélectionné**
 
 Le fuseau horaire par défaut est le fuseau horaire configuré dans votre système d'exploitation. Voici à quoi peut ressembler un élément de liste de fuseau horaire sélectionné.
 
@@ -46,13 +50,13 @@ La première partie de l'élément de liste de fuseau horaire sélectionné peut
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/05-selected-timezone.png)
 
-### 2.3 **Décalage GMT**
+### 3.3 **Décalage GMT**
 
 La deuxième partie de l'élément de liste de fuseau horaire sélectionné affiche le décalage GMT actuel pour l'élément de liste de fuseau horaire sélectionné.
 
 Le fuseau horaire actuel pour l'élément de liste de fuseau horaire est affiché. Si le décalage GMT pour un emplacement géographique change, par exemple l'heure d'été ou d'hiver, le décalage GMT affiché pour ces emplacements géographiques change également.
 
-### 2.4 **Sélection d'un élément de liste dans le menu déroulant du fuseau horaire**
+### 3.4 **Sélection d'un élément de liste dans le menu déroulant du fuseau horaire**
 
 Cliquez sur l'élément de liste de fuseau horaire sélectionné pour ouvrir le menu déroulant du fuseau horaire. Voici à quoi peut ressembler le menu déroulant du fuseau horaire :
 
@@ -114,7 +118,7 @@ Ou l'abréviation du fuseau horaire :
 
 Étant donné que certains fuseaux horaires ont un décalage GMT comme type, il est souvent préférable de rechercher le nom de fuseau horaire complet plutôt que l'abréviation du fuseau horaire. Seuls les fuseaux horaires actuellement actifs sont affichés, de sorte que pour les fuseaux horaires qui changent pour les emplacements géographiques, seul le fuseau horaire actuellement actif pour cet emplacement géographique peut être trouvé.
 
-## 3. **Émetteurs**
+## 4. **Émetteurs**
 
 Sélectionnez les membres de l'équipe dans l'équipe d'approbation finale que verront dans la liste des équipes parmi lesquelles ils peuvent choisir lors de la sélection d'une équipe émettrice pour une approbation avec ce flux de travail. Voici à quoi peut ressembler la partie émetteurs d'un nouveau flux de travail d'approbation :
 
@@ -128,23 +132,23 @@ Sélectionnez les membres de l'équipe dans l'équipe d'approbation finale que v
 
 > **Remarque :** Il est uniquement possible de sélectionner des équipes et non des membres individuels
 
-### 3.1 **Requis**
+### 4.1 **Requis**
 
 Au moins un émetteur doit être sélectionné pour pouvoir soumettre le flux de travail.
 
-## 4. **Étapes de validation**
+## 5. **Étapes de validation**
 
 Construisez un processus d'examen multi-étapes. Voici à quoi peut ressembler la partie étapes de validation d'un nouveau flux de travail d'approbation :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
-### 4.1 **Nombre d'étapes**
+### 5.1 **Nombre d'étapes**
 
 **Aucune étape** Bien qu'il soit possible de créer un flux de travail sans étapes en supprimant toutes les étapes, il ne sera pas possible de créer une approbation avec ce flux de travail car il doit y avoir au moins une étape pour pouvoir soumettre une approbation.
 
 **Nombre maximum d'étapes** Le nombre maximum d'étapes qu'un flux de travail peut avoir est 10.
 
-### 4.2 **Équipes**
+### 5.2 **Équipes**
 
 Sélectionnez les équipes d'examinateur qui pourront participer à l'étape d'examen. Le nombre maximum d'équipes qu'un flux de travail peut avoir est 20. Chaque équipe doit soumettre son examen avant que le flux de travail ne passe à l'étape suivante. Si l'approbation automatique est cochée, le flux de travail passera automatiquement à l'étape suivante après le nombre de jours ouvrables configuré.
 
@@ -154,7 +158,7 @@ Sélectionnez les équipes d'examinateur qui pourront participer à l'étape d'e
 
 **Sélection d'une équipe avec un seul membre** Comme il n'est pas possible d'ajouter des membres individuels, si un seul membre travaillera de cette façon pour approuver des documents, une équipe avec un seul membre peut être sélectionnée. Après la création du flux de travail, il ne sera pas possible de le modifier, donc même avec un seul membre, une équipe offre la flexibilité de déplacer les gens dans et hors de cette équipe.
 
-### 4.3 **Jours ouvrables à évaluer**
+### 5.3 **Jours ouvrables à évaluer**
 
 Les jours ouvrables sont définis comme lundi à vendredi. Les jours fériés publics sont inclus dans les jours ouvrables à évaluer. _Jours ouvrables minimaux requis :_ 1 jour ouvrable
 
@@ -167,13 +171,13 @@ Si la date de début de l'étape d'approbation est un vendredi, la date d'éché
 - L'heure de début configurée dans la zone des paramètres de temps du flux de travail
 - Le mardi de la semaine suivante, indépendamment du fait que ce mardi soit un jour férié public ou non.
 
-### 4.4 **Approuver automatiquement**
+### 5.4 **Approuver automatiquement**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
 
 Activez l'approbation automatique pour fluidifier le processus : les documents seront automatiquement approuvés au nom des équipes n'ayant pas répondu à la date d'échéance.
 
-### 4.5 Exiger un examen par tous les membres de l'équipe
+### 5.5 Exiger un examen par tous les membres de l'équipe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
 
@@ -183,21 +187,21 @@ Activez Exiger un examen par tous les membres de l'équipe pour exiger que chaqu
 
 - **Lorsque cette option est activée**, l'étape de l'équipe n'est pas terminée tant que chaque Membre n'a pas donné sa propre indication. Consultez les articles de l'onglet Aperçu, du menu droit d'examen des fichiers et du menu droit de l'onglet Documents pour voir comment cela s'affiche lors de l'examen.<br>
 
-### 4.6 **Supprimer l'étape de validation**
+### 5.6 **Supprimer l'étape de validation**
 
 Cliquez sur l'icône de la corbeille en haut à droite d'une étape de validation pour la supprimer.
 
-### 4.7 **Requis**
+### 5.7 **Requis**
 
 S'il y a des étapes de validation, chaque étape doit avoir au moins un émetteur pour pouvoir soumettre le flux de travail.
 
-## 5. **Approbation finale**
+## 6. **Approbation finale**
 
 L'approbation finale sera donnée manuellement par une seule équipe. Voici à quoi peut ressembler la partie approbation finale d'un nouveau flux de travail d'approbation :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
 
-### 5.1 **Équipe**
+### 6.1 **Équipe**
 
 L'équipe d'approbation finale qui donnera l'approbation finale en fonction des examens de chacune des équipes d'examinateur.
 
@@ -207,11 +211,11 @@ L'équipe d'approbation finale qui donnera l'approbation finale en fonction des 
 
 **Sélection d'une équipe avec un seul membre** Comme il n'est pas possible d'ajouter des membres individuels, si un seul membre travaillera de cette façon pour approuver des documents, une équipe avec un seul membre peut être sélectionnée. Après la création du flux de travail, il ne sera pas possible de le modifier, donc même avec un seul membre, une équipe offre la flexibilité de déplacer les gens dans et hors de cette équipe.
 
-### 5.2 **Jours ouvrables à approuver**
+### 6.2 **Jours ouvrables à approuver**
 
 Le nombre de jours ouvrables que l'équipe d'approbation finale doit configurer l'approbation finale. _Jours ouvrables minimaux requis :_ 0 jour ouvrable
 
-### 5.3 Modèle de sujet
+### 6.3 Modèle de sujet
 
 Dans le champ modèles de sujet, vous pouvez choisir le modèle que le système utilise pour créer un sujet à la fin du flux d'approbation. Ne rien choisir signifie qu'aucun sujet ne sera créé !
 
@@ -223,25 +227,25 @@ Lorsqu'il n'y a pas de modèle, vous avez la possibilité d'en créer un directe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
 
-### 5.4 **État d'examen**
+### 6.4 **État d'examen**
 
 Approuvé ou rejeté
 
-### 5.5 **Statut final**
+### 6.5 **Statut final**
 
 Sélectionnez le statut final pour les documents approuvés et rejetés. Les documents approuvés seront publiés, les documents rejetés ne seront pas publiés.
 
-### 5.6 **Requis**
+### 6.6 **Requis**
 
 Une équipe d'approbation finale doit avoir été sélectionnée pour pouvoir soumettre le flux de travail. Un statut final pour les flux de travail approuvés doit être sélectionné pour pouvoir soumettre le flux de travail. Un statut final pour les flux de travail rejetés doit être sélectionné pour pouvoir soumettre le flux de travail.
 
-## 6. **Transmettre**
+## 7. **Transmettre**
 
 Cliquez sur Transmettre pour soumettre le flux de travail.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
 
-### 6.1 **Avertissement de champ obligatoire**
+### 7.1 **Avertissement de champ obligatoire**
 
 Si le flux de travail ne dispose pas d'un champ obligatoire, un avertissement vers le haut de la page demandera que les champs manquants soient remplis. Voici à quoi peut ressembler l'avertissement :
 
@@ -257,6 +261,6 @@ Ce qui suit est requis pour soumettre un nouveau flux de travail :
 - Un statut final pour les flux de travail approuvés doit être sélectionné
 - Un statut final pour les flux de travail rejetés doit être sélectionné
 
-### 6.2 **Verrouillé après soumission**
+### 7.2 **Verrouillé après soumission**
 
 Après soumission, il sera uniquement possible de modifier le titre du flux de travail.

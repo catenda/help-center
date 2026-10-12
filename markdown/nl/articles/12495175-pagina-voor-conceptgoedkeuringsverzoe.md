@@ -6,7 +6,7 @@ Dit is hoe de pagina voor conceptgoedkeuringsverzoe eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Conceptgoedkeuringsverzoe zijn alleen beschikbaar voor projecten die gedeelde revies na 2 oktober 2025 hebben ingeschakeld. Het is alleen mogelijk om een project op basis van een sjabloonproject te maken wanneer de nieuwe validatieworkflow niet is ingeschakeld in dat sjabloonproject.
+Goedkeuringsverzoeken in concept zijn alleen beschikbaar voor projecten waarvoor gedeelde revisies zijn ingeschakeld na 2 oktober 2025. Projecten die zijn gemaakt op basis van een templateproject bevatten de workflows en Topics van dat templateproject.
 
 ## 1. **Nieuwe itemaacties**
 

@@ -1,6 +1,8 @@
 # Création d'une nouvelle demande d'approbation
 
-La nouvelle action de demande d'approbation se trouve pour les projets qui ont activé les révisions partagées après le 2 octobre 2025. Cliquez sur le menu d'action à droite du bouton plus vert sur la [page des approbations](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage) pour créer une nouvelle demande d'approbation. Cliquez sur le bouton de nouvelle demande d'approbation dans le menu des approbations du menu de droite d'une révision sur la page des documents où la dernière révision est une révision partagée pour créer une nouvelle demande d'approbation. Voici à quoi peut ressembler le dialogue de création d'une nouvelle demande d'approbation :
+La nouvelle action de demande d'approbation se trouve dans les projets qui ont activé les révisions partagées après le 2 octobre 2025. En cliquant sur le menu d'action à droite du bouton plus vert sur la [page des approbations](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage) pour créer une nouvelle demande d'approbation. Cliquez sur le bouton de nouvelle demande d'approbation dans le menu des approbations du menu de droite d'une revision sur la page des documents où la dernière revision est une revision partagée pour créer une nouvelle demande d'approbation.
+
+Voici à quoi la boîte de dialogue de création d'une nouvelle demande d'approbation peut ressembler :
 
 ![Nouvelle demande d'approbation Workflow Submitter Title Description (optionnel) Documents for review add documents name revision # Revision number Statut Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -16,7 +18,9 @@ Voici à quoi peut ressembler l'en-tête d'une nouvelle approbation pour les pro
 
 Les membres qui font partie des équipes de demandeurs configurées dans un flux de travail de projet peuvent choisir entre l'un des flux de travail pour lesquels leurs équipes sont configurées. Le flux de travail précédemment sélectionné est mémorisé. Tant que le flux de travail précédemment sélectionné est toujours disponible, il sera sélectionné à nouveau la prochaine fois qu'une approbation est créée.
 
-**Sélection automatique** Si une seule des équipes dont fait partie un membre est configurée pour un flux de travail, ce flux de travail sera automatiquement sélectionné. Voici à quoi cela peut ressembler lorsque le flux de travail est automatiquement sélectionné.
+Les workflows d'un projet peuvent avoir été prédéfinis dans le projet modèle à partir duquel le projet a été [créé](https://support.catenda.com/fr/articles/4670245-creer-un-nouveau-projet). Les administrateurs de projets peuvent ajouter de nouveaux workflows ou modifier les existants sur la [page des workflows](https://support.catenda.com/fr/articles/12309903-page-workflows-parametres-des-documents) des paramètres des documents. L'existence d'un workflow dans le projet ne signifie pas que chaque Membre peut le sélectionner : seuls les Membres des Équipes de soumission configurées pour ce workflow peuvent le sélectionner. Les Membres à qui on demande de soumettre des demandes d'approbation mais qui n'ont pas de workflow disponible peuvent demander à un administrateur de projet d'ajouter l'une de leurs Équipes en tant qu'Équipe de soumission à un workflow.
+
+**Sélection automatique** Si une seule des Équipes dont fait partie un Membre est configurée pour un workflow, ce workflow sera automatiquement sélectionné. Voici à quoi cela peut ressembler lorsque le workflow est automatiquement sélectionné.
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -40,7 +44,7 @@ Le titre de la demande d'approbation. Une approbation doit avoir un titre pour �
 
 ## 2. **Corps de la demande d'approbation**
 
-Le nouveau flux de travail de validation est une fonctionnalité à la demande qui peut être demandée pour être activée lors du démarrage d'un nouveau projet. Il n'est possible de créer un projet basé sur un projet de modèle que si le nouveau flux de travail de validation n'est pas activé dans ce projet de modèle. Voici à quoi peut ressembler le corps d'une nouvelle approbation pour les projets qui ont activé les révisions partagées après le 2 octobre 2025 :
+Le nouveau workflow de validation est actif dans tous les nouveaux projets. Les projets qui utilisent une version héritée du workflow de validation peuvent demander une migration vers le nouveau workflow de validation au support. Les projets créés à partir d'un projet modèle incluent les workflows d'approbation et les modèles de Sujets de ce projet modèle. Voici à quoi le corps d'une nouvelle approbation peut ressembler pour les projets qui ont activé les révisions partagées après le 2 octobre 2025 :
 
 ![Nouvelle demande d'approbation Description (optionnel) Documents for review add documents cancel no documents added yet](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 

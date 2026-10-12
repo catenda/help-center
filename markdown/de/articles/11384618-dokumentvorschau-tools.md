@@ -23,7 +23,7 @@ So kann das Symbolleistenmenü aussehen:
 
 ### 1.1 **Herunterladen**
 
-Klicken Sie auf Herunterladen, um das Dokument mit allen aktiven Anmerkungen in der Dokumentenvorschau herunterzuladen.
+Klicken Sie auf Download, um das Dokument mit allen aktiven Anmerkungen in der Dokumentvorschau herunterzuladen. Die heruntergeladene Datei erhält immer den [Revisionsnamen](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654), unabhängig davon, welche [Option für den Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) eingestellt ist. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, sodass Projektmitglieder diese nicht selbst anfordern oder ändern können.
 
 ### 1.2 **Vollbildmodus aktivieren**
 

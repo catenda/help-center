@@ -6,7 +6,7 @@ Voici à quoi peut ressembler la page de demande de validation de brouillon :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Les demandes de validation de brouillon ne sont disponibles que pour les projets ayant activé les révisions partagées après le 2 octobre 2025. Il n'est possible de créer un projet basé sur un projet de modèle que si le nouveau circuit de validation n'est pas activé dans ce projet de modèle.
+Les demandes d'approbation en brouillon ne sont disponibles que pour les projets qui ont activé les révisions partagées après le 2 octobre 2025. Les projets créés à partir d'un projet de modèle incluent les flux de travail d'approbation et les modèles de sujets de ce projet de modèle.
 
 ## 1. **Nouvelles actions d'élément**
 

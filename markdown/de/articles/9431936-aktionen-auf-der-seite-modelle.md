@@ -60,7 +60,7 @@ Mit der Aktion "Veröffentlichen" kann die neueste freigegebene Revision veröff
 
 ### 2.4 **Letzte Revision herunterladen**
 
-Wenn Sie Zugriff auf das Herunterladen von Modellen haben, können Sie auf die Download-Schaltfläche klicken. Auf diese Weise können Sie die neueste Revision eines Modells als IFC-Datei herunterladen. Wenn Sie nach einer vorherigen Revision dieses Modells suchen, besuchen Sie bitte die [Modellseite](https://support.catenda.com/de/articles/4670270-modellinhaltseite). _Erforderlicher Zugriff:_ Zugriff auf mindestens ein Dokument-Modell im Modelle-Bereich.
+Wenn Sie Zugriff auf das Herunterladen von Modellen haben, können Sie auf die Download-Schaltfläche klicken. Dies ermöglicht es Ihnen, die neueste Revision eines Modells als IFC-Datei herunterzuladen. Der Name der heruntergeladenen Datei kann durch die [Option "Dokumentdownload-Titel"](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, sodass Projektmitglieder diese nicht selbst anfordern oder ändern können. Wenn Sie nach einer vorherigen Revision dieses Modells suchen, gehen Sie bitte auf die zugehörige [Modellseite](https://support.catenda.com/de/articles/4670270-modellinhaltseite). _Erforderlicher Zugriff:_ Zugriff auf mindestens ein Dokument-Modell im Bereich Modelle.
 
 ### 2.5 **Neue Revision**
 

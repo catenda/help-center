@@ -510,11 +510,9 @@ Als uw huidige plan en toegang dit toestaan, kunt u een nieuw project maken door
 
 Neem anders contact op met Catenda-ondersteuning op [support@catenda.com](mailto:support@catenda.com) of via de chatknop om een nieuw project aan te maken. De zwarte chatknop vindt u rechtsbovenin Catenda Hub of rechtsonder op onze hulp-/startpagina's om uw plan bij te werken. Wij begeleiden u bij het maken ervan.
 
-De pagina Nieuw project kan er als volgt uitzien:
+Dit is hoe de pagina voor het nieuwe project eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
-
-De volgende onderwerpen zijn beschreven in dit artikel:
 
 ## 1. **Een eigenaar selecteren**
 
@@ -552,71 +550,82 @@ De instelling voor het downloaden van documenten die een aangemaakt project ontv
 
 Wanneer de optie voor het downloaden van documenten voor nieuwe projecten in een organisatie wordt gewijzigd, wordt deze instelling alleen toegepast op nieuwe projecten die in de organisatie worden aangemaakt en niet op bestaande projecten. Het is daarom mogelijk dat er projecten in dezelfde organisatie zijn met verschillende instellingen voor het downloaden van documenten.
 
+### 3.3 **Projecten gemaakt op basis van een templateproject**
+
+De instelling voor het downloaden van documenten van een nieuw project is gebaseerd op de organisatie waarin het wordt gemaakt, niet op het templateproject. Het wordt nooit van het templateproject gekopieerd, dus het is geen van de opties wanneer een templateproject wordt gebruikt.
+
 ## 4. **Functies op aanvraag**
 
-Wanneer een nieuw project wordt aangemaakt, zijn opt-in functies standaard niet ingeschakeld. Het is mogelijk de volgende functies na het maken van een project in te schakelen:
+Wanneer een nieuw project wordt gemaakt, zijn opt-in functies standaard niet ingeschakeld. Het is mogelijk om te verzoeken dat de volgende functie na het aanmaken van een project wordt ingeschakeld:
 
-[Pagina Objecten](https://support.catenda.com/nl/articles/12352750-objectenpagina) [Pagina Rapporten](https://support.catenda.com/nl/articles/12303098-rapportenpagina)
+[Rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina)
 
 ## 5. **Een project selecteren om als template te gebruiken**
 
-U kunt ervoor kiezen bepaalde instellingen van een ander project over te nemen bij het maken van een nieuw project. _Vereiste toegang:_ Projectlid
+Vink het vak 'een ander project als template gebruiken' aan om instellingen van een ander project over te nemen bij het maken van een nieuw project. _Vereiste toegang:_ Projectlid
 
-De volgende onderwerpen zijn beschreven in deze sectie:
+Dit is hoe het eruit kan zien wanneer een templateproject wordt gebruikt:
 
-### 5.1 **Modellen -** Geen revisies
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/02-select-a-project-to-use-as-template.png)
 
-Lege modellen klaar om nieuwe revisies te ontvangen
+Items met een licht groen selectievakje worden altijd gekopieerd en kunnen niet worden uitgeschakeld. Labels, Mijlpalen, Teams en Topic boards worden altijd van het templateproject gekopieerd. Items met een donker groen selectievakje zijn optioneel en kunnen worden uitgeschakeld.
+
+Sommige items worden verplicht wanneer een ander item is ingeschakeld, zoals in de opmerking boven de lijst staat: "Items die vereist zijn voor uw selectie worden automatisch opgenomen en kunnen niet worden uitgeschakeld." Momenteel is de enige afhankelijkheid van Approval workflows. Wanneer Approval workflows is ingeschakeld, worden Document status configuration en Topic templates automatisch opgenomen en in licht groen weergegeven. Wanneer Approval workflows is uitgeschakeld, worden Document status configuration en Topic templates optioneel en in donker groen weergegeven.
+
+### 5.1 **Modellen (geen revisies)**
+
+De modellen van het templateproject worden zonder hun revisies gekopieerd, dus ze zijn leeg en klaar om nieuwe revisies te ontvangen. _Selectie:_ Optioneel
 
 ### 5.2 **Labels**
 
-Labels die kunnen worden gekoppeld aan onderwerpen, modellen en documenten. Het is handig om dezelfde labels in meerdere projecten te hebben voor analyse met tools zoals PowerBI
+De labels van het templateproject worden gekopieerd en zijn klaar om te worden verbonden met Topics, modellen en Documenten. Het is handig om dezelfde labels in meerdere projecten te hebben voor analyse met tools zoals Power BI. _Selectie:_ Verplicht
 
-### 5.3 **Mijlpalen -** Geen datums
+### 5.3 **Mijlpalen (geen datums)**
 
-Nuttig wanneer u een nieuw project aanmaakt bij een faseverandering die dezelfde mijlpalen als de vorige heeft.
+De mijlpalen van het templateproject worden zonder hun datums gekopieerd. Dit is handig wanneer u een nieuw project maakt na een faseverandering die dezelfde mijlpalen heeft als de vorige. _Selectie:_ Verplicht
 
-### 5.4 **Teams -** Geen lid
+### 5.4 **Teams (geen leden)**
 
-Teams klaar om leden te accepteren. Toegang in de documentstructuur wordt ook via teams verdeeld.
+De Teams van het templateproject worden zonder hun leden gekopieerd en zijn klaar om leden te accepteren. Toegang in de documentstructuur wordt ook verdeeld via Teams. _Selectie:_ Verplicht
 
-### 5.5 **Onderwerpenboards -** Met inbegrip van statussen en typen, maar geen onderwerpen
+### 5.5 **Topic boards (inclusief statussen en typen, maar geen topics)**
 
-Boards die zijn ingesteld en klaar zijn voor communicatie. Boards kunnen gearchiveerd blijven totdat ze klaar zijn voor gebruik.
+De Topic boards van het templateproject worden met hun statussen en typen gekopieerd, maar zonder topics, zodat ze zijn ingesteld en klaar voor gebruik voor communicatie. Boards kunnen gearchiveerd blijven totdat ze klaar zijn voor gebruik. _Selectie:_ Verplicht
 
 ### 5.6 **Mappenstructuur**
 
-Kopieer de namen en structuur van de templateprojectmappen zonder de bijbehorende documenten. _Vereiste toegang:_ Volledige toegang tot het templateproject
+De namen en structuur van de mappen van het templateproject worden zonder hun Documenten gekopieerd. _Vereiste toegang:_ Volledige toegang tot het templateproject _Selectie:_ Optioneel
 
 ### 5.7 **Configuratie documentstatus**
 
-Openbare documentstatussen kunnen worden gebruikt om de voortgang van een document bij te houden. Documentstatussen voor concept kunnen voor goedkeuringen worden gebruikt.
+De documentstatussen van het templateproject worden gekopieerd. Openbare documentstatussen kunnen worden gebruikt om de voortgang van een document bij te houden. Concept-documentstatussen kunnen worden gebruikt voor goedkeuringen. _Selectie:_ Verplicht wanneer Approval workflows is ingeschakeld, anders optioneel
 
-### 5.8 **Instelling downloaden document**
+### 5.8 **Document en onderwerpenboardtoegangscontrole**
 
-De instelling voor het downloaden van documenten die het gemaakte project ontvangt, is gebaseerd op de instelling voor het downloaden van documenten voor nieuwe projecten in de organisatie en niet op welke instelling voor het downloaden van documenten het templateproject heeft.
-
-### 5.9 **Document en onderwerpenboardtoegangscontrole**
-
-Dit kopieert het toegangsbeheer voor de volgende opties (indien geselecteerd)
-
-- Mappenstructuur
-- Onderwerpenboards
-
-_Vereiste toegang:_ Volledige toegang tot het templateproject
+Het toegangsbeheer van de mappenstructuur en de Topic boards wordt gekopieerd, voor die van de twee die zijn geselecteerd.
 
 Het volgende is inbegrepen:
 
-- Gedefinieerde toegang voor "Teams". (Als teams zijn geselecteerd)
-- Overige toegangsinstellingen. ("Alle gebruikers", "Eigenaren", enz.)
+- Gedefinieerde toegang voor "Teams"
+- Andere toegangsinstellingen, zoals "Alle gebruikers" en "Eigenaars"
 
 Het volgende is niet inbegrepen:
 
 - Gedefinieerde toegang voor "Gebruikers"
 
-### 5.10 **Aangepaste velden en naamgevingsconventies**
+Wanneer deze optie niet is ingeschakeld, krijgt het nieuwe project in plaats daarvan de standaardtoegang. Dat is de standaardtoegang voor de basis van de Documenten, die in de Documenten-instellingen kan worden gevonden, en de standaardtoegang voor het standaard Topic board. _Vereiste toegang:_ Administrator of eigenaar van het templateproject _Selectie:_ Optioneel
 
-Aangepaste velden kunnen in issues worden weergegeven en kunnen in naamgevingsconventies worden gebruikt.
+### 5.9 **Meta data, naamgevingsafspraken en QR code**
+
+De [mapconfiguratie](https://support.catenda.com/nl/articles/12302595-mapconfiguratie-documentinstellingen) van het templateproject wordt gekopieerd: de aangepaste velden, naamgevingsafspraken en QR code-stempelinstellingen. Aangepaste velden kunnen in issues worden weergegeven en in naamgevingsafspraken worden gebruikt. _Selectie:_ Optioneel
+
+### 5.10 **Topic templates**
+
+De topic templates van het templateproject worden gekopieerd, zodat topics in het nieuwe project kunnen worden gemaakt op basis van dezelfde templates. _Selectie:_ Verplicht wanneer Approval workflows is ingeschakeld, anders optioneel
+
+### 5.11 **Goedkeuringswerkstromen**
+
+De approval workflows van het templateproject worden gekopieerd, zodat leden goedkeuringsverzoeken kunnen indienen zonder dat eerst een workflow wordt gemaakt. De Teams, documentstatussen en topic templates die een workflow gebruikt, worden samen met de workflow gekopieerd, zodat elke verwijzing in de workflow in het nieuwe project nog steeds werkt. Daarom maakt het inschakelen van Approval workflows Document status configuration en Topic templates verplicht. _Selectie:_ Optioneel
 
 # Een project binnengaan
 
@@ -1631,7 +1640,7 @@ Totaal aantal projecten per organisatie Projectvervaldatum
 
 ### **Titel voor downloadbare Documenten**
 
-De titel die gedownloade Documenten in deze organisatie hebben.
+De bestandsnaam die gedownloade bestanden krijgen. Dit is de standaard voor nieuwe projecten in de organisatie, en de opties worden beschreven in [Organisatieopties](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f).
 
 ### **Openbaar delen**
 
@@ -1653,25 +1662,45 @@ Neem contact op met [sales@catenda.com](mailto:sales@catenda.com) voor vragen ov
 
 ### 3.1 Optie voor documentdownload-titel
 
-Als u een enkel document downloadt, is de bestandsnaam altijd de oorspronkelijke bestandsnaam. Als u meerdere documenten downloadt, zijn de bestandsnamen de namen van de documenten.
+De optie Documenttitel downloaden bepaalt welke bestandsnaam een gedownload bestand krijgt. U kunt het bestand zijn [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654) laten behouden, of u kunt de naam van het document in Catenda gebruiken. Dit kan nuttig zijn in combinatie met de naamconventie en voor het overschrijven van Documenten met dezelfde naam in plaats van elke keer met een ander revisienummer.
 
-Met deze optie kunt u configureren welke bestandsnaam u krijgt wanneer u meerdere documenten downloadt. Dit kan nuttig zijn in combinatie met de naamgevingsconventie en voor het overschrijven van documenten met dezelfde naam in plaats van elke keer met een ander revisienummer.
+De optie is een van de standaardwaarden voor nieuwe projecten. Wanneer de organisatie deze wijzigt, geldt de wijziging alleen voor projecten die daarna worden gemaakt. Bestaande projecten behouden de instelling die ze al hebben.
 
 **Voorbeeld:** De naam van het project is _testproject._ Twee bestanden worden geüpload met elk twee revisies: _test01.pdf_ en _test02.pdf_ De namen van de documenten worden vervolgens gewijzigd in: _changed01.pdf_ en _changed02.pdf_
 
-Standaarddownloadgedrag: Als u deze documenten één voor één downloadt, worden ze altijd genoemd _test01.pdf_ en _test02.pdf_ Als u beide documenten tegelijk downloadt, worden ze standaard _changed01.pdf_ en _changed02.pdf_ genoemd. Dit is wat kan worden gewijzigd met de volgende opties:
+**Opties:** De onderstaande opties bepalen hoe deze twee bestanden worden genoemd wanneer u ze downloadt.
 
-**Opties:**
+**Revision bestandsnaam** \<Revisienaam>.\<Extensie> _test01.pdf_ en _test02.pdf_
 
-**Revisiebestandsnaam** Let op: dit is hetzelfde als bij het downloaden van een enkel bestand, dus de namen zullen consistent zijn als u deze optie kiest. \<Oorspronkelijke bestandsnaam>.\<Extensie> _test01.pdf_ en _test02.pdf_
-
-_Documenttitel_ - standaard \<Documentnaam>.\<Extensie> _changed01.pdf_ en _changed02.pdf_
+**Documenttitel** \<Documentnaam>.\<Extensie> _changed01.pdf_ en _changed02.pdf_
 
 **Documenttitel met revisienummer** \<Documentnaam>\<Revisienummer>.\<Extensie> _changed01.pdf #2_ en _changed02.pdf #2_
 
 **Projecttitel met Documenttitel en Revisienummer** \<Projectnaam>\<Documentnaam>\<Revisienummer>.\<Extensie> _testproject changed01.pdf #2_ en _testproject changed02.pdf #2_
 
-### 3.2 **Downloaden van geïnfecteerde Documenten**
+### 3.2 Waar de optie van toepassing is
+
+De optie is van toepassing wanneer u één bestand downloadt en wanneer u meerdere bestanden tegelijk downloadt. Het is van toepassing op Documenten die van de Documenten-sectie worden gedownload en op modellen die van de modellen-sectie worden gedownload. Het is ook van toepassing wanneer u op **Download collection** op de verzamelingenpagina klikt.
+
+### 3.3 Uitzonderingen op de optie
+
+Bij een paar downloads wordt de optie genegeerd.
+
+**Openbare Koppelingen** Als u een verzameling met een openbare Koppeling deelt, downloadt de persoon die de Koppeling opent vanuit de Catenda Transfer-pagina. De bestanden die zij downloaden behouden altijd hun revisienaam.
+
+**Annotatiebalk** Wanneer u downloadt vanuit het actiemenu in de annotatiebalk van de documentvoorvertoning, krijgt het bestand altijd de revisienaam, ongeacht de optie die is ingesteld. Als u **Opslaan als** in hetzelfde menu kiest, kunt u de bestandsnaam invoeren die u wilt.
+
+### 3.4 Uitdagingen met de optie
+
+Twee projecten in dezelfde organisatie kunnen hetzelfde bestand anders noemen. De optie is alleen een standaardwaarde voor nieuwe projecten, dus een project dat is gemaakt voordat de optie werd gewijzigd, behoudt zijn oude instelling.
+
+Hetzelfde document kan ook verschillende namen krijgen, afhankelijk van waar u het downloadt. De annotatiebalk en openbare Koppelingen gebruiken altijd de revisienaam, terwijl de andere downloads de optie volgen.
+
+Als u een optie kiest die de documentnaam gebruikt, is de bestandsnaam afhankelijk van de documentnaam in Catenda. Wanneer een nieuwe revisie wordt geüpload en de documentnaam niet wordt bijgewerkt, kan het gedownloade bestand informatie missen die in de revisienaam stond. Dit is de reden waarom sommige organisaties de **Revisiebestandsnaam**-optie behouden.
+
+Met de optie **Revisiebestandsnaam** behoudt een bestand dat met een onduidelijke naam is geüpload die naam wanneer het wordt gedownload.
+
+### 3.5 **Downloaden van geïnfecteerde Documenten**
 
 Quarantaineafhandeling voor geïnfecteerde bestanden in eigendomprojjecten. Als een document als geïnfecteerd wordt gedetecteerd, kan het standaard worden gedownload. De gebruiker ontvangt een waarschuwing dat dit document een virus bevat. Er kan een optie per organisatie worden ingesteld zodat niemand, zelfs niet beheerders, geïnfecteerde documenten kan downloaden.
 
@@ -1679,13 +1708,13 @@ Quarantaineafhandeling voor geïnfecteerde bestanden in eigendomprojjecten. Als 
 
 **Download blokkeren**
 
-### 3.3 **Modellen als Documenten**
+### 3.6 **Modellen als Documenten**
 
 Als deze functie is ingeschakeld, hebben alle nieuwe projecten die in de organisatie worden gemaakt, de functie [Modellen als Documenten](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten) ingeschakeld.
 
 > **Opmerking:** 24 november: Deze functie wordt ingeschakeld voor alle nieuwe organisaties. We zullen de oude weergave ongeveer een jaar ondersteunen voordat alle projecten worden gemigreerd.
 
-### 3.4 **Optie voor documentupload als concept**
+### 3.7 **Optie voor documentupload als concept**
 
 Als de goedkeuringsstroom is ingeschakeld en er conceptstatussen in documentinstellingen zijn, wordt het selectievakje "als concept uploaden" standaard ingeschakeld bij documentupload. Op aanvraag kan dit selectievakje standaard uitgeschakeld worden voor alle projecten in een organisatie.
 
@@ -4113,7 +4142,7 @@ Met de downloadactie kunnen geselecteerde items en hun inhoud worden gedownload 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Ontvang een enkel document met één documentrij geselecteerd. Ontvang een zip-bestand met de inhoud van de selectie wanneer een maprij of meerdere rijen zijn geselecteerd. _Vereiste toegang:_ volledige toegang tot uw geselecteerde document(en) en/of map(pen)
+Ontvang een enkel document met één documentrij geselecteerd. Ontvang een zipbestand dat de inhoud van de selectie bevat wanneer een maprij of meerdere rijen zijn geselecteerd. De namen van de gedownloade bestanden kunnen worden beïnvloed door de [optie documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen. _Vereiste toegang:_ volledige toegang tot uw geselecteerde document(en) en/of map(pen)
 
 **Documenten ontdekken** Zodra de downloadknop is ingedrukt, wordt een dialoog geopend in de linkeronderhoek van de pagina. Eerst zal het systeem beginnen de verschillende bestanden in de download te ontdekken. Dit is hoe de dialoog voor downloadvoorbereiding eruit kan zien:
 
@@ -4277,7 +4306,7 @@ Met de actie Publiceer kan de meest recente gedeelde revisie worden gepubliceerd
 
 ### 2.4 **Download laatste revisie**
 
-Als u toegang hebt tot het downloaden van modellen, kunt u op de downloadknop klikken. Dit biedt u de mogelijkheid om de meest recente revisie van een model als ifc-bestand te downloaden. Als u op zoek bent naar een vorige revisie van dit model, gaat u alstublieft naar de [modelledepagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud) _Vereiste toegang:_ Toegang tot minstens één document-model in de sectie Modellen.
+Als u toegang heeft tot het downloaden van modellen, kunt u op de downloadknop klikken. Hiermee kunt u de nieuwste revision van een model als ifc-bestand downloaden. De naam van het gedownloade bestand kan worden beïnvloed door de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze niet zelf aanvragen of wijzigen. Als u op zoek bent naar een eerdere revision van dit model, gaat u naar de bijbehorende [modelpagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud) _Vereiste toegang:_ Toegang tot ten minste één document-model in de sectie modellen.
 
 ### 2.5 **Nieuwe revisie**
 
@@ -6924,9 +6953,9 @@ Klik op de knop volledig scherm rechts van de knop rechtsinformatiemenu om het d
 
 Documenten kunnen worden gedownload met de actiknop rechtsboven, met de downloadknop in het revisie-menu van het rechtsinformatiemenu, door deze in de documentenlijst te selecteren en te downloaden of vanuit het voorbeelddialoogvenster.
 
-**Rechtsinformatiemenu** U kunt de downloadactiknop vinden in het [rechtsinformatiemenu](https://support.catenda.com/nl/articles/8345396-rechtermenu-op-de-documentenpagina). Als u het document van hier downloadt, krijgt u altijd het oorspronkelijk geüploade bestand. Als u één document selecteert, krijgt u de nieuwste revision als een bestand met de revisienaam. Als u meer dan één document selecteert, krijgt u de nieuwste revisies van de geselecteerde Documenten in een zip-bestand met de documentnaam en het revisienummer.
+**Menu Informatie aan de rechterkant** U kunt de knop Download-actie vinden in het [menu Informatie aan de rechterkant](https://support.catenda.com/nl/articles/8345396-rechtermenu-op-de-documentenpagina). Het document van hier downloaden geeft u altijd het origineel geüploade bestand. Als u één document selecteert, krijgt u de laatste revision als bestand. Als u meer dan één document selecteert, krijgt u de laatste revisions van de geselecteerde Documenten in een zip-bestand. De namen van de gedownloade bestanden kunnen worden beïnvloed door de [optie voor documentdownload-titel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor hun hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen.
 
-**Documentvoorbeeld** Als uw document kan worden weergegeven, kunt u de knop Opslaan als in het hamburgermenu linksboven in het documentvoorbeeldvenster vinden. Met het menu Opslaan als kunt u uw document met aantekeningen en opmerkingen downloaden.
+**Documentvoorbeeld** Als uw document kan worden weergegeven, kunt u de knop Opslaan als in het hamburgermenu linksboven in het documentvoorbeeld vinden. Met het menu Opslaan als kunt u uw document met aantekeningen en opmerkingen downloaden. In het dialoogvenster Opslaan als voert u de gewenste bestandsnaam in. De downloadactie in hetzelfde menu geeft het bestand altijd de [revision-naam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654), ongeacht de [optie voor documentdownload-titel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f) is ingesteld.
 
 ### 6.2 **Documenteigenschappen**
 
@@ -7519,7 +7548,9 @@ U hebt nu een miniatuur van het model in het modeloverzicht. U kunt ook elke afb
 
 # Een nieuw goedkeuringsverzoek maken
 
-De actie voor het nieuwe goedkeuringsverzoek is beschikbaar voor projecten waarvoor gedeelde revisies zijn ingeschakeld na 2 oktober 2025. Klik op het actiemenu rechts van de groene plusknop op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) om een nieuw goedkeuringsverzoek te maken. Klik op de knop voor het nieuwe goedkeuringsverzoek in het goedkeuringenmenu van het rechtermenu van een revisie op de Documenten-pagina waar de nieuwste revisie een gedeelde revisie is, om een nieuw goedkeuringsverzoek te maken. Dit is hoe de dialoogvenster voor het maken van een nieuw goedkeuringsverzoek eruit kan zien:
+De nieuwe actie voor goedkeuringsverzoeken is beschikbaar voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld. Klik op het actiemenu rechts van de groene plusknop op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) om een nieuw goedkeuringsverzoek te maken. Klik op de knop voor nieuw goedkeuringsverzoek in het goedkeuringenmenu van het rechtermenu van een revisie op de documentenpagina waar de meest recente revisie een gedeelde revisie is om een nieuw goedkeuringsverzoek te maken.
+
+Dit is hoe de dialoogvenster voor het maken van een nieuw goedkeuringsverzoek eruit kan zien:
 
 ![Nieuw goedkeuringverzoek Workflow Indiener Titel Beschrijving (optioneel) Documenten ter beoordeling documenten toevoegen naam revision # Revisienummer Status Verwijderen Annuleren Opslaan als concept Verzenden voor beoordeling](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -7535,7 +7566,9 @@ Dit is hoe de header van een nieuw goedkeuringsverzoek eruit kan zien voor proje
 
 Leden die deel uitmaken van indienersteams die zijn geconfigureerd in een projectworkflow kunnen kiezen uit één van de workflows waarvoor hun teams zijn geconfigureerd. De eerder geselecteerde workflow wordt onthouden. Zolang de eerder geselecteerde workflow nog beschikbaar is, wordt deze de volgende keer dat een goedkeuring wordt gemaakt, opnieuw geselecteerd.
 
-**Automatische selectie** Als slechts één van de teams waarvan een lid deel uitmaakt, is geconfigureerd voor een workflow, wordt die workflow automatisch geselecteerd. Dit is hoe het eruit kan zien wanneer de workflow automatisch wordt geselecteerd.
+De workflows van een project kunnen vooraf zijn gedefinieerd in het templateproject waarvan het project [is gemaakt](https://support.catenda.com/nl/articles/4670245-een-nieuw-project-maken). Projectbeheerders kunnen nieuwe workflows toevoegen of bestaande workflows bewerken op de [workflowspagina](https://support.catenda.com/nl/articles/12309903-workflowpagina-documentinstellingen) van de documentinstellingen. Een workflow die in het project aanwezig is, betekent niet dat elk lid deze kan selecteren: alleen leden van een indienerteam dat voor deze workflow is geconfigureerd, kunnen deze selecteren. Leden van wie wordt gevraagd goedkeuringsverzoeken in te dienen maar die geen workflow beschikbaar hebben, kunnen een projectbeheerder vragen om een van hun Teams als indienerteam toe te voegen aan een workflow.
+
+**Automatische selectie** Als slechts één van de Teams waarvan een lid deel uitmaakt, voor een workflow is geconfigureerd, wordt die workflow automatisch geselecteerd. Dit is hoe het eruit kan zien wanneer de workflow automatisch is geselecteerd.
 
 ![Workflow Indiener Titel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -7559,7 +7592,7 @@ De titel van de goedkeuringsaanvraag. Een goedkeuring moet een titel hebben om i
 
 ## 2. **Goedkeuringsverzoek-body**
 
-De nieuwe validatieworkflow is een op aanvraag beschikbare functie die kan worden aangevraagd om te worden ingeschakeld bij het starten van een nieuw project. Het is alleen mogelijk om een project op basis van een sjabloonproject te maken wanneer de nieuwe validatieworkflow niet is ingeschakeld in dat sjabloonproject. Dit is hoe de body van een nieuw goedkeuringsverzoek eruit kan zien voor projecten waarvoor gedeelde revisies zijn ingeschakeld na 2 oktober 2025:
+De nieuwe validatieworkflow is actief in alle nieuwe projecten. Projecten die een oudere versie van de validatieworkflow gebruiken, kunnen een migratie naar de nieuwe validatieworkflow aanvragen bij ondersteuning. Projecten die op basis van een templateproject zijn gemaakt, bevatten de goedkeuringworkflows en onderwerpsjablonen van dat templateproject. Dit is hoe het hoofdgedeelte van een nieuw goedkeuringsverzoek eruit kan zien voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld:
 
 ![Goedkeuringverzoek body Beschrijving (optioneel) Documenten ter beoordeling documenten toevoegen annuleren geen documenten toegevoegd tot nu toe](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 
@@ -8051,27 +8084,29 @@ Open het [documentactiemenu](https://support.catenda.com/nl/articles/9323521-act
 
 # Een nieuwe workflow maken
 
-De pagina nieuwe workflow kan worden geopend door op de groene plusknop op [de workflows-pagina](https://support.catenda.com/nl/articles/12309903-workflowpagina-documentinstellingen) te klikken of door op de actie in het menu nieuwe element-acties op [de pagina goedkeuringen](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) te klikken. Het is alleen mogelijk om nieuwe workflows te maken in projecten waar de nieuwe validatieworkflow is aangevraagd om in te schakelen. De nieuwe validatieworkflow is een functie op aanvraag die kan worden aangevraagd om in te schakelen bij het starten van een nieuw project. Het is alleen mogelijk om een project op basis van een sjabloonproject te maken als de nieuwe validatieworkflow niet is ingeschakeld in dat sjabloonproject. Dit is hoe het titeldeel van een nieuwe goedkeuring eruit kan zien:
+De nieuwe werkstroompage kan worden geopend door op de groene plusknop op [de werkstroompage](https://support.catenda.com/nl/articles/12309903-workflowpagina-documentinstellingen) te klikken of door op de actie in het menu Nieuw element op [de goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) te klikken. Het is alleen mogelijk om nieuwe werkstromen te maken in projecten waar de nieuwe validatiewerkstroom actief is. De nieuwe validatiewerkstroom is actief in alle nieuwe projecten. Projecten die een verouderde versie van de validatiewerkstroom gebruiken, kunnen ondersteuning aanvragen voor migratie naar de nieuwe validatiewerkstroom. Dit is wat het titelgedeelte van een nieuwe goedkeuring kan uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
-De volgende topics zijn beschreven in dit artikel:
+## 1. **Werkstromen uit een sjabloonproject**
 
-## 1. **Titel**
+Een werkstroom hoeft niet altijd helemaal opnieuw te worden gemaakt. Projecten die zijn gebaseerd op een sjabloonproject, bevatten de goedkeuringswerkstromen en onderwerpsjablonen van dat sjabloonproject. Klik [hier](https://support.catenda.com/nl/articles/4670245-een-nieuw-project-maken) voor meer informatie over het maken van een project op basis van een sjabloonproject.
+
+## 2. **Titel**
 
 Voer de naam van de workflow in. Dit is het enige onderdeel van de workflow dat kan worden bewerkt nadat het is ingediend.
 
-### 1.1 **Vereiste**
+### 2.1 **Vereiste**
 
 Een titel moet worden opgegeven om een workflow in te dienen.
 
-### 1.2 **Inhoud van goedkeuring**
+### 2.2 **Inhoud van goedkeuring**
 
 Dit is hoe de inhoud van een nieuwe goedkeuring eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/02-approval-contents.png)
 
-## 2. **Tijdinstellingen**
+## 3. **Tijdinstellingen**
 
 Teamleden hebben een beperkt aantal werkdagen om documenten in beoordelingsstappen te controleren waar hun team is ingesteld als revisorteam. Dit is hoe de tijdinstellingen van een nieuwe goedkeuringswerkflow eruit kunnen zien:
 
@@ -8081,13 +8116,11 @@ De tijd die in tijdinstellingen is ingesteld, is de tijd waarop de werkdag voor 
 
 **Voorbeeld van hoe tijdinstellingen kunnen worden overwogen:** Inzendingen kunnen worden gedateerd op basis van deze tijden. Een inzending om 2:00 uur behoort tot de vorige dag als de tijdinstelling is ingesteld op 6:00 uur.
 
-De volgende topics zijn beschreven in deze sectie:
-
-### 2.1 **Begintijd**
+### 3.1 **Begintijd**
 
 Kies tussen een waarde van 01 tot 24 op basis van het 24-uursklocksysteem, ook wel bekend als militaire tijd.
 
-### 2.2 **Geselecteerde tijdzone**
+### 3.2 **Geselecteerde tijdzone**
 
 De standaardtijdzone is de tijdzone die is ingesteld in uw besturingssysteem. Dit is hoe een geselecteerd element uit de tijdzonelijst eruit kan zien.
 
@@ -8101,13 +8134,13 @@ Het eerste deel van het geselecteerde element uit de tijdzonelijst kan weergeven
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/05-selected-timezone.png)
 
-### 2.3 **GMT-verschuiving**
+### 3.3 **GMT-verschuiving**
 
 Het tweede deel van het geselecteerde element uit de tijdzonelijst geeft de huidige GMT-verschuiving voor het geselecteerde element uit de tijdzonelijst weer.
 
 De huidige tijdzone voor het element in de tijdzonelijst wordt weergegeven. Als de GMT-verschuiving voor een geografische locatie verandert, bijvoorbeeld zomer- of wintertijd, verandert ook de GMT-verschuiving die wordt weergegeven voor deze geografische locaties.
 
-### 2.4 **Een element selecteren in de vervolgkeuzelijst met tijdzones**
+### 3.4 **Een element selecteren in de vervolgkeuzelijst met tijdzones**
 
 Klik op het geselecteerde element in de tijdzonelijst om de vervolgkeuzelijst met tijdzones te openen. Dit is hoe de vervolgkeuzelijst met tijdzones eruit kan zien:
 
@@ -8169,7 +8202,7 @@ Of de tijdzoneafkorting:
 
 Omdat sommige tijdzones een GMT-afstand als type hebben, is het meestal beter om naar de volledige tijdzonenaam te zoeken in plaats van naar de tijdzoneafkorting. Alleen tijdzones die momenteel actief zijn, worden weergegeven, dus voor tijdzones die veranderen voor geografische locaties, kan alleen de tijdzone die momenteel actief is voor die geografische locatie worden gevonden.
 
-## 3. **Indieners**
+## 4. **Indieners**
 
 Selecteer welke teamleden in het definitieve goedkeuringsteam u in de lijst met teams wilt zien waaruit u kunt kiezen bij het selecteren van een indienersteam voor een goedkeuring met deze workflow. Dit is hoe het indienersdeel van een nieuwe goedkeuringswerkflow eruit kan zien:
 
@@ -8183,25 +8216,23 @@ Selecteer welke teamleden in het definitieve goedkeuringsteam u in de lijst met 
 
 > **Opmerking:** het is alleen mogelijk om teams te selecteren, niet afzonderlijke leden
 
-### 3.1 **Vereiste**
+### 4.1 **Vereiste**
 
 Er moet minstens één indiener worden geselecteerd om de workflow in te dienen.
 
-## 4. **Beoordelingsstappen**
+## 5. **Beoordelingsstappen**
 
 Bouw een meertrapsbeoordelingsproces Dit is hoe het stappendeel van een nieuwe goedkeuringswerkflow eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
-De volgende topics zijn beschreven in deze sectie:
-
-### 4.1 **Stapgrootte**
+### 5.1 **Stapgrootte**
 
 **Geen stappen** Hoewel het mogelijk is om een workflow met geen stappen te maken door alle stappen te verwijderen, is het niet mogelijk om een goedkeuring met deze workflow te maken omdat er minstens één stap moet zijn om een goedkeuring in te dienen.
 
 **Maximale aantal stappen** Het maximale aantal stappen dat een workflow kan hebben is 10.
 
-### 4.2 **Teams**
+### 5.2 **Teams**
 
 Selecteer revisorteams die deel kunnen nemen aan de beoordelingsstap. Het maximale aantal teams dat een workflow kan hebben is 20. Elk team moet hun beoordeling indienen voordat de workflow naar de volgende stap gaat. Als automatisch goedkeuren is ingeschakeld, gaat de workflow automatisch naar de volgende stap na het geconfigureerde aantal werkdagen.
 
@@ -8211,7 +8242,7 @@ Selecteer revisorteams die deel kunnen nemen aan de beoordelingsstap. Het maxima
 
 **Een team met één lid selecteren** Omdat het niet mogelijk is om afzonderlijke leden toe te voegen, kan een team met slechts één lid worden geselecteerd als slechts één lid op deze manier documenten zal goedkeuren. Na het maken van de workflow kan deze niet meer worden bewerkt, dus zelfs met één lid biedt een team flexibiliteit voor het verplaatsen van personen in en uit dat team.
 
-### 4.3 **Werkdagen om te beoordelen**
+### 5.3 **Werkdagen om te beoordelen**
 
 Werkdagen worden gedefinieerd als maandag tot en met vrijdag. Openbare feestdagen zijn opgenomen in de werkdagen om te beoordelen. _Minimaal vereiste werkdagen:_ 1 werkdag
 
@@ -8224,13 +8255,13 @@ Als de startdatum voor de goedkeuringsstap op een vrijdag valt, wordt de vervald
 - De begintijd die is ingesteld in het tijdinstellingsgedeelte van de workflow
 - Op dinsdag volgende week, ongeacht of die dinsdag een openbare feestdag is of niet.
 
-### 4.4 **Automatisch goedkeuren**
+### 5.4 **Automatisch goedkeuren**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
 
 Schakel automatische goedkeuring in om knelpunten te voorkomen - documenten worden automatisch goedgekeurd namens teams die niet voor de deadline hebben gereageerd.
 
-### 4.5 Beoordeling van alle teamleden vereist
+### 5.5 Beoordeling van alle teamleden vereist
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
 
@@ -8240,23 +8271,21 @@ Schakel Beoordeling van alle teamleden vereist in om te vereisen dat elk afzonde
 
 - **Wanneer dit ingeschakeld is,** is de stap van het team niet voltooid totdat elk individueel lid zijn of haar eigen indicatie heeft gegeven. Zie de artikelen Overview-tabblad, bestandsbeoordeling rechtermenu en documenten-tabblad rechtermenu voor hoe dit wordt weergegeven tijdens beoordeling.<br>
 
-### 4.6 **Beoordelingsstap verwijderen**
+### 5.6 **Beoordelingsstap verwijderen**
 
 Klik op het prullenbakpictogram rechtsboven in een beoordelingsstap om deze te verwijderen.
 
-### 4.7 **Vereiste**
+### 5.7 **Vereiste**
 
 Als er beoordelingsstappen zijn, moet elke stap minstens één indiener hebben om de workflow in te dienen.
 
-## 5. **Definitieve goedkeuring**
+## 6. **Definitieve goedkeuring**
 
 De definitieve goedkeuring wordt handmatig gegeven door een enkel team. Dit is hoe het onderdeel definitieve goedkeuring van een nieuwe goedkeuringswerkflow eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
 
-De volgende topics zijn beschreven in deze sectie:
-
-### 5.1 **Team**
+### 6.1 **Team**
 
 Het definitieve goedkeuringsteam dat de definitieve goedkeuring geeft op basis van de beoordelingen van elk van de revisorteams.
 
@@ -8266,11 +8295,11 @@ Het definitieve goedkeuringsteam dat de definitieve goedkeuring geeft op basis v
 
 **Een team met één lid selecteren** Omdat het niet mogelijk is om afzonderlijke leden toe te voegen, kan een team met slechts één lid worden geselecteerd als slechts één lid op deze manier documenten zal goedkeuren. Na het maken van de workflow kan deze niet meer worden bewerkt, dus zelfs met één lid biedt een team flexibiliteit voor het verplaatsen van personen in en uit dat team.
 
-### 5.2 **Werkdagen om goed te keuren**
+### 6.2 **Werkdagen om goed te keuren**
 
 Het aantal werkdagen dat het definitieve goedkeuringsteam moet configureren voor de definitieve goedkeuring. _Minimaal vereiste werkdagen:_ 0 werkdagen
 
-### 5.3 Onderwerpsjabloon
+### 6.3 Onderwerpsjabloon
 
 In het veld onderwerpsjablonen kunt u de sjabloon kiezen die het systeem gebruikt om een onderwerp te maken wanneer de goedkeuringsstroom eindigt. Als u niets kiest, betekent dit dat er geen onderwerpen worden gemaakt!
 
@@ -8282,25 +8311,25 @@ Als er geen sjabloon is, hebt u de mogelijkheid om er direct in de instellingswe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
 
-### 5.4 **Beoordelingsstatus**
+### 6.4 **Beoordelingsstatus**
 
 Goedgekeurd of afgewezen
 
-### 5.5 **Definitieve status**
+### 6.5 **Definitieve status**
 
 Selecteer de definitieve status voor goedgekeurde en afgewezen documenten. Goedgekeurde documenten worden gepubliceerd, afgewezen documenten niet.
 
-### 5.6 **Vereiste**
+### 6.6 **Vereiste**
 
 Er moet een definitief goedkeuringsteam zijn geselecteerd om de workflow in te dienen. Voor goedgekeurde workflows moet een definitieve status zijn geselecteerd om de workflow in te dienen. Voor afgewezen workflows moet een definitieve status zijn geselecteerd om de workflow in te dienen.
 
-## 6. **Indienen**
+## 7. **Indienen**
 
 Klik op Indienen om de workflow in te dienen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
 
-### 6.1 **Waarschuwing voor vereist veld**
+### 7.1 **Waarschuwing voor vereist veld**
 
 Als de workflow een vereist veld mist, verschijnt er aan de bovenkant van de pagina een waarschuwing om de ontbrekende velden in te vullen. Dit is hoe de waarschuwing eruit kan zien:
 
@@ -8316,7 +8345,7 @@ Het volgende is vereist om een nieuwe workflow in te dienen:
 - Er moet een definitieve status voor goedgekeurde workflows worden geselecteerd
 - Er moet een definitieve status voor afgewezen workflows worden geselecteerd
 
-### 6.2 **Vergrendeld na indiening**
+### 7.2 **Vergrendeld na indiening**
 
 Na indiening is het alleen nog mogelijk om de titel van de workflow te wijzigen.
 
@@ -10128,7 +10157,15 @@ Klik [hier](https://support.catenda.com/nl/articles/6707924-hoeveelheid-uittelle
 
 ## 5. **Pagina Objecten**
 
-Zoek op basis van logica naar inhoud uit uw IFC. De pagina Objecten is een optionele functie die kan worden aangevraagd voor lopende projecten. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
+De [objectenpagina](https://support.catenda.com/nl/articles/12352750-objectenpagina) voert een vergelijkbare taak uit als het QTO-menu: het geeft rijen weer met informatie over de objecten in uw modellen. De twee werken in tegengestelde richtingen en verschillen in hoeveel ze kunnen exporteren.
+
+### 5.1 **Objecten zoeken**
+
+Het QTO-menu is dynamisch en werkt bij met de objecten die zijn geselecteerd in de 3D-viewer of boomvenster. De objectenpagina werkt andersom. Zoek naar inhoud van uw IFC met logica om objecten met filters te vinden en laad vervolgens de objecten die in de 3D-viewer zijn gevonden. Gebruik het geselecteerde filter op de objectenpagina om een resultaat vergelijkbaar met het QTO-menu te krijgen.
+
+### 5.2 **Exporteren**
+
+Zowel het QTO-menu als de objectenpagina kunnen naar Excel worden geëxporteerd. Op de objectenpagina worden alleen de ingeschakelde kolommen geëxporteerd, dus de kolommen in het geëxporteerde bestand kunnen worden beperkt door kolommen in de producttabel in of uit te schakelen. De objectenpagina kan ook veel meer cellen verwerken dan het QTO-menu, wat belangrijk is omdat objecten vaak veel cellen genereren (zie [objectentelling](#object-count)).
 
 # Hoofdmap ACL
 
@@ -10282,7 +10319,7 @@ Dit is wat het werkbalkenmenu eruit kan zien:
 
 ### 1.1 **Downloaden**
 
-Klik op Downloaden om het document met annotaties die actief zijn in de documentvoorvertoning te downloaden.
+Klik op Downloaden om het document met alle actieve annotaties in de documentpreview te downloaden. Het gedownloade bestand krijgt altijd de [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654), ongeacht de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f) is ingesteld. De projecteigenaar configureert deze optie voor de gehele organisatie, dus projectleden kunnen deze niet zelf aanvragen of wijzigen.
 
 ### 1.2 **Volledig scherm openen**
 
@@ -11221,13 +11258,27 @@ Als u over de naamkolom beweegt, ziet u een raster met punten aan de rechterkant
 
 Als u hiermee beweegt, verandert uw cursor in een hand. Als u dit rasterpictogram versleept, kunt u uw geselecteerde bestanden/mappen naar een andere map verplaatsen.
 
-## 5. **Revisie** - Standaard 1 paneel
+## 5. **Revisies**
 
-Het aantal openbare en/of conceptrevisies in het document. Elke revisie kan zijn eigen revisienaam, aanmaakdatum, bestandsgrootte en eigenaar hebben.
+Elke revisie kan zijn eigen revisienaam, aanmaakdatum, bestandsgrootte en eigenaar hebben.
 
-### 5.1 **Revisienaam**
+### 5.1 **Revisie** - Standaard 1 paneel
 
-De naam van de nieuwste openbare documentrevisie. Dit is de naam van het bestand dat oorspronkelijk is geüpload en kan niet worden gewijzigd. Omdat er meerdere revisies in een document kunnen zijn, kan deze naam afwijken van de documentnaam, wat de verzamelnaam is voor alle revisies in het document.
+Het aantal revisies in het document. Revisies worden weergegeven met een groen vinkje en een geheel getal 1, 2, 3, enzovoort...
+
+**Gedeelde revisies** Als gedeelde revisies zijn ingeschakeld in de documentstatusdeel van documentinstellingen, verschijnen nieuwe uploads op het tabblad Werkruimte met een hoofd- en een subversienummer zoals 0.1, 0.2, 1.1, enzovoort... Als de meest recente revisie een gepubliceerde revisie is, wordt deze weergegeven als een geheel getal. Op het gepubliceerde tabblad wordt de meest recente gepubliceerde revisie altijd weergegeven met het bijbehorende gehele getal, ongeacht of er een nieuwere gedeelde revisie is of niet.
+
+**Conceptrevisies - Legacy** In de legacy-weergave wordt het aantal conceptrevisies na de laatste gepubliceerde revisie vermeld.
+
+### 5.2 **Revisienaam**
+
+De naam van de meest recente openbare revisie in het document.
+
+De revisienaam is de naam die het bestand kreeg toen het werd geüpload. Dit is meestal de originele bestandsnaam, maar de naam kan worden gewijzigd in de [uploaddialoog](https://support.catenda.com/nl/articles/4670278-een-document-uploaden#h_00fa77db3e) voordat het bestand wordt geüpload. Na het uploaden kan de revisienaam niet worden gewijzigd.
+
+De documentnaam wordt door alle revisies in het document gedeeld, dus deze kan afwijken van de revisienaam.
+
+Wanneer u een bestand downloadt, bepaalt de [downloadtiteloptie voor document](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f) of het bestand de revisienaam krijgt of een naam op basis van de documentnaam.
 
 > **Opmerking:** De revisienaam kan afwijken van de document- of modelnaam.
 
@@ -13366,7 +13417,7 @@ _Vereiste toegang:_ Een van de volgende ongeacht beheerdersstatus:
 - Lid van een beoordelingsteam dat is geconfigureerd om een van de stappen voor de geselecteerde werkstroom in de goedkeuringsverzoekaanvraag te beoordelen.
 - Lid van het uitgeverstem dat is geconfigureerd om de uiteindelijke goedkeuring voor de geselecteerde werkstroom in de goedkeuringsverzoekaanvraag in te dienen.
 
-Goedkeuringsverzoekaanvragen kunnen op de goedkeuringspagina worden ingediend of eventuele goedkeuringsverzoekconcept dat zij eerder hebben aangemaakt, kunnen worden ingediend van hun goedkeuringsconcept pagina. Projecten waar gedeelde revisies voor 2 oktober 2025 waren ingeschakeld, zien in plaats daarvan de pagina met verouderde goedkeuringsverzoekaanvragen. Het is alleen mogelijk een project op basis van een projectsjabloon te maken als een verouderde validatiewerkstroom is ingeschakeld in die projectsjabloon.
+Goedkeuringsverzoeken kunnen worden ingediend op de pagina goedkeuringen of eerder gemaakte goedkeuringsverzoeken kunnen worden ingediend via hun conceptpagina voor goedkeuring. Projecten waarbij gedeelde revisies vóór 2 oktober 2025 waren ingeschakeld, zien in plaats daarvan de verouderde pagina voor goedkeuringsverzoeken. Projecten die op basis van een templateproject zijn gemaakt, bevatten de goedkeuringswerkstromen en onderwerpssjablonen van dat templateproject.
 
 ## 1. **Nieuwe itemacties**
 
@@ -13668,7 +13719,7 @@ Dit is hoe het menu met beoordelingen eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-Het menu Beoordelingen is alleen beschikbaar in projecten waarvoor de nieuwe validatieworkflow is aangevraagd om in te schakelen. De nieuwe validatieworkflow is een functie op aanvraag die voor nieuwe projecten kan worden aangevraagd om in te schakelen. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waarvoor deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
+Het goedkeuringenmenu is alleen beschikbaar in projecten waar de nieuwe validatiewerkstroom actief is. De nieuwe validatiewerkstroom is actief in alle nieuwe projecten. Projecten die een oude versie van de validatiewerkstroom gebruiken, kunnen ondersteuning aanvragen voor een migratie naar de nieuwe validatiewerkstroom. Projecten die zijn gemaakt op basis van een sjabloonproject bevatten de goedkeuringswerkstromen en Topics-sjablonen van dat sjabloonproject.
 
 ### 3.1 **Workflows configureren**
 
@@ -13773,7 +13824,7 @@ De pagina Goedkeuringen is standaard verborgen. Schakel gedeelde revisies in in 
 
 ### 1.1 **Inschakelen vanuit sjabloonproject**
 
-Projecten die zijn aangemaakt op basis van een sjabloonproject waarin gedeelde statussen waren ingeschakeld, hebben gedeelde statussen ingeschakeld en de pagina Goedkeuringen wordt weergegeven bij aanmaak. Werkstromen worden niet overgedragen van project naar project, dus in een nieuw project moet een werkstroom worden aangemaakt zodat leden goedkeuringsaanvragen kunnen indienen.
+Projecten die zijn gemaakt op basis van een templateproject waarin gedeelde statusses waren ingeschakeld, krijgen gedeelde statusses ingeschakeld en de goedkeuringspagina wordt weergegeven bij aanmaak. De goedkeuringswerkflows en onderwerpsjablonen van het templateproject worden overgedragen naar het nieuwe project, zodat deze niet opnieuw hoeven te worden gemaakt voordat leden goedkeuringsaanvragen kunnen indienen.
 
 ## 2. **Nieuwe item-acties**
 
@@ -15460,7 +15511,7 @@ Dit is hoe de pagina voor conceptgoedkeuringsverzoe eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Conceptgoedkeuringsverzoe zijn alleen beschikbaar voor projecten die gedeelde revies na 2 oktober 2025 hebben ingeschakeld. Het is alleen mogelijk om een project op basis van een sjabloonproject te maken wanneer de nieuwe validatieworkflow niet is ingeschakeld in dat sjabloonproject.
+Goedkeuringsverzoeken in concept zijn alleen beschikbaar voor projecten waarvoor gedeelde revisies zijn ingeschakeld na 2 oktober 2025. Projecten die zijn gemaakt op basis van een templateproject bevatten de workflows en Topics van dat templateproject.
 
 ## 1. **Nieuwe itemaacties**
 
@@ -16723,7 +16774,7 @@ Zodra de verzameling is gefinaliseerd, kunt u:
 
 **13. Voer een vervaldatum in voor gedeelde Koppelingen**
 
-**14. Deel de verzameling extern** Documentverzamelingen die extern worden gedeeld, kunnen door iedereen met de Koppeling worden gedownload. Personen met de Koppeling hebben geen Catenda-account nodig om de bestanden uit deze verzameling te downloaden.
+**14. De collectie extern delen** Documentcollecties die extern worden gedeeld, kunnen door iedereen met de koppeling worden gedownload. Personen met de koppeling hebben geen Catenda-account nodig om de bestanden uit deze collectie te downloaden. De bestanden die zij via de openbare koppeling downloaden, behouden altijd hun [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654), ongeacht de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f) is ingesteld. De projecteigenaar configureert deze optie voor hun hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen.
 
 > **Opmerking:** Het is mogelijk om aan te vragen dat de openbare delenfunctie wordt uitgeschakeld. Als u wilt dat deze optie wordt ingeschakeld, neem dan contact op met ondersteuning.
 
@@ -16941,7 +16992,7 @@ Als er meerdere pdf-revisies in een document aanwezig zijn, wordt de [PDF-vergel
 
 ### 3.2 **Download**
 
-Klik op het downloadpictogram rechtsboven in het revisiemenu of download in het hamburgermenu naast het downloadpictogram om de huidige revisie te downloaden. _Vereiste toegang:_ Leestoegang tot het document
+Klik op het downloadpictogram rechtsboven in het revisie-menu of klik op downloaden in het hamburgermenu naast het downloadpictogram om de huidige revisie te downloaden. De naam van het gedownloade bestand kan worden beïnvloed door de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze niet zelf aanvragen of wijzigen. _Vereiste toegang:_ Leestoegang tot het document
 
 ### 3.3 **Revisie intrekken**
 
@@ -16975,7 +17026,7 @@ Het is niet aanbevolen een geïnfecteerde documentrevisie te downloaden. U kunt 
 
 ### 4.3 **Revisienaam**
 
-De revisienaam is de naam die het bestand op het moment van uploaden op het systeem had. Deze naam kan niet worden gewijzigd.
+De [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654) van de revisie.
 
 ### 4.4 **Gepubliceerd door**
 
@@ -17023,7 +17074,7 @@ Als de nieuwe statusworkflow met gedeelde revisies in plaats van conceptrevisies
 
 ### 6.1 **Download**
 
-Gebruik de downloadactie om de huidige revisie te downloaden. Ongeacht het revisieType kunnen revisies ook via het revisiemenu hieronder worden gedownload. In het [werkruimtetabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de nieuwste gedeelde revisie in het document via de bestaande elementactie gedownload. In het [gepubliceerde tabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de nieuwste gepubliceerde revisie in het document via de bestaande elementactie gedownload. _Vereiste toegang:_ Leestoegang tot het document en selectievakje Gedeelde revisies weergeven is ingeschakeld.
+Gebruik de downloadactie om de huidige revisie te downloaden. De naam van het gedownloade bestand kan worden beïnvloed door de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze niet zelf aanvragen of wijzigen. Ongeacht het revisietypen kunnen revisies ook worden gedownload via het revisiemenu hieronder. In het [werkruimtetabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de laatst gedeelde revisie in het document gedownload via de actie voor bestaande elementen. In het [gepubliceerde tabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de laatst gepubliceerde revisie in het document gedownload via de actie voor bestaande elementen. _Vereiste toegang:_ Leestoegang tot het document en het selectievakje gedeelde revisies weergeven is ingeschakeld.
 
 ### 6.2 **Publiceren**
 
@@ -19887,11 +19938,11 @@ Afgeronde verzamelingen zijn vergrendeld voor bewerking. Afgeronde verzamelingen
 
 Tabelacties vindt u rechtsboven in de verzamelingstabel
 
-**Verzameling downloaden** Klik op verzameling downloaden om een zipbestand met alle documenten in de verzameling te downloaden.
+**Verzameling downloaden** Klik op Verzameling downloaden om een zipbestand met alle documenten in de verzameling te downloaden. De namen van de bestanden in het zipbestand kunnen worden beïnvloed door de [optie Titel document downloaden](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor hun hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen.
 
 **Documenten toevoegen** Klik op [Documenten toevoegen](https://support.catenda.com/nl/articles/6344318-collectiespagina#h_b94d108342) om documenten aan uw verzameling toe te voegen. Als uw document als virussen besmet is aangemerkt, kunt u het niet aan de verzameling toevoegen.
 
-> **Opmerking:** De naam van het document in de verzameling is de naam van de revisie die is toegevoegd. Dit lijkt enigszins op de originele bestandsnaam. Deze naam kan verschillen van de naam van het document, omdat een document meerdere revisies met verschillende namen kan bevatten.
+> **Opmerking:** De naam van het document in de verzameling is de [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654) van de revision die is toegevoegd. Deze naam kan afwijken van de naam van het document, omdat een document meerdere revisies met verschillende namen kan bevatten.
 
 ### 4.2 **Documentacties**
 
@@ -20370,7 +20421,7 @@ Als u Catenda Hub als BCF-server gebruikt, kunt u zich rechtstreeks met andere s
 
 # Workflowpagina - Documentinstellingen
 
-De workflowpagina is te vinden door op de knop Workflows configureren in het goedkeuringenmenu van de [pagina met documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) in projecten waar de nieuwe validatiewerkflow is aangevraagd om in te schakelen en gedeelde statussen zijn ingeschakeld in het statusworkflowmenu van [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen). De nieuwe validatiewerkflow is een functiie op aanvraag die kan worden aangevraagd om in te schakelen bij het starten van een nieuw project. Het is alleen mogelijk om een project op basis van een templateproject te maken wanneer de nieuwe validatiewerkflow niet is ingeschakeld in dat templateproject. Op de workflowpagina kunnen workflows voor verschillende goedkeuringsconfiguraties worden geconfigureerd. _Vereiste toegang:_ Beheerder
+De workflows-pagina kan worden gevonden door op de knop workflows configureren te klikken in het goedkeuringenmenu van de [pagina documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) in projecten waar de nieuwe validatiewerkflow actief is en gedeelde statussen zijn ingeschakeld in het statuswerkflowmenu van [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen). De nieuwe validatiewerkflow is actief in alle nieuwe projecten. Projecten die een verouderde versie van de validatiewerkflow gebruiken, kunnen ondersteuning aanvragen voor migratie naar de nieuwe validatiewerkflow. Op de workflows-pagina kunnen workflows voor verschillende goedkeuringsconfiguraties worden geconfigureerd. _Vereiste toegang:_ Beheerder
 
 De workflowpagina kan er als volgt uitzien:
 
@@ -20380,7 +20431,7 @@ De volgende onderwerpen worden in dit artikel beschreven:
 
 _[Nieuwe itemacties](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_d0f4a44fb7) - [Zoeken of filteren](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_bbf4dcad58) - [Rechtermenu](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_fc89aaa1fe) - [Tabel](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_54e8dfcac2) - [Subpagina's](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_5751ccd2b7)_
 
-Hoewel de workflowpagina een subpagina van de goedkeuringenpagina is, wat duidelijk wordt uit het feit dat de goedkeuringenpagina is gemarkeerd en de broodkruimels bovenaan staan, is de pagina alleen toegankelijk via het goedkeuringenmenu in de documentinstellingen.
+Hoewel de workflows-pagina een subpagina van de goedkeuringenpagina is, wat duidelijk is omdat de goedkeuringenpagina is gemarkeerd en de breadcrumbs aan de bovenkant, is de pagina alleen toegankelijk via het goedkeuringenmenu in documentinstellingen.
 
 ## 1. **Nieuwe itemacties**
 
@@ -20447,6 +20498,10 @@ Gemaakt door - _Standaard_ Het lid dat de workflow heeft gemaakt.
 Gemaakt op - _Standaard_ De datum en tijd waarop de workflow is gemaakt
 
 Status - _Standaard_ De status van de workflow
+
+## 4. **Workflows van een sjabloonproject**
+
+Projecten die zijn gemaakt op basis van een sjabloonproject, bevatten de goedkeuringingsworkflows en onderwerpsjablonen van dat sjabloonproject. Deze workflows worden weergegeven in de workflows-tabel van het nieuwe project. Klik [hier](https://support.catenda.com/nl/articles/4670245-een-nieuw-project-maken) voor meer informatie over het maken van een project op basis van een sjabloonproject.
 
 # Aan de slag - Korte video
 

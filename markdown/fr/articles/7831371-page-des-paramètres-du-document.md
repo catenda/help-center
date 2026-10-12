@@ -36,7 +36,7 @@ Voici à quoi peut ressembler le menu des validations :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-Le menu des validations n'est disponible que dans les projets où le nouveau workflow de validation a été demandé pour être activé. Le nouveau workflow de validation est une fonction à la demande qui peut être demandée pour être activée pour les nouveaux projets. Les nouveaux projets créés sur la base d'un projet modèle où cette fonction est activée ne disposent pas de cette fonction activée.
+Le menu des approbations n'est disponible que dans les projets où le nouveau flux de validation est actif. Le nouveau flux de validation est actif dans tous les nouveaux projets. Les projets qui utilisent une version héritée du flux de validation peuvent demander une migration vers le nouveau flux de validation auprès du support. Les projets créés à partir d'un projet modèle incluent les flux de travail d'approbation et les modèles de sujets de ce projet modèle.
 
 ### 3.1 **Configurer les circuits de validation**
 

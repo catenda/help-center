@@ -420,7 +420,7 @@ Wenn Ihr aktueller Plan und Zugriff dies zulassen, können Sie ein neues Projekt
 
 Andernfalls kontaktieren Sie den Catenda-Support unter [support@catenda.com](mailto:support@catenda.com) oder über die Chat-Schaltfläche, um ein neues Projekt zu erstellen. Die schwarze Chat-Schaltfläche finden Sie oben rechts in Catenda Hub oder unten rechts auf unseren Hilfe-/Startseiten, um Ihren Plan zu aktualisieren. Wir werden Sie durch die Erstellung führen.
 
-Die neue Projektseite kann etwa so aussehen:
+So kann die neue Projektseite aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
@@ -460,69 +460,82 @@ Die Einstellung für den Dokument-Download, die ein erstelltes Projekt erhält, 
 
 Wenn die Einstellung für den Dokument-Download für neue Projekte in einer Organisation geändert wird, wird diese Einstellung nur auf neue Projekte angewendet, die in der Organisation erstellt werden, nicht auf bereits vorhandene Projekte. Es ist daher möglich, dass es in derselben Organisation Projekte mit unterschiedlichen Einstellungen für den Dokument-Download gibt.
 
+### 3.3 **Projekte, die aus einem Vorlagenprojekt erstellt wurden**
+
+Die Einstellung für den Dokumentdownload eines neuen Projekts basiert auf der Organisation, in der es erstellt wird, nicht auf dem Vorlagenprojekt. Sie wird nie vom Vorlagenprojekt kopiert, daher ist sie keine der Optionen, wenn ein Vorlagenprojekt verwendet wird.
+
 ## 4. **On-Demand-Features**
 
-Wenn ein neues Projekt erstellt wird, sind Opt-in-Features standardmäßig nicht aktiviert. Es ist möglich, die folgenden Features nach der Projekterstellung aktiviert zu bekommen:
+Wenn ein neues Projekt erstellt wird, sind Opt-in-Funktionen standardmäßig nicht aktiviert. Es ist möglich, nach dem Erstellen eines Projekts die folgende Funktion aktivieren zu lassen:
 
-[Objekte-Seite](https://support.catenda.com/de/articles/12352750-objektseite) [Berichte-Seite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite)
+[Berichtsseite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite)
 
 ## 5. **Ein Projekt als Vorlage auswählen**
 
-Sie können auswählen, einige Einstellungen eines anderen Projekts zu übernehmen, wenn Sie ein neues Projekt erstellen. _Erforderlicher Zugriff:_ Projektmitglied
+Aktivieren Sie das Kontrollkästchen "Anderes Projekt als Vorlage verwenden", um Einstellungen eines anderen Projekts beim Erstellen eines neuen Projekts zu erben. _Erforderlicher Zugriff:_ Projektmitglied
 
-### 5.1 **Modelle -** Keine Versionen
+So kann es aussehen, wenn ein Vorlagenprojekt verwendet wird:
 
-Leere Modelle, die bereit sind, neue Versionen zu erhalten
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/02-select-a-project-to-use-as-template.png)
+
+Elemente mit einem hellgrünen Kontrollkästchen werden immer kopiert und können nicht deaktiviert werden. Etiketten, Meilensteine, Teams und Themen-Boards werden immer vom Vorlagenprojekt kopiert. Elemente mit einem dunkelgrünen Kontrollkästchen sind optional und können deaktiviert werden.
+
+Einige Elemente werden erforderlich, wenn ein anderes Element aktiviert ist, wie die Notiz oben in der Liste besagt: "Elemente, die von Ihrer Auswahl erforderlich sind, werden automatisch eingebunden und können nicht deaktiviert werden." Derzeit ist die einzige Abhängigkeit Approval Workflows. Wenn Approval Workflows aktiviert ist, werden Dokumentstatus-Konfiguration und Themen-Vorlagen automatisch eingebunden und in Hellgrün angezeigt. Wenn Approval Workflows deaktiviert ist, werden Dokumentstatus-Konfiguration und Themen-Vorlagen optional und in Dunkelgrün angezeigt.
+
+### 5.1 **Modelle (keine Revisionen)**
+
+Die Modelle des Vorlagenprojekts werden ohne ihre Revisionen kopiert, daher sind sie leer und bereit, neue Revisionen zu erhalten. _Auswahl:_ Optional
 
 ### 5.2 **Etiketten**
 
-Etiketten, die mit Themen, Modellen und Dokumenten verbunden werden können. Es ist nützlich, die gleichen Etiketten in mehreren Projekten für Analysen mit Tools wie PowerBI zu haben
+Die Etiketten des Vorlagenprojekts werden kopiert und sind bereit, mit Themen, Modellen und Dokumenten verbunden zu werden. Es ist nützlich, die gleichen Etiketten in mehreren Projekten für die Analyse mit Tools wie Power BI zu haben. _Auswahl:_ Erforderlich
 
-### 5.3 **Meilensteine -** Keine Daten
+### 5.3 **Meilensteine (keine Daten)**
 
-Nützlich beim Erstellen eines neuen Projekts bei einem Phasenwechsel, der die gleichen Meilensteine wie der vorherige hat.
+Die Meilensteine des Vorlagenprojekts werden ohne ihre Daten kopiert. Dies ist nützlich, wenn ein neues Projekt bei einem Phasenwechsel erstellt wird, das die gleichen Meilensteine wie das letzte hat. _Auswahl:_ Erforderlich
 
-### 5.4 **Teams -** Kein Mitglied
+### 5.4 **Teams (keine Mitglieder)**
 
-Teams, die bereit sind, Mitglieder aufzunehmen. Der Zugriff in der Dokumentstruktur wird auch durch Teams verteilt.
+Die Teams des Vorlagenprojekts werden ohne ihre Mitglieder kopiert und sind bereit, Mitglieder anzunehmen. Der Zugriff in der Dokumentstruktur wird auch über Teams verteilt. _Auswahl:_ Erforderlich
 
-### 5.5 **Themen-Boards -** Einschließlich Status und Typen, aber keine Themen
+### 5.5 **Themen-Boards (einschließlich Status und Typen, aber ohne Themen)**
 
-Boards, die eingerichtet und einsatzbereit sind. Boards können archiviert werden, bis sie einsatzbereit sind.
+Die Themen-Boards des Vorlagenprojekts werden mit ihren Status und Typen kopiert, aber ohne Themen, daher sind sie eingerichtet und einsatzbereit für die Kommunikation. Boards können archiviert bleiben, bis sie einsatzbereit sind. _Auswahl:_ Erforderlich
 
 ### 5.6 **Ordnerstruktur**
 
-Kopieren Sie die Namen und Struktur der Vorlagenprojektordner ohne die zugehörigen Dokumente. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Vorlagenprojekt
+Die Namen und Struktur der Ordner des Vorlagenprojekts werden ohne ihre Dokumente kopiert. _Erforderlicher Zugriff:_ Vollzugriff auf das Vorlagenprojekt _Auswahl:_ Optional
 
 ### 5.7 **Dokumentstatus-Konfiguration**
 
-Öffentliche Dokumentstatus können verwendet werden, um den Fortschritt eines Dokuments nachzuverfolgen. Entwurf-Dokumentstatus können für Genehmigungen verwendet werden.
+Die Dokumentstatus des Vorlagenprojekts werden kopiert. Öffentliche Dokumentstatus können verwendet werden, um den Fortschritt eines Dokuments zu verfolgen. Entwurf-Dokumentstatus können für Genehmigungen verwendet werden. _Auswahl:_ Erforderlich, wenn Approval Workflows aktiviert ist, andernfalls optional
 
-### 5.8 **Einstellung für Dokument-Download**
+### 5.8 **Dokument- und Themen-Board-Zugriffskontrolle**
 
-Die Einstellung für den Dokument-Download, die das erstellte Projekt erhielt, basiert auf der Einstellung für den Dokument-Download für neue Projekte in der Organisation und nicht darauf, welche Einstellung für den Dokument-Download das Vorlagenprojekt hat.
-
-### 5.9 **Dokument- und Themen-Board-Zugriffskontrolle**
-
-Dies kopiert die Zugriffskontrolle für die folgenden Optionen (falls ausgewählt)
-
-- Ordnerstruktur
-- Themen-Boards
-
-_Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Vorlagenprojekt
+Die Zugriffskontrolle der Ordnerstruktur und der Themen-Boards wird für diejenigen der beiden kopiert, die ausgewählt sind.
 
 Das Folgende ist enthalten:
 
-- Definierten Zugriff für "Teams". (Falls Teams ausgewählt sind)
-- Andere Zugriffseinstellungen. ("Alle Benutzer", "Besitzer", etc...)
+- Definierter Zugriff für "Teams"
+- Weitere Zugriffseinstellungen, wie "Alle Benutzer" und "Eigentümer"
 
 Das Folgende ist nicht enthalten:
 
 - Definierten Zugriff für "Benutzer"
 
-### 5.10 **Benutzerdefinierte Felder und Benennungskonventionen**
+Wenn diese Option deaktiviert ist, erhält das neue Projekt stattdessen den Standardzugriff. Das ist der Standardzugriff für die Wurzel der Dokumente, den Sie in den Dokumenteinstellungen finden, und der Standardzugriff für das Standard-Themen-Board. _Erforderlicher Zugriff:_ Administrator oder Eigentümer des Vorlagenprojekts _Auswahl:_ Optional
 
-Benutzerdefinierte Felder können in Problemen angezeigt und in Benennungskonventionen verwendet werden.
+### 5.9 **Benutzerdefinierte Felder, Namenskonventionen und QR-Code**
+
+Die [Ordnerkonfiguration](https://support.catenda.com/de/articles/12302595-ordnerkonfiguration-dokumenteinstellungen) des Vorlagenprojekts wird kopiert: ihre benutzerdefinierten Felder, Namenskonventionen und QR-Code-Stempelungseinstellungen. Benutzerdefinierte Felder können in Problemen angezeigt und in Namenskonventionen verwendet werden. _Auswahl:_ Optional
+
+### 5.10 **Themenvorlagen**
+
+Die Themen-Vorlagen des Vorlagenprojekts werden kopiert, damit Themen aus den gleichen Vorlagen im neuen Projekt erstellt werden können. _Auswahl:_ Erforderlich, wenn Approval Workflows aktiviert ist, andernfalls optional
+
+### 5.11 **Freigabeworkflows**
+
+Die Approval Workflows des Vorlagenprojekts werden kopiert, damit Mitglieder Genehmigungsanfragen einreichen können, ohne dass zuerst ein Workflow erstellt werden muss. Die Teams, Dokumentstatus und Themen-Vorlagen, die ein Workflow verwendet, werden zusammen mit ihm kopiert, daher funktioniert jede Referenz im Workflow immer noch im neuen Projekt. Deshalb macht das Aktivieren von Approval Workflows Dokumentstatus-Konfiguration und Themen-Vorlagen erforderlich. _Auswahl:_ Optional
 
 # Ein Projekt beitreten
 
@@ -1633,7 +1646,7 @@ Gesamtprojekte pro Organisation Projektablaufdatum
 
 ### **Titel für heruntergeladene Dokumente**
 
-Der Titel, den heruntergeladene Dokumente in dieser Organisation haben.
+Der Dateiname, den heruntergeladene Dateien erhalten. Dies ist der Standard für neue Projekte in der Organisation, und die Optionen werden in [Organisationsoptionen](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beschrieben.
 
 ### **Öffentliches Teilen**
 
@@ -1655,25 +1668,45 @@ Bitte kontaktieren Sie [sales@catenda.com](mailto:sales@catenda.com) für Fragen
 
 ### 3.1 Option für Dokumentdownload-Titel
 
-Wenn Sie ein einzelnes Dokument herunterladen, ist der Dateiname immer der ursprüngliche Dateiname. Wenn Sie mehrere Dokumente herunterladen, sind die Dateinamen die Namen der Dokumente.
+Die Option für den Dokumentdownload-Titel bestimmt, welchen Dateinamen eine heruntergeladene Datei erhält. Sie können die Datei mit ihrem [Revisionsnamen](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654) behalten oder den Namen des Dokuments in Catenda verwenden. Dies kann in Kombination mit der Namenskonvention nützlich sein und um Dokumente mit demselben Namen zu überschreiben, anstatt jedes Mal eine andere Revisionsnummer zu erhalten.
 
-Mit dieser Option können Sie konfigurieren, welchen Dateinamen Sie beim Herunterladen mehrerer Dokumente erhalten. Dies kann in Kombination mit der Namenskonvention und zum Überschreiben von Dokumenten mit demselben Namen statt mit einer anderen Revisionsnummer jedes Mal nützlich sein.
+Die Option ist eine der Standardeinstellungen für neue Projekte. Wenn die Organisation sie ändert, gilt die Änderung nur für später erstellte Projekte. Vorhandene Projekte behalten die Einstellung, die sie bereits haben.
 
 **Beispiel:** Der Name des Projekts ist _testproject._ Zwei Dateien werden mit je zwei Versionen hochgeladen: _test01.pdf_ und _test02.pdf_ Die Namen der Dokumente werden dann geändert in: _changed01.pdf_ und _changed02.pdf_
 
-Standardmäßiges Download-Verhalten: Wenn Sie diese Dokumente einzeln herunterladen, werden sie immer _test01.pdf_ und _test02.pdf_ genannt. Wenn Sie beide Dokumente gleichzeitig herunterladen, werden sie standardmäßig _changed01.pdf_ und _changed02.pdf_ genannt. Dies können Sie mit den folgenden Optionen ändern:
+**Optionen:** Die folgenden Optionen bestimmen, wie diese zwei Dateien beim Download heißen.
 
-**Optionen:**
+**Revisionsdateiname** \<Revisionsname>.\<Erweiterung> _test01.pdf_ und _test02.pdf_
 
-**Revisionsdateiname** Beachten Sie, dass dies dem Download einer einzelnen Datei entspricht. Die Namen sind konsistent, wenn Sie diese Option wählen. \<Original file name>.\<Extension> _test01.pdf_ und _test02.pdf_
-
-_Dokumenttitel_ - Standard \<Document name>.\<Extension> _changed01.pdf_ und _changed02.pdf_
+**Dokumenttitel** \<Dokumentname>.\<Erweiterung> _changed01.pdf_ und _changed02.pdf_
 
 **Dokumenttitel mit Revisionsnummer** \<Document name>\<Revision number>.\<Extension> _changed01.pdf #2_ und _changed02.pdf #2_
 
 **Projekttitel mit Dokumenttitel und Revisionsnummer** \<Project name>\<Document name>\<Revision number>.\<Extension> _testproject changed01.pdf #2_ und _testproject changed02.pdf #2_
 
-### 3.2 **Download von infizierten Dokumenten**
+### 3.2 Wo die Option gilt
+
+Die Option gilt, wenn Sie eine einzelne Datei herunterladen und wenn Sie mehrere Dateien gleichzeitig herunterladen. Sie gilt für Dokumente, die aus dem Dokumentbereich heruntergeladen werden, und für Modelle, die aus dem Modellbereich heruntergeladen werden. Sie gilt auch, wenn Sie auf der Seite Sammlungen auf **Sammlung herunterladen** klicken.
+
+### 3.3 Ausnahmen zur Option
+
+Einige Downloads ignorieren die Option.
+
+**Öffentliche Links** Wenn Sie eine Sammlung mit einem öffentlichen Link freigeben, lädt die Person, die den Link öffnet, von der Catenda-Übertragungsseite herunter. Die Dateien, die sie herunterladen, behalten immer ihren Revisionsnamen.
+
+**Anmerkungssymbolleiste** Wenn Sie aus dem Aktionsmenü in der Anmerkungssymbolleiste der Dokumentvorschau herunterladen, erhält die Datei immer den Revisionsnamen, unabhängig davon, wie die Option eingestellt ist. Wenn Sie im selben Menü **Speichern unter** wählen, können Sie den gewünschten Dateinamen eingeben.
+
+### 3.4 Herausforderungen mit der Option
+
+Zwei Projekte in derselben Organisation können dieselbe Datei unterschiedlich benennen. Die Option ist nur eine Standardeinstellung für neue Projekte, daher behält ein Projekt, das erstellt wurde, bevor die Option geändert wurde, seine alte Einstellung.
+
+Das gleiche Dokument kann je nachdem, wo Sie es herunterladen, unterschiedliche Namen erhalten. Die Anmerkungssymbolleiste und öffentliche Links verwenden immer den Revisionsnamen, während die anderen Downloads der Option folgen.
+
+Wenn Sie eine Option wählen, die den Dokumentnamen verwendet, hängt der Dateiname vom Dokumentnamen in Catenda ab. Wenn eine neue Revision hochgeladen wird und der Dokumentname nicht aktualisiert wird, kann die heruntergeladene Datei Informationen vermissen, die im Revisionsnamen waren. Deshalb behalten einige Organisationen die Option **Revisionsdateiname**.
+
+Mit der Option **Revisionsdateiname** behält eine Datei, die mit einem unklar benannten Namen hochgeladen wurde, diesen Namen beim Herunterladen.
+
+### 3.5 **Download von infizierten Dokumenten**
 
 Quarantäne-Handling für infizierte Dateien in Projekten im Besitz der Organisation. Wenn ein Dokument als infiziert befunden wird, kann es standardmäßig heruntergeladen werden. Der Benutzer erhält eine Warnung, dass dieses Dokument ein Virus enthält. Eine Option kann pro Organisation festgelegt werden, die dazu führt, dass niemand, nicht einmal Administratoren, infizierte Dokumente herunterladen kann.
 
@@ -1681,13 +1714,13 @@ Quarantäne-Handling für infizierte Dateien in Projekten im Besitz der Organisa
 
 **Download blockieren**
 
-### 3.3 **Modelle als Dokumente**
+### 3.6 **Modelle als Dokumente**
 
 Wenn diese Funktion aktiviert ist, haben alle neuen Projekte, die in der Organisation erstellt werden, die Funktion [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-modelle-als-dokumente) aktiviert.
 
 > **Hinweis:** 24. November: Diese Funktion wird für alle neuen Organisationen aktiviert. Wir werden die alte Ansicht etwa ein Jahr lang unterstützen, bevor alle Projekte migriert werden.
 
-### 3.4 **Option für Dokumentupload-Entwurf**
+### 3.7 **Option für Dokumentupload-Entwurf**
 
 Wenn der Genehmigungsworkflow aktiviert wurde und es in den Dokumenteinstellungen Entwurfsstatus gibt, ist das Kontrollkästchen "Entwurf hochladen" standardmäßig beim Hochladen von Dokumenten aktiviert. Auf Anfrage kann dieses Kontrollkästchen standardmäßig für alle Projekte in einer Organisation deaktiviert werden.
 
@@ -3821,7 +3854,7 @@ Mit der Aktion "Veröffentlichen" kann die neueste freigegebene Revision veröff
 
 ### 2.4 **Letzte Revision herunterladen**
 
-Wenn Sie Zugriff auf das Herunterladen von Modellen haben, können Sie auf die Download-Schaltfläche klicken. Auf diese Weise können Sie die neueste Revision eines Modells als IFC-Datei herunterladen. Wenn Sie nach einer vorherigen Revision dieses Modells suchen, besuchen Sie bitte die [Modellseite](https://support.catenda.com/de/articles/4670270-modellinhaltseite). _Erforderlicher Zugriff:_ Zugriff auf mindestens ein Dokument-Modell im Modelle-Bereich.
+Wenn Sie Zugriff auf das Herunterladen von Modellen haben, können Sie auf die Download-Schaltfläche klicken. Dies ermöglicht es Ihnen, die neueste Revision eines Modells als IFC-Datei herunterzuladen. Der Name der heruntergeladenen Datei kann durch die [Option "Dokumentdownload-Titel"](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, sodass Projektmitglieder diese nicht selbst anfordern oder ändern können. Wenn Sie nach einer vorherigen Revision dieses Modells suchen, gehen Sie bitte auf die zugehörige [Modellseite](https://support.catenda.com/de/articles/4670270-modellinhaltseite). _Erforderlicher Zugriff:_ Zugriff auf mindestens ein Dokument-Modell im Bereich Modelle.
 
 ### 2.5 **Neue Revision**
 
@@ -6743,9 +6776,9 @@ Klicken Sie auf die Vollbildschaltfläche rechts neben der Schaltfläche des rec
 
 Dokumente können mit der Aktionsschaltfläche oben rechts, mit der Download-Schaltfläche im Revisionsmenü des rechten Informationsmenüs, durch Auswahl in der Dokumentliste und Download oder aus dem Vorschaudialog heruntergeladen werden.
 
-**Rechtes Informationsmenü** Sie können die Download-Aktionsschaltfläche im [rechten Informationsmenü](https://support.catenda.com/de/articles/8345396-rechtes-menu-auf-der-dokumentseite) finden. Das Herunterladen des Dokuments von hier gibt Ihnen immer die ursprünglich hochgeladene Datei. Wenn Sie ein Dokument auswählen, erhalten Sie die neueste Revision als Datei mit dem Revisionsnamen. Wenn Sie mehr als ein Dokument auswählen, erhalten Sie die neuesten Revisionen der ausgewählten Dokumente in einer ZIP-Datei mit dem Dokumentnamen und der Revisionsnummer.
+**Rechtes Informationsmenü** Sie finden die Download-Aktionsschaltfläche im [rechten Informationsmenü](https://support.catenda.com/de/articles/8345396-rechtes-menu-auf-der-dokumentseite). Wenn Sie das Dokument von hier herunterladen, erhalten Sie immer die ursprünglich hochgeladene Datei. Wenn Sie ein Dokument auswählen, erhalten Sie die neueste Revision als Datei. Wenn Sie mehr als ein Dokument auswählen, erhalten Sie die neuesten Revisionen der ausgewählten Dokumente in einer ZIP-Datei. Die Namen der heruntergeladenen Dateien können durch die [Option für den Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern.
 
-**Dokumentvorschau** Wenn Ihr Dokument in der Vorschau angezeigt werden kann, finden Sie die Schaltfläche "Speichern unter" im Hamburger-Menü oben links in der Dokumentvorschau. Mit dem Menü "Speichern unter" können Sie Ihr Dokument mit Anmerkungen und Kommentaren herunterladen.
+**Dokumentvorschau** Wenn Ihr Dokument in der Vorschau angezeigt werden kann, finden Sie die Schaltfläche "Speichern unter" im Hamburger-Menü oben links in der Dokumentvorschau. Mit dem Menü "Speichern unter" können Sie Ihr Dokument mit Anmerkungen und Kommentaren herunterladen. Im Dialogfeld "Speichern unter" geben Sie den gewünschten Dateinamen ein. Die Download-Aktion im gleichen Menü gibt der Datei immer den [revision-Namen](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654), unabhängig davon, wie die [Option für den Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) eingestellt ist.
 
 ### 6.2 **Dokumenteigenschaften**
 
@@ -7061,7 +7094,7 @@ Mit der Aktion "Herunterladen" können ausgewählte Elemente und deren Inhalte h
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Ein einzelnes Dokument mit einer ausgewählten Dokumentzeile erhalten. Eine ZIP-Datei mit dem Inhalt der Auswahl erhalten, wenn eine Ordnerzeile oder mehrere Zeilen ausgewählt sind. _Erforderlicher Zugriff:_ Vollzugriff auf die ausgewählten Dokumente und/oder Ordner.
+Erhalten Sie ein einzelnes Dokument, wenn eine Dokumentzeile ausgewählt ist. Erhalten Sie eine ZIP-Datei, die den Inhalt der Auswahl enthält, wenn eine Ordnerzeile oder mehrere Zeilen ausgewählt sind. Die Namen der heruntergeladenen Dateien können durch die [Option Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für seine gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern. _Erforderlicher Zugriff:_ Vollzugriff auf das/die ausgewählte(n) Dokument(e) und/oder Ordner
 
 **Dokumente erkennen** Wenn die Download-Schaltfläche gedrückt wird, öffnet sich ein Dialogfeld unten links auf der Seite. Zunächst beginnt das System, die verschiedenen Dateien im Download zu erkennen. Das Dialogfeld "Herunterladen vorbereiten" kann etwa so aussehen:
 
@@ -7236,7 +7269,7 @@ So kann das Symbolleistenmenü aussehen:
 
 ### 1.1 **Herunterladen**
 
-Klicken Sie auf Herunterladen, um das Dokument mit allen aktiven Anmerkungen in der Dokumentenvorschau herunterzuladen.
+Klicken Sie auf Download, um das Dokument mit allen aktiven Anmerkungen in der Dokumentvorschau herunterzuladen. Die heruntergeladene Datei erhält immer den [Revisionsnamen](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654), unabhängig davon, welche [Option für den Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) eingestellt ist. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, sodass Projektmitglieder diese nicht selbst anfordern oder ändern können.
 
 ### 1.2 **Vollbildmodus aktivieren**
 
@@ -8437,7 +8470,9 @@ Sie haben nun eine Miniaturansicht des Modells in der Modellübersicht. Sie kön
 
 # Erstellen einer neuen Genehmigungsanforderung
 
-Die neue Genehmigungsanforderungsaktion ist für Projekte verfügbar, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden. Klicken Sie auf das Aktionsmenü rechts neben der grünen Schaltfläche "Plus" auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy), um eine neue Genehmigungsanforderung zu erstellen. Klicken Sie auf die Schaltfläche "Neue Genehmigungsanforderung" im Genehmigungsmenü des rechten Menüs einer Überarbeitung auf der Dokumentenseite, wenn die neueste Überarbeitung eine geteilte Überarbeitung ist, um eine neue Genehmigungsanforderung zu erstellen. So könnte der Dialog "Neue Genehmigungsanforderung erstellen" aussehen:
+Die neue Genehmigungsanforderungsaktion ist für Projekte verfügbar, bei denen gemeinsame Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden. Klicken Sie auf das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy), um eine neue Genehmigungsanforderung zu erstellen. Klicken Sie auf die Schaltfläche "Neue Genehmigungsanforderung" im Genehmigungsmenü des rechten Menüs einer Überarbeitung auf der Dokumentenseite, auf der die neueste Überarbeitung eine gemeinsame Überarbeitung ist, um eine neue Genehmigungsanforderung zu erstellen.
+
+So kann das Dialogfeld "Neue Genehmigungsanforderung erstellen" aussehen:
 
 ![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -8453,7 +8488,9 @@ So könnte der Header einer neuen Genehmigung für Projekte aussehen, bei denen 
 
 Mitglieder, die Teil von Absender-Teams sind, die in einem Projekt-Workflow konfiguriert sind, können zwischen einem der Workflows wählen, für die ihre Teams konfiguriert sind. Der zuvor ausgewählte Workflow wird beibehalten. Solange der zuvor ausgewählte Workflow noch verfügbar ist, wird er beim nächsten Erstellen einer Genehmigung erneut ausgewählt.
 
-**Automatische Auswahl** Wenn nur eines der Teams, zu denen ein Mitglied gehört, für einen Workflow konfiguriert ist, wird dieser Workflow automatisch ausgewählt. So kann es aussehen, wenn der Workflow automatisch ausgewählt wird.
+Die Workflows eines Projekts könnten in dem Vorlagenprojekt, aus dem das Projekt [erstellt wurde](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen), vordefiniert worden sein. Projektadministratoren können neue Workflows hinzufügen oder vorhandene Workflows auf der [Workflows-Seite](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen) der Dokumenteinstellungen bearbeiten. Ein Workflow, der im Projekt vorhanden ist, bedeutet nicht, dass jedes Mitglied ihn auswählen kann: Nur Mitglieder eines für diesen Workflow konfigurierten Submitter-Teams können ihn auswählen. Mitglieder, die aufgefordert werden, Genehmigungsanforderungen einzureichen, aber keinen verfügbaren Workflow haben, können einen Projektadministrator bitten, eines ihrer Teams als Submitter-Team einem Workflow hinzuzufügen.
+
+**Automatische Auswahl** Wenn nur eines der Teams, zu dem ein Mitglied gehört, für einen Workflow konfiguriert ist, wird dieser Workflow automatisch ausgewählt. So kann es aussehen, wenn der Workflow automatisch ausgewählt wird.
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -8477,7 +8514,7 @@ Der Titel der Genehmigungsanfrage. Eine Genehmigung muss einen Titel haben, um e
 
 ## 2. **Genehmigungsanforderungs-Body**
 
-Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines neuen Projekts angefordert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. So könnte der Body einer neuen Genehmigung für Projekte aussehen, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden:
+Der neue Validierungs-Workflow ist in allen neuen Projekten aktiv. Projekte, die eine Legacy-Version des Validierungs-Workflows verwenden, können eine Migration zum neuen Validierungs-Workflow vom Support anfordern. Projekte, die auf einem Vorlagenprojekt basieren, enthalten die Genehmigungsworkflows und Themavorlagen dieses Vorlagenprojekts. So kann der Body einer neuen Genehmigung für Projekte aussehen, bei denen gemeinsame Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden:
 
 ![Approval Reqeust body Description (optional) Documents for review add documents cancel no documents added yet](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 
@@ -8825,25 +8862,29 @@ Klicken Sie auf Export, um die Verarbeitung dieses Exports zu starten. Nach Absc
 
 # Erstellen eines neuen Workflows
 
-Die neue Workflow-Seite kann durch Klicken auf die grüne Schaltfläche auf [der Workflows-Seite](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen) oder durch Klicken auf die Aktion im Aktionsmenü des neuen Elements auf [der Freigabenseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) geöffnet werden. Es ist nur möglich, neue Workflows in Projekten zu erstellen, in denen der neue Validierungs-Workflow aktiviert werden kann. Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines neuen Projekts aktiviert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. So könnte der Titelteil einer neuen Freigabe aussehen:
+Die neue Workflow-Seite kann durch Klicken auf die grüne Schaltfläche plus auf [der Workflows-Seite](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen) oder durch Klicken auf die Aktion im neuen Element-Aktionsmenü auf [der Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) geöffnet werden. Es ist nur möglich, neue Workflows in Projekten zu erstellen, in denen der neue Validierungs-Workflow aktiv ist. Der neue Validierungs-Workflow ist in allen neuen Projekten aktiv. Projekte, die eine ältere Version des Validierungs-Workflows verwenden, können beim Support eine Migration zum neuen Validierungs-Workflow anfordern. So kann der Titelteil einer neuen Genehmigung aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
-## 1. **Titel**
+## 1. **Workflows aus einem Vorlagenprojekt**
+
+Ein Workflow muss nicht immer von Grund auf neu erstellt werden. Projekte, die auf einem Vorlagenprojekt basieren, enthalten die Genehmigungs-Workflows und Topic-Vorlagen des Vorlagenprojekts. Klicken Sie [hier](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen), um mehr über die Erstellung eines Projekts auf Grundlage eines Vorlagenprojekts zu erfahren.
+
+## 2. **Titel**
 
 Geben Sie den Namen des Workflows ein. Dies ist der einzige Teil des Workflows, der nach dem Einreichen bearbeitet werden kann.
 
-### 1.1 **Anforderung**
+### 2.1 **Anforderung**
 
 Ein Titel muss angegeben werden, um einen Workflow einreichen zu können.
 
-### 1.2 **Freigabeinhalte**
+### 2.2 **Freigabeinhalte**
 
 So könnte der Inhalt einer neuen Freigabe aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/02-approval-contents.png)
 
-## 2. **Zeiteinstellungen**
+## 3. **Zeiteinstellungen**
 
 Teammitglieder haben eine begrenzte Anzahl von Arbeitstagen, um Dokumente in Prüfschritten zu überprüfen, in denen ihr Team als Prüfteam eingestellt wurde. So könnten die Zeiteinstellungen eines neuen Freigabe-Workflows aussehen:
 
@@ -8853,11 +8894,11 @@ Die in den Zeiteinstellungen konfigurierte Zeit ist die Zeit, in der jeder diese
 
 **Beispiel für die Berücksichtigung von Zeiteinstellungen:** Einreichungen können auf der Grundlage dieser Zeiten datiert werden. Eine Einreichung um 2 Uhr morgens gehört zum Vortag, wenn die Zeiteinstellung auf 6 Uhr eingestellt ist.
 
-### 2.1 **Startzeit**
+### 3.1 **Startzeit**
 
 Wählen Sie einen Wert von 01 bis 24 basierend auf dem 24-Stunden-Zeitsystem, auch bekannt als Militärzeit.
 
-### 2.2 **Ausgewählte Zeitzone**
+### 3.2 **Ausgewählte Zeitzone**
 
 Die Standard-Zeitzone ist die in Ihrem Betriebssystem konfigurierte Zeitzone. So könnte ein ausgewähltes Zeitzonen-Listenelement aussehen.
 
@@ -8871,13 +8912,13 @@ Der erste Teil des ausgewählten Zeitzonen-Listenelements kann anzeigen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/05-selected-timezone.png)
 
-### 2.3 **GMT-Offset**
+### 3.3 **GMT-Offset**
 
 Der zweite Teil des ausgewählten Zeitzonen-Listenelements zeigt den aktuellen GMT-Offset für das ausgewählte Zeitzonen-Listenelement.
 
 Die aktuelle Zeitzone für das Zeitzonen-Listenelement wird angezeigt. Wenn sich der GMT-Offset für einen geografischen Ort beispielsweise in Sommer- oder Winterzeit ändert, ändert sich auch der für diese geografischen Orte angezeigte GMT-Offset.
 
-### 2.4 **Auswahl eines Elements in der Zeitzone-Dropdown**
+### 3.4 **Auswahl eines Elements in der Zeitzone-Dropdown**
 
 Klicken Sie auf das ausgewählte Zeitzonen-Listenelement, um die Zeitzone-Dropdown zu öffnen. So könnte die Zeitzone-Dropdown aussehen:
 
@@ -8939,7 +8980,7 @@ Oder nach der Zeitzonen-Abkürzung:
 
 Da einige Zeitzonen einen GMT-Offset als Typ haben, ist es oft besser, nach dem vollständigen Zeitzonen-Namen statt nach der Zeitzonen-Abkürzung zu suchen. Nur Zeitzonen, die derzeit aktiv sind, werden angezeigt. Für Zeitzonen, die sich für geografische Orte ändern, kann nur die Zeitzone gefunden werden, die derzeit für diesen geografischen Ort aktiv ist.
 
-## 3. **Einreicher**
+## 4. **Einreicher**
 
 Wählen Sie aus, welche Teams Mitglieder im abschließenden Freigabeteam in der Liste der Teams sehen können, aus denen sie auswählen können, wenn sie ein Einreicher-Team für eine Freigabe mit diesem Workflow auswählen. So könnte der Einreicher-Teil eines neuen Freigabe-Workflows aussehen:
 
@@ -8953,23 +8994,23 @@ Wählen Sie aus, welche Teams Mitglieder im abschließenden Freigabeteam in der 
 
 > **Hinweis:** Es ist nur möglich, Teams und nicht einzelne Mitglieder auszuwählen
 
-### 3.1 **Anforderung**
+### 4.1 **Anforderung**
 
 Mindestens ein Einreicher muss ausgewählt werden, um einen Workflow einreichen zu können.
 
-## 4. **Prüfschritte**
+## 5. **Prüfschritte**
 
 Erstellen Sie einen mehrstufigen Prüfprozess. So könnte der Prüfschritt-Teil eines neuen Freigabe-Workflows aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
-### 4.1 **Schrittanzahl**
+### 5.1 **Schrittanzahl**
 
 **Keine Schritte** Es ist zwar möglich, einen Workflow ohne Schritte zu erstellen, indem man alle Schritte löscht, aber es wird nicht möglich sein, eine Freigabe mit diesem Workflow zu erstellen, da es mindestens einen Schritt geben muss, um eine Freigabe einreichen zu können.
 
 **Maximale Anzahl von Schritten** Die maximale Schrittanzahl, die ein Workflow haben kann, ist 10.
 
-### 4.2 **Teams**
+### 5.2 **Teams**
 
 Wählen Sie Prüfteams aus, die an dem Prüfschritt teilnehmen können. Die maximale Anzahl von Teams, die ein Workflow haben kann, ist 20. Jedes Team muss seine Prüfung einreichen, bevor der Workflow zum nächsten Schritt übergehen kann. Wenn die automatische Freigabe aktiviert ist, wird der Workflow nach der konfigurierten Anzahl von Arbeitstagen automatisch zum nächsten Schritt übergehen.
 
@@ -8979,7 +9020,7 @@ Wählen Sie Prüfteams aus, die an dem Prüfschritt teilnehmen können. Die maxi
 
 **Auswahl eines Teams mit einem Mitglied** Da es nicht möglich ist, einzelne Mitglieder hinzuzufügen, kann ein Team mit nur einem Mitglied ausgewählt werden, wenn nur ein Mitglied auf diese Weise Dokumente genehmigen wird. Nach der Erstellung des Workflows kann dieser nicht mehr bearbeitet werden. Daher ermöglicht ein Team selbst mit einem Mitglied die Flexibilität, Personen in das Team hinein- und herauszubewegen.
 
-### 4.3 **Arbeitstage für die Prüfung**
+### 5.3 **Arbeitstage für die Prüfung**
 
 Arbeitstage sind definiert als Montag bis Freitag. Öffentliche Feiertage sind in den Arbeitstagen für die Prüfung enthalten. _Mindestens erforderliche Arbeitstage:_ 1 Arbeitstag
 
@@ -8992,13 +9033,13 @@ Wenn das Startdatum für den Freigabeschritt auf einen Freitag fällt, wird das 
 - Die Startzeit, die im Zeiteinstellungsbereich des Workflows konfiguriert ist
 - Am Dienstag der nächsten Woche, unabhängig davon, ob dieser Dienstag ein öffentlicher Feiertag ist oder nicht.
 
-### 4.4 **Automatische Freigabe**
+### 5.4 **Automatische Freigabe**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
 
 Aktivieren Sie die automatische Freigabe, um Engpässe zu vermeiden – Dokumente erhalten automatisch freigegebene Prüfungen im Namen von Teams, die bis zur Fälligkeitsdatum nicht geantwortet haben.
 
-### 4.5 Prüfung durch alle Teammitglieder erforderlich
+### 5.5 Prüfung durch alle Teammitglieder erforderlich
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
 
@@ -9008,21 +9049,21 @@ Aktivieren Sie "Prüfung durch alle Teammitglieder erforderlich", um zu verlange
 
 - **Wenn dies aktiviert ist,** ist der Schritt des Teams nicht abgeschlossen, bis jedes einzelne Mitglied seine eigene Angabe gemacht hat. Weitere Informationen darüber, wie dies angezeigt wird, finden Sie in den Artikeln zur Registerkarte Übersicht, zum Menü Dateiüberprüfung rechts und zum Menü Dokumente rechts.<br>
 
-### 4.6 **Prüfschritt löschen**
+### 5.6 **Prüfschritt löschen**
 
 Klicken Sie auf das Mülleimer-Symbol oben rechts eines Prüfschritts, um ihn zu löschen.
 
-### 4.7 **Anforderung**
+### 5.7 **Anforderung**
 
 Falls es Prüfschritte gibt, muss jeder Schritt mindestens einen Einreicher haben, um den Workflow einreichen zu können.
 
-## 5. **Finale Freigabe**
+## 6. **Finale Freigabe**
 
 Die finale Freigabe wird manuell von einem einzelnen Team erteilt. So könnte der Teil der finalen Freigabe eines neuen Freigabe-Workflows aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
 
-### 5.1 **Team**
+### 6.1 **Team**
 
 Das finale Freigabeteam, das die finale Freigabe basierend auf den Prüfungen jedes der Prüfteams erteilt.
 
@@ -9032,11 +9073,11 @@ Das finale Freigabeteam, das die finale Freigabe basierend auf den Prüfungen je
 
 **Auswahl eines Teams mit einem Mitglied** Da es nicht möglich ist, einzelne Mitglieder hinzuzufügen, kann ein Team mit nur einem Mitglied ausgewählt werden, wenn nur ein Mitglied auf diese Weise Dokumente genehmigen wird. Nach der Erstellung des Workflows kann dieser nicht mehr bearbeitet werden. Daher ermöglicht ein Team selbst mit einem Mitglied die Flexibilität, Personen in das Team hinein- und herauszubewegen.
 
-### 5.2 **Arbeitstage für die Freigabe**
+### 6.2 **Arbeitstage für die Freigabe**
 
 Die Anzahl der Arbeitstage, die das finale Freigabeteam benötigt, um die finale Freigabe zu konfigurieren. _Mindestens erforderliche Arbeitstage:_ 0 Arbeitstage
 
-### 5.3 Themenvorlage
+### 6.3 Themenvorlage
 
 Im Feld Themenvorlagen können Sie die Vorlage auswählen, die das System verwendet und die ein Thema erstellt, wenn der Freigabefluss beendet wird. Wenn Sie nichts auswählen, werden keine Themen erstellt!
 
@@ -9048,25 +9089,25 @@ Wenn keine Vorlage vorhanden ist, können Sie direkt in der Einstellungsansicht 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
 
-### 5.4 **Prüfzustand**
+### 6.4 **Prüfzustand**
 
 Freigegeben oder abgelehnt
 
-### 5.5 **Finaler Status**
+### 6.5 **Finaler Status**
 
 Wählen Sie den finalen Status für freigegebene und abgelehnte Dokumente. Freigegebene Dokumente werden veröffentlicht, abgelehnte Dokumente werden nicht veröffentlicht.
 
-### 5.6 **Anforderung**
+### 6.6 **Anforderung**
 
 Ein abschließendes Freigabeteam muss ausgewählt worden sein, um den Workflow einreichen zu können. Ein finaler Status für freigegebene Workflows muss ausgewählt werden, um den Workflow einreichen zu können. Ein finaler Status für abgelehnte Workflows muss ausgewählt werden, um den Workflow einreichen zu können.
 
-## 6. **Einreichen**
+## 7. **Einreichen**
 
 Klicken Sie auf "Einreichen", um den Workflow einzureichen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
 
-### 6.1 **Warnung für erforderliche Felder**
+### 7.1 **Warnung für erforderliche Felder**
 
 Wenn dem Workflow ein erforderliches Feld fehlt, wird eine Warnung oben auf der Seite aufgefordert, die fehlenden Felder auszufüllen. So könnte die Warnung aussehen:
 
@@ -9082,7 +9123,7 @@ Folgende Anforderungen müssen erfüllt sein, um einen neuen Workflow einzureich
 - Ein finaler Status für freigegebene Workflows muss ausgewählt werden
 - Ein finaler Status für abgelehnte Workflows muss ausgewählt werden
 
-### 6.2 **Nach dem Einreichen gesperrt**
+### 7.2 **Nach dem Einreichen gesperrt**
 
 Nach dem Einreichen ist es nur möglich, den Titel des Workflows zu ändern.
 
@@ -10375,7 +10416,7 @@ Die Genehmigungsseite ist standardmäßig ausgeblendet. Aktivieren Sie gemeinsam
 
 ### 1.1 **Aktivierung aus Vorlagenprojekt**
 
-Projekte, die auf einem Vorlagenprojekt basieren, bei dem gemeinsame Status aktiviert waren, haben gemeinsame Status aktiviert und die Genehmigungsseite wird bei der Erstellung angezeigt. Workflows werden nicht von Projekt zu Projekt übernommen, daher muss in einem neuen Projekt ein Workflow erstellt werden, damit Mitglieder mit dem Einreichen von Genehmigungsanfragen beginnen können.
+Projekte, die auf der Grundlage eines Template-Projekts erstellt wurden, bei dem gemeinsame Status aktiviert waren, haben gemeinsame Status aktiviert und die Approvals-Seite wird bei der Erstellung angezeigt. Die Approval-Workflows und Topic-Templates des Template-Projekts werden auf das neue Projekt übertragen, sodass sie nicht erneut erstellt werden müssen, bevor Mitglieder mit der Einreichung von Approval-Anfragen beginnen können.
 
 ## 2. **Neue Elementaktionen**
 
@@ -12002,7 +12043,15 @@ Klicken Sie [hier](https://support.catenda.com/de/articles/6707924-mengenaufmass
 
 ## 5. **Objektseite**
 
-Suchen Sie mit logischen Operatoren nach beliebigen Inhalten in Ihrer IFC. Die Objektseite ist eine On-Demand-Funktion, die für laufende Projekte angefordert werden kann. Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
+Die [Objekt-Seite](https://support.catenda.com/de/articles/12352750-objektseite) führt eine ähnliche Aufgabe wie das QTO-Menü durch: Sie zeigt Zeilen mit den Informationen der Objekte in Ihren Modellen an. Die beiden funktionieren in entgegengesetzten Richtungen und unterscheiden sich darin, wie viel sie exportieren können.
+
+### 5.1 **Objekte finden**
+
+Das QTO-Menü ist dynamisch und wird mit den Objekten aktualisiert, die im 3D-Viewer oder im Baum-Panel ausgewählt sind. Die Objekt-Seite funktioniert umgekehrt. Suchen Sie nach beliebigen Inhalten aus Ihrer IFC mit Logik, um Objekte mit Filtern zu finden, und laden Sie dann die Objekte, die im 3D-Viewer gefunden wurden. Verwenden Sie den ausgewählten Filter auf der Objekt-Seite, um ein ähnliches Ergebnis wie das QTO-Menü zu erhalten.
+
+### 5.2 **Exportieren**
+
+Sowohl das QTO-Menü als auch die Objekt-Seite können nach Excel exportiert werden. Auf der Objekt-Seite werden nur die aktivierten Spalten exportiert, sodass die Spalten in der exportierten Datei durch Aktivieren und Deaktivieren von Spalten in der Produkttabelle begrenzt werden können. Die Objekt-Seite kann auch eine viel größere Anzahl von Zellen als das QTO-Menü verarbeiten, was wichtig ist, da Objekte oft viele Zellen generieren (siehe [Objektanzahl](#object-count)).
 
 # Menü für Genehmigungsanfrage-Dokumente auf der rechten Seite
 
@@ -14119,7 +14168,7 @@ Nachdem die Sammlung finalisiert wurde, können Sie:
 
 **13. Ablaufdatum für freigegebene Links eingeben**
 
-**14. Sammlung extern freigeben** Dokumentensammlungen, die extern freigegeben werden, können von jedem mit dem Link heruntergeladen werden. Personen mit dem Link benötigen kein Catenda-Konto, um die Dateien aus dieser Sammlung herunterzuladen.
+**14. Sammlung extern freigeben** Dokumentsammlungen, die extern freigegeben werden, können von jedem mit dem Link heruntergeladen werden. Personen mit dem Link benötigen kein Catenda-Konto, um die Dateien aus dieser Sammlung herunterzuladen. Die Dateien, die sie über den öffentlichen Link herunterladen, behalten immer ihren [Revisionsnamen](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654), unabhängig davon, welche [Option zum Download von Dokumenttiteln](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) eingestellt ist. Der Projektinhaber konfiguriert diese Option für seine gesamte Organisation, sodass Projektmitglieder diese selbst nicht anfordern oder ändern können.
 
 > **Hinweis:** Es ist möglich anzufordern, dass die Funktion zur öffentlichen Freigabe deaktiviert wird. Wenn Sie möchten, dass diese Option aktiviert wird, wenden Sie sich bitte an den Support.
 
@@ -14341,7 +14390,7 @@ Wenn mehrere PDF-Revisionen in einem Dokument vorhanden sind, wird die Aktion [P
 
 ### 3.2 **Herunterladen**
 
-Klicken Sie auf das Download-Symbol oben rechts im Revisionsmenü oder auf "Herunterladen" im Hamburger-Menü neben dem Download-Symbol, um die aktuelle Revision herunterzuladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
+Klicken Sie auf das Download-Symbol oben rechts im Revisions-Menü oder auf "Herunterladen" im Hamburger-Menü neben dem Download-Symbol, um die aktuelle Revision herunterzuladen. Der Name der heruntergeladenen Datei kann durch die [Option zum Herunterladen von Dokumenten](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht anfordern oder ändern. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
 
 ### 3.3 **Revision zurückziehen**
 
@@ -14375,7 +14424,7 @@ Es wird nicht empfohlen, eine infizierte Dokumentrevision herunterzuladen. Sie k
 
 ### 4.3 **Revisionsname**
 
-Der Revisionsname ist der Name, den die Datei im System beim ersten Hochladen hatte. Dieser Name kann nicht geändert werden.
+Der [Revisionsname](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654) der Revision.
 
 ### 4.4 **Veröffentlicht von**
 
@@ -14423,7 +14472,7 @@ Wenn der neue Status-Workflow mit gemeinsam genutzten Revisionen statt Draft-Rev
 
 ### 6.1 **Herunterladen**
 
-Verwenden Sie die Download-Aktion, um die aktuelle Revision herunterzuladen. Unabhängig vom Revisionstyp können Revisionen auch über das unten aufgeführte Revisionsmenü heruntergeladen werden. In der [Arbeitsbereich-Registerkarte](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte gemeinsam genutzte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. In der [Veröffentlicht-Registerkarte](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte veröffentlichte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument und das Kontrollkästchen "Gemeinsam genutzte Revisionen anzeigen" ist aktiviert.
+Verwenden Sie die Download-Aktion, um die aktuelle Revision herunterzuladen. Der Name der heruntergeladenen Datei kann durch die [Option zum Herunterladen von Dokumenten](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht anfordern oder ändern. Unabhängig vom Revisionstyp können Revisionen auch über das Revisions-Menü unten heruntergeladen werden. In der [Registerkarte "Arbeitsbereich"](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte gemeinsame Revision im Dokument über die vorhandene Element-Aktion heruntergeladen. In der [Registerkarte "Veröffentlicht"](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte veröffentlichte Revision im Dokument über die vorhandene Element-Aktion heruntergeladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument und das Kontrollkästchen "Gemeinsame Revisionen anzeigen" aktiviert.
 
 ### 6.2 **Veröffentlichen**
 
@@ -15959,11 +16008,11 @@ Abgeschlossene Sammlungen sind für die Bearbeitung gesperrt. Abgeschlossene Sam
 
 Tabellenaktionen befinden sich oben rechts der Sammlungstabelle
 
-**Sammlung herunterladen** Klicken Sie auf "Sammlung herunterladen", um eine ZIP-Datei mit allen Dokumenten in der Sammlung herunterzuladen.
+**Kollektion herunterladen** Klicken Sie auf „Kollektion herunterladen
 
 **Dokumente hinzufügen** Klicken Sie auf [Dokumente hinzufügen](https://support.catenda.com/de/articles/6344318-sammlungsseite#h_b94d108342), um Dokumente zu Ihrer Sammlung hinzuzufügen. Wenn Ihr Dokument als mit einem Virus infiziert befunden wurde, können Sie es nicht zur Sammlung hinzufügen.
 
-> **Hinweis:** Der Name des Dokuments in der Sammlung ist der Name der Überarbeitung, die hinzugefügt wurde. Dies ähnelt dem ursprünglichen Dateinamen. Dieser Name kann sich vom Namen des Dokuments unterscheiden, da ein Dokument mehrere Überarbeitungen mit unterschiedlichen Namen enthalten kann.
+> **Hinweis:** Der Name des Dokuments in der Kollektion wird der [Name der Revision](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654) der hinzugefügten Revision sein. Dieser Name kann sich vom Namen des Dokuments unterscheiden, da ein Dokument mehrere Revisionen mit unterschiedlichen Namen enthalten kann.
 
 ### 4.2 **Dokumentaktionen**
 
@@ -16251,7 +16300,7 @@ So kann das Menü "Freigaben" aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-Das Menü "Freigaben" ist nur in Projekten verfügbar, in denen der neue Validierungs-Workflow aktiviert werden soll. Der neue Validierungs-Workflow ist eine bedarfsorientierte Funktion, die für neue Projekte aktiviert werden kann. Neue Projekte, die auf einem Vorlagenprojekt basieren, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
+Das Genehmigungsmenü ist nur in Projekten verfügbar, in denen der neue Validierungs-Workflow aktiv ist. Der neue Validierungs-Workflow ist in allen neuen Projekten aktiv. Projekte, die eine ältere Version des Validierungs-Workflows verwenden, können von der Unterstützung eine Migration zum neuen Validierungs-Workflow anfordern. Projekte, die auf Basis eines Template-Projekts erstellt wurden, enthalten die Genehmigungs-Workflows und Themen-Vorlagen des jeweiligen Template-Projekts.
 
 ### 3.1 **Workflows konfigurieren**
 
@@ -16464,7 +16513,7 @@ Dies ist ein Beispiel für die Seite einer Freigabeanfrage-Entwurf:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Freigabeanfrage-Entwürfe sind nur für Projekte verfügbar, die gemeinsame Revisionen nach dem 2. Oktober 2025 aktiviert haben. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist.
+Genehmigungsanfragen im Entwurf sind nur für Projekte verfügbar, die gemeinsame Revisionen nach dem 2. Oktober 2025 aktiviert haben. Projekte, die auf einem Template-Projekt basieren, enthalten die Genehmigungs-Workflows und Themen-Vorlagen dieses Template-Projekts.
 
 ## 1. **Neue Elementaktionen**
 
@@ -17142,7 +17191,7 @@ _Erforderliche Zugriffsberechtigung:_ Einer der folgenden, unabhängig vom Admin
 - Mitglied eines Reviewer-Teams, das zum Überprüfen eines der Schritte für den ausgewählten Workflow in der Freigabeanfrage konfiguriert ist.
 - Mitglied des Publisher-Teams, das zum Einreichen der endgültigen Freigabe für den ausgewählten Workflow in der Freigabeanfrage konfiguriert ist.
 
-Freigabeanfragen können auf der Seite „Freigaben“ eingereicht werden, und zuvor erstellte Entwürfe von Freigabeanfragen können über ihre Entwurfsseite eingereicht werden. In Projekten, in denen Shared Revisions vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die alte Seite für Freigabeanfragen angezeigt. Ein Projekt kann nur auf Basis eines Vorlagenprojekts erstellt werden, in dem der alte Validierungs-Workflow aktiviert ist.
+eingereicht werden, oder zuvor erstellte Entwürfe von Freigabeanfragen können über ihre Entwurfsseite eingereicht werden. In Projekten, in denen Shared Revisions vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die alte Seite für Freigabeanfragen angezeigt. Auf Vorlagenprojekten basierende Projekte enthalten die Freigabe-Workflows und Topic-Vorlagen dieses Vorlagenprojekts.
 
 ## 1. **Neue Elementaktionen**
 
@@ -17680,13 +17729,27 @@ Wenn Sie mit der Maus über die Namensspalte fahren, wird ein Gitter von Punkten
 
 Wenn Sie mit der Maus darüber fahren, ändert sich der Cursor in eine Hand. Wenn Sie dieses Gittersymbol ziehen, können Sie Ihre ausgewählten Dateien/Ordner in einen anderen Ordner verschieben.
 
-## 5. **Revision** - Standard 1 Bereich
+## 5. **Revisionen**
 
-Die Anzahl der öffentlichen und/oder Entwurfsrevisionen im Dokument. Jede Revision kann ihren eigenen Revisionsnamen, Erstellungsdatum, Dateigröße und Eigentümer haben.
+Jede Revision kann einen eigenen Revisionsnamen, ein Erstellungsdatum, eine Dateigröße und einen Besitzer haben.
 
-### 5.1 **Name der Revision**
+### 5.1 **Revision** - Standard 1 Bereich
 
-Der Name der neuesten öffentlichen Dokumentrevision. Dies ist der Name der Datei, die ursprünglich hochgeladen wurde und nicht geändert werden kann. Da es mehrere Revisionen in einem Dokument geben kann, kann sich dieser Name vom Dokumentnamen unterscheiden, der der Sammelname für alle Revisionen im Dokument ist.
+Die Anzahl der Revisionen im Dokument. Revisionen werden mit einem grünen Häkchen und einer ganzen Zahl 1, 2, 3 usw. angezeigt...
+
+**Gemeinsame Revisionen** Wenn gemeinsame Revisionen in der Dokumentstatussektion der Dokumenteinstellungen aktiviert wurden, werden neue Uploads auf der Registerkarte "Arbeitsbereich" mit einer Haupt- und einer Nebennummer wie 0.1, 0.2, 1.1 usw. angezeigt. Wenn die neueste Revision eine veröffentlichte Revision ist, wird sie als ganze Zahl angezeigt. Auf der Registerkarte "Veröffentlicht" wird die neueste veröffentlichte Revision immer mit ihrer ganzen Zahl angezeigt, unabhängig davon, ob eine neuere gemeinsame Revision vorhanden ist oder nicht.
+
+**Entwurfsrevisionen - Legacy** In der Legacy-Ansicht wird die Anzahl der Entwurfsrevisionen nach der letzten veröffentlichten Revision aufgelistet.
+
+### 5.2 **Name der Revision**
+
+Der Name der neuesten öffentlichen Revision im Dokument.
+
+Der Revisionsname ist der Name, den die Datei beim Hochladen erhielt. Dies ist normalerweise der ursprüngliche Dateiname, kann aber vor dem Hochladen in den [Upload-Dialog](https://support.catenda.com/de/articles/4670278-ein-dokument-hochladen#h_00fa77db3e) geändert werden. Nach dem Hochladen kann der Revisionsname nicht geändert werden.
+
+Der Dokumentname wird von allen Revisionen im Dokument gemeinsam genutzt, daher kann er sich vom Revisionsnamen unterscheiden.
+
+Beim Herunterladen einer Datei entscheidet die [Option für den Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f), ob die Datei den Revisionsnamen oder einen Namen basierend auf dem Dokumentnamen erhält.
 
 > **Hinweis:** Der Revisionsname kann sich vom Namen des Dokuments oder des Modells unterscheiden.
 
@@ -19728,7 +19791,7 @@ Die Wertekonvertierungsschaltfläche erscheint im Popup-Menü, wenn Sie mit der 
 
 # Workflows-Seite - Dokumenteinstellungen
 
-Die Workflows-Seite finden Sie, indem Sie im Genehmigungsmenü der [Dokumenteinstellungsseite](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) auf die Schaltfläche "Workflows konfigurieren" klicken, in Projekten, in denen der neue Validierungs-Workflow aktiviert werden soll und freigegebene Status im Statusworkflow-Menü von [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) aktiviert sind. Der neue Validierungs-Workflow ist eine bedarfsgerechte Funktion, die beim Start eines neuen Projekts aktiviert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. Auf der Workflows-Seite können Workflows für verschiedene Genehmigungskonfigurationen konfiguriert werden. _Erforderlicher Zugriff:_ Administrator
+Die Workflows-Seite finden Sie, indem Sie auf die Schaltfläche "Workflows konfigurieren" im Genehmigungsmenü der [Dokumenteinstellungsseite](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) in Projekten klicken, in denen der neue Validierungs-Workflow aktiv ist und gemeinsame Status im Statusworkflow-Menü der [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) aktiviert sind. Der neue Validierungs-Workflow ist in allen neuen Projekten aktiv. Projekte, die eine ältere Version des Validierungs-Workflows verwenden, können beim Support eine Migration zum neuen Validierungs-Workflow anfordern. Auf der Workflows-Seite können Workflows für verschiedene Genehmigungskonfigurationen konfiguriert werden. _Erforderlicher Zugriff:_ Administrator
 
 Die Workflows-Seite kann etwa so aussehen:
 
@@ -19738,7 +19801,7 @@ Die folgenden Themen werden in diesem Artikel beschrieben:
 
 _[Neue Elementaktionen](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_d0f4a44fb7) - [Suchen oder filtern](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_bbf4dcad58) - [Rechtes Menü](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_fc89aaa1fe) - [Tabelle](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_54e8dfcac2) - [Unterseiten](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_5751ccd2b7)_
 
-Obwohl die Workflows-Seite eine Unterseite zur Genehmigungsseite ist, wie durch die hervorgehobene Genehmigungsseite und die Breadcrumbs oben deutlich wird, ist die Seite nur über das Genehmigungsmenü in den Dokumenteinstellungen zugänglich.
+Obwohl die Workflows-Seite eine Unterseite der Genehmigungsseite ist, wie durch die hervorgehobene Genehmigungsseite und die Breadcrumbs oben deutlich wird, ist die Seite nur über das Genehmigungsmenü in den Dokumenteinstellungen zugänglich.
 
 ## 1. **Neue Elementaktionen**
 
@@ -19805,6 +19868,10 @@ Erstellt von - _Standard_ Das Mitglied, das den Workflow erstellt hat.
 Erstellt am - _Standard_ Das Datum und die Uhrzeit, zu der der Workflow erstellt wurde
 
 Status - _Standard_ Der Status des Workflows
+
+## 4. **Workflows aus einem Template-Projekt**
+
+Projekte, die auf einem Template-Projekt basieren, enthalten die Genehmigungs-Workflows und Themen-Templates dieses Template-Projekts. Diese Workflows werden in der Workflows-Tabelle des neuen Projekts aufgelistet. Klicken Sie [hier](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen), um mehr über das Erstellen eines Projekts auf Grundlage eines Template-Projekts zu erfahren.
 
 # Zip-Datei / Dateistruktur hochladen
 

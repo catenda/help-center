@@ -76,7 +76,7 @@ Wenn mehrere PDF-Revisionen in einem Dokument vorhanden sind, wird die Aktion [P
 
 ### 3.2 **Herunterladen**
 
-Klicken Sie auf das Download-Symbol oben rechts im Revisionsmenü oder auf "Herunterladen" im Hamburger-Menü neben dem Download-Symbol, um die aktuelle Revision herunterzuladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
+Klicken Sie auf das Download-Symbol oben rechts im Revisions-Menü oder auf "Herunterladen" im Hamburger-Menü neben dem Download-Symbol, um die aktuelle Revision herunterzuladen. Der Name der heruntergeladenen Datei kann durch die [Option zum Herunterladen von Dokumenten](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht anfordern oder ändern. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
 
 ### 3.3 **Revision zurückziehen**
 
@@ -110,7 +110,7 @@ Es wird nicht empfohlen, eine infizierte Dokumentrevision herunterzuladen. Sie k
 
 ### 4.3 **Revisionsname**
 
-Der Revisionsname ist der Name, den die Datei im System beim ersten Hochladen hatte. Dieser Name kann nicht geändert werden.
+Der [Revisionsname](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654) der Revision.
 
 ### 4.4 **Veröffentlicht von**
 
@@ -158,7 +158,7 @@ Wenn der neue Status-Workflow mit gemeinsam genutzten Revisionen statt Draft-Rev
 
 ### 6.1 **Herunterladen**
 
-Verwenden Sie die Download-Aktion, um die aktuelle Revision herunterzuladen. Unabhängig vom Revisionstyp können Revisionen auch über das unten aufgeführte Revisionsmenü heruntergeladen werden. In der [Arbeitsbereich-Registerkarte](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte gemeinsam genutzte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. In der [Veröffentlicht-Registerkarte](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte veröffentlichte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument und das Kontrollkästchen "Gemeinsam genutzte Revisionen anzeigen" ist aktiviert.
+Verwenden Sie die Download-Aktion, um die aktuelle Revision herunterzuladen. Der Name der heruntergeladenen Datei kann durch die [Option zum Herunterladen von Dokumenten](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht anfordern oder ändern. Unabhängig vom Revisionstyp können Revisionen auch über das Revisions-Menü unten heruntergeladen werden. In der [Registerkarte "Arbeitsbereich"](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte gemeinsame Revision im Dokument über die vorhandene Element-Aktion heruntergeladen. In der [Registerkarte "Veröffentlicht"](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte veröffentlichte Revision im Dokument über die vorhandene Element-Aktion heruntergeladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument und das Kontrollkästchen "Gemeinsame Revisionen anzeigen" aktiviert.
 
 ### 6.2 **Veröffentlichen**
 

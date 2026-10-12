@@ -4,7 +4,7 @@ Si votre plan actuel et votre accès le permettent, vous pouvez créer un nouvea
 
 Sinon, pour créer un nouveau projet, contactez l'assistance Catenda à [support@catenda.com](mailto:support@catenda.com) ou via le bouton de chat. Le bouton de chat noir se trouve en haut à droite dans Catenda Hub ou en bas à droite sur nos pages d'aide/accueil pour mettre à niveau votre plan. Nous vous guiderons dans sa création.
 
-La page nouveau projet peut ressembler à ceci :
+Voici ce que la page d'un nouveau projet peut ressembler :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
@@ -44,66 +44,79 @@ Le paramètre de téléchargement de document qu'un projet créé reçoit est ba
 
 Lorsque l'option de téléchargement de document pour les nouveaux projets dans une organisation est modifiée, ce paramètre ne s'applique qu'aux nouveaux projets créés dans l'organisation et non aux projets existants. Il est donc possible qu'il y ait des projets dans la même organisation avec différents paramètres de téléchargement de document.
 
+### 3.3 **Projets créés à partir d'un projet modèle**
+
+Le paramètre de téléchargement de documents d'un nouveau projet est basé sur l'organisation dans laquelle il est créé, et non sur le projet modèle. Il n'est jamais copié à partir du projet modèle, donc ce n'est pas l'une des options lorsqu'un projet modèle est utilisé.
+
 ## 4. **Fonctionnalités à la demande**
 
-Lorsqu'un nouveau projet est créé, les fonctionnalités optionnelles ne sont pas activées par défaut. Il est possible de demander que les fonctionnalités suivantes soient activées après la création d'un projet :
+Lorsqu'un nouveau projet est créé, les fonctionnalités optionnelles ne sont pas activées par défaut. Il est possible de demander l'activation de la fonctionnalité suivante après la création d'un projet :
 
-[Page Objets](https://support.catenda.com/fr/articles/12352750-page-objets) [Page Rapports](https://support.catenda.com/fr/articles/12303098-page-rapports)
+[Page Rapports](https://support.catenda.com/fr/articles/12303098-page-rapports)
 
 ## 5. **Sélectionner un projet à utiliser comme modèle**
 
-Vous pouvez choisir d'hériter de certains paramètres d'un autre projet lors de la création d'un nouveau projet. _Accès requis :_ Membre du projet
+Cochez la case Utiliser un autre projet comme modèle pour hériter les paramètres d'un autre projet lors de la création d'un nouveau projet. _Accès requis :_ Membre du projet
 
-### 5.1 **Modèles -** Pas de révisions
+Voici ce que cela peut ressembler lorsqu'un projet modèle est utilisé :
 
-Modèles vides prêts à recevoir de nouvelles révisions
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/02-select-a-project-to-use-as-template.png)
+
+Les éléments avec une case à cocher vert clair sont toujours copiés et ne peuvent pas être décochés. Les étiquettes, les jalons, les équipes et les listes de sujets sont toujours copiés à partir du projet modèle. Les éléments avec une case à cocher vert foncé sont optionnels et peuvent être décochés.
+
+Certains éléments deviennent obligatoires lorsqu'un autre élément est coché, comme le note ci-dessus l'indique : « Les éléments requis par votre sélection sont inclus automatiquement et ne peuvent pas être décochés. » Actuellement, la seule dépendance concerne les Flux de travail d'approbation. Lorsque Flux de travail d'approbation est coché, Configuration du statut du document et Modèles de sujets sont inclus automatiquement et sont affichés en vert clair. Lorsque Flux de travail d'approbation est décoché, Configuration du statut du document et Modèles de sujets deviennent optionnels et sont affichés en vert foncé.
+
+### 5.1 **Modèles (aucune révision)**
+
+Les modèles du projet modèle sont copiés sans leurs révisions, ils sont donc vides et prêts à recevoir de nouvelles révisions. _Sélection :_ Optionnel
 
 ### 5.2 **Étiquettes**
 
-Étiquettes qui peuvent être connectées aux sujets, modèles et documents. Il est utile d'avoir les mêmes étiquettes dans plusieurs projets pour l'analyse avec des outils comme PowerBI
+Les étiquettes du projet modèle sont copiées, prêtes à être connectées aux sujets, aux modèles et aux Documents. Il est utile d'avoir les mêmes étiquettes dans plusieurs projets pour l'analyse avec des outils comme Power BI. _Sélection :_ Obligatoire
 
-### 5.3 **Jalons -** Pas de dates
+### 5.3 **Jalons (aucune date)**
 
-Utile lors de la création d'un nouveau projet lors d'un changement de phase qui a les mêmes jalons que le précédent.
+Les jalons du projet modèle sont copiés sans leurs dates. Ceci est utile lors de la création d'un nouveau projet suite à un changement de phase qui a les mêmes jalons que le précédent. _Sélection :_ Obligatoire
 
-### 5.4 **Équipes -** Pas de membre
+### 5.4 **Équipes (aucun membre)**
 
-Équipes prêtes à accepter des membres. L'accès à la structure des documents est également distribué par les équipes.
+Les équipes du projet modèle sont copiées sans leurs membres, prêtes à accepter des membres. L'accès dans la structure du Documents est également distribué par le biais d'équipes. _Sélection :_ Obligatoire
 
-### 5.5 **Tableaux de sujets -** Y compris les statuts et les types, mais pas de sujets
+### 5.5 **Listes de sujets (les statuts et types sont inclus, mais pas les sujets eux-mêmes)**
 
-Tableaux qui sont configurés et prêts à être utilisés pour la communication. Les tableaux peuvent être archivés jusqu'à ce qu'ils soient prêts à être utilisés.
+Les listes de sujets du projet modèle sont copiées avec leurs statuts et types, mais sans sujets, ils sont donc configurés et prêts à être utilisés pour la communication. Les listes peuvent rester archivées jusqu'à ce qu'elles soient prêtes à être utilisées. _Sélection :_ Obligatoire
 
 ### 5.6 **Structure de dossiers**
 
-Copiez les noms et la structure des dossiers du projet modèle sans ses documents. _Accès requis :_ Accès complet au projet modèle
+Les noms et la structure des dossiers du projet modèle sont copiés sans leurs Documents. _Accès requis :_ Accès complet au projet modèle _Sélection :_ Optionnel
 
 ### 5.7 **Configuration du statut du document**
 
-Les statuts de document publics peuvent être utilisés pour suivre la progression d'un document. Les statuts de document brouillon peuvent être utilisés pour les approbations.
+Les statuts des Documents du projet modèle sont copiés. Les statuts publics des Documents peuvent être utilisés pour suivre la progression d'un Document. Les statuts de brouillon des Documents peuvent être utilisés pour les approbations. _Sélection :_ Obligatoire lorsque Flux de travail d'approbation est coché, optionnel autrement
 
-### 5.8 **Paramètre de téléchargement de document**
+### 5.8 **Contrôle d'accès des documents et des tableaux de sujets**
 
-Le paramètre de téléchargement de document que le projet créé a reçu est basé sur le paramètre de téléchargement de document pour les nouveaux projets dans l'organisation et non sur le paramètre de téléchargement de document du projet modèle.
-
-### 5.9 **Contrôle d'accès des documents et des tableaux de sujets**
-
-Cela copiera le contrôle d'accès pour les options suivantes (si sélectionnées)
-
-- Structure de dossiers
-- Tableaux de sujets
-
-_Accès requis :_ Accès complet au projet modèle
+Le contrôle d'accès de la structure du dossier et des listes de sujets est copié, pour ceux des deux qui sont sélectionnés.
 
 Les éléments suivants sont inclus :
 
-- Accès défini pour "Équipes". (Si les équipes sont sélectionnées)
-- Autres paramètres d'accès. ("Tous les utilisateurs", "Propriétaires", etc.)
+- Accès défini pour « Équipes »
+- Autres paramètres d'accès, tels que « Tous les utilisateurs » et « Propriétaires »
 
 Les éléments suivants ne sont pas inclus :
 
 - Accès défini pour "Utilisateurs"
 
-### 5.10 **Champs personnalisés et conventions de nommage**
+Lorsque cette option est décochée, le nouveau projet obtient l'accès par défaut à la place. C'est l'accès par défaut à la racine du Documents, qui se trouve dans les paramètres du Documents, et l'accès par défaut à la liste de sujets par défaut. _Accès requis :_ Administrateur ou propriétaire du projet modèle _Sélection :_ Optionnel
 
-Les champs personnalisés peuvent être affichés dans les problèmes et utilisés dans les conventions de nommage.
+### 5.9 **Champs personnalisés, conventions de nommage et code QR**
+
+La [configuration du dossier](https://support.catenda.com/fr/articles/12302595-configuration-des-dossiers-parametres-des-documents) du projet modèle est copiée : ses champs personnalisés, conventions de nommage et paramètres d'estampillage de code QR. Les champs personnalisés peuvent être affichés dans les problèmes et utilisés dans les conventions de nommage. _Sélection :_ Optionnel
+
+### 5.10 **Gabarits de sujet**
+
+Les modèles de sujets du projet modèle sont copiés, de sorte que les sujets peuvent être créés à partir des mêmes modèles dans le nouveau projet. _Sélection :_ Obligatoire lorsque Flux de travail d'approbation est coché, optionnel autrement
+
+### 5.11 **Circuits de validation**
+
+Les flux de travail d'approbation du projet modèle sont copiés, de sorte que les membres peuvent commencer à soumettre des demandes d'approbation sans qu'un flux de travail ne soit créé au préalable. Les équipes, les statuts des Documents et les modèles de sujets qu'un flux de travail utilise sont copiés avec lui, de sorte que chaque référence dans le flux de travail fonctionne toujours dans le nouveau projet. C'est pourquoi la vérification de Flux de travail d'approbation rend Configuration du statut du document et Modèles de sujets obligatoires. _Sélection :_ Optionnel

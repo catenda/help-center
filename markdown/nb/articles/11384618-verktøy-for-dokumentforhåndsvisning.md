@@ -23,7 +23,7 @@ Slik kan verktøylinjenmenyen se ut:
 
 ### 1.1 **Last ned**
 
-Klikk på Last ned for å laste ned dokumentet med eventuelle antegninger som er aktive i dokumentforhåndsvisningen.
+Klikk på Last ned for å laste ned dokumentet med eventuelle merknader som er aktive i dokumentforhåndsvisningen. Den nedlastede filen får alltid [revisjonsnavn](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654), uavhengig av hvordan [nedlastingsalternativer for dokumenter](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f) er konfigurert. Prosjekteieren konfigurerer dette alternativet for hele organisasjonen, så medlemmer kan ikke be om eller endre det selv.
 
 ### 1.2 **Hele skjermen**
 

@@ -6,7 +6,7 @@ Slik kan siden for utkast til gjennomgangsforespørsel se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Utkast til gjennomgangsforespørsler er bare tilgjengelige for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet.
+Utkast til gjennomganger er bare tilgjengelige for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmalene fra det malprosjektet.
 
 ## 1. **Nye varehandlinger**
 

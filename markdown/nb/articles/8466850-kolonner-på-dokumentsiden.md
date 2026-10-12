@@ -62,13 +62,27 @@ Hvis du holder musepekeren over navnekolonnen, vil du se at et rutenett av prikk
 
 Hvis du holder musepekeren over dette, vil du se musepekeren endre seg til en hånd. Hvis du drar dette rutenett-ikonet, vil du kunne flytte de valgte filene/mappene til en annen mappe.
 
-## 5. **Revisjon** - Standard 1 panel
+## 5. **Revisjoner**
 
-Antallet offentlige og/eller utkastrevisjoner i dokumentet. Hver revisjon kan ha sitt eget revisjonsnavn, opprettelsesdato, filstørrelse og eier.
+Hver revisjon kan ha sitt eget revisjonsnavn, opprettelsesdato, filstørrelse og eier.
 
-### 5.1 **Revisjonsnavn**
+### 5.1 **Revisjon** - Standard 1 panel
 
-Navnet på den nyeste offentlige dokumentrevisjonen. Dette er navnet på filen som opprinnelig ble lastet opp og kan ikke endres. Fordi det kan være flere revisjoner i et dokument, kan dette navnet være forskjellig fra dokumentnavnet som er samlenavn for alle revisjonene i dokumentet.
+Antallet revisjoner i dokumentet. Revisjoner vises med en grønn hake og et helt tall 1, 2, 3, osv...
+
+**Delte revisjoner** Hvis delte revisjoner har blitt aktivert i dokumentstatusseksjonen i dokumentinnstillinger, vil nye opplastinger i arbeidsplass-fanen vises med et hoved- og et birnummer som 0.1, 0.2, 1.1, osv... Hvis den siste revisjonen er en publisert revisjon, vises den som et helt tall. I den publiserte fanen vises den siste publiserte revisjonen alltid med sitt hele tall uavhengig av om det er en nyere delt revisjon eller ikke.
+
+**Utkastrevisjoner - Legacy** I den gamle visningen er antallet utkastrevisjoner etter den siste publiserte revisjonen oppført.
+
+### 5.2 **Revisjonsnavn**
+
+Navnet på den siste offentlige revisjonen i dokumentet.
+
+Revisjonsnavnet er navnet filen fikk når den ble lastet opp. Dette er vanligvis det opprinnelige filnavnet, men navnet kan endres i [opplastingsdialogen](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument#h_00fa77db3e) før filen lastes opp. Etter opplasting kan revisjonsnavnet ikke endres.
+
+Dokumentnavnet deles av alle revisjoner i dokumentet, så det kan være ulikt fra revisjonsnavnet.
+
+Når du laster ned en fil, bestemmer [dokumentets nedlastingstittel-alternativ](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f) om filen får revisjonsnavnet eller et navn basert på dokumentnavnet.
 
 > **Merk:** Revisjonsnavnet kan være forskjellig fra dokument- eller modellnavn.
 

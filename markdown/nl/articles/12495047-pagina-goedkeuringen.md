@@ -20,7 +20,7 @@ De pagina Goedkeuringen is standaard verborgen. Schakel gedeelde revisies in in 
 
 ### 1.1 **Inschakelen vanuit sjabloonproject**
 
-Projecten die zijn aangemaakt op basis van een sjabloonproject waarin gedeelde statussen waren ingeschakeld, hebben gedeelde statussen ingeschakeld en de pagina Goedkeuringen wordt weergegeven bij aanmaak. Werkstromen worden niet overgedragen van project naar project, dus in een nieuw project moet een werkstroom worden aangemaakt zodat leden goedkeuringsaanvragen kunnen indienen.
+Projecten die zijn gemaakt op basis van een templateproject waarin gedeelde statusses waren ingeschakeld, krijgen gedeelde statusses ingeschakeld en de goedkeuringspagina wordt weergegeven bij aanmaak. De goedkeuringswerkflows en onderwerpsjablonen van het templateproject worden overgedragen naar het nieuwe project, zodat deze niet opnieuw hoeven te worden gemaakt voordat leden goedkeuringsaanvragen kunnen indienen.
 
 ## 2. **Nieuwe item-acties**
 

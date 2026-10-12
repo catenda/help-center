@@ -72,7 +72,7 @@ Si plusieurs révisions PDF sont présentes dans un document, l'action [comparai
 
 ### 3.2 **Télécharger**
 
-Cliquez sur l'icône de téléchargement en haut à droite du menu de révision ou sur télécharger dans le menu hamburger à côté de l'icône de téléchargement pour télécharger la révision actuelle. _Accès requis :_ Accès en lecture au document
+Cliquez sur l'icône de téléchargement en haut à droite du menu de révision ou sur télécharger dans le menu hamburger à côté de l'icône de téléchargement pour télécharger la révision actuelle. Le nom du fichier téléchargé peut être affecté par l'[option titre de téléchargement de document](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f). Le propriétaire du projet configure cette option pour toute l'organisation, de sorte que les membres du projet ne peuvent pas la demander ou la modifier eux-mêmes. _Accès requis :_ Accès en lecture au document
 
 ### 3.3 **Retirer la révision**
 
@@ -106,7 +106,7 @@ Il n'est pas recommandé de télécharger une révision de document infectée. V
 
 ### 4.3 **Nom de la révision**
 
-Le nom de la révision est le nom que le fichier avait sur le système lorsqu'il a été téléchargé pour la première fois. Ce nom ne peut pas être modifié.
+Le [nom de la révision](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents#h_01e7f2d654) de la révision.
 
 ### 4.4 **Publié par**
 
@@ -154,7 +154,7 @@ Si le nouveau workflow de statut avec révisions partagées au lieu de révision
 
 ### 6.1 **Télécharger**
 
-Utilisez l'action de téléchargement pour télécharger la révision actuelle. Quel que soit le type de révision, les révisions peuvent également être téléchargées via le menu des révisions ci-dessous. Dans l'[onglet espace de travail](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_cfc9a53600) du [tableau des documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents), la dernière révision partagée du document est téléchargée via l'action d'élément existant. Dans l'[onglet publié](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_cfc9a53600) du [tableau des documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents), la dernière révision publiée du document est téléchargée via l'action d'élément existant. _Accès requis :_ Accès en lecture au document et case à cocher Afficher les révisions partagées cochée.
+Utilisez l'action de téléchargement pour télécharger la révision actuelle. Le nom du fichier téléchargé peut être affecté par l'[option titre de téléchargement de document](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f). Le propriétaire du projet configure cette option pour toute l'organisation, de sorte que les membres du projet ne peuvent pas la demander ou la modifier eux-mêmes. Indépendamment du type de révision, les révisions peuvent également être téléchargées via le menu des révisions ci-dessous. Dans l'[onglet espace de travail](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_cfc9a53600) du [tableau des documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents), la dernière révision partagée du document est téléchargée via l'action d'élément existant. Dans l'[onglet publié](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_cfc9a53600) du [tableau des documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents), la dernière révision publiée du document est téléchargée via l'action d'élément existant. _Accès requis :_ Accès en lecture au document et case à cocher affichage des révisions partagées cochée.
 
 ### 6.2 **Publier**
 

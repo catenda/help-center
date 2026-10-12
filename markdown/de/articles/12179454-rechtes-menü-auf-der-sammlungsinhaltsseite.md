@@ -64,7 +64,7 @@ Nachdem die Sammlung finalisiert wurde, können Sie:
 
 **13. Ablaufdatum für freigegebene Links eingeben**
 
-**14. Sammlung extern freigeben** Dokumentensammlungen, die extern freigegeben werden, können von jedem mit dem Link heruntergeladen werden. Personen mit dem Link benötigen kein Catenda-Konto, um die Dateien aus dieser Sammlung herunterzuladen.
+**14. Sammlung extern freigeben** Dokumentsammlungen, die extern freigegeben werden, können von jedem mit dem Link heruntergeladen werden. Personen mit dem Link benötigen kein Catenda-Konto, um die Dateien aus dieser Sammlung herunterzuladen. Die Dateien, die sie über den öffentlichen Link herunterladen, behalten immer ihren [Revisionsnamen](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654), unabhängig davon, welche [Option zum Download von Dokumenttiteln](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) eingestellt ist. Der Projektinhaber konfiguriert diese Option für seine gesamte Organisation, sodass Projektmitglieder diese selbst nicht anfordern oder ändern können.
 
 > **Hinweis:** Es ist möglich anzufordern, dass die Funktion zur öffentlichen Freigabe deaktiviert wird. Wenn Sie möchten, dass diese Option aktiviert wird, wenden Sie sich bitte an den Support.
 

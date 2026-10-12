@@ -1,6 +1,8 @@
 # Opprette en ny gjennomgang
 
-Den nye gjennomgangsforespørsel kan finnes for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Klikk på handlingsmenyen til høyre for den grønne plusknappen på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) for å opprette en ny gjennomgangsforespørsel. Klikk på knappen for ny gjennomgangsforespørsel i gjennomgangsmenyen på høyre side av en revisjon på dokumentsiden der den nyeste revisjonen er en delt revisjon for å opprette en ny gjennomgangsforespørsel. Slik kan dialogen for å opprette en ny gjennomgangsforespørsel se ut:
+Den nye gjennomgangsforespørselen kan finnes for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Klikk på handlingsmenyen til høyre for den grønne plusskappen på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) for å opprette en ny gjennomgangsforespørsel. Klikk på knappen for ny gjennomgangsforespørsel i gjennomgangsmenyen på høyre meny for en revisjon på dokumentsiden der den siste revisjonen er en delt revisjon for å opprette en ny gjennomgangsforespørsel.
+
+Slik kan dialogen for opprettelse av en ny gjennomgangsforespørsel se ut:
 
 ![Ny godkjenningsforespørsel Arbeidsflyt Innsender Tittel Beskrivelse (valgfritt) Dokumenter til vurdering legg til dokumenter navn revisjon # Revisjonsnummer Status Fjern Avbryt Lagre som utkast Send til vurdering](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -16,7 +18,9 @@ Slik kan toppteksten for en ny gjennomgang se ut for prosjekter som aktiverte de
 
 Medlemmer som er del av innsenderteam som er konfigurert i en projektarbeidsflyt, kan velge mellom en av arbeidsflytene som teamene er konfigurert for. Arbeidsflyten som ble valgt tidligere, blir husket. Så lenge arbeidsflyten som ble valgt tidligere fortsatt er tilgjengelig, vil den bli valgt igjen neste gang en gjennomgang opprettes.
 
-**Automatisk valg** Hvis bare ett av teamene som et medlem er del av, er konfigurert for en arbeidsflyt, vil arbeidsflyten bli valgt automatisk. Slik kan det se ut når arbeidsflyten velges automatisk.
+Prosjektets arbeidsflyter kan ha vært forhåndsdefinert i malprosjektet som prosjektet ble [opprettet fra](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt). Prosjektadministratorer kan legge til nye arbeidsflyter eller redigere eksisterende på [arbeidsflytsiden](https://support.catenda.com/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger) i dokumentinnstillingene. En arbeidsflyt som finnes i prosjektet betyr ikke at alle medlemmer kan velge den: bare medlemmer av et innsendingsteam som er konfigurert for den arbeidsflytene kan velge den. Medlemmer som blir bedt om å sende inn gjennomgangsforespørsler, men som ikke har en tilgjengelig arbeitsflyt, kan spørre en prosjektadministrator om å legge til ett av deres teams som et innsendingsteam i en arbeidsflyt.
+
+**Automatisk utvalg** Hvis bare ett av teamene som et medlem er del av, er konfigurert for en arbeidsflyt, blir denne arbeidsflytenen automatisk valgt. Slik kan det se ut når arbeidsflytenen er automatisk valgt.
 
 ![Arbeidsflyt Innsender Tittel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -40,7 +44,7 @@ Tittelen på gjennomgangen. En gjennomgang må ha en tittel for å kunne sendes 
 
 ## 2. **Gjennomgangsforespørsel-brødtekst**
 
-Den nye valideringsarbeidsflyten er en on-demand-funksjon som kan forespørres aktivert når du starter et nytt prosjekt. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet. Slik kan brødteksten for en ny gjennomgang se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025:
+Den nye valideringsarbeidsflyten er aktiv i alle nye prosjekter. Prosjekter som bruker en eldre versjon av valideringsarbeidsflyten kan be om overføring til den nye valideringsarbeidsflyten fra support. Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmaler fra det malprosjektet. Slik kan brødteksten i en ny gjennomgang se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025:
 
 ![Godkjenningsforespørsel brødtekst Beskrivelse (valgfritt) Dokumenter til vurdering legg til dokumenter avbryt ingen dokumenter lagt til ennå](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 

@@ -72,7 +72,7 @@ Hvis flere PDF-revisjoner finnes i et dokument, vises [PDF-sammenligningshandlin
 
 ### 3.2 **Last ned**
 
-Klikk på nedlastingsikonet øverst til høyre i revisjonmenyen eller last ned i hamburgermenyen ved siden av nedlastingsikonet for å laste ned gjeldende revisjon. _Nødvendig tilgang:_ Lesetilgang til dokumentet
+Klikk på nedlastingsikonet øverst til høyre på revisjonmenyen eller nedlasting i hamburgemenyen ved siden av nedlastingsikonet for å laste ned gjeldende revisjon. Navnet på den nedlastede filen kan påvirkes av [alternativet for dokumentnedlastingstittel](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Prosjekteieren konfigurerer dette alternativet for hele organisasjonen sin, slik at prosjektmedlemmer ikke kan be om eller endre det selv. _Tilgang påkrevd:_ Lesestatus til dokumentet
 
 ### 3.3 **Trekk tilbake revisjon**
 
@@ -106,7 +106,7 @@ Det anbefales ikke å laste ned en dokumentrevisjon som er infisert. Du vil ikke
 
 ### 4.3 **Revisjonsnavn**
 
-Revisjonsnavnet er navnet som filen hadde på systemet da den ble lastet opp første gang. Dette navnet kan ikke endres.
+[Revisjonsnavn](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654) på revisjonen.
 
 ### 4.4 **Publisert av**
 
@@ -154,7 +154,7 @@ Hvis den nye statusarbeidsflyten med delte revisjoner i stedet for utkastrevisjo
 
 ### 6.1 **Last ned**
 
-Bruk nedlastingshandlingen for å laste ned gjeldende revisjon. Uavhengig av revisjonstype, kan revisjoner også lastes ned via revisjonmenyen nedenfor. I [arbeidsplassfanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste delte revisjonen i dokumentet ned via handlingen for eksisterende element. I [publisert fanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste publiserte revisjonen i dokumentet ned via handlingen for eksisterende element. _Nødvendig tilgang:_ Lesetilgang til dokumentet og avkrysningsmerkeutsendelse for vising av delte revisjoner.
+Bruk nedlastingshandlingen for å laste ned gjeldende revisjon. Navnet på den nedlastede filen kan påvirkes av [alternativet for dokumentnedlastingstittel](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Prosjekteieren konfigurerer dette alternativet for hele organisasjonen sin, slik at prosjektmedlemmer ikke kan be om eller endre det selv. Uavhengig av revisjontype kan revisjoner også lastes ned via revisjonmenyen nedenfor. I [arbeidsstedfanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste delte revisjonen i dokumentet ned via den eksisterende elementhandlingen. I [publisert fanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste publiserte revisjonen i dokumentet ned via den eksisterende elementhandlingen. _Tilgang påkrevd:_ Lesestatus til dokumentet og avmerkingsboksen for visning av delte revisjoner er merket av.
 
 ### 6.2 **Publiser**
 

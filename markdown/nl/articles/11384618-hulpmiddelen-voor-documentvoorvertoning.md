@@ -23,7 +23,7 @@ Dit is wat het werkbalkenmenu eruit kan zien:
 
 ### 1.1 **Downloaden**
 
-Klik op Downloaden om het document met annotaties die actief zijn in de documentvoorvertoning te downloaden.
+Klik op Downloaden om het document met alle actieve annotaties in de documentpreview te downloaden. Het gedownloade bestand krijgt altijd de [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654), ongeacht de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f) is ingesteld. De projecteigenaar configureert deze optie voor de gehele organisatie, dus projectleden kunnen deze niet zelf aanvragen of wijzigen.
 
 ### 1.2 **Volledig scherm openen**
 

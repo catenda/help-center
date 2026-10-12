@@ -46,7 +46,7 @@ Met de downloadactie kunnen geselecteerde items en hun inhoud worden gedownload 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Ontvang een enkel document met één documentrij geselecteerd. Ontvang een zip-bestand met de inhoud van de selectie wanneer een maprij of meerdere rijen zijn geselecteerd. _Vereiste toegang:_ volledige toegang tot uw geselecteerde document(en) en/of map(pen)
+Ontvang een enkel document met één documentrij geselecteerd. Ontvang een zipbestand dat de inhoud van de selectie bevat wanneer een maprij of meerdere rijen zijn geselecteerd. De namen van de gedownloade bestanden kunnen worden beïnvloed door de [optie documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen. _Vereiste toegang:_ volledige toegang tot uw geselecteerde document(en) en/of map(pen)
 
 **Documenten ontdekken** Zodra de downloadknop is ingedrukt, wordt een dialoog geopend in de linkeronderhoek van de pagina. Eerst zal het systeem beginnen de verschillende bestanden in de download te ontdekken. Dit is hoe de dialoog voor downloadvoorbereiding eruit kan zien:
 

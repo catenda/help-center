@@ -10,7 +10,7 @@ _Accès requis :_ L'un des éléments suivants quel que soit le Statut d'adminis
 - Membre d'une Équipe d'examinateurs qui est configurée pour examiner l'une des étapes du circuit de validation sélectionné dans la demande de validation.
 - Membre de l'Équipe d'éditeur qui est configurée pour soumettre la validation finale pour le circuit de validation sélectionné dans la demande de validation.
 
-Les demandes de validation peuvent être soumises sur la page des validations ou toute demande de validation en brouillon qu'ils ont créée précédemment peut être soumise à partir de leur page de brouillon de validation. Les projets dont les révisions partagées ont été activées avant le 2 octobre 2025 verront à la place la page de demande de validation héritée. Il n'est possible de créer un projet basé sur un projet de modèle que si le circuit de validation hérité est activé dans ce projet de modèle.
+Les demandes d'approbation peuvent être soumises sur la page des approbations ou les brouillons de demande d'approbation précédemment créés peuvent être soumis à partir de leur page de brouillon d'approbation. Les projets pour lesquels les révisions partagées ont été activées avant le 2 octobre 2025 verront à la place la page d'approbation héritée. Les projets créés à partir d'un projet modèle incluent les workflows d'approbation et les modèles de sujets de ce projet modèle.
 
 ## 1. **Nouvelles actions d'élément**
 

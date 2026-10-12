@@ -1,6 +1,6 @@
 # Arbeidsflytsside - Dokumentinnstillinger
 
-Arbeidsflytsiden finnes ved å klikke på knappen Konfigurer arbeidsflyter i menyen Gjennomganger på [siden for dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) i prosjekter der den nye valideringsarbeidsflyten er bedt aktivert og delte statuser er aktivert i statusarbeidsflytsmenyen for [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger). Den nye valideringsarbeidsflyten er en funksjon etter forespørsel som kan aktiveres når du starter et nytt prosjekt. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet. På arbeidsflytsiden kan arbeidsflyter for ulike gjennomgangskonfigurasjoner konfigureres. _Tilgang kreves:_ Administrator
+Siden for arbeidsflyter finner du ved å klikke på knappen for konfigurering av arbeidsflyter i menyen for gjennomganger på [siden for dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) i prosjekter der den nye valideringsarbeidsflyten er aktiv og delte statuser er aktivert i statusarbeidsflytmenyen for [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger). Den nye valideringsarbeidsflyten er aktiv i alle nye prosjekter. Prosjekter som bruker en eldre versjon av valideringsarbeidsflyten kan be om overføring til den nye valideringsarbeidsflyten fra støtte. På siden for arbeidsflyter kan arbeidsflyter for ulike godkjenningskonfigurasjoner konfigureres. _Tilgang kreves:_ Administrator
 
 Arbeidsflytsiden kan se slik ut:
 
@@ -10,7 +10,7 @@ Følgende saker vil bli beskrevet i denne artikkelen:
 
 _[Nye elementhandlinger](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_d0f4a44fb7) - [Søk eller filtrer](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_bbf4dcad58) - [Høyre meny](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_fc89aaa1fe) - [Tabell](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_54e8dfcac2) - [Undersider](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_5751ccd2b7)_
 
-Selv om arbeidsflytsiden er en underside til gjennomgangssiden som framgår av at gjennomgangssiden er uthevet og brødsmulen øverst, er siden bare tilgjengelig fra gjennomgangsmenyen i dokumentinnstillinger.
+Selv om siden for arbeidsflyter er en underside av siden for gjennomganger, noe som fremgår av at siden for gjennomganger er markert og av brødsmulene øverst, er siden kun tilgjengelig fra menyen for gjennomganger i dokumentinnstillinger.
 
 ## 1. **Nye elementhandlinger**
 
@@ -77,3 +77,7 @@ Opprettet av - _Standard_ Medlemmet som opprettet arbeidsflyten.
 Opprettet den - _Standard_ Dato og tid da arbeidsflyten ble opprettet
 
 Status - _Standard_ Status for arbeidsflyten
+
+## 4. **Arbeidsflyter fra et malprosjekt**
+
+Prosjekter som er opprettet basert på et malprosjekt, inkluderer godkjenningsarbeidsflyter og sakmaler fra malprosjektet. Disse arbeidsflytene er oppført i arbeidsflytstabellen i det nye prosjektet. Klikk [her](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) for å lese mer om å opprette et prosjekt basert på et malprosjekt.

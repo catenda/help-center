@@ -36,7 +36,7 @@ Dit is hoe het menu met beoordelingen eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-Het menu Beoordelingen is alleen beschikbaar in projecten waarvoor de nieuwe validatieworkflow is aangevraagd om in te schakelen. De nieuwe validatieworkflow is een functie op aanvraag die voor nieuwe projecten kan worden aangevraagd om in te schakelen. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waarvoor deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
+Het goedkeuringenmenu is alleen beschikbaar in projecten waar de nieuwe validatiewerkstroom actief is. De nieuwe validatiewerkstroom is actief in alle nieuwe projecten. Projecten die een oude versie van de validatiewerkstroom gebruiken, kunnen ondersteuning aanvragen voor een migratie naar de nieuwe validatiewerkstroom. Projecten die zijn gemaakt op basis van een sjabloonproject bevatten de goedkeuringswerkstromen en Topics-sjablonen van dat sjabloonproject.
 
 ### 3.1 **Workflows configureren**
 

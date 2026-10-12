@@ -23,7 +23,7 @@ Voici à quoi peut ressembler le menu de la barre d'outils:
 
 ### 1.1 **Télécharger**
 
-Cliquez sur Télécharger pour télécharger le document avec toutes les annotations actives dans l'aperçu du document.
+Cliquez sur Télécharger pour télécharger le document avec toute annotation active dans l'aperçu du document. Le fichier téléchargé obtient toujours le [nom de révision](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents#h_01e7f2d654), indépendamment de l'option [document download title](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f) définie. Le propriétaire du projet configure cette option pour l'ensemble de son organisation, de sorte que les Membres du projet ne peuvent pas la demander ni la modifier eux-mêmes.
 
 ### 1.2 **Entrer en plein écran**
 

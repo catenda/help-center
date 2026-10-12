@@ -36,7 +36,7 @@ Slik kan gjennomgangsmenyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-Gjennomgangsmenyen er bare tilgjengelig i prosjekter der den nye valideringarbeidsflyten har blitt forespurt aktivert. Den nye valideringarbeidsflyten er en on-demand-funksjon som kan forespørres aktivert for nye prosjekter. Nye prosjekter som er opprettet basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
+Gjennomgangmenyen er bare tilgjengelig i prosjekter der den nye valideringsarbeidsflyten er aktiv. Den nye valideringsarbeidsflyten er aktiv i alle nye prosjekter. Prosjekter som bruker en eldre versjon av valideringsarbeidsflyten kan be om overføring til den nye valideringsarbeidsflyten fra support. Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmalene til det malprosjektet.
 
 ### 3.1 **Konfigurer arbeidsflyter**
 

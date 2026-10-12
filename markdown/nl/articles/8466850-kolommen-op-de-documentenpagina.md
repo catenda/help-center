@@ -62,13 +62,27 @@ Als u over de naamkolom beweegt, ziet u een raster met punten aan de rechterkant
 
 Als u hiermee beweegt, verandert uw cursor in een hand. Als u dit rasterpictogram versleept, kunt u uw geselecteerde bestanden/mappen naar een andere map verplaatsen.
 
-## 5. **Revisie** - Standaard 1 paneel
+## 5. **Revisies**
 
-Het aantal openbare en/of conceptrevisies in het document. Elke revisie kan zijn eigen revisienaam, aanmaakdatum, bestandsgrootte en eigenaar hebben.
+Elke revisie kan zijn eigen revisienaam, aanmaakdatum, bestandsgrootte en eigenaar hebben.
 
-### 5.1 **Revisienaam**
+### 5.1 **Revisie** - Standaard 1 paneel
 
-De naam van de nieuwste openbare documentrevisie. Dit is de naam van het bestand dat oorspronkelijk is geüpload en kan niet worden gewijzigd. Omdat er meerdere revisies in een document kunnen zijn, kan deze naam afwijken van de documentnaam, wat de verzamelnaam is voor alle revisies in het document.
+Het aantal revisies in het document. Revisies worden weergegeven met een groen vinkje en een geheel getal 1, 2, 3, enzovoort...
+
+**Gedeelde revisies** Als gedeelde revisies zijn ingeschakeld in de documentstatusdeel van documentinstellingen, verschijnen nieuwe uploads op het tabblad Werkruimte met een hoofd- en een subversienummer zoals 0.1, 0.2, 1.1, enzovoort... Als de meest recente revisie een gepubliceerde revisie is, wordt deze weergegeven als een geheel getal. Op het gepubliceerde tabblad wordt de meest recente gepubliceerde revisie altijd weergegeven met het bijbehorende gehele getal, ongeacht of er een nieuwere gedeelde revisie is of niet.
+
+**Conceptrevisies - Legacy** In de legacy-weergave wordt het aantal conceptrevisies na de laatste gepubliceerde revisie vermeld.
+
+### 5.2 **Revisienaam**
+
+De naam van de meest recente openbare revisie in het document.
+
+De revisienaam is de naam die het bestand kreeg toen het werd geüpload. Dit is meestal de originele bestandsnaam, maar de naam kan worden gewijzigd in de [uploaddialoog](https://support.catenda.com/nl/articles/4670278-een-document-uploaden#h_00fa77db3e) voordat het bestand wordt geüpload. Na het uploaden kan de revisienaam niet worden gewijzigd.
+
+De documentnaam wordt door alle revisies in het document gedeeld, dus deze kan afwijken van de revisienaam.
+
+Wanneer u een bestand downloadt, bepaalt de [downloadtiteloptie voor document](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f) of het bestand de revisienaam krijgt of een naam op basis van de documentnaam.
 
 > **Opmerking:** De revisienaam kan afwijken van de document- of modelnaam.
 

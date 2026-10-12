@@ -46,4 +46,12 @@ Klik [hier](https://support.catenda.com/nl/articles/6707924-hoeveelheid-uittelle
 
 ## 5. **Pagina Objecten**
 
-Zoek op basis van logica naar inhoud uit uw IFC. De pagina Objecten is een optionele functie die kan worden aangevraagd voor lopende projecten. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
+De [objectenpagina](https://support.catenda.com/nl/articles/12352750-objectenpagina) voert een vergelijkbare taak uit als het QTO-menu: het geeft rijen weer met informatie over de objecten in uw modellen. De twee werken in tegengestelde richtingen en verschillen in hoeveel ze kunnen exporteren.
+
+### 5.1 **Objecten zoeken**
+
+Het QTO-menu is dynamisch en werkt bij met de objecten die zijn geselecteerd in de 3D-viewer of boomvenster. De objectenpagina werkt andersom. Zoek naar inhoud van uw IFC met logica om objecten met filters te vinden en laad vervolgens de objecten die in de 3D-viewer zijn gevonden. Gebruik het geselecteerde filter op de objectenpagina om een resultaat vergelijkbaar met het QTO-menu te krijgen.
+
+### 5.2 **Exporteren**
+
+Zowel het QTO-menu als de objectenpagina kunnen naar Excel worden geëxporteerd. Op de objectenpagina worden alleen de ingeschakelde kolommen geëxporteerd, dus de kolommen in het geëxporteerde bestand kunnen worden beperkt door kolommen in de producttabel in of uit te schakelen. De objectenpagina kan ook veel meer cellen verwerken dan het QTO-menu, wat belangrijk is omdat objecten vaak veel cellen genereren (zie [objectentelling](#object-count)).

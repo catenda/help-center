@@ -64,7 +64,7 @@ Zodra de verzameling is gefinaliseerd, kunt u:
 
 **13. Voer een vervaldatum in voor gedeelde Koppelingen**
 
-**14. Deel de verzameling extern** Documentverzamelingen die extern worden gedeeld, kunnen door iedereen met de Koppeling worden gedownload. Personen met de Koppeling hebben geen Catenda-account nodig om de bestanden uit deze verzameling te downloaden.
+**14. De collectie extern delen** Documentcollecties die extern worden gedeeld, kunnen door iedereen met de koppeling worden gedownload. Personen met de koppeling hebben geen Catenda-account nodig om de bestanden uit deze collectie te downloaden. De bestanden die zij via de openbare koppeling downloaden, behouden altijd hun [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654), ongeacht de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f) is ingesteld. De projecteigenaar configureert deze optie voor hun hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen.
 
 > **Opmerking:** Het is mogelijk om aan te vragen dat de openbare delenfunctie wordt uitgeschakeld. Als u wilt dat deze optie wordt ingeschakeld, neem dan contact op met ondersteuning.
 

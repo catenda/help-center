@@ -20,7 +20,7 @@ Gjennomgangssiden er skjult som standard. Aktiver delte revisjoner i [dokumentin
 
 ### 1.1 **Aktiver fra malprosjekt**
 
-Prosjekter opprettet basert på et malprosjekt der delte statuser ble aktivert, vil ha delte statuser aktivert og gjennomgangssiden vil vises ved opprettelse. Arbeidsflyter overføres ikke fra prosjekt til prosjekt, så i et nytt prosjekt må en arbeidsflyt opprettes for at medlemmer skal kunne begynne å sende inn gjennomgangsforespørsler.
+Prosjekter som er opprettet basert på en malprosjekt der delt status var aktivert, vil ha delt status aktivert og godkjenningssiden vil vises ved opprettelse. Godkjenningsarbeidsflyten og saksmaler fra malprosjektet overføres til det nye prosjektet, slik at de ikke trenger å opprettes på nytt før medlemmer kan begynne å sende inn godkjenningsforespørsler.
 
 ## 2. **Nye varhandlinger**
 

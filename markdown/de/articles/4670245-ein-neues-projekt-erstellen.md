@@ -4,7 +4,7 @@ Wenn Ihr aktueller Plan und Zugriff dies zulassen, können Sie ein neues Projekt
 
 Andernfalls kontaktieren Sie den Catenda-Support unter [support@catenda.com](mailto:support@catenda.com) oder über die Chat-Schaltfläche, um ein neues Projekt zu erstellen. Die schwarze Chat-Schaltfläche finden Sie oben rechts in Catenda Hub oder unten rechts auf unseren Hilfe-/Startseiten, um Ihren Plan zu aktualisieren. Wir werden Sie durch die Erstellung führen.
 
-Die neue Projektseite kann etwa so aussehen:
+So kann die neue Projektseite aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
@@ -44,66 +44,79 @@ Die Einstellung für den Dokument-Download, die ein erstelltes Projekt erhält, 
 
 Wenn die Einstellung für den Dokument-Download für neue Projekte in einer Organisation geändert wird, wird diese Einstellung nur auf neue Projekte angewendet, die in der Organisation erstellt werden, nicht auf bereits vorhandene Projekte. Es ist daher möglich, dass es in derselben Organisation Projekte mit unterschiedlichen Einstellungen für den Dokument-Download gibt.
 
+### 3.3 **Projekte, die aus einem Vorlagenprojekt erstellt wurden**
+
+Die Einstellung für den Dokumentdownload eines neuen Projekts basiert auf der Organisation, in der es erstellt wird, nicht auf dem Vorlagenprojekt. Sie wird nie vom Vorlagenprojekt kopiert, daher ist sie keine der Optionen, wenn ein Vorlagenprojekt verwendet wird.
+
 ## 4. **On-Demand-Features**
 
-Wenn ein neues Projekt erstellt wird, sind Opt-in-Features standardmäßig nicht aktiviert. Es ist möglich, die folgenden Features nach der Projekterstellung aktiviert zu bekommen:
+Wenn ein neues Projekt erstellt wird, sind Opt-in-Funktionen standardmäßig nicht aktiviert. Es ist möglich, nach dem Erstellen eines Projekts die folgende Funktion aktivieren zu lassen:
 
-[Objekte-Seite](https://support.catenda.com/de/articles/12352750-objektseite) [Berichte-Seite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite)
+[Berichtsseite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite)
 
 ## 5. **Ein Projekt als Vorlage auswählen**
 
-Sie können auswählen, einige Einstellungen eines anderen Projekts zu übernehmen, wenn Sie ein neues Projekt erstellen. _Erforderlicher Zugriff:_ Projektmitglied
+Aktivieren Sie das Kontrollkästchen "Anderes Projekt als Vorlage verwenden", um Einstellungen eines anderen Projekts beim Erstellen eines neuen Projekts zu erben. _Erforderlicher Zugriff:_ Projektmitglied
 
-### 5.1 **Modelle -** Keine Versionen
+So kann es aussehen, wenn ein Vorlagenprojekt verwendet wird:
 
-Leere Modelle, die bereit sind, neue Versionen zu erhalten
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/02-select-a-project-to-use-as-template.png)
+
+Elemente mit einem hellgrünen Kontrollkästchen werden immer kopiert und können nicht deaktiviert werden. Etiketten, Meilensteine, Teams und Themen-Boards werden immer vom Vorlagenprojekt kopiert. Elemente mit einem dunkelgrünen Kontrollkästchen sind optional und können deaktiviert werden.
+
+Einige Elemente werden erforderlich, wenn ein anderes Element aktiviert ist, wie die Notiz oben in der Liste besagt: "Elemente, die von Ihrer Auswahl erforderlich sind, werden automatisch eingebunden und können nicht deaktiviert werden." Derzeit ist die einzige Abhängigkeit Approval Workflows. Wenn Approval Workflows aktiviert ist, werden Dokumentstatus-Konfiguration und Themen-Vorlagen automatisch eingebunden und in Hellgrün angezeigt. Wenn Approval Workflows deaktiviert ist, werden Dokumentstatus-Konfiguration und Themen-Vorlagen optional und in Dunkelgrün angezeigt.
+
+### 5.1 **Modelle (keine Revisionen)**
+
+Die Modelle des Vorlagenprojekts werden ohne ihre Revisionen kopiert, daher sind sie leer und bereit, neue Revisionen zu erhalten. _Auswahl:_ Optional
 
 ### 5.2 **Etiketten**
 
-Etiketten, die mit Themen, Modellen und Dokumenten verbunden werden können. Es ist nützlich, die gleichen Etiketten in mehreren Projekten für Analysen mit Tools wie PowerBI zu haben
+Die Etiketten des Vorlagenprojekts werden kopiert und sind bereit, mit Themen, Modellen und Dokumenten verbunden zu werden. Es ist nützlich, die gleichen Etiketten in mehreren Projekten für die Analyse mit Tools wie Power BI zu haben. _Auswahl:_ Erforderlich
 
-### 5.3 **Meilensteine -** Keine Daten
+### 5.3 **Meilensteine (keine Daten)**
 
-Nützlich beim Erstellen eines neuen Projekts bei einem Phasenwechsel, der die gleichen Meilensteine wie der vorherige hat.
+Die Meilensteine des Vorlagenprojekts werden ohne ihre Daten kopiert. Dies ist nützlich, wenn ein neues Projekt bei einem Phasenwechsel erstellt wird, das die gleichen Meilensteine wie das letzte hat. _Auswahl:_ Erforderlich
 
-### 5.4 **Teams -** Kein Mitglied
+### 5.4 **Teams (keine Mitglieder)**
 
-Teams, die bereit sind, Mitglieder aufzunehmen. Der Zugriff in der Dokumentstruktur wird auch durch Teams verteilt.
+Die Teams des Vorlagenprojekts werden ohne ihre Mitglieder kopiert und sind bereit, Mitglieder anzunehmen. Der Zugriff in der Dokumentstruktur wird auch über Teams verteilt. _Auswahl:_ Erforderlich
 
-### 5.5 **Themen-Boards -** Einschließlich Status und Typen, aber keine Themen
+### 5.5 **Themen-Boards (einschließlich Status und Typen, aber ohne Themen)**
 
-Boards, die eingerichtet und einsatzbereit sind. Boards können archiviert werden, bis sie einsatzbereit sind.
+Die Themen-Boards des Vorlagenprojekts werden mit ihren Status und Typen kopiert, aber ohne Themen, daher sind sie eingerichtet und einsatzbereit für die Kommunikation. Boards können archiviert bleiben, bis sie einsatzbereit sind. _Auswahl:_ Erforderlich
 
 ### 5.6 **Ordnerstruktur**
 
-Kopieren Sie die Namen und Struktur der Vorlagenprojektordner ohne die zugehörigen Dokumente. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Vorlagenprojekt
+Die Namen und Struktur der Ordner des Vorlagenprojekts werden ohne ihre Dokumente kopiert. _Erforderlicher Zugriff:_ Vollzugriff auf das Vorlagenprojekt _Auswahl:_ Optional
 
 ### 5.7 **Dokumentstatus-Konfiguration**
 
-Öffentliche Dokumentstatus können verwendet werden, um den Fortschritt eines Dokuments nachzuverfolgen. Entwurf-Dokumentstatus können für Genehmigungen verwendet werden.
+Die Dokumentstatus des Vorlagenprojekts werden kopiert. Öffentliche Dokumentstatus können verwendet werden, um den Fortschritt eines Dokuments zu verfolgen. Entwurf-Dokumentstatus können für Genehmigungen verwendet werden. _Auswahl:_ Erforderlich, wenn Approval Workflows aktiviert ist, andernfalls optional
 
-### 5.8 **Einstellung für Dokument-Download**
+### 5.8 **Dokument- und Themen-Board-Zugriffskontrolle**
 
-Die Einstellung für den Dokument-Download, die das erstellte Projekt erhielt, basiert auf der Einstellung für den Dokument-Download für neue Projekte in der Organisation und nicht darauf, welche Einstellung für den Dokument-Download das Vorlagenprojekt hat.
-
-### 5.9 **Dokument- und Themen-Board-Zugriffskontrolle**
-
-Dies kopiert die Zugriffskontrolle für die folgenden Optionen (falls ausgewählt)
-
-- Ordnerstruktur
-- Themen-Boards
-
-_Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Vorlagenprojekt
+Die Zugriffskontrolle der Ordnerstruktur und der Themen-Boards wird für diejenigen der beiden kopiert, die ausgewählt sind.
 
 Das Folgende ist enthalten:
 
-- Definierten Zugriff für "Teams". (Falls Teams ausgewählt sind)
-- Andere Zugriffseinstellungen. ("Alle Benutzer", "Besitzer", etc...)
+- Definierter Zugriff für "Teams"
+- Weitere Zugriffseinstellungen, wie "Alle Benutzer" und "Eigentümer"
 
 Das Folgende ist nicht enthalten:
 
 - Definierten Zugriff für "Benutzer"
 
-### 5.10 **Benutzerdefinierte Felder und Benennungskonventionen**
+Wenn diese Option deaktiviert ist, erhält das neue Projekt stattdessen den Standardzugriff. Das ist der Standardzugriff für die Wurzel der Dokumente, den Sie in den Dokumenteinstellungen finden, und der Standardzugriff für das Standard-Themen-Board. _Erforderlicher Zugriff:_ Administrator oder Eigentümer des Vorlagenprojekts _Auswahl:_ Optional
 
-Benutzerdefinierte Felder können in Problemen angezeigt und in Benennungskonventionen verwendet werden.
+### 5.9 **Benutzerdefinierte Felder, Namenskonventionen und QR-Code**
+
+Die [Ordnerkonfiguration](https://support.catenda.com/de/articles/12302595-ordnerkonfiguration-dokumenteinstellungen) des Vorlagenprojekts wird kopiert: ihre benutzerdefinierten Felder, Namenskonventionen und QR-Code-Stempelungseinstellungen. Benutzerdefinierte Felder können in Problemen angezeigt und in Namenskonventionen verwendet werden. _Auswahl:_ Optional
+
+### 5.10 **Themenvorlagen**
+
+Die Themen-Vorlagen des Vorlagenprojekts werden kopiert, damit Themen aus den gleichen Vorlagen im neuen Projekt erstellt werden können. _Auswahl:_ Erforderlich, wenn Approval Workflows aktiviert ist, andernfalls optional
+
+### 5.11 **Freigabeworkflows**
+
+Die Approval Workflows des Vorlagenprojekts werden kopiert, damit Mitglieder Genehmigungsanfragen einreichen können, ohne dass zuerst ein Workflow erstellt werden muss. Die Teams, Dokumentstatus und Themen-Vorlagen, die ein Workflow verwendet, werden zusammen mit ihm kopiert, daher funktioniert jede Referenz im Workflow immer noch im neuen Projekt. Deshalb macht das Aktivieren von Approval Workflows Dokumentstatus-Konfiguration und Themen-Vorlagen erforderlich. _Auswahl:_ Optional

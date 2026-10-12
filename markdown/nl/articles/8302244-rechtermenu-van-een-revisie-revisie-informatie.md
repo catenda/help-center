@@ -72,7 +72,7 @@ Als er meerdere pdf-revisies in een document aanwezig zijn, wordt de [PDF-vergel
 
 ### 3.2 **Download**
 
-Klik op het downloadpictogram rechtsboven in het revisiemenu of download in het hamburgermenu naast het downloadpictogram om de huidige revisie te downloaden. _Vereiste toegang:_ Leestoegang tot het document
+Klik op het downloadpictogram rechtsboven in het revisie-menu of klik op downloaden in het hamburgermenu naast het downloadpictogram om de huidige revisie te downloaden. De naam van het gedownloade bestand kan worden beïnvloed door de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze niet zelf aanvragen of wijzigen. _Vereiste toegang:_ Leestoegang tot het document
 
 ### 3.3 **Revisie intrekken**
 
@@ -106,7 +106,7 @@ Het is niet aanbevolen een geïnfecteerde documentrevisie te downloaden. U kunt 
 
 ### 4.3 **Revisienaam**
 
-De revisienaam is de naam die het bestand op het moment van uploaden op het systeem had. Deze naam kan niet worden gewijzigd.
+De [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654) van de revisie.
 
 ### 4.4 **Gepubliceerd door**
 
@@ -154,7 +154,7 @@ Als de nieuwe statusworkflow met gedeelde revisies in plaats van conceptrevisies
 
 ### 6.1 **Download**
 
-Gebruik de downloadactie om de huidige revisie te downloaden. Ongeacht het revisieType kunnen revisies ook via het revisiemenu hieronder worden gedownload. In het [werkruimtetabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de nieuwste gedeelde revisie in het document via de bestaande elementactie gedownload. In het [gepubliceerde tabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de nieuwste gepubliceerde revisie in het document via de bestaande elementactie gedownload. _Vereiste toegang:_ Leestoegang tot het document en selectievakje Gedeelde revisies weergeven is ingeschakeld.
+Gebruik de downloadactie om de huidige revisie te downloaden. De naam van het gedownloade bestand kan worden beïnvloed door de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze niet zelf aanvragen of wijzigen. Ongeacht het revisietypen kunnen revisies ook worden gedownload via het revisiemenu hieronder. In het [werkruimtetabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de laatst gedeelde revisie in het document gedownload via de actie voor bestaande elementen. In het [gepubliceerde tabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de laatst gepubliceerde revisie in het document gedownload via de actie voor bestaande elementen. _Vereiste toegang:_ Leestoegang tot het document en het selectievakje gedeelde revisies weergeven is ingeschakeld.
 
 ### 6.2 **Publiceren**
 

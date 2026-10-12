@@ -10,7 +10,7 @@ _Erforderliche Zugriffsberechtigung:_ Einer der folgenden, unabhängig vom Admin
 - Mitglied eines Reviewer-Teams, das zum Überprüfen eines der Schritte für den ausgewählten Workflow in der Freigabeanfrage konfiguriert ist.
 - Mitglied des Publisher-Teams, das zum Einreichen der endgültigen Freigabe für den ausgewählten Workflow in der Freigabeanfrage konfiguriert ist.
 
-Freigabeanfragen können auf der Seite „Freigaben“ eingereicht werden, und zuvor erstellte Entwürfe von Freigabeanfragen können über ihre Entwurfsseite eingereicht werden. In Projekten, in denen Shared Revisions vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die alte Seite für Freigabeanfragen angezeigt. Ein Projekt kann nur auf Basis eines Vorlagenprojekts erstellt werden, in dem der alte Validierungs-Workflow aktiviert ist.
+eingereicht werden, oder zuvor erstellte Entwürfe von Freigabeanfragen können über ihre Entwurfsseite eingereicht werden. In Projekten, in denen Shared Revisions vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die alte Seite für Freigabeanfragen angezeigt. Auf Vorlagenprojekten basierende Projekte enthalten die Freigabe-Workflows und Topic-Vorlagen dieses Vorlagenprojekts.
 
 ## 1. **Neue Elementaktionen**
 

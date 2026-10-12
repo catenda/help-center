@@ -64,7 +64,7 @@ Une fois la collection finalisée, vous pouvez :
 
 **13. Entrez une date d'expiration pour les Liens partagés**
 
-**14. Partager la collection en externe** Les collections de Documents partagées en externe peuvent être téléchargées par quiconque dispose du lien. Les personnes disposant du lien n'ont pas besoin d'un compte Catenda pour télécharger les fichiers de cette collection.
+**14. Partager la collection en externe** Les collections de documents qui sont partagées en externe peuvent être téléchargées par n'importe qui disposant du lien. Les personnes disposant du lien n'ont pas besoin d'un compte Catenda pour télécharger les fichiers de cette collection. Les fichiers qu'ils téléchargent via le lien public conservent toujours leur [nom de revision](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents#h_01e7f2d654), quelle que soit l'[option de titre de téléchargement de document](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f) définie. Le propriétaire du projet configure cette option pour toute son organisation, de sorte que les Membres ne peuvent pas la demander ou la modifier eux-mêmes.
 
 > **Remarque :** Il est possible de demander que la fonction de partage public soit désactivée. Si vous souhaitez que cette option soit activée, veuillez contacter le support.
 

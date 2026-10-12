@@ -6,7 +6,7 @@ Dies ist ein Beispiel für die Seite einer Freigabeanfrage-Entwurf:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Freigabeanfrage-Entwürfe sind nur für Projekte verfügbar, die gemeinsame Revisionen nach dem 2. Oktober 2025 aktiviert haben. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist.
+Genehmigungsanfragen im Entwurf sind nur für Projekte verfügbar, die gemeinsame Revisionen nach dem 2. Oktober 2025 aktiviert haben. Projekte, die auf einem Template-Projekt basieren, enthalten die Genehmigungs-Workflows und Themen-Vorlagen dieses Template-Projekts.
 
 ## 1. **Neue Elementaktionen**
 

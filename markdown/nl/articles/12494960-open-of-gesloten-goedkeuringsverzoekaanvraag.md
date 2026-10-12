@@ -10,7 +10,7 @@ _Vereiste toegang:_ Een van de volgende ongeacht beheerdersstatus:
 - Lid van een beoordelingsteam dat is geconfigureerd om een van de stappen voor de geselecteerde werkstroom in de goedkeuringsverzoekaanvraag te beoordelen.
 - Lid van het uitgeverstem dat is geconfigureerd om de uiteindelijke goedkeuring voor de geselecteerde werkstroom in de goedkeuringsverzoekaanvraag in te dienen.
 
-Goedkeuringsverzoekaanvragen kunnen op de goedkeuringspagina worden ingediend of eventuele goedkeuringsverzoekconcept dat zij eerder hebben aangemaakt, kunnen worden ingediend van hun goedkeuringsconcept pagina. Projecten waar gedeelde revisies voor 2 oktober 2025 waren ingeschakeld, zien in plaats daarvan de pagina met verouderde goedkeuringsverzoekaanvragen. Het is alleen mogelijk een project op basis van een projectsjabloon te maken als een verouderde validatiewerkstroom is ingeschakeld in die projectsjabloon.
+Goedkeuringsverzoeken kunnen worden ingediend op de pagina goedkeuringen of eerder gemaakte goedkeuringsverzoeken kunnen worden ingediend via hun conceptpagina voor goedkeuring. Projecten waarbij gedeelde revisies vóór 2 oktober 2025 waren ingeschakeld, zien in plaats daarvan de verouderde pagina voor goedkeuringsverzoeken. Projecten die op basis van een templateproject zijn gemaakt, bevatten de goedkeuringswerkstromen en onderwerpssjablonen van dat templateproject.
 
 ## 1. **Nieuwe itemacties**
 

@@ -26,7 +26,7 @@ Totaal aantal projecten per organisatie Projectvervaldatum
 
 ### **Titel voor downloadbare Documenten**
 
-De titel die gedownloade Documenten in deze organisatie hebben.
+De bestandsnaam die gedownloade bestanden krijgen. Dit is de standaard voor nieuwe projecten in de organisatie, en de opties worden beschreven in [Organisatieopties](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f).
 
 ### **Openbaar delen**
 

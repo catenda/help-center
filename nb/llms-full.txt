@@ -1507,7 +1507,7 @@ Hvis din gjeldende plan og tilgang tillater det, kan du opprette et nytt prosjek
 
 Ellers, for å opprette et nytt prosjekt, kontakt Catenda-støtten på [support@catenda.com](mailto:support@catenda.com) eller via chat-knappen. Den sorte chat-knappen finnes øverst til høyre inne i Catenda Hub eller nederst til høyre på hjelpe-/hjemmesidene våre for å oppgradere planen din. Vi vil veilede deg gjennom opprettingen.
 
-Siden for nytt prosjekt kan se omtrent slik ut:
+Dette er hvordan den nye prosjektsiden kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
@@ -1547,69 +1547,82 @@ Innstillingen for dokumentnedlasting som et opprettet prosjekt mottar, er basert
 
 Når innstillingen for dokumentnedlasting for nye prosjekter i en organisasjon endres, brukes denne innstillingen bare på nye prosjekter som opprettes i organisasjonen, og ikke for de eksisterende prosjektene. Det er derfor mulig at det finnes prosjekter i samme organisasjon med ulike innstillinger for dokumentnedlasting.
 
+### 3.3 **Prosjekter opprettet fra et malprosjekt**
+
+Dokumentnedlastingsinnstillingen for et nytt prosjekt er basert på organisasjonen det er opprettet i, ikke på malprosjektet. Den kopieres aldri fra malprosjektet, så det er ikke ett av alternativene når et malprosjekt brukes.
+
 ## 4. **On-demand-funksjoner**
 
-Når et nytt prosjekt opprettes, er opt-in-funksjoner ikke aktivert som standard. Det er mulig å be om at følgende funksjoner aktiveres etter opprettingen av prosjektet:
+Når et nytt prosjekt opprettes, er valgfrie funksjoner ikke aktivert som standard. Det er mulig å be om at følgende funksjon blir aktivert etter opprettelse av prosjekt:
 
-[Objekter-side](https://support.catenda.com/nb/articles/12352750-objektside) [Rapporter-side](https://support.catenda.com/nb/articles/12303098-rapportsside)
+[Rapporter-side](https://support.catenda.com/nb/articles/12303098-rapportsside)
 
 ## 5. **Velg et prosjekt for å bruke som mal**
 
-Du kan velge å arve noen av innstillingene fra et annet prosjekt når du lager et nytt prosjekt. _Påkrevd tilgang:_ Prosjektmedlem
+Merk av for «Bruk et annet prosjekt som mal»-boksen for å arve innstillinger fra et annet prosjekt når du oppretter et nytt prosjekt. _Tilgang påkrevd:_ Prosjektmedlem
 
-### 5.1 **Modeller -** Ingen revisjoner
+Dette er hvordan det kan se ut når et malprosjekt brukes:
 
-Tomme modeller klare til å motta nye revisjoner
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/02-select-a-project-to-use-as-template.png)
+
+Elementer med en lysegrønn avmerkingsboks kopieres alltid og kan ikke fjernes. Merkelapper, milepæler, Teams og sakslister kopieres alltid fra malprosjektet. Elementer med en mørkegrønn avmerkingsboks er valgfrie og kan fjernes.
+
+Noen elementer blir påkrevd når et annet element er merket av, som notatet over listen sier: «Elementer som kreves av ditt utvalg inkluderes automatisk og kan ikke fjernes.» For øyeblikket er den eneste avhengigheten på Gjennomgangsarbeidsflyten. Når Gjennomgangsarbeidsflyten er merket av, blir Dokumentstatuskonfigurasjonen og Saksmaler inkludert automatisk og vises i lysegrønt. Når Gjennomgangsarbeidsflyten er uavmerket, blir Dokumentstatuskonfigurasjonen og Saksmaler valgfrie og vises i mørkegrønt.
+
+### 5.1 **Modeller (uten revisjoner)**
+
+Modellene fra malprosjektet kopieres uten revisjonene, så de er tomme og klare til å motta nye revisjoner. _Valg:_ Valgfritt
 
 ### 5.2 **Merkelapper**
 
-Merkelapper som kan kobles til saker, modeller og dokumenter. Det er nyttig å ha de samme merkelappene i flere prosjekter for analyse med verktøy som PowerBI
+Merkelappene fra malprosjektet kopieres, klare til å kobles til saker, modeller og dokumenter. Det er nyttig å ha de samme merkelappene i flere prosjekter for analyse med verktøy som Power BI. _Valg:_ Obligatorisk
 
-### 5.3 **Milepæler -** Ingen datoer
+### 5.3 **Milepæler (uten datoer)**
 
-Nyttig når du oppretter et nytt prosjekt ved en faseskifte som har de samme milepælene som den forrige.
+Milepælene fra malprosjektet kopieres uten datiene. Dette er nyttig når du oppretter et nytt prosjekt ved en faseskiftning som har de samme milepælene som den forrige. _Valg:_ Obligatorisk
 
-### 5.4 **Teams -** Ingen medlem
+### 5.4 **Teams (ingen medlemmer)**
 
-Teams klare til å motta medlemmer. Tilgang i dokumentstrukturen distribueres også gjennom teams.
+Teams fra malprosjektet kopieres uten medlemmene, klare til å motta medlemmer. Tilgang i dokumentstrukturen distribueres også gjennom Teams. _Valg:_ Obligatorisk
 
-### 5.5 **Sakslister -** Inkludert statuser og typer, men ingen saker
+### 5.5 **Sakslister (inkludert statuser og typer, men ingen saker)**
 
-Tavler som er satt opp og klare til å brukes for kommunikasjon. Tavler kan ligge arkivert til de er klare til å brukes.
+Sakslistene fra malprosjektet kopieres med statusene og typene, men uten saker, så de er satt opp og klare til å brukes for kommunikasjon. Lister kan ligge arkivert til de er klare til å brukes. _Valg:_ Obligatorisk
 
 ### 5.6 **Mappestruktur**
 
-Kopier navn og struktur på malprosjektmappene uten dets dokumenter. _Påkrevd tilgang:_ Full tilgang til malprosjektet
+Navnene og strukturen på mappene i malprosjektet kopieres uten dokumentene. _Tilgang påkrevd:_ Full tilgang til malprosjektet _Valg:_ Valgfritt
 
 ### 5.7 **Dokumentstatuskonfigurasjon**
 
-Offentlige dokumentstatusar kan brukes til å holde oversikt over framgangen til et dokument. Utkast-dokumentstatusar kan brukes til godkjenninger.
+Dokumentstatusene fra malprosjektet kopieres. Offentlige dokumentstatuser kan brukes til å følge fremdriften av et dokument. Utkast-dokumentstatuser kan brukes til gjennomganger. _Valg:_ Obligatorisk når Gjennomgangsarbeidsflyten er merket av, ellers valgfritt
 
-### 5.8 **Innstilling for dokumentnedlasting**
+### 5.8 **Tilgangstyring på sakslister og dokumenter**
 
-Innstillingen for dokumentnedlasting som det opprettede prosjektet mottok, er basert på innstillingen for dokumentnedlasting for nye prosjekter i organisasjonen, og ikke basert på hvilken innstilling for dokumentnedlasting malprosjektet har.
-
-### 5.9 **Tilgangstyring på sakslister og dokumenter**
-
-Dette kopierer tilgangskontroll for følgende alternativer (hvis valgt)
-
-- Mappestruktur
-- Sakslister
-
-_Påkrevd tilgang:_ Full tilgang til malprosjektet
+Tilgangskontroll for mappestrukturen og sakslistene kopieres, for de av de to som er valgt.
 
 Følgende er inkludert:
 
-- Definert tilgang for "Teams". (Hvis teams er valgt)
-- Andre tilgangsinnstillinger. ("Alle brukere", "Eiere" osv...)
+- Definert tilgang for «Teams"
+- Andre tilgangsinnstillinger, for eksempel «Alle brukere» og «Eiere»
 
 Følgende er ikke inkludert:
 
 - Definert tilgang for "Brukere"
 
-### 5.10 **Egendefinierte felt og navnekonvensjoner**
+Når dette alternativet er uavmerket, får det nye prosjektet standardtilgangen i stedet. Det er standardtilgangen for roten av dokumentene, som finnes i dokumentinnstillingene, og standardtilgangen for standardsakslisten. _Tilgang påkrevd:_ Administrator eller eier av malprosjektet _Valg:_ Valgfritt
 
-Egendefinierte felt kan vises i saker og brukes i navnekonvensjoner.
+### 5.9 **Egendefinerte felt, navnekonvensjoner og QR-kode**
+
+[Mappeinnstillingene](https://support.catenda.com/nb/articles/12302595-mappekonfigurasjon-dokumentinnstillinger) fra malprosjektet kopieres: egendefinerte felt, navnekonvensjoner og QR-kodestemplingsinnstillinger. Egendefinerte felt kan vises i problemer og brukes i navnekonvensjoner. _Valg:_ Valgfritt
+
+### 5.10 **Saksmaler**
+
+Saksmalene fra malprosjektet kopieres, slik at saker kan opprettes fra de samme malene i det nye prosjektet. _Valg:_ Obligatorisk når Gjennomgangsarbeidsflyten er merket av, ellers valgfritt
+
+### 5.11 **Gjennomgangsflyter**
+
+Gjennomgangsarbeidsflytene fra malprosjektet kopieres, slik at medlemmer kan begynne å sende inn gjennomgangsforespørsler uten at en arbeidsflyt blir opprettet først. Teams, dokumentstatuser og saksmaler som en arbeidsflyt bruker, kopieres sammen med den, slik at hver referanse i arbeidsflyten fortsatt fungerer i det nye prosjektet. Dette er grunnen til at det å merke av for Gjennomgangsarbeidsflyten gjør Dokumentstatuskonfigurasjonen og Saksmalene obligatoriske. _Valg:_ Valgfritt
 
 # Opprette et team
 
@@ -1675,25 +1688,45 @@ Kontakt [sales@catenda.com](mailto:sales@catenda.com) for spørsmål om planen d
 
 ### 3.1 Alternativ for dokumentnedlastingstittel
 
-Hvis du laster ned et enkelt dokument, vil filnavnet alltid være det opprinnelige filnavnet. Hvis du laster ned flere dokumenter, vil filnavnene være navnene på dokumentene.
+Alternativet for nedlastingsnavn på dokument bestemmer hvilket filnavn en nedlastet fil får. Du kan la filen beholde sitt [revisjonsnavn](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654), eller du kan bruke navnet på dokumentet i Catenda. Dette kan være nyttig i kombinasjon med navnekonvensjonen, og for å overskrive dokumenter som har samme navn i stedet for med et annet revisjonsnummer hver gang.
 
-Med dette alternativet kan du konfigurere hvilket filnavn du får når du laster ned flere dokumenter. Dette kan være nyttig i kombinasjon med navngivningskonvensjonen og for å overskrive dokumenter som har samme navn i stedet for med et annet revisjonsnummer hver gang.
+Alternativet er ett av standardalternativene for nye prosjekter. Når organisasjonen endrer det, gjelder endringen bare for prosjekter som opprettes etterpå. Eksisterende prosjekter beholder innstillingen de allerede har.
 
 **Eksempel:** Navnet på prosjektet er _testproject._ To filer lastes opp med to revisjoner hver: _test01.pdf_ og _test02.pdf_ Navnene på dokumentene blir deretter endret til: _changed01.pdf_ og _changed02.pdf_
 
-Standardnedlastingsatferd: Hvis du laster ned disse dokumentene ett for ett, vil de alltid være navngitt _test01.pdf_ og _test02.pdf_ Hvis du laster ned begge disse dokumentene samtidig, vil de som standard kalles _changed01.pdf_ og _changed02.pdf_ Dette er hva som kan endres med følgende alternativer:
+**Alternativer:** Alternativene nedenfor bestemmer hva disse to filene kalles når du laster dem ned.
 
-**Alternativer:**
+**Revisjonsnavn** \<Revisjonsnavn>.\<Filtype> _test01.pdf_ og _test02.pdf_
 
-**Revisjonfilnavn** Merk at dette er det samme som når du laster ned en enkelt fil, så navnene vil være konsistente hvis du velger dette alternativet. \<Opprinnelig filnavn>.\<Filtype> _test01.pdf_ og _test02.pdf_
-
-_Dokumenttittel_ - standard \<Dokumentnavn>.\<Filtype> _changed01.pdf_ og _changed02.pdf_
+**Dokumenttittel** \<Dokumentnavn>.\<Filtype> _changed01.pdf_ og _changed02.pdf_
 
 **Dokumenttittel med revisjonsnummer** \<Dokumentnavn>\<Revisjonsnummer>.\<Filtype> _changed01.pdf #2_ og _changed02.pdf #2_
 
 **Prosjekttittel med dokumenttittel og revisjonsnummer** \<Prosjektnavn>\<Dokumentnavn>\<Revisjonsnummer>.\<Filtype> _testproject changed01.pdf #2_ og _testproject changed02.pdf #2_
 
-### 3.2 **Nedlasting av infiserte dokumenter**
+### 3.2 Hvor alternativet gjelder
+
+Alternativet gjelder når du laster ned en enkelt fil og når du laster ned flere filer samtidig. Det gjelder for dokumenter som lastes ned fra Dokumenter-delen og for modeller som lastes ned fra Modeller-delen. Det gjelder også når du klikker **Last ned samling** på samlings-siden.
+
+### 3.3 Unntak fra alternativet
+
+Noen få nedlastinger ignorerer alternativet.
+
+**Offentlige lenker** Hvis du deler en samling med en offentlig lenke, laster personen som åpner lenken ned fra Catenda Transfer-siden. Filene de laster ned beholder alltid revisjonsnavnet sitt.
+
+**Merknadsverktøylinje** Når du laster ned fra handlingsmenyen i merknadverktøylinjen i forhåndsvisningen av dokumentet, får filen alltid revisjonsnavnet, uavhengig av hva alternativet er satt til. Hvis du velger **Lagre som** i samme meny, kan du skrive inn filnavnet du ønsker.
+
+### 3.4 Utfordringer med alternativet
+
+To prosjekter i samme organisasjon kan navngi samme fil forskjellig. Alternativet er bare en standard for nye prosjekter, så et prosjekt opprettet før alternativet ble endret beholder sin gamle innstilling.
+
+Samme dokument kan også få forskjellige navn avhengig av hvor du laster det ned. Merknadverktøylinjen og offentlige lenker bruker alltid revisjonsnavnet, mens de andre nedlastingene følger alternativet.
+
+Hvis du velger et alternativ som bruker dokumentnavnet, avhenger filnavnet av dokumentnavnet i Catenda. Når en ny revisjon lastes opp og dokumentnavnet ikke oppdateres, kan den nedlastede filen mangle informasjon som var i revisjonsnavnet. Dette er grunnen til at noen organisasjoner beholder alternativet **Revisjonsnavn**.
+
+Med alternativet **Revisjonsnavn** beholder en fil som ble lastet opp med et uklart navn det navnet når den lastes ned.
+
+### 3.5 **Nedlasting av infiserte dokumenter**
 
 Karantenebehandling for infiserte filer i eide prosjekter. Hvis et dokument blir funnet infisert, kan det som standard lastes ned. Brukeren vil få en advarsel om at dette dokumentet inneholder et virus. Et alternativ kan settes per organisasjon som gjør at ingen, ikke engang administratorer, vil være i stand til å laste ned infiserte dokumenter.
 
@@ -1701,13 +1734,13 @@ Karantenebehandling for infiserte filer i eide prosjekter. Hvis et dokument blir
 
 **Blokker nedlasting**
 
-### 3.3 **Modeller som dokumenter**
+### 3.6 **Modeller som dokumenter**
 
 Hvis denne funksjonen er aktivert, vil alle nye prosjekter som opprettes i organisasjonen ha [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)-funksjonen aktivert.
 
 > **Merknad:** 24. november: Denne funksjonen vil bli aktivert for alle nye organisasjoner. Vi vil støtte den gamle visningen i ca. ett år før alle prosjekter blir migrert.
 
-### 3.4 **Alternativ for dokumentopplastingsutkast**
+### 3.7 **Alternativ for dokumentopplastingsutkast**
 
 Hvis godkjenningsflyt har blitt aktivert og det er utkaststatuser i dokumentinnstillinger, er avmerking for opplasting som utkast merket som standard ved dokumentopplasting. På forespørsel kan denne avmerkingen settes til å være uavmerket som standard for alle prosjekter i en organisasjon.
 
@@ -1789,7 +1822,7 @@ Totalt antall prosjekter per organisasjon Utløpsdato for prosjekter
 
 ### **Tittel for nedlastede dokumenter**
 
-Tittelen som nedlastede dokumenter i denne organisasjonen har.
+Filnavnet som nedlastede filer får. Dette er standarden for nye prosjekter i organisasjonen, og alternativene er beskrevet i [Organisasjonsalternativer](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f).
 
 ### **Offentlig deling**
 
@@ -3892,7 +3925,7 @@ Knappen for verdikonvertering vises i popup-menyen når du høyreklikker på pre
 
 # Arbeidsflytsside - Dokumentinnstillinger
 
-Arbeidsflytsiden finnes ved å klikke på knappen Konfigurer arbeidsflyter i menyen Gjennomganger på [siden for dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) i prosjekter der den nye valideringsarbeidsflyten er bedt aktivert og delte statuser er aktivert i statusarbeidsflytsmenyen for [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger). Den nye valideringsarbeidsflyten er en funksjon etter forespørsel som kan aktiveres når du starter et nytt prosjekt. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet. På arbeidsflytsiden kan arbeidsflyter for ulike gjennomgangskonfigurasjoner konfigureres. _Tilgang kreves:_ Administrator
+Siden for arbeidsflyter finner du ved å klikke på knappen for konfigurering av arbeidsflyter i menyen for gjennomganger på [siden for dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) i prosjekter der den nye valideringsarbeidsflyten er aktiv og delte statuser er aktivert i statusarbeidsflytmenyen for [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger). Den nye valideringsarbeidsflyten er aktiv i alle nye prosjekter. Prosjekter som bruker en eldre versjon av valideringsarbeidsflyten kan be om overføring til den nye valideringsarbeidsflyten fra støtte. På siden for arbeidsflyter kan arbeidsflyter for ulike godkjenningskonfigurasjoner konfigureres. _Tilgang kreves:_ Administrator
 
 Arbeidsflytsiden kan se slik ut:
 
@@ -3902,7 +3935,7 @@ Følgende saker vil bli beskrevet i denne artikkelen:
 
 _[Nye elementhandlinger](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_d0f4a44fb7) - [Søk eller filtrer](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_bbf4dcad58) - [Høyre meny](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_fc89aaa1fe) - [Tabell](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_54e8dfcac2) - [Undersider](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_5751ccd2b7)_
 
-Selv om arbeidsflytsiden er en underside til gjennomgangssiden som framgår av at gjennomgangssiden er uthevet og brødsmulen øverst, er siden bare tilgjengelig fra gjennomgangsmenyen i dokumentinnstillinger.
+Selv om siden for arbeidsflyter er en underside av siden for gjennomganger, noe som fremgår av at siden for gjennomganger er markert og av brødsmulene øverst, er siden kun tilgjengelig fra menyen for gjennomganger i dokumentinnstillinger.
 
 ## 1. **Nye elementhandlinger**
 
@@ -3969,6 +4002,10 @@ Opprettet av - _Standard_ Medlemmet som opprettet arbeidsflyten.
 Opprettet den - _Standard_ Dato og tid da arbeidsflyten ble opprettet
 
 Status - _Standard_ Status for arbeidsflyten
+
+## 4. **Arbeidsflyter fra et malprosjekt**
+
+Prosjekter som er opprettet basert på et malprosjekt, inkluderer godkjenningsarbeidsflyter og sakmaler fra malprosjektet. Disse arbeidsflytene er oppført i arbeidsflytstabellen i det nye prosjektet. Klikk [her](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) for å lese mer om å opprette et prosjekt basert på et malprosjekt.
 
 # Arkivsystemer og prosjektnumre i arkiveringsportalen
 
@@ -6150,9 +6187,9 @@ Klikk fullskjermknappen til høyre for høyre informasjonsmenyknapp for å se do
 
 Dokumenter kan lastes ned med handlingsknappen øverst til høyre, med nedlastingsknappen i revisjonsmenyden i høyre informasjonsmeny, ved å velge det i dokumentlisten og laste det ned, eller fra forhåndsvisningsdialogen.
 
-**Høyre informasjonsmeny** Du finner nedlastingshandlingsknappen i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8345396-hoyremeny-pa-dokumentsiden). Nedlasting av dokumentet herfra gir deg alltid den opprinnelig opplastede filen. Hvis du velger ett dokument, får du den siste revisjonen som en fil med revisjonsnavnet. Hvis du velger mer enn ett dokument, får du de siste revisjonene av de valgte dokumentene i en zip-fil med dokumentnavnet og revisjonsnummeret.
+**Høyre informasjonsmeny** Du vil kunne finne nedlastingsknappen i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8345396-hoyremeny-pa-dokumentsiden). Nedlasting av dokumentet herfra vil alltid gi deg den opprinnelig opplastede filen. Hvis du velger ett dokument, får du den siste revisjonen som en fil. Hvis du velger mer enn ett dokument, får du de siste revisjonene av de valgte Dokumentene i en zip-fil. Navn på nedlastede filer kan påvirkes av [nedlastingstitelalternativet for dokumenter](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Projekteieren konfigurerer dette alternativet for hele organisasjonen, så Medlemmer kan ikke be om eller endre det selv.
 
-**Dokumentforhåndsvisning** Hvis dokumentet ditt kan forhåndsvises, finner du Lagre som-knappen i hamburgermenyen øverst til venstre på dokumentforhåndsvisningen. Med Lagre som-menyen kan du laste ned dokumentet ditt med merknader og kommentarer.
+**Dokumentforhåndsvisning** Hvis dokumentet ditt kan forhåndsvises, vil du kunne finne Lagre som-knappen i hamburgermenyen øverst til venstre i forhåndsvisningen av Dokumenter. Med Lagre som-menyen kan du laste ned dokumentet ditt med merknader og kommentarer. I dialogboksen Lagre som angir du filnavnet du ønsker. Nedlastingshandlingen i samme meny gir alltid filen [revision-navnet](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654), uavhengig av hva [nedlastingstitelalternativet for dokumenter](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f) er satt til.
 
 ### 6.2 **Dokumentegenskaper**
 
@@ -6448,7 +6485,7 @@ Slik kan gjennomgangsmenyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-Gjennomgangsmenyen er bare tilgjengelig i prosjekter der den nye valideringarbeidsflyten har blitt forespurt aktivert. Den nye valideringarbeidsflyten er en on-demand-funksjon som kan forespørres aktivert for nye prosjekter. Nye prosjekter som er opprettet basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
+Gjennomgangmenyen er bare tilgjengelig i prosjekter der den nye valideringsarbeidsflyten er aktiv. Den nye valideringsarbeidsflyten er aktiv i alle nye prosjekter. Prosjekter som bruker en eldre versjon av valideringsarbeidsflyten kan be om overføring til den nye valideringsarbeidsflyten fra support. Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmalene til det malprosjektet.
 
 ### 3.1 **Konfigurer arbeidsflyter**
 
@@ -8485,7 +8522,7 @@ Gjennomgangssiden er skjult som standard. Aktiver delte revisjoner i [dokumentin
 
 ### 1.1 **Aktiver fra malprosjekt**
 
-Prosjekter opprettet basert på et malprosjekt der delte statuser ble aktivert, vil ha delte statuser aktivert og gjennomgangssiden vil vises ved opprettelse. Arbeidsflyter overføres ikke fra prosjekt til prosjekt, så i et nytt prosjekt må en arbeidsflyt opprettes for at medlemmer skal kunne begynne å sende inn gjennomgangsforespørsler.
+Prosjekter som er opprettet basert på en malprosjekt der delt status var aktivert, vil ha delt status aktivert og godkjenningssiden vil vises ved opprettelse. Godkjenningsarbeidsflyten og saksmaler fra malprosjektet overføres til det nye prosjektet, slik at de ikke trenger å opprettes på nytt før medlemmer kan begynne å sende inn godkjenningsforespørsler.
 
 ## 2. **Nye varhandlinger**
 
@@ -8859,7 +8896,7 @@ Med Last ned-handlingen kan valgte elementer og deres innhold lastes ned ved å 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Motta et enkelt dokument med en dokumentrad valgt. Motta en zip-fil som inneholder innholdet i valget når en mapperay eller flere rader er valgt. _Nødvendig tilgang:_ Full tilgang til dine valgte dokument(er) og/eller mappe(r)
+Motta et enkelt dokument når en dokumentrad er valgt. Motta en zip-fil som inneholder innholdet i utvalget når en mapperadå eller flere rader er valgt. Navnene på de nedlastede filene kan påvirkes av [dokumentnedlastingstiteloppgaven](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Prosjekteieren konfigurerer dette alternativet for hele organisasjonen, så prosjektmedlemmer kan ikke be om eller endre det selv. _Påkrevd tilgang:_ full tilgang til valgte dokument(er) og/eller mappe(r)
 
 **Oppdage dokumenter** Når du trykker på Last ned-knappen, åpnes en dialogboks nedover til venstre på siden. Først vil systemet begynne å oppdage de ulike filene for nedlasting. Slik kan dialogboksen for Klargjør nedlasting se ut:
 
@@ -9328,7 +9365,7 @@ Hvis flere PDF-revisjoner finnes i et dokument, vises [PDF-sammenligningshandlin
 
 ### 3.2 **Last ned**
 
-Klikk på nedlastingsikonet øverst til høyre i revisjonmenyen eller last ned i hamburgermenyen ved siden av nedlastingsikonet for å laste ned gjeldende revisjon. _Nødvendig tilgang:_ Lesetilgang til dokumentet
+Klikk på nedlastingsikonet øverst til høyre på revisjonmenyen eller nedlasting i hamburgemenyen ved siden av nedlastingsikonet for å laste ned gjeldende revisjon. Navnet på den nedlastede filen kan påvirkes av [alternativet for dokumentnedlastingstittel](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Prosjekteieren konfigurerer dette alternativet for hele organisasjonen sin, slik at prosjektmedlemmer ikke kan be om eller endre det selv. _Tilgang påkrevd:_ Lesestatus til dokumentet
 
 ### 3.3 **Trekk tilbake revisjon**
 
@@ -9362,7 +9399,7 @@ Det anbefales ikke å laste ned en dokumentrevisjon som er infisert. Du vil ikke
 
 ### 4.3 **Revisjonsnavn**
 
-Revisjonsnavnet er navnet som filen hadde på systemet da den ble lastet opp første gang. Dette navnet kan ikke endres.
+[Revisjonsnavn](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654) på revisjonen.
 
 ### 4.4 **Publisert av**
 
@@ -9410,7 +9447,7 @@ Hvis den nye statusarbeidsflyten med delte revisjoner i stedet for utkastrevisjo
 
 ### 6.1 **Last ned**
 
-Bruk nedlastingshandlingen for å laste ned gjeldende revisjon. Uavhengig av revisjonstype, kan revisjoner også lastes ned via revisjonmenyen nedenfor. I [arbeidsplassfanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste delte revisjonen i dokumentet ned via handlingen for eksisterende element. I [publisert fanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste publiserte revisjonen i dokumentet ned via handlingen for eksisterende element. _Nødvendig tilgang:_ Lesetilgang til dokumentet og avkrysningsmerkeutsendelse for vising av delte revisjoner.
+Bruk nedlastingshandlingen for å laste ned gjeldende revisjon. Navnet på den nedlastede filen kan påvirkes av [alternativet for dokumentnedlastingstittel](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Prosjekteieren konfigurerer dette alternativet for hele organisasjonen sin, slik at prosjektmedlemmer ikke kan be om eller endre det selv. Uavhengig av revisjontype kan revisjoner også lastes ned via revisjonmenyen nedenfor. I [arbeidsstedfanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste delte revisjonen i dokumentet ned via den eksisterende elementhandlingen. I [publisert fanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste publiserte revisjonen i dokumentet ned via den eksisterende elementhandlingen. _Tilgang påkrevd:_ Lesestatus til dokumentet og avmerkingsboksen for visning av delte revisjoner er merket av.
 
 ### 6.2 **Publiser**
 
@@ -9714,7 +9751,7 @@ Når samlingen er fullført, kan du:
 
 **13. Angi en utløpsdato for delte lenker**
 
-**14. Del samlingen eksternt** Dokumentsamlinger som deles eksternt kan lastes ned av alle med lenken. Personer med lenken trenger ikke en Catenda-konto for å laste ned filene fra denne samlingen.
+**14. Del samlingen eksternt** Dokumentsamlinger som deles eksternt kan lastes ned av alle som har lenken. Personer med lenken trenger ikke en Catenda-konto for å laste ned filer fra denne samlingen. Filene de laster ned gjennom den offentlige lenken beholder alltid sitt [revisjonsnavn](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654), uavhengig av hva [alternativet for dokumentnedlastingstitel](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f) er satt til. Prosjekteieren konfigurerer dette alternativet for hele organisasjonen sin, så medlemmene av prosjektet kan ikke be om eller endre det selv.
 
 > **Merk:** Det er mulig å be om at den offentlige delingsfunksjonen deaktiveres. Hvis du ønsker at dette alternativet skal være aktivert, kontakt støtten.
 
@@ -11256,13 +11293,27 @@ Hvis du holder musepekeren over navnekolonnen, vil du se at et rutenett av prikk
 
 Hvis du holder musepekeren over dette, vil du se musepekeren endre seg til en hånd. Hvis du drar dette rutenett-ikonet, vil du kunne flytte de valgte filene/mappene til en annen mappe.
 
-## 5. **Revisjon** - Standard 1 panel
+## 5. **Revisjoner**
 
-Antallet offentlige og/eller utkastrevisjoner i dokumentet. Hver revisjon kan ha sitt eget revisjonsnavn, opprettelsesdato, filstørrelse og eier.
+Hver revisjon kan ha sitt eget revisjonsnavn, opprettelsesdato, filstørrelse og eier.
 
-### 5.1 **Revisjonsnavn**
+### 5.1 **Revisjon** - Standard 1 panel
 
-Navnet på den nyeste offentlige dokumentrevisjonen. Dette er navnet på filen som opprinnelig ble lastet opp og kan ikke endres. Fordi det kan være flere revisjoner i et dokument, kan dette navnet være forskjellig fra dokumentnavnet som er samlenavn for alle revisjonene i dokumentet.
+Antallet revisjoner i dokumentet. Revisjoner vises med en grønn hake og et helt tall 1, 2, 3, osv...
+
+**Delte revisjoner** Hvis delte revisjoner har blitt aktivert i dokumentstatusseksjonen i dokumentinnstillinger, vil nye opplastinger i arbeidsplass-fanen vises med et hoved- og et birnummer som 0.1, 0.2, 1.1, osv... Hvis den siste revisjonen er en publisert revisjon, vises den som et helt tall. I den publiserte fanen vises den siste publiserte revisjonen alltid med sitt hele tall uavhengig av om det er en nyere delt revisjon eller ikke.
+
+**Utkastrevisjoner - Legacy** I den gamle visningen er antallet utkastrevisjoner etter den siste publiserte revisjonen oppført.
+
+### 5.2 **Revisjonsnavn**
+
+Navnet på den siste offentlige revisjonen i dokumentet.
+
+Revisjonsnavnet er navnet filen fikk når den ble lastet opp. Dette er vanligvis det opprinnelige filnavnet, men navnet kan endres i [opplastingsdialogen](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument#h_00fa77db3e) før filen lastes opp. Etter opplasting kan revisjonsnavnet ikke endres.
+
+Dokumentnavnet deles av alle revisjoner i dokumentet, så det kan være ulikt fra revisjonsnavnet.
+
+Når du laster ned en fil, bestemmer [dokumentets nedlastingstittel-alternativ](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f) om filen får revisjonsnavnet eller et navn basert på dokumentnavnet.
 
 > **Merk:** Revisjonsnavnet kan være forskjellig fra dokument- eller modellnavn.
 
@@ -12623,7 +12674,15 @@ Klikk [her](https://support.catenda.com/nb/articles/6707924-quantity-take-off-qt
 
 ## 5. **Objektside**
 
-Søk i hvilket som helst innhold fra IFC-filen din med logikk. Objektsiden er en on-demand-funksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt hvor denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
+[Objektsiden](https://support.catenda.com/nb/articles/12352750-objektside) utfører en lignende oppgave som QTO-menyen: den viser rader med informasjon om objektene i modellene dine. De to fungerer i motsatte retninger, og de er forskjellige når det gjelder hvor mye de kan eksportere.
+
+### 5.1 **Finne objekter**
+
+QTO-menyen er dynamisk og oppdateres med objektene som er valgt i 3D-visningen eller treepanelet. Objektsiden fungerer på den andre måten. Søk i innholdet fra IFC-en din med logikk for å finne objekter med filtre, og last deretter inn objektene som ble funnet i 3D-visningen. Bruk det valgte filteret på objektsiden for å få et resultat som ligner på QTO-menyen.
+
+### 5.2 **Eksporter**
+
+Både QTO-menyen og objektsiden kan eksporteres til Excel. På objektsiden eksporteres bare de aktiverte kolonnene, slik at kolonnene i den eksporterte filen kan begrenses ved å slå kolonner på og av i produkttabellen. Objektsiden kan også håndtere et mye større antall celler enn QTO-menyen, noe som er viktig fordi objekter ofte genererer mange celler (se [objekttelling](#object-count)).
 
 # Merkelappersiden
 
@@ -13356,7 +13415,7 @@ Med publiseringshandlingen kan den siste delte revisjonen publiseres. Tidligere 
 
 ### 2.4 **Last ned siste revisjon**
 
-Hvis du har tilgang til å laste ned modeller, kan du klikke på nedlastingsknappen. Dette gjør at du kan laste ned den siste revisjonen av en modell som en ifc-fil. Hvis du leter etter en tidligere revisjon av denne modellen, vennligst til [modellsiden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside) _Påkrevd tilgang:_ Tilgang til minst én dokumentmodell i modellsdelen.
+Hvis du har tilgang til nedlasting av modeller, kan du klikke på nedlastingsknappen. Dette lar deg laste ned den siste revisjonen av en modell som en ifc-fil. Navnet på den nedlastede filen kan påvirkes av [alternativet for dokumentnedlastingstittel](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Projekteieren konfigurerer dette alternativet for hele organisasjonen, så prosjektmedlemmer kan ikke be om eller endre det selv. Hvis du ser etter en tidligere revisjon av denne modellen, gå til [modellsiden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside) _Tilgang kreves:_ Tilgang til minst ett dokument-model i modelldelen.
 
 ### 2.5 **Ny revisjon**
 
@@ -14418,25 +14477,29 @@ Rapportmaler er konfigurert på rapportmal-siden. _Lagring av rapporttilgang kre
 
 # Opprette en ny arbeidsflyt
 
-Den nye arbeidsflytsiden kan åpnes ved å klikke på den grønne plussknappen på [arbeidsflytsiden](https://support.catenda.com/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger) eller ved å klikke på handlingen i menyen for nye elementer på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon). Det er bare mulig å opprette nye arbeidsflyter i prosjekter der den nye valideringsarbeidsflyten har blitt forespurt aktivert. Den nye valideringsarbeidsflyten er en on-demand-funksjon som kan forespørres aktivert når du starter et nytt prosjekt. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet. Dette er hva titteldelen av en ny gjennomgang kan se ut som:
+Den nye arbeidsflytside kan åpnes ved å klikke på den grønne plusknappen på [arbeidsflytsiden](https://support.catenda.com/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger) eller ved å klikke på handlingen i menyen for nye elementer på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon). Det er bare mulig å opprette nye arbeidsflyter i prosjekter der den nye valideringsarbeidsflyten er aktiv. Den nye valideringsarbeidsflyten er aktiv i alle nye prosjekter. Prosjekter som bruker en eldre versjon av valideringsarbeidsflyten kan be om en migrering til den nye valideringsarbeidsflyten fra kundestøtte. Slik kan titteldelennof en ny gjennomgang se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
-## 1. **Tittel**
+## 1. **Arbeidsflyter fra malprosjekt**
+
+En arbeitsflyt trenger ikke alltid å bli opprettet fra bunnen av. Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangenes arbeidsflyterene og saktemplater fra det malprosjektet. Klikk [her](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) for å lese mer om opprettelse av et prosjekt basert på et malprosjekt.
+
+## 2. **Tittel**
 
 Skriv inn navnet på arbeidsflyten. Dette er den eneste delen av arbeidsflyten som kan redigeres etter at den har blitt sendt inn.
 
-### 1.1 **Påkrevd**
+### 2.1 **Påkrevd**
 
 En tittel må oppgis for å kunne sende inn en arbeitsflyt.
 
-### 1.2 **Innhold av gjennomgang**
+### 2.2 **Innhold av gjennomgang**
 
 Dette er hva innholdet av en ny gjennomgang kan se ut som:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/02-approval-contents.png)
 
-## 2. **Tidsinnstillinger**
+## 3. **Tidsinnstillinger**
 
 Teammedlemmer vil ha en begrenset mengde arbeidsdager til å vurdere dokumenter i vurderingstrinn der teamet deres har blitt satt som et vurderingsteam. Dette er hva tidsinnstillingene for en ny gjennomgangsarbeitsflyt kan se ut som:
 
@@ -14444,13 +14507,13 @@ Teammedlemmer vil ha en begrenset mengde arbeidsdager til å vurdere dokumenter 
 
 Tiden som er konfigurert i tidsinnstillinger er tiden for når arbeidsdagen skal begynne og slutte for hver av disse arbeidsdagene. Konfigurer tidsinnstillingene for å samsvare med teammedlemmene hvis team er satt som vurderingsteam for vurderingstrinn i denne arbeidsflyten. Teammedlemmer vil kunne sende inn sin vurdering innenfor det gitte tidsrommet basert på antall arbeidsdager og tiden som er konfigurert i dette feltet.
 
-_Eksempel på hvordan tidsinnstillinger kan vurderes:_ Innsendelser kan dateres basert på disse tidspunktene. En innsendelse kl. 02.00 tilhører forrige dag hvis tidsinnstillingen er satt til kl. 06.00.
+**Eksempel på hvordan tidsinnstillinger kan vurderes:** Innsendelser kan dateres basert på disse tidspunktene. En innsendelse kl. 02.00 tilhører forrige dag hvis tidsinnstillingen er satt til kl. 06.00.
 
-### 2.1 **Starttid**
+### 3.1 **Starttid**
 
 Velg mellom en verdi fra 01 til 24 basert på 24-timersklokken, ellers kjent som militærtid.
 
-### 2.2 **Valgt tidssone**
+### 3.2 **Valgt tidssone**
 
 Standardtidssonen er tidssonen som er konfigurert i operativsystemet ditt. Dette er hva et valgt listelement for tidssone kan se ut som.
 
@@ -14464,13 +14527,13 @@ Den første delen av det valgte tidssone-listementelementet kan vise:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/05-selected-timezone.png)
 
-### 2.3 **GMT-offset**
+### 3.3 **GMT-offset**
 
 Den andre delen av det valgte tidssone-listeelementet viser gjeldende GMT-offset for det valgte tidssone-listeelementet.
 
 Gjeldende tidssone for tidssone-listeelementet vises. Hvis GMT-offset for en geografisk plassering endres til for eksempel sommer- eller vintertid, endres også GMT-offsetet som vises for disse geografiske plasseringene.
 
-### 2.4 **Velge et element i tidssone-rullegardinmenyen**
+### 3.4 **Velge et element i tidssone-rullegardinmenyen**
 
 Klikk på det valgte tidssone-listeelementet for å åpne tidssone-rullegardinmenyen. Dette er hva tidssone-rullegardinmenyen kan se ut som:
 
@@ -14478,7 +14541,7 @@ Klikk på det valgte tidssone-listeelementet for å åpne tidssone-rullegardinme
 
 Som standard kan et listelement sees for hvert trettisekundet tidssone-offset-intervall som har en aktiv tidssone i tidssone-rullegardinmenyen.
 
-_Beskrivelse av tidssone-listelement_ Den første delen av tidssone-listeelementer kan vise:
+**Beskrivelse av tidssone-listelement** Den første delen av tidssone-listeelementer kan vise:
 
 - En tidssoneforkortelse
 
@@ -14488,7 +14551,7 @@ _Beskrivelse av tidssone-listelement_ Den første delen av tidssone-listeelement
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/08-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-_Navn på tidssone-listelement_ Den andre delen av et tidssone-listelement kan vise:
+**Navn på tidssone-listelement** Den andre delen av et tidssone-listelement kan vise:
 
 - Et tidssonenavn.<br>For geografiske steder hvor tidssonen er den samme hele året.
 
@@ -14498,7 +14561,7 @@ _Navn på tidssone-listelement_ Den andre delen av et tidssone-listelement kan v
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/10-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-_Type tidssone-listelement_ Den siste delen av tidssone-listeelementer kan vise:
+**Type tidssone-listelement** Den siste delen av tidssone-listeelementer kan vise:
 
 - En tidssoneforkortelse
 
@@ -14508,7 +14571,7 @@ _Type tidssone-listelement_ Den siste delen av tidssone-listeelementer kan vise:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/12-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-_Søk i tidssone-rullegardinmenyen_ Søk etter en geografisk plassering for å finne alle tidssone-listeelementer for den plasseringen. Hvis det er et samsvar, er plasseringen inkludert. Den er ikke alltid oppført som vist nedenfor.
+**Søk i tidssone-rullegardinmenyen** Søk etter en geografisk plassering for å finne alle tidssone-listeelementer for den plasseringen. Hvis det er et samsvar, er plasseringen inkludert. Den er ikke alltid oppført som vist nedenfor.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/13-selecting-a-list-element-in-the-timezone-dropdown.png)
 
@@ -14532,47 +14595,47 @@ Eller tidssoneforkortelsen:
 
 Siden noen tidssoner har en GMT-offset som type, er det ofte bedre å søke etter fullt tidssonenavn i stedet for tidszoneforkortelsen. Bare tidssoner som er aktive for øyeblikket vises, så for tidssoner som endres for geografiske plasseringer kan bare tidssonen som er aktiv for den geografiske plasseringen for øyeblikket bli funnet.
 
-## 3. **Innsendere**
+## 4. **Innsendere**
 
 Velg hvilke teammedlemmer i sluttgjennomgangsteamet som vil se i listen over team de kan velge fra når de velger et innsenderstesystem for en gjennomgang med denne arbeidsflyten. Dette er hva innsenderdelen av en ny gjennomgangsarbeitsflyt kan se ut som:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/18-submitters.png)
 
-_Velge et team som arbeidsflytskaper er en del av_ Hvis arbeitsflytskaper vil være den som sender inn denne typen arbeitsflyter, er det viktig at et team som arbeitsflytskaper er en del av, blir lagt til som et innsenderstesystem.
+**Velge et team som arbeidsflytskaper er en del av** Hvis arbeitsflytskaper vil være den som sender inn denne typen arbeitsflyter, er det viktig at et team som arbeitsflytskaper er en del av, blir lagt til som et innsenderstesystem.
 
-_Velge et tomt team_ Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
+**Velge et tomt team** Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
 
-_Velge et team med ett medlem_ Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
+**Velge et team med ett medlem** Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
 
 > **Merk:** Det er bare mulig å velge team og ikke individuelle medlemmer
 
-### 3.1 **Påkrevd**
+### 4.1 **Påkrevd**
 
 Minst en innsender må velges for å kunne sende inn arbeidsflyten.
 
-## 4. **Vurderingstrinn**
+## 5. **Vurderingstrinn**
 
 Bygg en flertrinns gjennomgangsprosess. Dette er hva vurderingstrinn-delen av en ny gjennomgangsarbeitsflyt kan se ut som:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
-### 4.1 **Trinntall**
+### 5.1 **Trinntall**
 
-_Ingen trinn_ Selv om det er mulig å opprette en arbeitsflyt uten trinn ved å slette alle trinn, vil det ikke være mulig å opprette en gjennomgang med denne arbeidsflyten da det må være minst ett trinn for å kunne sende inn en gjennomgang.
+**Ingen trinn** Selv om det er mulig å opprette en arbeitsflyt uten trinn ved å slette alle trinn, vil det ikke være mulig å opprette en gjennomgang med denne arbeidsflyten da det må være minst ett trinn for å kunne sende inn en gjennomgang.
 
-_Maksimalt antall trinn_ Det maksimale antallet trinn som en arbeitsflyt kan ha, er 10.
+**Maksimalt antall trinn** Det maksimale antallet trinn som en arbeitsflyt kan ha, er 10.
 
-### 4.2 **Team**
+### 5.2 **Team**
 
 Velg vurderingsteam som vil kunne delta i vurderingstrinn. Det maksimale antallet team som en arbeitsflyt kan ha er 20. Hvert team må sende inn sin vurdering før arbeidsflyten går videre til neste trinn. Hvis automatisk videreføring er merket av, vil arbeidsflyten automatisk gå til neste trinn etter det konfigurerte antallet arbeidsdager.
 
-_Velge et team som arbeitsflytskaper er en del av_ Hvis arbeitsflytskaper vil være den som vurderer et trinn, er det viktig at et team som arbeitsflytskaper er en del av, blir lagt til som et vurderingsteam.
+**Velge et team som arbeitsflytskaper er en del av** Hvis arbeitsflytskaper vil være den som vurderer et trinn, er det viktig at et team som arbeitsflytskaper er en del av, blir lagt til som et vurderingsteam.
 
-_Velge et tomt team_ Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
+**Velge et tomt team** Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
 
-_Velge et team med ett medlem_ Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
+**Velge et team med ett medlem** Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
 
-### 4.3 **Arbeidsdager for vurdering**
+### 5.3 **Arbeidsdager for vurdering**
 
 Arbeidsdager er definert som mandag til fredag. Offentlige helligdager er inkludert i arbeidsdagene for vurdering. _Minste antall påkrevde arbeidsdager:_ 1 arbeidsdag
 
@@ -14585,13 +14648,13 @@ Hvis startdatoen for gjennomgangstrinn er på en fredag, settes forfallsdatoen t
 - Starttiden som er konfigurert i tidsinnstillingsområdet for arbeidsflyten
 - På tirsdag neste uke uavhengig av om den tirsdagen er en offentlig helligdag eller ikke.
 
-### 4.4 **Automatisk videreføring**
+### 5.4 **Automatisk videreføring**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
 
 Aktiver automatisk videreføring for å forhindre flaskehalser - dokumenter vil automatisk motta vurderingen "viderført" på vegne av team som ikke har svart innen fristen.
 
-### 4.5 Krev vurdering fra alle teammedlemmer
+### 5.5 Krev vurdering fra alle teammedlemmer
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
 
@@ -14601,35 +14664,35 @@ Aktiver Krev vurdering fra alle teammedlemmer for å kreve at hvert enkelt medle
 
 - **Når dette er aktivert** er teamets trinn ikke fullstendig før alle individuelle medlemmer har gitt sin egen indikasjon. Se oversiktsfanen, høyre meny for filgjennomgang og høyre meny for dokumenter-artiklene for hvordan dette vises under vurdering.<br>
 
-### 4.6 **Slett vurderingstrinn**
+### 5.6 **Slett vurderingstrinn**
 
 Klikk på søppelbøtte-ikonet øverst til høyre for et vurderingstrinn for å slette det.
 
-### 4.7 **Påkrevd**
+### 5.7 **Påkrevd**
 
 Hvis det finnes vurderingstrinn, må hvert trinn ha minst en innsender for å kunne sende inn arbeidsflyten.
 
-## 5. **Sluttgjennomgang**
+## 6. **Sluttgjennomgang**
 
 Sluttgjennomgang blir gitt manuelt av et enkelt team. Dette er hva sluttgjennomgangsdelen av en ny gjennomgangsarbeitsflyt kan se ut som:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
 
-### 5.1 **Lag**
+### 6.1 **Lag**
 
 Sluttgjennomgangsteamet som vil gi sluttgjennomgangen basert på vurderingene fra hvert av vurderingsteamene.
 
-_Velge et team som arbeitsflytskaper er en del av_ Hvis arbeitsflytskaper vil være den som gir den endelige valideringen av gjennomgangen, er det viktig at publiseringsteamet er et team som arbeitsflytskaper er en del av.
+**Velge et team som arbeitsflytskaper er en del av** Hvis arbeitsflytskaper vil være den som gir den endelige valideringen av gjennomgangen, er det viktig at publiseringsteamet er et team som arbeitsflytskaper er en del av.
 
-_Velge et tomt team_ Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
+**Velge et tomt team** Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
 
-_Velge et team med ett medlem_ Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
+**Velge et team med ett medlem** Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
 
-### 5.2 **Arbeidsdager for godkjenning**
+### 6.2 **Arbeidsdager for godkjenning**
 
 Antallet arbeidsdager sluttgjennomgangsteamet har for å konfigurere sluttgjennomgangen. _Minste antall påkrevde arbeidsdager:_ 0 arbeidsdager
 
-### 5.3 Saksmal
+### 6.3 Saksmal
 
 I feltet saksmaler kan du velge malen som systemet bruker for å opprette en sak når gjennomgangsflytene er avsluttet. Valg av ingenting betyr at ingen saker blir opprettet!
 
@@ -14641,25 +14704,25 @@ Når det ikke er mal, har du mulighet til å opprette en direkte i innstillingsv
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
 
-### 5.4 **Vurderingsstatus**
+### 6.4 **Vurderingsstatus**
 
 Viderført eller til oppfølging
 
-### 5.5 **Sluttstatus**
+### 6.5 **Sluttstatus**
 
 Velg endelig status for videreførte dokumenter og dokumenter til oppfølging. Videreførte dokumenter vil bli publisert, mens dokumenter til oppfølging ikke blir det.
 
-### 5.6 **Påkrevd**
+### 6.6 **Påkrevd**
 
 Et sluttgjennomgangsteam må ha blitt valgt for å kunne sende inn arbeidsflyten. En sluttstatus for videreførte arbeitsflyter må velges for å kunne sende inn arbeidsflyten. En sluttstatus for arbeitsflyter til oppfølging må velges for å kunne sende inn arbeidsflyten.
 
-## 6. **Send inn**
+## 7. **Send inn**
 
 Klikk på Send inn for å sende inn arbeidsflyten.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
 
-### 6.1 **Advarsel for påkrevd felt**
+### 7.1 **Advarsel for påkrevd felt**
 
 Hvis arbeidsflyten mangler et påkrevd felt, vil en advarsel øverst på siden spørre om å fylle ut de manglende feltene. Dette er hva advarselen kan se ut som:
 
@@ -14675,13 +14738,15 @@ Følgende er påkrevd for å sende inn en ny arbeitsflyt:
 - En sluttstatus for videreførte arbeitsflyter må velges
 - En sluttstatus for arbeitsflyter til oppfølging må velges
 
-### 6.2 **Låst etter innsending**
+### 7.2 **Låst etter innsending**
 
 Etter innsending vil det bare være mulig å endre tittelen på arbeidsflyten.
 
 # Opprette en ny gjennomgang
 
-Den nye gjennomgangsforespørsel kan finnes for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Klikk på handlingsmenyen til høyre for den grønne plusknappen på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) for å opprette en ny gjennomgangsforespørsel. Klikk på knappen for ny gjennomgangsforespørsel i gjennomgangsmenyen på høyre side av en revisjon på dokumentsiden der den nyeste revisjonen er en delt revisjon for å opprette en ny gjennomgangsforespørsel. Slik kan dialogen for å opprette en ny gjennomgangsforespørsel se ut:
+Den nye gjennomgangsforespørselen kan finnes for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Klikk på handlingsmenyen til høyre for den grønne plusskappen på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) for å opprette en ny gjennomgangsforespørsel. Klikk på knappen for ny gjennomgangsforespørsel i gjennomgangsmenyen på høyre meny for en revisjon på dokumentsiden der den siste revisjonen er en delt revisjon for å opprette en ny gjennomgangsforespørsel.
+
+Slik kan dialogen for opprettelse av en ny gjennomgangsforespørsel se ut:
 
 ![Ny godkjenningsforespørsel Arbeidsflyt Innsender Tittel Beskrivelse (valgfritt) Dokumenter til vurdering legg til dokumenter navn revisjon # Revisjonsnummer Status Fjern Avbryt Lagre som utkast Send til vurdering](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -14697,7 +14762,9 @@ Slik kan toppteksten for en ny gjennomgang se ut for prosjekter som aktiverte de
 
 Medlemmer som er del av innsenderteam som er konfigurert i en projektarbeidsflyt, kan velge mellom en av arbeidsflytene som teamene er konfigurert for. Arbeidsflyten som ble valgt tidligere, blir husket. Så lenge arbeidsflyten som ble valgt tidligere fortsatt er tilgjengelig, vil den bli valgt igjen neste gang en gjennomgang opprettes.
 
-**Automatisk valg** Hvis bare ett av teamene som et medlem er del av, er konfigurert for en arbeidsflyt, vil arbeidsflyten bli valgt automatisk. Slik kan det se ut når arbeidsflyten velges automatisk.
+Prosjektets arbeidsflyter kan ha vært forhåndsdefinert i malprosjektet som prosjektet ble [opprettet fra](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt). Prosjektadministratorer kan legge til nye arbeidsflyter eller redigere eksisterende på [arbeidsflytsiden](https://support.catenda.com/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger) i dokumentinnstillingene. En arbeidsflyt som finnes i prosjektet betyr ikke at alle medlemmer kan velge den: bare medlemmer av et innsendingsteam som er konfigurert for den arbeidsflytene kan velge den. Medlemmer som blir bedt om å sende inn gjennomgangsforespørsler, men som ikke har en tilgjengelig arbeitsflyt, kan spørre en prosjektadministrator om å legge til ett av deres teams som et innsendingsteam i en arbeidsflyt.
+
+**Automatisk utvalg** Hvis bare ett av teamene som et medlem er del av, er konfigurert for en arbeidsflyt, blir denne arbeidsflytenen automatisk valgt. Slik kan det se ut når arbeidsflytenen er automatisk valgt.
 
 ![Arbeidsflyt Innsender Tittel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -14721,7 +14788,7 @@ Tittelen på gjennomgangen. En gjennomgang må ha en tittel for å kunne sendes 
 
 ## 2. **Gjennomgangsforespørsel-brødtekst**
 
-Den nye valideringsarbeidsflyten er en on-demand-funksjon som kan forespørres aktivert når du starter et nytt prosjekt. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet. Slik kan brødteksten for en ny gjennomgang se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025:
+Den nye valideringsarbeidsflyten er aktiv i alle nye prosjekter. Prosjekter som bruker en eldre versjon av valideringsarbeidsflyten kan be om overføring til den nye valideringsarbeidsflyten fra support. Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmaler fra det malprosjektet. Slik kan brødteksten i en ny gjennomgang se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025:
 
 ![Godkjenningsforespørsel brødtekst Beskrivelse (valgfritt) Dokumenter til vurdering legg til dokumenter avbryt ingen dokumenter lagt til ennå](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 
@@ -17655,11 +17722,11 @@ Fullførte samlinger er låst for redigering. Fullførte samlinger må være lå
 
 Tabelhandlinger finner du mot øverst til høyre i samlingenes tabell
 
-**Last ned samling** Klikk på Last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen.
+**Last ned samling** Klikk på last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen. Navnene på filene i zip-filen kan påvirkes av [alternativet for nedlastingstittel for dokument](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Projekteieren konfigurerer dette alternativet for hele organisasjonen sin, så projektmedlemmer kan ikke be om eller endre det selv.
 
 **Legg til dokumenter** Klikk på [Legg til dokumenter](https://support.catenda.com/nb/articles/6344318-samlingside#h_b94d108342) for å legge til dokumenter i samlingen din. Hvis dokumentet ditt har blitt funnet å være infisert med virus, vil du ikke kunne legge det til samlingen.
 
-> **Merk:** Navnet på dokumentet i samlingen vil være navnet på revisjonen som ble lagt til. Dette er noe som ligner på det opprinnelige filnavnet. Dette navnet kan være annerledes enn navnet på dokumentet fordi et dokument kan inneholde flere revisjoner med ulike navn.
+> **Merk:** Navnet på dokumentet i samlingen vil være [revisjonsnavnet](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654) på revisjonen som ble lagt til. Dette navnet kan være annerledes enn navnet på dokumentet fordi et dokument kan inneholde flere revisjoner med forskjellige navn.
 
 ### 4.2 **Dokumenthandlinger**
 
@@ -17917,7 +17984,7 @@ Slik kan siden for utkast til gjennomgangsforespørsel se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/01-intro.png)
 
-Utkast til gjennomgangsforespørsler er bare tilgjengelige for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet.
+Utkast til gjennomganger er bare tilgjengelige for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmalene fra det malprosjektet.
 
 ## 1. **Nye varehandlinger**
 
@@ -19573,7 +19640,7 @@ Slik kan verktøylinjenmenyen se ut:
 
 ### 1.1 **Last ned**
 
-Klikk på Last ned for å laste ned dokumentet med eventuelle antegninger som er aktive i dokumentforhåndsvisningen.
+Klikk på Last ned for å laste ned dokumentet med eventuelle merknader som er aktive i dokumentforhåndsvisningen. Den nedlastede filen får alltid [revisjonsnavn](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654), uavhengig av hvordan [nedlastingsalternativer for dokumenter](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f) er konfigurert. Prosjekteieren konfigurerer dette alternativet for hele organisasjonen, så medlemmer kan ikke be om eller endre det selv.
 
 ### 1.2 **Hele skjermen**
 
@@ -20162,7 +20229,7 @@ _Tilgang kreves:_ En av følgende uavhengig av administratorstatus:
 - Medlem av et gjennomgangslaget som er konfigurert til å gjennomgå ett av trinnene for den valgte arbeidsflyten i gjennomgangsforespørselen.
 - Medlem av publiseringslaget som er konfigurert til å sende inn den endelige gjennomgangen for den valgte arbeidsflyten i gjennomgangsforespørselen.
 
-Gjennomgangsforespørsler kan sendes inn på gjennomgangssiden eller eventuelle gjennomgangsforespørselsutkast de har opprettet tidligere kan sendes inn fra gjennomgangsforespørselsutkastsiden. Prosjekter der delte revisjoner ble aktivert før 2. oktober 2025 vil se den gamle gjennomgangsforespørselssiden i stedet. Det er bare mulig å opprette et prosjekt basert på et malprosjekt hvis den gamle valideringsarbeidsflyten er aktivert i det malprosjektet.
+Gjennomgangsforespørsler kan sendes inn på gjennomgangssiden, eller tidligere opprettede gjennomgangsforespørsels-utkast kan sendes inn fra deres gjennomgangsforespørsels-utkastside. Prosjekter der delte revisjoner var aktivert før 2. oktober 2025, vil se den gamle gjennomgangsforespørselssiden i stedet. Prosjekter som er opprettet basert på et malprosjekt, inkluderer gjennomgangsarbeidsflyten og saksmalene fra det malprosjektet.
 
 ## 1. **Nye elementhandlinger**
 

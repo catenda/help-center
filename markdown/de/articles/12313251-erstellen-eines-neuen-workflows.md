@@ -1,24 +1,28 @@
 # Erstellen eines neuen Workflows
 
-Die neue Workflow-Seite kann durch Klicken auf die grüne Schaltfläche auf [der Workflows-Seite](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen) oder durch Klicken auf die Aktion im Aktionsmenü des neuen Elements auf [der Freigabenseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) geöffnet werden. Es ist nur möglich, neue Workflows in Projekten zu erstellen, in denen der neue Validierungs-Workflow aktiviert werden kann. Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines neuen Projekts aktiviert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. So könnte der Titelteil einer neuen Freigabe aussehen:
+Die neue Workflow-Seite kann durch Klicken auf die grüne Schaltfläche plus auf [der Workflows-Seite](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen) oder durch Klicken auf die Aktion im neuen Element-Aktionsmenü auf [der Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) geöffnet werden. Es ist nur möglich, neue Workflows in Projekten zu erstellen, in denen der neue Validierungs-Workflow aktiv ist. Der neue Validierungs-Workflow ist in allen neuen Projekten aktiv. Projekte, die eine ältere Version des Validierungs-Workflows verwenden, können beim Support eine Migration zum neuen Validierungs-Workflow anfordern. So kann der Titelteil einer neuen Genehmigung aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
-## 1. **Titel**
+## 1. **Workflows aus einem Vorlagenprojekt**
+
+Ein Workflow muss nicht immer von Grund auf neu erstellt werden. Projekte, die auf einem Vorlagenprojekt basieren, enthalten die Genehmigungs-Workflows und Topic-Vorlagen des Vorlagenprojekts. Klicken Sie [hier](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen), um mehr über die Erstellung eines Projekts auf Grundlage eines Vorlagenprojekts zu erfahren.
+
+## 2. **Titel**
 
 Geben Sie den Namen des Workflows ein. Dies ist der einzige Teil des Workflows, der nach dem Einreichen bearbeitet werden kann.
 
-### 1.1 **Anforderung**
+### 2.1 **Anforderung**
 
 Ein Titel muss angegeben werden, um einen Workflow einreichen zu können.
 
-### 1.2 **Freigabeinhalte**
+### 2.2 **Freigabeinhalte**
 
 So könnte der Inhalt einer neuen Freigabe aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/02-approval-contents.png)
 
-## 2. **Zeiteinstellungen**
+## 3. **Zeiteinstellungen**
 
 Teammitglieder haben eine begrenzte Anzahl von Arbeitstagen, um Dokumente in Prüfschritten zu überprüfen, in denen ihr Team als Prüfteam eingestellt wurde. So könnten die Zeiteinstellungen eines neuen Freigabe-Workflows aussehen:
 
@@ -28,11 +32,11 @@ Die in den Zeiteinstellungen konfigurierte Zeit ist die Zeit, in der jeder diese
 
 **Beispiel für die Berücksichtigung von Zeiteinstellungen:** Einreichungen können auf der Grundlage dieser Zeiten datiert werden. Eine Einreichung um 2 Uhr morgens gehört zum Vortag, wenn die Zeiteinstellung auf 6 Uhr eingestellt ist.
 
-### 2.1 **Startzeit**
+### 3.1 **Startzeit**
 
 Wählen Sie einen Wert von 01 bis 24 basierend auf dem 24-Stunden-Zeitsystem, auch bekannt als Militärzeit.
 
-### 2.2 **Ausgewählte Zeitzone**
+### 3.2 **Ausgewählte Zeitzone**
 
 Die Standard-Zeitzone ist die in Ihrem Betriebssystem konfigurierte Zeitzone. So könnte ein ausgewähltes Zeitzonen-Listenelement aussehen.
 
@@ -46,13 +50,13 @@ Der erste Teil des ausgewählten Zeitzonen-Listenelements kann anzeigen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/05-selected-timezone.png)
 
-### 2.3 **GMT-Offset**
+### 3.3 **GMT-Offset**
 
 Der zweite Teil des ausgewählten Zeitzonen-Listenelements zeigt den aktuellen GMT-Offset für das ausgewählte Zeitzonen-Listenelement.
 
 Die aktuelle Zeitzone für das Zeitzonen-Listenelement wird angezeigt. Wenn sich der GMT-Offset für einen geografischen Ort beispielsweise in Sommer- oder Winterzeit ändert, ändert sich auch der für diese geografischen Orte angezeigte GMT-Offset.
 
-### 2.4 **Auswahl eines Elements in der Zeitzone-Dropdown**
+### 3.4 **Auswahl eines Elements in der Zeitzone-Dropdown**
 
 Klicken Sie auf das ausgewählte Zeitzonen-Listenelement, um die Zeitzone-Dropdown zu öffnen. So könnte die Zeitzone-Dropdown aussehen:
 
@@ -114,7 +118,7 @@ Oder nach der Zeitzonen-Abkürzung:
 
 Da einige Zeitzonen einen GMT-Offset als Typ haben, ist es oft besser, nach dem vollständigen Zeitzonen-Namen statt nach der Zeitzonen-Abkürzung zu suchen. Nur Zeitzonen, die derzeit aktiv sind, werden angezeigt. Für Zeitzonen, die sich für geografische Orte ändern, kann nur die Zeitzone gefunden werden, die derzeit für diesen geografischen Ort aktiv ist.
 
-## 3. **Einreicher**
+## 4. **Einreicher**
 
 Wählen Sie aus, welche Teams Mitglieder im abschließenden Freigabeteam in der Liste der Teams sehen können, aus denen sie auswählen können, wenn sie ein Einreicher-Team für eine Freigabe mit diesem Workflow auswählen. So könnte der Einreicher-Teil eines neuen Freigabe-Workflows aussehen:
 
@@ -128,23 +132,23 @@ Wählen Sie aus, welche Teams Mitglieder im abschließenden Freigabeteam in der 
 
 > **Hinweis:** Es ist nur möglich, Teams und nicht einzelne Mitglieder auszuwählen
 
-### 3.1 **Anforderung**
+### 4.1 **Anforderung**
 
 Mindestens ein Einreicher muss ausgewählt werden, um einen Workflow einreichen zu können.
 
-## 4. **Prüfschritte**
+## 5. **Prüfschritte**
 
 Erstellen Sie einen mehrstufigen Prüfprozess. So könnte der Prüfschritt-Teil eines neuen Freigabe-Workflows aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
-### 4.1 **Schrittanzahl**
+### 5.1 **Schrittanzahl**
 
 **Keine Schritte** Es ist zwar möglich, einen Workflow ohne Schritte zu erstellen, indem man alle Schritte löscht, aber es wird nicht möglich sein, eine Freigabe mit diesem Workflow zu erstellen, da es mindestens einen Schritt geben muss, um eine Freigabe einreichen zu können.
 
 **Maximale Anzahl von Schritten** Die maximale Schrittanzahl, die ein Workflow haben kann, ist 10.
 
-### 4.2 **Teams**
+### 5.2 **Teams**
 
 Wählen Sie Prüfteams aus, die an dem Prüfschritt teilnehmen können. Die maximale Anzahl von Teams, die ein Workflow haben kann, ist 20. Jedes Team muss seine Prüfung einreichen, bevor der Workflow zum nächsten Schritt übergehen kann. Wenn die automatische Freigabe aktiviert ist, wird der Workflow nach der konfigurierten Anzahl von Arbeitstagen automatisch zum nächsten Schritt übergehen.
 
@@ -154,7 +158,7 @@ Wählen Sie Prüfteams aus, die an dem Prüfschritt teilnehmen können. Die maxi
 
 **Auswahl eines Teams mit einem Mitglied** Da es nicht möglich ist, einzelne Mitglieder hinzuzufügen, kann ein Team mit nur einem Mitglied ausgewählt werden, wenn nur ein Mitglied auf diese Weise Dokumente genehmigen wird. Nach der Erstellung des Workflows kann dieser nicht mehr bearbeitet werden. Daher ermöglicht ein Team selbst mit einem Mitglied die Flexibilität, Personen in das Team hinein- und herauszubewegen.
 
-### 4.3 **Arbeitstage für die Prüfung**
+### 5.3 **Arbeitstage für die Prüfung**
 
 Arbeitstage sind definiert als Montag bis Freitag. Öffentliche Feiertage sind in den Arbeitstagen für die Prüfung enthalten. _Mindestens erforderliche Arbeitstage:_ 1 Arbeitstag
 
@@ -167,13 +171,13 @@ Wenn das Startdatum für den Freigabeschritt auf einen Freitag fällt, wird das 
 - Die Startzeit, die im Zeiteinstellungsbereich des Workflows konfiguriert ist
 - Am Dienstag der nächsten Woche, unabhängig davon, ob dieser Dienstag ein öffentlicher Feiertag ist oder nicht.
 
-### 4.4 **Automatische Freigabe**
+### 5.4 **Automatische Freigabe**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
 
 Aktivieren Sie die automatische Freigabe, um Engpässe zu vermeiden – Dokumente erhalten automatisch freigegebene Prüfungen im Namen von Teams, die bis zur Fälligkeitsdatum nicht geantwortet haben.
 
-### 4.5 Prüfung durch alle Teammitglieder erforderlich
+### 5.5 Prüfung durch alle Teammitglieder erforderlich
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
 
@@ -183,21 +187,21 @@ Aktivieren Sie "Prüfung durch alle Teammitglieder erforderlich", um zu verlange
 
 - **Wenn dies aktiviert ist,** ist der Schritt des Teams nicht abgeschlossen, bis jedes einzelne Mitglied seine eigene Angabe gemacht hat. Weitere Informationen darüber, wie dies angezeigt wird, finden Sie in den Artikeln zur Registerkarte Übersicht, zum Menü Dateiüberprüfung rechts und zum Menü Dokumente rechts.<br>
 
-### 4.6 **Prüfschritt löschen**
+### 5.6 **Prüfschritt löschen**
 
 Klicken Sie auf das Mülleimer-Symbol oben rechts eines Prüfschritts, um ihn zu löschen.
 
-### 4.7 **Anforderung**
+### 5.7 **Anforderung**
 
 Falls es Prüfschritte gibt, muss jeder Schritt mindestens einen Einreicher haben, um den Workflow einreichen zu können.
 
-## 5. **Finale Freigabe**
+## 6. **Finale Freigabe**
 
 Die finale Freigabe wird manuell von einem einzelnen Team erteilt. So könnte der Teil der finalen Freigabe eines neuen Freigabe-Workflows aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
 
-### 5.1 **Team**
+### 6.1 **Team**
 
 Das finale Freigabeteam, das die finale Freigabe basierend auf den Prüfungen jedes der Prüfteams erteilt.
 
@@ -207,11 +211,11 @@ Das finale Freigabeteam, das die finale Freigabe basierend auf den Prüfungen je
 
 **Auswahl eines Teams mit einem Mitglied** Da es nicht möglich ist, einzelne Mitglieder hinzuzufügen, kann ein Team mit nur einem Mitglied ausgewählt werden, wenn nur ein Mitglied auf diese Weise Dokumente genehmigen wird. Nach der Erstellung des Workflows kann dieser nicht mehr bearbeitet werden. Daher ermöglicht ein Team selbst mit einem Mitglied die Flexibilität, Personen in das Team hinein- und herauszubewegen.
 
-### 5.2 **Arbeitstage für die Freigabe**
+### 6.2 **Arbeitstage für die Freigabe**
 
 Die Anzahl der Arbeitstage, die das finale Freigabeteam benötigt, um die finale Freigabe zu konfigurieren. _Mindestens erforderliche Arbeitstage:_ 0 Arbeitstage
 
-### 5.3 Themenvorlage
+### 6.3 Themenvorlage
 
 Im Feld Themenvorlagen können Sie die Vorlage auswählen, die das System verwendet und die ein Thema erstellt, wenn der Freigabefluss beendet wird. Wenn Sie nichts auswählen, werden keine Themen erstellt!
 
@@ -223,25 +227,25 @@ Wenn keine Vorlage vorhanden ist, können Sie direkt in der Einstellungsansicht 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
 
-### 5.4 **Prüfzustand**
+### 6.4 **Prüfzustand**
 
 Freigegeben oder abgelehnt
 
-### 5.5 **Finaler Status**
+### 6.5 **Finaler Status**
 
 Wählen Sie den finalen Status für freigegebene und abgelehnte Dokumente. Freigegebene Dokumente werden veröffentlicht, abgelehnte Dokumente werden nicht veröffentlicht.
 
-### 5.6 **Anforderung**
+### 6.6 **Anforderung**
 
 Ein abschließendes Freigabeteam muss ausgewählt worden sein, um den Workflow einreichen zu können. Ein finaler Status für freigegebene Workflows muss ausgewählt werden, um den Workflow einreichen zu können. Ein finaler Status für abgelehnte Workflows muss ausgewählt werden, um den Workflow einreichen zu können.
 
-## 6. **Einreichen**
+## 7. **Einreichen**
 
 Klicken Sie auf "Einreichen", um den Workflow einzureichen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
 
-### 6.1 **Warnung für erforderliche Felder**
+### 7.1 **Warnung für erforderliche Felder**
 
 Wenn dem Workflow ein erforderliches Feld fehlt, wird eine Warnung oben auf der Seite aufgefordert, die fehlenden Felder auszufüllen. So könnte die Warnung aussehen:
 
@@ -257,6 +261,6 @@ Folgende Anforderungen müssen erfüllt sein, um einen neuen Workflow einzureich
 - Ein finaler Status für freigegebene Workflows muss ausgewählt werden
 - Ein finaler Status für abgelehnte Workflows muss ausgewählt werden
 
-### 6.2 **Nach dem Einreichen gesperrt**
+### 7.2 **Nach dem Einreichen gesperrt**
 
 Nach dem Einreichen ist es nur möglich, den Titel des Workflows zu ändern.

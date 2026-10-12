@@ -14,25 +14,45 @@ Neem contact op met [sales@catenda.com](mailto:sales@catenda.com) voor vragen ov
 
 ### 3.1 Optie voor documentdownload-titel
 
-Als u een enkel document downloadt, is de bestandsnaam altijd de oorspronkelijke bestandsnaam. Als u meerdere documenten downloadt, zijn de bestandsnamen de namen van de documenten.
+De optie Documenttitel downloaden bepaalt welke bestandsnaam een gedownload bestand krijgt. U kunt het bestand zijn [revisienaam](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_01e7f2d654) laten behouden, of u kunt de naam van het document in Catenda gebruiken. Dit kan nuttig zijn in combinatie met de naamconventie en voor het overschrijven van Documenten met dezelfde naam in plaats van elke keer met een ander revisienummer.
 
-Met deze optie kunt u configureren welke bestandsnaam u krijgt wanneer u meerdere documenten downloadt. Dit kan nuttig zijn in combinatie met de naamgevingsconventie en voor het overschrijven van documenten met dezelfde naam in plaats van elke keer met een ander revisienummer.
+De optie is een van de standaardwaarden voor nieuwe projecten. Wanneer de organisatie deze wijzigt, geldt de wijziging alleen voor projecten die daarna worden gemaakt. Bestaande projecten behouden de instelling die ze al hebben.
 
 **Voorbeeld:** De naam van het project is _testproject._ Twee bestanden worden geüpload met elk twee revisies: _test01.pdf_ en _test02.pdf_ De namen van de documenten worden vervolgens gewijzigd in: _changed01.pdf_ en _changed02.pdf_
 
-Standaarddownloadgedrag: Als u deze documenten één voor één downloadt, worden ze altijd genoemd _test01.pdf_ en _test02.pdf_ Als u beide documenten tegelijk downloadt, worden ze standaard _changed01.pdf_ en _changed02.pdf_ genoemd. Dit is wat kan worden gewijzigd met de volgende opties:
+**Opties:** De onderstaande opties bepalen hoe deze twee bestanden worden genoemd wanneer u ze downloadt.
 
-**Opties:**
+**Revision bestandsnaam** \<Revisienaam>.\<Extensie> _test01.pdf_ en _test02.pdf_
 
-**Revisiebestandsnaam** Let op: dit is hetzelfde als bij het downloaden van een enkel bestand, dus de namen zullen consistent zijn als u deze optie kiest. \<Oorspronkelijke bestandsnaam>.\<Extensie> _test01.pdf_ en _test02.pdf_
-
-_Documenttitel_ - standaard \<Documentnaam>.\<Extensie> _changed01.pdf_ en _changed02.pdf_
+**Documenttitel** \<Documentnaam>.\<Extensie> _changed01.pdf_ en _changed02.pdf_
 
 **Documenttitel met revisienummer** \<Documentnaam>\<Revisienummer>.\<Extensie> _changed01.pdf #2_ en _changed02.pdf #2_
 
 **Projecttitel met Documenttitel en Revisienummer** \<Projectnaam>\<Documentnaam>\<Revisienummer>.\<Extensie> _testproject changed01.pdf #2_ en _testproject changed02.pdf #2_
 
-### 3.2 **Downloaden van geïnfecteerde Documenten**
+### 3.2 Waar de optie van toepassing is
+
+De optie is van toepassing wanneer u één bestand downloadt en wanneer u meerdere bestanden tegelijk downloadt. Het is van toepassing op Documenten die van de Documenten-sectie worden gedownload en op modellen die van de modellen-sectie worden gedownload. Het is ook van toepassing wanneer u op **Download collection** op de verzamelingenpagina klikt.
+
+### 3.3 Uitzonderingen op de optie
+
+Bij een paar downloads wordt de optie genegeerd.
+
+**Openbare Koppelingen** Als u een verzameling met een openbare Koppeling deelt, downloadt de persoon die de Koppeling opent vanuit de Catenda Transfer-pagina. De bestanden die zij downloaden behouden altijd hun revisienaam.
+
+**Annotatiebalk** Wanneer u downloadt vanuit het actiemenu in de annotatiebalk van de documentvoorvertoning, krijgt het bestand altijd de revisienaam, ongeacht de optie die is ingesteld. Als u **Opslaan als** in hetzelfde menu kiest, kunt u de bestandsnaam invoeren die u wilt.
+
+### 3.4 Uitdagingen met de optie
+
+Twee projecten in dezelfde organisatie kunnen hetzelfde bestand anders noemen. De optie is alleen een standaardwaarde voor nieuwe projecten, dus een project dat is gemaakt voordat de optie werd gewijzigd, behoudt zijn oude instelling.
+
+Hetzelfde document kan ook verschillende namen krijgen, afhankelijk van waar u het downloadt. De annotatiebalk en openbare Koppelingen gebruiken altijd de revisienaam, terwijl de andere downloads de optie volgen.
+
+Als u een optie kiest die de documentnaam gebruikt, is de bestandsnaam afhankelijk van de documentnaam in Catenda. Wanneer een nieuwe revisie wordt geüpload en de documentnaam niet wordt bijgewerkt, kan het gedownloade bestand informatie missen die in de revisienaam stond. Dit is de reden waarom sommige organisaties de **Revisiebestandsnaam**-optie behouden.
+
+Met de optie **Revisiebestandsnaam** behoudt een bestand dat met een onduidelijke naam is geüpload die naam wanneer het wordt gedownload.
+
+### 3.5 **Downloaden van geïnfecteerde Documenten**
 
 Quarantaineafhandeling voor geïnfecteerde bestanden in eigendomprojjecten. Als een document als geïnfecteerd wordt gedetecteerd, kan het standaard worden gedownload. De gebruiker ontvangt een waarschuwing dat dit document een virus bevat. Er kan een optie per organisatie worden ingesteld zodat niemand, zelfs niet beheerders, geïnfecteerde documenten kan downloaden.
 
@@ -40,13 +60,13 @@ Quarantaineafhandeling voor geïnfecteerde bestanden in eigendomprojjecten. Als 
 
 **Download blokkeren**
 
-### 3.3 **Modellen als Documenten**
+### 3.6 **Modellen als Documenten**
 
 Als deze functie is ingeschakeld, hebben alle nieuwe projecten die in de organisatie worden gemaakt, de functie [Modellen als Documenten](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten) ingeschakeld.
 
 > **Opmerking:** 24 november: Deze functie wordt ingeschakeld voor alle nieuwe organisaties. We zullen de oude weergave ongeveer een jaar ondersteunen voordat alle projecten worden gemigreerd.
 
-### 3.4 **Optie voor documentupload als concept**
+### 3.7 **Optie voor documentupload als concept**
 
 Als de goedkeuringsstroom is ingeschakeld en er conceptstatussen in documentinstellingen zijn, wordt het selectievakje "als concept uploaden" standaard ingeschakeld bij documentupload. Op aanvraag kan dit selectievakje standaard uitgeschakeld worden voor alle projecten in een organisatie.
 

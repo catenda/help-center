@@ -60,7 +60,7 @@ Met de actie Publiceer kan de meest recente gedeelde revisie worden gepubliceerd
 
 ### 2.4 **Download laatste revisie**
 
-Als u toegang hebt tot het downloaden van modellen, kunt u op de downloadknop klikken. Dit biedt u de mogelijkheid om de meest recente revisie van een model als ifc-bestand te downloaden. Als u op zoek bent naar een vorige revisie van dit model, gaat u alstublieft naar de [modelledepagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud) _Vereiste toegang:_ Toegang tot minstens één document-model in de sectie Modellen.
+Als u toegang heeft tot het downloaden van modellen, kunt u op de downloadknop klikken. Hiermee kunt u de nieuwste revision van een model als ifc-bestand downloaden. De naam van het gedownloade bestand kan worden beïnvloed door de [optie voor documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze niet zelf aanvragen of wijzigen. Als u op zoek bent naar een eerdere revision van dit model, gaat u naar de bijbehorende [modelpagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud) _Vereiste toegang:_ Toegang tot ten minste één document-model in de sectie modellen.
 
 ### 2.5 **Nieuwe revisie**
 

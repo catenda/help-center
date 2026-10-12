@@ -62,11 +62,11 @@ Abgeschlossene Sammlungen sind für die Bearbeitung gesperrt. Abgeschlossene Sam
 
 Tabellenaktionen befinden sich oben rechts der Sammlungstabelle
 
-**Sammlung herunterladen** Klicken Sie auf "Sammlung herunterladen", um eine ZIP-Datei mit allen Dokumenten in der Sammlung herunterzuladen.
+**Kollektion herunterladen** Klicken Sie auf „Kollektion herunterladen
 
 **Dokumente hinzufügen** Klicken Sie auf [Dokumente hinzufügen](https://support.catenda.com/de/articles/6344318-sammlungsseite#h_b94d108342), um Dokumente zu Ihrer Sammlung hinzuzufügen. Wenn Ihr Dokument als mit einem Virus infiziert befunden wurde, können Sie es nicht zur Sammlung hinzufügen.
 
-> **Hinweis:** Der Name des Dokuments in der Sammlung ist der Name der Überarbeitung, die hinzugefügt wurde. Dies ähnelt dem ursprünglichen Dateinamen. Dieser Name kann sich vom Namen des Dokuments unterscheiden, da ein Dokument mehrere Überarbeitungen mit unterschiedlichen Namen enthalten kann.
+> **Hinweis:** Der Name des Dokuments in der Kollektion wird der [Name der Revision](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654) der hinzugefügten Revision sein. Dieser Name kann sich vom Namen des Dokuments unterscheiden, da ein Dokument mehrere Revisionen mit unterschiedlichen Namen enthalten kann.
 
 ### 4.2 **Dokumentaktionen**
 

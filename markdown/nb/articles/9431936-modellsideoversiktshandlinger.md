@@ -60,7 +60,7 @@ Med publiseringshandlingen kan den siste delte revisjonen publiseres. Tidligere 
 
 ### 2.4 **Last ned siste revisjon**
 
-Hvis du har tilgang til å laste ned modeller, kan du klikke på nedlastingsknappen. Dette gjør at du kan laste ned den siste revisjonen av en modell som en ifc-fil. Hvis du leter etter en tidligere revisjon av denne modellen, vennligst til [modellsiden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside) _Påkrevd tilgang:_ Tilgang til minst én dokumentmodell i modellsdelen.
+Hvis du har tilgang til nedlasting av modeller, kan du klikke på nedlastingsknappen. Dette lar deg laste ned den siste revisjonen av en modell som en ifc-fil. Navnet på den nedlastede filen kan påvirkes av [alternativet for dokumentnedlastingstittel](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Projekteieren konfigurerer dette alternativet for hele organisasjonen, så prosjektmedlemmer kan ikke be om eller endre det selv. Hvis du ser etter en tidligere revisjon av denne modellen, gå til [modellsiden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside) _Tilgang kreves:_ Tilgang til minst ett dokument-model i modelldelen.
 
 ### 2.5 **Ny revisjon**
 

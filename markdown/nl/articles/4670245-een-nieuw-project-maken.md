@@ -4,11 +4,9 @@ Als uw huidige plan en toegang dit toestaan, kunt u een nieuw project maken door
 
 Neem anders contact op met Catenda-ondersteuning op [support@catenda.com](mailto:support@catenda.com) of via de chatknop om een nieuw project aan te maken. De zwarte chatknop vindt u rechtsbovenin Catenda Hub of rechtsonder op onze hulp-/startpagina's om uw plan bij te werken. Wij begeleiden u bij het maken ervan.
 
-De pagina Nieuw project kan er als volgt uitzien:
+Dit is hoe de pagina voor het nieuwe project eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
-
-De volgende onderwerpen zijn beschreven in dit artikel:
 
 ## 1. **Een eigenaar selecteren**
 
@@ -46,68 +44,79 @@ De instelling voor het downloaden van documenten die een aangemaakt project ontv
 
 Wanneer de optie voor het downloaden van documenten voor nieuwe projecten in een organisatie wordt gewijzigd, wordt deze instelling alleen toegepast op nieuwe projecten die in de organisatie worden aangemaakt en niet op bestaande projecten. Het is daarom mogelijk dat er projecten in dezelfde organisatie zijn met verschillende instellingen voor het downloaden van documenten.
 
+### 3.3 **Projecten gemaakt op basis van een templateproject**
+
+De instelling voor het downloaden van documenten van een nieuw project is gebaseerd op de organisatie waarin het wordt gemaakt, niet op het templateproject. Het wordt nooit van het templateproject gekopieerd, dus het is geen van de opties wanneer een templateproject wordt gebruikt.
+
 ## 4. **Functies op aanvraag**
 
-Wanneer een nieuw project wordt aangemaakt, zijn opt-in functies standaard niet ingeschakeld. Het is mogelijk de volgende functies na het maken van een project in te schakelen:
+Wanneer een nieuw project wordt gemaakt, zijn opt-in functies standaard niet ingeschakeld. Het is mogelijk om te verzoeken dat de volgende functie na het aanmaken van een project wordt ingeschakeld:
 
-[Pagina Objecten](https://support.catenda.com/nl/articles/12352750-objectenpagina) [Pagina Rapporten](https://support.catenda.com/nl/articles/12303098-rapportenpagina)
+[Rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina)
 
 ## 5. **Een project selecteren om als template te gebruiken**
 
-U kunt ervoor kiezen bepaalde instellingen van een ander project over te nemen bij het maken van een nieuw project. _Vereiste toegang:_ Projectlid
+Vink het vak 'een ander project als template gebruiken' aan om instellingen van een ander project over te nemen bij het maken van een nieuw project. _Vereiste toegang:_ Projectlid
 
-De volgende onderwerpen zijn beschreven in deze sectie:
+Dit is hoe het eruit kan zien wanneer een templateproject wordt gebruikt:
 
-### 5.1 **Modellen -** Geen revisies
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/02-select-a-project-to-use-as-template.png)
 
-Lege modellen klaar om nieuwe revisies te ontvangen
+Items met een licht groen selectievakje worden altijd gekopieerd en kunnen niet worden uitgeschakeld. Labels, Mijlpalen, Teams en Topic boards worden altijd van het templateproject gekopieerd. Items met een donker groen selectievakje zijn optioneel en kunnen worden uitgeschakeld.
+
+Sommige items worden verplicht wanneer een ander item is ingeschakeld, zoals in de opmerking boven de lijst staat: "Items die vereist zijn voor uw selectie worden automatisch opgenomen en kunnen niet worden uitgeschakeld." Momenteel is de enige afhankelijkheid van Approval workflows. Wanneer Approval workflows is ingeschakeld, worden Document status configuration en Topic templates automatisch opgenomen en in licht groen weergegeven. Wanneer Approval workflows is uitgeschakeld, worden Document status configuration en Topic templates optioneel en in donker groen weergegeven.
+
+### 5.1 **Modellen (geen revisies)**
+
+De modellen van het templateproject worden zonder hun revisies gekopieerd, dus ze zijn leeg en klaar om nieuwe revisies te ontvangen. _Selectie:_ Optioneel
 
 ### 5.2 **Labels**
 
-Labels die kunnen worden gekoppeld aan onderwerpen, modellen en documenten. Het is handig om dezelfde labels in meerdere projecten te hebben voor analyse met tools zoals PowerBI
+De labels van het templateproject worden gekopieerd en zijn klaar om te worden verbonden met Topics, modellen en Documenten. Het is handig om dezelfde labels in meerdere projecten te hebben voor analyse met tools zoals Power BI. _Selectie:_ Verplicht
 
-### 5.3 **Mijlpalen -** Geen datums
+### 5.3 **Mijlpalen (geen datums)**
 
-Nuttig wanneer u een nieuw project aanmaakt bij een faseverandering die dezelfde mijlpalen als de vorige heeft.
+De mijlpalen van het templateproject worden zonder hun datums gekopieerd. Dit is handig wanneer u een nieuw project maakt na een faseverandering die dezelfde mijlpalen heeft als de vorige. _Selectie:_ Verplicht
 
-### 5.4 **Teams -** Geen lid
+### 5.4 **Teams (geen leden)**
 
-Teams klaar om leden te accepteren. Toegang in de documentstructuur wordt ook via teams verdeeld.
+De Teams van het templateproject worden zonder hun leden gekopieerd en zijn klaar om leden te accepteren. Toegang in de documentstructuur wordt ook verdeeld via Teams. _Selectie:_ Verplicht
 
-### 5.5 **Onderwerpenboards -** Met inbegrip van statussen en typen, maar geen onderwerpen
+### 5.5 **Topic boards (inclusief statussen en typen, maar geen topics)**
 
-Boards die zijn ingesteld en klaar zijn voor communicatie. Boards kunnen gearchiveerd blijven totdat ze klaar zijn voor gebruik.
+De Topic boards van het templateproject worden met hun statussen en typen gekopieerd, maar zonder topics, zodat ze zijn ingesteld en klaar voor gebruik voor communicatie. Boards kunnen gearchiveerd blijven totdat ze klaar zijn voor gebruik. _Selectie:_ Verplicht
 
 ### 5.6 **Mappenstructuur**
 
-Kopieer de namen en structuur van de templateprojectmappen zonder de bijbehorende documenten. _Vereiste toegang:_ Volledige toegang tot het templateproject
+De namen en structuur van de mappen van het templateproject worden zonder hun Documenten gekopieerd. _Vereiste toegang:_ Volledige toegang tot het templateproject _Selectie:_ Optioneel
 
 ### 5.7 **Configuratie documentstatus**
 
-Openbare documentstatussen kunnen worden gebruikt om de voortgang van een document bij te houden. Documentstatussen voor concept kunnen voor goedkeuringen worden gebruikt.
+De documentstatussen van het templateproject worden gekopieerd. Openbare documentstatussen kunnen worden gebruikt om de voortgang van een document bij te houden. Concept-documentstatussen kunnen worden gebruikt voor goedkeuringen. _Selectie:_ Verplicht wanneer Approval workflows is ingeschakeld, anders optioneel
 
-### 5.8 **Instelling downloaden document**
+### 5.8 **Document en onderwerpenboardtoegangscontrole**
 
-De instelling voor het downloaden van documenten die het gemaakte project ontvangt, is gebaseerd op de instelling voor het downloaden van documenten voor nieuwe projecten in de organisatie en niet op welke instelling voor het downloaden van documenten het templateproject heeft.
-
-### 5.9 **Document en onderwerpenboardtoegangscontrole**
-
-Dit kopieert het toegangsbeheer voor de volgende opties (indien geselecteerd)
-
-- Mappenstructuur
-- Onderwerpenboards
-
-_Vereiste toegang:_ Volledige toegang tot het templateproject
+Het toegangsbeheer van de mappenstructuur en de Topic boards wordt gekopieerd, voor die van de twee die zijn geselecteerd.
 
 Het volgende is inbegrepen:
 
-- Gedefinieerde toegang voor "Teams". (Als teams zijn geselecteerd)
-- Overige toegangsinstellingen. ("Alle gebruikers", "Eigenaren", enz.)
+- Gedefinieerde toegang voor "Teams"
+- Andere toegangsinstellingen, zoals "Alle gebruikers" en "Eigenaars"
 
 Het volgende is niet inbegrepen:
 
 - Gedefinieerde toegang voor "Gebruikers"
 
-### 5.10 **Aangepaste velden en naamgevingsconventies**
+Wanneer deze optie niet is ingeschakeld, krijgt het nieuwe project in plaats daarvan de standaardtoegang. Dat is de standaardtoegang voor de basis van de Documenten, die in de Documenten-instellingen kan worden gevonden, en de standaardtoegang voor het standaard Topic board. _Vereiste toegang:_ Administrator of eigenaar van het templateproject _Selectie:_ Optioneel
 
-Aangepaste velden kunnen in issues worden weergegeven en kunnen in naamgevingsconventies worden gebruikt.
+### 5.9 **Meta data, naamgevingsafspraken en QR code**
+
+De [mapconfiguratie](https://support.catenda.com/nl/articles/12302595-mapconfiguratie-documentinstellingen) van het templateproject wordt gekopieerd: de aangepaste velden, naamgevingsafspraken en QR code-stempelinstellingen. Aangepaste velden kunnen in issues worden weergegeven en in naamgevingsafspraken worden gebruikt. _Selectie:_ Optioneel
+
+### 5.10 **Topic templates**
+
+De topic templates van het templateproject worden gekopieerd, zodat topics in het nieuwe project kunnen worden gemaakt op basis van dezelfde templates. _Selectie:_ Verplicht wanneer Approval workflows is ingeschakeld, anders optioneel
+
+### 5.11 **Goedkeuringswerkstromen**
+
+De approval workflows van het templateproject worden gekopieerd, zodat leden goedkeuringsverzoeken kunnen indienen zonder dat eerst een workflow wordt gemaakt. De Teams, documentstatussen en topic templates die een workflow gebruikt, worden samen met de workflow gekopieerd, zodat elke verwijzing in de workflow in het nieuwe project nog steeds werkt. Daarom maakt het inschakelen van Approval workflows Document status configuration en Topic templates verplicht. _Selectie:_ Optioneel

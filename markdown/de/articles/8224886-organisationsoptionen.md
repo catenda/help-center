@@ -14,25 +14,45 @@ Bitte kontaktieren Sie [sales@catenda.com](mailto:sales@catenda.com) für Fragen
 
 ### 3.1 Option für Dokumentdownload-Titel
 
-Wenn Sie ein einzelnes Dokument herunterladen, ist der Dateiname immer der ursprüngliche Dateiname. Wenn Sie mehrere Dokumente herunterladen, sind die Dateinamen die Namen der Dokumente.
+Die Option für den Dokumentdownload-Titel bestimmt, welchen Dateinamen eine heruntergeladene Datei erhält. Sie können die Datei mit ihrem [Revisionsnamen](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654) behalten oder den Namen des Dokuments in Catenda verwenden. Dies kann in Kombination mit der Namenskonvention nützlich sein und um Dokumente mit demselben Namen zu überschreiben, anstatt jedes Mal eine andere Revisionsnummer zu erhalten.
 
-Mit dieser Option können Sie konfigurieren, welchen Dateinamen Sie beim Herunterladen mehrerer Dokumente erhalten. Dies kann in Kombination mit der Namenskonvention und zum Überschreiben von Dokumenten mit demselben Namen statt mit einer anderen Revisionsnummer jedes Mal nützlich sein.
+Die Option ist eine der Standardeinstellungen für neue Projekte. Wenn die Organisation sie ändert, gilt die Änderung nur für später erstellte Projekte. Vorhandene Projekte behalten die Einstellung, die sie bereits haben.
 
 **Beispiel:** Der Name des Projekts ist _testproject._ Zwei Dateien werden mit je zwei Versionen hochgeladen: _test01.pdf_ und _test02.pdf_ Die Namen der Dokumente werden dann geändert in: _changed01.pdf_ und _changed02.pdf_
 
-Standardmäßiges Download-Verhalten: Wenn Sie diese Dokumente einzeln herunterladen, werden sie immer _test01.pdf_ und _test02.pdf_ genannt. Wenn Sie beide Dokumente gleichzeitig herunterladen, werden sie standardmäßig _changed01.pdf_ und _changed02.pdf_ genannt. Dies können Sie mit den folgenden Optionen ändern:
+**Optionen:** Die folgenden Optionen bestimmen, wie diese zwei Dateien beim Download heißen.
 
-**Optionen:**
+**Revisionsdateiname** \<Revisionsname>.\<Erweiterung> _test01.pdf_ und _test02.pdf_
 
-**Revisionsdateiname** Beachten Sie, dass dies dem Download einer einzelnen Datei entspricht. Die Namen sind konsistent, wenn Sie diese Option wählen. \<Original file name>.\<Extension> _test01.pdf_ und _test02.pdf_
-
-_Dokumenttitel_ - Standard \<Document name>.\<Extension> _changed01.pdf_ und _changed02.pdf_
+**Dokumenttitel** \<Dokumentname>.\<Erweiterung> _changed01.pdf_ und _changed02.pdf_
 
 **Dokumenttitel mit Revisionsnummer** \<Document name>\<Revision number>.\<Extension> _changed01.pdf #2_ und _changed02.pdf #2_
 
 **Projekttitel mit Dokumenttitel und Revisionsnummer** \<Project name>\<Document name>\<Revision number>.\<Extension> _testproject changed01.pdf #2_ und _testproject changed02.pdf #2_
 
-### 3.2 **Download von infizierten Dokumenten**
+### 3.2 Wo die Option gilt
+
+Die Option gilt, wenn Sie eine einzelne Datei herunterladen und wenn Sie mehrere Dateien gleichzeitig herunterladen. Sie gilt für Dokumente, die aus dem Dokumentbereich heruntergeladen werden, und für Modelle, die aus dem Modellbereich heruntergeladen werden. Sie gilt auch, wenn Sie auf der Seite Sammlungen auf **Sammlung herunterladen** klicken.
+
+### 3.3 Ausnahmen zur Option
+
+Einige Downloads ignorieren die Option.
+
+**Öffentliche Links** Wenn Sie eine Sammlung mit einem öffentlichen Link freigeben, lädt die Person, die den Link öffnet, von der Catenda-Übertragungsseite herunter. Die Dateien, die sie herunterladen, behalten immer ihren Revisionsnamen.
+
+**Anmerkungssymbolleiste** Wenn Sie aus dem Aktionsmenü in der Anmerkungssymbolleiste der Dokumentvorschau herunterladen, erhält die Datei immer den Revisionsnamen, unabhängig davon, wie die Option eingestellt ist. Wenn Sie im selben Menü **Speichern unter** wählen, können Sie den gewünschten Dateinamen eingeben.
+
+### 3.4 Herausforderungen mit der Option
+
+Zwei Projekte in derselben Organisation können dieselbe Datei unterschiedlich benennen. Die Option ist nur eine Standardeinstellung für neue Projekte, daher behält ein Projekt, das erstellt wurde, bevor die Option geändert wurde, seine alte Einstellung.
+
+Das gleiche Dokument kann je nachdem, wo Sie es herunterladen, unterschiedliche Namen erhalten. Die Anmerkungssymbolleiste und öffentliche Links verwenden immer den Revisionsnamen, während die anderen Downloads der Option folgen.
+
+Wenn Sie eine Option wählen, die den Dokumentnamen verwendet, hängt der Dateiname vom Dokumentnamen in Catenda ab. Wenn eine neue Revision hochgeladen wird und der Dokumentname nicht aktualisiert wird, kann die heruntergeladene Datei Informationen vermissen, die im Revisionsnamen waren. Deshalb behalten einige Organisationen die Option **Revisionsdateiname**.
+
+Mit der Option **Revisionsdateiname** behält eine Datei, die mit einem unklar benannten Namen hochgeladen wurde, diesen Namen beim Herunterladen.
+
+### 3.5 **Download von infizierten Dokumenten**
 
 Quarantäne-Handling für infizierte Dateien in Projekten im Besitz der Organisation. Wenn ein Dokument als infiziert befunden wird, kann es standardmäßig heruntergeladen werden. Der Benutzer erhält eine Warnung, dass dieses Dokument ein Virus enthält. Eine Option kann pro Organisation festgelegt werden, die dazu führt, dass niemand, nicht einmal Administratoren, infizierte Dokumente herunterladen kann.
 
@@ -40,13 +60,13 @@ Quarantäne-Handling für infizierte Dateien in Projekten im Besitz der Organisa
 
 **Download blockieren**
 
-### 3.3 **Modelle als Dokumente**
+### 3.6 **Modelle als Dokumente**
 
 Wenn diese Funktion aktiviert ist, haben alle neuen Projekte, die in der Organisation erstellt werden, die Funktion [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-modelle-als-dokumente) aktiviert.
 
 > **Hinweis:** 24. November: Diese Funktion wird für alle neuen Organisationen aktiviert. Wir werden die alte Ansicht etwa ein Jahr lang unterstützen, bevor alle Projekte migriert werden.
 
-### 3.4 **Option für Dokumentupload-Entwurf**
+### 3.7 **Option für Dokumentupload-Entwurf**
 
 Wenn der Genehmigungsworkflow aktiviert wurde und es in den Dokumenteinstellungen Entwurfsstatus gibt, ist das Kontrollkästchen "Entwurf hochladen" standardmäßig beim Hochladen von Dokumenten aktiviert. Auf Anfrage kann dieses Kontrollkästchen standardmäßig für alle Projekte in einer Organisation deaktiviert werden.
 

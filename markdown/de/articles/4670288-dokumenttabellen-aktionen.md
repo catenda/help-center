@@ -46,7 +46,7 @@ Mit der Aktion "Herunterladen" können ausgewählte Elemente und deren Inhalte h
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Ein einzelnes Dokument mit einer ausgewählten Dokumentzeile erhalten. Eine ZIP-Datei mit dem Inhalt der Auswahl erhalten, wenn eine Ordnerzeile oder mehrere Zeilen ausgewählt sind. _Erforderlicher Zugriff:_ Vollzugriff auf die ausgewählten Dokumente und/oder Ordner.
+Erhalten Sie ein einzelnes Dokument, wenn eine Dokumentzeile ausgewählt ist. Erhalten Sie eine ZIP-Datei, die den Inhalt der Auswahl enthält, wenn eine Ordnerzeile oder mehrere Zeilen ausgewählt sind. Die Namen der heruntergeladenen Dateien können durch die [Option Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für seine gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern. _Erforderlicher Zugriff:_ Vollzugriff auf das/die ausgewählte(n) Dokument(e) und/oder Ordner
 
 **Dokumente erkennen** Wenn die Download-Schaltfläche gedrückt wird, öffnet sich ein Dialogfeld unten links auf der Seite. Zunächst beginnt das System, die verschiedenen Dateien im Download zu erkennen. Das Dialogfeld "Herunterladen vorbereiten" kann etwa so aussehen:
 

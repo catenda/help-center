@@ -64,7 +64,7 @@ Når samlingen er fullført, kan du:
 
 **13. Angi en utløpsdato for delte lenker**
 
-**14. Del samlingen eksternt** Dokumentsamlinger som deles eksternt kan lastes ned av alle med lenken. Personer med lenken trenger ikke en Catenda-konto for å laste ned filene fra denne samlingen.
+**14. Del samlingen eksternt** Dokumentsamlinger som deles eksternt kan lastes ned av alle som har lenken. Personer med lenken trenger ikke en Catenda-konto for å laste ned filer fra denne samlingen. Filene de laster ned gjennom den offentlige lenken beholder alltid sitt [revisjonsnavn](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654), uavhengig av hva [alternativet for dokumentnedlastingstitel](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f) er satt til. Prosjekteieren konfigurerer dette alternativet for hele organisasjonen sin, så medlemmene av prosjektet kan ikke be om eller endre det selv.
 
 > **Merk:** Det er mulig å be om at den offentlige delingsfunksjonen deaktiveres. Hvis du ønsker at dette alternativet skal være aktivert, kontakt støtten.
 

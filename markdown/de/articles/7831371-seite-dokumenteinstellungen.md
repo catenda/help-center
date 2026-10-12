@@ -36,7 +36,7 @@ So kann das Menü "Freigaben" aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/05-approvals.png)
 
-Das Menü "Freigaben" ist nur in Projekten verfügbar, in denen der neue Validierungs-Workflow aktiviert werden soll. Der neue Validierungs-Workflow ist eine bedarfsorientierte Funktion, die für neue Projekte aktiviert werden kann. Neue Projekte, die auf einem Vorlagenprojekt basieren, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
+Das Genehmigungsmenü ist nur in Projekten verfügbar, in denen der neue Validierungs-Workflow aktiv ist. Der neue Validierungs-Workflow ist in allen neuen Projekten aktiv. Projekte, die eine ältere Version des Validierungs-Workflows verwenden, können von der Unterstützung eine Migration zum neuen Validierungs-Workflow anfordern. Projekte, die auf Basis eines Template-Projekts erstellt wurden, enthalten die Genehmigungs-Workflows und Themen-Vorlagen des jeweiligen Template-Projekts.
 
 ### 3.1 **Workflows konfigurieren**
 

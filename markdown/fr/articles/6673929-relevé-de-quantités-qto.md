@@ -46,4 +46,12 @@ Cliquez [ici](https://support.catenda.com/fr/articles/6707924-quantity-take-off-
 
 ## 5. **Page Objets**
 
-Recherchez n'importe quel contenu de votre IFC avec logique. La page Objets est une fonctionnalité à la demande qui peut être demandée à être activée pour les projets en cours. Les nouveaux projets créés sur la base d'un projet modèle pour lequel cette fonctionnalité est activée ne disposent pas de cette fonctionnalité activée.
+La [page Objets](https://support.catenda.com/fr/articles/12352750-page-objets) effectue une tâche similaire au menu QTO : elle affiche des lignes avec les informations des objets dans vos modèles. Les deux fonctionnent dans des directions opposées et diffèrent par la quantité qu'ils peuvent exporter.
+
+### 5.1 **Recherche d'objets**
+
+Le menu QTO est dynamique et se met à jour avec les objets sélectionnés dans la Visionneuse 3D ou le panneau d'arborescence. La page Objets fonctionne de l'autre côté. Recherchez n'importe quel contenu de votre IFC avec une logique pour trouver des objets avec des Filtres, puis chargez les objets trouvés dans la Visionneuse 3D. Utilisez le filtre sélectionné sur la page Objets pour obtenir un résultat similaire au menu QTO.
+
+### 5.2 **Export**
+
+Le menu QTO et la page Objets peuvent tous deux être exportés vers Excel. Sur la page Objets, seules les colonnes activées sont exportées, de sorte que les colonnes du fichier exporté peuvent être limitées en activant et désactivant les colonnes dans le tableau des produits. La page Objets peut également gérer un nombre beaucoup plus important de cellules que le menu QTO, ce qui est important car les objets génèrent souvent de nombreuses cellules (voir [nombre d'objets](#object-count)).

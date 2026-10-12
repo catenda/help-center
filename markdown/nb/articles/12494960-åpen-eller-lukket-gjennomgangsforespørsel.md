@@ -10,7 +10,7 @@ _Tilgang kreves:_ En av følgende uavhengig av administratorstatus:
 - Medlem av et gjennomgangslaget som er konfigurert til å gjennomgå ett av trinnene for den valgte arbeidsflyten i gjennomgangsforespørselen.
 - Medlem av publiseringslaget som er konfigurert til å sende inn den endelige gjennomgangen for den valgte arbeidsflyten i gjennomgangsforespørselen.
 
-Gjennomgangsforespørsler kan sendes inn på gjennomgangssiden eller eventuelle gjennomgangsforespørselsutkast de har opprettet tidligere kan sendes inn fra gjennomgangsforespørselsutkastsiden. Prosjekter der delte revisjoner ble aktivert før 2. oktober 2025 vil se den gamle gjennomgangsforespørselssiden i stedet. Det er bare mulig å opprette et prosjekt basert på et malprosjekt hvis den gamle valideringsarbeidsflyten er aktivert i det malprosjektet.
+Gjennomgangsforespørsler kan sendes inn på gjennomgangssiden, eller tidligere opprettede gjennomgangsforespørsels-utkast kan sendes inn fra deres gjennomgangsforespørsels-utkastside. Prosjekter der delte revisjoner var aktivert før 2. oktober 2025, vil se den gamle gjennomgangsforespørselssiden i stedet. Prosjekter som er opprettet basert på et malprosjekt, inkluderer gjennomgangsarbeidsflyten og saksmalene fra det malprosjektet.
 
 ## 1. **Nye elementhandlinger**
 

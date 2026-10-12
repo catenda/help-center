@@ -26,7 +26,7 @@ Nombre total de projets par organisation Date d'expiration du projet
 
 ### **Titre de téléchargement de Documents**
 
-Le titre que les Documents téléchargés dans cette organisation possèdent.
+Le nom de fichier que reçoivent les fichiers téléchargés. Ceci est la valeur par défaut pour les nouveaux projets de l'organisation, et les options sont décrites dans [Options d'organisation](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f).
 
 ### **Partage public**
 

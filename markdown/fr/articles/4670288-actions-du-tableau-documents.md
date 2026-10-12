@@ -46,7 +46,7 @@ Avec l'action de téléchargement, les éléments sélectionnés et leur contenu
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Recevoir un seul document avec une ligne de document sélectionnée. Recevoir un fichier ZIP contenant le contenu de la sélection lorsqu'une ligne de dossier ou plusieurs lignes sont sélectionnées. _Accès requis :_ Accès complet à vos documents et/ou dossiers sélectionnés
+Recevoir un seul document avec une seule ligne de document sélectionnée. Recevoir un fichier zip contenant le contenu de la sélection lorsqu'une ligne de dossier ou plusieurs lignes sont sélectionnées. Les noms des fichiers téléchargés peuvent être affectés par l'[option de titre de téléchargement de document](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f). Le propriétaire du projet configure cette option pour toute son organisation, de sorte que les Membres du projet ne peuvent pas la demander ou la modifier eux-mêmes. _Accès requis :_ accès complet à votre ou vos document(s) et/ou dossier(s) sélectionné(s)
 
 **Découverte de documents** Une fois que le bouton de téléchargement est enfoncé, une boîte de dialogue s'ouvre vers le bas à gauche de la page. Tout d'abord, le système commencera à découvrir les différents fichiers du téléchargement. Voici à quoi peut ressembler la boîte de dialogue de préparation du téléchargement:
 

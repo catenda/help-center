@@ -1,6 +1,6 @@
 # Workflows-Seite - Dokumenteinstellungen
 
-Die Workflows-Seite finden Sie, indem Sie im Genehmigungsmenü der [Dokumenteinstellungsseite](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) auf die Schaltfläche "Workflows konfigurieren" klicken, in Projekten, in denen der neue Validierungs-Workflow aktiviert werden soll und freigegebene Status im Statusworkflow-Menü von [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) aktiviert sind. Der neue Validierungs-Workflow ist eine bedarfsgerechte Funktion, die beim Start eines neuen Projekts aktiviert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. Auf der Workflows-Seite können Workflows für verschiedene Genehmigungskonfigurationen konfiguriert werden. _Erforderlicher Zugriff:_ Administrator
+Die Workflows-Seite finden Sie, indem Sie auf die Schaltfläche "Workflows konfigurieren" im Genehmigungsmenü der [Dokumenteinstellungsseite](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) in Projekten klicken, in denen der neue Validierungs-Workflow aktiv ist und gemeinsame Status im Statusworkflow-Menü der [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) aktiviert sind. Der neue Validierungs-Workflow ist in allen neuen Projekten aktiv. Projekte, die eine ältere Version des Validierungs-Workflows verwenden, können beim Support eine Migration zum neuen Validierungs-Workflow anfordern. Auf der Workflows-Seite können Workflows für verschiedene Genehmigungskonfigurationen konfiguriert werden. _Erforderlicher Zugriff:_ Administrator
 
 Die Workflows-Seite kann etwa so aussehen:
 
@@ -10,7 +10,7 @@ Die folgenden Themen werden in diesem Artikel beschrieben:
 
 _[Neue Elementaktionen](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_d0f4a44fb7) - [Suchen oder filtern](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_bbf4dcad58) - [Rechtes Menü](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_fc89aaa1fe) - [Tabelle](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_54e8dfcac2) - [Unterseiten](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_5751ccd2b7)_
 
-Obwohl die Workflows-Seite eine Unterseite zur Genehmigungsseite ist, wie durch die hervorgehobene Genehmigungsseite und die Breadcrumbs oben deutlich wird, ist die Seite nur über das Genehmigungsmenü in den Dokumenteinstellungen zugänglich.
+Obwohl die Workflows-Seite eine Unterseite der Genehmigungsseite ist, wie durch die hervorgehobene Genehmigungsseite und die Breadcrumbs oben deutlich wird, ist die Seite nur über das Genehmigungsmenü in den Dokumenteinstellungen zugänglich.
 
 ## 1. **Neue Elementaktionen**
 
@@ -77,3 +77,7 @@ Erstellt von - _Standard_ Das Mitglied, das den Workflow erstellt hat.
 Erstellt am - _Standard_ Das Datum und die Uhrzeit, zu der der Workflow erstellt wurde
 
 Status - _Standard_ Der Status des Workflows
+
+## 4. **Workflows aus einem Template-Projekt**
+
+Projekte, die auf einem Template-Projekt basieren, enthalten die Genehmigungs-Workflows und Themen-Templates dieses Template-Projekts. Diese Workflows werden in der Workflows-Tabelle des neuen Projekts aufgelistet. Klicken Sie [hier](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen), um mehr über das Erstellen eines Projekts auf Grundlage eines Template-Projekts zu erfahren.

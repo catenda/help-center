@@ -62,11 +62,11 @@ Fullførte samlinger er låst for redigering. Fullførte samlinger må være lå
 
 Tabelhandlinger finner du mot øverst til høyre i samlingenes tabell
 
-**Last ned samling** Klikk på Last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen.
+**Last ned samling** Klikk på last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen. Navnene på filene i zip-filen kan påvirkes av [alternativet for nedlastingstittel for dokument](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Projekteieren konfigurerer dette alternativet for hele organisasjonen sin, så projektmedlemmer kan ikke be om eller endre det selv.
 
 **Legg til dokumenter** Klikk på [Legg til dokumenter](https://support.catenda.com/nb/articles/6344318-samlingside#h_b94d108342) for å legge til dokumenter i samlingen din. Hvis dokumentet ditt har blitt funnet å være infisert med virus, vil du ikke kunne legge det til samlingen.
 
-> **Merk:** Navnet på dokumentet i samlingen vil være navnet på revisjonen som ble lagt til. Dette er noe som ligner på det opprinnelige filnavnet. Dette navnet kan være annerledes enn navnet på dokumentet fordi et dokument kan inneholde flere revisjoner med ulike navn.
+> **Merk:** Navnet på dokumentet i samlingen vil være [revisjonsnavnet](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654) på revisjonen som ble lagt til. Dette navnet kan være annerledes enn navnet på dokumentet fordi et dokument kan inneholde flere revisjoner med forskjellige navn.
 
 ### 4.2 **Dokumenthandlinger**
 

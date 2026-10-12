@@ -14,25 +14,45 @@ Kontakt [sales@catenda.com](mailto:sales@catenda.com) for spørsmål om planen d
 
 ### 3.1 Alternativ for dokumentnedlastingstittel
 
-Hvis du laster ned et enkelt dokument, vil filnavnet alltid være det opprinnelige filnavnet. Hvis du laster ned flere dokumenter, vil filnavnene være navnene på dokumentene.
+Alternativet for nedlastingsnavn på dokument bestemmer hvilket filnavn en nedlastet fil får. Du kan la filen beholde sitt [revisjonsnavn](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654), eller du kan bruke navnet på dokumentet i Catenda. Dette kan være nyttig i kombinasjon med navnekonvensjonen, og for å overskrive dokumenter som har samme navn i stedet for med et annet revisjonsnummer hver gang.
 
-Med dette alternativet kan du konfigurere hvilket filnavn du får når du laster ned flere dokumenter. Dette kan være nyttig i kombinasjon med navngivningskonvensjonen og for å overskrive dokumenter som har samme navn i stedet for med et annet revisjonsnummer hver gang.
+Alternativet er ett av standardalternativene for nye prosjekter. Når organisasjonen endrer det, gjelder endringen bare for prosjekter som opprettes etterpå. Eksisterende prosjekter beholder innstillingen de allerede har.
 
 **Eksempel:** Navnet på prosjektet er _testproject._ To filer lastes opp med to revisjoner hver: _test01.pdf_ og _test02.pdf_ Navnene på dokumentene blir deretter endret til: _changed01.pdf_ og _changed02.pdf_
 
-Standardnedlastingsatferd: Hvis du laster ned disse dokumentene ett for ett, vil de alltid være navngitt _test01.pdf_ og _test02.pdf_ Hvis du laster ned begge disse dokumentene samtidig, vil de som standard kalles _changed01.pdf_ og _changed02.pdf_ Dette er hva som kan endres med følgende alternativer:
+**Alternativer:** Alternativene nedenfor bestemmer hva disse to filene kalles når du laster dem ned.
 
-**Alternativer:**
+**Revisjonsnavn** \<Revisjonsnavn>.\<Filtype> _test01.pdf_ og _test02.pdf_
 
-**Revisjonfilnavn** Merk at dette er det samme som når du laster ned en enkelt fil, så navnene vil være konsistente hvis du velger dette alternativet. \<Opprinnelig filnavn>.\<Filtype> _test01.pdf_ og _test02.pdf_
-
-_Dokumenttittel_ - standard \<Dokumentnavn>.\<Filtype> _changed01.pdf_ og _changed02.pdf_
+**Dokumenttittel** \<Dokumentnavn>.\<Filtype> _changed01.pdf_ og _changed02.pdf_
 
 **Dokumenttittel med revisjonsnummer** \<Dokumentnavn>\<Revisjonsnummer>.\<Filtype> _changed01.pdf #2_ og _changed02.pdf #2_
 
 **Prosjekttittel med dokumenttittel og revisjonsnummer** \<Prosjektnavn>\<Dokumentnavn>\<Revisjonsnummer>.\<Filtype> _testproject changed01.pdf #2_ og _testproject changed02.pdf #2_
 
-### 3.2 **Nedlasting av infiserte dokumenter**
+### 3.2 Hvor alternativet gjelder
+
+Alternativet gjelder når du laster ned en enkelt fil og når du laster ned flere filer samtidig. Det gjelder for dokumenter som lastes ned fra Dokumenter-delen og for modeller som lastes ned fra Modeller-delen. Det gjelder også når du klikker **Last ned samling** på samlings-siden.
+
+### 3.3 Unntak fra alternativet
+
+Noen få nedlastinger ignorerer alternativet.
+
+**Offentlige lenker** Hvis du deler en samling med en offentlig lenke, laster personen som åpner lenken ned fra Catenda Transfer-siden. Filene de laster ned beholder alltid revisjonsnavnet sitt.
+
+**Merknadsverktøylinje** Når du laster ned fra handlingsmenyen i merknadverktøylinjen i forhåndsvisningen av dokumentet, får filen alltid revisjonsnavnet, uavhengig av hva alternativet er satt til. Hvis du velger **Lagre som** i samme meny, kan du skrive inn filnavnet du ønsker.
+
+### 3.4 Utfordringer med alternativet
+
+To prosjekter i samme organisasjon kan navngi samme fil forskjellig. Alternativet er bare en standard for nye prosjekter, så et prosjekt opprettet før alternativet ble endret beholder sin gamle innstilling.
+
+Samme dokument kan også få forskjellige navn avhengig av hvor du laster det ned. Merknadverktøylinjen og offentlige lenker bruker alltid revisjonsnavnet, mens de andre nedlastingene følger alternativet.
+
+Hvis du velger et alternativ som bruker dokumentnavnet, avhenger filnavnet av dokumentnavnet i Catenda. Når en ny revisjon lastes opp og dokumentnavnet ikke oppdateres, kan den nedlastede filen mangle informasjon som var i revisjonsnavnet. Dette er grunnen til at noen organisasjoner beholder alternativet **Revisjonsnavn**.
+
+Med alternativet **Revisjonsnavn** beholder en fil som ble lastet opp med et uklart navn det navnet når den lastes ned.
+
+### 3.5 **Nedlasting av infiserte dokumenter**
 
 Karantenebehandling for infiserte filer i eide prosjekter. Hvis et dokument blir funnet infisert, kan det som standard lastes ned. Brukeren vil få en advarsel om at dette dokumentet inneholder et virus. Et alternativ kan settes per organisasjon som gjør at ingen, ikke engang administratorer, vil være i stand til å laste ned infiserte dokumenter.
 
@@ -40,13 +60,13 @@ Karantenebehandling for infiserte filer i eide prosjekter. Hvis et dokument blir
 
 **Blokker nedlasting**
 
-### 3.3 **Modeller som dokumenter**
+### 3.6 **Modeller som dokumenter**
 
 Hvis denne funksjonen er aktivert, vil alle nye prosjekter som opprettes i organisasjonen ha [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)-funksjonen aktivert.
 
 > **Merknad:** 24. november: Denne funksjonen vil bli aktivert for alle nye organisasjoner. Vi vil støtte den gamle visningen i ca. ett år før alle prosjekter blir migrert.
 
-### 3.4 **Alternativ for dokumentopplastingsutkast**
+### 3.7 **Alternativ for dokumentopplastingsutkast**
 
 Hvis godkjenningsflyt har blitt aktivert og det er utkaststatuser i dokumentinnstillinger, er avmerking for opplasting som utkast merket som standard ved dokumentopplasting. På forespørsel kan denne avmerkingen settes til å være uavmerket som standard for alle prosjekter i en organisasjon.
 

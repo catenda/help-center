@@ -14,25 +14,45 @@ Veuillez contacter [sales@catenda.com](mailto:sales@catenda.com) pour toute ques
 
 ### 3.1 Option de titre de téléchargement de document
 
-Si vous téléchargez un seul document, le nom de fichier sera toujours le nom de fichier original. Si vous téléchargez plusieurs documents, les noms de fichiers seront les noms des documents.
+L'option de titre de téléchargement de document décide quel nom de fichier un fichier téléchargé reçoit. Vous pouvez laisser le fichier conserver son [nom de révision](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents#h_01e7f2d654), ou vous pouvez utiliser le nom du document dans Catenda. Cela peut être utile en combinaison avec la convention de nommage, et pour remplacer les documents qui ont le même nom au lieu d'un numéro de révision différent à chaque fois.
 
-Avec cette option, vous pouvez configurer le nom de fichier que vous obtiendrez lors du téléchargement de plusieurs documents. Cela peut être utile en combinaison avec la convention de nommage et pour remplacer les documents qui ont le même nom au lieu d'avoir un numéro de révision différent à chaque fois.
+L'option est l'une des valeurs par défaut pour les nouveaux projets. Lorsque l'organisation la modifie, la modification s'applique uniquement aux projets créés ultérieurement. Les projets existants conservent le paramètre qu'ils ont déjà.
 
 **Exemple :** Le nom du projet est _testproject._ Deux fichiers sont téléchargés avec deux révisions chacun : _test01.pdf_ et _test02.pdf_ Les noms des documents sont ensuite modifiés en : _changed01.pdf_ et _changed02.pdf_
 
-Comportement de téléchargement par défaut : Si vous téléchargez ces documents un par un, ils seront toujours nommés _test01.pdf_ et _test02.pdf_ Si vous téléchargez ces deux documents en même temps, ils seront par défaut appelés _changed01.pdf_ et _changed02.pdf_ C'est ce qui peut être modifié avec les options suivantes :
+**Options :** Les options ci-dessous décident comment ces deux fichiers sont appelés lorsque vous les téléchargez.
 
-**Options :**
+**Nom de fichier de révision** \<Nom de révision>.\<Extension> _test01.pdf_ et _test02.pdf_
 
-**Nom du fichier de révision** Notez que c'est la même chose que lors du téléchargement d'un seul fichier, les noms seront donc cohérents si vous choisissez cette option. \<Nom de fichier original>.\<Extension> _test01.pdf_ et _test02.pdf_
-
-_Titre du document_ - par défaut \<Nom du document>.\<Extension> _changed01.pdf_ et _changed02.pdf_
+**Titre du document** \<Nom du document>.\<Extension> _changed01.pdf_ et _changed02.pdf_
 
 **Titre du document avec numéro de révision** \<Nom du document>\<Numéro de révision>.\<Extension> _changed01.pdf #2_ et _changed02.pdf #2_
 
 **Titre du projet avec titre du document et numéro de révision** \<Nom du projet>\<Nom du document>\<Numéro de révision>.\<Extension> _testproject changed01.pdf #2_ et _testproject changed02.pdf #2_
 
-### 3.2 **Téléchargement de documents infectés**
+### 3.2 Où s'applique l'option
+
+L'option s'applique lorsque vous téléchargez un seul fichier et lorsque vous téléchargez plusieurs fichiers à la fois. Elle s'applique aux documents téléchargés à partir de la section des documents et aux modèles téléchargés à partir de la section des modèles. Elle s'applique également lorsque vous cliquez sur **Télécharger la collection** sur la page des collections.
+
+### 3.3 Exceptions à l'option
+
+Quelques téléchargements ignorent l'option.
+
+**Liens publics** Si vous partagez une collection avec un lien public, la personne qui ouvre le lien télécharge à partir de la page Catenda Transfer. Les fichiers qu'elle télécharge conservent toujours leur nom de révision.
+
+**Barre d'outils d'annotation** Lorsque vous téléchargez à partir du menu d'action dans la barre d'outils d'annotation de l'aperçu du document, le fichier reçoit toujours le nom de révision, quel que soit le paramètre de l'option. Si vous choisissez **Enregistrer sous** dans le même menu, vous pouvez entrer le nom de fichier que vous souhaitez.
+
+### 3.4 Défis liés à l'option
+
+Deux projets dans la même organisation peuvent nommer le même fichier différemment. L'option n'est qu'une valeur par défaut pour les nouveaux projets, donc un projet créé avant la modification de l'option conserve son ancien paramètre.
+
+Le même document peut également recevoir des noms différents selon le lieu de téléchargement. La barre d'outils d'annotation et les liens publics utilisent toujours le nom de révision, tandis que les autres téléchargements suivent l'option.
+
+Si vous choisissez une option qui utilise le nom du document, le nom de fichier dépend du nom du document dans Catenda. Lorsqu'une nouvelle révision est téléchargée et que le nom du document n'est pas mis à jour, le fichier téléchargé peut manquer d'informations qui se trouvaient dans le nom de révision. C'est pourquoi certaines organisations conservent l'option **Nom de fichier de révision**.
+
+Avec l'option **Nom de fichier de révision**, un fichier qui a été téléchargé avec un nom peu clair conserve ce nom lorsqu'il est téléchargé.
+
+### 3.5 **Téléchargement de documents infectés**
 
 Gestion de la mise en quarantaine des fichiers infectés dans les projets possédés. Si un document est trouvé infecté, par défaut, il peut être téléchargé. L'utilisateur recevra un avertissement indiquant que ce document contient un virus. Une option peut être définie par organisation pour que personne, pas même les administrateurs, ne puisse télécharger les documents infectés.
 
@@ -40,13 +60,13 @@ Gestion de la mise en quarantaine des fichiers infectés dans les projets possé
 
 **Bloquer le téléchargement**
 
-### 3.3 **Modèles en tant que documents**
+### 3.6 **Modèles en tant que documents**
 
 Si cette fonctionnalité est activée, tous les nouveaux projets créés dans l'organisation auront la fonctionnalité [Modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-modeles-en-tant-que-documents) activée.
 
 > **Remarque :** 24 novembre : Cette fonctionnalité sera activée pour toutes les nouvelles organisations. Nous supporterons l'ancienne vue pendant environ un an avant que tous les projets ne soient migrés.
 
-### 3.4 **Option de brouillon de téléchargement de document**
+### 3.7 **Option de brouillon de téléchargement de document**
 
 Si le flux d'approbation a été activé et qu'il y a des statuts de brouillon dans les paramètres de document, la case à cocher "télécharger en tant que brouillon" est cochée par défaut lors du téléchargement du document. Sur demande, cette case à cocher peut être définie comme décochée par défaut pour tous les projets dans une organisation.
 

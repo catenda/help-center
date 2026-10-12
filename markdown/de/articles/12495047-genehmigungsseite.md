@@ -20,7 +20,7 @@ Die Genehmigungsseite ist standardmäßig ausgeblendet. Aktivieren Sie gemeinsam
 
 ### 1.1 **Aktivierung aus Vorlagenprojekt**
 
-Projekte, die auf einem Vorlagenprojekt basieren, bei dem gemeinsame Status aktiviert waren, haben gemeinsame Status aktiviert und die Genehmigungsseite wird bei der Erstellung angezeigt. Workflows werden nicht von Projekt zu Projekt übernommen, daher muss in einem neuen Projekt ein Workflow erstellt werden, damit Mitglieder mit dem Einreichen von Genehmigungsanfragen beginnen können.
+Projekte, die auf der Grundlage eines Template-Projekts erstellt wurden, bei dem gemeinsame Status aktiviert waren, haben gemeinsame Status aktiviert und die Approvals-Seite wird bei der Erstellung angezeigt. Die Approval-Workflows und Topic-Templates des Template-Projekts werden auf das neue Projekt übertragen, sodass sie nicht erneut erstellt werden müssen, bevor Mitglieder mit der Einreichung von Approval-Anfragen beginnen können.
 
 ## 2. **Neue Elementaktionen**
 

@@ -1,6 +1,8 @@
 # Erstellen einer neuen Genehmigungsanforderung
 
-Die neue Genehmigungsanforderungsaktion ist für Projekte verfügbar, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden. Klicken Sie auf das Aktionsmenü rechts neben der grünen Schaltfläche "Plus" auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy), um eine neue Genehmigungsanforderung zu erstellen. Klicken Sie auf die Schaltfläche "Neue Genehmigungsanforderung" im Genehmigungsmenü des rechten Menüs einer Überarbeitung auf der Dokumentenseite, wenn die neueste Überarbeitung eine geteilte Überarbeitung ist, um eine neue Genehmigungsanforderung zu erstellen. So könnte der Dialog "Neue Genehmigungsanforderung erstellen" aussehen:
+Die neue Genehmigungsanforderungsaktion ist für Projekte verfügbar, bei denen gemeinsame Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden. Klicken Sie auf das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy), um eine neue Genehmigungsanforderung zu erstellen. Klicken Sie auf die Schaltfläche "Neue Genehmigungsanforderung" im Genehmigungsmenü des rechten Menüs einer Überarbeitung auf der Dokumentenseite, auf der die neueste Überarbeitung eine gemeinsame Überarbeitung ist, um eine neue Genehmigungsanforderung zu erstellen.
+
+So kann das Dialogfeld "Neue Genehmigungsanforderung erstellen" aussehen:
 
 ![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -16,7 +18,9 @@ So könnte der Header einer neuen Genehmigung für Projekte aussehen, bei denen 
 
 Mitglieder, die Teil von Absender-Teams sind, die in einem Projekt-Workflow konfiguriert sind, können zwischen einem der Workflows wählen, für die ihre Teams konfiguriert sind. Der zuvor ausgewählte Workflow wird beibehalten. Solange der zuvor ausgewählte Workflow noch verfügbar ist, wird er beim nächsten Erstellen einer Genehmigung erneut ausgewählt.
 
-**Automatische Auswahl** Wenn nur eines der Teams, zu denen ein Mitglied gehört, für einen Workflow konfiguriert ist, wird dieser Workflow automatisch ausgewählt. So kann es aussehen, wenn der Workflow automatisch ausgewählt wird.
+Die Workflows eines Projekts könnten in dem Vorlagenprojekt, aus dem das Projekt [erstellt wurde](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen), vordefiniert worden sein. Projektadministratoren können neue Workflows hinzufügen oder vorhandene Workflows auf der [Workflows-Seite](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen) der Dokumenteinstellungen bearbeiten. Ein Workflow, der im Projekt vorhanden ist, bedeutet nicht, dass jedes Mitglied ihn auswählen kann: Nur Mitglieder eines für diesen Workflow konfigurierten Submitter-Teams können ihn auswählen. Mitglieder, die aufgefordert werden, Genehmigungsanforderungen einzureichen, aber keinen verfügbaren Workflow haben, können einen Projektadministrator bitten, eines ihrer Teams als Submitter-Team einem Workflow hinzuzufügen.
+
+**Automatische Auswahl** Wenn nur eines der Teams, zu dem ein Mitglied gehört, für einen Workflow konfiguriert ist, wird dieser Workflow automatisch ausgewählt. So kann es aussehen, wenn der Workflow automatisch ausgewählt wird.
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -40,7 +44,7 @@ Der Titel der Genehmigungsanfrage. Eine Genehmigung muss einen Titel haben, um e
 
 ## 2. **Genehmigungsanforderungs-Body**
 
-Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines neuen Projekts angefordert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. So könnte der Body einer neuen Genehmigung für Projekte aussehen, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden:
+Der neue Validierungs-Workflow ist in allen neuen Projekten aktiv. Projekte, die eine Legacy-Version des Validierungs-Workflows verwenden, können eine Migration zum neuen Validierungs-Workflow vom Support anfordern. Projekte, die auf einem Vorlagenprojekt basieren, enthalten die Genehmigungsworkflows und Themavorlagen dieses Vorlagenprojekts. So kann der Body einer neuen Genehmigung für Projekte aussehen, bei denen gemeinsame Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden:
 
 ![Approval Reqeust body Description (optional) Documents for review add documents cancel no documents added yet](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 

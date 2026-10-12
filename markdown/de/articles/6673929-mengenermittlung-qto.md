@@ -46,4 +46,12 @@ Klicken Sie [hier](https://support.catenda.com/de/articles/6707924-mengenaufmass
 
 ## 5. **Objektseite**
 
-Suchen Sie mit logischen Operatoren nach beliebigen Inhalten in Ihrer IFC. Die Objektseite ist eine On-Demand-Funktion, die für laufende Projekte angefordert werden kann. Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
+Die [Objekt-Seite](https://support.catenda.com/de/articles/12352750-objektseite) führt eine ähnliche Aufgabe wie das QTO-Menü durch: Sie zeigt Zeilen mit den Informationen der Objekte in Ihren Modellen an. Die beiden funktionieren in entgegengesetzten Richtungen und unterscheiden sich darin, wie viel sie exportieren können.
+
+### 5.1 **Objekte finden**
+
+Das QTO-Menü ist dynamisch und wird mit den Objekten aktualisiert, die im 3D-Viewer oder im Baum-Panel ausgewählt sind. Die Objekt-Seite funktioniert umgekehrt. Suchen Sie nach beliebigen Inhalten aus Ihrer IFC mit Logik, um Objekte mit Filtern zu finden, und laden Sie dann die Objekte, die im 3D-Viewer gefunden wurden. Verwenden Sie den ausgewählten Filter auf der Objekt-Seite, um ein ähnliches Ergebnis wie das QTO-Menü zu erhalten.
+
+### 5.2 **Exportieren**
+
+Sowohl das QTO-Menü als auch die Objekt-Seite können nach Excel exportiert werden. Auf der Objekt-Seite werden nur die aktivierten Spalten exportiert, sodass die Spalten in der exportierten Datei durch Aktivieren und Deaktivieren von Spalten in der Produkttabelle begrenzt werden können. Die Objekt-Seite kann auch eine viel größere Anzahl von Zellen als das QTO-Menü verarbeiten, was wichtig ist, da Objekte oft viele Zellen generieren (siehe [Objektanzahl](#object-count)).

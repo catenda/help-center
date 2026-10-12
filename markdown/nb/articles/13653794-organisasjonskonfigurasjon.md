@@ -26,7 +26,7 @@ Totalt antall prosjekter per organisasjon Utløpsdato for prosjekter
 
 ### **Tittel for nedlastede dokumenter**
 
-Tittelen som nedlastede dokumenter i denne organisasjonen har.
+Filnavnet som nedlastede filer får. Dette er standarden for nye prosjekter i organisasjonen, og alternativene er beskrevet i [Organisasjonsalternativer](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f).
 
 ### **Offentlig deling**
 

@@ -62,13 +62,27 @@ Si vous survolez la colonne de nom, vous verrez qu'une grille de points apparaî
 
 Si vous passez la souris sur cette grille, vous verrez votre curseur change en main. Si vous glissez cette icône de grille, vous pourrez déplacer vos fichiers/dossiers sélectionnés vers un autre dossier.
 
-## 5. **Révision** - Par défaut 1 panneau
+## 5. **Révisions**
 
-Le nombre de révisions publiques et/ou brouillon dans le document. Chaque révision peut avoir son propre nom de révision, sa date de création, sa taille de fichier et son propriétaire.
+Chaque révision peut avoir son propre nom de révision, date de création, taille de fichier et propriétaire.
 
-### 5.1 **Nom de la révision**
+### 5.1 **Révision** - Par défaut 1 panneau
 
-Le nom de la dernière révision du document public. Il s'agit du nom du fichier qui a été téléchargé à l'origine et ne peut pas être modifié. Comme il peut y avoir plusieurs révisions dans un document, ce nom peut être différent du nom du document qui est le nom rassemblant toutes les révisions du document.
+Le nombre de révisions dans le document. Les révisions sont affichées avec une coche verte et un nombre entier 1, 2, 3, etc...
+
+**Révisions partagées** Si les révisions partagées ont été activées dans la section statut du document des paramètres de document, dans l'onglet espace de travail, les nouveaux téléchargements apparaîtront avec un numéro majeur et mineur comme 0.1, 0.2, 1.1, etc... Si la dernière révision est une révision publiée, elle apparaîtra sous la forme d'un nombre entier. Dans l'onglet publié, la dernière révision publiée est toujours affichée avec son nombre entier, indépendamment du fait qu'il y ait une révision partagée plus récente ou non.
+
+**Révisions de brouillon - Héritage** Dans la vue héritée, le nombre de révisions de brouillon après la dernière révision publiée est répertorié.
+
+### 5.2 **Nom de la révision**
+
+Le nom de la dernière révision publique du document.
+
+Le nom de la révision est le nom donné au fichier lors de son téléchargement. Il s'agit généralement du nom de fichier d'origine, mais le nom peut être modifié dans la [fenêtre de dialogue de téléchargement](https://support.catenda.com/fr/articles/4670278-telecharger-un-document#h_00fa77db3e) avant le téléchargement du fichier. Après le téléchargement, le nom de la révision ne peut pas être modifié.
+
+Le nom du document est partagé par toutes les révisions du document, il peut donc être différent du nom de la révision.
+
+Lors du téléchargement d'un fichier, l'[option titre de téléchargement du document](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f) détermine si le fichier reçoit le nom de la révision ou un nom basé sur le nom du document.
 
 > **Remarque :** Le nom de la révision peut être différent du nom du document ou du modèle.
 

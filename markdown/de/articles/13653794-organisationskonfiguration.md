@@ -26,7 +26,7 @@ Gesamtprojekte pro Organisation Projektablaufdatum
 
 ### **Titel für heruntergeladene Dokumente**
 
-Der Titel, den heruntergeladene Dokumente in dieser Organisation haben.
+Der Dateiname, den heruntergeladene Dateien erhalten. Dies ist der Standard für neue Projekte in der Organisation, und die Optionen werden in [Organisationsoptionen](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beschrieben.
 
 ### **Öffentliches Teilen**
 

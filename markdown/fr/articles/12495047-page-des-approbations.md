@@ -20,7 +20,7 @@ La page des approbations est masquée par défaut. Activez les révisions partag
 
 ### 1.1 **Activation à partir d'un projet modèle**
 
-Les projets créés sur la base d'un projet modèle où les statuts partagés ont été activés auront les statuts partagés activés et la page des approbations s'affichera lors de la création. Les flux de travail ne sont pas transférés d'un projet à l'autre, donc dans un nouveau projet, un flux de travail doit être créé pour que les membres puissent commencer à soumettre des demandes d'approbation.
+Les projets créés à partir d'un projet modèle pour lequel les statuts partagés étaient activés auront les statuts partagés activés et la page des approbations sera affichée à la création. Les workflows d'approbation et les modèles de sujets du projet modèle sont repris dans le nouveau projet, de sorte qu'ils n'ont pas besoin d'être créés à nouveau avant que les membres puissent commencer à soumettre des demandes d'approbation.
 
 ## 2. **Nouvelles actions d'élément**
 

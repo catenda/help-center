@@ -46,4 +46,12 @@ Klikk [her](https://support.catenda.com/nb/articles/6707924-quantity-take-off-qt
 
 ## 5. **Objektside**
 
-Søk i hvilket som helst innhold fra IFC-filen din med logikk. Objektsiden er en on-demand-funksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt hvor denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
+[Objektsiden](https://support.catenda.com/nb/articles/12352750-objektside) utfører en lignende oppgave som QTO-menyen: den viser rader med informasjon om objektene i modellene dine. De to fungerer i motsatte retninger, og de er forskjellige når det gjelder hvor mye de kan eksportere.
+
+### 5.1 **Finne objekter**
+
+QTO-menyen er dynamisk og oppdateres med objektene som er valgt i 3D-visningen eller treepanelet. Objektsiden fungerer på den andre måten. Søk i innholdet fra IFC-en din med logikk for å finne objekter med filtre, og last deretter inn objektene som ble funnet i 3D-visningen. Bruk det valgte filteret på objektsiden for å få et resultat som ligner på QTO-menyen.
+
+### 5.2 **Eksporter**
+
+Både QTO-menyen og objektsiden kan eksporteres til Excel. På objektsiden eksporteres bare de aktiverte kolonnene, slik at kolonnene i den eksporterte filen kan begrenses ved å slå kolonner på og av i produkttabellen. Objektsiden kan også håndtere et mye større antall celler enn QTO-menyen, noe som er viktig fordi objekter ofte genererer mange celler (se [objekttelling](#object-count)).

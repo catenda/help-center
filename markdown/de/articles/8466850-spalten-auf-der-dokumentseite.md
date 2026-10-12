@@ -62,13 +62,27 @@ Wenn Sie mit der Maus über die Namensspalte fahren, wird ein Gitter von Punkten
 
 Wenn Sie mit der Maus darüber fahren, ändert sich der Cursor in eine Hand. Wenn Sie dieses Gittersymbol ziehen, können Sie Ihre ausgewählten Dateien/Ordner in einen anderen Ordner verschieben.
 
-## 5. **Revision** - Standard 1 Bereich
+## 5. **Revisionen**
 
-Die Anzahl der öffentlichen und/oder Entwurfsrevisionen im Dokument. Jede Revision kann ihren eigenen Revisionsnamen, Erstellungsdatum, Dateigröße und Eigentümer haben.
+Jede Revision kann einen eigenen Revisionsnamen, ein Erstellungsdatum, eine Dateigröße und einen Besitzer haben.
 
-### 5.1 **Name der Revision**
+### 5.1 **Revision** - Standard 1 Bereich
 
-Der Name der neuesten öffentlichen Dokumentrevision. Dies ist der Name der Datei, die ursprünglich hochgeladen wurde und nicht geändert werden kann. Da es mehrere Revisionen in einem Dokument geben kann, kann sich dieser Name vom Dokumentnamen unterscheiden, der der Sammelname für alle Revisionen im Dokument ist.
+Die Anzahl der Revisionen im Dokument. Revisionen werden mit einem grünen Häkchen und einer ganzen Zahl 1, 2, 3 usw. angezeigt...
+
+**Gemeinsame Revisionen** Wenn gemeinsame Revisionen in der Dokumentstatussektion der Dokumenteinstellungen aktiviert wurden, werden neue Uploads auf der Registerkarte "Arbeitsbereich" mit einer Haupt- und einer Nebennummer wie 0.1, 0.2, 1.1 usw. angezeigt. Wenn die neueste Revision eine veröffentlichte Revision ist, wird sie als ganze Zahl angezeigt. Auf der Registerkarte "Veröffentlicht" wird die neueste veröffentlichte Revision immer mit ihrer ganzen Zahl angezeigt, unabhängig davon, ob eine neuere gemeinsame Revision vorhanden ist oder nicht.
+
+**Entwurfsrevisionen - Legacy** In der Legacy-Ansicht wird die Anzahl der Entwurfsrevisionen nach der letzten veröffentlichten Revision aufgelistet.
+
+### 5.2 **Name der Revision**
+
+Der Name der neuesten öffentlichen Revision im Dokument.
+
+Der Revisionsname ist der Name, den die Datei beim Hochladen erhielt. Dies ist normalerweise der ursprüngliche Dateiname, kann aber vor dem Hochladen in den [Upload-Dialog](https://support.catenda.com/de/articles/4670278-ein-dokument-hochladen#h_00fa77db3e) geändert werden. Nach dem Hochladen kann der Revisionsname nicht geändert werden.
+
+Der Dokumentname wird von allen Revisionen im Dokument gemeinsam genutzt, daher kann er sich vom Revisionsnamen unterscheiden.
+
+Beim Herunterladen einer Datei entscheidet die [Option für den Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f), ob die Datei den Revisionsnamen oder einen Namen basierend auf dem Dokumentnamen erhält.
 
 > **Hinweis:** Der Revisionsname kann sich vom Namen des Dokuments oder des Modells unterscheiden.
 
