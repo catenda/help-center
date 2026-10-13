@@ -199,7 +199,6 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Objektside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12352750-objektside.md)
 - [Operasjoner på dokumentbibliotekselementer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15647394-operasjoner-på-dokumentbibliotekselementer.md)
 - [Opprett en ny sak](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670268-opprett-en-ny-sak.md): Dette beskriver alle trinnene for å opprette en sak
-- [Opprett en rapport fra saker](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14006222-opprett-en-rapport-fra-saker.md)
 - [Opprett miniatyrbilde for modellen din](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670257-opprett-miniatyrbilde-for-modellen-din.md)
 - [Opprett nye merkelapper](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8626709-opprett-nye-merkelapper.md)
 - [Opprett rapporthandling](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13973721-opprett-rapporthandling.md)

@@ -11507,8 +11507,6 @@ Titel Topic-titel
 
 **Onderkant pictogrammen** Aantal ingevinkte vakken. Aantal opmerkingen. Aantal gekoppelde documenten.
 
-# Maak een rapport van onderwerpen
-
 # Maken van Topic board ACL
 
 Beheerders kunnen configureren wie toegang heeft om topic boards te maken in het toegangscontrolesection van de [project settings page](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3).

@@ -131,7 +131,6 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [スライディング平面への測定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670298-スライディング平面への測定.md)
 - [ダッシュボード - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7213817-ダッシュボード-catenda-site.md)
 - [ダッシュボードページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8212646-ダッシュボードページ.md)
-- [トピックからレポートを作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14006222-トピックからレポートを作成.md)
 - [トピックの交換](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670289-トピックの交換.md)
 - [トピックの右メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8053299-トピックの右メニュー.md)
 - [トピックの設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14183429-トピックの設定ページ.md)

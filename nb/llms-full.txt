@@ -14325,8 +14325,6 @@ Hvis du venstreklikker på øyeblikksbildet du har tatt, har du muligheten til �
 
 **Send inn** Når du har valgt all relevant informasjon for saken, trykker du send inn i nederste høyre hjørne. Minimumsinformasjonen som kreves for å sende inn en sak er tittelen.
 
-# Opprett en rapport fra saker
-
 # Opprett miniatyrbilde for modellen din
 
 1\. Velg den ønskede modellen fra modelloversikten.

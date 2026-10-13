@@ -169,7 +169,6 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Koppelingen bibliotheek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670254-koppelingen-bibliotheek.md)
 - [Labelfilter - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7854138-labelfilter-catenda-site.md)
 - [Lijstweergave in een topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6941232-lijstweergave-in-een-topic-board.md)
-- [Maak een rapport van onderwerpen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14006222-maak-een-rapport-van-onderwerpen.md)
 - [Maken van Topic board ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670299-maken-van-topic-board-acl.md)
 - [Mapconfiguratie - Documentinstellingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12302595-mapconfiguratie-documentinstellingen.md)
 - [Mappen en Documenten toegangscontrole](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670287-mappen-en-documenten-toegangscontrole.md): Toegangsniveaus voor documenten

@@ -121,7 +121,6 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Créer un nouveau signet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670269-créer-un-nouveau-signet.md)
 - [Créer un nouveau sujet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670268-créer-un-nouveau-sujet.md): Ceci décrit toutes les étapes pour créer un sujet
 - [Créer un nouvel export de modèle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15481038-créer-un-nouvel-export-de-modèle.md)
-- [Créer un rapport à partir de sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14006222-créer-un-rapport-à-partir-de-sujets.md)
 - [Créer une miniature pour votre modèle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670257-créer-une-miniature-pour-votre-modèle.md)
 - [Créer une nouvelle demande d'approbation - Hérité](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12360159-créer-une-nouvelle-demande-d-approbation-hérité.md)
 - [Dissociation du document de l'objet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670301-dissociation-du-document-de-l-objet.md)

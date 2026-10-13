@@ -7700,8 +7700,6 @@ Les exports privés ne sont visibles que pour le créateur de l'export.
 
 Cliquez sur export pour démarrer le traitement de cet export. Après la finalisation de l'export, la page d'export de modèle s'affiche où la progression du traitement de l'export peut être visible. Le traitement de l'export se fait complètement en arrière-plan et il est sûr de fermer complètement le navigateur à ce stade. Lorsqu'un export a terminé le traitement, une Notification est envoyée au créateur de l'export indiquant que son export est prêt à être téléchargé.
 
-# Créer un rapport à partir de sujets
-
 # Créer une miniature pour votre modèle
 
 1\. Sélectionnez le modèle souhaité dans l'aperçu du modèle.

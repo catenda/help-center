@@ -7412,8 +7412,6 @@ _Access required:_ Users opening the link will need read access to the folders/d
 
 > **Note:** Search or filter to share a link to documents from multiple folders.
 
-# Create a report from topics
-
 # Create new labels
 
 Labels are useful for many areas in Catenda HUB. They can be used for both documents and tasks. Assigned labels help you to better organize and filter your tasks and documents.

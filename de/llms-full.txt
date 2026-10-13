@@ -9127,8 +9127,6 @@ Folgende Anforderungen müssen erfüllt sein, um einen neuen Workflow einzureich
 
 Nach dem Einreichen ist es nur möglich, den Titel des Workflows zu ändern.
 
-# Erstellen Sie einen Bericht aus Themen
-
 # Erstellung von Themen-Board-ACLs
 
 Administratoren können konfigurieren, wer Zugriff auf die Erstellung von Themen-Boards im Abschnitt "Zugriffskontrolle" der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) hat.

@@ -115,7 +115,6 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Collision testing in Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7120422-collision-testing-in-navisworks.md)
 - [Columns on the documents page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8466850-columns-on-the-documents-page.md)
 - [Copy link action](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/14323982-copy-link-action.md)
-- [Create a report from topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/14006222-create-a-report-from-topics.md)
 - [Create new labels](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8626709-create-new-labels.md)
 - [Create report action](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13973721-create-report-action.md)
 - [Creating a custom field](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8445575-creating-a-custom-field.md)
