@@ -337,6 +337,7 @@ Here you find answers to questions that many users run into
 Available options include Desktop Connector sync, PDF/A report creation, access permission auditing, and automated cloud backups to AWS S3 or Azure Blob storage
 - [Giving a user access to a single folder](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8009637-giving-a-user-access-to-a-single-folder.md)
 - [Hardware recommendation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6921941-hardware-recommendation.md): Find recommended hardware specifications and optimisation tips for the best experience with Catenda Hub.
+- [Hardware recommendation - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17596478-hardware-recommendation-catenda-site.md): Find device recommendations and tips for viewing 3D models in the Catenda Site mobile app on phones and tablets.
 - [How can I export IFCs?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670326-how-can-i-export-ifcs.md)
 - [How can I find which model an object belongs to?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670329-how-can-i-find-which-model-an-object-belongs-to.md)
 - [How can I invite a member?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670319-how-can-i-invite-a-member.md)

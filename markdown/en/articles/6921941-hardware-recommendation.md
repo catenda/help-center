@@ -62,4 +62,4 @@ On a tablet it helps to load only what you need for the task at hand:
 
 More tips are described in [3D Viewer optimization](https://support.catenda.com/en/articles/13927321-3d-viewer-optimization).
 
-For work on the construction site, the Catenda Site mobile app is often a better fit, as described in [Access with limited screen space](https://support.catenda.com/en/articles/10695677-access-with-limited-screen-space).
+For work on the construction site, the Catenda Site mobile app is often a better fit, as described in [Access with limited screen space](https://support.catenda.com/en/articles/10695677-access-with-limited-screen-space). Device recommendations for Catenda Site are described in [Hardware recommendation - Catenda Site](https://support.catenda.com/en/articles/17596478-hardware-recommendation-catenda-site).
