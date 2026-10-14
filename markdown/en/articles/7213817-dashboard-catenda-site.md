@@ -19,4 +19,7 @@ On this page you can view the status of your topics, choose or change which issu
 
 You also have several tabs that you can navigate to:
 
-A. [Menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) B. [Topics](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site) C. [2D/3D](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) D. [Documents](https://support.catenda.com/en/articles/7774637-documents-menu-catenda-site)
+- [Menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site)
+- [Topics](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site)
+- [2D/3D](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site)
+- [Documents](https://support.catenda.com/en/articles/7774637-documents-menu-catenda-site)
