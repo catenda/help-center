@@ -45,7 +45,7 @@ Get an overview of your projects or configure your account or organization
 - [Organizations page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8281910-organizations-page.md)
 - [Project memberships - Organization tool](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9003642-project-memberships-organization-tool.md)
 - [Projects page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8400797-projects-page.md)
-- [Projects page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/new-gnhhmk48-gnhhmk48.md): Find and open a project in Catenda Mobile, and move between the pages of the app.
+- [Projects page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17601629-projects-page-catenda-mobile.md): Find and open a project in Catenda Mobile, and move between the pages of the app.
 - [Projects page - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7733978-projects-page-catenda-site.md)
 - [Projects page - Organization tool](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8505058-projects-page-organization-tool.md)
 - [Right menu on the members page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11768610-right-menu-on-the-members-page.md)
@@ -143,11 +143,12 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Document settings page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7831371-document-settings-page.md)
 - [Documents menu - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7774637-documents-menu-catenda-site.md)
 - [Documents page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8204673-documents-page.md)
-- [Documents page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/new-0mhxhsb0-0mhxhsb0.md): Browse and open the documents of your project in Catenda Mobile.
+- [Documents page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17601649-documents-page-catenda-mobile.md): Browse and open the documents of your project in Catenda Mobile.
 - [Documents tab in an approval request](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12495130-documents-tab-in-an-approval-request.md)
 - [Documents table actions](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670288-documents-table-actions.md)
 - [Download a folder structure](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670258-download-a-folder-structure.md)
 - [Download your mobile app Catenda Site 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6530821-download-your-mobile-app-catenda-site.md)
+- [Download your mobile app Catenda 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17601630-download-your-mobile-app-catenda.md): Download the Catenda mobile app, available in early access, and sign in with your Catenda account.
 - [Draft approval request page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12495175-draft-approval-request-page.md)
 - [Edit a topic comment](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6175852-edit-a-topic-comment.md): How to edit a comment in a topic
 - [Enabling the Catenda SharePoint app](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9419749-enabling-the-catenda-sharepoint-app.md)
@@ -164,7 +165,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Filtering on the topics page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8370693-filtering-on-the-topics-page.md)
 - [Folder configuration - Document settings](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12302595-folder-configuration-document-settings.md)
 - [Folders and Documents access control](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670287-folders-and-documents-access-control.md): Access Control Levels for Documents
-- [Forms page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/new-b679p300-b679p300.md): Fill in forms on site in Catenda Mobile, one question at a time.
+- [Forms page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17601640-forms-page-catenda-mobile.md): Fill in forms on site in Catenda Mobile, one question at a time.
 - [How Access Levels are Calculated](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15644094-how-access-levels-are-calculated.md)
 - [How to use custom fields in naming convention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7869240-how-to-use-custom-fields-in-naming-convention.md)
 - [IFC Export Archicad Manual](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670338-ifc-export-archicad-manual.md)
@@ -178,12 +179,12 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Linking documents to objects](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670297-linking-documents-to-objects.md)
 - [Links library](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670254-links-library.md)
 - [List View in a topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6941232-list-view-in-a-topic-board.md)
-- [Locations page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/new-7z5qbekw-7z5qbekw.md): Navigate your project by building, floor and room in Catenda Mobile.
+- [Locations page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17601635-locations-page-catenda-mobile.md): Navigate your project by building, floor and room in Catenda Mobile.
 - [Measure plane](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8360838-measure-plane.md)
 - [Measuring to sliding planes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670298-measuring-to-sliding-planes.md)
 - [Medium naming convention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7936943-medium-naming-convention.md)
 - [Members page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11926821-members-page.md)
-- [Menu page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/new-8rbcp4pd-8rbcp4pd.md): Change the app settings, switch project or log out in Catenda Mobile.
+- [Menu page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17601655-menu-page-catenda-mobile.md): Change the app settings, switch project or log out in Catenda Mobile.
 - [Merged file in Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7120416-merged-file-in-navisworks.md)
 - [Microsoft Teams notifications](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9167392-microsoft-teams-notifications.md): Stay updated without switching tabs. Connect Catenda Hub to Microsoft Teams to receive real-time notifications directly in your preferred channels.
 - [Milestone content page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11376858-milestone-content-page.md)
@@ -262,7 +263,7 @@ See how files stack as sequential revisions, where to view results, and how to u
 - [Topic templates page - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12367730-topic-templates-page-legacy.md)
 - [Topics menu - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7734073-topics-menu-catenda-site.md)
 - [Topics page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670271-topics-page.md)
-- [Topics page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/new-61k1j9km-61k1j9km.md): Browse, filter and create topics in Catenda Mobile.
+- [Topics page - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17601633-topics-page-catenda-mobile.md): Browse, filter and create topics in Catenda Mobile.
 - [Topics table actions](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670284-topics-table-actions.md)
 - [Tracking information by linking](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8294909-tracking-information-by-linking.md)
 - [Undeleting / Restoring documents or folders](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670249-undeleting-restoring-documents-or-folders.md)

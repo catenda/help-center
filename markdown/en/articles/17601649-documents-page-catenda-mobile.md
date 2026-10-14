@@ -2,7 +2,7 @@
 
 > Browse and open the documents of your project in Catenda Mobile.
 
-The Documents page is opened by tapping **Docs** in the bar at the bottom of the screen, after a project is opened on the [projects page](https://github.com/catenda/help-center-ops/blob/article/download-mobile-app-catenda/content/202-account-management/205-catenda-mobile/101-projects-page-catenda-mobile/EN_DRAFT_projects-page-catenda-mobile-gnhhmk48.md).
+The Documents page is opened by tapping **Docs** in the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile).
 
 The Documents page shows the documents of the project in their folders.
 

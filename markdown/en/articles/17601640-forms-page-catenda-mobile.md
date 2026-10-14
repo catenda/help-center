@@ -2,7 +2,7 @@
 
 > Fill in forms on site in Catenda Mobile, one question at a time.
 
-The Forms page is opened from the bar at the bottom of the screen, after a project is opened on the [projects page](https://github.com/catenda/help-center-ops/blob/article/download-mobile-app-catenda/content/202-account-management/205-catenda-mobile/101-projects-page-catenda-mobile/EN_DRAFT_projects-page-catenda-mobile-gnhhmk48.md).
+The Forms page is opened from the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile).
 
 The Forms page lists the forms of the project. Form templates can only be made in the browser, but forms can be filled in both in the browser and in the app.
 

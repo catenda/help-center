@@ -24,7 +24,7 @@ On some Android phones and tablets, Catenda Site cannot be found by searching in
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8pwddg4t/03-not-available-for-your-device-in-google-play.png)
 
-This is not a problem with the device: the device can run Catenda Site, but Google Play no longer offers it there in search. It can happen on a device that had Catenda Site installed before and has since been updated to a newer version of Android.
+This is not a problem with the device: the device can run Catenda Site, but Google Play no longer offers it there in search. It can happen on a device that had Catenda Site installed before and has since been updated to a newer version of Android. On such a device, a Google Play search may show only Catenda (Early Access), which is a different app: see [Download your mobile app Catenda](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda).
 
 To install Catenda Site on the device, install it from the Google Play website:
 

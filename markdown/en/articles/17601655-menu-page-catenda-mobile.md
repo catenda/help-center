@@ -2,7 +2,7 @@
 
 > Change the app settings, switch project or log out in Catenda Mobile.
 
-The Menu page is opened by tapping **Menu**, the last item in the bar at the bottom of the screen, after a project is opened on the [projects page](https://github.com/catenda/help-center-ops/blob/article/download-mobile-app-catenda/content/202-account-management/205-catenda-mobile/101-projects-page-catenda-mobile/EN_DRAFT_projects-page-catenda-mobile-gnhhmk48.md).
+The Menu page is opened by tapping **Menu**, the last item in the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile).
 
 The Menu page holds the settings of the app, and leads to another project or out of Catenda.
 
