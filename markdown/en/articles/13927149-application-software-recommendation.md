@@ -46,13 +46,13 @@ Click on Manage on-device site data
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/02-cookies.png)
 
-_Allowing cookies_ To use Catenda Hub you need to at least allow the storage of data for hub.catenda.com during your session.
+**Allowing cookies** To use Catenda Hub you need to at least allow the storage of data for hub.catenda.com during your session.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/03-cookies.png)
 
 If you choose to delete data when closing all windows your data will be reset every time you use Catenda. Deleting your data each time all windows are closed will cause your preferences to be reset every time after closing all windows of your browser.
 
-_Deleting cookies_ Cookie data can manually be deleted by clicking on the trashcan icon.
+**Deleting cookies** Cookie data can manually be deleted by clicking on the trashcan icon.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/04-cookies.png)
 

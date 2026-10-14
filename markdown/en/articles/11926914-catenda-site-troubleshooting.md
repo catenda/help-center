@@ -10,7 +10,7 @@ To use a Catenda project in Catenda Site without connection to the network, plea
 
 ## 2. Topics not synchronizing
 
-If changes have been made on Catenda Site that are not seen in other sessions they likely still have to be submitted in [the outbox](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#h_ff2a47f221) on the top right of the topic board.
+If changes have been made on Catenda Site that are not seen in other sessions they likely still have to be submitted in [the outbox](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#outbox) on the top right of the topic board.
 
 ## 3. MFA code required
 
