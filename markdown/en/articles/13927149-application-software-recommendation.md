@@ -24,15 +24,15 @@ Please make sure you are using hardware acceleration. Hardware acceleration opti
 
 **Chrome:** <a class="intercom-content-link" href="" target="_blank">chrome://settings/?search=hardware+acceleration</a>
 
-_Firefox:_ [https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm\_source=inproduct](https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm_source=inproduct)
+**Firefox:** [https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm\_source=inproduct](https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm_source=inproduct)
 
-_Microsoft Edge:_ <a class="intercom-content-link" href="" target="_blank">edge://settings/?search=hardware%20acceleration</a>
+**Microsoft Edge:** <a class="intercom-content-link" href="" target="_blank">edge://settings/?search=hardware%20acceleration</a>
 
 **Safari:** [https://support.apple.com/en-us/102894](https://support.apple.com/en-us/102894)
 
-_Opera:_ [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
+**Opera:** [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
 
-_Vivaldi:_ [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
+**Vivaldi:** [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
 
 ### 1.3 **Cookies**
 

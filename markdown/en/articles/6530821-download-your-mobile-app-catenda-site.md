@@ -1,6 +1,6 @@
 # Download your mobile app Catenda Site 📲
 
-> **Note:** The install file for the application can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-integrations).
+> **Note:** The install file for the application can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-integrations). If Google Play reports that Catenda Site is not available for your device, see [Catenda Site - Troubleshooting](https://support.catenda.com/en/articles/11926914-catenda-site-troubleshooting#not-available-for-your-device-in-google-play).
 
 [Book a demo](https://catenda.com/bim-solutions-open-standards/catenda-site-bim-on-site/) on our website
 
