@@ -2,6 +2,8 @@
 
 > Find and open a project in Catenda Mobile, and move between the pages of the app.
 
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
+
 After [signing in to Catenda](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda#sign-in), the projects page opens. It lists every project the user is a member of.
 
 ![The projects page with the project filters and the project list](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)

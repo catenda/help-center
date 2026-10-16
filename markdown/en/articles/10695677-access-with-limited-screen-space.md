@@ -15,7 +15,7 @@ On devices with limited screen size, buttons need to be larger so you see what y
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda) is our mobile app in early access, available for iPhone and iPad through [TestFlight](https://testflight.apple.com/join/xj6WppjQ) and for Android on [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). It covers topics, locations, forms and documents, and over time it will get all the features of Catenda Site.
+[Catenda Mobile](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda) is our mobile app in early access, available for iPhone and iPad through [TestFlight](https://testflight.apple.com/join/xj6WppjQ) and for Android on [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). It covers topics, locations, forms and documents, and over time it will get all the features of Catenda Site. The app is being developed together with the customers in the Co-creation program and is not final, so it may still change considerably.
 
 ## 2. **Home screen / Dashboard / Dock -** Full functionality
 

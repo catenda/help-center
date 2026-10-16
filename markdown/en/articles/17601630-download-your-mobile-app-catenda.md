@@ -2,6 +2,8 @@
 
 > Download the Catenda mobile app, available in early access, and sign in with your Catenda account.
 
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
+
 Catenda is a mobile app for phones and tablets, available in early access. Over time it will get all the features of [Catenda Site](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site), and more. Catenda Site can still be used alongside it.
 
 ## 1. **Download Catenda**

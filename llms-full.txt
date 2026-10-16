@@ -1978,6 +1978,8 @@ If your project has expired you will see red text next to the project saying the
 
 > Find and open a project in Catenda Mobile, and move between the pages of the app.
 
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
+
 After [signing in to Catenda](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda#sign-in), the projects page opens. It lists every project the user is a member of.
 
 ![The projects page with the project filters and the project list](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)
@@ -3973,7 +3975,7 @@ On devices with limited screen size, buttons need to be larger so you see what y
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda) is our mobile app in early access, available for iPhone and iPad through [TestFlight](https://testflight.apple.com/join/xj6WppjQ) and for Android on [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). It covers topics, locations, forms and documents, and over time it will get all the features of Catenda Site.
+[Catenda Mobile](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda) is our mobile app in early access, available for iPhone and iPad through [TestFlight](https://testflight.apple.com/join/xj6WppjQ) and for Android on [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). It covers topics, locations, forms and documents, and over time it will get all the features of Catenda Site. The app is being developed together with the customers in the Co-creation program and is not final, so it may still change considerably.
 
 ## 2. **Home screen / Dashboard / Dock -** Full functionality
 
@@ -9773,6 +9775,8 @@ The following pages can be found as sub-pages to the documents page:
 
 > Browse and open the documents of your project in Catenda Mobile.
 
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
+
 The Documents page is opened by tapping **Docs** in the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile).
 
 The Documents page shows the documents of the project in their folders.
@@ -10066,6 +10070,8 @@ You are connected! 🎉 After signing in you will be taken to the [project page]
 # Download your mobile app Catenda 📲
 
 > Download the Catenda mobile app, available in early access, and sign in with your Catenda account.
+
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
 
 Catenda is a mobile app for phones and tablets, available in early access. Over time it will get all the features of [Catenda Site](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site), and more. Catenda Site can still be used alongside it.
 
@@ -11458,6 +11464,8 @@ If shared statuses were enabled after 2 October 2025, two extra columns appear t
 
 > Fill in forms on site in Catenda Mobile, one question at a time.
 
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
+
 The Forms page is opened from the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile).
 
 The Forms page lists the forms of the project. Form templates can only be made in the browser, but forms can be filled in both in the browser and in the app.
@@ -12441,6 +12449,8 @@ Title Topic title
 
 > Navigate your project by building, floor and room in Catenda Mobile.
 
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
+
 The Locations page is opened from the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile).
 
 The Locations page shows the location structure of the project, such as buildings, floors and rooms. Only the location structure has to be made in the browser. Topics, forms and documents can be added to locations both in the browser and in the app.
@@ -12602,6 +12612,8 @@ To continue learning about naming conventions check out the following article: [
 # Menu page - Catenda Mobile
 
 > Change the app settings, switch project or log out in Catenda Mobile.
+
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
 
 The Menu page is opened by tapping **Menu**, the last item in the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile).
 
@@ -19983,6 +19995,8 @@ Clicking on the [settings page](https://support.catenda.com/en/articles/4670277-
 # Topics page - Catenda Mobile
 
 > Browse, filter and create topics in Catenda Mobile.
+
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
 
 The Topics page is opened from the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile). A project always opens on the Topics page, also when it is opened with **Switch project** on the Menu page.
 

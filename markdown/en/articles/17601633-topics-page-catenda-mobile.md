@@ -2,6 +2,8 @@
 
 > Browse, filter and create topics in Catenda Mobile.
 
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
+
 The Topics page is opened from the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile). A project always opens on the Topics page, also when it is opened with **Switch project** on the Menu page.
 
 The Topics page lists the topics of the project across all topic boards. Topics work the same way as in the browser.

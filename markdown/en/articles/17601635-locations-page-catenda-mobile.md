@@ -2,6 +2,8 @@
 
 > Navigate your project by building, floor and room in Catenda Mobile.
 
+> **Note:** Catenda Mobile is in early access and is being developed together with the customers in the Co-creation program. The app is not final and may still change considerably, so pages and buttons can look or work differently from what is described here.
+
 The Locations page is opened from the bar at the bottom of the screen, after a project is opened on the [projects page](https://support.catenda.com/en/articles/17601629-projects-page-catenda-mobile).
 
 The Locations page shows the location structure of the project, such as buildings, floors and rooms. Only the location structure has to be made in the browser. Topics, forms and documents can be added to locations both in the browser and in the app.
