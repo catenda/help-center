@@ -49,6 +49,7 @@ Konfigurer innstillinger for ditt prosjekt eller din konto
 - [Overtake for et annet medlem](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9520447-overtake-for-et-annet-medlem.md)
 - [Prosjektmedlemskap - Organisasjonsverktøy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9003642-prosjektmedlemskap-organisasjonsverktøy.md)
 - [Prosjektsiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8400797-prosjektsiden.md)
+- [Prosjektsiden - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17601629-prosjektsiden-catenda-mobile.md): Finn og åpne et prosjekt i Catenda Mobile, og beveg deg mellom sidene i appen.
 - [Prosjektsiden - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7733978-prosjektsiden-catenda-site.md)
 - [Prosjektsside - Organisasjonsverktøy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8505058-prosjektsside-organisasjonsverktøy.md)
 - [Påloggingsside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7891486-påloggingsside.md)
@@ -103,6 +104,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Dokumenter-fanen i en gjennomgangsforespørsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12495130-dokumenter-fanen-i-en-gjennomgangsforespørsel.md)
 - [Dokumenter-side](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8204673-dokumenter-side.md)
 - [Dokumentermeny - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7774637-dokumentermeny-catenda-site.md)
+- [Dokumenterside - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17601649-dokumenterside-catenda-mobile.md): Bla gjennom og åpne dokumentene i prosjektet ditt i Catenda Mobile.
 - [Dokumentgjennomgang – Eldre versjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5784717-dokumentgjennomgang-eldre-versjon.md): Oppdag hvordan du konfigurerer en arbeidsflyt for dokumentgjennomgang
 - [Dokumentinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7831371-dokumentinnstillinger.md)
 - [Dokumentpreviewverktøy - Gummistempel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11678493-dokumentpreviewverktøy-gummistempel.md)
@@ -161,6 +163,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Kopier lenkeslipp](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14323982-kopier-lenkeslipp.md)
 - [Lagring av merknad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10209740-lagring-av-merknad.md)
 - [Last ned en mappestruktur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670258-last-ned-en-mappestruktur.md)
+- [Last ned mobilappen Catenda 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17601630-last-ned-mobilappen-catenda.md): Last ned Catenda-mobilappen, tilgjengelig i tidlig tilgang, og logg inn med Catenda-kontoen din.
 - [Last ned mobil­appen Catenda Site 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6530821-last-ned-mobil-appen-catenda-site.md)
 - [Last opp en zip / filstruktur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7945410-opplasting-av-zip-filstruktur.md)
 - [Laster opp et dokument](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670278-laster-opp-et-dokument.md)
@@ -179,6 +182,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Matrise for gjennomgangsoperasjoner og handlinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/16195101-matrise-for-gjennomgangsoperasjoner-og-handlinger.md): Detaljert operasjonell veiledning som beskriver tillatelser for visning og utføring av handlinger i tvers av utformings-, vurderings- og sluttgjennomgangsfaser, strukturert etter pre-submittering og post-submittering livssyklus-stadier.
 - [Medlemmer-side](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11926821-medlemmer-side.md)
 - [Mengdetaking (QTO)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6673929-mengdetaking-qto.md)
+- [Menysiden - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17601655-menysiden-catenda-mobile.md): Endre appinnstillingene, bytt prosjekt eller logg ut i Catenda Mobile.
 - [Merkelappersiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670265-merkelappersiden.md)
 - [Merkelappfilter - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7854138-merkelappfilter-catenda-site.md)
 - [Microsoft Teams-varsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9167392-microsoft-teams-varsel.md): Bli oppdatert uten å bytte faner. Koble Catenda Hub til Microsoft Teams for å motta sanntidsvarsel direkte i dine foretrukne kanaler.
@@ -239,6 +243,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Saksliste fra en eksisterende saksliste](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6379614-saksliste-fra-en-eksisterende-saksliste.md)
 - [Saksliste-opprettelse ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670299-saksliste-opprettelse-acl.md)
 - [Saksmeny - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7734073-saksmeny-catenda-site.md)
+- [Sakssiden - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17601633-sakssiden-catenda-mobile.md): Bla gjennom, filtrer og opprett saker i Catenda Mobile.
 - [Samlinginnholdside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8999764-samlinginnholdside.md)
 - [Samlingside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6344318-samlingside.md): Del dokumenter, last ned dokumenter som ZIP-fil
 - [Sammendrag av de viktigste snarveiene og grunnleggende kontroller](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller.md): Snarveier og tastetilordninger
@@ -246,7 +251,9 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Sharepoint-bibliotek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5744548-sharepoint-bibliotek.md): Denne artikkelen beskriver hvordan du setter opp en tilkobling til Sharepoint
 - [Side for utkast til gjennomgangsforespørsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12495175-side-for-utkast-til-gjennomgangsforespørsel.md)
 - [Siden for egendefinerte felt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6550459-siden-for-egendefinerte-felt.md): Tilpass saklister og navngivningskonvensjoner
+- [Siden Steder – Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17601635-siden-steder-catenda-mobile.md): Naviger i prosjektet ditt etter bygning, etasje og rom i Catenda Mobile.
 - [Sjekklister innen problemer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5036461-sjekklister-innen-problemer.md): En enkel måte å spore fremdrift på nettstedet.
+- [Skjema-siden - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17601640-skjema-siden-catenda-mobile.md): Fyll ut skjemaer på stedet i Catenda Mobile, ett spørsmål av gangen.
 - [Slik bruker du egendefinerte felt i navnekonvensjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7869240-slik-bruker-du-egendefinerte-felt-i-navnekonvensjon.md)
 - [Solibri Topics-integrasjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670340-solibri-topics-integrasjon.md)
 - [Solibri-modeller og dokumentintegrering](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6988148-solibri-modeller-og-dokumentintegrering.md)
@@ -353,6 +360,7 @@ Her finner du svar på spørsmål som mange brukere har
 - [Kan et standardmedlem invitere nye medlemmer til et prosjekt?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670321-kan-et-standardmedlem-invitere-nye-medlemmer-til-et-prosjekt.md)
 - [Lagring og deling av filterlenke](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11401493-lagring-og-deling-av-filterlenke.md)
 - [Maskinvareanbefalinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6921941-system-anbefalinger.md): Finn anbefalte maskinvarespecifikasjoner og optimaliseringstips for best mulig opplevelse med Catenda Hub.
+- [Maskinvareanbefalinger - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17596478-maskinvareanbefalinger-catenda-site.md): Finn anbefalinger for enheter og tips for visning av 3D-modeller i mobilappen Catenda Site på telefoner og nettbrett.
 - [Nettverksanbefaling](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13927294-nettverksanbefaling.md)
 - [Ofte stilte spørsmål om egendefinerte felt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11384331-ofte-stilte-spørsmål-om-egendefinerte-felt.md)
 - [Organisasjonsverktøy FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10475849-organisasjonsverktøy-faq.md)

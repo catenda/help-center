@@ -24,13 +24,13 @@ Catenda Site で行われた変更が他のセッションで表示されない�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8pwddg4t/03-not-available-for-your-device-in-google-play.png)
 
-これはデバイスの問題ではありません。デバイスはCatenda Siteを実行できますが、Google Playではもはや検索結果に表示されなくなっています。以前Catenda Siteがインストールされていて、その後Androidの新しいバージョンに更新されたデバイスで発生する可能性があります。そのようなデバイスでは、Google Play検索に「Catenda (Early Access)」のみが表示される場合があります。これは異なるアプリです。[モバイルアプリCatendaをダウンロード](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda)を参照してください。
+これはデバイスの問題ではありません。デバイスはCatenda Siteを実行できますが、Google Playではもはや検索結果に表示されなくなっています。以前Catenda Siteがインストールされていて、その後Androidの新しいバージョンに更新されたデバイスで発生する可能性があります。そのようなデバイスでは、Google Play検索に「Catenda (Early Access)」のみが表示される場合があります。これは異なるアプリです。[モバイルアプリCatendaをダウンロード](https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード)を参照してください。
 
 デバイスに Catenda Site をインストールするには、Google Play ウェブサイトからインストールします:
 
 1. コンピューターまたは別のデバイスで、[Google Play ウェブサイトで Catenda Site を開く](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)。
-2. スマートフォンまたはタブレットで使用されているのと同じ Google アカウントでサインインします。
-3. **インストール**を選択します。
-4. デバイスのリストからスマートフォンまたはタブレットを選択し、**インストール**を再度選択します。
+1. スマートフォンまたはタブレットで使用されているのと同じ Google アカウントでサインインします。
+1. **インストール**を選択します。
+1. デバイスのリストからスマートフォンまたはタブレットを選択し、**インストール**を再度選択します。
 
 アプリはスマートフォンまたはタブレットが次にインターネットに接続したときにインストールされます。その後、デバイス自体の Google Play から Catenda Site を更新、削除、再インストールできます。スマートフォンまたはタブレットがデバイスのリストにない場合は、[support@catenda.com](mailto:support@catenda.com) のサポートにお問い合わせください。

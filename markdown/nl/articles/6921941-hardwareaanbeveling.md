@@ -62,4 +62,4 @@ Op een tablet is het handig om alleen te laden wat u nodig hebt voor de taak ter
 
 Meer tips zijn beschreven in [3D Viewer-optimalisatie](https://support.catenda.com/nl/articles/13927321-3d-viewer-optimalisatie).
 
-Voor werk op de bouwplaats is de mobiele app Catenda Site vaak beter geschikt, zoals beschreven in [Toegang met beperkte schermruimte](https://support.catenda.com/nl/articles/10695677-toegang-met-beperkte-schermruimte). Apparaataanbevelingen voor Catenda Site worden beschreven in [Hardwareaanbevelingen - Catenda Site](https://support.catenda.com/en/articles/17596478-hardware-recommendation-catenda-site).
+Voor werk op de bouwplaats is de mobiele app Catenda Site vaak beter geschikt, zoals beschreven in [Toegang met beperkte schermruimte](https://support.catenda.com/nl/articles/10695677-toegang-met-beperkte-schermruimte). Apparaataanbevelingen voor Catenda Site worden beschreven in [Hardwareaanbevelingen - Catenda Site](https://support.catenda.com/nl/articles/17596478-hardwareaanbevelingen-catenda-site).

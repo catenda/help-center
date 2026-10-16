@@ -24,13 +24,13 @@ Op sommige Android-telefoons en tablets kan Catenda Site niet worden gevonden do
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8pwddg4t/03-not-available-for-your-device-in-google-play.png)
 
-Dit is geen probleem met het apparaat: het apparaat kan Catenda Site uitvoeren, maar Google Play biedt het daar niet langer aan in de zoekresultaten. Dit kan gebeuren op een apparaat waarop Catenda Site eerder was geïnstalleerd en dat sindsdien is bijgewerkt naar een nieuwere versie van Android. Op zo'n apparaat kan een Google Play-zoekopdracht alleen Catenda (Early Access) weergeven, wat een ander app is: zie [Download your mobile app Catenda](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda).
+Dit is geen probleem met het apparaat: het apparaat kan Catenda Site uitvoeren, maar Google Play biedt het daar niet langer aan in de zoekresultaten. Dit kan gebeuren op een apparaat waarop Catenda Site eerder was geïnstalleerd en dat sindsdien is bijgewerkt naar een nieuwere versie van Android. Op zo'n apparaat kan een Google Play-zoekopdracht alleen Catenda (Early Access) weergeven, wat een ander app is: zie [Download your mobile app Catenda](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda).
 
 Installeer Catenda Site op het apparaat via de Google Play-website:
 
 1. Open op een computer of ander apparaat [Catenda Site op de Google Play-website](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile).
-2. Meld u aan met dezelfde Google-account die op de telefoon of tablet wordt gebruikt.
-3. Selecteer **Installeren**.
-4. Kies de telefoon of tablet in de lijst met apparaten en selecteer **Installeren** opnieuw.
+1. Meld u aan met dezelfde Google-account die op de telefoon of tablet wordt gebruikt.
+1. Selecteer **Installeren**.
+1. Kies de telefoon of tablet in de lijst met apparaten en selecteer **Installeren** opnieuw.
 
 De app wordt op de telefoon of tablet geïnstalleerd wanneer deze de volgende keer verbinding heeft met internet. Daarna kan Catenda Site via Google Play op het apparaat zelf worden bijgewerkt, verwijderd en opnieuw geïnstalleerd. Als de telefoon of tablet niet in de lijst met apparaten voorkomt, neemt u contact op met ondersteuning op [support@catenda.com](mailto:support@catenda.com).

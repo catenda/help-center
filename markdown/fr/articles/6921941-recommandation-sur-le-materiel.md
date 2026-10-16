@@ -62,4 +62,4 @@ Sur une tablette, il est utile de charger uniquement ce dont vous avez besoin po
 
 D'autres conseils sont décrits dans [Optimisation de la visionneuse 3D](https://support.catenda.com/fr/articles/13927321-optimisation-de-la-visionneuse-3d).
 
-Pour le travail sur le chantier, l'application mobile Catenda Site est souvent un meilleur choix, comme décrit dans [Accès avec espace d'écran limité](https://support.catenda.com/fr/articles/10695677-acces-avec-un-espace-d-ecran-limite). Les recommandations d'appareils pour Catenda Site sont décrites dans [Recommandation matérielle - Catenda Site](https://support.catenda.com/en/articles/17596478-hardware-recommendation-catenda-site).
+Pour le travail sur le chantier, l'application mobile Catenda Site est souvent un meilleur choix, comme décrit dans [Accès avec espace d'écran limité](https://support.catenda.com/fr/articles/10695677-acces-avec-un-espace-d-ecran-limite). Les recommandations d'appareils pour Catenda Site sont décrites dans [Recommandation matérielle - Catenda Site](https://support.catenda.com/fr/articles/17596478-recommandations-materielles-catenda-site).

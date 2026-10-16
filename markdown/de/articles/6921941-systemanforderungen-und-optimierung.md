@@ -62,4 +62,4 @@ Auf einem Tablet ist es hilfreich, nur das zu laden, was Sie für die anstehende
 
 Weitere Tipps werden unter [3D-Viewer-Optimierung](https://support.catenda.com/de/articles/13927321-3d-viewer-optimierung) beschrieben.
 
-Für Arbeiten auf der Baustelle ist die mobile App Catenda Site oft die bessere Wahl, wie unter [Zugriff mit begrenztem Bildschirmplatz](https://support.catenda.com/de/articles/10695677-zugriff-mit-begrenztem-bildschirmplatz) beschrieben. Geräteempfehlungen für Catenda Site sind unter [Hardwareempfehlung - Catenda Site](https://support.catenda.com/en/articles/17596478-hardware-recommendation-catenda-site) aufgeführt.
+Für Arbeiten auf der Baustelle ist die mobile App Catenda Site oft die bessere Wahl, wie unter [Zugriff mit begrenztem Bildschirmplatz](https://support.catenda.com/de/articles/10695677-zugriff-mit-begrenztem-bildschirmplatz) beschrieben. Geräteempfehlungen für Catenda Site sind unter [Hardwareempfehlung - Catenda Site](https://support.catenda.com/de/articles/17596478-hardwareempfehlung-catenda-site) aufgeführt.

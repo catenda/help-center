@@ -50,6 +50,7 @@ Configureer de instellingen van uw project of account
 - [Projectenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8400797-projectenpagina.md)
 - [Projectenpagina - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7733978-projectenpagina-catenda-site.md)
 - [Projectleden - Organisatietool](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9003642-projectleden-organisatietool.md)
+- [Projectpagina - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/17601629-projectpagina-catenda-mobile.md): Een project in Catenda Mobile zoeken en openen, en tussen de pagina's van de app navigeren.
 - [Projectpagina - Organisatietool](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8505058-projectpagina-organisatietool.md)
 - [Rechtermenu op de pagina Leden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/11768610-rechtermenu-op-de-pagina-leden.md)
 - [Teampagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7891755-teampagina.md)
@@ -115,11 +116,13 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Documenten menu - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7774637-documenten-menu-catenda-site.md)
 - [Documenten verwijderen ongedaan maken / Documenten of mappen herstellen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670249-documenten-verwijderen-ongedaan-maken-documenten-of-mappen-herstellen.md)
 - [Documentenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8204673-documentenpagina.md)
+- [Documentenpagina - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/17601649-documentenpagina-catenda-mobile.md): Blader door de documenten van uw project in Catenda Mobile en open deze.
 - [Documentgoedkeuring - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5784717-documentgoedkeuring-legacy.md): Ontdek hoe u een documentgoedkeuringswerkstroom instelt
 - [Documentvoorbeeld en aantekeningen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5001165-documentvoorbeeld-en-aantekeningen.md): Annotatiegereedschappen gebruiken, redlining, documenten voorzien van opmerkingen in Issues
 - [Documentvoorbeeldinstrumenten - Rubberstempel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/11678493-documentvoorbeeldinstrumenten-rubberstempel.md)
 - [Doorsnede-vlakken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670253-doorsnede-vlakken.md)
 - [Download je mobiele app Catenda Site 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6530821-download-je-mobiele-app-catenda-site.md)
+- [Download je mobiele app Catenda 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/17601630-download-je-mobiele-app-catenda.md): Download de mobiele app van Catenda, beschikbaar in early access, en log in met je Catenda-account.
 - [Een aangepast veld maken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8445575-een-aangepast-veld-maken.md)
 - [Een document aan een onderwerp koppelen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670250-een-document-aan-een-onderwerp-koppelen.md)
 - [Een document uploaden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670278-een-document-uploaden.md)
@@ -145,6 +148,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Filteren op de onderwerppagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8370693-filteren-op-de-onderwerpen-pagina.md)
 - [Filteren op de pagina goedkeuringen - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8551740-filteren-op-de-pagina-goedkeuringen-legacy.md)
 - [Filteren op de verzamelingenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8999945-filteren-op-de-verzamelingenpagina.md)
+- [Formulierenpagina - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/17601640-formulierenpagina-catenda-mobile.md): Vul formulieren ter plaatse in Catenda Mobile in, één vraag tegelijk.
 - [Geavanceerde naamgevingsconventie](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7936947-geavanceerde-naamgevingsconventie.md)
 - [Gerelateerde problemen gebruiken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5036456-gerelateerde-problemen-gebruiken.md): Gerelateerde problemen helpen gebruikers om de voortgang bij te houden en in de gaten te houden.
 - [Goedkeuring geopend, gepubliceerd of verwijderd - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8349418-goedkeuring-geopend-gepubliceerd-of-verwijderd-legacy.md)
@@ -169,11 +173,13 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Koppelingen bibliotheek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670254-koppelingen-bibliotheek.md)
 - [Labelfilter - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7854138-labelfilter-catenda-site.md)
 - [Lijstweergave in een topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6941232-lijstweergave-in-een-topic-board.md)
+- [Locatiepagina - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/17601635-locatiepagina-catenda-mobile.md): Navigeer door uw project op gebouw, verdieping en ruimte in Catenda Mobile.
 - [Maken van Topic board ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670299-maken-van-topic-board-acl.md)
 - [Mapconfiguratie - Documentinstellingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12302595-mapconfiguratie-documentinstellingen.md)
 - [Mappen en Documenten toegangscontrole](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670287-mappen-en-documenten-toegangscontrole.md): Toegangsniveaus voor documenten
 - [Matrix voor goedkeuringsbewerkingen en -acties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/16195101-matrix-voor-goedkeuringsbewerkingen-en-acties.md): Gedetailleerde operationele gids met beschrijving van machtigingen voor weergave en uitvoering van acties in alle fasen van concepten, beoordeling en definitieve goedkeuring, gestructureerd naar pre-indiening- en post-indieningsfasen van de levenscyclus.
 - [Meetvlak](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8360838-meetvlak.md)
+- [Menupagina - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/17601655-menupagina-catenda-mobile.md): Wijzig de app-instellingen, schakel project of log uit in Catenda Mobile.
 - [Meten naar schuifvlakken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670298-meten-naar-schuifvlakken.md)
 - [Microsoft Teams-notificaties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9167392-microsoft-teams-notificaties.md): Blijf op de hoogte zonder van tabblad te wisselen. Verbind Catenda Hub met Microsoft Teams om real-time notificaties rechtstreeks in uw voorkeurkanalen te ontvangen.
 - [Modelboom-paneel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670290-modelboom-paneel.md)
@@ -262,6 +268,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Topic board van een bestaand topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6379614-topic-board-van-een-bestaand-topic-board.md)
 - [Topic-templates gebruiken met goedkeuringen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen.md): Een goedkeuringonderwerpsjabloon toepassen op een goedkeuringswerkstroomsjabloon
 - [Topicbanner - Navigeren door topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7986346-topicbanner-navigeren-door-topics.md)
+- [Topics pagina - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/17601633-topics-pagina-catenda-mobile.md): Blader, filter en maak Topics in Catenda Mobile.
 - [Verdiepingsconfiguratoracties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12291366-verdiepingsconfiguratoracties.md)
 - [Verdiepingsconfiguratorpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6921756-verdiepingsconfiguratorpagina.md): Een PDF als overlay in uw 2D-weergave
 - [Verschuifvlak-vervolgkeuze](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670327-verschuifvlak-vervolgkeuze.md)
@@ -336,6 +343,7 @@ Hier vind u antwoorden voor vragen die veel gebruikers hebben
 - [Filterresultaten beperken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8551755-filterresultaten-beperken.md)
 - [Gebruikersfeedback @ Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5925449-gebruikersfeedback-catenda.md): Catenda's toezegging om waarde aan onze gebruikers te leveren
 - [Hardwareaanbeveling](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6921941-hardwareaanbeveling.md): Vind aanbevolen hardwarespecificaties en optimalisatietips voor de beste ervaring met Catenda Hub.
+- [Hardwareaanbevelingen - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/17596478-hardwareaanbevelingen-catenda-site.md): Apparaataanbevelingen en tips voor het bekijken van 3D-modellen in de Catenda Site mobiele app op telefoons en tablets.
 - [Hoe kan ik een document aan een object in Catenda Hub koppelen?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670322-hoe-kan-ik-een-document-aan-een-object-in-catenda-hub-koppelen.md)
 - [Hoe kan ik een groep verwijderen die aan een label is gekoppeld?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670316-hoe-kan-ik-een-groep-verwijderen-die-aan-een-label-is-gekoppeld.md)
 - [Hoe kan ik een lid uitnodigen?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670319-hoe-kan-ik-een-lid-uitnodigen.md)

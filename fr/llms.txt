@@ -44,6 +44,7 @@ Configurez les paramètres de votre projet ou de votre compte
 - [Page Membres et équipes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670291-page-membres-et-équipes.md)
 - [Page Organisations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8281910-page-organisations.md)
 - [Page Projets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8400797-page-projets.md)
+- [Page Projets - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17601629-page-projets-catenda-mobile.md): Trouvez et ouvrez un projet dans Catenda Mobile, et naviguez entre les pages de l'application.
 - [Page Projets - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7733978-page-projets-catenda-site.md)
 - [Page Projets - Outil Organisation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8505058-page-projets-outil-organisation.md)
 - [Page Utilisateurs - Outil d'organisation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8508311-page-utilisateurs-outil-d-organisation.md)
@@ -215,7 +216,11 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Page des tableaux](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9413644-page-des-tableaux.md)
 - [Page des validations - Héritage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8349340-page-des-validations-héritage.md)
 - [Page Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8204673-page-documents.md)
+- [Page Documents - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17601649-page-documents-catenda-mobile.md): Parcourez et ouvrez les documents de votre projet dans Catenda Mobile.
+- [Page Emplacements - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17601635-page-emplacements-catenda-mobile.md): Naviguez dans votre projet par bâtiment, étage et pièce dans Catenda Mobile.
+- [Page Formulaires - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17601640-page-formulaires-catenda-mobile.md): Remplissez des formulaires sur site dans Catenda Mobile, une question à la fois.
 - [Page Membres](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11926821-page-membres.md)
+- [Page Menu - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17601655-page-menu-catenda-mobile.md): Modifiez les paramètres de l'application, changez de projet ou déconnectez-vous dans Catenda Mobile.
 - [Page Modèles](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670286-modeles.md)
 - [Page Objets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12352750-page-objets.md)
 - [Page Projets du Portail d'Archivage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/16968870-page-projets-du-portail-d-archivage.md): Connectez-vous au Portail d'Archivage et ouvrez un projet. Seuls les projets dont vous êtes administrateur sont listés.
@@ -223,6 +228,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Page Signets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670281-page-signets.md)
 - [Page Statistiques](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7575491-page-statistiques.md)
 - [Page Sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670271-page-sujets.md)
+- [Page Sujets - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17601633-page-sujets-catenda-mobile.md): Parcourez, filtrez et créez des sujets dans Catenda Mobile.
 - [Page Tableau de bord](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8212646-page-tableau-de-bord.md)
 - [Page Workflows - Paramètres des documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12309903-page-workflows-paramètres-des-documents.md)
 - [Page Étiquettes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670265-page-étiquettes.md)
@@ -260,6 +266,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Télécharger un fichier zip / structure de fichiers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7945410-deposer-un-fichier-zip-une-arborescence-de-dossiers-et-de-fichiers.md)
 - [Télécharger une structure de dossier](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670258-télécharger-une-structure-de-dossier.md)
 - [Téléchargez votre application mobile Catenda Site 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6530821-téléchargez-votre-application-mobile-catenda-site.md)
+- [Téléchargez votre application mobile Catenda 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17601630-telechargez-votre-application-mobile-catenda.md): Téléchargez l'application mobile Catenda, disponible en accès anticipé, et connectez-vous avec votre compte Catenda.
 - [Utilisation de modèles de sujets avec les approbations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14078683-utilisation-de-modèles-de-sujets-avec-les-approbations.md): Appliquer un modèle de sujet d'approbation à un modèle de circuit de validation
 - [Utilisation de modèles de sujets lors de l'enregistrement de sujets de balisage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14078352-utilisation-de-modèles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage.md): Appliquer un modèle de sujet de document lors de la création d'un balisage à partir d'un document
 - [Utilisation des modèles de sujets dans une liste de sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14075921-utilisation-des-modèles-de-sujets-dans-une-liste-de-sujets.md): Appliquer un modèle de sujet général lors de la création d'un sujet
@@ -354,6 +361,7 @@ Problèmes de connexion, problèmes de performances, support, etc.
 - [Recommandation logicielle système](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13927605-recommandation-logicielle-système.md)
 - [Recommandation matérielle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6921941-recommandation-sur-le-materiel.md): Trouvez les spécifications matérielles recommandées et les conseils d'optimisation pour la meilleure expérience avec Catenda Hub.
 - [Recommandation réseau](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13927294-recommandation-réseau.md)
+- [Recommandations matérielles - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17596478-recommandations-materielles-catenda-site.md): Trouvez des recommandations d'appareils et des conseils pour visualiser des modèles 3D dans l'application mobile Catenda Site sur les téléphones et les tablettes.
 - [Redimensionnement des colonnes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6887350-redimensionnement-des-colonnes.md)
 - [Structuration des documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8542598-structuration-des-documents.md)
 - [Sécurité du projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8263256-sécurité-du-projet.md)

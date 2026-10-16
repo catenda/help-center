@@ -15,7 +15,7 @@ Sur les appareils avec un écran de taille limitée, les boutons doivent être p
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda) est notre application mobile en accès anticipé, disponible pour iPhone et iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) et pour Android sur [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Elle couvre les sujets, les emplacements, les formulaires et les documents, et au fil du temps, elle obtiendra toutes les fonctionnalités de Catenda Site.
+[Catenda Mobile](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda) est notre application mobile en accès anticipé, disponible pour iPhone et iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) et pour Android sur [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Elle couvre les sujets, les emplacements, les formulaires et les documents, et au fil du temps, elle obtiendra toutes les fonctionnalités de Catenda Site.
 
 ## 2. **Écran d'accueil / Tableau de bord / Dock -** Fonctionnalité complète
 
