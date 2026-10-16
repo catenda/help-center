@@ -2,8 +2,6 @@
 
 For å forhindre varslingsspam og for å sikre en sømløs lansering kan ny oppførsel eller endringer av eksisterende oppførsel rulles ut gradvis og uten varsel. De som legger merke til endringer i oppførselen til en del av en side de bruker ofte, eller de som lurer på hva som er nytt, kan konsultere disse artiklene for oppdateringer om nylige endringer i oppførselen for alle brukere.
 
-Følgjande saker er beskrevne i denne artikkelen:
-
 ## 1. **Nye funksjonar**
 
 Hver bruker bruker plattformen annerledes. Selv om en ny funksjon blir gitt ut eller endringer blir gjort på en funksjon kan det være at brukere ikke bruker den delen av funksjonen. For de som er nysgjerrige på hva "den nye knappen" eller "den nye siden" er på plattformen inneholder denne artikkelen en innledning på hva endringen handler om. For disse funksjonene er ofte bare grunnleggende eller litt foreldet støttemateriell tilgjengelig da dette blir oppdatert underveis. Sammen med å hjelpe folk i støtte blir artiklene ofte oppdatert, og hvis spørsmål som ble stilt kan finnes forklart raskt i en artikkel neste uke.

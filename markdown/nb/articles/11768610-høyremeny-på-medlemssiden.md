@@ -36,7 +36,7 @@ Både feltene for legge til og fjerne team oppfører seg på samme måte. Klikk 
 
 Hvis et valgt medlem har en annen rolle enn den valgte rollen, blir medlemmets rolle oppdatert. Medlemmer som er valgt i tabellen og som ikke allerede er del av team i valget "legg til i team", blir lagt til i disse teamene. Medlemmer som er valgt i tabellen og som er del av team i valget "fjern fra team", blir fjernet fra disse teamene.
 
-**Fjerning har prioritet** Uavhengig av om medlemmet er del av et team eller ikke, hvis et team er valgt i både "legg til i team" og "fjern fra team", blir medlemmet fjernet fra team de er del av og blir ikke lagt til i team de ikke var del av.
+_Fjerning har prioritet_ Uavhengig av om medlemmet er del av et team eller ikke, hvis et team er valgt i både "legg til i team" og "fjern fra team", blir medlemmet fjernet fra team de er del av og blir ikke lagt til i team de ikke var del av.
 
 ## 2. **Høyremeny på teamsfanen**
 
@@ -58,4 +58,4 @@ Både feltene for legge til og fjerne medlemmer oppfører seg på samme måte. K
 
 Hvis et valgt team har en annen rolle enn den valgte rollen, blir teamets rolle oppdatert. Medlemmer i valget "legg til medlem" som ikke allerede er del av et team som er valgt i teamtabellen, blir lagt til det teamet. Medlemmer i valget "fjern medlem" som er del av et team som er valgt i teamtabellen, blir fjernet fra det teamet.
 
-**Fjerning har prioritet** Uavhengig av om medlemmet er del av teamet eller ikke, hvis et medlem er valgt i både "legg til medlem" og "fjern medlem", blir medlemmet fjernet fra eventuelle valgte team de var del av og blir ikke lagt til i team de ikke var del av.
+_Fjerning har prioritet_ Uavhengig av om medlemmet er del av teamet eller ikke, hvis et medlem er valgt i både "legg til medlem" og "fjern medlem", blir medlemmet fjernet fra eventuelle valgte team de var del av og blir ikke lagt til i team de ikke var del av.

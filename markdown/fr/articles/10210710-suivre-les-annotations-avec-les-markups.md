@@ -14,13 +14,9 @@ Veuillez noter ce qui suit :
 1. **Plusieurs Markups** sur un document peuvent être enregistrés comme **plusieurs topics** OU sous un seul **Topic existant.**
 1. Si un **Markup** contient **plusieurs ensembles d'annotations répartis sur plusieurs pages**, il y aura **un commentaire par ensemble d'annotations sur chaque page**.
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Deux workflows**
 
 Lorsque vous souhaitez signaler quelque chose dans un document, il peut y avoir différentes façons de communiquer cela avec vos pairs.
-
-Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Un topic par markup**
 
@@ -61,8 +57,6 @@ Supposons que ce markup était destiné à l'Architecte, mais vous souhaitez ég
 ## 4. **Enregistrer les markups**
 
 Une fois que vous avez terminé la modification de vos markups, vous pouvez les [enregistrer](https://support.catenda.com/fr/articles/10209740-enregistrer-un-markup#h_8542b82cf8). Lors de l'enregistrement, un commentaire sera créé pour chaque ensemble d'annotations sur la page d'une revision
-
-Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Enregistrer chaque markup dans son propre topic**
 

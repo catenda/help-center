@@ -10,13 +10,9 @@ Ta deg tid til å komme tilbake til arbeidsrutinen, husk å holde deg hydrert (o
 
 Velkommen tilbake! ☀️😎🏖️🌊🍦☕
 
-De følgende sakene er beskrevet i denne artikkelen:
-
 ## 1. **Artikler**
 
 Når nye funksjoner lanseres og feil rettes, oppdateres artikler med endringene som gjøres. Se følgende artikler som er laget og endret siden forrige endringslogg.
-
-De følgende sakene er beskrevet i denne delen:
 
 ### 1.1 **Nye artikler:**
 
@@ -83,8 +79,6 @@ _Feilsøking_
 ## 3. **Løste feil**
 
 Takk for din verdifulle tilbakemelding har vi kunnet rette mange saker som du kanskje eller kanskje ikke har merket fantes. Nedenfor er en liste over mindre endringer som er gjort av utviklingsteamet som et resultat av samtaler med brukere.
-
-De følgende sakene er beskrevet i denne delen:
 
 ### 3.1 **Generelt**
 

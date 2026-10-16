@@ -14,13 +14,9 @@ Merk følgjande:
 1. **Flere merknader** på ett dokument kan lagres som **flere topics** ELLER under en **eneste eksisterende topic.**
 1. Dersom en **merknad** inneholder **flere sett med annoteringer spredt på flere sider**, vil det være **en kommentar per sett med annoteringer på hver side**.
 
-Følgjande topics er beskrivne i denne artikkelen:
-
 ## 1. **To arbeidsflyt**
 
 Når du vil påpeke noe i et dokument, kan det være ulike måter å kommunisere dette med kollegaene dine.
-
-Følgjande topics er beskrivne i denne delen:
 
 ### 1.1 **En topic per merknad**
 
@@ -61,8 +57,6 @@ La oss si at denne merknaden var rettet mot arkitekten, men du vil også sende u
 ## 4. **Lagre merknader**
 
 Etter at du er ferdig med å redigere merknadene dine, kan du [lagre dem](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_8542b82cf8). Når du lagrer, blir en kommentar opprettet for hvert sett av annoteringer på siden til en revisjon
-
-Følgjande topics er beskrivne i denne delen:
 
 ### 4.1 **Lagre hver merknad til sin egen topic**
 

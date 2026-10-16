@@ -10,8 +10,6 @@ Siden Steder viser stedsstrukturen i prosjektet, for eksempel bygninger, etasjer
 
 ![Siden Steder med en bygning, en etasje og to rom](https://raw.githubusercontent.com/catenda/help-center/main/images/7z5qbekw/01-intro.jpg)
 
-Følgende saker behandles i denne artikkelen:
-
 ## 1. **Bla gjennom steder**
 
 Steder vises som et tre: en bygning inneholder etasjer, og en etasje inneholder rom. Minustegnet ved siden av et sted kollapser stedene under det. Et bildeikonet under et sted betyr at det har en plantegning.

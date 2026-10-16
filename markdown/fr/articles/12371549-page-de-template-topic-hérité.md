@@ -6,8 +6,6 @@ Voici à quoi la page de Template topic peut ressembler :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3hd924wy/01-intro.png)
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Actions sur la page de Template topic**
 
 Les actions de la page Templates topic se trouvent en cliquant sur le menu d'action à droite du bouton plus vert en haut à droite de la page Templates topic. Voici à quoi les actions de la page Templates topic peuvent ressembler :

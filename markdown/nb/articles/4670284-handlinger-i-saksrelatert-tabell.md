@@ -4,8 +4,6 @@ Handlingsknapper kan finnes på ulike steder på [sakssiden](https://support.cat
 
 ![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/01-intro.png)
 
-Følgjande saker er beskrivne i denne artikkelen:
-
 ## 1. **Nye elementhandlingar**
 
 Plussknappen og handlingsmenyelementene kan finnes mot øvre høyre hjørne av siden og kan se slik ut:
@@ -37,8 +35,6 @@ _Flyttehistorikk_ Dette viser sakene som har blitt flyttet og hvor de har blitt 
 ## 2. **Handlinger for valgte elementer**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/03-selected-item-actions.png)
-
-Følgjande saker er beskrivne i denne delen:
 
 ### 2.1 **Kopier lenke**
 

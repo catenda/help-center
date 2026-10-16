@@ -3459,8 +3459,6 @@ Titre Titre du sujet
 
 Cliquez sur Affichage Tableau (**4**) en haut à droite du tableau des topics sur la [page des topics](https://support.catenda.com/fr/articles/4670271-page-sujets). Par défaut, l'affichage en liste est affiché dans le tableau. La préférence d'affichage du tableau des topics est une préférence globale. Une fois l'affichage préféré sélectionné, les tableaux de topics dans n'importe quel topic board de n'importe quel projet sont affichés dans cet affichage pour l'utilisateur.
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Tableau de topics**
 
 Le tableau de topics peut ressembler à ceci lorsque l'affichage du tableau est configuré.
@@ -3468,8 +3466,6 @@ Le tableau de topics peut ressembler à ceci lorsque l'affichage du tableau est 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
 Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'un topic est créé et que le tableau est chargé, le topic apparaît sous forme de ligne dans le tableau de topics pour l'utilisateur. Notez que le filtre ouvert est activé par défaut et les topics fermés peuvent être masqués jusqu'à ce qu'ils soient filtrés.
-
-Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Modifications apportées lors de la visualisation**
 
@@ -3522,8 +3518,6 @@ En haut à droite du tableau de topics, vous trouverez la liste déroulante "Col
 Avec cette liste déroulante, vous pouvez réorganiser et basculer les colonnes du tableau. Votre préférence pour la réorganisation et le basculement des colonnes sera mémorisée dans les topic boards et les projets et stockée dans votre compte. Cela signifie qu'il conservera cet ordre si vous fermez et réorganisez votre navigateur. Si vous avez accidentellement masqué une colonne en la faisant glisser hors du tableau, vous pouvez la réactiver ici. Par défaut, toutes les colonnes sont activées et dans cet ordre :
 
 ## 4. **3. Ligne d'en-tête**
-
-Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Tri**
 
@@ -12577,8 +12571,8 @@ Vous pouvez filtrer par :
 
 - Mes sujets
 - Statuts et types
-  - Si un statut ou un type est ajouté au projet ou si le nom d'un statut ou d'un type existant est modifié, les sujets ayant ce statut auront le nom du statut et du type, mais la couleur sera grise.
-  - Il ne sera pas possible de filtrer et de voir la couleur de ces statuts jusqu'à ce que vous retourniez à la [page du projet](https://support.catenda.com/fr/articles/7733978-page-projets-catenda-site) et rouvriez le projet.
+    - Si un statut ou un type est ajouté au projet ou si le nom d'un statut ou d'un type existant est modifié, les sujets ayant ce statut auront le nom du statut et du type, mais la couleur sera grise.
+    - Il ne sera pas possible de filtrer et de voir la couleur de ces statuts jusqu'à ce que vous retourniez à la [page du projet](https://support.catenda.com/fr/articles/7733978-page-projets-catenda-site) et rouvriez le projet.
 - [Étiquettes](https://support.catenda.com/fr/articles/7854138-filtre-d-etiquettes-catenda-site)
 - Echéance
 - Localisation <br>
@@ -15114,8 +15108,6 @@ Voici à quoi la page de Template topic peut ressembler :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3hd924wy/01-intro.png)
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Actions sur la page de Template topic**
 
 Les actions de la page Templates topic se trouvent en cliquant sur le menu d'action à droite du bouton plus vert en haut à droite de la page Templates topic. Voici à quoi les actions de la page Templates topic peuvent ressembler :
@@ -15530,8 +15522,6 @@ Voici à quoi peut ressembler la page des milestones :
 
 Cette page contient des informations sur les Sujets suivants : [Planning](#h_595c5ebf4c) - [Actions](#h_ef3bbf0441) - [Milestones list](#h_5403eb541f)
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. Planification
 
 Les milestones peuvent être utilisés de nombreuses façons différentes :
@@ -15563,8 +15553,6 @@ Dans la liste des milestones, vous verrez un aperçu de chacun des milestones qu
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/04-milestones-list.png)
 
 Cliquez n'importe où sur le milestone pour ouvrir la page de ce milestone. Pour chaque milestone, vous verrez les informations suivantes
-
-Les topics suivants sont décrits dans cette section :
 
 ### 3.1 Titre
 
@@ -15600,8 +15588,6 @@ Voici à quoi peut ressembler la page des modèles de topics :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/01-intro.png)
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Actions sur la page des modèles de topics**
 
 Les actions de la page des modèles de topics se trouvent en cliquant sur le menu d'actions à droite du bouton plus vert en haut à droite de la page des modèles de topics. Voici à quoi peuvent ressembler les actions de la page des modèles de topics lors de la consultation des modèles de topics :
@@ -15625,8 +15611,6 @@ Cliquez sur les actions modèles de topics et modèles de topics archivés pour 
 Une fois qu'un modèle de topic est créé, une carte pour le modèle de topic apparaît sur cette page. Cliquez sur une carte de modèle de topic pour ouvrir la [page du modèle de topic](https://support.catenda.com/fr/articles/12371549-page-de-template-topic-herite) de ce modèle de topic. Voici à quoi peut ressembler une carte de modèle de topic :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
-
-Les topics suivants sont décrits dans cette section :
 
 ### 2.1 **Titre du modèle de topic**
 
@@ -16275,8 +16259,6 @@ Souvent, plusieurs sujets sont importés à la fois. Pour que chaque champ indiv
 Vous pourrez trouver la page des tableaux comme sous-page de la [page des topics](https://support.catenda.com/fr/articles/4670271-page-sujets). La page des tableaux vous donnera un aperçu de vos tableaux de topics disponibles.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/01-intro.png)
-
-Les topics suivants sont décrits dans cet article :
 
 ## 1. **Actions des tableaux**
 
@@ -17061,8 +17043,6 @@ La page statistiques se trouve comme sous-page de la [page topics](https://suppo
 Voici un exemple de ce qu'une page statistiques peut ressembler
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/02-intro.png)
-
-Les topics suivants sont décrits dans cet article :
 
 ## 1. Aperçu
 
@@ -18854,13 +18834,9 @@ Il n'est pas possible de supprimer une capture jointe à un commentaire. Si vous
 
 La base de tout ce qui est fait, peu importe ce que c'est, est la communication. Sans communication, de grandes choses peuvent être réalisées mais personne ne le saura. Dans Catenda, cette communication prend la forme d'un topic. Les topics sont un enregistrement d'une communication qui a eu lieu.
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Communication physique**
 
 La forme de communication la plus mémorable sera toujours la communication physique. Il y a des nuances comme les expressions faciales et les mouvements du corps que vous ne pouvez pas obtenir d'une autre manière.
-
-Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Inconvénients de la communication en personne**
 
@@ -19363,13 +19339,9 @@ Veuillez noter ce qui suit :
 1. **Plusieurs Markups** sur un document peuvent être enregistrés comme **plusieurs topics** OU sous un seul **Topic existant.**
 1. Si un **Markup** contient **plusieurs ensembles d'annotations répartis sur plusieurs pages**, il y aura **un commentaire par ensemble d'annotations sur chaque page**.
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Deux workflows**
 
 Lorsque vous souhaitez signaler quelque chose dans un document, il peut y avoir différentes façons de communiquer cela avec vos pairs.
-
-Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Un topic par markup**
 
@@ -19410,8 +19382,6 @@ Supposons que ce markup était destiné à l'Architecte, mais vous souhaitez ég
 ## 4. **Enregistrer les markups**
 
 Une fois que vous avez terminé la modification de vos markups, vous pouvez les [enregistrer](https://support.catenda.com/fr/articles/10209740-enregistrer-un-markup#h_8542b82cf8). Lors de l'enregistrement, un commentaire sera créé pour chaque ensemble d'annotations sur la page d'une revision
-
-Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Enregistrer chaque markup dans son propre topic**
 
@@ -21238,8 +21208,6 @@ Comment filtrer vos **problèmes** et **Documents** par date est ici  👇
 Voici à quoi peut ressembler une liste de lecture de guide :
 
 <div class="intercom-container"><a href="https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&amp;track_link_id=rHg8xpibRQegGuksgmT5nA&amp;origin=7PqdD6oPp9QLchKHNkCwDH3opRS2" target="_blank"><img height="1350" src="https://raw.githubusercontent.com/catenda/help-center/main/images/wm2jp1mz/inline-6fc59cc67355.png" style="height: auto;" width="2556"/></a></div>
-
-Les thèmes suivants sont décrits dans cet article :
 
 ## 1. **Instructions étape par étape**
 
@@ -23318,11 +23286,7 @@ Voici comment les marqueurs peuvent apparaître dans la Visionneuse 2D :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/01-intro.png)
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Topics avec marqueurs existants**
-
-Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Interaction avec les marqueurs**
 
@@ -23380,14 +23344,12 @@ La visibilité des marqueurs peut être configurée dans les emplacements suivan
 
 1. Afficher/masquer les marqueurs dans la vue 2D avec les [paramètres de la visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_381a9d4098). <br>Remarque : Les marqueurs peuvent ne pas être visibles si la couche de marqueurs est désactivée.
 
-   Dans ce menu, le mode de couleur des marqueurs peut également être configuré.
-   ([Statut, Type de topic, Échéance](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_381a9d4098)).
+    Dans ce menu, le mode de couleur des marqueurs peut également être configuré.
+    ([Statut, Type de topic, Échéance](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_381a9d4098)).
 
-2. Dans le menu des couches, la couche de marqueur peut être activée/désactivée.
+1. Dans le menu des couches, la couche de marqueur peut être activée/désactivée.
 
 ## 2. **Topics avec nouveaux marqueurs**
-
-Les topics suivants sont décrits dans cette section :
 
 ### 2.1 **Ajouter un marqueur à partir d'un topic**
 
@@ -24754,13 +24716,9 @@ Prenez votre temps pour reprendre votre routine de travail, assurez-vous de rest
 
 Bienvenue ! ☀️😎🏖️🌊🍦☕
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Articles**
 
 À mesure que de nouvelles fonctionnalités sont déployées et que les bugs sont corrigés, les articles sont mis à jour avec les modifications apportées. Veuillez trouver les articles suivants qui ont été créés et modifiés depuis le dernier changelog.
-
-Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Nouveaux articles :**
 
@@ -24828,8 +24786,6 @@ Les topics suivants sont décrits dans cette section :
 
 Grâce à vos précieux commentaires, nous avons pu éliminer de nombreux topics que vous ayez remarqué ou non. Voici une liste des petits changements apportés par l'équipe de développement suite à des conversations avec les utilisateurs.
 
-Les topics suivants sont décrits dans cette section :
-
 ### 3.1 **Général**
 
 - **[Projets] Création de projet restaurée**<br>Il est à nouveau possible de créer des projets.
@@ -24875,8 +24831,8 @@ Les topics suivants sont décrits dans cette section :
 - **Onglet Aperçu des révisions de documents** <br>La page des approbations dispose maintenant d'un onglet dédié "Révisions de documents" qui fournit un aperçu complet du tableau de tous les fichiers actuellement en révision dans toutes les approbations ouvertes. <br>Vous pouvez maintenant rechercher, trier et filtrer les révisions de documents individuelles par assignation d'équipe, état d'examen et date d'échéance sans avoir à ouvrir chaque package d'approbation séparément.
 - **Localisation japonaise pour les approbations**
 
-  La localisation complète en japonais a été implémentée dans l'interface d'approbation et les pages de configuration du flux de travail.
-  Les équipes travaillant en japonais peuvent maintenant naviguer dans les cartes d'approbation, les outils d'examen de document et les menus de configuration avec une terminologie localisée précise et cohérente.
+    La localisation complète en japonais a été implémentée dans l'interface d'approbation et les pages de configuration du flux de travail.
+    Les équipes travaillant en japonais peuvent maintenant naviguer dans les cartes d'approbation, les outils d'examen de document et les menus de configuration avec une terminologie localisée précise et cohérente.
 
 ### 4.3 **Paramètres du projet**
 

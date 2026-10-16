@@ -24,9 +24,9 @@ Samlingshandlingene finner du øverst til høyre på siden.
 
 Ny samling Klikk på handlingen for ny samling for å opprette en ny samling
 
-**Kopier samling** Klikk på knappen Kopier samling for å opprette en ny samling som er lik den gjeldende samlingen.
+_Kopier samling_ Klikk på knappen Kopier samling for å opprette en ny samling som er lik den gjeldende samlingen.
 
-**Slett samling** Klikk på handlingen Slett samling for å slette den gjeldende samlingen _Tilgang kreves:_ Administrator eller samlingeier
+_Slett samling_ Klikk på handlingen Slett samling for å slette den gjeldende samlingen _Tilgang kreves:_ Administrator eller samlingeier
 
 ## 2. **Høyre meny**
 
@@ -62,9 +62,9 @@ Fullførte samlinger er låst for redigering. Fullførte samlinger må være lå
 
 Tabelhandlinger finner du mot øverst til høyre i samlingenes tabell
 
-**Last ned samling** Klikk på last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen. Navnene på filene i zip-filen kan påvirkes av [alternativet for nedlastingstittel for dokument](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Projekteieren konfigurerer dette alternativet for hele organisasjonen sin, så projektmedlemmer kan ikke be om eller endre det selv.
+_Last ned samling_ Klikk på last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen. Navnene på filene i zip-filen kan påvirkes av [alternativet for nedlastingstittel for dokument](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Projekteieren konfigurerer dette alternativet for hele organisasjonen sin, så projektmedlemmer kan ikke be om eller endre det selv.
 
-**Legg til dokumenter** Klikk på [Legg til dokumenter](https://support.catenda.com/nb/articles/6344318-samlingside#h_b94d108342) for å legge til dokumenter i samlingen din. Hvis dokumentet ditt har blitt funnet å være infisert med virus, vil du ikke kunne legge det til samlingen.
+_Legg til dokumenter_ Klikk på [Legg til dokumenter](https://support.catenda.com/nb/articles/6344318-samlingside#h_b94d108342) for å legge til dokumenter i samlingen din. Hvis dokumentet ditt har blitt funnet å være infisert med virus, vil du ikke kunne legge det til samlingen.
 
 > **Merk:** Navnet på dokumentet i samlingen vil være [revisjonsnavnet](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden#h_01e7f2d654) på revisjonen som ble lagt til. Dette navnet kan være annerledes enn navnet på dokumentet fordi et dokument kan inneholde flere revisjoner med forskjellige navn.
 
@@ -72,8 +72,8 @@ Tabelhandlinger finner du mot øverst til høyre i samlingenes tabell
 
 Dokumenthandling for samling finner du ved å klikke på handlingsmenyen med tre punkter til høyre for dokumentraden.
 
-**Last ned** Klikk på Last ned for å laste ned dette individuelle dokumentet _Tilgang kreves:_ Lesetilgang til dokumentet og revisjon ikke trukket tilbake
+_Last ned_ Klikk på Last ned for å laste ned dette individuelle dokumentet _Tilgang kreves:_ Lesetilgang til dokumentet og revisjon ikke trukket tilbake
 
-**Endre revisjon** Bruk handlingen Endre revisjon for å endre hvilken revisjon av dokumentet som er konfigurert for denne samlingen. _Tilgang kreves:_ Samlingsoppretter eller administrator
+_Endre revisjon_ Bruk handlingen Endre revisjon for å endre hvilken revisjon av dokumentet som er konfigurert for denne samlingen. _Tilgang kreves:_ Samlingsoppretter eller administrator
 
-**Fjern dokument** Bruk handlingen Fjern dokument for å fjerne et dokument fra samlingen. _Tilgang kreves:_ Samlingsoppretter eller administrator
+_Fjern dokument_ Bruk handlingen Fjern dokument for å fjerne et dokument fra samlingen. _Tilgang kreves:_ Samlingsoppretter eller administrator

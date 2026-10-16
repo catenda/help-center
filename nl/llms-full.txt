@@ -410,8 +410,6 @@ De voorkeurstaal kan worden gewijzigd op de [pagina met voorkeuren](https://supp
 
 [YouTube-video](https://www.youtube.com/embed/fwQtOwQsTN8?rel=0)
 
-De volgende onderwerpen worden beschreven in dit artikel:
-
 ## 1. **1. De taalinstelling zoeken**
 
 `Profiel->Account->Voorkeuren`
@@ -514,8 +512,6 @@ Dit is hoe de pagina voor het nieuwe project eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
-De volgende onderwerpen zijn beschreven in dit artikel:
-
 ## 1. **Een eigenaar selecteren**
 
 Gebruikers met toegang tot bedrijfsorganisaties kunnen het aantal projecten maken dat hun plan toestaat.
@@ -573,8 +569,6 @@ Dit is hoe het eruit kan zien wanneer een templateproject wordt gebruikt:
 Items met een licht groen selectievakje worden altijd gekopieerd en kunnen niet worden uitgeschakeld. Labels, Mijlpalen, Teams en Topic boards worden altijd van het templateproject gekopieerd. Items met een donker groen selectievakje zijn optioneel en kunnen worden uitgeschakeld.
 
 Sommige items worden verplicht wanneer een ander item is ingeschakeld, zoals in de opmerking boven de lijst staat: "Items die vereist zijn voor uw selectie worden automatisch opgenomen en kunnen niet worden uitgeschakeld." Momenteel is de enige afhankelijkheid van Approval workflows. Wanneer Approval workflows is ingeschakeld, worden Document status configuration en Topic templates automatisch opgenomen en in licht groen weergegeven. Wanneer Approval workflows is uitgeschakeld, worden Document status configuration en Topic templates optioneel en in donker groen weergegeven.
-
-De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 5.1 **Modellen (geen revisies)**
 
@@ -1234,8 +1228,6 @@ De profielfoto, gebruikersnaam en e-mailadres van de gebruiker. Dit kunnen zowel
 U kunt uw Catenda Site-instellingen vinden in het [Menu](https://support.catenda.com/nl/articles/7338516-navigatiemenu-catenda-site). Uw accountvoorkeuren worden onthouden wanneer u volgende keer inlogt op uw account.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
-
-De volgende Topics zijn in dit artikel beschreven:
 
 ## 1. **Instellingen**
 
@@ -3380,8 +3372,6 @@ Met een geladen model kan de 3D viewer er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/02-intro.png)
 
-De volgende onderwerpen zijn in dit artikel beschreven:
-
 ## 1. **Modellen laden**
 
 Modellen kunnen op verschillende manieren in de 3D-viewer worden geladen. Op de modellenbladzijde kan 3D naast het model dat geopend moet worden aangeklikt, of kunnen meerdere modellen worden geselecteerd en kan 3D naar de bovenkant van de lijst worden aangeklikt. In de sectie Documenten kunt u voorbeelden van IFC-bestanden en puntenwolkdocumenten openen door op 3D in de documentenlijstweergave of in het rechterinformatiepaneel te klikken. U kunt de 3D-viewer ook openen zonder modellen te laden door op 3D rechtsboven te klikken om het 3D-viewerpaneel te openen.
@@ -3410,8 +3400,6 @@ Wanneer u de zichtbaarheidsvervolgkeuzelijst opent, kan dit er als volgt uitzien
 
 Hier kunt u de volgende acties uitvoeren:
 
-De volgende onderwerpen zijn in deze sectie beschreven:
-
 ### 2.1 **Objecten weergeven**
 
 **Alles weergeven** Alle object(en) weergeven Dit kan handig zijn na het afspelen van een snapshot of bladwijzer die geometrie heeft verborgen die u graag wilt zien.
@@ -3439,8 +3427,6 @@ Verborgen object(en) worden nog steeds in het systeemgeheugen geladen.
 Met de vervolgkeuzelijst voor cameraopties kunt u Gezichtspunten, Cameratypes en weergaven kiezen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/07-br-camera-options.png)
-
-De volgende onderwerpen zijn in deze sectie beschreven:
 
 ### 3.1 **Gezichtspunt**
 
@@ -3545,8 +3531,6 @@ Standaard wordt een voettekst onderaan de viewer weergegeven wanneer u een objec
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/17-object-information-footer.png)
 
 Deze voettekst kan informatie bevatten over onderwerpen en bibliotheekitems die aan het object zijn gekoppeld.
-
-De volgende onderwerpen zijn in deze sectie beschreven:
 
 ### 8.1 **Identificatie**
 
@@ -6294,15 +6278,11 @@ Als u geen schrijftoegang hebt tot de map of het document en u probeert een best
 
 Als de Catenda SharePoint-toepassing aan een SharePoint-site is toegevoegd, kunnen bestanden van SharePoint naar Catenda worden gepubliceerd en kan de Catenda-documentstructuur in SharePoint worden weergegeven. Wanneer geconfigureerd, kan de toepassing er als volgt uitzien: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Dit artikel bevat informatie over hoe deze toepassing werkt Zie [hier](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-veelgestelde-vragen) voor meer informatie over hoe deze toepassing nuttig kan zijn. Zie [hier](https://support.catenda.com/nl/articles/9453368-de-catendasp-app-toevoegen-en-verwijderen) voor het toevoegen van de SharePoint-toepassing aan een site.
 
-De volgende topics zijn beschreven in dit artikel:
-
 ## 1. **Publiceren naar Catenda met het lijstcommando**
 
 Met het lijstcommando is het mogelijk om een of meer bestanden naar Catenda te publiceren.
 
 > **Opmerking:** Het is alleen mogelijk om bestanden te publiceren. Mapstructuren kunnen worden gedownload van SharePoint en naar Catenda worden geüpload via [zip-upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
-
-De volgende topics zijn beschreven in deze sectie:
 
 ### 1.1 **Het lijstcommando zoeken**
 
@@ -7987,8 +7967,6 @@ Dit is hoe de pagina voor het aanmaken van een nieuw onderwerp eruit kan zien:
 
 Op deze pagina vindt u informatie over het volgende:
 
-De volgende onderwerpen zijn beschreven in dit artikel:
-
 ## 1. Bovenbalk
 
 Klik op terug naar onderwerpen om terug te gaan naar het onderwerpenboard waar u zich het laatst bevond.
@@ -7998,8 +7976,6 @@ Klik op terug naar onderwerpen om terug te gaan naar het onderwerpenboard waar u
 Dit is hoe de onderwerpen-kop eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/02-2-header.png)
-
-De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 2.1 Titel
 
@@ -8058,8 +8034,6 @@ Klik [hier](https://support.catenda.com/nl/articles/4670250-een-document-aan-een
 Dit is hoe de tekst van een onderwerp eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/04-4-body.png)
-
-De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 4.1 Omschrijving
 
@@ -8233,8 +8207,6 @@ De nieuwe werkstroompage kan worden geopend door op de groene plusknop op [de we
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
-De volgende topics zijn beschreven in dit artikel:
-
 ## 1. **Werkstromen uit een sjabloonproject**
 
 Een werkstroom hoeft niet altijd helemaal opnieuw te worden gemaakt. Projecten die zijn gebaseerd op een sjabloonproject, bevatten de goedkeuringswerkstromen en onderwerpsjablonen van dat sjabloonproject. Klik [hier](https://support.catenda.com/nl/articles/4670245-een-nieuw-project-maken) voor meer informatie over het maken van een project op basis van een sjabloonproject.
@@ -8262,8 +8234,6 @@ Teamleden hebben een beperkt aantal werkdagen om documenten in beoordelingsstapp
 De tijd die in tijdinstellingen is ingesteld, is de tijd waarop de werkdag voor elk van deze werkdagen begint en eindigt. Configureer de tijdinstellingen zodat ze overeenkomen met de teamleden van teams die zijn ingesteld als revisorteams voor beoordelingsstappen in deze workflow. Teamleden kunnen hun beoordeling indienen binnen het gegeven timeframe op basis van het aantal werkdagen en de tijd die in dit veld is geconfigureerd.
 
 **Voorbeeld van hoe tijdinstellingen kunnen worden overwogen:** Inzendingen kunnen worden gedateerd op basis van deze tijden. Een inzending om 2:00 uur behoort tot de vorige dag als de tijdinstelling is ingesteld op 6:00 uur.
-
-De volgende topics zijn beschreven in deze sectie:
 
 ### 3.1 **Begintijd**
 
@@ -8375,8 +8345,6 @@ Bouw een meertrapsbeoordelingsproces Dit is hoe het stappendeel van een nieuwe g
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
-De volgende topics zijn beschreven in deze sectie:
-
 ### 5.1 **Stapgrootte**
 
 **Geen stappen** Hoewel het mogelijk is om een workflow met geen stappen te maken door alle stappen te verwijderen, is het niet mogelijk om een goedkeuring met deze workflow te maken omdat er minstens één stap moet zijn om een goedkeuring in te dienen.
@@ -8435,8 +8403,6 @@ Als er beoordelingsstappen zijn, moet elke stap minstens één indiener hebben o
 De definitieve goedkeuring wordt handmatig gegeven door een enkel team. Dit is hoe het onderdeel definitieve goedkeuring van een nieuwe goedkeuringswerkflow eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
-
-De volgende topics zijn beschreven in deze sectie:
 
 ### 6.1 **Team**
 
@@ -10419,13 +10385,9 @@ Houd rekening met het volgende:
 1. **Meerdere Markeringen** op één document kunnen worden opgeslagen als **meerdere topics** OF onder één **enkel bestaand Topic.**
 1. Als één **Markering** **meerdere sets aantekeningen over meerdere pagina's verspreid** bevat, is er **één opmerking per set aantekeningen op elke pagina**.
 
-De volgende topics zijn in dit artikel beschreven:
-
 ## 1. **Twee workflows**
 
 Wanneer u iets in een document wilt aanwijzen, zijn er verschillende manieren om dit met uw collega's te communiceren.
-
-De volgende topics zijn in dit gedeelte beschreven:
 
 ### 1.1 **Eén topic per markering**
 
@@ -10466,8 +10428,6 @@ Laten we zeggen dat deze markering naar de Architect was gericht, maar u wilt oo
 ## 4. **Markeringen opslaan**
 
 Nadat u klaar bent met het bewerken van uw markeringen, kunt u [deze opslaan](https://support.catenda.com/nl/articles/10209740-een-opmerking-opslaan#h_8542b82cf8). Bij het opslaan wordt voor elke set aantekeningen op de pagina van een revisie een opmerking gemaakt
-
-De volgende topics zijn in dit gedeelte beschreven:
 
 ### 4.1 **Elke markering in een eigen topic opslaan**
 
@@ -10973,11 +10933,7 @@ Stel de eenheden voor lengte, hoek, oppervlakte, volume, valuta en tijd voor uw 
 
 Het structureren van een toegangsbeheersomgeving in Catenda Hub vereist afstemming van systeemmechanismen op specifieke projectrollen en samenwerkingsworkflows. Om overlappende regels schoon op te lossen, past het systeem een strikte hiërarchie toe: directe individuele overschrijvingen stellen een absoluut eindpunt vast, terwijl alle niet-overschreven paden combineren om het maximaal beschikbare toestemmingsniveau toe te kennen. De configuratiestrategieën hieronder tonen aan hoe u teambegrenzingen, individuele vergrendelingen en containerscopes kunt inzetten om echte beveiligings- en operationele vereisten in te vullen.
 
-De volgende onderwerpen zijn in dit artikel beschreven:
-
 ## 1. **1. De Algemene Projectgemeenschap**
-
-De volgende onderwerpen zijn in deze sectie beschreven:
 
 ### 1.1 **1.1 Geïsoleerde Onderaannemerswerkruimten**
 
@@ -11011,8 +10967,6 @@ De volgende onderwerpen zijn in deze sectie beschreven:
 
 ## 2. **2. Onderaannemers en Externe Medewerkers**
 
-De volgende onderwerpen zijn in deze sectie beschreven:
-
 ### 2.1 **2.1 Vloeiende Teamtoewijzingen voor Roulerend Personeel**
 
 **Wie** Externe leveranciers en aannemingsbedrijven met hoge personeelsverloop.
@@ -11036,8 +10990,6 @@ De volgende onderwerpen zijn in deze sectie beschreven:
 ## 3. **3. Item-eigenaren en Inhoudsmakers**
 
 Catenda Hub wijst automatisch **Volledige Toegang** toe aan de maker van een map (of deze nu handmatig is gebouwd of automatisch geëxtraheerd via een geüpload ZIP-bestand), een topic board of een zojuist opgestelde Documentcontainer. Eigenaarschap is strikt van toepassing op de Documentcontainer zelf, wat betekent dat als een gebruiker een nieuwe revisie uploadt naar een Document dat door iemand anders is gemaakt, het originele containereigenaarschap onveranderd blijft.
-
-De volgende onderwerpen zijn in deze sectie beschreven:
 
 ### 3.1 **3.1 Creatorsoevereiniteit en Gegevensprivacy**
 
@@ -13091,8 +13043,8 @@ Je kunt filteren op:
 
 - Mijn topics
 - Statussen en typen
-  - Als een status of type aan het project wordt toegevoegd of de naam van een bestaande status of type wordt gewijzigd, zullen topics met deze status de naam van de status en het type hebben, maar de kleur wordt grijs.
-  - Het is niet mogelijk om te filteren en de kleur van deze statussen te zien totdat je teruggaat naar de [projectpagina](https://support.catenda.com/nl/articles/7733978-projectenpagina-catenda-site) en het project opnieuw opent.
+    - Als een status of type aan het project wordt toegevoegd of de naam van een bestaande status of type wordt gewijzigd, zullen topics met deze status de naam van de status en het type hebben, maar de kleur wordt grijs.
+    - Het is niet mogelijk om te filteren en de kleur van deze statussen te zien totdat je teruggaat naar de [projectpagina](https://support.catenda.com/nl/articles/7733978-projectenpagina-catenda-site) en het project opnieuw opent.
 - [Labels](https://support.catenda.com/nl/articles/7854138-labelfilter-catenda-site)
 - Vervaldatum
 - Locatie <br>
@@ -26305,13 +26257,9 @@ Maak rapportsjablonen voor onderwerpen en documenten zodat projectleden onderwer
 
 Om te voorkomen dat notificaties spam veroorzaken en een soepele introductie van nieuw gedrag of wijzigingen in bestaand gedrag te garanderen, kunnen deze geleidelijk en zonder voorafgaande kennisgeving worden uitgerold. Gebruikers die wijzigingen in het gedrag van een onderdeel van een pagina die zij regelmatig gebruiken opmerken, of zich afvragen wat er nieuw is, kunnen deze artikelen raadplegen voor updates over recente wijzigingen in gedrag voor alle gebruikers.
 
-De volgende topics zijn beschreven in dit artikel:
-
 ## 1. **Nieuwe releases**
 
 Elke gebruiker gebruikt het platform anders. Notificaties gemaakt op Zelfs als nieuwe functies worden uitgebracht of wijzigingen worden aangebracht, is het mogelijk dat gebruikers dat onderdeel van de functie niet gebruiken. Voor degenen die nieuwsgierig zijn wat "die nieuwe knop" of "die nieuwe pagina" op het platform is, bevat dit artikel een introductie van wat de wijziging inhoudt. Voor deze functies is vaak alleen basisch of enigszins verouderd ondersteunend materiaal beschikbaar, aangezien dit wordt bijgewerkt naarmate we voortgaan. Naast het helpen van mensen in de ondersteuning worden de artikelen regelmatig bijgewerkt en als vragen die werden gesteld snel kunnen worden gevonden, worden deze de volgende week in een artikel uitgelegd.
-
-De volgende topics zijn beschreven in deze sectie:
 
 ### 1.1 **Nieuwe statusworkflow - ISO 19650**
 
@@ -26337,8 +26285,6 @@ Het is vaak het beste om deze functie aan het begin van een nieuw project in te 
 ## 2. **On-demand functies inschakelen**
 
 Sommige functies kunnen door de contactpersoon voor uw Catenda-licentie worden aangevraagd voor bestaande projecten, terwijl andere kunnen worden ingeschakeld met een instelling in het project. Wanneer een nieuwe functie wordt aangevraagd om in te schakelen, wordt een vergadering ingepland met een ondersteuningsvertegenwoordiger om de huidige status van de functie te bespreken. Als er nog geen project beschikbaar is waar de nieuwe functie kan worden getest, wordt een dummy-project aangemaakt voor een beperkte tijd waarin de nieuwe functie kan worden getest.
-
-De volgende topics zijn beschreven in deze sectie:
 
 ### 2.1 **Aanvraag voor on-demand functies inschakelen**
 
@@ -26686,8 +26632,6 @@ Zoek de sharelink-knop naar de [bovenkant rechts van de pagina](https://support.
 
 Als u zich op de hoofdpagina bevindt voordat u een project opent, wordt de sharelink-knop grijs weergegeven. Het is alleen mogelijk om pagina's binnen een project te delen.
 
-De volgende topics zijn in dit artikel beschreven:
-
 ## 1. **Gebruikers op de hoogte stellen**
 
 Wilt u een teamlid op de hoogte stellen van een document, enkele Topics of andere inhoud in Catenda Hub, zonder Catenda Hub te verlaten? Of misschien hebben gebruikers hun Catenda Hub-Notificaties uitgeschakeld? Deze functie lost deze problemen op.
@@ -26700,20 +26644,18 @@ ShareLink stuurt een e-mail vanuit Catenda Hub naar de teamleden die u kiest, me
 
 1. Selecteer eerst maximaal 100 inhoudselementen die u wilt delen.
 
-   Bijvoorbeeld enkele Documenten of Topics.
+    Bijvoorbeeld enkele Documenten of Topics.
 
-   Een sharelink-ontvanger ziet dan alleen deze items.
-   Als de pagina met een sharelink-ontvanger wordt gedeeld, zien zij de volledige pagina, inclusief Filters, op basis van hun toegang in het project.
+    Een sharelink-ontvanger ziet dan alleen deze items.
+    Als de pagina met een sharelink-ontvanger wordt gedeeld, zien zij de volledige pagina, inclusief Filters, op basis van hun toegang in het project.
 
-2. Klik op de ShareLink-knop.<br>
+1. Klik op de ShareLink-knop.<br>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
 ## 2. **ShareLink-venster**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/03-sharelink-window-br.png)
-
-De volgende topics zijn in deze sectie beschreven:
 
 ### 2.1 **Ontvangers**
 
@@ -26751,9 +26693,9 @@ Het e-mailbericht kan er als volgt uitzien als u een schermafbeelding hebt toege
 
 1. Klik op deze koppeling, Catenda Hub opent een pagina met de gedeelde items.
 
-   of
+    of
 
-2. Plak deze URL in uw browser.
+1. Plak deze URL in uw browser.
 
 Wanneer u de koppeling volgt, worden alleen de geselecteerde items weergegeven:
 
