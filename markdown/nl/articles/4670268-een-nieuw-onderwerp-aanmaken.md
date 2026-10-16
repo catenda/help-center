@@ -8,8 +8,6 @@ Dit is hoe de pagina voor het aanmaken van een nieuw onderwerp eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/01-intro.png)
 
-Op deze pagina vindt u informatie over het volgende:
-
 ## 1. Bovenbalk
 
 Klik op terug naar onderwerpen om terug te gaan naar het onderwerpenboard waar u zich het laatst bevond.

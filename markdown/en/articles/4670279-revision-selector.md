@@ -8,8 +8,6 @@ Clicking on the button with the “cube” to open the revision selector.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/02-intro.png)
 
-Information about the following topics can be found in this article:
-
 ## 1. **Models**
 
 In the models menu you can work with 3D documents while keeping the 3D viewer panel in full focus.

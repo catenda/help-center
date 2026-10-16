@@ -2,8 +2,6 @@
 
 Egal ob Baustelle, Eisenbahntunnel oder tiefes Untergeschoss einer Parkgarage – es besteht eine gute Chance, dass Sie keine Internetverbindung haben. Während dieser Unterbrechung kann Catenda Site weiterhin zur Zusammenarbeit auf tragbaren Geräten genutzt werden. Dieser Artikel beschreibt die verschiedenen Wege, wie Catenda Site ohne Netzwerkzugriff zur Zusammenarbeit verwendet werden kann.
 
-Dieser Artikel enthält Informationen zu den folgenden Themen:
-
 ## 1. **Themen-Menü im Offline-Modus**
 
 Ohne Netzwerkverbindung ist das Themen-Menü weiterhin verfügbar.

@@ -2669,8 +2669,6 @@ Voici à quoi le menu d'action peut ressembler :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/01-intro.png)
 
-Des informations sur les sujets suivants se trouvent dans cet article :
-
 ## 1. **1. Nouveau sujet**
 
 Cliquez sur le bouton vert Nouveau sujet en haut à droite pour créer un nouveau sujet dans le projet actuellement sélectionné dans le menu déroulant en haut à gauche. Le sujet sera créé dans la liste de sujets sélectionnée dans le deuxième menu déroulant en haut à gauche. _Accès requis :_ Accès en écriture à la liste de sujets
@@ -3135,8 +3133,6 @@ _Prévention de l'édition ou de la suppression_ Créez une exportation PDF d'un
 # Actions du tableau Documents
 
 Selon votre accès et votre sélection, différentes actions pour vos documents et dossiers peuvent être vues sur la [page des documents](https://support.catenda.com/fr/articles/8204673-page-documents).
-
-**Cet article contient des informations sur les sujets suivants:**
 
 ## 1. **Nouvelles actions d'élément**
 
@@ -7546,8 +7542,6 @@ Voici à quoi peut ressembler la page de création d'un nouveau sujet :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/01-intro.png)
 
-Sur cette page, vous trouverez des informations sur les éléments suivants :
-
 ## 1. Barre supérieure
 
 Cliquez sur retour aux sujets pour revenir à la Liste de sujets dans laquelle vous étiez.
@@ -8193,8 +8187,6 @@ L'aperçu du document sur la page d'examen de la demande de validation fonctionn
 # Exporter des sujets en PDF
 
 Les sujets peuvent être exportés en PDF en cliquant sur l'option PDF dans le [dialogue d'export de sujets](https://support.catenda.com/fr/articles/4670289-echanger-des-sujets#h_aa0b8d7789). L'export PDF vous permettra d'exporter un rapport de vos sujets. Cette option d'export est utile pour avoir une version facilement lisible des sujets et peut être utilisée à des fins d'archivage ou pour signaler aux autorités.
-
-Cette page contient des informations sur les sujets suivants :
 
 ## 1. **Paramètres qui affectent toutes les pages du PDF**
 
@@ -12690,8 +12682,6 @@ Activez la surface du plan glissant en appuyant sur le cercle blanc où se trouv
 # Mode hors ligne dans Catenda Site
 
 Qu'il s'agisse d'une zone de construction, d'un tunnel ferroviaire ou d'un sous-sol profond d'un parking, il y a de fortes chances que vous ne puissiez pas vous connecter à Internet. Durant cette panne, Catenda Site peut toujours être utilisé pour collaborer sur vos appareils portables. Cet article décrit les différentes façons d'utiliser Catenda Site pour collaborer sans accès au réseau.
-
-Cet article contient des informations sur les sujets suivants :
 
 ## 1. **Menu des sujets en mode hors ligne**
 
@@ -19446,8 +19436,6 @@ Le sélecteur de révision est un menu déroulant qui se trouve en haut à gauch
 Cliquez sur le bouton avec le "cube" pour ouvrir le sélecteur de révision.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/02-intro.png)
-
-Des informations sur les sujets suivants se trouvent dans cet article :
 
 ## 1. **Modèles**
 

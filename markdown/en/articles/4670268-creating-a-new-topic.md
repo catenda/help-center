@@ -8,8 +8,6 @@ This is what the new topic creation page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/01-intro.png)
 
-On this page you will find information about the following:
-
 ## 1. Top banner
 
 Click on back to topics to go back to the topic board you were in last.

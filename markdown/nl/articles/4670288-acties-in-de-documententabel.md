@@ -2,8 +2,6 @@
 
 Afhankelijk van uw toegang en selectie kunnen verschillende acties voor uw Documenten en mappen worden weergegeven op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina).
 
-**Dit artikel bevat informatie over de volgende topics:**
-
 ## 1. **Nieuwe itemacties**
 
 De plusknop en hamburgermenu-items zijn te vinden in de rechterbovenhoek van de pagina en kunnen er ongeveer zo uitzien:

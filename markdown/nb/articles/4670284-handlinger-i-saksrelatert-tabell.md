@@ -12,8 +12,6 @@ Plussknappen og handlingsmenyelementene kan finnes mot øvre høyre hjørne av s
 
 Handlingene du finner her er alle knyttet til å skape ny informasjon. [Handlinger for valgte elementer](#h_b5c00c149b) som gjelder eksisterende elementer på siden kan også finnes mot toppen av tabellen etter at du har gjort et valg.
 
-Følgjande saker er beskrivne i denne delen:
-
 ### 1.1 **Ny sak**
 
 Klikk [her](https://support.catenda.com/nb/articles/4670268-opprett-en-ny-sak) for å lese mer om å opprette en ny sak _Tilgang påkrevd:_ Skrive- eller full tilgang i en saksliste

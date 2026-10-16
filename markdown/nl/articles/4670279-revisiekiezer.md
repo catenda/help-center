@@ -8,8 +8,6 @@ Klik op de knop met de "kubus" om de revisiekiezer te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/02-intro.png)
 
-Informatie over de volgende onderwerpen vindt u in dit artikel:
-
 ## 1. **Modellen**
 
 In het menu Modellen kunt u met 3D-documenten werken terwijl u het 3D-viewerpaneel volledig in focus houdt.

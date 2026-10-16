@@ -2,8 +2,6 @@
 
 Whether it is a construction zone, railway tunnel or a deep basement of a parking garage there is a good chance you are not able to connect to the internet. During this outage Catenda Site can still be used to collaborate on your portable devices. This article desribes the different ways Catenda Site can be used to collaborate without access to the network.
 
-This article includes information about the following topics:
-
 ## 1. **Topics menu in offline mode**
 
 Without connection to the network, the topics menu will still be available.

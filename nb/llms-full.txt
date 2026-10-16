@@ -7015,8 +7015,6 @@ Hvis en modell-revisjon legges til senere vil biblioteket bli re-synkronisert. D
 
 Saker kan eksporteres til PDF ved å klikke på PDF-alternativet i [Eksporter saker-dialogen](https://support.catenda.com/nb/articles/4670289-utveksle-saker#h_aa0b8d7789). PDF-eksporten lar deg eksportere en rapport over sakene dine. Dette eksportalternativet er nyttig for å få en lett lesbar versjon av saker og kan brukes til arkivering eller rapportering til myndigheter.
 
-Denne siden inneholder informasjon om følgende saker:
-
 ## 1. **Innstillinger som påvirker alle sider av PDF-en**
 
 Disse innstillingene påvirker alle sider av PDF-en
@@ -7069,39 +7067,39 @@ Tittelen på saken etterfulgt av nummeret på saken på Catenda.
 
 Følgende hoveder er inkludert:
 
-**Type** Typen av saken
+_Type_ Typen av saken
 
-**Status** Statusen for saken
+_Status_ Statusen for saken
 
-**Tildelt til** Personen som er tildelt saken
+_Tildelt til_ Personen som er tildelt saken
 
-**Opprettet av** Opprettingen av saken
+_Opprettet av_ Opprettingen av saken
 
-**Opprettet** Tiden saken ble opprettet for første gang
+_Opprettet_ Tiden saken ble opprettet for første gang
 
-**Lukket på** Hvis saken er lukket, vises det siste tidspunktet for lukking av saken her.
+_Lukket på_ Hvis saken er lukket, vises det siste tidspunktet for lukking av saken her.
 
-**Frist** Fristen
+_Frist_ Fristen
 
-**Egendefinerte felt fra sakslisten** Hvert egendefinert felt og verdien dersom det finnes noen er inkludert
+_Egendefinerte felt fra sakslisten_ Hvert egendefinert felt og verdien dersom det finnes noen er inkludert
 
-**Merkelapper** Merkelapper er opplistet med navn og farge.
+_Merkelapper_ Merkelapper er opplistet med navn og farge.
 
 ### 3.3 **Ekskluderte sakhoveder**
 
-**Milepæl** Milepæler er ikke inkludert i PDF-eksporten.
+_Milepæl_ Milepæler er ikke inkludert i PDF-eksporten.
 
-**Markør** Klikk [her](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker) for å lese mer om eksporteringen av 2D-plassering til PDF.
+_Markør_ Klikk [her](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker) for å lese mer om eksporteringen av 2D-plassering til PDF.
 
 ### 3.4 **Sakskoblinger**
 
 Lenker til saksrelasjoner på Catenda er inkludert i PDF-eksporten. De relaterte elementene blir ikke eksportert automatisk, så vurder å eksportere denne informasjonen separat.
 
-**Saker** Hvis saker er koblet til den eksporterte saken, listes hver sak med en lenke til den saken på Catenda.
+_Saker_ Hvis saker er koblet til den eksporterte saken, listes hver sak med en lenke til den saken på Catenda.
 
 > **Merk:** Disse sakene er ikke nødvendigvis inkludert i rapporten da de kan være fra en annen saksliste med andre tilgangsinnstillinger.
 
-**Dokumenter** Hvis det finnes dokumenter som er koblet til saken, vil du se dem opplistet her med lenker til hvert dokument i Catenda.
+_Dokumenter_ Hvis det finnes dokumenter som er koblet til saken, vil du se dem opplistet her med lenker til hvert dokument i Catenda.
 
 ### 3.5 **Beskrivelse**
 
@@ -8065,8 +8063,6 @@ For å flytte et dokument trenger du full tilgang til mappen, ikke bare skriveti
 
 Enten det er en konstruksjonsområde, jernbanetunnel eller en dypkjeller i et parkeringshus, er det stor sannsynlighet for at du ikke kan koble deg til internett. Under dette strømutfallet kan Catenda Site fortsatt brukes til å samarbeide på bærbare enheter. Denne artikkelen beskriver de ulike måtene Catenda Site kan brukes til å samarbeide uten tilgang til nettverket.
 
-Denne artikkelen inneholder informasjon om følgende saker:
-
 ## 1. **Saksmeny i frakoblet modus**
 
 Uten tilkobling til nettverket vil saksmenyen fremdeles være tilgjengelig.
@@ -8099,7 +8095,7 @@ Saker som tidligere ble innlastet, kan åpnes uten tilkobling til nettverket. Et
 
 > **Merknad:** Eksisterende informasjon i saker som ble innlastet da du mistet tilkoblingen til nettverket, kan ikke redigeres.
 
-**Kommentarer på tidligere innlastede saker** Tidligere innlastede saker kan kommenteres uten tilkobling til nettverket. Bilder fra kamera/bilder kan legges til kommentaren _Tilgang påkrevd:_ full tilgang til enheten
+_Kommentarer på tidligere innlastede saker_ Tidligere innlastede saker kan kommenteres uten tilkobling til nettverket. Bilder fra kamera/bilder kan legges til kommentaren _Tilgang påkrevd:_ full tilgang til enheten
 
 Kommentarer opprettet av den påloggede brukeren kan redigeres og slettes uten tilkobling til nettverket.
 
@@ -8114,25 +8110,19 @@ Når tilkoblingen til nettverket er gjenopprettet, blir disse sakene ikke automa
 Følgende informasjon kan legges til en ny sak som opprettes uten tilkobling til nettverket:
 
 - En tittel kan legges til
-
 - En saksliste kan velges for saken
-
 - Status/type kan endres
-
 - En milepæl kan legges til
-
 - Merkelapper kan legges til
-
 - En beskrivelse kan skrives
-
 - Kommentarer kan legges til.
-  - Bilder fra kamera/bilder kan legges til kommentarer.
+    - Bilder fra kamera/bilder kan legges til kommentarer.
 
-    _Tilgang påkrevd:_ Full tilgang til enheten
+        _Tilgang påkrevd:_ Full tilgang til enheten
 
 - Hvis modeller ble innlastet før tilkoblingen til nettverket var tapt, kan en plassering legges til en sak ved å plassere en markør i 2D-visningen av disse modellene.
 
-**Redigering og sending av nye saker**
+_Redigering og sending av nye saker_
 
 - Du vil vite at du ser på en ny frakoblet sak hvis du ser den grå linjen øverst i saken.
 - Det er mulig å redigere saker i frakoblet modus som ennå ikke er sendt gjennom [meldingsboksen](#h_ff2a47f221)
@@ -8145,9 +8135,9 @@ Hvis ny informasjon og endringer er gjort i en saksliste mens du var i frakoblet
 
 Trykk på ikonet for å åpne meldingsboksen. Etter at du har fått tilgang til nettverket igjen, kan ny informasjon og endringer sendes til prosjektet i denne menyen.
 
-**Lokale utkast** Sakene i denne listen kan sees på som lokale utkast til de er sendt. Hvis nye saker ble opprettet, eller eksisterende saker ble kommentert uten tilkobling til nettverket, ender de opp i denne listen.
+_Lokale utkast_ Sakene i denne listen kan sees på som lokale utkast til de er sendt. Hvis nye saker ble opprettet, eller eksisterende saker ble kommentert uten tilkobling til nettverket, ender de opp i denne listen.
 
-**Sending av meldingsboks** All ny informasjon og endringer som er gjort uten tilkobling til nettverket, blir liggende på enheten til meldingsboksen blir sendt. Når tilkoblingen til nettverket er gjenopprettet, kan meldingsboksen sendes. Ny informasjon og endringer som ble gjort mens det ikke var tilkobling til nettverket, vil da bli synkronisert til prosjektet og vises for alle prosjektmedlemmer.
+_Sending av meldingsboks_ All ny informasjon og endringer som er gjort uten tilkobling til nettverket, blir liggende på enheten til meldingsboksen blir sendt. Når tilkoblingen til nettverket er gjenopprettet, kan meldingsboksen sendes. Ny informasjon og endringer som ble gjort mens det ikke var tilkobling til nettverket, vil da bli synkronisert til prosjektet og vises for alle prosjektmedlemmer.
 
 ## 2. **Modeller i frakoblet modus**
 
@@ -8826,8 +8816,6 @@ Slik kan handlingsmenyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/01-intro.png)
 
-Informasjon om følgende saker finnes i denne artikkelen:
-
 ## 1. **1. Ny sak**
 
 Klikk på den grønne Ny sak-knappen øverst til høyre for å opprette en ny sak i prosjektet som er valgt i rullegardinmenyen øverst til venstre. Saken blir opprettet i saklisten som er valgt i den andre rullegardinmenyen øverst til venstre. _Tilgang påkrevd:_ Skrivetilgang til saklisten
@@ -8888,23 +8876,23 @@ Klikk på Tilbake til saker for å gå tilbake til saklisten.
 
 ### 3.2 **3.2 Navigasjon**
 
-**Behold 3D-visningen ortografisk** Dette alternativet tvinger Revits 3D-visning til å være ortografisk selv om det tilsvarende viewpoint er opprettet med en perspektivvisning.
+_Behold 3D-visningen ortografisk_ Dette alternativet tvinger Revits 3D-visning til å være ortografisk selv om det tilsvarende viewpoint er opprettet med en perspektivvisning.
 
-**Opprett en ny visning for hver sak** I stedet for å gjenbruke den samme 3D-visningen hver gang du bruker Zoom-funksjonen, vil dette alternativet opprette en ny 3D-visning for hver sak hver gang du bruker zoom-funksjonen.
+_Opprett en ny visning for hver sak_ I stedet for å gjenbruke den samme 3D-visningen hver gang du bruker Zoom-funksjonen, vil dette alternativet opprette en ny 3D-visning for hver sak hver gang du bruker zoom-funksjonen.
 
-**Suffiksen for 3D-visningsnavn** Denne teksten vil bli lagt til navnet på 3D-visningen som er opprettet når du bruker Zoom-funksjonen.
+_Suffiksen for 3D-visningsnavn_ Denne teksten vil bli lagt til navnet på 3D-visningen som er opprettet når du bruker Zoom-funksjonen.
 
 ### 3.3 **3.4 Viewpoint-transformasjon**
 
 Med viewpoint-transformasjonen kan viewpoint i Revit konfigureres til å bli forskjøvet med et beløp. Hvis verdier er konfigurert her, vil viewpoint bli forskjøvet med det beløpet hver gang et viewpoint fra en sak blir avspilt. Dette kan være nyttig når koordinatene i sak-viewpoint ikke samsvarer med koordinatene som er konfigurert i Revit-prosjektet.
 
-**3.4.1 X (Ø/V)** Transformasjon i X-retningen. Øst eller vest avhengig av positive eller negative verdier. Enheter i meter
+_3.4.1 X (Ø/V)_ Transformasjon i X-retningen. Øst eller vest avhengig av positive eller negative verdier. Enheter i meter
 
-**3.4.2 Y (N/S)** Transformasjon i Y-retningen. Nord eller sør avhengig av positive eller negative verdier. Enheter i meter
+_3.4.2 Y (N/S)_ Transformasjon i Y-retningen. Nord eller sør avhengig av positive eller negative verdier. Enheter i meter
 
-**3.4.3 Z (Høyde)** Transformasjon i Z-retningen. Høyde avhengig av positive eller negative verdier. Enheter i meter
+_3.4.3 Z (Høyde)_ Transformasjon i Z-retningen. Høyde avhengig av positive eller negative verdier. Enheter i meter
 
-**3.4.4 Vinkel** Rotasjonstransformasjon. Høyde avhengig av positive eller negative verdier. Enheter i grader. Kameraet vil forbli i samme høyde og rotere kameraet rundt et punkt i modellen.
+_3.4.4 Vinkel_ Rotasjonstransformasjon. Høyde avhengig av positive eller negative verdier. Enheter i grader. Kameraet vil forbli i samme høyde og rotere kameraet rundt et punkt i modellen.
 
 ## 4. **4. Min konto**
 
@@ -8923,8 +8911,6 @@ Etter at du logger inn igjen, vises det første prosjektet i prosjektlisten. Vel
 # Handlinger i dokumenttabellen
 
 Avhengig av din tilgang og valg kan du se ulike handlinger for dokumentene og mappene dine på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side).
-
-_Denne artikkelen inneholder informasjon om følgende saker:_
 
 ## 1. **Nye vareopplastinger**
 
@@ -8950,7 +8936,7 @@ Når du oppretter en dokumentstruktur eller må lage mange mapper på en gang, k
 
 Handlingen Last opp zip lar deg pakke ut innholdet i en zip-fil i dokumentstrukturen. Det er også mulig å laste opp et zip-dokument med knappen Last opp-handling, men da får du det bare som en zippet fil og du ser ikke innholdet i zip-filen. Klikk [her](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur#h_54ace27f24) for å lese mer om hvordan du laster opp en zip til Catenda.
 
-**Nødvendig tilgang:** Skrivetilgang til mappen du er i nå. Hvis du bruker alternativet Opprett nytt utkast: Skrivetilgang til mappene med samme navn og strukturplassering som mapper i zipen i forhold til hvor du laster opp zipen Skrivetilgang til dokumentene du kanskje legger til revisjoner for.
+_Nødvendig tilgang:_ Skrivetilgang til mappen du er i nå. Hvis du bruker alternativet Opprett nytt utkast: Skrivetilgang til mappene med samme navn og strukturplassering som mapper i zipen i forhold til hvor du laster opp zipen Skrivetilgang til dokumentene du kanskje legger til revisjoner for.
 
 ### 1.4 **Mine zip-opplastinger**
 
@@ -8970,7 +8956,7 @@ Med Last ned-handlingen kan valgte elementer og deres innhold lastes ned ved å 
 
 Motta et enkelt dokument når en dokumentrad er valgt. Motta en zip-fil som inneholder innholdet i utvalget når en mapperadå eller flere rader er valgt. Navnene på de nedlastede filene kan påvirkes av [dokumentnedlastingstiteloppgaven](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f). Prosjekteieren konfigurerer dette alternativet for hele organisasjonen, så prosjektmedlemmer kan ikke be om eller endre det selv. _Påkrevd tilgang:_ full tilgang til valgte dokument(er) og/eller mappe(r)
 
-**Oppdage dokumenter** Når du trykker på Last ned-knappen, åpnes en dialogboks nedover til venstre på siden. Først vil systemet begynne å oppdage de ulike filene for nedlasting. Slik kan dialogboksen for Klargjør nedlasting se ut:
+_Oppdage dokumenter_ Når du trykker på Last ned-knappen, åpnes en dialogboks nedover til venstre på siden. Først vil systemet begynne å oppdage de ulike filene for nedlasting. Slik kan dialogboksen for Klargjør nedlasting se ut:
 
 ![Forbereder nedlasting av komprimerte filer](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/05-download.png)
 
@@ -9036,9 +9022,9 @@ Hvis du har valgt ett dokument, kan du laste opp en ny revisjon ved å klikke p�
 
 ### 2.9 **Opprett og fjern modell**
 
-**Opprett modell** Et valgt dokument med utvidelsen `.ifc` eller `.ifczip` kan lenkes til en modell i modellseksjonen med Opprett modell-handlingen. Første gang en modell-lenke opprettes for et dokument, vil modellen som vises på modellsiden ha samme navn som dokumentet den ble opprettet fra. Både navnet på modellen på modellsiden og navnet på dokumentet kan senere endres. Et dokument som tidligere hadde en modell-lenke vil huske hvilket navn modellen hadde og bruke det tidligere navnet som den fjernede modellen hadde når en ny modell-lenke opprettes, selv om det gjeldende dokumentnavnet er annerledes. _Nødvendig tilgang:_ Skrivetilgang til [opprett og fjern modeller](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_f82a1850f3) i prosjektinnstillinger
+_Opprett modell_ Et valgt dokument med utvidelsen `.ifc` eller `.ifczip` kan lenkes til en modell i modellseksjonen med Opprett modell-handlingen. Første gang en modell-lenke opprettes for et dokument, vil modellen som vises på modellsiden ha samme navn som dokumentet den ble opprettet fra. Både navnet på modellen på modellsiden og navnet på dokumentet kan senere endres. Et dokument som tidligere hadde en modell-lenke vil huske hvilket navn modellen hadde og bruke det tidligere navnet som den fjernede modellen hadde når en ny modell-lenke opprettes, selv om det gjeldende dokumentnavnet er annerledes. _Nødvendig tilgang:_ Skrivetilgang til [opprett og fjern modeller](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_f82a1850f3) i prosjektinnstillinger
 
-**Fjern modell** Lenken til et dokument som er lenket til en modell kan fjernes med Fjern modell-handlingen.
+_Fjern modell_ Lenken til et dokument som er lenket til en modell kan fjernes med Fjern modell-handlingen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/13-create-and-remove-model.png)
 
@@ -9052,11 +9038,11 @@ Med Kopier lenke-handlingen kan en lenke som viser bare de valgte tabellradene k
 
 Bruk Slett-handlingen på et valgt element for å slette det. Et vindu vises som ber om bekreftelse for å slette elementet(ene). _Nødvendig tilgang:_ Full tilgang til det/de valgte dokumentet(ene) Full tilgang til den/de valgte mappen(e) og deres innhold Slettede elementer kan gjenopprettes. Filtrer på slettet, velg elementet og bruk Gjenopprett-handlingen. _Nødvendig tilgang:_ Administrator
 
-**Sakrelasjon** Et slettet dokument som ble lenket til en sak er synlig som et spørsmålstegn i relatert dokumenter-området av en sak. Et gjenopprettet dokument vil igjen bli vist i saken.
+_Sakrelasjon_ Et slettet dokument som ble lenket til en sak er synlig som et spørsmålstegn i relatert dokumenter-området av en sak. Et gjenopprettet dokument vil igjen bli vist i saken.
 
 _Modell-lenke_ Et slettet dokument som ble lenket til en modell, fjernes fra lenken ved sletting. Et gjenopprettet dokument vil derfor ikke lenger være lenket til en modell. Bruk Opprett modeller-handlingen en gang til for å koble den til en modell igjen. De tidligere modellinnstillingene som modellnavn og behandling lagres slik at de ikke trenger å bli omkonfigurert.
 
-**Etasjeconfigurator** Et slettet dokument som er konfigurert som et underlag for en etasje i etasjeconfigureren, forsvinner fra 2D-visningen for prosjektmedlemmer. Et gjenopprettet dokument som ble konfigurert som et underlag for en etasje i etasjeconfigureren vil igjen bli vist i 2D-visningen for denne etasjen.
+_Etasjeconfigurator_ Et slettet dokument som er konfigurert som et underlag for en etasje i etasjeconfigureren, forsvinner fra 2D-visningen for prosjektmedlemmer. Et gjenopprettet dokument som ble konfigurert som et underlag for en etasje i etasjeconfigureren vil igjen bli vist i 2D-visningen for denne etasjen.
 
 _Objektrelasjoner_ Et slettet dokument som ble lenket til en gjenstand, fjernes fra lenken ved sletting. Et gjenopprettet dokument vil derfor ikke være lenket til noen gjenstander.
 
@@ -9068,7 +9054,7 @@ Hvis du har åpnet en mappe, men ikke valgt noe, vil [høyre informasjonsmeny](h
 
 Fordi du ikke har valgt noe, vil de valgte vareopplastingene ikke vises øverst i dokumenttabellen. I stedet vil du kunne utføre handlinger på mappen du er i med ikonene og hamburger-menyen i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon).
 
-**Nødvendig tilgang:** Last ned: Lesetilgang til gjeldende mappe Flytt: Full tilgang til gjeldende mappe og skrivetilgang til plasseringen du flytter mappen til. Slett: Full tilgang til gjeldende mappe og dens innhold.
+_Nødvendig tilgang:_ Last ned: Lesetilgang til gjeldende mappe Flytt: Full tilgang til gjeldende mappe og skrivetilgang til plasseringen du flytter mappen til. Slett: Full tilgang til gjeldende mappe og dens innhold.
 
 # Handlinger i saksrelatert tabell
 
@@ -9083,8 +9069,6 @@ Plussknappen og handlingsmenyelementene kan finnes mot øvre høyre hjørne av s
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/02-new-item-actions.png)
 
 Handlingene du finner her er alle knyttet til å skape ny informasjon. [Handlinger for valgte elementer](#h_b5c00c149b) som gjelder eksisterende elementer på siden kan også finnes mot toppen av tabellen etter at du har gjort et valg.
-
-Følgjande saker er beskrivne i denne delen:
 
 ### 1.1 **Ny sak**
 
@@ -14379,8 +14363,6 @@ Slik kan siden for opprettelse av ny sak se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/01-intro.png)
 
-På denne siden finner du informasjon om følgende:
-
 ## 1. Toppbanner
 
 Klikk på Tilbake til saker for å gå tilbake til sakslisten du var på sist.
@@ -14421,9 +14403,9 @@ Fest den til en milepæl eller la den stå tom. Dette kan hjelpe til med å spor
 
 ### 2.8 Ansvar
 
-**Tildelt til** Her kan du tildele saken til et spesifikt medlem eller et team. Det anbefales at du angir et medlem som ansvarlig i stedet for et team, da delt ansvar gjør at ingen av teammedlemmene føler seg personlig ansvarlig. Hvis du likevel ønsker å la andre teammedlemmer vite at deres team er ansvarlig, kan du angi medlem@team. Hvis et medlem er angitt som ansvarlig, vil de automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken. Hvis et team er angitt som ansvarlig, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken.
+_Tildelt til_ Her kan du tildele saken til et spesifikt medlem eller et team. Det anbefales at du angir et medlem som ansvarlig i stedet for et team, da delt ansvar gjør at ingen av teammedlemmene føler seg personlig ansvarlig. Hvis du likevel ønsker å la andre teammedlemmer vite at deres team er ansvarlig, kan du angi medlem@team. Hvis et medlem er angitt som ansvarlig, vil de automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken. Hvis et team er angitt som ansvarlig, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken.
 
-**Etterspurt av** Her kan du angi medlemmet eller teamet som etterspør saken. Du er angitt som anmoder som standard, men du kan velge ethvert medlem her. Hvis et medlem er angitt som anmoder, vil de automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken. Hvis et team er angitt som anmoder, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken.
+_Etterspurt av_ Her kan du angi medlemmet eller teamet som etterspør saken. Du er angitt som anmoder som standard, men du kan velge ethvert medlem her. Hvis et medlem er angitt som anmoder, vil de automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken. Hvis et team er angitt som anmoder, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken.
 
 ### 2.9 Merkelapper
 
@@ -14459,11 +14441,11 @@ Tekstboksen ved siden av legg til-knappen er for å skrive en kommentar, nevne p
 
 ### 4.3 Vedlegg
 
-**Legg til-knapp** Ved å klikke på legg til-knappen kan du legge til et 2D/3D-øyeblikksbilde eller bilde fra harddisken din.
+_Legg til-knapp_ Ved å klikke på legg til-knappen kan du legge til et 2D/3D-øyeblikksbilde eller bilde fra harddisken din.
 
 2D/3D-øyeblikksbildet kommer fra den siste kameravinkelen i 3D/2D-viseren. Ved å åpne 3D-knappen i navigeringsviseren. Du kan navigere gjennom modellen til saken det gjelder, og ved å trykke på legg til-knappen velger du 2D/3D-øyeblikksbildet, så vises øyeblikksbildet.
 
-**Øyeblikksbilde** Hvis du har en 2D-visning av en modell lastet inn, vil et 2D-øyeblikksbilde av gjeldende 2D-visning automatisk legges til. Hvis du har en 3D-visning av en modell lastet inn, vil et 3D-øyeblikksbilde av gjeldende kameraposisjon automatisk legges til. Hvis du har 3D-objekter valgt i 3D-øyeblikksbildet når du sender inn saken, kobles disse objektene til saken. Du kan fjerne, oppdatere eller legge til nye øyeblikksbilder før innsending.
+_Øyeblikksbilde_ Hvis du har en 2D-visning av en modell lastet inn, vil et 2D-øyeblikksbilde av gjeldende 2D-visning automatisk legges til. Hvis du har en 3D-visning av en modell lastet inn, vil et 3D-øyeblikksbilde av gjeldende kameraposisjon automatisk legges til. Hvis du har 3D-objekter valgt i 3D-øyeblikksbildet når du sender inn saken, kobles disse objektene til saken. Du kan fjerne, oppdatere eller legge til nye øyeblikksbilder før innsending.
 
 Hvis du venstreklikker på øyeblikksbildet du har tatt, har du muligheten til å legge til merknader på bildet. Under bildet vises det et verktøylinje med verktøy for å tegne det spesifikke punktet for saken mer detaljert.
 
@@ -14471,9 +14453,9 @@ Hvis du venstreklikker på øyeblikksbildet du har tatt, har du muligheten til �
 
 ### 4.4 Send inn
 
-**Hold åpent for innsending** Merk denne boksen hvis du planlegger å opprette en annen sak med en gang.
+_Hold åpent for innsending_ Merk denne boksen hvis du planlegger å opprette en annen sak med en gang.
 
-**Send inn** Når du har valgt all relevant informasjon for saken, trykker du send inn i nederste høyre hjørne. Minimumsinformasjonen som kreves for å sende inn en sak er tittelen.
+_Send inn_ Når du har valgt all relevant informasjon for saken, trykker du send inn i nederste høyre hjørne. Minimumsinformasjonen som kreves for å sende inn en sak er tittelen.
 
 # Opprett miniatyrbilde for modellen din
 
@@ -16332,8 +16314,6 @@ Klikk på knappen med "kuben" for å åpne revisjonsvelgeren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/02-intro.png)
 
-Informasjon om følgende saker finnes i denne artikkelen:
-
 ## 1. **Modeller**
 
 I modellmenyen kan du arbeide med 3D-dokumenter mens du holder 3D-visualiserpanelet i fullt fokus.
@@ -16352,9 +16332,9 @@ Finn 3D-dokumentene du leter etter ved å søke på en del av navnene deres.
 
 En delvis samsvarende tekst på 3 eller flere tegn kan samsvares i listen over 3D-dokumentnavn. Whitespace-tegn som mellomrom "" er ikke inkludert i dette antallet.
 
-**Samsvar etter skilletegn** Etter et skilletegn blir trekarakterregelen tilbakestilt, og bare tre eller flere tegn etter et skilletegn kan samsvares. Trekarakterregelen tilbakestilles etter hvert skilletegn. Skilletegn kan være tegn som understrekinger "`_`" eller bindestreker "`-`".
+_Samsvar etter skilletegn_ Etter et skilletegn blir trekarakterregelen tilbakestilt, og bare tre eller flere tegn etter et skilletegn kan samsvares. Trekarakterregelen tilbakestilles etter hvert skilletegn. Skilletegn kan være tegn som understrekinger "`_`" eller bindestreker "`-`".
 
-**Innholdspanel** For å begrense søket ytterligere, bør du vurdere å søke i innholdspanelet. Her kan du filtrere etter mer informasjon enn bare navnet på modellen. I innholdspanelet finner du alle 3D-dokumenter som er koblet til en modell på [modellsiden](https://support.catenda.com/nb/articles/4670286-modellside). 3D-dokumenter som ikke er koblet til et dokument finner du på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side).
+_Innholdspanel_ For å begrense søket ytterligere, bør du vurdere å søke i innholdspanelet. Her kan du filtrere etter mer informasjon enn bare navnet på modellen. I innholdspanelet finner du alle 3D-dokumenter som er koblet til en modell på [modellsiden](https://support.catenda.com/nb/articles/4670286-modellside). 3D-dokumenter som ikke er koblet til et dokument finner du på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side).
 
 ### 1.2 **3D-dokumentliste**
 
@@ -16384,7 +16364,7 @@ Når 3D-knappen klikkes, blir den grønn. 3D-visningen av det dokumentet blir de
 
 Etter at en modell er lastet inn i minnet, kan 3D-knappen klikkes igjen. Mens objektene ikke er tilgjengelige i 3D-visningen, vil dokumentet fortsatt være lastet inn i minnet. Dette gjør at du raskt kan slå på og av dokumenter som du tidligere har lastet inn.
 
-**Laste ut fra minnet** For å laste ut modeller fra minnet, kan du oppdatere siden eller gå til modellsiden for den bestemte modellen du vil laste ut. For å laste ut dokumenter fra minnet, trykker du på x til høyre for dokumentnavnet.
+_Laste ut fra minnet_ For å laste ut modeller fra minnet, kan du oppdatere siden eller gå til modellsiden for den bestemte modellen du vil laste ut. For å laste ut dokumenter fra minnet, trykker du på x til høyre for dokumentnavnet.
 
 ### 1.5 **Sentrér objekter**
 
@@ -16420,25 +16400,25 @@ Klikk på denne teksten for å endre den aktive revisjonen til en annen revisjon
 
 Etter at du har valgt en annen revisjon, blir den nåværende revisjonen lastet ut av minnet, og den valgte revisjonen lastes inn i minnet.
 
-**Revisjon #X** Hvis teksten sier `#X` eller `#X.X`, er den nyeste revisjonen av 3D-dokumentet enten tilgjengelig for lasting eller allerede lastet inn.
+_Revisjon #X_ Hvis teksten sier `#X` eller `#X.X`, er den nyeste revisjonen av 3D-dokumentet enten tilgjengelig for lasting eller allerede lastet inn.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/10-model-revision.png)
 
 Hvis teksten sier `#X`, er den nyeste revisjonen av 3D-dokumentet en publisert revisjon. Hvis teksten sier `#X.X`, er den nyeste revisjonen av 3D-dokumentet en delt revisjon.
 
-**#76 av 77** Hvis den valgte revisjonen ikke er den nyeste revisjonen, vises noe som `#76 av 77`. #76 henviser til gjeldende revisjonsnummer, og 77 henviser til den nyeste publiserte eller delte revisjonen i 3D-dokumentet.
+_#76 av 77_ Hvis den valgte revisjonen ikke er den nyeste revisjonen, vises noe som `#76 av 77`. #76 henviser til gjeldende revisjonsnummer, og 77 henviser til den nyeste publiserte eller delte revisjonen i 3D-dokumentet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/11-model-revision.png)
 
 Hvis den nyeste revisjonen er trukket tilbake eller har mislyktes behandling, vises noe som `#75 av 77`. #75 henviser til den nyeste revisjonen som er tilgjengelig for å vise objekter i 3D-visningen.
 
-**Gjennomstryket** Hvis revisjonenen er gjennomstryket, er den valgte revisjonen trukket tilbake, og ingen 3D-dokumentobjekter vises.
+_Gjennomstryket_ Hvis revisjonenen er gjennomstryket, er den valgte revisjonen trukket tilbake, og ingen 3D-dokumentobjekter vises.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/12-model-revision.png)
 
 Dette skjer vanligvis bare når en revisjon er lastet inn og blir trukket tilbake mens den er lastet, fordi tilbaketrukne revisjoner ikke kan velges.
 
-**Ingen tekst** Hvis det ikke er tekst bak 3D-dokumentet, finnes det ingen revisjoner og dokumentet er tomt.
+_Ingen tekst_ Hvis det ikke er tekst bak 3D-dokumentet, finnes det ingen revisjoner og dokumentet er tomt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/13-model-revision.png)
 

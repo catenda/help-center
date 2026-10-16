@@ -8,8 +8,6 @@ So kann die Seite zur Erstellung neuer Themen aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/01-intro.png)
 
-Auf dieser Seite finden Sie Informationen zu folgendem:
-
 ## 1. Obere Leiste
 
 Klicken Sie auf "Zurück zu Themen", um zum zuletzt besuchten Themen-Board zurückzukehren.

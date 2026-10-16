@@ -8,8 +8,6 @@ Voici à quoi peut ressembler la page de création d'un nouveau sujet :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/01-intro.png)
 
-Sur cette page, vous trouverez des informations sur les éléments suivants :
-
 ## 1. Barre supérieure
 
 Cliquez sur retour aux sujets pour revenir à la Liste de sujets dans laquelle vous étiez.

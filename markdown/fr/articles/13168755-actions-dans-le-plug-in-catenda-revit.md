@@ -8,8 +8,6 @@ Voici à quoi le menu d'action peut ressembler :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/01-intro.png)
 
-Des informations sur les sujets suivants se trouvent dans cet article :
-
 ## 1. **1. Nouveau sujet**
 
 Cliquez sur le bouton vert Nouveau sujet en haut à droite pour créer un nouveau sujet dans le projet actuellement sélectionné dans le menu déroulant en haut à gauche. Le sujet sera créé dans la liste de sujets sélectionnée dans le deuxième menu déroulant en haut à gauche. _Accès requis :_ Accès en écriture à la liste de sujets

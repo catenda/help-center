@@ -2,8 +2,6 @@
 
 Qu'il s'agisse d'une zone de construction, d'un tunnel ferroviaire ou d'un sous-sol profond d'un parking, il y a de fortes chances que vous ne puissiez pas vous connecter à Internet. Durant cette panne, Catenda Site peut toujours être utilisé pour collaborer sur vos appareils portables. Cet article décrit les différentes façons d'utiliser Catenda Site pour collaborer sans accès au réseau.
 
-Cet article contient des informations sur les sujets suivants :
-
 ## 1. **Menu des sujets en mode hors ligne**
 
 Sans connexion au réseau, le menu des sujets sera toujours disponible.

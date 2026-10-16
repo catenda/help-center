@@ -2,8 +2,6 @@
 
 Je nach Ihrem Zugriff und Ihrer Auswahl können verschiedene Aktionen für Ihre Dokumente und Ordner auf der [Dokumentseite](https://support.catenda.com/de/articles/8204673-dokumentenseite) angezeigt werden.
 
-**Dieser Artikel enthält Informationen zu den folgenden Themen:**
-
 ## 1. **Neue Elementaktionen**
 
 Die Plus-Schaltfläche und die Hamburger-Menü-Elemente finden Sie oben rechts auf der Seite und können etwa so aussehen:

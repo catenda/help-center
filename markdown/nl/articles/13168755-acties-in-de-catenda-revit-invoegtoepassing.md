@@ -8,8 +8,6 @@ Dit ziet het actiemenu er als volgt uit:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/01-intro.png)
 
-Informatie over de volgende Topics is te vinden in dit artikel:
-
 ## 1. **1. Nieuwe Topic**
 
 Klik op de groene knop Nieuwe Topic rechtsboven om een nieuwe Topic te maken in het project dat momenteel is geselecteerd in het vervolgkeuzemenu linksboven. De Topic wordt gemaakt in het Topic board dat is geselecteerd in het tweede vervolgkeuzemenu linksboven. _Vereiste toegang:_ Schrijftoegang tot het Topic board

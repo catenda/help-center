@@ -2,8 +2,6 @@
 
 Onderwerpen kunnen naar PDF worden geëxporteerd door op de PDF-optie in de [Onderwerpen exporteren dialoog](https://support.catenda.com/nl/articles/4670289-wissel-topics-uit#h_aa0b8d7789) te klikken. Met de PDF-export kunt u een rapport van uw onderwerpen exporteren. Deze exportoptie is handig om een gemakkelijk leesbare versie van onderwerpen te hebben en kan worden gebruikt voor archiveringsdoeleinden of om aan autoriteiten te rapporteren.
 
-Deze pagina bevat informatie over de volgende onderwerpen:
-
 ## 1. **Instellingen die van invloed zijn op alle pagina's van de PDF**
 
 Deze instellingen zijn van invloed op alle pagina's van de PDF

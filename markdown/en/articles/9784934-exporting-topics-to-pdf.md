@@ -2,8 +2,6 @@
 
 Topics can be exported to PDF by clicking on the PDF option in the [Export topics dialogue](https://support.catenda.com/en/articles/4670289-exchange-topics#h_aa0b8d7789). The PDF export will let you export a report of your topics. This export option is useful to have an easily readable version of topics and can be used for archiving purposes or to report to authorities.
 
-This page includes information about the following topics:
-
 ## 1. **Settings that affect all pages of the PDF**
 
 These settings affect all pages of the PDF

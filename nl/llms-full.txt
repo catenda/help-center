@@ -4022,8 +4022,6 @@ Dit ziet het actiemenu er als volgt uit:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/01-intro.png)
 
-Informatie over de volgende Topics is te vinden in dit artikel:
-
 ## 1. **1. Nieuwe Topic**
 
 Klik op de groene knop Nieuwe Topic rechtsboven om een nieuwe Topic te maken in het project dat momenteel is geselecteerd in het vervolgkeuzemenu linksboven. De Topic wordt gemaakt in het Topic board dat is geselecteerd in het tweede vervolgkeuzemenu linksboven. _Vereiste toegang:_ Schrijftoegang tot het Topic board
@@ -4119,8 +4117,6 @@ Na het opnieuw aanmelden wordt het eerste project in de projectlijst weergegeven
 # Acties in de documententabel
 
 Afhankelijk van uw toegang en selectie kunnen verschillende acties voor uw Documenten en mappen worden weergegeven op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina).
-
-**Dit artikel bevat informatie over de volgende topics:**
 
 ## 1. **Nieuwe itemacties**
 
@@ -7964,8 +7960,6 @@ Een nieuw onderwerp aanmaken kan vanuit het onderwerpen-scherm of vanuit de dash
 Dit is hoe de pagina voor het aanmaken van een nieuw onderwerp eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/01-intro.png)
-
-Op deze pagina vindt u informatie over het volgende:
 
 ## 1. Bovenbalk
 
@@ -12769,8 +12763,6 @@ Kolom voorkeuren worden niet tussen sessies opgeslagen. Kolommen kunnen niet opn
 
 Of het nu een bouwplaats, een spoorwegtunnel of een diepe kelder van een parkeergarage is, je hebt waarschijnlijk geen verbinding met het internet. Tijdens deze onderbreking kan Catenda Site nog steeds worden gebruikt om samen te werken op uw draagbare apparaten. Dit artikel beschrijft de verschillende manieren waarop Catenda Site kan worden gebruikt om samen te werken zonder toegang tot het netwerk.
 
-Dit artikel bevat informatie over de volgende onderwerpen:
-
 ## 1. **Onderwerpenmenu in offline-modus**
 
 Zonder verbinding met het netwerk is het onderwerpenmenu nog steeds beschikbaar.
@@ -12818,21 +12810,15 @@ Wanneer de verbinding met het netwerk is hersteld, worden deze onderwerpen niet 
 De volgende informatie kan aan een nieuw onderwerp worden toegevoegd dat zonder verbinding met het netwerk is gemaakt:
 
 - Een titel kan worden toegevoegd
-
 - Een onderwerpenbord kan voor het onderwerp worden geselecteerd
-
 - Status/type kan worden gewijzigd
-
 - Een mijlpaal kan worden toegevoegd
-
 - Labels kunnen worden toegevoegd
-
 - Een beschrijving kan worden geschreven
-
 - Opmerkingen kunnen worden toegevoegd.
-  - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
+    - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
 
-    _Vereiste toegang:_ Volledige toegang tot het apparaat
+        _Vereiste toegang:_ Volledige toegang tot het apparaat
 
 - Als modellen vóór het verbreken van de verbinding met het netwerk waren geladen, kan een locatie aan een onderwerp worden toegevoegd door een markering in de 2D-weergave van die modellen te plaatsen.
 
@@ -13080,8 +13066,6 @@ Tik op de groene cirkel met het plusteken in het midden om een nieuw topic te ma
 # Onderwerpen naar PDF exporteren
 
 Onderwerpen kunnen naar PDF worden geëxporteerd door op de PDF-optie in de [Onderwerpen exporteren dialoog](https://support.catenda.com/nl/articles/4670289-wissel-topics-uit#h_aa0b8d7789) te klikken. Met de PDF-export kunt u een rapport van uw onderwerpen exporteren. Deze exportoptie is handig om een gemakkelijk leesbare versie van onderwerpen te hebben en kan worden gebruikt voor archiveringsdoeleinden of om aan autoriteiten te rapporteren.
-
-Deze pagina bevat informatie over de volgende onderwerpen:
 
 ## 1. **Instellingen die van invloed zijn op alle pagina's van de PDF**
 
@@ -17766,8 +17750,6 @@ De revisiekiezer is een vervolgkeuzemenu dat zich in de linkerbovenhoek van het 
 Klik op de knop met de "kubus" om de revisiekiezer te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/02-intro.png)
-
-Informatie over de volgende onderwerpen vindt u in dit artikel:
 
 ## 1. **Modellen**
 

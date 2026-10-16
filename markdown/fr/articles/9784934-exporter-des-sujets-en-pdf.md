@@ -2,8 +2,6 @@
 
 Les sujets peuvent être exportés en PDF en cliquant sur l'option PDF dans le [dialogue d'export de sujets](https://support.catenda.com/fr/articles/4670289-echanger-des-sujets#h_aa0b8d7789). L'export PDF vous permettra d'exporter un rapport de vos sujets. Cette option d'export est utile pour avoir une version facilement lisible des sujets et peut être utilisée à des fins d'archivage ou pour signaler aux autorités.
 
-Cette page contient des informations sur les sujets suivants :
-
 ## 1. **Paramètres qui affectent toutes les pages du PDF**
 
 Ces paramètres affectent toutes les pages du PDF

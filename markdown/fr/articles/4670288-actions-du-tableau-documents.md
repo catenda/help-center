@@ -2,8 +2,6 @@
 
 Selon votre accès et votre sélection, différentes actions pour vos documents et dossiers peuvent être vues sur la [page des documents](https://support.catenda.com/fr/articles/8204673-page-documents).
 
-**Cet article contient des informations sur les sujets suivants:**
-
 ## 1. **Nouvelles actions d'élément**
 
 Le bouton plus et les éléments du menu hamburger se trouvent vers le haut à droite de la page et peuvent ressembler à ceci:

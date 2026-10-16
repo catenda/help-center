@@ -2,8 +2,6 @@
 
 Themen können in PDF exportiert werden, indem Sie auf die PDF-Option im [Dialog "Themen exportieren"](https://support.catenda.com/de/articles/4670289-themen-austausch#h_aa0b8d7789) klicken. Der PDF-Export ermöglicht es Ihnen, einen Bericht über Ihre Themen zu exportieren. Diese Exportoption ist nützlich, um eine leicht lesbare Version von Themen zu erhalten und kann für Archivierungszwecke oder zur Meldung an Behörden verwendet werden.
 
-Diese Seite enthält Informationen zu den folgenden Themen:
-
 ## 1. **Einstellungen, die alle Seiten des PDF beeinflussen**
 
 Diese Einstellungen beeinflussen alle Seiten des PDF

@@ -8,8 +8,6 @@ So kann das Aktionsmenü aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/01-intro.png)
 
-Informationen zu folgenden Themen finden Sie in diesem Artikel:
-
 ## 1. **1. Neues Thema**
 
 Klicken Sie auf die grüne Schaltfläche "Neues Thema" oben rechts, um ein neues Thema in dem Projekt zu erstellen, das derzeit im Dropdown-Menü oben links ausgewählt ist. Das Thema wird im Themen-Board erstellt, das im zweiten Dropdown-Menü oben links ausgewählt ist. _Erforderlicher Zugriff:_ Schreibzugriff auf das Themen-Board

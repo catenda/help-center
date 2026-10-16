@@ -8,8 +8,6 @@ This is what the action menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/01-intro.png)
 
-Information about the following topics can be found in this article:
-
 ## 1. **1. New topic**
 
 Click on the green New topic button towards the top right to create a new topic in the project that is currently selected in the dropdown menu towards the top left. The topic will be created in the topic board that is selected in the second dropdown menu towards the top left. _Access required:_ Write access to the topic board

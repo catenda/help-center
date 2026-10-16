@@ -8,8 +8,6 @@ Klicken Sie auf die Schaltfläche mit dem "Würfel", um den Revisions-Selector z
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/02-intro.png)
 
-Informationen zu den folgenden Themen finden Sie in diesem Artikel:
-
 ## 1. **Modelle**
 
 Im Menü "Modelle" können Sie mit 3D-Dokumenten arbeiten, während Sie den 3D Viewer-Bereich vollständig fokussiert halten.

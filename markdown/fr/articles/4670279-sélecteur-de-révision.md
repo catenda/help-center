@@ -8,8 +8,6 @@ Cliquez sur le bouton avec le "cube" pour ouvrir le sélecteur de révision.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/02-intro.png)
 
-Des informations sur les sujets suivants se trouvent dans cet article :
-
 ## 1. **Modèles**
 
 Dans le menu des modèles, vous pouvez travailler avec des documents 3D tout en gardant le panneau de la visionneuse 3D en vue complète.

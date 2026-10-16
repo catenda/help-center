@@ -2,8 +2,6 @@
 
 Depending on your access and your selection different actions for your documents and folders can be seen on the [documents page](https://support.catenda.com/en/articles/8204673-documents-page).
 
-**This article contains information about the following topics:**
-
 ## 1. **New item actions**
 
 The plus button and hamburger menu items can be found towards the top right of the page and can look something like this:
