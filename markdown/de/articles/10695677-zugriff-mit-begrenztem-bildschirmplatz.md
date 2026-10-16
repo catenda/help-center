@@ -1,13 +1,21 @@
 # Zugriff mit begrenztem Bildschirmplatz
 
-Bei begrenzter Bildschirmgröße können einige Funktionen auf benutzerfreundliche Weise auf Catenda Site aufgerufen werden. Wenn der Zugriff auf die gesamte Funktionalität für Sie wichtiger ist als die Barrierefreiheit, ist dies immer über den Browser verfügbar. Browserseiten können zum Startbildschirm/Dashboard/Dock hinzugefügt werden, um die Erfahrung beim Zugriff auf Catenda mit begrenztem Bildschirmplatz zu verbessern.
+Bei begrenzter Bildschirmgröße können einige Funktionen in benutzerfreundlicher Weise in unseren mobilen Apps aufgerufen werden. Wenn der Zugriff auf die gesamte Funktionalität für Sie wichtiger ist als die Benutzerfreundlichkeit, ist dies immer über den Browser verfügbar. Browserseiten können zum Startbildschirm/Dashboard/Dock hinzugefügt werden, um die Erfahrung beim Zugriff auf Catenda mit begrenztem Bildschirmplatz zu verbessern.
 
-## 1. **Catenda Site -** Barrierefreundlich und offline
+## 1. **Mobile Apps -** Auf der Website zugänglich
 
-Auf Geräten mit begrenzter Bildschirmgröße müssen Schaltflächen größer sein, damit Sie sehen, worauf Sie mit Ihrem Finger tippen. In dieser Situation ist unsere mobile App [Catenda Site](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) das beste Tool für Sie.
+Auf Geräten mit begrenzter Bildschirmgröße müssen Schaltflächen größer sein, damit Sie sehen, worauf Sie mit Ihrem Finger tippen. In dieser Situation sind unsere mobilen Apps Catenda Site und Catenda Mobile die besten Tools für Sie.
+
+### 1.1 **Catenda Site**
+
+[Catenda Site](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) ist unsere offizielle mobile App, verfügbar für iPhone und iPad sowie für Android.
 
 - Die Funktionalität ist begrenzt und einfach gehalten, damit Sie die benötigten Schaltflächen leicht antippen können.
-- Inhalte können ohne Internetverbindung heruntergeladen und übermittelt werden
+- Inhalte können heruntergeladen und übermittelt werden, [ohne dass eine Internetverbindung erforderlich ist](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site).
+
+### 1.2 **Catenda Mobile**
+
+[Catenda Mobile](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda) ist unsere mobile App in der Früh-Zugriffsphase, verfügbar für iPhone und iPad über [TestFlight](https://testflight.apple.com/join/xj6WppjQ) und für Android auf [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Sie umfasst Themen, Standorte, Formulare und Dokumente und wird im Laufe der Zeit alle Funktionen von Catenda Site erhalten.
 
 ## 2. **Startbildschirm / Dashboard / Dock -** Vollständige Funktionalität
 

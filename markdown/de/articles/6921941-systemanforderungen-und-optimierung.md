@@ -4,7 +4,7 @@
 
 ## 1. **Hardwareempfehlung:**
 
-Diese Hardwareempfehlung ist nur für Catenda Hub in einer Browseranwendung vorgesehen. Je nach Detaillierungsgrad Ihrer 3D-Objekte können unterschiedliche Anforderungen gelten. Detaillierungsstufen (LOD) werden von der AIA im Dokument G202 als LOD 100, 200, 300, 400, 500 und 600 definiert. Die LOD-Definition finden Sie [hier](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf).
+Diese Hardwareempfehlung ist nur für Catenda Hub in einer Browseranwendung vorgesehen. Dies umfasst Catenda Hub, das im Browser eines Tablets geöffnet oder zum Startbildschirm hinzugefügt wird, wie unter [iPad und andere Tablets](#ipad-and-other-tablets) beschrieben. Je nach Detailgrad Ihrer 3D-Objekte können unterschiedliche Anforderungen bestehen. Detailstufen (LOD) sind in der AIA-Dokumentation G202 als LOD 100, 200, 300, 400, 500 und 600 definiert. Die LOD-Definition kann [hier](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf) eingesehen werden.
 
 **(April 2026)**
 
@@ -16,7 +16,7 @@ Wenn ein oder mehrere externe Monitore mit einem Gerät verbunden sind, stellen 
 
 ## 3. **Systemanforderungen der Anwendung**
 
-Auf Catenda Hub kann über verschiedene Anwendungen auf verschiedenen Systemen zugegriffen werden. Die Anforderungen für die Verwendung von Catenda Hub sind daher eine Kombination aus den Anforderungen der Systemsoftware und der Anwendungssoftware, die für den Zugriff auf Catenda Hub verwendet werden.
+Auf Catenda Hub kann über verschiedene Anwendungen auf verschiedenen Systemen zugegriffen werden. Die Anforderungen für die Verwendung von Catenda Hub sind daher eine Kombination der Anforderungen der Systemsoftware und der Anwendungssoftware, die für den Zugriff auf Catenda Hub verwendet werden.
 
 ### 3.1 **Betriebssysteme**
 
@@ -28,12 +28,38 @@ Linux Ubuntu [https://help.ubuntu.com/community/Installation/SystemRequirements]
 
 ### 3.2 **Browser**
 
-_Chrome: _[https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
+**Chrome:** [https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
 
-_Firefox:_ [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/)
+**Firefox:** [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/)
 
-_Microsoft Edge:_ Windows 11 Systemanforderungen: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications) Safari: [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+**Microsoft Edge:** Windows 11-Systemanforderungen: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications)
 
-_Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements)
+**Safari:** [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
 
-_Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+**Opera:** [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements)
+
+**Vivaldi:** [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+
+## 4. **iPad und andere Tablets**
+
+Catenda Hub kann auch auf einem iPad oder einem anderen Tablet im Browser oder [zum Startbildschirm hinzugefügt](https://support.catenda.com/de/articles/10741601-zum-startbildschirm-hinzufugen) als App verwendet werden. Wenn es zum Startbildschirm hinzugefügt wird, läuft es immer noch im Browser des Geräts, sodass die volle Funktionalität verfügbar ist und die folgenden Empfehlungen für beide gelten.
+
+### 4.1 **Grafikspeicher entscheidet, wie viel 3D Sie laden können**
+
+Modelle, die im 3D-Viewer angezeigt werden, werden im Speicher des Grafikprozessors gespeichert. Auf einem Tablet teilt der Grafikprozessor seinen Speicher mit dem Rest des Geräts, und es ist weniger als auf einem Computer mit einer dedizierten Grafikkarte. Wie viel Geometrie ein Tablet gleichzeitig anzeigen kann, hängt daher von seinem Chip und seinem Speicher ab, nicht vom Speicherplatz. Ein Tablet mit mehr Speicher lädt nicht mehr Modelle.
+
+### 4.2 **Empfohlene Tablets**
+
+Für reguläre Projekte (bis LOD 300) wird ein aktuelles iPad mit der neuesten Version von iPadOS empfohlen. Für Projekte mit dichter Geometrie (LOD 400 und höher) oder wenn viele Modelle zusammen angezeigt werden müssen, wird ein iPad Pro oder ein iPad Air mit M-Serie-Chip empfohlen. Bei einem Android-Tablet wird ein aktuelles Modell mit einem High-End-Chip auf der neuesten Version von Android empfohlen. Halten Sie iPadOS und Safari aktuell, da Updates häufig die Handhabung von 3D-Grafiken durch den Browser verbessern.
+
+### 4.3 **Das Beste aus einem Tablet herausholen**
+
+Auf einem Tablet ist es hilfreich, nur das zu laden, was Sie für die anstehende Aufgabe benötigen:
+
+- Aktivieren Sie nur die Modelle, die Sie benötigen, anstatt jedes Modell im Projekt.
+- Verwenden Sie eine [Abfrage](https://support.catenda.com/de/articles/4854514-abfragen), um nur den Teil des Modells anzuzeigen, an dem Sie arbeiten.
+- Aktivieren Sie inkrementelles Rendering in den [3D-Viewer-Einstellungen](https://support.catenda.com/de/articles/5784718-3d-viewer-einstellungen).
+
+Weitere Tipps werden unter [3D-Viewer-Optimierung](https://support.catenda.com/de/articles/13927321-3d-viewer-optimierung) beschrieben.
+
+Für Arbeiten auf der Baustelle ist die mobile App Catenda Site oft die bessere Wahl, wie unter [Zugriff mit begrenztem Bildschirmplatz](https://support.catenda.com/de/articles/10695677-zugriff-mit-begrenztem-bildschirmplatz) beschrieben. Geräteempfehlungen für Catenda Site sind unter [Hardwareempfehlung - Catenda Site](https://support.catenda.com/en/articles/17596478-hardware-recommendation-catenda-site) aufgeführt.

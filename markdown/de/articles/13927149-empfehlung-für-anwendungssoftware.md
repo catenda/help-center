@@ -24,15 +24,15 @@ Bitte stellen Sie sicher, dass Sie die Hardwarebeschleunigung verwenden. Die Opt
 
 **Chrome:** <a class="intercom-content-link" href="" target="_blank">chrome://settings/?search=hardware+acceleration</a>
 
-_Firefox:_ [https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm\_source=inproduct](https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm_source=inproduct)
+**Firefox:** [https://support.mozilla.org/de/kb/Leistungseinstellungen?as=u&utm\_source=inproduct](https://support.mozilla.org/de/kb/Leistungseinstellungen?as=u&utm_source=inproduct)
 
-_Microsoft Edge:_ <a class="intercom-content-link" href="" target="_blank">edge://settings/?search=hardware%20acceleration</a>
+**Microsoft Edge:** <a class="intercom-content-link" href="" target="_blank">edge://settings/?search=hardware%20acceleration</a>
 
 **Safari:** [https://support.apple.com/en-us/102894](https://support.apple.com/en-us/102894)
 
-_Opera:_ [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
+**Opera:** [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
 
-_Vivaldi:_ [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
+**Vivaldi:** [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
 
 ### 1.3 **Cookies**
 
@@ -46,13 +46,13 @@ Klicken Sie auf Websitedaten auf dem Gerät verwalten
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/02-cookies.png)
 
-_Cookies zulassen_ Um Catenda Hub zu verwenden, müssen Sie mindestens die Speicherung von Daten für hub.catenda.com während Ihrer Sitzung zulassen.
+**Cookies zulassen** Um Catenda Hub nutzen zu können, müssen Sie mindestens die Speicherung von Daten für hub.catenda.com während Ihrer Sitzung zulassen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/03-cookies.png)
 
 Wenn Sie sich dafür entscheiden, Daten beim Schließen aller Fenster zu löschen, werden Ihre Daten jedes Mal zurückgesetzt, wenn Sie Catenda verwenden. Das Löschen Ihrer Daten jedes Mal, wenn alle Fenster geschlossen sind, führt dazu, dass Ihre Einstellungen jedes Mal zurückgesetzt werden, nachdem Sie alle Fenster Ihres Browsers geschlossen haben.
 
-_Cookies löschen_ Cookie-Daten können manuell gelöscht werden, indem Sie auf das Papierkorbsymbol klicken.
+**Cookies löschen** Cookie-Daten können manuell durch Klicken auf das Papierkorbsymbol gelöscht werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/04-cookies.png)
 

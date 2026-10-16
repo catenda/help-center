@@ -46,13 +46,13 @@ Cliquez sur Gérer les données de site stockées sur l'appareil
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/02-cookies.png)
 
-_Autoriser les cookies_ Pour utiliser Catenda Hub, vous devez au moins autoriser le stockage de données pour hub.catenda.com lors de votre session.
+**Autoriser les cookies** Pour utiliser Catenda Hub, vous devez au moins autoriser le stockage des données pour hub.catenda.com pendant votre session.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/03-cookies.png)
 
 Si vous choisissez de supprimer les données à la fermeture de toutes les fenêtres, vos données seront réinitialisées chaque fois que vous utilisez Catenda. La suppression de vos données à chaque fermeture de toutes les fenêtres entraînera la réinitialisation de vos préférences à chaque fois après la fermeture de toutes les fenêtres de votre navigateur.
 
-_Suppression des cookies_ Les données des cookies peuvent être supprimées manuellement en cliquant sur l'icône de la poubelle.
+**Suppression des cookies** Les données des cookies peuvent être supprimées manuellement en cliquant sur l'icône de la corbeille.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/04-cookies.png)
 

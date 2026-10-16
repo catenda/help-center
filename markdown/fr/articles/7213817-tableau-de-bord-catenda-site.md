@@ -19,4 +19,7 @@ Sur cette page, vous pouvez consulter l'état de vos topics, choisir ou modifier
 
 Vous avez également plusieurs onglets auxquels vous pouvez accéder :
 
-A. [Menu](https://support.catenda.com/fr/articles/7338516-menu-de-navigation-catenda-site) B. [Topics](https://support.catenda.com/fr/articles/7734073-menu-topics-catenda-site) C. [2D/3D](https://support.catenda.com/fr/articles/7734138-2d-3d-catenda-site) D. [Documents](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site)
+- [Menu](https://support.catenda.com/fr/articles/7338516-menu-de-navigation-catenda-site)
+- [Sujets](https://support.catenda.com/fr/articles/7734073-menu-topics-catenda-site)
+- [2D/3D](https://support.catenda.com/fr/articles/7734138-2d-3d-catenda-site)
+- [Documents](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site)

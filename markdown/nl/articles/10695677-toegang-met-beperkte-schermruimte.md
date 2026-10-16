@@ -1,13 +1,21 @@
 # Toegang met beperkte schermruimte
 
-Bij beperkte schermgrootte kunnen enkele functies op een gebruiksvriendelijke manier worden gebruikt op Catenda Site. Als volledige functionaliteit voor u belangrijker is dan toegankelijkheid, is dit altijd beschikbaar via de browser. Browserpagina's kunnen aan het startscherm/Dashboard/dock worden toegevoegd om de ervaring van toegang tot Catenda met beperkte schermruimte te verbeteren.
+Met beperkte schermgrootte kunnen sommige functies op een gebruiksvriendelijke manier worden geopend in onze mobiele apps. Als het voor u belangrijker is om toegang te hebben tot alle functionaliteit dan toegankelijkheid, is dit altijd beschikbaar via de browser. Browserpagina's kunnen aan het startscherm/Dashboard/dock worden toegevoegd om de ervaring van het openen van Catenda met beperkte schermruimte te verbeteren.
 
-## 1. **Catenda Site -** Toegankelijk en offline
+## 1. **Mobiele apps -** Toegankelijk op locatie
 
-Op apparaten met beperkte schermgrootte moeten knoppen groter zijn zodat u ziet wat u met uw vinger aanraakt. In deze situatie is onze mobiele app, [Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site), het beste gereedschap voor u.
+Op apparaten met beperkte schermgrootte moeten knoppen groter zijn, zodat u ziet wat u met uw vinger aanraakt. In deze situatie zijn onze mobiele apps, Catenda Site en Catenda Mobile, de beste tools voor u.
+
+### 1.1 **Catenda Site**
+
+[Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site) is onze officiële mobiele app, beschikbaar voor iPhone en iPad en voor Android.
 
 - Functionaliteit is beperkt en eenvoudig gehouden zodat u de knoppen die u nodig hebt gemakkelijk kunt aanraken.
-- Inhoud kan worden gedownload en verzonden zonder internetverbinding
+- Inhoud kan worden gedownload en ingediend [zonder internetverbinding](https://support.catenda.com/nl/articles/7325268-offline-modus-in-catenda-site).
+
+### 1.2 **Catenda Mobile**
+
+[Catenda Mobile](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda) is onze mobiele app in vroege toegang, beschikbaar voor iPhone en iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) en voor Android op [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Het bevat topics, locaties, formulieren en Documenten, en na verloop van tijd zal het alle functies van Catenda Site krijgen.
 
 ## 2. **Startscherm / Dashboard / Dock -** Volledige functionaliteit
 

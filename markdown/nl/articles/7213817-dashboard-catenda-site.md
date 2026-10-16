@@ -19,4 +19,7 @@ Op deze pagina kunt u de status van uw onderwerpen bekijken, kiezen of wijzigen 
 
 U hebt ook verschillende tabbladen waarnaar u kunt navigeren:
 
-A. [Menu](https://support.catenda.com/nl/articles/7338516-navigatiemenu-catenda-site) B. [Onderwerpen](https://support.catenda.com/nl/articles/7734073-onderwerpen-menu-catenda-site) C. [2D/3D](https://support.catenda.com/nl/articles/7734138-2d-3d-catenda-site) D. [Documenten](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site)
+- [Menu](https://support.catenda.com/nl/articles/7338516-navigatiemenu-catenda-site)
+- [Onderwerpen](https://support.catenda.com/nl/articles/7734073-onderwerpen-menu-catenda-site)
+- [2D/3D](https://support.catenda.com/nl/articles/7734138-2d-3d-catenda-site)
+- [Documenten](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site)

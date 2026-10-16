@@ -24,15 +24,15 @@ Zorg ervoor dat u hardwareversnelling gebruikt. Opties voor hardwareversnelling 
 
 **Chrome:** <a class="intercom-content-link" href="" target="_blank">chrome://settings/?search=hardware+acceleration</a>
 
-_Firefox:_ [https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm\_source=inproduct](https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm_source=inproduct)
+**Firefox:** [https://support.mozilla.org/nl/kb/performance-settings?as=u&utm\_source=inproduct](https://support.mozilla.org/nl/kb/performance-settings?as=u&utm_source=inproduct)
 
-_Microsoft Edge:_ <a class="intercom-content-link" href="" target="_blank">edge://settings/?search=hardware%20acceleration</a>
+**Microsoft Edge:** <a class="intercom-content-link" href="" target="_blank">edge://settings/?search=hardware%20acceleration</a>
 
 **Safari:** [https://support.apple.com/en-us/102894](https://support.apple.com/en-us/102894)
 
-_Opera:_ [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
+**Opera:** [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
 
-_Vivaldi:_ [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
+**Vivaldi:** [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
 
 ### 1.3 **Cookies**
 
@@ -46,13 +46,13 @@ Klik op Sitegegevens op apparaat beheren
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/02-cookies.png)
 
-_Cookies toestaan_ Als u Catenda Hub wilt gebruiken, moet u ten minste de opslag van gegevens voor hub.catenda.com tijdens uw sessie toestaan.
+**Cookies toestaan** Om Catenda Hub te gebruiken, moet u minimaal de opslag van gegevens voor hub.catenda.com tijdens uw sessie toestaan.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/03-cookies.png)
 
 Als u ervoor kiest om gegevens te verwijderen wanneer alle vensters worden gesloten, worden uw gegevens elke keer dat u Catenda gebruikt opnieuw ingesteld. Het verwijderen van uw gegevens telkens wanneer alle browservensters worden gesloten, zorgt ervoor dat uw voorkeuren elke keer na het sluiten van alle browservensters opnieuw worden ingesteld.
 
-_Cookies verwijderen_ Cookiegegevens kunnen handmatig worden verwijderd door op het prullenmandpictogram te klikken.
+**Cookies verwijderen** Cookiegegevens kunnen handmatig worden verwijderd door op het prullenbakpictogram te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/04-cookies.png)
 

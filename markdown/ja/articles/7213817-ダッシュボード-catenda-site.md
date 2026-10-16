@@ -19,4 +19,7 @@
 
 また、ナビゲートできるいくつかのタブがあります:
 
-A. [メニュー](https://support.catenda.com/ja/articles/7338516-ナビゲーションメニュー-catenda-site) B. [トピック](https://support.catenda.com/ja/articles/7734073-トピックメニュー-catenda-site) C. [2D/3D](https://support.catenda.com/ja/articles/7734138-2d-3d-catenda-site) D. [ドキュメント](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site)
+- [メニュー](https://support.catenda.com/ja/articles/7338516-ナビゲーションメニュー-catenda-site)
+- [トピック](https://support.catenda.com/ja/articles/7734073-トピックメニュー-catenda-site)
+- [2D/3D](https://support.catenda.com/ja/articles/7734138-2d-3d-catenda-site)
+- [ドキュメント](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site)

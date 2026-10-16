@@ -19,4 +19,7 @@ Auf dieser Seite können Sie den Status Ihrer Topics anzeigen, auswählen oder �
 
 Sie haben auch mehrere Registerkarten, zu denen Sie navigieren können:
 
-A. [Menü](https://support.catenda.com/de/articles/7338516-navigationsmenu-catenda-site) B. [Topics](https://support.catenda.com/de/articles/7734073-themen-menu-catenda-site) C. [2D/3D](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site) D. [Dokumente](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site)
+- [Menü](https://support.catenda.com/de/articles/7338516-navigationsmenu-catenda-site)
+- [Themen](https://support.catenda.com/de/articles/7734073-themen-menu-catenda-site)
+- [2D/3D](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site)
+- [Dokumente](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site)

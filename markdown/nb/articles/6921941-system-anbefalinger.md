@@ -4,7 +4,7 @@
 
 ## 1. **Maskinvareanbefalinger:**
 
-Denne maskinvareanbefaling er kun ment for Catenda Hub i en nettleserapplikasjon. Det kan være forskjellige krav avhengig av detaljnivået på dine 3D-objekter. Detaljeringsnivåer (LOD) er definert av AIA i dokument G202 som LOD 100, 200, 300, 400, 500 og 600. LOD-definisjonen kan ses [her](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf).
+Denne maskinvareanbefalingen er kun ment for Catenda Hub i en nettleserapplikasjon. Det inkluderer Catenda Hub åpnet i nettleseren på et nettbrett, eller lagt til hjemmeskjermen, som beskrevet i [iPad og andre nettbrett](#ipad-and-other-tablets). Det kan være ulike krav avhengig av detaljnivået på dine 3D-objekter. Nivåer av detaljer (LOD) er definert av AIA i dokument G202 som LOD 100, 200, 300, 400, 500 og 600. LOD-definisjonen kan sees [her](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf).
 
 **(april 2026)**
 
@@ -16,7 +16,7 @@ Hvis en eller flere eksterne monitorer er koblet til en enhet, selv om Catenda i
 
 ## 3. **Applikasjonssystemkrav**
 
-Catenda Hub kan nås gjennom ulike applikasjoner på ulike systemer. Kravene for bruk av Catenda Hub er derfor en kombinasjon av kravene til systemsoftware og applikasjonssoftware som brukes for å få tilgang til Catenda Hub.
+Catenda Hub kan åpnes gjennom ulike applikasjoner på ulike systemer. Kravene for å bruke Catenda Hub er derfor en kombinasjon av kravene til systemsoftware og applikasjonssoftware som brukes til å få tilgang til Catenda Hub.
 
 ### 3.1 **Operativsystemer**
 
@@ -28,12 +28,38 @@ Linux Ubuntu [https://help.ubuntu.com/community/Installation/SystemRequirements]
 
 ### 3.2 **Nettlesere**
 
-_Chrome: _[https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
+**Chrome:** [https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
 
-_Firefox:_ [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/)
+**Firefox:** [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/)
 
-_Microsoft Edge:_ Windows 11-systemkrav: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications) Safari: [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+**Microsoft Edge:** Windows 11 systemkrav: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications)
 
-_Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements)
+**Safari:** [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
 
-_Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+**Opera:** [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements)
+
+**Vivaldi:** [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+
+## 4. **iPad og andre nettbrett**
+
+Catenda Hub kan også brukes på en iPad eller et annet nettbrett, i nettleseren eller [lagt til hjemmeskjermen](https://support.catenda.com/nb/articles/10741601-legg-til-pa-startskjermen) som en app. Lagt til hjemmeskjermen, kjører det fortsatt Catenda Hub i nettleseren på enheten, så full funksjonalitet er tilgjengelig og anbefalingene nedenfor gjelder for begge.
+
+### 4.1 **Grafikkminneet bestemmer hvor mye 3D du kan laste**
+
+Modeller som vises i 3D-viseren holdes i minnet på grafikksprocessoren. På et nettbrett deler grafikksprocessoren minnet sitt med resten av enheten, og det er mindre enn på en datamaskin med et dedikert grafikkort. Hvor mye geometri et nettbrett kan vise samtidig, avhenger derfor av brikken og minnet, ikke av lagringsplassen. Et nettbrett med mer lagringsplass laster ikke flere modeller.
+
+### 4.2 **Anbefalte nettbrett**
+
+For vanlige prosjekter (opp til LOD 300), anbefales en nylig iPad på den nyeste versjonen av iPadOS. For tette geometriprosjekter (LOD 400 og oppover), eller når mange modeller må vises sammen, anbefales en iPad Pro eller en iPad Air med en M-serie-brikke. På et Android-nettbrett, anbefales en nylig modell med en høy-ende-brikke på den nyeste versjonen av Android. Hold iPadOS og Safari oppdatert, fordi oppdateringer ofte forbedrer hvordan nettleseren håndterer 3D-grafikk.
+
+### 4.3 **Få det meste ut av et nettbrett**
+
+På et nettbrett hjelper det å laste bare det du trenger for oppgaven du har foran deg:
+
+- Slå på bare modellene du trenger, i stedet for hver modell i prosjektet.
+- Bruk en [spørring](https://support.catenda.com/nb/articles/4854514-sporringer) for å vise bare delen av modellen du arbeider i.
+- Slå på inkrementell gjengivelse i [3D-viserinnstillingene](https://support.catenda.com/nb/articles/5784718-3d-viser-innstillinger).
+
+Flere tips er beskrevet i [3D-viseroptimalisering](https://support.catenda.com/nb/articles/13927321-3d-viser-optimalisering).
+
+For arbeid på byggeplassen er Catenda Site mobilapp ofte et bedre valg, som beskrevet i [Access with limited screen space](https://support.catenda.com/nb/articles/10695677-tilgang-med-begrenset-skjermplass). Enhetsanbefalinger for Catenda Site er beskrevet i [Hardware recommendation - Catenda Site](https://support.catenda.com/en/articles/17596478-hardware-recommendation-catenda-site).

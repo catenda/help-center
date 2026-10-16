@@ -46,13 +46,13 @@ Klikk på Administrer nettstedsdata på enheten
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/02-cookies.png)
 
-_Tillate informasjonskapsler_ For å bruke Catenda Hub må du tillate lagring av data for hub.catenda.com under økten din.
+**Tillat informasjonskapsler** For å bruke Catenda Hub må du minst tillate lagring av data for hub.catenda.com under økten din.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/03-cookies.png)
 
 Hvis du velger å slette data når du lukker alle vinduer, blir dataene dine tilbakestilt hver gang du bruker Catenda. Hvis du sletter dataene dine hver gang alle nettlesservinduer er lukket, blir innstillingene dine tilbakestilt hver gang etter at du har lukket alle nettlesservinduer.
 
-_Slette informasjonskapsler_ Informasjonskapsler kan slettes manuelt ved å klikke på søppelbøtteikonet.
+**Sletting av informasjonskapsler** Informasjonkapseldata kan slettes manuelt ved å klikke på søppelkurvikonet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/04-cookies.png)
 

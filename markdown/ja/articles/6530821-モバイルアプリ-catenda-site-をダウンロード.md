@@ -1,8 +1,8 @@
 # モバイルアプリ Catenda Site をダウンロード 📲
 
-> **注意:** アプリケーションのインストールファイルは、[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)に掲載されています。
+> **注意:** アプリケーションのインストールファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)に記載されています。Google Playで「Catenda Site」がお使いのデバイスで利用できないと表示される場合は、[Catenda Site - トラブルシューティング](https://support.catenda.com/ja/articles/11926914-catenda-site-トラブルシューティング#not-available-for-your-device-in-google-play)をご覧ください。
 
-[デモを予約する](https://catenda.com/bim-solutions-open-standards/catenda-site-bim-on-site/)：ウェブサイトから
+[デモをご予約](https://catenda.com/get-started)いただけます
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p552jtap/01-intro.png)
 

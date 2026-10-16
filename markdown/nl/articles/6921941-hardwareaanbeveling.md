@@ -4,7 +4,7 @@
 
 ## 1. **Hardwareaanbeveling:**
 
-Deze hardwareaanbeveling is alleen bedoeld voor Catenda Hub in een browsertoepassing. Er kunnen verschillende vereisten zijn afhankelijk van het detailniveau van uw 3D-objecten. Niveaus van detail (LOD) worden gedefinieerd door AIA in document G202 als LOD 100, 200, 300, 400, 500 en 600. De LOD-definitie is [hier](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf) te zien.
+Deze hardwareaanbeveling is alleen bedoeld voor Catenda Hub in een browsertoepassing. Dit omvat Catenda Hub geopend in de browser van een tablet, of toegevoegd aan het startscherm, zoals beschreven in [iPad en andere tablets](#ipad-and-other-tablets). Er kunnen verschillende vereisten zijn afhankelijk van het detailniveau van uw 3D-objecten. Niveaus van detail (LOD) worden door AIA in document G202 gedefinieerd als LOD 100, 200, 300, 400, 500 en 600. De LOD-definitie is [hier](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf) te zien.
 
 **(april 2026)**
 
@@ -16,7 +16,7 @@ Als een of meer externe monitoren zijn verbonden met een apparaat, zorg er zelfs
 
 ## 3. **Toepassingssysteemvereisten**
 
-Catenda Hub kan via verschillende toepassingen op verschillende systemen worden benaderd. De vereisten voor het gebruik van Catenda Hub zijn daarom een combinatie van de vereisten van de systeemofficialware en de toepassingssoftware die worden gebruikt om toegang te krijgen tot Catenda Hub.
+Catenda Hub kan via verschillende toepassingen op verschillende systemen worden benaderd. De vereisten voor het gebruik van Catenda Hub zijn daarom een combinatie van de vereisten van de systeemsoft- en toepassingssoftware die worden gebruikt om Catenda Hub te openen.
 
 ### 3.1 **Besturingssystemen**
 
@@ -28,12 +28,38 @@ Linux Ubuntu [https://help.ubuntu.com/community/Installation/SystemRequirements]
 
 ### 3.2 **Browsers**
 
-_Chrome: _[https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
+**Chrome:** [https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
 
-_Firefox:_ [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/)
+**Firefox:** [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/)
 
-_Microsoft Edge:_ Windows 11 systeemvereisten: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications) Safari: [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+**Microsoft Edge:** Windows 11 systeemvereisten: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications)
 
-_Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements)
+**Safari:** [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
 
-_Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+**Opera:** [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements)
+
+**Vivaldi:** [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+
+## 4. **iPad en andere tablets**
+
+Catenda Hub kan ook op een iPad of ander tablet worden gebruikt, in de browser of [toegevoegd aan het startscherm](https://support.catenda.com/nl/articles/10741601-toevoegen-aan-startscherm) als een app. Toegevoegd aan het startscherm, is het nog steeds Catenda Hub dat in de browser van het apparaat wordt uitgevoerd, dus de volledige functionaliteit is beschikbaar en de onderstaande aanbevelingen gelden voor beide.
+
+### 4.1 **Grafisch geheugen bepaalt hoeveel 3D u kunt laden**
+
+Modellen die in de 3D-viewer worden weergegeven, worden in het geheugen van de grafische processor opgeslagen. Op een tablet deelt de grafische processor zijn geheugen met de rest van het apparaat en er is minder dan op een computer met een dedicated grafische kaart. Hoeveel geometrie een tablet tegelijk kan weergeven, hangt daarom af van de chip en het geheugen, niet van de opslagruimte. Een tablet met meer opslagruimte laadt niet meer modellen.
+
+### 4.2 **Aanbevolen tablets**
+
+Voor reguliere projecten (tot LOD 300) wordt een recente iPad met de nieuwste iPadOS-versie aanbevolen. Voor dense geometry-projecten (LOD 400 en hoger), of wanneer veel modellen samen moeten worden weergegeven, wordt een iPad Pro of iPad Air met een M-series chip aanbevolen. Op een Android-tablet wordt een recent model met een high-end chip en de nieuwste Android-versie aanbevolen. Houd iPadOS en Safari up-to-date, omdat updates vaak verbeteren hoe de browser 3D-graphics verwerkt.
+
+### 4.3 **Het meeste uit een tablet halen**
+
+Op een tablet is het handig om alleen te laden wat u nodig hebt voor de taak ter hand:
+
+- Schakel alleen de modellen in die u nodig hebt, in plaats van elk model in het project.
+- Gebruik een [query](https://support.catenda.com/nl/articles/4854514-query-s) om alleen het onderdeel van het model weer te geven waaraan u werkt.
+- Schakel incrementeel renderen in in de [3D-viewerinstellingen](https://support.catenda.com/nl/articles/5784718-3d-viewer-instellingen).
+
+Meer tips zijn beschreven in [3D Viewer-optimalisatie](https://support.catenda.com/nl/articles/13927321-3d-viewer-optimalisatie).
+
+Voor werk op de bouwplaats is de mobiele app Catenda Site vaak beter geschikt, zoals beschreven in [Toegang met beperkte schermruimte](https://support.catenda.com/nl/articles/10695677-toegang-met-beperkte-schermruimte). Apparaataanbevelingen voor Catenda Site worden beschreven in [Hardwareaanbevelingen - Catenda Site](https://support.catenda.com/en/articles/17596478-hardware-recommendation-catenda-site).

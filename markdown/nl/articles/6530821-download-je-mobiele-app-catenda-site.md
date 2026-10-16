@@ -1,8 +1,8 @@
 # Download je mobiele app Catenda Site 📲
 
-> **Opmerking:** Het installatiebestand voor de applicatie is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
+> **Opmerking:** Het installatiebestand voor de applicatie is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-invoegtoepassingen-integraties). Als Google Play meldt dat Catenda Site niet beschikbaar is voor uw apparaat, zie [Catenda Site - Probleemoplossing](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
 
-[Boek een demo](https://catenda.com/bim-solutions-open-standards/catenda-site-bim-on-site/) op onze website
+[Een demo boeken](https://catenda.com/get-started) op onze website
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p552jtap/01-intro.png)
 

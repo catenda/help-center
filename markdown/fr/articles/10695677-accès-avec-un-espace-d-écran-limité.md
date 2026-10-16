@@ -1,13 +1,21 @@
 # Accès avec un espace d'écran limité
 
-Avec une taille d'écran limitée, certaines fonctions peuvent être accessibles de manière conviviale sur Catenda Site. Si l'accès à toutes les fonctionnalités est plus important pour vous que l'accessibilité, cela est toujours disponible via le navigateur. Les pages du navigateur peuvent être ajoutées à l'écran d'accueil/au tableau de bord/au dock pour améliorer l'expérience d'accès à Catenda avec un espace d'écran limité.
+Avec un écran de taille limitée, certaines fonctions sont accessibles de manière conviviale dans nos applications mobiles. Si l'accès à l'ensemble des fonctionnalités est plus important pour vous que l'accessibilité, cela est toujours disponible via le navigateur. Les pages du navigateur peuvent être ajoutées à l'écran d'accueil/tableau de bord/dock pour améliorer l'expérience d'accès à Catenda avec un espace d'écran limité.
 
-## 1. **Catenda Site -** Accessible et hors ligne
+## 1. **Applications mobiles -** Accessible sur site
 
-Sur les appareils avec une taille d'écran limitée, les boutons doivent être plus grands afin que vous voyiez ce que vous appuyez avec votre doigt. Dans cette situation, notre application mobile, [Catenda Site](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site), est le meilleur outil pour vous.
+Sur les appareils avec un écran de taille limitée, les boutons doivent être plus grands pour que vous voyiez ce que vous touchez avec votre doigt. Dans cette situation, nos applications mobiles, Catenda Site et Catenda Mobile, sont les meilleurs outils pour vous.
+
+### 1.1 **Catenda Site**
+
+[Catenda Site](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site) est notre application mobile officielle, disponible pour iPhone et iPad et pour Android.
 
 - La fonctionnalité est limitée et gardée simple afin que vous puissiez facilement appuyer sur les boutons dont vous avez besoin.
-- Le contenu peut être téléchargé et soumis sans connexion Internet
+- Le contenu peut être téléchargé et soumis [sans connexion Internet](https://support.catenda.com/fr/articles/7325268-mode-hors-ligne-dans-catenda-site).
+
+### 1.2 **Catenda Mobile**
+
+[Catenda Mobile](https://support.catenda.com/en/articles/17601630-download-your-mobile-app-catenda) est notre application mobile en accès anticipé, disponible pour iPhone et iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) et pour Android sur [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Elle couvre les sujets, les emplacements, les formulaires et les documents, et au fil du temps, elle obtiendra toutes les fonctionnalités de Catenda Site.
 
 ## 2. **Écran d'accueil / Tableau de bord / Dock -** Fonctionnalité complète
 

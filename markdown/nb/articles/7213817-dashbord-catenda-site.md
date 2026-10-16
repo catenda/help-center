@@ -19,4 +19,7 @@ På denne siden kan du se statusen på sakene dine, velge eller endre hvilke iss
 
 Du har også flere faner som du kan navigere til:
 
-A. [Meny](https://support.catenda.com/nb/articles/7338516-navigasjonsmeny-catenda-site) B. [Saker](https://support.catenda.com/nb/articles/7734073-saksmeny-catenda-site) C. [2D/3D](https://support.catenda.com/nb/articles/7734138-2d-3d-catenda-site) D. [Dokumenter](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site)
+- [Meny](https://support.catenda.com/nb/articles/7338516-navigasjonsmeny-catenda-site)
+- [Emner](https://support.catenda.com/nb/articles/7734073-saksmeny-catenda-site)
+- [2D/3D](https://support.catenda.com/nb/articles/7734138-2d-3d-catenda-site)
+- [Dokumenter](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site)

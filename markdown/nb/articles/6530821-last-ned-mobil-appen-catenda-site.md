@@ -1,8 +1,8 @@
 # Last ned mobil­appen Catenda Site 📲
 
-> **Merk:** Installasjons­filen for programmet finnes i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
+> **Merk:** Installasjonfilen for applikasjonen finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner). Hvis Google Play rapporterer at Catenda Site ikke er tilgjengelig for enheten din, se [Catenda Site - Feilsøking](https://support.catenda.com/nb/articles/11926914-catenda-site-feilsoking#not-available-for-your-device-in-google-play).
 
-[Book en demonstrasjon](https://catenda.com/bim-solutions-open-standards/catenda-site-bim-on-site/) på nettstedet vårt
+[Book a demo](https://catenda.com/get-started) på våre nettsider
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p552jtap/01-intro.png)
 
