@@ -6,8 +6,6 @@ Verschillende onderdelen van de [2D Viewer](https://support.catenda.com/nl/artic
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
-Dit artikel bevat informatie over de volgende onderwerpen: _[2D-knop](#h_ddfb1f5837) - [Bovenbalk](#h_7996dde66c) - [Canvas](#h_d564366bf9) -_ [Navigatie](#h_b384896c43) - [Selectie](#h_8916df6427) - [Instellingen](#h_f9d34c17aa) - [Onderbalk](#h_15dafd8ad4)
-
 ## 1. **2D-knop**
 
 Als de 2D Viewer niet geopend is, klikt u op de 2D-knop rechtsonder in de 3D Viewer om de 2D Viewer te openen.
@@ -49,8 +47,8 @@ _Linkermuisklik_ Als er spaties zijn in de verdieping van de 2D-weergave die voo
 - _Markering toevoegen_<br>Een nieuwe markering toevoegen. Met een geopend onderwerp in het inhoudsvenster kunt u de geselecteerde markering toewijzen. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als deze aan een probleem wordt toegevoegd.
 - _Een nieuw onderwerp met markering maken_<br>Een nieuw onderwerp met markering maken. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als het onderwerp wordt verzonden.
 - _Query maken_
-  - Spatie kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
-  - Verdieping kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die deze verdieping kruisen maken
+    - Spatie kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
+    - Verdieping kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die deze verdieping kruisen maken
 
 ### 3.2 **Muisknop ingedrukt houden**
 

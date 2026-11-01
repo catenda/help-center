@@ -6,8 +6,6 @@ Différents composants de la [Visionneuse 2D](https://support.catenda.com/fr/art
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
-Cet article contient des informations sur les sujets suivants : _[Bouton 2D](#h_ddfb1f5837) - [Barre supérieure](#h_7996dde66c) - [Canevas](#h_d564366bf9) -_ [Navigation](#h_b384896c43) - [Sélection](#h_8916df6427) - [Paramètres](#h_f9d34c17aa) - [Barre inférieure](#h_15dafd8ad4)
-
 ## 1. **Bouton 2D**
 
 Si la Visionneuse 2D n'est pas ouverte, cliquez sur le bouton 2D en bas à droite de la Visionneuse 3D pour ouvrir la Visionneuse 2D.

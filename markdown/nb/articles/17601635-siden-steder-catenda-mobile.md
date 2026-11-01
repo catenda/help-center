@@ -2,6 +2,8 @@
 
 > Naviger i prosjektet ditt etter bygning, etasje og rom i Catenda Mobile.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Siden Steder åpnes fra linjen nederst på skjermen, etter at et prosjekt er åpnet på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile).
 
 Siden Steder viser stedsstrukturen i prosjektet, for eksempel bygninger, etasjer og rom. Bare stedsstrukturen må opprettes i nettleseren. Saker, skjemaer og dokumenter kan legges til steder både i nettleseren og i appen.

@@ -2577,8 +2577,6 @@ Verschillende onderdelen van de [2D Viewer](https://support.catenda.com/nl/artic
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
-Dit artikel bevat informatie over de volgende onderwerpen: _[2D-knop](#h_ddfb1f5837) - [Bovenbalk](#h_7996dde66c) - [Canvas](#h_d564366bf9) -_ [Navigatie](#h_b384896c43) - [Selectie](#h_8916df6427) - [Instellingen](#h_f9d34c17aa) - [Onderbalk](#h_15dafd8ad4)
-
 ## 1. **2D-knop**
 
 Als de 2D Viewer niet geopend is, klikt u op de 2D-knop rechtsonder in de 3D Viewer om de 2D Viewer te openen.
@@ -2620,8 +2618,8 @@ _Linkermuisklik_ Als er spaties zijn in de verdieping van de 2D-weergave die voo
 - _Markering toevoegen_<br>Een nieuwe markering toevoegen. Met een geopend onderwerp in het inhoudsvenster kunt u de geselecteerde markering toewijzen. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als deze aan een probleem wordt toegevoegd.
 - _Een nieuw onderwerp met markering maken_<br>Een nieuw onderwerp met markering maken. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als het onderwerp wordt verzonden.
 - _Query maken_
-  - Spatie kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
-  - Verdieping kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die deze verdieping kruisen maken
+    - Spatie kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
+    - Verdieping kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die deze verdieping kruisen maken
 
 ### 3.2 **Muisknop ingedrukt houden**
 
@@ -15097,8 +15095,6 @@ Dit is hoe de pagina milestones eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-Deze pagina bevat informatie over de volgende onderwerpen: [Planning](#h_595c5ebf4c) - [Actions](#h_ef3bbf0441) - [Milestones list](#h_5403eb541f)
-
 ## 1. Planning
 
 Milestones kunnen op veel verschillende manieren worden gebruikt:
@@ -16358,8 +16354,6 @@ Rapporttemplates worden geconfigureerd op de pagina Rapporttemplates. _Toegang t
 De rapportenpagina is het zesde item in het navigatiemenu. Deze pagina maakt deel uit van het inhoudspaneel. Met de rapportenpagina kunnen sjabloonrapporten worden gemaakt in een rapporteditor. Er kunnen afzonderlijke sjablonen voor Topics en Documenten worden gemaakt. Wanneer een sjabloon beschikbaar is in een project, kan de rapportactie worden gebruikt met geselecteerde Topics en Documenten om een rapport te genereren op basis van het geselecteerde sjabloon.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
-
-Dit artikel bevat informatie over de volgende onderwerpen: [Zoeken of filteren](https://With%20the%20reports%20page%20template%20reports%20can%20be%20created%20in%20a%20report%20editor.Separate%20templates%20can%20be%20created%20for%20topics%20and%20documents.%20%20When%20a%20template%20is%20available%20in%20a%20project%20the%20report%20action%20can%20be%20used%20with%20selected%20topics%20and%20documents%20to%20generate%20a%20report%20based%20on%20the%20selected%20template.) - [Rechtermenu](#h_418e23701b)
 
 ## 1. **Zoek- of filteropties**
 

@@ -6,8 +6,6 @@ Verschiedene Komponenten des [2D-Viewers](https://support.catenda.com/de/article
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
-Dieser Artikel enthält Informationen zu den folgenden Themen: _[2D-Schaltfläche](#h_ddfb1f5837) - [Obere Leiste](#h_7996dde66c) - [Canvas](#h_d564366bf9) -_ [Navigation](#h_b384896c43) - [Auswahl](#h_8916df6427) - [Einstellungen](#h_f9d34c17aa) - [Untere Leiste](#h_15dafd8ad4)
-
 ## 1. **2D-Schaltfläche**
 
 Wenn der 2D-Viewer nicht geöffnet ist, klicken Sie auf die 2D-Schaltfläche unten rechts des 3D-Viewers, um den 2D-Viewer zu öffnen.

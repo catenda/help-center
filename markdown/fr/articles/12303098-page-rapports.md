@@ -6,8 +6,6 @@ La page Rapports se trouve comme sixième élément dans le menu de navigation. 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
-Cet article contient des informations sur les sujets suivants : [Rechercher ou filtrer](https://With%20the%20reports%20page%20template%20reports%20can%20be%20created%20in%20a%20report%20editor.Separate%20templates%20can%20be%20created%20for%20topics%20and%20documents.%20%20When%20a%20template%20is%20available%20in%20a%20project%20the%20report%20action%20can%20be%20used%20with%20selected%20topics%20and%20documents%20to%20generate%20a%20report%20based%20on%20the%20selected%20template.) - [Menu de droite](#h_418e23701b)
-
 ## 1. **Options de recherche ou de filtrage**
 
 Consultez [ici](https://support.catenda.com/fr/articles/4670283-filtrage-sur-la-page-des-documents) pour découvrir comment rechercher ou filtrer au mieux dans le tableau des rapports

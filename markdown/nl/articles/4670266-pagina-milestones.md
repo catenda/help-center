@@ -8,8 +8,6 @@ Dit is hoe de pagina milestones eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-Deze pagina bevat informatie over de volgende onderwerpen: [Planning](#h_595c5ebf4c) - [Actions](#h_ef3bbf0441) - [Milestones list](#h_5403eb541f)
-
 ## 1. Planning
 
 Milestones kunnen op veel verschillende manieren worden gebruikt:

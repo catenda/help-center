@@ -2848,8 +2848,6 @@ Ulike komponenter i [2D-viseren](https://support.catenda.com/nb/articles/4854537
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
-Denne artikkelen inneholder informasjon om følgende saker: _[2D-knapp](#h_ddfb1f5837) - [Toppbar](#h_7996dde66c) - [Lerret](#h_d564366bf9) -_ [Navigasjon](#h_b384896c43) - [Valg](#h_8916df6427) - [Innstillinger](#h_f9d34c17aa) - [Bunnbar](#h_15dafd8ad4)
-
 ## 1. **2D-knapp**
 
 Hvis 2D-viseren ikke er åpnet, klikker du på 2D-knappen i nedre høyre hjørne av 3D-viseren for å åpne 2D-viseren.
@@ -2870,7 +2868,7 @@ Tittelen på topplinja vil være navnet på etasjen. Hvis en etasje i en [storey
 
 ### 2.3 **Åpning og lukking av 2D-viseren**
 
-**Lukking** Klikk på krysset i øvre høyre hjørne av 2D-viseren for å lukke 2D-viseren.
+_Lukking_ Klikk på krysset i øvre høyre hjørne av 2D-viseren for å lukke 2D-viseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/04-opening-and-closing-the-2d-viewer.png)
 
@@ -2882,27 +2880,27 @@ Lerretet på 2D-viseren er den delen av 2D-viseren hvor linjene som er koblet ti
 
 _Venstre klikk_ Hvis det er rom på etasjen av 2D-visningen som er aktivert for en modell, kan de velges ved å klikke på dem. Det er mulig å fortelle om det er rom i 2D-visningen ved at rommets navn er synlig i midten av rommet.
 
-**Rulling** Zoom inn og ut av 2D-viseren.
+_Rulling_ Zoom inn og ut av 2D-viseren.
 
-**Høyreklikk** Åpne kontekstmeny
+_Høyreklikk_ Åpne kontekstmeny
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/05-click-mouse-button.png)
 
 - _Legg til markør_<br>Legg til en ny markør. Når du har en sak åpen i innholdspanelet, kan du tilordne den valgte markøren. Denne markøren blir ikke lagret og synlig for andre før den legges til en oppgave.
 - _Opprett en ny sak med markør_<br>Opprett en ny sak med markør. Denne markøren blir ikke lagret og synlig for andre før saken sendes inn.
 - _Opprett spørring_
-  - Kryss rom - Opprett en [spørring](https://support.catenda.com/nb/articles/4854514-sporringer) av alle objekter som krysser det valgte rommet
-  - Kryss etasje - Opprett en [spørring](https://support.catenda.com/nb/articles/4854514-sporringer) av alle objekter som krysser denne etasjen
+    - Kryss rom - Opprett en [spørring](https://support.catenda.com/nb/articles/4854514-sporringer) av alle objekter som krysser det valgte rommet
+    - Kryss etasje - Opprett en [spørring](https://support.catenda.com/nb/articles/4854514-sporringer) av alle objekter som krysser denne etasjen
 
 ### 3.2 **Hold musknapp**
 
-**Hold venstre eller høyre klikk** Pan 2D-viser
+_Hold venstre eller høyre klikk_ Pan 2D-viser
 
 ### 3.3 **Visningspunktindikator**
 
-**Hold venstre klikk på visningspunktindikator** Flytt kamera i 3D. Kameravinkel forblir.
+_Hold venstre klikk på visningspunktindikator_ Flytt kamera i 3D. Kameravinkel forblir.
 
-**Hold høyre klikk på visningspunktindikator** Flytt kamera i 3D. Kameravinkel vil følge.
+_Hold høyre klikk på visningspunktindikator_ Flytt kamera i 3D. Kameravinkel vil følge.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/06-viewpoint-indicator.png)
 
@@ -2918,17 +2916,17 @@ Zoom ut for å vise alle synlige objekter på en gang
 
 Med rotasjonsknappen kan du rotere 2D-viseren.
 
-**Rotasjonsglider** Den innledende rotasjonen kan konfigureres ved å angi en plassering med rotasjon i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
+_Rotasjonsglider_ Den innledende rotasjonen kan konfigureres ved å angi en plassering med rotasjon i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
-**Gliderajustering** Velg glideren ved å klikke på den og bruk pil høyre og venstre tastene for å gjøre justeringer på 0,1 grad. Dette kan være nyttig for å gjøre valg, utsnitt og spørringer. Rotasjon er lettere hvis du først velger et rom fordi det vil knipse seg til kantene av rommet når du roterer. Du kan også skrive graden av rotasjon i menyen under glideren.
+_Gliderajustering_ Velg glideren ved å klikke på den og bruk pil høyre og venstre tastene for å gjøre justeringer på 0,1 grad. Dette kan være nyttig for å gjøre valg, utsnitt og spørringer. Rotasjon er lettere hvis du først velger et rom fordi det vil knipse seg til kantene av rommet når du roterer. Du kan også skrive graden av rotasjon i menyen under glideren.
 
-**True North** Hvis ingen innledende rotasjon er konfigurert i prosjektinnstillinger, vil True North være det samme som tilbakestillingsknappen. Hvis en innledende rotasjon er konfigurert i prosjektinnstillinger, kan True North være i en vinkel i forhold til den innledende rotasjonen
+_True North_ Hvis ingen innledende rotasjon er konfigurert i prosjektinnstillinger, vil True North være det samme som tilbakestillingsknappen. Hvis en innledende rotasjon er konfigurert i prosjektinnstillinger, kan True North være i en vinkel i forhold til den innledende rotasjonen
 
-**Tilbakestill** Klikk Tilbakestill i øvre høyre hjørne for å tilbakestille glideren til den innledende rotasjonen.
+_Tilbakestill_ Klikk Tilbakestill i øvre høyre hjørne for å tilbakestille glideren til den innledende rotasjonen.
 
-**Underliggende tegningsrotasjon** Bygninger kan konfigureres i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Hver etasje i en bygning kan ha en tegning som underlag som roteres i forhold til modellene i prosjektet.
+_Underliggende tegningsrotasjon_ Bygninger kan konfigureres i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Hver etasje i en bygning kan ha en tegning som underlag som roteres i forhold til modellene i prosjektet.
 
 ### 4.3 **Lås kamera**
 
@@ -2976,15 +2974,15 @@ Innstillingene for 2D-viseren finnes i rullegarden med girikon.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/13-2d-viewer-settings.png)
 
-**Markeringsfargemodus** Endre fargen på markørene i 2D-visningen til å ha fargen på en av følgende:
+_Markeringsfargemodus_ Endre fargen på markørene i 2D-visningen til å ha fargen på en av følgende:
 
 - Status
 - Type
 - Frist
 
-**Romnavnformat** Vis det lange navnet på rommene og områdene
+_Romnavnformat_ Vis det lange navnet på rommene og områdene
 
-**Gjennomsiktig** Gjør 2D-viseren gjennomsiktig
+_Gjennomsiktig_ Gjør 2D-viseren gjennomsiktig
 
 ## 7. **Bunnlinje**
 
@@ -3000,13 +2998,13 @@ Med lagknappen kan du veksle mellom ulike lag i 2D-viseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/15-layer-menu.png)
 
-**Markører** Med denne knappen kan markører slås av eller på.
+_Markører_ Med denne knappen kan markører slås av eller på.
 
-**Modeller** Med denne knappen kan modeller slås av eller på.
+_Modeller_ Med denne knappen kan modeller slås av eller på.
 
-**Tegninger** Du vil se denne knappen hvis en tegning har blitt justert som et underlag for en bygningsetasje i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Med denne knappen kan de justerte tegningene slås av eller på.
+_Tegninger_ Du vil se denne knappen hvis en tegning har blitt justert som et underlag for en bygningsetasje i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Med denne knappen kan de justerte tegningene slås av eller på.
 
-**Kart** Du vil se denne knappen hvis en plassering har blitt konfigurert i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger). Med denne knappen kan kartet slås av eller på.
+_Kart_ Du vil se denne knappen hvis en plassering har blitt konfigurert i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger). Med denne knappen kan kartet slås av eller på.
 
 # 3D Viser-innstillinger
 
@@ -13113,8 +13111,6 @@ Slik kan milepælsiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-Denne siden inneholder informasjon om følgende Saker: [Planning](#h_595c5ebf4c) - [Actions](#h_ef3bbf0441) - [Milestones list](#h_5403eb541f)
-
 ## 1. Planlegging
 
 Milepæler kan brukes på mange forskjellige måter:
@@ -13163,11 +13159,11 @@ Beskrivelsen av milepælen
 
 I saksstatistikken for milepælen vil du kunne se hva fremdriften for denne milepælen er for alle saksområder sammen. Se milepælsiden for saksspesifikke data.
 
-**Prosentandel** Her vil du se prosentandelen av saker som har denne milepælen tildelt og er lukket i alle saksområder. Kandidatsaker teller ikke inn i denne prosentandelen.
+_Prosentandel_ Her vil du se prosentandelen av saker som har denne milepælen tildelt og er lukket i alle saksområder. Kandidatsaker teller ikke inn i denne prosentandelen.
 
-**Åpen/lukket/kandidat** Her vil du se antall saker med åpne, lukkede eller kandidatstatus som denne milepælen har blitt tildelt til. Klikk på ordet åpen, lukket eller kandidat for å se de relaterte sakene i alle saker-området.
+_Åpen/lukket/kandidat_ Her vil du se antall saker med åpne, lukkede eller kandidatstatus som denne milepælen har blitt tildelt til. Klikk på ordet åpen, lukket eller kandidat for å se de relaterte sakene i alle saker-området.
 
-**Medlemsprofilbilde** Her vil du først se oppretteren av milepælen og det utildelte bildet. For hvert profilbilde vil du se et antall saker. For milepæloppretteren og ufordelt kan dette antallet være 0 og vil da være grønt. Andre brukere vil bare være synlige hvis de har noen åpne saker som denne milepælen har blitt tildelt til, med et antall åpne saker som de har blitt tildelt til i rødt.
+_Medlemsprofilbilde_ Her vil du først se oppretteren av milepælen og det utildelte bildet. For hvert profilbilde vil du se et antall saker. For milepæloppretteren og ufordelt kan dette antallet være 0 og vil da være grønt. Andre brukere vil bare være synlige hvis de har noen åpne saker som denne milepælen har blitt tildelt til, med et antall åpne saker som de har blitt tildelt til i rødt.
 
 ### 3.5 Opprettet av
 
@@ -16073,8 +16069,6 @@ Rapportssiden finnes som sjette element i navigasjonsmenyen. Denne siden er del 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
-Denne artikkelen inneholder informasjon om følgende saker: [Søk eller filtrer](https://With%20the%20reports%20page%20template%20reports%20can%20be%20created%20in%20a%20report%20editor.Separate%20templates%20can%20be%20created%20for%20topics%20and%20documents.%20%20When%20a%20template%20is%20available%20in%20a%20project%20the%20report%20action%20can%20be%20used%20with%20selected%20topics%20and%20documents%20to%20generate%20a%20report%20based%20on%20the%20selected%20template.) - [Høyremeny](#h_418e23701b)
-
 ## 1. **Søk eller filtreringsalternativer**
 
 Se [her](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden) for å finne ut hvordan du best søker eller filtrerer i rapporttabellen
@@ -18263,6 +18257,8 @@ Etter at du har opprettet et egendefinert felt, kan feltet legges til i [saker i
 # Siden Steder – Catenda Mobile
 
 > Naviger i prosjektet ditt etter bygning, etasje og rom i Catenda Mobile.
+
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
 
 Siden Steder åpnes fra linjen nederst på skjermen, etter at et prosjekt er åpnet på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile).
 
