@@ -2,6 +2,8 @@
 
 > Durchsuchen, filtern und erstellen Sie Themen in Catenda Mobile.
 
+> **Hinweis:** Catenda Mobile befindet sich in der frühen Zugangsphase und wird zusammen mit den Kunden im Co-Creation-Programm entwickelt. Die App ist noch nicht final und kann sich erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Seite "Themen" wird über die Leiste am unteren Bildschirmrand geöffnet, nachdem ein Projekt auf der [Seite "Projekte"](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde. Ein Projekt wird immer auf der Seite "Themen" geöffnet, auch wenn es mit **Projekt wechseln** auf der Menüseite geöffnet wird.
 
 Die Seite "Themen" zeigt die Themen des Projekts über alle Themen-Boards hinweg. Themen funktionieren genauso wie im Browser.

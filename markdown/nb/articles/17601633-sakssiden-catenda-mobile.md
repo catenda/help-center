@@ -2,6 +2,8 @@
 
 > Bla gjennom, filtrer og opprett saker i Catenda Mobile.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Sakssiden åpnes fra linjen nederst på skjermen, etter at et prosjekt åpnes på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile). Et prosjekt åpnes alltid på Sakssiden, også når det åpnes med **Bytt prosjekt** på Menysiden.
 
 Sakssiden viser sakene i prosjektet på tvers av alle sakslistene. Saker fungerer på samme måte som i nettleseren.

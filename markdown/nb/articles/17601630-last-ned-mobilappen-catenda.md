@@ -2,6 +2,8 @@
 
 > Last ned Catenda-mobilappen, tilgjengelig i tidlig tilgang, og logg inn med Catenda-kontoen din.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og utvikles sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Catenda er en mobilapp for telefoner og nettbrett, tilgjengelig i tidlig tilgang. Over tid vil den få alle funksjonene i [Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site), og mer. Catenda Site kan fortsatt brukes ved siden av den.
 
 ## 1. **Last ned Catenda**

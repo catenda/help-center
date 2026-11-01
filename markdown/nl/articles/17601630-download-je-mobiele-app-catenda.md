@@ -2,6 +2,8 @@
 
 > Download de mobiele app van Catenda, beschikbaar in early access, en log in met je Catenda-account.
 
+> **Opmerking:** Catenda Mobile is in early access en wordt samen met de klanten in het Co-creation programma ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier beschreven.
+
 Catenda is een mobiele app voor telefoons en tablets, beschikbaar in early access. Na verloop van tijd zal het alle functies van [Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site) krijgen, en meer. Catenda Site kan er nog steeds naast gebruikt worden.
 
 ## 1. **Catenda downloaden**

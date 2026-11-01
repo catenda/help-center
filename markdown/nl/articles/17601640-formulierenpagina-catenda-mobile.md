@@ -2,6 +2,8 @@
 
 > Vul formulieren ter plaatse in Catenda Mobile in, één vraag tegelijk.
 
+> **Opmerking:** Catenda Mobile bevindt zich in early access en wordt samen met klanten in het Co-creation program ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier wordt beschreven.
+
 De pagina Formulieren wordt geopend vanaf de balk onderaan het scherm, nadat een project is geopend op de [projectenpagina](https://support.catenda.com/nl/articles/17601629-projectpagina-catenda-mobile).
 
 De pagina Formulieren geeft een overzicht van de formulieren van het project. Formuliersjablonen kunnen alleen in de browser worden gemaakt, maar formulieren kunnen zowel in de browser als in de app worden ingevuld.

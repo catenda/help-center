@@ -2,6 +2,8 @@
 
 > Een project in Catenda Mobile zoeken en openen, en tussen de pagina's van de app navigeren.
 
+> **Opmerking:** Catenda Mobile is in early access en wordt samen met klanten in het Co-creation-programma ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier wordt beschreven.
+
 Nadat u [zich bij Catenda hebt aangemeld](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda#sign-in), wordt de projectpagina geopend. Deze geeft een overzicht van alle projecten waarvan u lid bent.
 
 ![De projectpagina met de projectfilters en de projectlijst](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)

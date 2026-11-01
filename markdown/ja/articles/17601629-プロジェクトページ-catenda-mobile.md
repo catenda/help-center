@@ -2,6 +2,8 @@
 
 > Catenda Mobileでプロジェクトを検索して開き、アプリのページ間を移動します。
 
+> **注記：** Catenda Mobileはアーリーアクセス中であり、Co-creationプログラムのお客様と一緒に開発されています。アプリはまだ最終版ではなく、大幅に変わる可能性があるため、ページやボタンの外観や動作がここに説明されているものと異なる場合があります。
+
 [Catendaにサインイン](https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード#sign-in)した後、プロジェクトページが開きます。ユーザーがメンバーであるすべてのプロジェクトが一覧表示されます。
 
 ![プロジェクトフィルターとプロジェクト一覧が表示されたプロジェクトページ](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)

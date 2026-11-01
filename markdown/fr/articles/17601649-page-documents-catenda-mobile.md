@@ -2,6 +2,8 @@
 
 > Parcourez et ouvrez les documents de votre projet dans Catenda Mobile.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé conjointement avec les clients du programme de co-création. L'application n'est pas définitive et peut encore changer considérablement. Par conséquent, les pages et les boutons peuvent avoir un aspect ou un fonctionnement différent de ce qui est décrit ici.
+
 La page Documents s'ouvre en appuyant sur **Documents** dans la barre en bas de l'écran, après l'ouverture d'un projet sur la [page des projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile).
 
 La page Documents affiche les documents du projet dans leurs dossiers.

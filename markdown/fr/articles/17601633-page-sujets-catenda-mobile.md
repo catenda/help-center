@@ -2,6 +2,8 @@
 
 > Parcourez, filtrez et créez des sujets dans Catenda Mobile.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est en cours de développement conjointement avec les clients du programme Co-création. L'application n'est pas finalisée et peut encore changer considérablement, de sorte que les pages et les boutons peuvent s'afficher ou fonctionner différemment de ce qui est décrit ici.
+
 La page Sujets s'ouvre à partir de la barre en bas de l'écran, après l'ouverture d'un projet sur la [page Projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile). Un projet s'ouvre toujours sur la page Sujets, également lorsqu'il est ouvert avec **Changer de projet** sur la page Menu.
 
 La page Sujets énumère les sujets du projet dans toutes les listes de sujets. Les sujets fonctionnent de la même manière que dans le navigateur.

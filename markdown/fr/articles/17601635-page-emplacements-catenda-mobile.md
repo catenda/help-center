@@ -2,6 +2,8 @@
 
 > Naviguez dans votre projet par bâtiment, étage et pièce dans Catenda Mobile.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé conjointement avec les clients du programme de co-création. L'application n'est pas définitive et peut encore changer considérablement, de sorte que les pages et les boutons peuvent avoir une apparence ou un fonctionnement différent de ce qui est décrit ici.
+
 La page Emplacements s'ouvre à partir de la barre en bas de l'écran, après l'ouverture d'un projet sur la [page des projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile).
 
 La page Emplacements affiche la structure des emplacements du projet, tels que les bâtiments, les étages et les pièces. Seule la structure des emplacements doit être créée dans le navigateur. Les sujets, formulaires et documents peuvent être ajoutés aux emplacements à la fois dans le navigateur et dans l'application.

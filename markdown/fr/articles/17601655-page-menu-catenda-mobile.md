@@ -2,6 +2,8 @@
 
 > Modifiez les paramètres de l'application, changez de projet ou déconnectez-vous dans Catenda Mobile.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé conjointement avec les clients dans le cadre du programme de Co-création. L'application n'est pas définitive et peut encore changer considérablement, de sorte que les pages et les boutons peuvent sembler ou fonctionner différemment de ce qui est décrit ici.
+
 La page Menu s'ouvre en appuyant sur **Menu**, le dernier élément de la barre en bas de l'écran, après l'ouverture d'un projet sur la [page des projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile).
 
 La page Menu contient les paramètres de l'application et permet d'accéder à un autre projet ou de quitter Catenda.

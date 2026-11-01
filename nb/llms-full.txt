@@ -2179,6 +2179,8 @@ Hvis prosjektet ditt har utløpt, vil du se rød tekst ved siden av prosjektet s
 
 > Finn og åpne et prosjekt i Catenda Mobile, og beveg deg mellom sidene i appen.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Etter [å logge inn på Catenda](https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda#sign-in), åpnes prosjektsiden. Den viser alle prosjekter brukeren er medlem av.
 
 ![Prosjektsiden med prosjektfiltrene og prosjektlisten](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)
@@ -6447,6 +6449,8 @@ Trykk på et dokument for å åpne dokumentet. Etter at du har lastet inn et dok
 # Dokumenterside - Catenda Mobile
 
 > Bla gjennom og åpne dokumentene i prosjektet ditt i Catenda Mobile.
+
+> **Merk:** Catenda Mobile er i tidlig tilgang og utvikles sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
 
 Dokumentersiden åpnes ved å trykke på **Docs** i feltet nederst på skjermen, etter at et prosjekt er åpnet på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile).
 
@@ -11591,6 +11595,8 @@ En zippet fil av mappestrukturen og filene vil bli lastet ned.
 
 > Last ned Catenda-mobilappen, tilgjengelig i tidlig tilgang, og logg inn med Catenda-kontoen din.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og utvikles sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Catenda er en mobilapp for telefoner og nettbrett, tilgjengelig i tidlig tilgang. Over tid vil den få alle funksjonene i [Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site), og mer. Catenda Site kan fortsatt brukes ved siden av den.
 
 ## 1. **Last ned Catenda**
@@ -12799,6 +12805,8 @@ Både QTO-menyen og objektsiden kan eksporteres til Excel. På objektsiden ekspo
 # Menysiden - Catenda Mobile
 
 > Endre appinnstillingene, bytt prosjekt eller logg ut i Catenda Mobile.
+
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
 
 Menysiden åpnes ved å trykke på **Meny**, det siste elementet i linjen nederst på skjermen, etter at et prosjekt er åpnet på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile).
 
@@ -17790,6 +17798,8 @@ Trykk på den grønne sirkelen med plusstegnet i midten for å opprette en ny sa
 
 > Bla gjennom, filtrer og opprett saker i Catenda Mobile.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Sakssiden åpnes fra linjen nederst på skjermen, etter at et prosjekt åpnes på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile). Et prosjekt åpnes alltid på Sakssiden, også når det åpnes med **Bytt prosjekt** på Menysiden.
 
 Sakssiden viser sakene i prosjektet på tvers av alle sakslistene. Saker fungerer på samme måte som i nettleseren.
@@ -18281,6 +18291,8 @@ Trykk på et sted for å vise plantegningen med alle pinner, som kan zoomes og p
 # Skjema-siden - Catenda Mobile
 
 > Fyll ut skjemaer på stedet i Catenda Mobile, ett spørsmål av gangen.
+
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
 
 Skjema-siden åpnes fra linjen nederst på skjermen, etter at et prosjekt er åpnet på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile).
 
@@ -19455,7 +19467,7 @@ På enheter med begrenset skjermstørrelse må knappene være større slik at du
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda) er vår mobilapp i tidlig tilgang, tilgjengelig for iPhone og iPad gjennom [TestFlight](https://testflight.apple.com/join/xj6WppjQ) og for Android på [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Den dekker Saker, steder, skjemaer og Dokumenter, og over tid vil den få alle funksjonene til Catenda Site.
+[Catenda Mobile](https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda) er vår mobilapp i tidlig tilgang, tilgjengelig for iPhone og iPad gjennom [TestFlight](https://testflight.apple.com/join/xj6WppjQ) og for Android på [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Den dekker Saker, lokasjoner, skjemaer og Dokumenter, og over tid vil den få alle funksjonene i Catenda Site. Appen er under utvikling sammen med kundene i Co-creation-programmet og er ikke ferdig, så den kan fortsatt endre seg betydelig.
 
 ## 2. **Startskjerm / Dashbord / Dock –** Full funksjonalitet
 

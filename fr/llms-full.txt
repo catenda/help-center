@@ -1974,6 +1974,8 @@ Si votre projet a expiré, vous verrez un texte rouge à côté du projet indiqu
 
 > Trouvez et ouvrez un projet dans Catenda Mobile, et naviguez entre les pages de l'application.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé en collaboration avec les clients du programme de co-création. L'application n'est pas définitive et peut encore changer considérablement, il est donc possible que les pages et les boutons fonctionnent ou s'affichent différemment de ce qui est décrit ici.
+
 Après [vous être connecté à Catenda](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda#sign-in), la page des projets s'ouvre. Elle répertorie tous les projets dont l'utilisateur est Membre.
 
 ![La page des projets avec les Filtres des projets et la liste des projets](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)
@@ -2492,7 +2494,7 @@ Sur les appareils avec un écran de taille limitée, les boutons doivent être p
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda) est notre application mobile en accès anticipé, disponible pour iPhone et iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) et pour Android sur [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Elle couvre les sujets, les emplacements, les formulaires et les documents, et au fil du temps, elle obtiendra toutes les fonctionnalités de Catenda Site.
+[Catenda Mobile](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda) est notre application mobile en accès anticipé, disponible pour iPhone et iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) et pour Android sur [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Elle couvre les Sujets, les emplacements, les formulaires et les Documents, et au fil du temps, elle obtiendra toutes les fonctionnalités de Catenda Site. L'application est développée conjointement avec les clients dans le programme de Co-création et n'est pas définitive, elle peut donc encore changer considérablement.
 
 ## 2. **Écran d'accueil / Tableau de bord / Dock -** Fonctionnalité complète
 
@@ -16472,6 +16474,8 @@ Les pages suivantes se trouvent comme sous-pages de la page Documents :
 
 > Parcourez et ouvrez les documents de votre projet dans Catenda Mobile.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé conjointement avec les clients du programme de co-création. L'application n'est pas définitive et peut encore changer considérablement. Par conséquent, les pages et les boutons peuvent avoir un aspect ou un fonctionnement différent de ce qui est décrit ici.
+
 La page Documents s'ouvre en appuyant sur **Documents** dans la barre en bas de l'écran, après l'ouverture d'un projet sur la [page des projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile).
 
 La page Documents affiche les documents du projet dans leurs dossiers.
@@ -16516,6 +16520,8 @@ Un document ouvert affiche son nom en haut, à côté d'un bouton de partage et 
 
 > Naviguez dans votre projet par bâtiment, étage et pièce dans Catenda Mobile.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé conjointement avec les clients du programme de co-création. L'application n'est pas définitive et peut encore changer considérablement, de sorte que les pages et les boutons peuvent avoir une apparence ou un fonctionnement différent de ce qui est décrit ici.
+
 La page Emplacements s'ouvre à partir de la barre en bas de l'écran, après l'ouverture d'un projet sur la [page des projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile).
 
 La page Emplacements affiche la structure des emplacements du projet, tels que les bâtiments, les étages et les pièces. Seule la structure des emplacements doit être créée dans le navigateur. Les sujets, formulaires et documents peuvent être ajoutés aux emplacements à la fois dans le navigateur et dans l'application.
@@ -16537,6 +16543,8 @@ Appuyer sur un emplacement affiche son plan d'étage avec toutes les épingles, 
 # Page Formulaires - Catenda Mobile
 
 > Remplissez des formulaires sur site dans Catenda Mobile, une question à la fois.
+
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé en collaboration avec les clients du programme Co-création. L'application n'est pas finale et peut encore changer considérablement, de sorte que les pages et les boutons peuvent s'afficher ou fonctionner différemment de ce qui est décrit ici.
 
 La page Formulaires s'ouvre à partir de la barre en bas de l'écran, après l'ouverture d'un projet sur la [page des projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile).
 
@@ -16591,6 +16599,8 @@ Un sujet, une photo, une note ou un document peut être attaché à n'importe qu
 # Page Menu - Catenda Mobile
 
 > Modifiez les paramètres de l'application, changez de projet ou déconnectez-vous dans Catenda Mobile.
+
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé conjointement avec les clients dans le cadre du programme de Co-création. L'application n'est pas définitive et peut encore changer considérablement, de sorte que les pages et les boutons peuvent sembler ou fonctionner différemment de ce qui est décrit ici.
 
 La page Menu s'ouvre en appuyant sur **Menu**, le dernier élément de la barre en bas de l'écran, après l'ouverture d'un projet sur la [page des projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile).
 
@@ -17193,6 +17203,8 @@ En cliquant sur la [page des paramètres](https://support.catenda.com/fr/article
 # Page Sujets - Catenda Mobile
 
 > Parcourez, filtrez et créez des sujets dans Catenda Mobile.
+
+> **Remarque :** Catenda Mobile est en accès anticipé et est en cours de développement conjointement avec les clients du programme Co-création. L'application n'est pas finalisée et peut encore changer considérablement, de sorte que les pages et les boutons peuvent s'afficher ou fonctionner différemment de ce qui est décrit ici.
 
 La page Sujets s'ouvre à partir de la barre en bas de l'écran, après l'ouverture d'un projet sur la [page Projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile). Un projet s'ouvre toujours sur la page Sujets, également lorsqu'il est ouvert avec **Changer de projet** sur la page Menu.
 
@@ -19936,6 +19948,8 @@ Vous êtes connecté ! 🎉 Après vous être connecté, vous serez redirigé ve
 # Téléchargez votre application mobile Catenda 📲
 
 > Téléchargez l'application mobile Catenda, disponible en accès anticipé, et connectez-vous avec votre compte Catenda.
+
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé conjointement avec les clients du programme de co-création. L'application n'est pas finale et peut encore changer considérablement, de sorte que les pages et les boutons peuvent avoir un aspect ou un fonctionnement différent de ce qui est décrit ici.
 
 Catenda est une application mobile pour téléphones et tablettes, disponible en accès anticipé. Au fil du temps, elle obtiendra toutes les fonctionnalités de [Catenda Site](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site), et bien plus. Catenda Site peut toujours être utilisé en parallèle.
 

@@ -2,6 +2,8 @@
 
 > Navigieren Sie durch Ihr Projekt nach Gebäude, Etage und Raum in Catenda Mobile.
 
+> **Hinweis:** Catenda Mobile befindet sich in der frühen Zugangsphase und wird zusammen mit den Kunden im Co-creation-Programm entwickelt. Die App ist nicht endgültig und kann sich noch erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Die Standortseite wird über die Leiste am unteren Bildschirmrand geöffnet, nachdem ein Projekt auf der [Projektseite](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde.
 
 Die Standortseite zeigt die Standortstruktur des Projekts, wie Gebäude, Etagen und Räume. Nur die Standortstruktur muss im Browser erstellt werden. Themen, Formulare und Dokumente können sowohl im Browser als auch in der App zu Standorten hinzugefügt werden.

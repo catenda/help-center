@@ -2202,6 +2202,8 @@ Of het lid een gebruiker in de organisatie is of niet
 
 > Een project in Catenda Mobile zoeken en openen, en tussen de pagina's van de app navigeren.
 
+> **Opmerking:** Catenda Mobile is in early access en wordt samen met klanten in het Co-creation-programma ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier wordt beschreven.
+
 Nadat u [zich bij Catenda hebt aangemeld](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda#sign-in), wordt de projectpagina geopend. Deze geeft een overzicht van alle projecten waarvan u lid bent.
 
 ![De projectpagina met de projectfilters en de projectlijst](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)
@@ -7174,6 +7176,8 @@ De volgende pagina's zijn te vinden als subpagina's van de documentenpagina:
 
 > Blader door de documenten van uw project in Catenda Mobile en open deze.
 
+> **Opmerking:** Catenda Mobile is in early access en wordt samen met klanten in het Co-creation programma ontwikkeld. De app is nog niet definitief en kan aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uit zien of anders werken dan hier beschreven.
+
 De pagina Documenten wordt geopend door op **Docs** in de balk onderaan het scherm te tikken, nadat een project is geopend op de [projectenpagina](https://support.catenda.com/nl/articles/17601629-projectpagina-catenda-mobile).
 
 De pagina Documenten geeft de documenten van het project in hun mappen weer.
@@ -7460,6 +7464,8 @@ Je bent verbonden! 🎉 Na het inloggen word je naar de [projectpagina](https://
 # Download je mobiele app Catenda 📲
 
 > Download de mobiele app van Catenda, beschikbaar in early access, en log in met je Catenda-account.
+
+> **Opmerking:** Catenda Mobile is in early access en wordt samen met de klanten in het Co-creation programma ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier beschreven.
 
 Catenda is een mobiele app voor telefoons en tablets, beschikbaar in early access. Na verloop van tijd zal het alle functies van [Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site) krijgen, en meer. Catenda Site kan er nog steeds naast gebruikt worden.
 
@@ -9408,6 +9414,8 @@ _Tekst zoeken_ - `search=test`
 # Formulierenpagina - Catenda Mobile
 
 > Vul formulieren ter plaatse in Catenda Mobile in, één vraag tegelijk.
+
+> **Opmerking:** Catenda Mobile bevindt zich in early access en wordt samen met klanten in het Co-creation program ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier wordt beschreven.
 
 De pagina Formulieren wordt geopend vanaf de balk onderaan het scherm, nadat een project is geopend op de [projectenpagina](https://support.catenda.com/nl/articles/17601629-projectpagina-catenda-mobile).
 
@@ -11648,6 +11656,8 @@ Titel Topic-titel
 
 > Navigeer door uw project op gebouw, verdieping en ruimte in Catenda Mobile.
 
+> **Opmerking:** Catenda Mobile is in early access en wordt samen met klanten uit het Co-creation program ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier is beschreven.
+
 De pagina Locaties wordt geopend via de balk onderaan het scherm, nadat een project is geopend op de [projectenpagina](https://support.catenda.com/nl/articles/17601629-projectpagina-catenda-mobile).
 
 De pagina Locaties toont de locatiestructuur van het project, zoals gebouwen, verdiepingen en ruimten. De locatiestructuur moet alleen in de browser worden aangemaakt. Topics, formulieren en Documenten kunnen zowel in de browser als in de app aan locaties worden toegevoegd.
@@ -11950,6 +11960,8 @@ Als u een meetvlak hebt geactiveerd, ziet u een sluitknop linksboven waarop u ku
 # Menupagina - Catenda Mobile
 
 > Wijzig de app-instellingen, schakel project of log uit in Catenda Mobile.
+
+> **Opmerking:** Catenda Mobile is in vroege toegang en wordt samen met klanten in het Co-creation-programma ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier beschreven.
 
 De menupagina wordt geopend door op **Menu** te tikken, het laatste item in de balk aan de onderkant van het scherm, nadat een project is geopend op de [projectenpagina](https://support.catenda.com/nl/articles/17601629-projectpagina-catenda-mobile).
 
@@ -19351,7 +19363,7 @@ Op apparaten met beperkte schermgrootte moeten knoppen groter zijn, zodat u ziet
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda) is onze mobiele app in vroege toegang, beschikbaar voor iPhone en iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) en voor Android op [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Het bevat topics, locaties, formulieren en Documenten, en na verloop van tijd zal het alle functies van Catenda Site krijgen.
+[Catenda Mobile](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda) is onze mobile app in early access, beschikbaar voor iPhone en iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) en voor Android op [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Het dekt Topics, locaties, formulieren en Documenten, en in de loop der tijd zal het alle functies van Catenda Site krijgen. De app wordt samen met klanten in het Co-creation-programma ontwikkeld en is niet definitief, dus het kan nog aanzienlijk veranderen.
 
 ## 2. **Startscherm / Dashboard / Dock -** Volledige functionaliteit
 
@@ -19792,6 +19804,8 @@ _Instellingen_ - Ga naar [topicbordinstellingen](https://support.catenda.com/nl/
 # Topics pagina - Catenda Mobile
 
 > Blader, filter en maak Topics in Catenda Mobile.
+
+> **Opmerking:** Catenda Mobile is in early access en wordt samen met klanten in het Co-creation-programma ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier wordt beschreven.
 
 De Topics pagina wordt geopend vanuit de balk onderaan het scherm, nadat een project is geopend op de [projectspagina](https://support.catenda.com/nl/articles/17601629-projectpagina-catenda-mobile). Een project wordt altijd geopend op de Topics pagina, ook wanneer het wordt geopend met **Project wisselen** op de Menupagina.
 

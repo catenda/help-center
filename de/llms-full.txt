@@ -2057,6 +2057,8 @@ Wenn Ihr Projekt abgelaufen ist, wird neben dem Projekt roter Text angezeigt, de
 
 > Finden und öffnen Sie ein Projekt in Catenda Mobile und wechseln Sie zwischen den Seiten der App.
 
+> **Hinweis:** Catenda Mobile ist in der frühen Zugriffsphase und wird zusammen mit den Kunden im Co-Creation-Programm entwickelt. Die App ist nicht endgültig und kann sich noch erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Nach [der Anmeldung bei Catenda](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen#sign-in) wird die Projektseite geöffnet. Sie listet alle Projekte auf, deren Mitglied der Benutzer ist.
 
 ![Die Projektseite mit den Projektfiltern und der Projektliste](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)
@@ -6749,6 +6751,8 @@ Die Dokumentvorschau auf der Prüfungsseite der Freigabeanfrage funktioniert gen
 
 > Laden Sie die Catenda-App herunter, die in der frühen Zugangsphase verfügbar ist, und melden Sie sich mit Ihrem Catenda-Konto an.
 
+> **Hinweis:** Catenda Mobile ist in der frühen Zugangsphase und wird zusammen mit den Kunden des Co-creation-Programms entwickelt. Die App ist nicht final und kann sich noch erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Catenda ist eine mobile App für Telefone und Tablets, die sich in der frühen Zugangsphase befindet. Mit der Zeit wird sie alle Features der [Catenda Site](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) und mehr erhalten. Catenda Site kann weiterhin parallel dazu verwendet werden.
 
 ## 1. **Catenda herunterladen**
@@ -7016,6 +7020,8 @@ Die folgenden Seiten können als Unterseiten der Dokumentenseite angezeigt werde
 # Dokumentenseite - Catenda Mobile
 
 > Durchsuchen und öffnen Sie die Dokumente Ihres Projekts in Catenda Mobile.
+
+> **Hinweis:** Catenda Mobile befindet sich in der frühen Zugangsphase und wird zusammen mit den Kunden im Co-Creation-Programm entwickelt. Die App ist nicht final und kann sich noch erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
 
 Die Dokumentenseite wird geöffnet, indem Sie **Docs** in der Leiste am unteren Bildschirmrand antippen, nachdem ein Projekt auf der [Projektseite](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde.
 
@@ -10107,6 +10113,8 @@ _Dropdown benutzerdefiniertes Feld_ _-_ `custom-field-item-<Custom field GUID>=<
 
 > Füllen Sie Formulare vor Ort in Catenda Mobile aus, eine Frage nach der anderen.
 
+> **Hinweis:** Catenda Mobile befindet sich in einem frühen Zugriffsstadium und wird zusammen mit den Kunden des Co-creation-Programms entwickelt. Die App ist nicht endgültig und kann sich erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Die Formularseite wird über die Leiste am unteren Bildschirmrand geöffnet, nachdem ein Projekt auf der [Projektseite](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde.
 
 Die Formularseite listet die Formulare des Projekts auf. Formularvorlagen können nur im Browser erstellt werden, aber Formulare können sowohl im Browser als auch in der App ausgefüllt werden.
@@ -12263,6 +12271,8 @@ Dies ist ein Beispiel für die Schrittsübersicht, bei der ein Mitglied eines Pr
 # Menüseite - Catenda Mobile
 
 > Ändern Sie die App-Einstellungen, wechseln Sie das Projekt oder melden Sie sich in Catenda Mobile ab.
+
+> **Hinweis:** Catenda Mobile ist in der frühen Zugangsphase und wird zusammen mit den Kunden im Co-Creation-Programm entwickelt. Die App ist nicht endgültig und kann sich noch erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
 
 Die Menüseite wird durch Tippen auf **Menü**, das letzte Element in der Leiste am unteren Bildschirmrand, geöffnet, nachdem ein Projekt auf der [Projektseite](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde.
 
@@ -18045,6 +18055,8 @@ Legt die Berechtigungen für den Ordner und alle Unthinhalte des Ordners fest �
 
 > Navigieren Sie durch Ihr Projekt nach Gebäude, Etage und Raum in Catenda Mobile.
 
+> **Hinweis:** Catenda Mobile befindet sich in der frühen Zugangsphase und wird zusammen mit den Kunden im Co-creation-Programm entwickelt. Die App ist nicht endgültig und kann sich noch erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Die Standortseite wird über die Leiste am unteren Bildschirmrand geöffnet, nachdem ein Projekt auf der [Projektseite](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde.
 
 Die Standortseite zeigt die Standortstruktur des Projekts, wie Gebäude, Etagen und Räume. Nur die Standortstruktur muss im Browser erstellt werden. Themen, Formulare und Dokumente können sowohl im Browser als auch in der App zu Standorten hinzugefügt werden.
@@ -18957,6 +18969,8 @@ Wenn Sie auf die [Einstellungsseite](https://support.catenda.com/de/articles/467
 # Themen-Seite - Catenda Mobile
 
 > Durchsuchen, filtern und erstellen Sie Themen in Catenda Mobile.
+
+> **Hinweis:** Catenda Mobile befindet sich in der frühen Zugangsphase und wird zusammen mit den Kunden im Co-Creation-Programm entwickelt. Die App ist noch nicht final und kann sich erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
 
 Seite "Themen" wird über die Leiste am unteren Bildschirmrand geöffnet, nachdem ein Projekt auf der [Seite "Projekte"](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde. Ein Projekt wird immer auf der Seite "Themen" geöffnet, auch wenn es mit **Projekt wechseln** auf der Menüseite geöffnet wird.
 
@@ -20259,7 +20273,7 @@ Auf Geräten mit begrenzter Bildschirmgröße müssen Schaltflächen größer se
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist unsere mobile App in der Früh-Zugriffsphase, verfügbar für iPhone und iPad über [TestFlight](https://testflight.apple.com/join/xj6WppjQ) und für Android auf [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Sie umfasst Themen, Standorte, Formulare und Dokumente und wird im Laufe der Zeit alle Funktionen von Catenda Site erhalten.
+[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist unsere mobile App im Early-Access, erhältlich für iPhone und iPad über [TestFlight](https://testflight.apple.com/join/xj6WppjQ) und für Android im [Google Play Store](https://play.google.com/store/apps/details?id=com.catenda.apex). Sie behandelt Themen, Standorte, Formulare und Dokumente und wird im Laufe der Zeit alle Funktionen von Catenda Site erhalten. Die App wird zusammen mit den Kunden im Co-Creation-Programm entwickelt und ist noch nicht final, daher kann sie sich noch erheblich ändern.
 
 ## 2. **Startbildschirm / Dashboard / Dock -** Vollständige Funktionalität
 

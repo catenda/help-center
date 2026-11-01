@@ -2,6 +2,8 @@
 
 > Füllen Sie Formulare vor Ort in Catenda Mobile aus, eine Frage nach der anderen.
 
+> **Hinweis:** Catenda Mobile befindet sich in einem frühen Zugriffsstadium und wird zusammen mit den Kunden des Co-creation-Programms entwickelt. Die App ist nicht endgültig und kann sich erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Die Formularseite wird über die Leiste am unteren Bildschirmrand geöffnet, nachdem ein Projekt auf der [Projektseite](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde.
 
 Die Formularseite listet die Formulare des Projekts auf. Formularvorlagen können nur im Browser erstellt werden, aber Formulare können sowohl im Browser als auch in der App ausgefüllt werden.

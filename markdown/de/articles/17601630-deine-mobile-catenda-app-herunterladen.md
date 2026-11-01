@@ -2,6 +2,8 @@
 
 > Laden Sie die Catenda-App herunter, die in der frühen Zugangsphase verfügbar ist, und melden Sie sich mit Ihrem Catenda-Konto an.
 
+> **Hinweis:** Catenda Mobile ist in der frühen Zugangsphase und wird zusammen mit den Kunden des Co-creation-Programms entwickelt. Die App ist nicht final und kann sich noch erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Catenda ist eine mobile App für Telefone und Tablets, die sich in der frühen Zugangsphase befindet. Mit der Zeit wird sie alle Features der [Catenda Site](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) und mehr erhalten. Catenda Site kann weiterhin parallel dazu verwendet werden.
 
 ## 1. **Catenda herunterladen**

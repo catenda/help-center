@@ -2,6 +2,8 @@
 
 > Finn og åpne et prosjekt i Catenda Mobile, og beveg deg mellom sidene i appen.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Etter [å logge inn på Catenda](https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda#sign-in), åpnes prosjektsiden. Den viser alle prosjekter brukeren er medlem av.
 
 ![Prosjektsiden med prosjektfiltrene og prosjektlisten](https://raw.githubusercontent.com/catenda/help-center/main/images/gnhhmk48/01-intro.jpg)

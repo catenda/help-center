@@ -2,6 +2,8 @@
 
 > Téléchargez l'application mobile Catenda, disponible en accès anticipé, et connectez-vous avec votre compte Catenda.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé conjointement avec les clients du programme de co-création. L'application n'est pas finale et peut encore changer considérablement, de sorte que les pages et les boutons peuvent avoir un aspect ou un fonctionnement différent de ce qui est décrit ici.
+
 Catenda est une application mobile pour téléphones et tablettes, disponible en accès anticipé. Au fil du temps, elle obtiendra toutes les fonctionnalités de [Catenda Site](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site), et bien plus. Catenda Site peut toujours être utilisé en parallèle.
 
 ## 1. **Télécharger Catenda**

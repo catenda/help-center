@@ -2,6 +2,8 @@
 
 > Durchsuchen und öffnen Sie die Dokumente Ihres Projekts in Catenda Mobile.
 
+> **Hinweis:** Catenda Mobile befindet sich in der frühen Zugangsphase und wird zusammen mit den Kunden im Co-Creation-Programm entwickelt. Die App ist nicht final und kann sich noch erheblich ändern, daher können Seiten und Schaltflächen anders aussehen oder funktionieren als hier beschrieben.
+
 Die Dokumentenseite wird geöffnet, indem Sie **Docs** in der Leiste am unteren Bildschirmrand antippen, nachdem ein Projekt auf der [Projektseite](https://support.catenda.com/de/articles/17601629-projektseite-catenda-mobile) geöffnet wurde.
 
 Die Dokumentenseite zeigt die Dokumente des Projekts in ihren Ordnern an.

@@ -15,7 +15,7 @@ Auf Geräten mit begrenzter Bildschirmgröße müssen Schaltflächen größer se
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist unsere mobile App in der Früh-Zugriffsphase, verfügbar für iPhone und iPad über [TestFlight](https://testflight.apple.com/join/xj6WppjQ) und für Android auf [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Sie umfasst Themen, Standorte, Formulare und Dokumente und wird im Laufe der Zeit alle Funktionen von Catenda Site erhalten.
+[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist unsere mobile App im Early-Access, erhältlich für iPhone und iPad über [TestFlight](https://testflight.apple.com/join/xj6WppjQ) und für Android im [Google Play Store](https://play.google.com/store/apps/details?id=com.catenda.apex). Sie behandelt Themen, Standorte, Formulare und Dokumente und wird im Laufe der Zeit alle Funktionen von Catenda Site erhalten. Die App wird zusammen mit den Kunden im Co-Creation-Programm entwickelt und ist noch nicht final, daher kann sie sich noch erheblich ändern.
 
 ## 2. **Startbildschirm / Dashboard / Dock -** Vollständige Funktionalität
 

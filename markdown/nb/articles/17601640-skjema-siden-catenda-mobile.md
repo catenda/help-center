@@ -2,6 +2,8 @@
 
 > Fyll ut skjemaer på stedet i Catenda Mobile, ett spørsmål av gangen.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og blir utviklet sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Skjema-siden åpnes fra linjen nederst på skjermen, etter at et prosjekt er åpnet på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile).
 
 Skjema-siden viser skjemaene for prosjektet. Skjemamaler kan bare opprettes i nettleseren, men skjemaer kan fylles ut både i nettleseren og i appen.

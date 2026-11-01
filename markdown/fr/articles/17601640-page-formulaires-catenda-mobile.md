@@ -2,6 +2,8 @@
 
 > Remplissez des formulaires sur site dans Catenda Mobile, une question à la fois.
 
+> **Remarque :** Catenda Mobile est en accès anticipé et est développé en collaboration avec les clients du programme Co-création. L'application n'est pas finale et peut encore changer considérablement, de sorte que les pages et les boutons peuvent s'afficher ou fonctionner différemment de ce qui est décrit ici.
+
 La page Formulaires s'ouvre à partir de la barre en bas de l'écran, après l'ouverture d'un projet sur la [page des projets](https://support.catenda.com/fr/articles/17601629-page-projets-catenda-mobile).
 
 La page Formulaires répertorie les formulaires du projet. Les modèles de formulaire ne peuvent être créés que dans le navigateur, mais les formulaires peuvent être remplis à la fois dans le navigateur et dans l'application.

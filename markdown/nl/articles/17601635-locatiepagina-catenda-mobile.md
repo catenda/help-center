@@ -2,6 +2,8 @@
 
 > Navigeer door uw project op gebouw, verdieping en ruimte in Catenda Mobile.
 
+> **Opmerking:** Catenda Mobile is in early access en wordt samen met klanten uit het Co-creation program ontwikkeld. De app is niet definitief en kan nog aanzienlijk veranderen, dus pagina's en knoppen kunnen er anders uitzien of anders werken dan hier is beschreven.
+
 De pagina Locaties wordt geopend via de balk onderaan het scherm, nadat een project is geopend op de [projectenpagina](https://support.catenda.com/nl/articles/17601629-projectpagina-catenda-mobile).
 
 De pagina Locaties toont de locatiestructuur van het project, zoals gebouwen, verdiepingen en ruimten. De locatiestructuur moet alleen in de browser worden aangemaakt. Topics, formulieren en Documenten kunnen zowel in de browser als in de app aan locaties worden toegevoegd.

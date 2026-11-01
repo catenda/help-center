@@ -2,6 +2,8 @@
 
 > Bla gjennom og åpne dokumentene i prosjektet ditt i Catenda Mobile.
 
+> **Merk:** Catenda Mobile er i tidlig tilgang og utvikles sammen med kundene i Co-creation-programmet. Appen er ikke endelig og kan fortsatt endres betydelig, så sider og knapper kan se ut eller fungere annerledes enn det som er beskrevet her.
+
 Dokumentersiden åpnes ved å trykke på **Docs** i feltet nederst på skjermen, etter at et prosjekt er åpnet på [prosjektsiden](https://support.catenda.com/nb/articles/17601629-prosjektsiden-catenda-mobile).
 
 Dokumentersiden viser dokumentene i prosjektet organisert i mapper.
