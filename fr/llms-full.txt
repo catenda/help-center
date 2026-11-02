@@ -2537,80 +2537,6 @@ Définit uniquement les autorisations sur le dossier et les fichiers qui se trou
 
 Définit les autorisations sur le dossier et tout le contenu secondaire de ce dossier, à la fois les dossiers et les fichiers. Cliquez sur Enregistrer et le contrôle d'accès est terminé.
 
-# Action Créer un rapport
-
-L'action Créer un rapport est mise à disposition pour les projets où la fonction de rapports opt-in a été demandée pour être activée. Lorsque la fonction de rapports est activée sur un projet, l'action Créer un rapport devient disponible dans les actions de la table Documents et Sujets. Sélectionnez un ou plusieurs éléments dans la table Documents et ouvrez le [menu d'action de la table Documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents). Sélectionnez un ou plusieurs éléments dans la table Sujets et ouvrez le [menu d'action de la table Sujets](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets). Voici à quoi peut ressembler l'action Créer un rapport :
-
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-ef841bc1c2c3.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-0c1ebf646ff6.png" width="290"/>
-
-## 1. Choisir les options d'export
-
-Lorsque l'action Créer un rapport est cliquée, la boîte de dialogue Générer un rapport s'ouvre :
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/01-choose-export-options.png)
-
-> **Remarque :** Pour les rapports créés sur les éléments sélectionnés dans la table Documents, attention : seuls les éléments Documents sont inclus dans le rapport et non les éléments de dossier.
-
-### 1.1 **Sélectionné**
-
-Affiche le nombre d'éléments sélectionnés (En excluant les dossiers pour les rapports de documents)
-
-### 1.2 **Filtre actuel**
-
-Affiche le nombre d'éléments correspondant au filtre actuel. Le nombre inclut les éléments de dossier pour les rapports de documents, bien que ceux-ci ne soient pas inclus dans le rapport
-
-### 1.3 **Continuer**
-
-Cliquez sur Continuer pour ouvrir le rapport sur la page de rapports.
-
-## 2. Nouvelle page de rapport
-
-Voici à quoi peut ressembler la nouvelle page de rapport :
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/02-new-report-page.png)
-
-### 2.1 **Sélectionner le modèle de rapport**
-
-Choisissez un rapport prédéfini basé sur la liste des modèles de rapport que l'administrateur du projet a mis à disposition dans le projet. Pour les rapports créés à partir de la table Documents, sélectionnez parmi une liste de modèles de documents disponibles. Pour les rapports créés à partir de la table Sujets, sélectionnez parmi une liste de modèles de sujets disponibles.
-
-### 2.2 **Nouvelle barre d'outils de rapport**
-
-**Enregistrer** Voici à quoi peut ressembler le menu d'enregistrement :
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/03-new-report-toolbar.png)
-
-> **Remarque :** Assurez-vous que l'échelle du navigateur est agrandie à la bonne échelle pour voir tout le menu.
-
-Le même rapport peut être enregistré dans n'importe quel type de fichier disponible. Les formats de fichier disponibles sont :
-
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 197px; padding: 8px;"><h3 id="h_c78caefe80"><b>Types de fichiers disponibles</b></h3></td><td style="background-color: #e3e7fa80; width: 77px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_682e4fccfb">Standard</h3></td><td style="background-color: #e3e7fa80; width: 97px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_457a2022bf">Version standard</h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_2686400f9a">Aperçu Catenda</h3></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7d366f10d0">Adobe PDF</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pdf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>PDF/A-1<br/>PDF/A-2<br/>PDF/A-3</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_94e4483855">Microsoft PowerPoint</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pptx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bbed4e09ef">HTML</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.html</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>HTML<br/>HTML5</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Veuillez consulter l'<a class="intercom-content-link" href="https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub">article d'assistance</a> </p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_619405a336">Texte</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.txt</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_010bd11b0a">RTF</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.rtf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Veuillez consulter l'<a class="intercom-content-link" href="https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub">article d'assistance</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bc9ec295b0">Microsoft Word</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.docx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f4a5014703">Rédacteur OpenDocument</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.odt</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_501a9a2af1">Microsoft Excel</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.xlsx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a247c33d74">Calcul OpenDocument</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.ods</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa1a3a9285">Données</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.CSV<br/>.DBF<br/>.XML<br/>.DIF<br/>.SYKL<br/>.JSON</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Veuillez consulter l'<a class="intercom-content-link" href="https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub">article d'assistance</a></p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d240bc4f64">Image</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.Bmp<br/>.Gif<br/>.Jpeg<br/>.Pcx<br/>.Png<br/>.Tiff<br/>.Svg<br/>.Svgz</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Veuillez consulter l'<a class="intercom-content-link" href="https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub">article d'assistance</a></p></td></tr></tbody></table></div>
-
-Cliquez sur un format pour ouvrir le menu des paramètres d'export.
-
-**Paramètres d'export** Voici à quoi peut ressembler le menu des paramètres d'export pour le format de fichier Adobe PDF :
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/04-new-report-toolbar.png)
-
-Cliquez sur OK pour enregistrer le rapport en tant que document quelque part dans la bibliothèque de documents sur Catenda à partir de là où il peut être téléchargé. _Enregistrer le fichier de rapport_ Pour pouvoir télécharger le rapport, il doit d'abord être enregistré quelque part dans la structure des documents de Catenda. Choisissez le dossier dans lequel vous souhaitez enregistrer le rapport, renommez votre rapport si nécessaire, puis cliquez sur "Télécharger".
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/05-new-report-toolbar.png)
-
-Le menu d'enregistrement de documents mémorise le dossier précédemment sélectionné et ne doit être configuré qu'une seule fois si le même dossier est utilisé à chaque fois.
-
-### 2.3 **Aperçu du rapport**
-
-Un aperçu du rapport est généré selon le modèle par défaut.
-
-**Rapport Sujets** Voici à quoi peut ressembler un rapport Sujets :
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/06-report-preview.png)
-
-**Rapport Documents** Voici à quoi peut ressembler un rapport Documents :
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/07-report-preview.png)
-
-Les modèles de rapport sont configurés sur la page des modèles de rapport. _Accès requis pour l'enregistrement de rapport :_ Accès en lecture n'importe où dans la zone Documents. _Accès requis pour la configuration du modèle :_ Administrateur
-
 # Action de copie de Liens
 
 Avec l'action de copie de Liens, un Liens qui affiche uniquement les lignes de tableau sélectionnées peut être copié.
@@ -15130,161 +15056,99 @@ Cliquez sur Restaurer pour restaurer un Template topic archivé.
 
 La page de Template topic n'est pas disponible pour les projets commençant par le nouveau flux de validation.
 
-# Page des approbations
+# Page des validations
 
-La page des approbations se trouve en tant que sous-page de la [page documents](https://support.catenda.com/fr/articles/8204673-page-documents) dans le menu de navigation de gauche. Vous y trouverez un aperçu des demandes d'approbation du projet.
+La page des validations se trouve comme sous-page de la [page documents](https://support.catenda.com/fr/articles/8204673-page-documents) dans le menu de navigation de gauche. La page des validations est masquée par défaut et s'affiche lorsque le circuit de validation des statuts a été activé dans les [paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) pour les projets ayant activé les révisions partagées après le 2 octobre 2025. Vous y trouverez un aperçu des demandes de validation du projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Cet article contient des informations sur les sujets suivants : _[Activer](#h_263c9d1268) - [Actions](#h_39a97bd06a) - [Rechercher/filtrer](#h_95652579ee) - [Liste des approbations](#h_aa4dfe69f5) - [Lignes](#h_76de8831a3) - [Cartes de demande d'approbation](#h_e99a80135a) -_ [Onglets Demandes d'approbation et Révisions de documents](#h_aae5976a1d)
+Cet article contient des informations sur les sujets suivants :
 
-Sur la page des approbations, il est possible de :
+_[Rechercher ou filtrer](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_95652579ee) - [Liste des validations](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_aa4dfe69f5) - [Contenu de la ligne](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_76de8831a3) - [Cartes de demande de validation](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_e99a80135a)_
 
-- Chaque demande d'approbation peut être examinée et validée par l'équipe avant qu'une validation finale décide si les révisions qui doivent être approuvées doivent être approuvées ou non.
-- La configuration du cours et du résultat d'une approbation peut être effectuée.
-- De nouvelles approbations peuvent être créées.
+Les projets pour lesquels les révisions partagées ont été activées avant le 2 octobre 2025 verront la [page de validations héritée](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage) à la place. Sur la page des validations, les actions suivantes peuvent être effectuées :
 
-## 1. **Activation de la page des approbations**
+- Chaque demande de validation peut être examinée et validée par l'équipe avant qu'une validation finale décide si les révisions demandées doivent être approuvées ou non.
+- La configuration du déroulement et du résultat d'une validation peut être effectuée.
+- De nouvelles validations peuvent être créées.
 
-La page des approbations est masquée par défaut. Activez les révisions partagées dans les [paramètres de document](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) pour afficher la page des approbations. _Accès requis :_ Administrateur de projet
+## 1. **Options de recherche ou de filtrage**
 
-> **Remarque :** Dans les projets où les révisions partagées ont été activées avant le 2 octobre 2025, la [page des approbations héritée](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage) s'affiche à la place.
-
-### 1.1 **Activation à partir d'un projet modèle**
-
-Les projets créés à partir d'un projet modèle pour lequel les statuts partagés étaient activés auront les statuts partagés activés et la page des approbations sera affichée à la création. Les workflows d'approbation et les modèles de sujets du projet modèle sont repris dans le nouveau projet, de sorte qu'ils n'ont pas besoin d'être créés à nouveau avant que les membres puissent commencer à soumettre des demandes d'approbation.
-
-## 2. **Nouvelles actions d'élément**
-
-Les nouvelles actions d'élément se trouvent en haut à droite de la page.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
-
-### 2.1 **Nouvelle demande d'approbation**
-
-Cliquez [ici](https://support.catenda.com/fr/articles/12495005-creation-d-une-nouvelle-demande-d-approbation) pour en savoir plus sur la création d'une nouvelle demande d'approbation.
-
-**Accès requis :** Un membre doit être partie d'une équipe de soumission dans un flux de travail configuré pour pouvoir soumettre une nouvelle demande d'approbation.
-
-## 3. **Options de recherche ou de filtrage**
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
 
 Cliquez [ici](https://support.catenda.com/fr/articles/12495060-filtrage-sur-la-page-des-approbations) pour en savoir plus sur le filtrage sur la page des approbations.
 
-## 4. **Liste des approbations**
+## 2. **Liste des validations**
 
-Les cartes d'approbation avec des indices visuels sur le contenu de chaque demande d'approbation dont un membre fait partie s'affichent dans la liste des approbations.
+Les projets créés à partir d'un projet modèle incluent les flux de travail d'approbation et les modèles de sujets de ce projet modèle. Chaque ligne de la liste des approbations contient une carte d'approbation avec des indices visuels sur le contenu de chaque demande d'approbation.
 
-Voici ce que pourrait ressembler une demande d'approbation avec une activité complète :
+Voici à quoi peut ressembler une demande de validation avec une activité complète :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
 
-L'activité qui se produit dans l'approbation s'affiche avec des quantités et des icônes sur la carte d'approbation.
+L'activité qui se produit dans la validation s'affiche avec des quantités et des icônes sur la carte de validation.
 
-**Accès requis :** La visibilité de la demande est basée sur les rôles : les membres du projet peuvent afficher uniquement les demandes qu'ils ont personnellement soumises, les demandes actives assignées à une équipe d'examinateur ou d'examinateur final dont ils sont membres, ou toutes les demandes du projet en cas d'administrateurs de projet.
+**Accès requis :** Membre de l'équipe du demandeur, examinateur ou équipe d'examen final ou administrateur.
 
-- Pour les procédures opérationnelles détaillées concernant la soumission de révisions, l'ajout de marques de révision et le traitement des validations d'étapes ou des décisions finales, lisez [ici](https://www.google.com/search?q=).
-- Pour les conseils d'administration sur la configuration des modèles d'approbation, la gestion des paramètres verrouillés et la résolution des dépendances cassées, lisez [ici](https://www.google.com/search?q=).
+## 3. **Contenu de la ligne**
 
-## 5. **Liste des révisions de documents**
+### 3.1 **Ligne de validation ouverte ou fermée**
 
-Le deuxième onglet vous permet d'obtenir un aperçu de tous les documents en cours d'examen dans toutes les approbations ouvertes.
+L'ouverture du contenu d'une ligne de demande de validation en cours d'examen ou fermée ouvre la [page de validation](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee) pour cette validation.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
+### 3.2 **Ligne de validation brouillon**
 
-Le tableau affiche :
+Pour les validations en brouillon, la [page de demande de validation en brouillon](https://support.catenda.com/fr/articles/12495175-page-de-demande-de-validation-de-brouillon) s'ouvrira à la place.
 
-1. le nom de la révision
-1. le numéro de révision
-1. l'étape d'examen actuelle
-1. l'état actuel de l'étape
-1. la date d'échéance de l'examen de l'étape
-1. les équipes qui doivent encore examiner le document
-1. le nom de la demande d'approbation
-1. le soumetteur (individuel et équipe)
-1. la date de soumission
+## 4. **Cartes de demande de validation**
 
-### 5.1 Filtrage
+### 4.1 **Titre**
 
-De plus, le panneau de filtrage de gauche vous permet de filtrer les documents par :
+Titre de la validation
 
-1. Assignation : toutes les équipes ou votre équipe spécifiquement
-1. État du document : En attente, En examen, Terminé
-1. Date d'échéance : tous, à venir, en retard
+### 4.2 **Statut brouillon**
 
-### 5.2 Tri
+Lorsqu'une demande de validation a le statut brouillon, elle n'est visible que par la personne qui a créé le brouillon dans la page des validations.
 
-Enfin, vous avez la possibilité de trier par :
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
 
-1. Nom de la révision
-1. État
-1. Date d'échéance
-1. Date de soumission
+La demande de validation n'est pas visible dans le menu des validations du menu droit d'une révision.
 
-### 5.3 Recherche
+### 4.3 **Statut de validation ouverte**
 
-La recherche textuelle vous permet de rechercher par nom de révision et nom de demande d'approbation.
+Lorsqu'une demande de validation a le statut ouvert, elle est visible pour tous les membres des équipes impliquées dans la demande. Survolez les statuts des validations en cours d'examen par plus d'une équipe pour ouvrir une fenêtre contextuelle montrant quelle équipe doit encore soumettre son examen à l'étape actuelle.
 
-## 6. **Contenu de la ligne**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
 
-### 6.1 **Ligne d'approbation ouverte ou fermée**
+Les équipes d'examen qui ont déjà donné leur examen n'apparaissent pas dans cette liste et ne sont pas comptabilisées dans le nombre d'équipes dont l'étape de validation est actuellement en cours d'examen.
 
-L'ouverture du contenu d'une ligne de demande d'approbation en cours d'examen ou fermée ouvre la [page d'approbation](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee) pour cette approbation.
+À droite du statut de validation ouverte, la date et l'heure auxquelles l'étape de validation doit être examinée s'affichent. Si l'approbation automatique est configurée pour cette étape, la validation passera automatiquement à l'étape suivante à cette date et cette heure.
 
-### 6.2 **Ligne de demande d'approbation au brouillon**
+### 4.4 **Statut fermé**
 
-Pour les approbations au brouillon, la [page de demande d'approbation au brouillon](https://support.catenda.com/fr/articles/12495175-page-de-demande-de-validation-de-brouillon) s'ouvrira à la place.
+Lorsqu'une demande de validation atteint son étape de validation finale, elle reste ouverte. En fonction des approbations et rejets donnés par chacune des équipes à chacune des étapes de validation, un membre de l'équipe de validation finale pourra donner son approbation ou son rejet final. Lorsque la demande de validation est finalement approuvée ou rejetée par le membre de l'équipe de validation finale, elle est fermée.
 
-## 7. **Cartes de demande d'approbation**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
 
-### 7.1 **Titre**
+### 4.5 **Circuit de validation**
 
-Titre d'approbation
+Le circuit de validation qui est suivi par la validation
 
-### 7.2 **Statut brouillon**
+### 4.6 **Créé par**
 
-Lorsqu'une demande d'approbation a le statut brouillon, elle n'est visible que par la personne qui a créé le brouillon sur la page des approbations.
+Le membre qui a créé la validation et la date et l'heure de sa création.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
+### 4.7 **Approbation finale**
 
-La demande d'approbation n'est pas visible dans le menu des approbations du menu droit d'une révision.
+L'équipe de validation finale qui aura le dernier mot sur la publication des documents partagés dans la validation, informée par les examens soumis par les équipes du demandeur à chacune des étapes de validation.
 
-### 7.3 **Statut d'approbation ouverte**
+### 4.8 **Numéro de validation**
 
-Lorsqu'une demande d'approbation a le statut ouvert, elle est visible pour tous les membres qui font partie des équipes impliquées dans la demande. Passez la souris sur les statuts des approbations qui sont en cours d'examen par plus d'une équipe pour ouvrir une fenêtre contextuelle qui montre quelle équipe doit encore soumettre son examen à l'étape d'examen actuelle.
+Le numéro de la validation
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
+### 4.9 **Icônes en bas**
 
-Les Équipes d'examen qui ont déjà donné leur avis n'apparaissent pas dans cette liste et ne comptent pas dans le nombre d'Équipes en train d'examiner l'étape d'approbation.
-
-À droite du statut d'approbation ouvert, la date et l'heure à laquelle l'étape d'approbation doit être examinée s'affichent. Si l'approbation automatique est configurée pour cette étape, l'approbation passera automatiquement à l'étape suivante à cette date et cette heure.
-
-### 7.4 **Statut fermé**
-
-Lorsqu'une demande d'approbation atteint son étape d'approbation finale, elle reste ouverte. En fonction des approbations et des rejets donnés par chacune des Équipes à chaque étape d'approbation, un Membre de l'Équipe d'approbation finale sera en mesure de donner son approbation ou son rejet final. Lorsque la demande d'approbation est finalement approuvée ou rejetée par un Membre de l'Équipe d'approbation finale, elle sera fermée.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
-
-### 7.5 **Workflow**
-
-Le workflow suivi par l'approbation
-
-### 7.6 **Créé par**
-
-Le Membre qui a créé l'approbation et la date et l'heure de sa création.
-
-### 7.7 **Approbation finale**
-
-L'Équipe d'approbation finale qui aura le dernier mot sur la publication des Documents partagés dans l'approbation, informée par les avis soumis par les Équipes soumissionnaires à chaque étape d'approbation.
-
-### 7.8 **Numéro d'approbation**
-
-Le numéro de l'approbation
-
-### 7.9 **Icônes du bas**
-
-L'étape d'examen actuelle du workflow suivi par l'approbation. Le nombre total d'étapes que l'approbation doit accomplir avant d'être finalisée. Visible uniquement sur les approbations ouvertes et fermées. Le nombre de Documents dans l'approbation quel que soit les paramètres d'accès.
+L'étape actuelle d'examen du circuit de validation que suit la validation. Le nombre total d'étapes que la validation doit compléter avant d'être finalisée. Visible uniquement sur les validations ouvertes et fermées. Le nombre de documents dans la validation indépendamment des paramètres d'accès.
 
 # Page des champs personnalisés
 
@@ -16817,66 +16681,6 @@ De plus, le tableau des produits peut avoir un nombre quelconque de colonnes en 
 **Préférences des colonnes** Contrairement à d'autres configurations de tableau, certaines préférences typiques qui peuvent être configurées sont verrouillées dans le tableau des produits.
 
 Les préférences des colonnes ne sont pas enregistrées entre les sessions. Les colonnes ne peuvent pas être réorganisées, seules activées et désactivées. Il n'est pas possible de trier le tableau par une colonne différente en cliquant sur la cellule de la ligne d'en-tête de la colonne. Il n'est pas possible de modifier la direction de tri de la colonne par laquelle le tableau est trié. Il n'est pas possible de faire glisser la cellule de la ligne d'en-tête hors du tableau pour désactiver la ligne, les lignes doivent être désactivées via la liste déroulante des colonnes.
-
-# Page Projets du Portail d'Archivage
-
-> Connectez-vous au Portail d'Archivage et ouvrez un projet. Seuls les projets dont vous êtes administrateur sont listés.
-
-Le Portail d'Archivage vous permet d'archiver des Documents et des Sujets de Catenda Hub vers le système d'archive externe de votre organisation. C'est pour quiconque est responsable de l'archivage dans un ou plusieurs projets.
-
-Ouvrez le portail à [archiving.catenda.com](https://archiving.catenda.com) et cliquez sur **Connecter à Catenda Hub**. Le portail n'a pas de mot de passe propre, vous vous authentifiez donc sur Catenda Hub et êtes renvoyé ici. Pour le compte lui-même, consultez [Page de connexion](https://support.catenda.com/fr/articles/7891486-page-de-connexion).
-
-La page des projets peut ressembler à ceci :
-
-![](https://catenda.github.io/help-center-ops/images/h1mfgfs5/01-intro.png)
-
-## 1. **Fonctionnement de l'archivage**
-
-L'archivage s'effectue dans un seul sens, de Catenda Hub vers votre système d'archive organisationnel. Le portail est l'endroit où vous décidez ce qui part et confirmez son arrivée.
-
-### 1.1 **Ce qui devient archivable**
-
-Ce qui peut être archivé est décidé dans Catenda Hub plutôt que dans le portail. Un document devient archivable quand il se trouve dans un dossier portant l'étiquette d'archive, qui est l'étiquette nommée `Arkivverdig` sauf si votre projet en définit une. Les Sujets deviennent archivables de la même manière, via leur Liste de sujets.
-
-Le portail conserve sa propre copie de ce qui se trouve dans Catenda Hub et l'actualise environ toutes les 30 minutes, donc quelque chose que vous venez de modifier là-bas prend un peu de temps avant d'apparaître ici.
-
-### 1.2 **Choisir ce qui part**
-
-Tout ce qui attend est listé sur la page propre du projet, avec les Documents et les Sujets sur des onglets séparés. Pour chaque élément, vous choisissez de l'archiver, de l'ignorer pour le moment ou de ne jamais l'archiver, et vous pouvez corriger les métadonnées ou ajouter des pièces jointes avant qu'il ne parte.
-
-Un numéro de projet doit être défini avant que quoi que ce soit puisse être archivé, car c'est le numéro sous lequel l'élément est enregistré dans l'archive. Jusqu'à ce qu'il soit défini, le portail vous le signale au lieu d'archiver.
-
-### 1.3 **Envoi et retour**
-
-L'envoi remet l'élément au système d'archive, qui l'enregistre et renvoie une référence. Le portail enregistre cette référence par rapport à l'élément, de sorte que tout ce qui est archivé peut être retracé jusqu'à la copie dans l'archive.
-
-Tout ce qui échoue est enregistré avec la raison de l'échec, et peut être renvoyé à nouveau, soit un élément à la fois, soit pour tout le projet à la fois.
-
-> **Remarque :** Les articles décrivant chacune de ces étapes en détail ne sont disponibles que pour les utilisateurs ayant accès au Portail d'Archivage. Pour savoir quel système d'archive le portail soumet, consultez [Systèmes d'Archive et Numéros de Projet dans le Portail d'Archivage](https://support.catenda.com/fr/articles/16968887-systemes-d-archivage-et-numeros-de-projet-dans-le-portail-d-archivage).
-
-## 2. **Vos projets**
-
-Après votre connexion, vous accédez à **Vos projets**.
-
-Seuls les projets dont vous détenez les droits d'administrateur sont listés. Si un projet attendu manque, vérifiez vos droits dessus dans Catenda Hub plutôt que dans le portail.
-
-Chaque projet est listé avec son propriétaire et un compte des Documents et Sujets actuellement en attente d'archivage.
-
-Cliquez sur **Gérer l'Archive** sur un projet pour l'ouvrir. Ce que la page du projet vous montre à partir de là est décrit dans [Page de Contenu du Projet dans le Portail d'Archivage](https://support.catenda.com/fr/articles/16968871-page-de-contenu-du-projet-dans-le-portail-d-archivage), que seuls les utilisateurs ayant accès au Portail d'Archivage peuvent lire.
-
-> **Remarque :** Le portail détermine les projets à afficher en vérifiant vos appartenances aux Équipes. Si cette vérification échoue, il vous indique que certains projets peuvent ne pas être visibles, plutôt que d'afficher discrètement une liste courte.
-
-## 3. **Les commandes en haut à droite**
-
-Trois commandes se trouvent en haut à droite, et cette page est le premier endroit où vous les rencontrez. Elles restent disponibles une fois que vous ouvrez un projet.
-
-**Langue** Le portail est disponible en anglais et en norvégien Bokmål, et le sélecteur de langue bascule entre les deux.
-
-**Statistiques** **Afficher les Statistiques** ouvre un résumé de ce qui a été archivé dans tous les projets. L'icône n'est affichée que pour les propriétaires d'organisation, et elle prend la place de l'icône d'engrenage que montre une page de projet. Cette page est décrite dans [Page des Statistiques du Portail d'Archivage](https://support.catenda.com/fr/articles/16968884-page-de-statistiques-du-portail-d-archivage), et les chiffres par projet dans [Page des Paramètres du Projet dans le Portail d'Archivage](https://support.catenda.com/fr/articles/16968883-page-parametres-du-projet-dans-le-portail-d-archivage). Ces deux articles ne sont disponibles que pour les utilisateurs ayant accès au Portail d'Archivage.
-
-**Déconnexion** Vous déconnecte du portail.
-
-> **Remarque :** Le sélecteur de langue modifie l'interface propre du portail. Il ne modifie pas les noms des Étiquettes que vous avez définis dans Catenda Hub, qui restent comme ils sont écrits là. Même l'interface anglaise fait référence à l'étiquette d'archive par son nom norvégien, `Arkivverdig`.
 
 # Page Rapports
 
@@ -19406,32 +19210,6 @@ Ici, vous verrez les topics où le document [a été lié](https://support.caten
 Voici à quoi peut ressembler le topic lorsque vous enregistrez plusieurs markups dans le même topic :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/12-br-save-all-markups-to-one-topic.png)
-
-# Systèmes d'archivage et numéros de projet dans le portail d'archivage
-
-> Quel système d'archivage externe le portail soumet, et quel schéma de numérotation de projet il enregistre.
-
-Les autres articles du portail d'archivage décrivent le système d'archivage et le numéro de projet en termes généraux, car ce qui se cache derrière dépend de l'organisation. Cet article nomme ce que le portail supporte actuellement.
-
-## 1. **Le système d'archivage : WebSak+**
-
-Le portail soumet à **WebSak+**, le système d'archivage fourni par **Acos**.
-
-Une soumission ne va pas directement dans WebSak+. Le portail assemble les métadonnées de l'élément en XML et les transmet au service de soumission d'Acos, qui effectue l'archivage. La référence que ce service retourne est ce que l'onglet **Archivé** affiche sous **Ref ACOS**, donc citez-la quand vous avez besoin de demander des informations sur un élément archivé spécifique.
-
-C'est aussi pourquoi les raisons d'échec sur l'onglet **Archivé** sont formulées comme des limites de l'archive réceptrice : au maximum 50 fichiers et au maximum 2300 Mo par soumission.
-
-## 2. **Numérotation de projet : Agresso**
-
-Le **numéro de projet** dans **Paramètres** est un **numéro de projet Agresso**, composé de 8 caractères.
-
-> **Important :** Le numéro est saisi dans le portail car c'est le numéro enregistré dans le projet dans WebSak+. Il n'y a aucune connexion entre le portail d'archivage et Agresso lui-même. Rien n'est lu ou écrit dans Agresso, et aucune validation n'est effectuée par rapport à celui-ci, alors saisissez le numéro avec soin. Le portail ne peut pas vous dire qu'il est incorrect.
-
-## 3. **Tout le reste**
-
-Le portail est construit pour les données de projet openBIM dans Catenda Hub, donc les documents et sujets qu'il propose proviennent de Catenda Hub et nulle part ailleurs.
-
-Pour extraire les données du projet de Catenda Hub d'autres façons, y compris les exportations, les formats à long terme et l'option d'archive gelée, voir [Exportation de toutes les données du projet](https://support.catenda.com/fr/articles/7946690-exporter-toutes-les-donnees-du-projet).
 
 # Sélecteur de révision
 

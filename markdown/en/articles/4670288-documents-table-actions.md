@@ -82,11 +82,11 @@ After both selecting document(s) in the documents section of the content panel a
 
 ### 2.4 **Report**
 
-The reporting tool can be requested to be activated on a per project basis. With the report action you will be able to create a report of your selected documents.
+With the report action you will be able to create a report of your selected documents. This action is only available on projects where the reports page has been enabled. The reports page can be requested to be enabled on a per project basis.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) to read more about the report action. _Access required:_ Read access to the document
+Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_ to read more about the report action. _Access required:_ Read access to the document
 
 ### 2.5 **Publish**
 

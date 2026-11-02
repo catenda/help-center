@@ -6,8 +6,6 @@ The reports page can be found as the sixth item in the navigation menu. This pag
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
-This article contains information about the following topics: [Search or filter](https://With%20the%20reports%20page%20template%20reports%20can%20be%20created%20in%20a%20report%20editor.Separate%20templates%20can%20be%20created%20for%20topics%20and%20documents.%20%20When%20a%20template%20is%20available%20in%20a%20project%20the%20report%20action%20can%20be%20used%20with%20selected%20topics%20and%20documents%20to%20generate%20a%20report%20based%20on%20the%20selected%20template.) - [Right menu](#h_418e23701b)
-
 ## 1. **Search or filter options**
 
 See [here](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page) to find out how best to search or filter in the reports table
@@ -52,7 +50,7 @@ Click [here](https://support.catenda.com/en/articles/4670288-documents-table-act
 
 ### 3.2 **Row content**
 
-**Access** Rows on the reports page are displayed based on the access to the element. _Access required -_ Read
+**Access** Rows on the reports page are displayed based on the access to the element. _Access required:_ Read
 
 **Folder row** Opening the content of a folder row changes the table to display the contents of that folder in the reports table.
 
@@ -64,15 +62,15 @@ Opening the content of a report row with only draft revisions opens the [report 
 
 ### 3.4 **Row content with status workflow - Workspace tab**
 
-**Access** Rows on the reports page are displayed based on the access to the element. With access to viewing shared revisions, the latest revision is displayed. _Access required_ - Access to viewing shared revisions in the report
+**Access** Rows on the reports page are displayed based on the access to the element. With access to viewing shared revisions, the latest revision is displayed. _Access required:_ Access to viewing shared revisions in the report
 
-Without access to viewing shared revisions, the latest published revision is displayed. Even if there are more recent shared revisions. _Access required -_ Read access to the report
+Without access to viewing shared revisions, the latest published revision is displayed. Even if there are more recent shared revisions. _Access required:_ Read access to the report
 
 **Report content** Opening the content of a report row in the workspace tab opens the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) of the latest shared revision, even if revisions in the report were previously published.
 
 ### 3.5 **Row content with status workflow -** Published tab
 
-**Access** Rows on the reports page are displayed based on the access to the element. Report rows with at least one published revision are displayed. _Access required -_ Read
+**Access** Rows on the reports page are displayed based on the access to the element. Report rows with at least one published revision are displayed. _Access required:_ Read
 
 **Report content** Opening the content of a report row in the published tab opens the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) of the latest published revision of the report, even if there are newer shared revisions.
 

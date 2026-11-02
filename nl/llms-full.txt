@@ -4467,32 +4467,6 @@ Klik op het downloadpictogram rechtsboven in het revisiemenu of download in het 
 
 Lees meer over het intrekken van revisies [hier](https://support.catenda.com/nl/articles/9711174-revisie-intrekken) _Vereiste toegang:_ Volledige toegang tot het document
 
-# Archiefsystemen en projectnummers in de archiveringsportal
-
-> Welk extern archiefsysteem de portal naar verzendt, en welk projectnummeringssysteem het registreert.
-
-De andere artikelen van de Archiving Portal beschrijven het archiefsysteem en het projectnummer in algemene termen, omdat wat erachter zit afhangt van de organisatie. Dit artikel noemt wat de portal momenteel ondersteunt.
-
-## 1. **Het archiefsysteem: WebSak+**
-
-De portal verzendt naar **WebSak+**, het archiefsysteem geleverd door **Acos**.
-
-Een indiening gaat niet direct naar WebSak+. De portal stelt de metagegevens van het item samen als XML en geeft deze aan de inzendingsservice van Acos, die de archivering uitvoert. De referentie die die service retourneert, is wat het tabblad **Gearchiveerd** onder **ACOS Ref** weergeeft, dus citeer deze wanneer u vragen hebt over één specifiek gearchiveerd item.
-
-Dit is ook de reden waarom de foutredenen op het tabblad **Gearchiveerd** worden geformuleerd als limieten van het ontvangende archief: maximaal 50 bestanden en maximaal 2300 MB per indiening.
-
-## 2. **Projectnummering: Agresso**
-
-Het **projectnummer** in **Instellingen** is een **Agresso-projectnummer**, 8 tekens lang.
-
-> **Belangrijk:** Het nummer wordt in de portal ingevoerd omdat het het nummer is dat in WebSak+ tegen het project is geregistreerd. Er is geen verbinding tussen de Archiving Portal en Agresso zelf. Er wordt niets uit Agresso gelezen of ernaar geschreven, en er wordt geen validatie tegenaan uitgevoerd, dus voer het nummer zorgvuldig in. De portal kan u niet zeggen dat het fout is.
-
-## 3. **Al het overige**
-
-De portal is gebouwd voor openBIM-projectgegevens in Catenda Hub, dus de documenten en onderwerpen die deze aanbiedt, komen uit Catenda Hub en nergens anders vandaan.
-
-Voor het op andere manieren uit Catenda Hub halen van projectgegevens, inclusief exports, langetermijnformaten en de bevroren archiefoptie, zie [Al projectgegevens exporteren](https://support.catenda.com/nl/articles/7946690-alles-projectgegevens-exporteren).
-
 # BCF-workflow gebruiken met Naviate voor Revit
 
 **BCF van Revit met Naviate naar Bimsync.**
@@ -13993,161 +13967,99 @@ Naam - De naam van het eigen veld Type - Het type van het eigen veld Beschrijvin
 
 Nadat u een eigen veld hebt gemaakt, kan het veld worden toegevoegd aan [Topics in een Topic board](https://support.catenda.com/nl/articles/6563368-aangepaste-velden-in-een-topic-board) of als waarden in een [naamgevingsconventie](https://support.catenda.com/nl/articles/7869240-aangepaste-velden-gebruiken-in-naamgevingsconventie).
 
-# Pagina Goedkeuringen
+# Beoordelingspagina
 
-De pagina Goedkeuringen is te vinden als een subpagina van de [pagina Documenten](https://support.catenda.com/nl/articles/8204673-documentenpagina) in het linkernavigatiemenu. Hier vindt u een overzicht van de goedkeuringsaanvragen in het project.
+De beoordelingspagina is te vinden als een subpagina van de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina) in het linkermenu. De beoordelingspagina is standaard verborgen en wordt zichtbaar wanneer de statusworkflow is geactiveerd in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld. Hier vindt u een overzicht van de beoordelingsverzoeken in het project.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Dit artikel bevat informatie over de volgende onderwerpen: _[Inschakelen](#h_263c9d1268) - [Acties](#h_39a97bd06a) - [Zoeken/filter](#h_95652579ee) - [Goedkeuringenlijst](#h_aa4dfe69f5) - [Rijen](#h_76de8831a3) - [Goedkeuringsaanvraagkaarten](#h_e99a80135a) -_ [Tabbladen Goedkeuringsaanvragen en Documentrevisies](#h_aae5976a1d)
+Dit artikel bevat informatie over de volgende onderwerpen:
 
-Op de pagina Goedkeuringen kan het volgende worden gedaan:
+_[Zoeken of filteren](https://support.catenda.com/nl/articles/12495047-pagina-goedkeuringen#h_95652579ee) - [Beoordelingenlijst](https://support.catenda.com/nl/articles/12495047-pagina-goedkeuringen#h_aa4dfe69f5) - [Rijinhoud](https://support.catenda.com/nl/articles/12495047-pagina-goedkeuringen#h_76de8831a3) - [Beoordelingsverzoekkaarten](https://support.catenda.com/nl/articles/12495047-pagina-goedkeuringen#h_e99a80135a)_
 
-- Elke goedkeuringsaanvraag kan door het team worden beoordeeld en gevalideerd voordat een eindvalidatie bepaalt of de revisies die goedkeuring aanvragen, al dan niet moeten worden goedgekeurd.
-- Configuratie van het verloop en de uitkomst van een goedkeuring kan worden uitgevoerd.
-- Nieuwe goedkeuringen kunnen worden aangemaakt.
+Projecten waar gedeelde revisies vóór 2 oktober 2025 zijn ingeschakeld, zien in plaats daarvan de [verouderde beoordelingspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy). Op de beoordelingspagina kunt u het volgende doen:
 
-## 1. **De pagina Goedkeuringen inschakelen**
+- Elk beoordelingsverzoek kan door het team worden gecontroleerd en gevalideerd voordat een definitieve validatie bepaalt of de revisies die moeten worden goedgekeurd, al dan niet moeten worden goedgekeurd.
+- Configuratie van het verloop en de uitkomst van een beoordeling kan worden aangebracht.
+- Nieuwe beoordelingen kunnen worden gemaakt.
 
-De pagina Goedkeuringen is standaard verborgen. Schakel gedeelde revisies in in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) om de pagina Goedkeuringen zichtbaar te maken. _Vereiste toegang:_ Projectbeheerder
+## 1. **Zoek- of filteropties**
 
-> **Opmerking:** In projecten waar gedeelde revisies vóór 2 oktober 2025 werden ingeschakeld, wordt in plaats daarvan de [verouderde goedkeuringenpagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) weergegeven.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
 
-### 1.1 **Inschakelen vanuit sjabloonproject**
+Klik [hier](https://support.catenda.com/nl/articles/12495060-filteren-op-de-goedkeuringspagina) om meer te lezen over filteren op de goedkeuringspagina.
 
-Projecten die zijn gemaakt op basis van een templateproject waarin gedeelde statusses waren ingeschakeld, krijgen gedeelde statusses ingeschakeld en de goedkeuringspagina wordt weergegeven bij aanmaak. De goedkeuringswerkflows en onderwerpsjablonen van het templateproject worden overgedragen naar het nieuwe project, zodat deze niet opnieuw hoeven te worden gemaakt voordat leden goedkeuringsaanvragen kunnen indienen.
+## 2. **Beoordelingenlijst**
 
-## 2. **Nieuwe item-acties**
+Projecten die zijn gemaakt op basis van een sjabloonproject bevatten de goedkeuringworkflows en onderwerpssjablonen van dat sjabloonproject. Elke rij in de goedkeuringlijst bevat een goedkeuringskaart met visuele aanwijzingen over de inhoud van elke goedkeuringsaanvraag.
 
-De nieuwe item-acties zijn te vinden in de rechterbovenhoek van de pagina.
+Dit is hoe een beoordelingsverzoek met volledige activiteit eruit kan zien:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
 
-### 2.1 **Nieuwe goedkeuringsaanvraag**
+Activiteit die in de beoordeling plaatsvindt, wordt weergegeven met aantallen en pictogrammen op de beoordelingskaart.
 
-Klik [hier](https://support.catenda.com/nl/articles/12495005-een-nieuw-goedkeuringsverzoek-maken) voor meer informatie over het aanmaken van een nieuwe goedkeuringsaanvraag.
+**Vereiste toegang:** Lid van indiener, controleur of definitief beoordelingsteam van beheerder.
 
-**Vereiste toegang:** Een lid moet deel uitmaken van een indienerteam in een geconfigureerde werkstroom om een nieuwe goedkeuringsaanvraag in te kunnen dienen.
+## 3. **Rijinhoud**
 
-## 3. **Opties voor zoeken of filteren**
+### 3.1 **Open of gesloten beoordelingsrij**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
+Als u de inhoud van een beoordelingsverzoekrij opent die onder controle of gesloten is, wordt de [beoordelingspagina](https://support.catenda.com/nl/articles/12494960-open-of-gesloten-goedkeuringsverzoekaanvraag) voor die beoordeling geopend.
 
-Klik [hier](https://support.catenda.com/nl/articles/12495060-filteren-op-de-goedkeuringspagina) voor meer informatie over het filteren op de pagina Goedkeuringen.
+### 3.2 **Conceptbeoordelingsrij**
 
-## 4. **Goedkeuringenlijst**
+Voor conceptbeoordelingen wordt in plaats daarvan de [pagina conceptbeoordelingsverzoek](https://support.catenda.com/nl/articles/12495175-pagina-voor-conceptgoedkeuringsverzoe) geopend.
 
-Goedkeuringskaarten met visuele aanwijzingen over de inhoud van elke goedkeuringsaanvraag waarvan een lid deel uitmaakt, worden weergegeven in de goedkeuringenlijst.
+## 4. **Beoordelingsverzoekkaarten**
 
-Dit is hoe een goedkeuringsaanvraag met volledige activiteit er kan uitzien:
+### 4.1 **Titel**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
+Beoordelingstitel
 
-Activiteit die in de goedkeuring plaatsvindt, wordt met aantallen en pictogrammen op de goedkeuringskaart weergegeven.
+### 4.2 **Conceptstatus**
 
-**Vereiste toegang:** De zichtbaarheid van aanvragen is op rol gebaseerd: projectleden kunnen alleen aanvragen zien die zij persoonlijk hebben ingediend, actieve aanvragen die zijn toegewezen aan een beoordelaars- of eindbeoordelaersteam waarvan zij lid zijn, of alle projectaanvragen in het geval van projectbeheerders.
+Wanneer een beoordelingsverzoek de status concept heeft, is het alleen zichtbaar voor de persoon die het concept op de beoordelingspagina heeft gemaakt.
 
-- Voor gedetailleerde operationele procedures voor het indienen van revisies, het toevoegen van beoordelingsmarkeringen en het verwerken van stapvalidaties of eindbesluiten, leest u meer [hier](https://www.google.com/search?q=).
-- Voor administratieve richtlijnen over het configureren van goedkeuringssjablonen, het beheren van vergrendelde parameters en het oplossen van verbroken afhankelijkheden, leest u meer [hier](https://www.google.com/search?q=).
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
 
-## 5. **Documentrevisieslijst**
+Het beoordelingsverzoek is niet zichtbaar in het beoordelingenmenu van het rechtermenu van een revisie.
 
-Het tweede tabblad biedt u een overzicht van alle documenten die worden gecontroleerd in alle geopende goedkeuringen.
+### 4.3 **Status open beoordeling**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
+Wanneer een beoordelingsverzoek de status open heeft, is het zichtbaar voor alle leden die onderdeel uitmaken van teams die bij het verzoek betrokken zijn. Beweeg de muisaanwijzer over statussen van beoordelingen die door meer dan één team worden beoordeeld om een pop-up te openen die aangeeft welk team nog hun beoordeling in de huidige beoordelingsstap moet indienen.
 
-De tabel geeft het volgende weer:
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
 
-1. de naam van de revisie
-2. het revisienummer
-3. de huidige beoordelingsstap
-4. de huidige status van de stap
-5. de einddatum voor de beoordeling van de stap
-6. de teams die het document nog moeten controleren
-7. de naam van de goedkeuringsaanvraag
-8. de indiener (individueel en team)
-9. de indieningsdatum
+Beoordelingsteams die al hun beoordeling hebben gegeven, worden niet in deze lijst weergegeven of geteld in het aantal teams waardoor de beoordelingsstap momenteel wordt beoordeeld.
 
-### 5.1 Filteren
+Rechts van de status van de open beoordeling worden de datum en tijd weergegeven waarop de beoordelingsstap moet worden beoordeeld. Als automatisch goedkeuren is geconfigureerd voor deze stap, gaat de beoordeling automatisch naar de volgende stap op deze datum en tijd.
 
-Met het linkerfilterpaneel kunt u de documenten ook filteren op:
+### 4.4 **Gesloten status**
 
-1. Toewijzing: alle teams of specifiek uw team
-2. Documentstatus: In behandeling, Onder controle, Voltooid
-3. Einddatum: alles, komend, verlopen
+Wanneer een beoordelingsverzoek zijn definitieve beoordelingsstap bereikt, blijft het open. Op basis van de goedkeuringen en afwijzingen gegeven door elk van de teams in elk van de beoordelingsstappen kan een lid van het definitieve beoordelingsteam zijn definitieve goedkeuring of afwijzing geven. Wanneer het beoordelingsverzoek definitief wordt goedgekeurd of afgewezen door een lid van het definitieve beoordelingsteam, wordt het gesloten.
 
-### 5.2 Sorteren
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
 
-Tot slot kunt u sorteren op:
+### 4.5 **Workflow**
 
-1. Revisienaam
-2. Status
-3. Einddatum
-4. Indieningsdatum
+De workflow die door de beoordeling wordt gevolgd
 
-### 5.3 Zoeken
+### 4.6 **Aangemaakt door**
 
-Met de tekstzoekopdracht kunt u zoeken op revisienaam en naam van de goedkeuringsaanvraag.
+Het lid dat de beoordeling heeft gemaakt en de datum en tijd waarop het is gemaakt.
 
-## 6. **Rij-inhoud**
+### 4.7 **Definitieve goedkeuring**
 
-### 6.1 **Open of gesloten goedkeuringrij**
+Het definitieve beoordelingsteam dat het laatste woord zal hebben over de publicatie van de gedeelde documenten in de beoordeling, geïnformeerd door de beoordelingen die door de indieningsteams in elk van de beoordelingsstappen zijn ingediend.
 
-Het openen van de inhoud van een goedkeuringrij die onder controle is of gesloten, opent de [goedkeuringspagina](https://support.catenda.com/nl/articles/12494960-open-of-gesloten-goedkeuringsverzoekaanvraag) voor die goedkeuring.
+### 4.8 **Beoordelingsnummer**
 
-### 6.2 **Concept-goedkeuringrij**
+Het nummer van de beoordeling
 
-Voor conceptgoedkeuringen wordt in plaats daarvan de [pagina voor conceptgoedkeuringsaanvraag](https://support.catenda.com/nl/articles/12495175-pagina-voor-conceptgoedkeuringsverzoe) geopend.
+### 4.9 **Pictogrammen onderaan**
 
-## 7. **Goedkeuringsaanvraagkaarten**
-
-### 7.1 **Titel**
-
-Goedkeuringtitel
-
-### 7.2 **Conceptstatus**
-
-Wanneer een goedkeuringsaanvraag de status concept heeft, is deze alleen zichtbaar voor de persoon die het concept heeft aangemaakt op de pagina Goedkeuringen.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
-
-De goedkeuringsaanvraag is niet zichtbaar in het goedkeuringenmenu van het rechtermenu van een revisie.
-
-### 7.3 **Open goedkeuringsstatus**
-
-Wanneer een goedkeuringsaanvraag de status open heeft, is deze zichtbaar voor alle leden die deel uitmaken van teams die bij de aanvraag betrokken zijn. Plaats de muis over statussen van goedkeuringen die door meer dan één team onder controle zijn om een pop-up te openen die aangeeft welk team nog hun beoordeling in de huidige beoordelingsstap moet indienen.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
-
-Teams die hun beoordeling al hebben gegeven, verschijnen niet in deze lijst en tellen niet mee voor het aantal Teams dat de goedkeuringsstap momenteel onder review heeft.
-
-Rechts van de status van de openstaande goedkeuring worden de datum en tijd weergegeven waarop de goedkeuringsstap moet worden beoordeeld. Als automatische goedkeuring voor deze stap is ingesteld, gaat de goedkeuring op deze datum en tijd automatisch naar de volgende stap.
-
-### 7.4 **Afgesloten status**
-
-Wanneer een goedkeuringsverzoek zijn definitieve goedkeuringsstap bereikt, blijft het open. Op basis van de goedkeuringen en afwijzingen gegeven door elk van de Teams in elk van de goedkeuringsstappen, kan een lid van het definitieve goedkeuringsteam zijn definitieve goedkeuring of afwijzing geven. Wanneer het goedkeuringsverzoek uiteindelijk wordt goedgekeurd of afgewezen door het lid van het definitieve goedkeuringsteam, wordt het gesloten.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
-
-### 7.5 **Werkstroom**
-
-De werkstroom die door de goedkeuring wordt gevolgd
-
-### 7.6 **Gemaakt door**
-
-Het lid dat de goedkeuring heeft gemaakt en de datum en tijd waarop dit is gebeurd.
-
-### 7.7 **Definitieve goedkeuring**
-
-Het definitieve goedkeuringsteam dat het laatste woord zal hebben over het publiceren van de gedeelde Documenten in de goedkeuring, geïnformeerd door de beoordelingen ingediend door de inzendteams in elk van de goedkeuringsstappen.
-
-### 7.8 **Goedkeuringsnummer**
-
-Het nummer van de goedkeuring
-
-### 7.9 **Pictogrammen onderaan**
-
-De huidige beoordelingsstap van de werkstroom die de goedkeuring volgt. Het totale aantal stappen dat de goedkeuring moet voltooien voordat de goedkeuring definitief is. Alleen zichtbaar bij openstaande en afgesloten goedkeuringen. Het aantal Documenten in de goedkeuring ongeacht de toegangsinstellingen.
+De huidige beoordelingsstap van de workflow die de beoordeling volgt. Het totale aantal stappen dat de beoordeling moet voltooien voordat de beoordeling is afgerond. Alleen zichtbaar op open en gesloten beoordelingen. Het aantal documenten in de beoordeling ongeacht toegangsinstellingen.
 
 # Pagina instellingen topic board
 
@@ -15758,66 +15670,6 @@ Het is mogelijk om annotaties van twee vergeleken pdf-revisies te maken. Deze an
 
 ![Afbeeldingsvoorbeeld](https://raw.githubusercontent.com/catenda/help-center/main/images/67ras162/01-annotations-with-compared-documents.gif)
 
-# Projectenpagina op het Archiving Portal
-
-> Meld u aan bij het Archiving Portal en open een project. Alleen projecten waarvan u een beheerder bent, worden vermeld.
-
-Het Archiving Portal stelt u in staat documenten en Topics van Catenda Hub in het externe archiefsysteem van uw organisatie te archiveren. Het is bedoeld voor degenen die verantwoordelijk zijn voor archivering in een of meer projecten.
-
-Open het portal op [archiving.catenda.com](https://archiving.catenda.com) en klik op **Verbinding maken met Catenda Hub**. Het portal heeft geen eigen wachtwoord, dus u verifieert zich bij Catenda Hub en keert hier terug. Voor het account zelf, zie [Aanmeldingspagina](https://support.catenda.com/nl/articles/7891486-aanmeldingspagina).
-
-De projectenpagina kan er ongeveer zo uitzien:
-
-![](https://catenda.github.io/help-center-ops/images/h1mfgfs5/01-intro.png)
-
-## 1. **Hoe archivering werkt**
-
-Archivering verloopt in één richting, van Catenda Hub naar uw archiefsysteem van de organisatie. Het portal is de plaats waar u beslist wat er heen gaat en bevestigt dat het is aangekomen.
-
-### 1.1 **Wat archiveerbaar wordt**
-
-Wat gearchiveerd kan worden, wordt in Catenda Hub bepaald, niet in het portal. Een document wordt archiveerbaar wanneer het zich in een map bevindt met het archiefLabel, dit is het label met de naam `Arkivverdig`, tenzij uw project een eigen label definieert. Topics worden op dezelfde manier archiveerbaar, via hun topic board.
-
-Het portal houdt een eigen kopie van wat zich in Catenda Hub bevindt en vernieuwt deze ongeveer elke 30 minuten, dus iets dat u daar zojuist hebt gewijzigd, duurt even voordat het hier verschijnt.
-
-### 1.2 **Kiezen wat er heen gaat**
-
-Alles wat wacht, wordt vermeld op de eigen pagina van een project, met documenten en Topics op afzonderlijke tabbladen. Voor elk item kiest u of u het wilt archiveren, nu overslaan of nooit archiveren, en u kunt de metagegevens corrigeren of bijlagen toevoegen voordat het heen gaat.
-
-Een projectnummer moet worden ingesteld voordat iets kan worden gearchiveerd, omdat dit het nummer is waaronder het item in het archief wordt geregistreerd. Totdat dit is ingesteld, zegt het portal u dit in plaats van archivering.
-
-### 1.3 **Verzenden en wat terugkomt**
-
-Verzenden geeft het item aan het archiefsysteem door, dat het opslaat en een referentie retourneert. Het portal registreert die referentie tegen het item, dus alles wat is gearchiveerd, kan worden teruggevonden tot de kopie in het archief.
-
-Alles wat mislukt, wordt geregistreerd met de reden waarom het mislukte, en kan opnieuw worden verzonden, hetzij één item tegelijk hetzij voor het hele project tegelijk.
-
-> **Opmerking:** De artikelen die elk van deze stappen in detail beschrijven, zijn alleen beschikbaar voor gebruikers met toegang tot het Archiving Portal. Voor informatie over welk archiefsysteem het portal naar verzendt, raadpleeg [Archiefsystemen en projectnummers in het Archiving Portal](https://support.catenda.com/nl/articles/16968887-archiefsystemen-en-projectnummers-in-de-archiveringsportal).
-
-## 2. **Uw projecten**
-
-Na aanmelding komt u terecht op **Uw projecten**.
-
-Alleen projecten waarvoor u beheerdersrechten hebt, worden vermeld. Als een project dat u verwacht ontbreekt, controleert u uw rechten daarop in Catenda Hub in plaats van in het portal.
-
-Elk project wordt vermeld met de eigenaar en een aantal documenten en Topics die momenteel wachten om te worden gearchiveerd.
-
-Klik op **Archief beheren** op een project om dit te openen. Wat de projectpagina u vervolgens toont, wordt beschreven in [Projectinhoudenspagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968871-projectcontentpagina-in-de-archief-portal), die alleen door gebruikers met toegang tot het Archiving Portal kan worden gelezen.
-
-> **Opmerking:** Het portal bepaalt welke projecten moeten worden weergegeven door uw teamlidmaatschappen te controleren. Als die controle mislukt, zegt het u dat sommige projecten mogelijk niet zichtbaar zijn, in plaats van stilzwijgend een korte lijst weer te geven.
-
-## 3. **De besturingselementen rechtsboven**
-
-Drie besturingselementen staan rechtsboven, en deze pagina is de eerste plaats waar u eraan ontmoet. Ze blijven beschikbaar zodra u een project opent.
-
-**Taal** Het portal is beschikbaar in het Engels en Noors Bokmål, en de taalverlener schakelt daartussen.
-
-**Statistieken** **Statistieken weergeven** opent een samenvatting van wat in elk project is gearchiveerd. Het pictogram wordt alleen weergegeven voor eigenaren van organisaties en vervangt het tandwielpictogram dat een projectpagina weergeeft. Die pagina wordt beschreven in [Statistiekenpagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968884-statistiekenpagina-in-het-archivering-portal), en de cijfers per project in [Projectinstellingenpagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968883-projectinstellingenpagina-in-de-archiveringsportal). Beide artikelen zijn alleen beschikbaar voor gebruikers met toegang tot het Archiving Portal.
-
-**Afmelden** Meldt u af van het portal.
-
-> **Opmerking:** De taalverlener verandert de interface van het portal zelf. De namen van de labels die u in Catenda Hub instelt, worden niet gewijzigd, maar blijven zoals ze daar zijn geschreven. Zelfs de Engelse interface verwijst naar het archiefLabel bij zijn Noorse naam, `Arkivverdig`.
-
 # Projectnotificatiepagina
 
 U vindt de projectnotificatiepagina als de zesde pagina van het linkernavigatiemenu van een project. Deze pagina maakt deel uit van het contentpaneel.
@@ -16272,80 +16124,6 @@ Hier ziet u de verschillende query's die u in deze sessie hebt geladen. Als u ee
 ## 6. **Query's opslaan**
 
 Als u uw query wilt opslaan om later verder mee te werken, maakt u een 3D-snapshot in het commentaargedeelte van een topic of maakt u een bladwijzer. Als u in uw volgende Catenda-sessie verder met uw query wilt werken, kunt u de bladwijzer of snapshot afspelen.
-
-# Rapportactie maken
-
-De rapportactie is beschikbaar voor projecten waar de opt-in rapportfunctie is aangevraagd. Wanneer de rapportfunctie op een project is ingeschakeld, wordt de Rapportactie maken beschikbaar in de tabelacties voor Documenten en Topics. Selecteer een of meer elementen in de Documenten tabel en open het [menu voor documenttabelacties](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel). Selecteer een of meer elementen in de Topics tabel en open het [menu voor topictabelacties](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen). Dit is hoe de rapportactie maken eruit kan zien:
-
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-ef841bc1c2c3.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-0c1ebf646ff6.png" width="290"/>
-
-## 1. Exportopties kiezen
-
-Wanneer de rapportactie maken wordt aangeklikt, wordt het dialoogvenster rapport genereren geopend:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/01-choose-export-options.png)
-
-> **Opmerking:** Voor rapporten die zijn gemaakt op geselecteerde items in de Documenten tabel, let op dat alleen documentitems in het rapport zijn opgenomen en geen mapitems.
-
-### 1.1 **Geselecteerd**
-
-Geeft het aantal geselecteerde elementen weer (mappen voor documentrapporten uitgesloten)
-
-### 1.2 **Huidig filter**
-
-Geeft het aantal elementen weer dat overeenkomt met het huidige filter. Het aantal omvat mapitems voor documentrapporten, hoewel deze niet in het rapport zijn opgenomen
-
-### 1.3 **Doorgaan**
-
-Klik Doorgaan om het rapport op de rapportenpagina te openen.
-
-## 2. Nieuwe rapportpagina
-
-Dit is hoe de nieuwe rapportpagina eruit kan zien:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/02-new-report-page.png)
-
-### 2.1 **Rapporttemplate selecteren**
-
-Kies een voorgedefinieerd rapport op basis van de lijst met rapporttemplates die de projectbeheerder in het project beschikbaar heeft gesteld. Voor rapporten die vanuit de Documenten tabel zijn gemaakt, selecteert u uit een lijst met beschikbare documenttemplates. Voor rapporten die vanuit de Topics tabel zijn gemaakt, selecteert u uit een lijst met beschikbare topictemplates.
-
-### 2.2 **Nieuwe rapportwerkbalk**
-
-**Opslaan** Dit is hoe het opslaan-menu eruit kan zien:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/03-new-report-toolbar.png)
-
-> **Opmerking:** Zorg ervoor dat de browserschaal op de juiste schaal is ingezoomd om het volledige menu te zien.
-
-Hetzelfde rapport kan als elk beschikbaar bestandstype worden opgeslagen. De beschikbare bestandsindelingen zijn:
-
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 197px; padding: 8px;"><h3 id="h_c78caefe80"><b>Beschikbare bestandstypes</b></h3></td><td style="background-color: #e3e7fa80; width: 77px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_682e4fccfb">Standaard</h3></td><td style="background-color: #e3e7fa80; width: 97px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_457a2022bf">Standaardversie</h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_2686400f9a">Catenda-voorbeeld</h3></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7d366f10d0">Adobe PDF</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pdf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>PDF/A-1<br/>PDF/A-2<br/>PDF/A-3</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_94e4483855">Microsoft PowerPoint</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pptx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bbed4e09ef">HTML</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.html</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>HTML<br/>HTML5</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Raadpleeg het <a class="intercom-content-link" href="https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub">ondersteuningsartikel</a> </p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_619405a336">Tekst</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.txt</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_010bd11b0a">RTF</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.rtf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Raadpleeg het <a class="intercom-content-link" href="https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub">ondersteuningsartikel</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bc9ec295b0">Microsoft Word</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.docx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f4a5014703">OpenDocument Writer</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.odt</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_501a9a2af1">Microsoft Excel</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.xlsx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a247c33d74">OpenDocument Calc</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.ods</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa1a3a9285">Gegevens</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.CSV<br/>.DBF<br/>.XML<br/>.DIF<br/>.SYKL<br/>.JSON</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Raadpleeg het <a class="intercom-content-link" href="https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub">ondersteuningsartikel</a></p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d240bc4f64">Afbeelding</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.Bmp<br/>.Gif<br/>.Jpeg<br/>.Pcx<br/>.Png<br/>.Tiff<br/>.Svg<br/>.Svgz</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Raadpleeg het <a class="intercom-content-link" href="https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub">ondersteuningsartikel</a></p></td></tr></tbody></table></div>
-
-Klik op een indeling om het menu Exportinstellingen te openen.
-
-**Exportinstellingen** Dit is hoe het menu Exportinstellingen er voor de Adobe PDF-bestandsindeling uit kan zien:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/04-new-report-toolbar.png)
-
-Klik OK om het rapport als document ergens in de documentenbibliotheek op Catenda op te slaan, van waar het kan worden gedownload. _Rapportbestand opslaan_ Om het rapport te kunnen downloaden, moet het eerst ergens in de documentstructuur van Catenda worden opgeslagen. Kies de map waarin u het rapport wilt opslaan, wijzig de naam van uw rapport indien nodig en klik vervolgens op "Downloaden".
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/05-new-report-toolbar.png)
-
-Het menu Document opslaan onthoudt de eerder geselecteerde map en hoeft slechts eenmaal te worden geconfigureerd als dezelfde map telkens wordt gebruikt.
-
-### 2.3 **Rapportvoorbeeld**
-
-Een voorbeeld van het rapport wordt gegenereerd volgens de standaardtemplate.
-
-**Topicsrapport** Dit is hoe een topicsrapport eruit kan zien:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/06-report-preview.png)
-
-**Documenten rapport** Dit is hoe een documenten rapport eruit kan zien:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/07-report-preview.png)
-
-Rapporttemplates worden geconfigureerd op de pagina Rapporttemplates. _Toegang tot het opslaan van rapporten vereist:_ Leestoegang overal in het documentengebied. _Toegang tot templateconfiguratie vereist:_ Beheerder
 
 # Rapportenpagina
 

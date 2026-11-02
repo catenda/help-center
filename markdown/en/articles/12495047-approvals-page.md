@@ -32,7 +32,7 @@ The new item actions can be found on the top right of the page.
 
 Click [here](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) to read more about creating a new approval request.
 
-**Access required:** A member has to at be part of a submitter team in a configured workflow to be able to submit a new approval request.
+_Access required:_ Member of a submitter team in a configured workflow
 
 ## 3. **Search or filter options**
 
@@ -50,10 +50,20 @@ This is what an approval request with full activity can look like:
 
 Activity that occurs in the approval is displayed with amounts and icons on the approval card.
 
-**Access required:** Request visibility is role-based: project members can view only requests they personally submitted, active requests assigned to a reviewer or final reviewer team of which they are a member, or all project requests in the case of project administrators.
+Request visibility is role-based: project members can view only requests they personally submitted, active requests assigned to a reviewer or final reviewer team of which they are a member, or all project requests in the case of project administrators. _Access required:_ Project member, or project administrator to see all requests
 
 - For detailed operational procedures on submitting revisions, adding review markups, and processing step validations or final decisions, read more [here](https://www.google.com/search?q=).
 - For administrative guidance on configuring approval templates, managing locked parameters, and resolving broken dependencies, read more [here](https://www.google.com/search?q=).
+
+### 4.1 **Selected item actions**
+
+> **Note:** Create report is the only selected item action on the approvals page. The selected item actions menu is therefore only visible on projects with the reports page enabled.
+
+Selecting one or more approval requests in the approvals list shows the selected item actions at the top of the list. The checkbox at the top selects all approval requests in the list at once. This is what the selected item actions menu can look like:
+
+![The selected item actions menu on the approvals page, with one approval request selected and Create report](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
+
+**Create report** Creates a report of the selected approval requests, based on an approval template. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_.
 
 ## 5. **Document revisions list**
 

@@ -1,155 +1,93 @@
 # Gjennomgangsside
 
-Gjennomgangssiden finnes som en underside til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) i venstre navigasjonsmeny. Her finner du en oversikt over gjennomgangsforespørslene i prosjektet.
+Gjennomgangssiden finnes som en underside til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) i venstremenyen. Gjennomgangssiden er skjult som standard og vises når statusarbeidsflyten er aktivert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Her finner du en oversikt over gjennomgangsforespørslene i prosjektet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Denne artikkelen inneholder informasjon om følgende saker: _[Aktiver](#h_263c9d1268) - [Handlinger](#h_39a97bd06a) - [Søk/filtrer](#h_95652579ee) - [Gjennomgangsliste](#h_aa4dfe69f5) - [Rader](#h_76de8831a3) - [Gjennomgangsforespørselskort](#h_e99a80135a) -_ [Gjennomgangsforespørsler og dokumentrevisjoner-faner](#h_aae5976a1d)
+Denne artikkelen inneholder informasjon om følgende saker:
 
-På gjennomgangssiden kan følgende gjøres:
+_[Søk eller filtrer](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_95652579ee) - [Gjennomgangsliste](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_aa4dfe69f5) - [Radinnhold](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_76de8831a3) - [Gjennomgangskort](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_e99a80135a)_
 
-- Hver gjennomgangsforespørsel kan gjennomgås og valideres av teamet før en endelig validering avgjør om revisjonene som bes om å bli godkjent skal godkjennes eller ikke.
-- Konfigurasjon av forløp og utfall av en gjennomgang kan gjøres.
+Prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vil se [eldre gjennomgangsside](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) i stedet. På gjennomgangssiden kan du gjøre følgende:
+
+- Hver gjennomgangsforespørsel kan gjennomgås og valideres av teamet før en endelig validering avgjør om revisjonene som forespørres godkjent skal godkjennes eller ikke.
+- Konfigurasjon av forløp og resultat av en gjennomgang kan gjøres.
 - Nye gjennomganger kan opprettes.
 
-## 1. **Aktiver gjennomgangssiden**
+## 1. **Søk eller filtreringsalternativer**
 
-Gjennomgangssiden er skjult som standard. Aktiver delte revisjoner i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) for å avdekke gjennomgangssiden. _Nødvendig tilgang:_ Prosjektadministrator
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
 
-> **Merknad:** I prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vises [den gamle gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) i stedet.
+Klikk [her](https://support.catenda.com/nb/articles/12495060-filtrering-pa-godkjenningssiden) for å lese mer om filtrering på gjennomgingssiden.
 
-### 1.1 **Aktiver fra malprosjekt**
+## 2. **Gjennomgangsliste**
 
-Prosjekter som er opprettet basert på en malprosjekt der delt status var aktivert, vil ha delt status aktivert og godkjenningssiden vil vises ved opprettelse. Godkjenningsarbeidsflyten og saksmaler fra malprosjektet overføres til det nye prosjektet, slik at de ikke trenger å opprettes på nytt før medlemmer kan begynne å sende inn godkjenningsforespørsler.
-
-## 2. **Nye varhandlinger**
-
-De nye varhandlingene finnes i øvre høyre hjørne av siden.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
-
-### 2.1 **Ny gjennomgangsforespørsel**
-
-Klikk [her](https://support.catenda.com/nb/articles/12495005-opprette-en-ny-gjennomgang) for å lese mer om hvordan du oppretter en ny gjennomgangsforespørsel.
-
-_Nødvendig tilgang:_ Et medlem må være del av et innsendingsteam i en konfigurert arbeitsflyt for å kunne sende inn en ny gjennomgangsforespørsel.
-
-## 3. **Søk- eller filteralternativer**
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
-
-Klikk [her](https://support.catenda.com/nb/articles/12495060-filtrering-pa-godkjenningssiden) for å lese mer om filtrering på gjennomgangssiden.
-
-## 4. **Gjennomgangsliste**
-
-Gjennomgangskort med visuelle ledetråder om innholdet i hver gjennomgangsforespørsel som et medlem er del av, vises i gjennomgangslisten.
+Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmalene fra det malprosjektet. Hver rad i gjennomgangslisten inneholder et gjennomgangskort med visuelle indikatorer om innholdet i hver gjennomgingsforespørsel.
 
 Slik kan en gjennomgangsforespørsel med full aktivitet se ut:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
 
 Aktivitet som oppstår i gjennomgangen vises med mengder og ikoner på gjennomgangskortet.
 
-_Nødvendig tilgang:_ Forespørselvisibilitet er rollebasert: prosjektmedlemmer kan bare vise forespørsler de personlig sendte inn, aktive forespørsler tildelt en anmelder eller sluttanmelder-team de er medlem av, eller alle prosjektforespørsler for prosjektadministratorer.
+**Nødvendig tilgang:** Medlem av innsender-, anmelder- eller endelig vurderingsteam eller administrator.
 
-- For detaljerte operasjonelle prosedyrer for innsending av revisjoner, tillegg av vurderingsmerknader og behandling av trinnvalidering eller endelige beslutninger, les mer [her](https://www.google.com/search?q=).
-- For administrativ veiledning om konfigurering av gjennomgangsmaler, styring av låste parametere og løsing av brutte avhengigheter, les mer [her](https://www.google.com/search?q=).
+## 3. **Radinnhold**
 
-## 5. **Dokumentrevisjoner-liste**
+### 3.1 **Åpen eller lukket gjennomgangsrad**
 
-Den andre fanen lar deg få en oversikt over alle dokumenter som blir gjennomgått på tvers av alle åpne gjennomganger.
+Hvis du åpner innholdet i en gjennomgangsforespørselrad som er under gjennomgang eller lukket, åpnes [gjennomgangssiden](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel) for den gjennomgangen.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
+### 3.2 **Utkast gjennomgangsrad**
 
-Tabellen viser:
+For gjennomganger i utkast åpnes [utkast gjennomgangsforespørselssiden](https://support.catenda.com/nb/articles/12495175-side-for-utkast-til-gjennomgangsforesporsel) i stedet.
 
-1. revisjonens navn
-1. revisjonsnummeret
-1. gjeldende vurderingstrinn
-1. gjeldende trinns tilstand
-1. fristen for trinnets vurdering
-1. teamene som fortsatt må vurdere dokumentet
-1. gjennomgangsforespørselens navn
-1. innsender (person og team)
-1. innsendingsdatoen
+## 4. **Gjennomgangskort**
 
-### 5.1 Filtrering
+### 4.1 **Tittel**
 
-Også tillater det venstre filterpanelet deg å filtrere dokumentene etter:
+Gjennomgangtittel
 
-1. Tilordning: alle team eller ditt team spesifikt
-1. Dokumenttilstand: Venter, Under vurdering, Fullført
-1. Frist: alle, kommende, forfalte
+### 4.2 **Utkast status**
 
-### 5.2 Sortering
+Når en gjennomgangsforespørsel har statusen utkast, er den bare synlig for personen som opprettet utkastet på gjennomgangssiden.
 
-Til slutt kan du sortere etter:
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
 
-1. Revisjons navn
-1. Tilstand
-1. Frist
-1. Innsendingsdato
+Gjennomgangsforespørselen er ikke synlig i gjennomgangsmenyen på høyre meny for en revisjon.
 
-### 5.3 Søk
+### 4.3 **Åpen gjennomgangsstatus**
 
-Tekststøket lar deg søke etter revisjonsnavn og gjennomgangsforespørselsnavn.
+Når en gjennomgangsforespørsel har statusen åpen, er den synlig for alle medlemmer som er del av teams involvert i forespørselen. Hvis du holder musepekeren over statuser for gjennomganger som gjennomgås av mer enn ett team, åpnes et popup-vindu som viser hvilket team som ennå må sende inn sin gjennomgang i gjeldende gjennomgangstrinn.
 
-## 6. **Radinnhold**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
 
-### 6.1 **Åpen eller lukket gjennomgangsrad**
+Anmelderteam som allerede har gitt sin vurdering vises ikke i denne listen eller telles med i antallet teams som gjennomgangstrinnet for øyeblikket gjennomgås av.
 
-Åpning av innholdet i en gjennomgangsforespørselrad som er under vurdering eller lukket, åpner [gjennomgangssiden](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel) for den gjennomgangen.
+Til høyre for den åpne gjennomgangsstatusen vises datoen og klokkeslettet når gjennomgangstrinnet må gjennomgås. Hvis automatisk godkjennelse er konfigurert for dette trinnet, går gjennomgangen automatisk til neste trinn på denne datoen og klokkeslettet.
 
-### 6.2 **Utkast gjennomgangsrad**
+### 4.4 **Lukket status**
 
-For utkastgjennomganger åpnes [siden for gjennomgangsforespørsel i utkast](https://support.catenda.com/nb/articles/12495175-side-for-utkast-til-gjennomgangsforesporsel) i stedet.
+Når en gjennomgangsforespørsel når sitt endelige gjennomgangstrinn, forblir den åpen. Basert på godkjennelsene og avvisningene gitt av hvert av teamene i hvert av gjennomgangstrinnet, vil et medlem av det endelige gjennomgangssteamet kunne gi sin endelige godkjennelse eller avvisning. Når gjennomgangsforespørselen endelig godkjennes eller avvises av medlemmet i det endelige gjennomgangssteamet, blir den lukket.
 
-## 7. **Gjennomgangsforespørselskort**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
 
-### 7.1 **Tittel**
-
-Gjennomgangs tittel
-
-### 7.2 **Utkast-status**
-
-Når en gjennomgangsforespørsel har statusen utkast, er den kun synlig for personen som opprettet utkastet på gjennomgangssiden.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
-
-Gjennomgangsforespørselen er ikke synlig i gjennomgangmenyen til høyremenyen for en revisjon.
-
-### 7.3 **Åpen gjennomgang-status**
-
-Når en gjennomgangsforespørsel har statusen åpen, er den synlig for alle medlemmer som er del av team som er involvert i forespørselen. Hold musepekeren over statusen på gjennomganger som er under vurdering av mer enn ett team, for å åpne et vindu som viser hvilket team som fortsatt må sende inn sin vurdering i gjeldende vurderingstrinn.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
-
-Vurderingsteams som allerede har gitt sin vurdering vises ikke i denne listen eller regnes med i antallet teams som gjennomgangen for tiden er under vurdering av.
-
-Til høyre for statusen for åpen gjennomgang vises datoen og tiden som gjennomgangstrinnet må vurderes innen. Hvis auto-godkjennelse er konfigurert for dette trinnet, vil gjennomgangen automatisk gå til neste trinn på denne datoen og tiden.
-
-### 7.4 **Lukket status**
-
-Når en gjennomgangsforespørsel når sitt endelige gjennomgangstrinn, forblir den åpen. Basert på godkjenningene og avvisningene gitt av hvert team i hvert gjennomgangstrinn, vil et medlem av det endelige gjennomgangsteamet kunne gi sin endelige godkjenning eller avvisning. Når gjennomgangsforespørselen er endelig godkjent eller avvist av medlemmet av det endelige gjennomgangsteamet, vil den lukkes.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
-
-### 7.5 **Arbeidsflyt**
+### 4.5 **Arbeidsflyt**
 
 Arbeidsflyten som følges av gjennomgangen
 
-### 7.6 **Opprettet av**
+### 4.6 **Opprettet av**
 
-Medlemmet som opprettet gjennomgangen og datoen og tiden for når den ble opprettet.
+Medlemmet som opprettet gjennomgangen og datoen og klokkeslettet for når det ble opprettet.
 
-### 7.7 **Endelig gjennomgang**
+### 4.7 **Sluttgjennomgang**
 
-Det endelige gjennomgangsteamet som skal ha det endelige ordet om publiseringen av de delte dokumentene i gjennomgangen, informert av vurderingene som er sendt inn av innsendingsteamene i hvert gjennomgangstrinn.
+Det endelige gjennomgangssteamet som vil ha det endelige ordet om publisering av de delte dokumentene i gjennomgangen, informert av anmeldelsene sendt inn av innsenderteamene i hvert av gjennomgangstrinnet.
 
-### 7.8 **Gjennomgangnummer**
+### 4.8 **Gjennomgangsnummer**
 
 Nummeret på gjennomgangen
 
-### 7.9 **Ikoner nederst**
+### 4.9 **Ikoner nederst**
 
-Det gjeldende vurderingstrinnnet i arbeidsflyten som gjennomgangen følger. Det totale antallet trinn som gjennomgangen må fullføre før gjennomgangen er ferdigstilt. Bare synlig på åpne og lukkede gjennomganger. Antallet dokumenter i gjennomgangen uavhengig av tilgangsinnstillinger.
+Gjeldende gjennomgangstrinn i arbeidsflyten som gjennomgangen følger. Det totale antallet trinn gjennomgangen må gjennomføre før gjennomgangen blir avsluttet. Bare synlig på åpne og lukkede gjennomganger. Antall dokumenter i gjennomgangen uavhengig av tilgangsinnstillinger.

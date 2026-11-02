@@ -58,7 +58,7 @@ Topic data can be extracted using three primary formats via [exchange topics](ht
 
 **Excel** Exports topic parameters into a spreadsheet format for filtering, sorting, and data manipulation. This format provides structured rows and columns that are ideal for selecting and copying data, and Excel files can be easily previewed within most archiving platforms. For archiving purposes, the PDF export is generally preferred over Excel because it includes more information.
 
-**PDF** Generates a clean, readable summary report in standard PDF format (v1.4) accessible without specialized software (see [exporting topics to PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)). Standard PDF exports include a consolidated download timestamp for formal authority reporting and archiving, providing more information than an Excel export. While the base export generates a standard PDF (v1.4) file, which many archiving systems automatically convert to PDF/A upon upload for long-term previewing, direct export to native PDF/A-1, PDF/A-2, and PDF/A-3 formats is also available via the opt-in [Reports Page](https://support.catenda.com/en/articles/12303098-reports-page).
+**PDF** Generates a clean, readable summary report in standard PDF format (v1.4) accessible without specialized software (see [exporting topics to PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)). Standard PDF exports include a consolidated download timestamp for formal authority reporting and archiving, providing more information than an Excel export. While the base export generates a standard PDF (v1.4) file, which many archiving systems automatically convert to PDF/A upon upload for long-term previewing, projects with the opt-in [reports page](https://support.catenda.com/en/articles/12303098-reports-page) enabled can also export topics in archiving formats, as described in [Exporting project data with reports](https://support.catenda.com/en/articles/17779017-exporting-project-data-with-reports) _(report editor customers only)_.
 
 ### 2.3 **Exporting documents and collections**
 
@@ -112,50 +112,12 @@ Configure a dedicated administrative account with [project specific notification
 
 ### 2.7 **Reports Page (Opt-In Feature)**
 
-**Opt-in activation** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects. While no additional payment is required to use this tool, the project owner must agree to enable it on the project, meaning it is not active by default in many projects. Note that new projects created from template projects where reports are enabled do not automatically have this feature enabled.
+The [reports page](https://support.catenda.com/en/articles/12303098-reports-page) is an opt-in feature that can be requested for ongoing projects. Projects that have it enabled can also export document and topic data as formatted reports, including formats for long-term archiving.
 
-**Template-based management** When enabled, project administrators can use the [report templates page](https://support.catenda.com/en/articles/12380837-report-templates-page) to configure custom report templates and generate formatted exports for selected documents or topics.
+**Template-based management** When it is enabled, project administrators use the [report templates page](https://support.catenda.com/en/articles/12380837-report-templates-page) to set up report templates of their own, and generate formatted exports for selected documents or topics.
 
-**Document reports** Export document metadata and revision details for all selected files, including document name, revision name, latest revision number, status, custom fields, creator, uploader, and creation/upload timestamps.
-
-- **Key use cases**<br>Ideal for generating formal document delivery checklists to accompany a collection, or compiling structured document lists for data analysis.
-- **Model metadata & attributes**<br>While actual document file contents are not included, model metadata can be exported through document reports as models maintain links to the document section. Custom scripts within templates can also be used to derive additional attributes, such as extracting filetypes from document names.
-
-**Topic reports** Export overall topic headers as well as complete topic body details, including descriptions, comments, and embedded comment images.
-
-**Available export formats** Reports created from any template can be exported to multiple formats depending on your workflow requirements:
-
-- **PDF / PDF/A**<br>Generates clean formatted reports and directly supports native PDF/A compliance (PDF/A-1, PDF/A-2, and PDF/A-3) to meet strict long-term archiving and formal legal standards.
-- **Excel**<br>Exports structured tabular data into spreadsheet rows and columns, making it ideal for data manipulation and external analysis.
-- **Additional formats**<br>A wide range of additional file formats beyond PDF and Excel are also supported for export; the complete overview can be found in the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) article.
-
-**Centralized storage** Generated reports are listed directly within the reports table and automatically integrated into the main documents table for easy management.
+What can be exported, and in which file formats, is described in [Exporting project data with reports](https://support.catenda.com/en/articles/17779017-exporting-project-data-with-reports) _(report editor customers only)_.
 
 ## 3. **Catenda Data Export**
 
-Unlike standard user-driven downloads, Catenda Data Export is an automated, self-service solution designed to seamlessly transfer project data directly into an organization's cloud storage. If your organization is interested in enabling this feature, sales can be reached at [sales@catenda.com](mailto:sales@catenda.com). Once enabled, it provides automated backups directly between cloud environments without needing custom scripts, bypassing browser memory constraints, local drive storage limitations, and network interruptions through automated checksum verification.
-
-### 3.1 **Organization Roles & Permissions**
-
-Setting up and managing Catenda Data Export requires an **Organization Administrator**. Unlike an Organization Owner, whose administrative rights are restricted to a single organization, or standard project members, an Organization Administrator holds elevated access across all organizations belonging to an overarching account. This unique role grants the required cross-organization visibility and authority to configure and manage automated cloud exports.
-
-### 3.2 **Configuration Steps**
-
-Setting up automated data exports involves four main steps:
-
-1. **Select Destination**<br>Choose a cloud storage provider, Amazon Web Services (AWS) S3 or Microsoft Azure Blob storage, and configure authentication.
-1. **Define Scope & Data Formats**
-    - **Data Types**<br>Export documents, models, and topics. <br>Topic data can automatically be converted into readable PDF summary reports or standard BCF files during transfer.
-    - **Project Selection**<br>Choose all projects, hand-pick specific projects, or set up dynamic matching rules using project name patterns (glob or regular expression / regex) to automatically include new projects as they are created.
-1. **Select Export Mode**
-    - **Continuous Mode**<br>Ships data automatically on a daily schedule. <br>This recurring setup ensures non-owner project members maintain an updated backup up to the last daily run if project access ends unexpectedly.
-    - **Snapshot Mode**<br>Performs a one-off run to export a complete dataset at a specific milestone or project handoff.
-1. **Deploy**<br>Finalize and enable the export configuration by selecting Create.
-
-### 3.3 **Extracted Content & Integrity Verification**
-
-**Metadata & Custom Fields** Custom fields associated with documents and topics are exported alongside primary files as structured JSON files, ensuring full attribute retention without manual report generation.
-
-**Integrity Verification** Every export run generates a checksum file to verify that exported files match the source data in Catenda Hub and were transferred completely without network loss.
-
-**Organized Hierarchy** Exported files are automatically structured into folders organized by date, project name, and the exact folder hierarchy maintained in Catenda Hub.
+Catenda Data Export is sold separately from Catenda Hub. Unlike the downloads above, it copies project data automatically, straight from Catenda Hub to an organization's own cloud storage in Amazon S3 or Azure Blob storage. It suits organizations that want a backup that keeps up with their projects, or project records kept in their own storage. It is not only for project owners. A project owner can export a full backup of its projects, and a project participant can export what it has access to in the projects it takes part in. More about it is in [About Catenda Data Export](https://support.catenda.com/en/articles/17779020-about-catenda-data-export) _(for readers who are not signed in)_ and [Introduction to Catenda Data Export](https://support.catenda.com/en/articles/17779027-introduction-to-catenda-data-export) _(signed-in customers only)_. Customers who have it find the setup in [Catenda Data Export](https://support.catenda.com/en/articles/17779052-catenda-data-export) _(Data Export customers only)_.

@@ -49,7 +49,7 @@ If a document with the same name as your file does not exist yet in the folder y
 
 > **Note:** It is only possible to publish documents and not upload drafts
 
-After a file is published, users will be able to move, rename and delete the file. _Catenda Access required:_ Full access, usually given to users like the publisher or an administrator Changing the file on Catenda does not change anything on SharePoint. Likewise, if the file changes on SharePoint, nothing changes on Catenda.
+After a file is published, users will be able to move, rename and delete the file. _Catenda access required:_ Full access, usually given to users like the publisher or an administrator Changing the file on Catenda does not change anything on SharePoint. Likewise, if the file changes on SharePoint, nothing changes on Catenda.
 
 ## 2. **Catenda Webpart**
 

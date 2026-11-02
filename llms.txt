@@ -72,6 +72,11 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [3D viewer - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7744403-3d-viewer-catenda-site.md)
 - [3D Viewer settings](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5784718-3d-viewer-settings.md)
 - [3D viewer tool menu](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670294-3d-viewer-tool-menu.md): Describes the 3D viewer tools in Catenda Hub
+- [About Catenda AI Connect](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17778695-3abb6spn.md): Catenda AI Connect connects the AI an organization already uses, such as Claude, Microsoft Copilot or ChatGPT, to the Catenda Hub projects it takes part in. What it is, how it works and how to get started.
+- [About Catenda Desktop Connector for System Images](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17778686-v0ka4j3n.md): A version of the Catenda Desktop Connector for organizations that install software in an operating system image, which can be requested.
+- [About Catenda for Power BI (On Demand)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17778860-64t9azag.md): Catenda for Power BI brings Catenda Hub project data into Power BI. A next version, with visuals and a ready-made report template, is available on demand.
+- [About the Catenda Archiving Portal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17778812-p8xcwvy0.md): The Catenda Archiving Portal lets people transfer the documents and topics they choose from Catenda Hub to their organization's archive system.
+- [About the report editor](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17778674-dajzqjd5.md): Catenda Hub creates reports from a project's topics, documents and approvals. With the report editor, a project can have report templates of its own.
 - [Access Control Deployment Use-Cases](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15644249-access-control-deployment-use-cases.md)
 - [Access Control Levels](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8967083-access-control-levels.md)
 - [Access with limited screen space](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10695677-access-with-limited-screen-space.md)
@@ -90,13 +95,13 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Approval Workflows: Admin Rules](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/16238073-approval-workflows-admin-rules.md): Guide for administrators detailing setup rules, flexible configuration options, post-submission parameter locks, and how project configuration changes impact active approval requests.
 - [Approvals page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12495047-approvals-page.md)
 - [Approvals page - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8349340-approvals-page-legacy.md)
-- [Archive Systems and Project Numbers in the Archiving Portal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/16968887-archive-systems-and-project-numbers-in-the-archiving-portal.md): Which external archive system the portal submits to, and which project-numbering scheme it records.
 - [BCF workflow using markup tool in Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670335-bcf-workflow-using-markup-tool-in-archicad.md)
 - [BCF Workflow using Naviate for Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670337-bcf-workflow-using-naviate-for-revit.md)
 - [BCF Workflow using NTI Tools for Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670336-bcf-workflow-using-nti-tools-for-revit.md)
 - [Boards page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9413644-boards-page.md)
 - [Bookmark contents page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8471481-bookmark-contents-page.md)
 - [Bookmarks page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670281-bookmarks-page.md)
+- [Catenda AI Connect and project access](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17778745-q7kwqj4b.md): Catenda AI Connect works only with what each user can already open in Catenda Hub. The organization that runs a project decides whether Catenda AI Connect may be used on that project, and can request a limit for some or all of its projects.
 - [Catenda Archicad plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5519276-catenda-archicad-plugin.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8358861-catenda-desktop-connector.md)
 - [Catenda Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5085987-catenda-navisworks-plugin.md)
@@ -117,7 +122,6 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Columns on the documents page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8466850-columns-on-the-documents-page.md)
 - [Copy link action](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/14323982-copy-link-action.md)
 - [Create new labels](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8626709-create-new-labels.md)
-- [Create report action](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13973721-create-report-action.md)
 - [Creating a custom field](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8445575-creating-a-custom-field.md)
 - [Creating a new approval request](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12495005-creating-a-new-approval-request.md)
 - [Creating a new approval request - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12360159-creating-a-new-approval-request-legacy.md)
@@ -213,7 +217,6 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Project panels](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13141464-project-panels.md)
 - [Project settings page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670273-project-settings-page.md)
 - [Project specific notification settings](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670262-project-specific-notification-settings.md)
-- [Projects Page on the Archiving Portal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/16968870-projects-page-on-the-archiving-portal.md): Sign in to the Archiving Portal and open a project. Only projects where you are an administrator are listed.
 - [Property Value Library](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670252-property-value-library.md)
 - [QR-Code on PDFs in Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9360508-qr-code-on-pdfs-in-catenda.md)
 - [Quantity Take Off (QTO)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6673929-quantity-take-off-qto.md)
@@ -237,6 +240,7 @@ See how files stack as sequential revisions, where to view results, and how to u
 - [Saving a markup](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10209740-saving-a-markup.md)
 - [Selecting and Clipping from 2D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8035360-selecting-and-clipping-from-2d.md)
 - [Sharepoint Library](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5744548-sharepoint-library.md): This article describes how to set up a connection to Sharepoint
+- [Sign in to Catenda from Power BI](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17778878-8jvrzkes.md): How the Catenda connector for Power BI signs in to Catenda, and what to do when the sign-in fails or expires.
 - [Simplest naming convention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7845360-simplest-naming-convention.md)
 - [Sliding plane dropdown](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670327-sliding-plane-dropdown.md)
 - [Solibri Models and Documents Integration](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6988148-solibri-models-and-documents-integration.md)
@@ -333,6 +337,7 @@ Here you find answers to questions that many users run into
 - [3D DWG export manual](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7887999-3d-dwg-export-manual.md)
 - [3D location of models](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8294750-3d-location-of-models.md)
 - [3D Viewer optimization](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13927321-3d-viewer-optimization.md)
+- [About Catenda Data Export](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/17779020-y5mhccmn.md): Catenda Data Export copies the data of Catenda Hub projects to an organization's own cloud storage, automatically.
 - [Application software recommendation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13927149-application-software-recommendation.md)
 - [Can a standard member invite new members to a project?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670321-can-a-standard-member-invite-new-members-to-a-project.md)
 - [Catenda Desktop Connector FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11582835-catenda-desktop-connector-faq.md)

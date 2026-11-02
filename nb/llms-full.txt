@@ -4039,32 +4039,6 @@ Status - _Standard_ Status for arbeidsflyten
 
 Prosjekter som er opprettet basert på et malprosjekt, inkluderer godkjenningsarbeidsflyter og sakmaler fra malprosjektet. Disse arbeidsflytene er oppført i arbeidsflytstabellen i det nye prosjektet. Klikk [her](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) for å lese mer om å opprette et prosjekt basert på et malprosjekt.
 
-# Arkivsystemer og prosjektnumre i arkiveringsportalen
-
-> Hvilket eksternt arkivsystem portalen sender til, og hvilket prosjektnumreringsskjema det registrerer.
-
-De andre artiklene i Arkiveringsportalen beskriver arkivsystemet og prosjektnummeret i generelle termer, fordi det som ligger bak dem, avhenger av organisasjonen. Denne artikkelen navngir det som portalen støtter for øyeblikket.
-
-## 1. **Arkivsystemet: WebSak+**
-
-Portalen sender til **WebSak+**, arkivsystemet levert av **Acos**.
-
-En innsending går ikke direkte inn i WebSak+. Portalen samler elementets metadata som XML og sender det til Acos sin innsendingtjeneste, som utfører arkiveringen. Referansen som denne tjenesten returnerer, er det som **Arkivert**-fanen viser under **ACOS Ref**, så sitér den når du må spørre om ett spesifikt arkivert element.
-
-Dette er også hvorfor feilårsakene på **Arkivert**-fanen er formulert som grenser for det mottakende arkivet: maksimalt 50 filer og maksimalt 2300 MB per innsending.
-
-## 2. **Prosjektnummerering: Agresso**
-
-**Prosjektnummeret** i **Innstillinger** er et **Agresso-prosjektnummer** på 8 tegn.
-
-> **Viktig:** Nummeret skrives inn i portalen fordi det er nummeret som er registrert mot prosjektet i WebSak+. Det er ingen forbindelse mellom Arkiveringsportalen og Agresso selv. Ingenting leses fra eller skrives til Agresso, og ingen validering utføres mot det, så skriv nummeret nøye. Portalen kan ikke fortelle deg at det er feil.
-
-## 3. **Alt annet**
-
-Portalen er bygd for openBIM-prosjektdata i Catenda Hub, så dokumentene og sakene den tilbyr kommer fra Catenda Hub og ingen andre steder.
-
-For å få prosjektdata ut av Catenda Hub på andre måter, inkludert eksporter, langvarige formater og det fryste arkivalternativet, se [Eksporterer alle prosjektdata](https://support.catenda.com/nb/articles/7946690-eksporterer-alle-prosjektdata).
-
 # Avansert navnekonvensjon
 
 Denne artikkelen bygger på følgende artikler: [Enkleste navnekonvensjon](https://support.catenda.com/nb/articles/7845360-enkleste-navnekonvensjon) og [Medium navnekonvensjon](https://support.catenda.com/nb/articles/7936943-navnekonvensjon-for-medium-niva) Artikkelen kan følges uten å ha lest disse artiklene, men det kan være nyttig å se gjennom dem da det kan finnes informasjon om [konvensjoner](https://support.catenda.com/nb/articles/7832559-navnekonvensjonsside) som ikke er nevnt i denne artikkelen. I denne artikkelen lærer du alle måtene [konvensjoner](https://support.catenda.com/nb/articles/7832559-navnekonvensjonsside) kan brukes.
@@ -8566,159 +8540,97 @@ Gjennomgangsinnstillingssiden er ikke tilgjengelig for prosjekter som starter me
 
 # Gjennomgangsside
 
-Gjennomgangssiden finnes som en underside til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) i venstre navigasjonsmeny. Her finner du en oversikt over gjennomgangsforespørslene i prosjektet.
+Gjennomgangssiden finnes som en underside til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) i venstremenyen. Gjennomgangssiden er skjult som standard og vises når statusarbeidsflyten er aktivert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Her finner du en oversikt over gjennomgangsforespørslene i prosjektet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Denne artikkelen inneholder informasjon om følgende saker: _[Aktiver](#h_263c9d1268) - [Handlinger](#h_39a97bd06a) - [Søk/filtrer](#h_95652579ee) - [Gjennomgangsliste](#h_aa4dfe69f5) - [Rader](#h_76de8831a3) - [Gjennomgangsforespørselskort](#h_e99a80135a) -_ [Gjennomgangsforespørsler og dokumentrevisjoner-faner](#h_aae5976a1d)
+Denne artikkelen inneholder informasjon om følgende saker:
 
-På gjennomgangssiden kan følgende gjøres:
+_[Søk eller filtrer](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_95652579ee) - [Gjennomgangsliste](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_aa4dfe69f5) - [Radinnhold](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_76de8831a3) - [Gjennomgangskort](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_e99a80135a)_
 
-- Hver gjennomgangsforespørsel kan gjennomgås og valideres av teamet før en endelig validering avgjør om revisjonene som bes om å bli godkjent skal godkjennes eller ikke.
-- Konfigurasjon av forløp og utfall av en gjennomgang kan gjøres.
+Prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vil se [eldre gjennomgangsside](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) i stedet. På gjennomgangssiden kan du gjøre følgende:
+
+- Hver gjennomgangsforespørsel kan gjennomgås og valideres av teamet før en endelig validering avgjør om revisjonene som forespørres godkjent skal godkjennes eller ikke.
+- Konfigurasjon av forløp og resultat av en gjennomgang kan gjøres.
 - Nye gjennomganger kan opprettes.
 
-## 1. **Aktiver gjennomgangssiden**
+## 1. **Søk eller filtreringsalternativer**
 
-Gjennomgangssiden er skjult som standard. Aktiver delte revisjoner i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) for å avdekke gjennomgangssiden. _Nødvendig tilgang:_ Prosjektadministrator
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
 
-> **Merknad:** I prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vises [den gamle gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) i stedet.
+Klikk [her](https://support.catenda.com/nb/articles/12495060-filtrering-pa-godkjenningssiden) for å lese mer om filtrering på gjennomgingssiden.
 
-### 1.1 **Aktiver fra malprosjekt**
+## 2. **Gjennomgangsliste**
 
-Prosjekter som er opprettet basert på en malprosjekt der delt status var aktivert, vil ha delt status aktivert og godkjenningssiden vil vises ved opprettelse. Godkjenningsarbeidsflyten og saksmaler fra malprosjektet overføres til det nye prosjektet, slik at de ikke trenger å opprettes på nytt før medlemmer kan begynne å sende inn godkjenningsforespørsler.
-
-## 2. **Nye varhandlinger**
-
-De nye varhandlingene finnes i øvre høyre hjørne av siden.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
-
-### 2.1 **Ny gjennomgangsforespørsel**
-
-Klikk [her](https://support.catenda.com/nb/articles/12495005-opprette-en-ny-gjennomgang) for å lese mer om hvordan du oppretter en ny gjennomgangsforespørsel.
-
-_Nødvendig tilgang:_ Et medlem må være del av et innsendingsteam i en konfigurert arbeitsflyt for å kunne sende inn en ny gjennomgangsforespørsel.
-
-## 3. **Søk- eller filteralternativer**
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
-
-Klikk [her](https://support.catenda.com/nb/articles/12495060-filtrering-pa-godkjenningssiden) for å lese mer om filtrering på gjennomgangssiden.
-
-## 4. **Gjennomgangsliste**
-
-Gjennomgangskort med visuelle ledetråder om innholdet i hver gjennomgangsforespørsel som et medlem er del av, vises i gjennomgangslisten.
+Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmalene fra det malprosjektet. Hver rad i gjennomgangslisten inneholder et gjennomgangskort med visuelle indikatorer om innholdet i hver gjennomgingsforespørsel.
 
 Slik kan en gjennomgangsforespørsel med full aktivitet se ut:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
 
 Aktivitet som oppstår i gjennomgangen vises med mengder og ikoner på gjennomgangskortet.
 
-_Nødvendig tilgang:_ Forespørselvisibilitet er rollebasert: prosjektmedlemmer kan bare vise forespørsler de personlig sendte inn, aktive forespørsler tildelt en anmelder eller sluttanmelder-team de er medlem av, eller alle prosjektforespørsler for prosjektadministratorer.
+**Nødvendig tilgang:** Medlem av innsender-, anmelder- eller endelig vurderingsteam eller administrator.
 
-- For detaljerte operasjonelle prosedyrer for innsending av revisjoner, tillegg av vurderingsmerknader og behandling av trinnvalidering eller endelige beslutninger, les mer [her](https://www.google.com/search?q=).
-- For administrativ veiledning om konfigurering av gjennomgangsmaler, styring av låste parametere og løsing av brutte avhengigheter, les mer [her](https://www.google.com/search?q=).
+## 3. **Radinnhold**
 
-## 5. **Dokumentrevisjoner-liste**
+### 3.1 **Åpen eller lukket gjennomgangsrad**
 
-Den andre fanen lar deg få en oversikt over alle dokumenter som blir gjennomgått på tvers av alle åpne gjennomganger.
+Hvis du åpner innholdet i en gjennomgangsforespørselrad som er under gjennomgang eller lukket, åpnes [gjennomgangssiden](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel) for den gjennomgangen.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
+### 3.2 **Utkast gjennomgangsrad**
 
-Tabellen viser:
+For gjennomganger i utkast åpnes [utkast gjennomgangsforespørselssiden](https://support.catenda.com/nb/articles/12495175-side-for-utkast-til-gjennomgangsforesporsel) i stedet.
 
-1. revisjonens navn
-1. revisjonsnummeret
-1. gjeldende vurderingstrinn
-1. gjeldende trinns tilstand
-1. fristen for trinnets vurdering
-1. teamene som fortsatt må vurdere dokumentet
-1. gjennomgangsforespørselens navn
-1. innsender (person og team)
-1. innsendingsdatoen
+## 4. **Gjennomgangskort**
 
-### 5.1 Filtrering
+### 4.1 **Tittel**
 
-Også tillater det venstre filterpanelet deg å filtrere dokumentene etter:
+Gjennomgangtittel
 
-1. Tilordning: alle team eller ditt team spesifikt
-1. Dokumenttilstand: Venter, Under vurdering, Fullført
-1. Frist: alle, kommende, forfalte
+### 4.2 **Utkast status**
 
-### 5.2 Sortering
+Når en gjennomgangsforespørsel har statusen utkast, er den bare synlig for personen som opprettet utkastet på gjennomgangssiden.
 
-Til slutt kan du sortere etter:
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
 
-1. Revisjons navn
-1. Tilstand
-1. Frist
-1. Innsendingsdato
+Gjennomgangsforespørselen er ikke synlig i gjennomgangsmenyen på høyre meny for en revisjon.
 
-### 5.3 Søk
+### 4.3 **Åpen gjennomgangsstatus**
 
-Tekststøket lar deg søke etter revisjonsnavn og gjennomgangsforespørselsnavn.
+Når en gjennomgangsforespørsel har statusen åpen, er den synlig for alle medlemmer som er del av teams involvert i forespørselen. Hvis du holder musepekeren over statuser for gjennomganger som gjennomgås av mer enn ett team, åpnes et popup-vindu som viser hvilket team som ennå må sende inn sin gjennomgang i gjeldende gjennomgangstrinn.
 
-## 6. **Radinnhold**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
 
-### 6.1 **Åpen eller lukket gjennomgangsrad**
+Anmelderteam som allerede har gitt sin vurdering vises ikke i denne listen eller telles med i antallet teams som gjennomgangstrinnet for øyeblikket gjennomgås av.
 
-Åpning av innholdet i en gjennomgangsforespørselrad som er under vurdering eller lukket, åpner [gjennomgangssiden](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel) for den gjennomgangen.
+Til høyre for den åpne gjennomgangsstatusen vises datoen og klokkeslettet når gjennomgangstrinnet må gjennomgås. Hvis automatisk godkjennelse er konfigurert for dette trinnet, går gjennomgangen automatisk til neste trinn på denne datoen og klokkeslettet.
 
-### 6.2 **Utkast gjennomgangsrad**
+### 4.4 **Lukket status**
 
-For utkastgjennomganger åpnes [siden for gjennomgangsforespørsel i utkast](https://support.catenda.com/nb/articles/12495175-side-for-utkast-til-gjennomgangsforesporsel) i stedet.
+Når en gjennomgangsforespørsel når sitt endelige gjennomgangstrinn, forblir den åpen. Basert på godkjennelsene og avvisningene gitt av hvert av teamene i hvert av gjennomgangstrinnet, vil et medlem av det endelige gjennomgangssteamet kunne gi sin endelige godkjennelse eller avvisning. Når gjennomgangsforespørselen endelig godkjennes eller avvises av medlemmet i det endelige gjennomgangssteamet, blir den lukket.
 
-## 7. **Gjennomgangsforespørselskort**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
 
-### 7.1 **Tittel**
-
-Gjennomgangs tittel
-
-### 7.2 **Utkast-status**
-
-Når en gjennomgangsforespørsel har statusen utkast, er den kun synlig for personen som opprettet utkastet på gjennomgangssiden.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
-
-Gjennomgangsforespørselen er ikke synlig i gjennomgangmenyen til høyremenyen for en revisjon.
-
-### 7.3 **Åpen gjennomgang-status**
-
-Når en gjennomgangsforespørsel har statusen åpen, er den synlig for alle medlemmer som er del av team som er involvert i forespørselen. Hold musepekeren over statusen på gjennomganger som er under vurdering av mer enn ett team, for å åpne et vindu som viser hvilket team som fortsatt må sende inn sin vurdering i gjeldende vurderingstrinn.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
-
-Vurderingsteams som allerede har gitt sin vurdering vises ikke i denne listen eller regnes med i antallet teams som gjennomgangen for tiden er under vurdering av.
-
-Til høyre for statusen for åpen gjennomgang vises datoen og tiden som gjennomgangstrinnet må vurderes innen. Hvis auto-godkjennelse er konfigurert for dette trinnet, vil gjennomgangen automatisk gå til neste trinn på denne datoen og tiden.
-
-### 7.4 **Lukket status**
-
-Når en gjennomgangsforespørsel når sitt endelige gjennomgangstrinn, forblir den åpen. Basert på godkjenningene og avvisningene gitt av hvert team i hvert gjennomgangstrinn, vil et medlem av det endelige gjennomgangsteamet kunne gi sin endelige godkjenning eller avvisning. Når gjennomgangsforespørselen er endelig godkjent eller avvist av medlemmet av det endelige gjennomgangsteamet, vil den lukkes.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
-
-### 7.5 **Arbeidsflyt**
+### 4.5 **Arbeidsflyt**
 
 Arbeidsflyten som følges av gjennomgangen
 
-### 7.6 **Opprettet av**
+### 4.6 **Opprettet av**
 
-Medlemmet som opprettet gjennomgangen og datoen og tiden for når den ble opprettet.
+Medlemmet som opprettet gjennomgangen og datoen og klokkeslettet for når det ble opprettet.
 
-### 7.7 **Endelig gjennomgang**
+### 4.7 **Sluttgjennomgang**
 
-Det endelige gjennomgangsteamet som skal ha det endelige ordet om publiseringen av de delte dokumentene i gjennomgangen, informert av vurderingene som er sendt inn av innsendingsteamene i hvert gjennomgangstrinn.
+Det endelige gjennomgangssteamet som vil ha det endelige ordet om publisering av de delte dokumentene i gjennomgangen, informert av anmeldelsene sendt inn av innsenderteamene i hvert av gjennomgangstrinnet.
 
-### 7.8 **Gjennomgangnummer**
+### 4.8 **Gjennomgangsnummer**
 
 Nummeret på gjennomgangen
 
-### 7.9 **Ikoner nederst**
+### 4.9 **Ikoner nederst**
 
-Det gjeldende vurderingstrinnnet i arbeidsflyten som gjennomgangen følger. Det totale antallet trinn som gjennomgangen må fullføre før gjennomgangen er ferdigstilt. Bare synlig på åpne og lukkede gjennomganger. Antallet dokumenter i gjennomgangen uavhengig av tilgangsinnstillinger.
+Gjeldende gjennomgangstrinn i arbeidsflyten som gjennomgangen følger. Det totale antallet trinn gjennomgangen må gjennomføre før gjennomgangen blir avsluttet. Bare synlig på åpne og lukkede gjennomganger. Antall dokumenter i gjennomgangen uavhengig av tilgangsinnstillinger.
 
 # Gjennomgangsside - Eldre versjon
 
@@ -14535,80 +14447,6 @@ Visningen din bør nå se slik ut:
 
 Du har nå opprettet merkelappene dine.
 
-# Opprett rapporthandling
-
-Opprett rapporthandlingen gjøres tilgjengelig for prosjekter der opt-in-rapportfunksjonen har blitt forespurt aktivert. Når rapportfunksjonen er aktivert på et prosjekt, blir Opprett rapporthandlingen tilgjengelig i dokumenter og saker-tabellerHandlinger. Velg ett eller flere elementer i dokumenttabellen og åpne [dokumenttabellerHandlinger-menyen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen). Velg ett eller flere elementer i sakstabellen og åpne [sakstabellerHandlinger-menyen](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell). Slik kan opprett rapporthandlingen se ut:
-
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-ef841bc1c2c3.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-0c1ebf646ff6.png" width="290"/>
-
-## 1. Velg eksportinnstillinger
-
-Når opprett rapporthandlingen klikkes, åpnes generer rapportdialogen:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/01-choose-export-options.png)
-
-> **Merknad:** For rapporter opprettet på valgte elementer i dokumenttabellen, vær oppmerksom på at bare dokumentelementer er inkludert i rapporten og ikke mappeelementer.
-
-### 1.1 **Valgt**
-
-Viser en telling av valgte elementer (eksludert mapper for dokumentrapporter)
-
-### 1.2 **Gjeldende filter**
-
-Viser en telling av elementer som samsvarer med gjeldende filter. Tellingen inkluderer mappeelementer for dokumentrapporter, selv om disse ikke er inkludert i rapporten
-
-### 1.3 **Fortsett**
-
-Klikk Fortsett for å åpne rapporten på rapportsiden.
-
-## 2. Ny rapportside
-
-Slik kan den nye rapportsiden se ut:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/02-new-report-page.png)
-
-### 2.1 **Velg rapportmal**
-
-Velg en forhåndsdefinert rapport basert på listen over rapportmaler som prosjektadministratoren har gjort tilgjengelig i prosjektet. For rapporter opprettet fra dokumenttabellen velger du fra en liste over tilgjengelige dokumentmaler. For rapporter opprettet fra sakstabellen velger du fra en liste over tilgjengelige sakmaler.
-
-### 2.2 **Ny rapportverktøylinje**
-
-**Lagre** Slik kan lagre-menyen se ut:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/03-new-report-toolbar.png)
-
-> **Merknad:** Kontroller at nettlesermålestokken er zoomet til riktig skala for å se hele menyen.
-
-Den samme rapporten kan lagres i hvilket som helst tilgjengelig filformat. De tilgjengelige filformatene er:
-
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 197px; padding: 8px;"><h3 id="h_c78caefe80"><b>Tilgjengelige filtyper</b></h3></td><td style="background-color: #e3e7fa80; width: 77px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_682e4fccfb">Standard</h3></td><td style="background-color: #e3e7fa80; width: 97px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_457a2022bf">Standardversjon</h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_2686400f9a">Catenda-forhåndsvisning</h3></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7d366f10d0">Adobe PDF</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pdf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>PDF/A-1<br/>PDF/A-2<br/>PDF/A-3</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_94e4483855">Microsoft PowerPoint</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pptx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bbed4e09ef">HTML</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.html</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>HTML<br/>HTML5</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Se <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub">støtteartikel</a> </p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_619405a336">Tekst</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.txt</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_010bd11b0a">RTF</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.rtf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Se <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub">støtteartikel</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bc9ec295b0">Microsoft Word</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.docx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f4a5014703">OpenDocument Writer</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.odt</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_501a9a2af1">Microsoft Excel</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.xlsx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a247c33d74">OpenDocument Calc</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.ods</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa1a3a9285">Data</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.CSV<br/>.DBF<br/>.XML<br/>.DIF<br/>.SYKL<br/>.JSON</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Se <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub">støtteartikel</a></p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d240bc4f64">Bilde</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.Bmp<br/>.Gif<br/>.Jpeg<br/>.Pcx<br/>.Png<br/>.Tiff<br/>.Svg<br/>.Svgz</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Se <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub">støtteartikel</a></p></td></tr></tbody></table></div>
-
-Klikk på et format for å åpne eksportinnstillinger-menyen.
-
-**Eksportinnstillinger** Slik kan eksportinnstillinger-menyen se ut for filformatet Adobe PDF:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/04-new-report-toolbar.png)
-
-Klikk OK for å lagre rapporten som et dokument et sted i dokumentbiblioteket på Catenda fra hvor det kan lastes ned. _Lagre rapportfilen_ For å kunne laste ned rapporten må den først lagres et sted i dokumentstrukturen på Catenda. Velg mappen hvor du vil lagre rapporten, gi rapporten nytt navn om nødvendig, og klikk deretter "Last ned".
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/05-new-report-toolbar.png)
-
-Lagre dokument-menyen husker den tidligere valgte mappen og trenger bare å konfigureres en gang hvis samme mappe brukes hver gang.
-
-### 2.3 **Rapportforhåndsvisning**
-
-En forhåndsvisning av rapporten genereres i henhold til standardmalen.
-
-**Saksrapport** Slik kan en saksrapport se ut:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/06-report-preview.png)
-
-**Dokumentrapport** Slik kan en dokumentrapport se ut:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/07-report-preview.png)
-
-Rapportmaler er konfigurert på rapportmal-siden. _Lagring av rapporttilgang kreves:_ Lesetilgang hvor som helst i dokumentomradet. _Malkonfigurasjon - tilgang kreves:_ Administrator
-
 # Opprette en ny arbeidsflyt
 
 Den nye arbeidsflytside kan åpnes ved å klikke på den grønne plusknappen på [arbeidsflytsiden](https://support.catenda.com/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger) eller ved å klikke på handlingen i menyen for nye elementer på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon). Det er bare mulig å opprette nye arbeidsflyter i prosjekter der den nye valideringsarbeidsflyten er aktiv. Den nye valideringsarbeidsflyten er aktiv i alle nye prosjekter. Prosjekter som bruker en eldre versjon av valideringsarbeidsflyten kan be om en migrering til den nye valideringsarbeidsflyten fra kundestøtte. Slik kan titteldelennof en ny gjennomgang se ut:
@@ -15637,66 +15475,6 @@ Inspeksjonspanelet kan inneholde følgende hovedsider:
 Inspeksjon QTO (Mengdeoverslag) 4D-valg Måling
 
 Klikk [her](https://support.catenda.com/nb/articles/4670285-inspeksjonsmeny) for å lese mer om innholdspanelet.
-
-# Prosjektsiden i arkiveringsportalen
-
-> Logg inn i arkiveringsportalen og åpne et prosjekt. Bare prosjekter der du er administrator, vises.
-
-Arkiveringsportalen lar deg arkivere dokumenter og saker fra Catenda Hub til organisasjonens eksterne arkivsystem. Den er for den som er ansvarlig for arkivering i ett eller flere prosjekter.
-
-Åpne portalen på [archiving.catenda.com](https://archiving.catenda.com) og klikk **Koble til Catenda Hub**. Portalen har ikke sitt eget passord, så du autentiserer deg i Catenda Hub og blir sendt tilbake hit. For kontoen selv, se [Påloggingsside](https://support.catenda.com/nb/articles/7891486-paloggingsside).
-
-Prosjektsiden kan se omtrent slik ut:
-
-![](https://catenda.github.io/help-center-ops/images/h1mfgfs5/01-intro.png)
-
-## 1. **Slik fungerer arkivering**
-
-Arkivering kjører i én retning, fra Catenda Hub til organisasjonens arkivsystem. Portalen er hvor du bestemmer hva som skal arkiveres, og bekrefter at det kom frem.
-
-### 1.1 **Hva som blir arkiverbart**
-
-Hva som kan arkiveres, bestemmes i Catenda Hub, ikke i portalen. Et dokument blir arkiverbart når det ligger i en mappe som har arkivmerkelappen, som er merkelappen kalt `Arkivverdig` med mindre prosjektet ditt definerer sin egen. Saker blir arkiverbare på samme måte, gjennom sakslisten deres.
-
-Portalen har sin egen kopi av det som er i Catenda Hub, og oppdaterer den omtrent hvert 30. minutt, så noe du nettopp endret der, tar litt tid før det vises her.
-
-### 1.2 **Velge hva som skal med**
-
-Alt som venter, vises på prosjektets egen side, med dokumenter og saker på separate faner. For hver enhet velger du om du skal arkivere den, hoppe over den foreløpig, eller aldri arkivere den, og du kan korrigere metadataene eller legge til vedlegg før den sendes.
-
-Et prosjektnummer må angis før noe kan arkiveres, fordi det er nummeret enheten registreres under i arkivet. Inntil det er angitt, forteller portalen deg det i stedet for å arkivere.
-
-### 1.3 **Sending og hva som kommer tilbake**
-
-Sending overfører enheten til arkivsystemet, som arkiverer den og returnerer en referanse. Portalen registrerer den referansen mot enheten, slik at alt som arkiveres, kan spores tilbake til kopien i arkivet.
-
-Alt som mislykkes, registreres med grunnen til at det mislyktes, og kan sendes på nytt, enten én enhet om gangen eller for hele prosjektet på én gang.
-
-> **Merknad:** Artiklene som beskriver hver av disse trinnene i detalj, er bare tilgjengelige for brukere med tilgang til arkiveringsportalen. Se [Arkivsystemer og prosjektnumre i arkiveringsportalen](https://support.catenda.com/nb/articles/16968887-arkivsystemer-og-prosjektnumre-i-arkiveringsportalen) for å se hvilket arkivsystem portalen sender til.
-
-## 2. **Dine prosjekter**
-
-Når du logger inn, kommer du til **Dine prosjekter**.
-
-Bare prosjekter der du har administratorrettigheter, vises. Hvis et prosjekt du forventer, mangler, kontroller dine rettigheter på det i Catenda Hub i stedet for i portalen.
-
-Hvert prosjekt vises med eieren og en opptelling av dokumentene og sakene som venter på å bli arkivert.
-
-Klikk **Administrer arkiv** på et prosjekt for å åpne det. Hva prosjektsiden viser deg derfra, er beskrevet i [Prosjektinnholdsside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968871-prosjektinnholdsside-i-arkiveringsportalen), som bare brukere med tilgang til arkiveringsportalen kan lese.
-
-> **Merknad:** Portalen finner ut hvilke prosjekter som skal vises, ved å kontrollere teammedlemskapene dine. Hvis denne kontrollen mislykkes, forteller den deg at noen prosjekter kanskje ikke er synlige, i stedet for å vise en kort liste i all stillhet.
-
-## 3. **Kontrollene øverst til høyre**
-
-Tre kontroller sitter øverst til høyre, og denne siden er det første stedet du møter dem. De forblir tilgjengelige når du åpner et prosjekt.
-
-**Språk** Portalen er tilgjengelig på engelsk og norsk bokmål, og språkvelgeren bytter mellom dem.
-
-**Statistikk** **Vis statistikk** åpner et sammendrag av hva som har blitt arkivert på tvers av alle prosjekter. Ikonet vises bare for organisasjonseiere, og det tar plassen til tannhjulikonet som en prosjektside viser. Den siden er beskrevet i [Statistikkside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968884-statistikkside-i-arkiveringsportalen), og tallene per prosjekt i [Prosjektinnstillingsside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968883-prosjektinnstillinger-i-arkiveringsportalen). Begge disse artiklene er bare tilgjengelige for brukere med tilgang til arkiveringsportalen.
-
-**Logg ut** Logger deg ut av portalen.
-
-> **Merknad:** Språkvelgeren endrer portalens eget grensesnitt. Den endrer ikke navnene på merkelappene du angir i Catenda Hub, som forblir skrevet slik du skrev dem der. Selv det engelske grensesnittet refererer til arkivmerkelappen med sitt norske navn, `Arkivverdig`.
 
 # Prosjektspesifikke varselinnstillinger
 

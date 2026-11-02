@@ -7716,92 +7716,6 @@ Catendaの最高レベルのアクセスは組織アクセスです。これは�
 
 [カスタムフィールドの作成](https://support.catenda.com/ja/articles/8445575-カスタムフィールドの作成) [命名規則の作成](https://support.catenda.com/ja/articles/7832559-命名規則ページ) [ストーリー設定ツール](https://support.catenda.com/ja/articles/6921756-フロア設定ページ)
 
-# アーカイビングポータルのプロジェクトページ
-
-> アーカイビングポータルにサインインしてプロジェクトを開きます。管理者である場合のみ、プロジェクトが一覧表示されます。
-
-アーカイビングポータルを使用すると、Catenda HubからドキュメントとトピックをOrganizationの外部アーカイブシステムにアーカイブできます。これは1つ以上のプロジェクトでアーカイビングを担当する人向けのものです。
-
-ポータルを[archiving.catenda.com](https://archiving.catenda.com)で開き、**Catenda Hubに接続**をクリックします。ポータル自体にはパスワードがないため、Catenda Hubで認証され、ここに戻ります。アカウント自体については、[サインインページ](https://support.catenda.com/ja/articles/7891486-サインインページ)を参照してください。
-
-プロジェクトページは以下のようになります：
-
-![](https://catenda.github.io/help-center-ops/images/h1mfgfs5/01-intro.png)
-
-## 1. **アーカイビングの仕組み**
-
-アーカイビングは一方向で実行され、Catenda Hubから組織のアーカイブシステムに送信されます。ポータルは、何が送信されるかを決定し、それが到着したことを確認する場所です。
-
-### 1.1 **アーカイブ可能になるもの**
-
-アーカイブできるもの（どのことができるか）はポータルではなく、Catenda Hubで決定されます。ドキュメントがアーカイブラベルを含むフォルダーに置かれると、アーカイブ可能になります。このラベルは、プロジェクトで独自に定義しない限り、「Arkivverdig」という名前のラベルです。トピックは同じ方法でアーカイブ可能になり、トピックリストを通じて行われます。
-
-ポータルはCatenda Hubの独自のコピーを保持し、約30分ごとに更新されます。したがって、そこで変更したばかりのアイテムがここに表示されるまでに少し時間がかかります。
-
-### 1.2 **送信内容の選択**
-
-すべての待機中のアイテムはプロジェクトのページに一覧表示され、ドキュメントとトピックは別々のタブに表示されます。各アイテムについて、それをアーカイブするか、今のところスキップするか、またはそれを決してアーカイブしないかを選択し、送信前にメタデータを修正またはアタッチメントを追加できます。
-
-プロジェクト番号は、何かをアーカイブできる前に設定する必要があります。これは、アイテムがアーカイブで登録される番号であるためです。設定されるまで、ポータルはアーカイビングの代わりにそのことを通知します。
-
-### 1.3 **送信と返却**
-
-送信はアイテムをアーカイブシステムに送り、システムはそれをファイルして参照番号を返します。ポータルはその参照番号をアイテムに対して記録するため、アーカイブされたものはすべてアーカイブのコピーにトレースバックできます。
-
-失敗したものはその失敗の理由とともに記録され、1つのアイテムずつまたはプロジェクト全体をもう一度送信できます。
-
-> **注：** これらの各ステップを詳細に説明する記事は、アーカイビングポータルへのアクセス権を持つユーザーのみが利用できます。ポータルが送信するアーカイブシステムについては、[アーカイビングポータルのアーカイブシステムとプロジェクト番号](https://support.catenda.com/ja/articles/16968887-アーカイブシステムとアーカイブポータルのプロジェクト番号)を参照してください。
-
-## 2. **あなたのプロジェクト**
-
-サインイン後、**あなたのプロジェクト**ページに移動します。
-
-管理者権限を持つプロジェクトのみがリストされます。予想されるプロジェクトが見つからない場合は、ポータルではなくCatenda Hubでそのプロジェクトの権限を確認してください。
-
-各プロジェクトは、その所有者とアーカイブ待機中のドキュメント数およびトピック数とともに一覧表示されます。
-
-プロジェクトの**アーカイブを管理**をクリックして開きます。プロジェクトページから表示される内容は、[アーカイビングポータルのプロジェクトコンテンツページ](https://support.catenda.com/ja/articles/16968871-アーカイブポータルのプロジェクトコンテンツページ)で説明されています。これはアーカイビングポータルへのアクセス権を持つユーザーのみが読むことができます。
-
-> **注：** ポータルはチームメンバーシップをチェックすることで、表示するプロジェクトを決定します。チェックが失敗した場合は、静かに短いリストを表示するのではなく、一部のプロジェクトが表示されない可能性があることを通知します。
-
-## 3. **右上のコントロール**
-
-右上に3つのコントロールがあり、このページがそれらを初めて見る場所です。プロジェクトを開くと、それらは利用可能なままになります。
-
-**言語** ポータルは英語とノルウェー語（ボークモール）で提供でき、言語ピッカーでそれらを切り替えます。
-
-**統計** **統計を表示**をクリックすると、すべてのプロジェクト全体でアーカイブされたもののサマリーが開きます。このアイコンは組織所有者にのみ表示され、プロジェクトページに表示される歯車アイコンの代わりになります。そのページは[アーカイビングポータルの統計ページ](https://support.catenda.com/ja/articles/16968884-アーカイブポータルの統計ページ)で説明されており、プロジェクト単位の数字は[アーカイビングポータルのプロジェクト設定ページ](https://support.catenda.com/ja/articles/16968883-アーカイブ-ポータルの-プロジェクト設定-ページ)に記載されています。これら両方の記事はアーカイビングポータルへのアクセス権を持つユーザーのみが利用できます。
-
-**ログアウト** ポータルからサインアウトします。
-
-> **注：** 言語ピッカーはポータル自体のインターフェースを変更します。Catenda Hubで設定したラベルの名前は変更されず、そこに記載されたままになります。英語インターフェースでも、アーカイブラベルはノルウェー語の名前「Arkivverdig」で参照されます。
-
-# アーカイブシステムとアーカイブポータルのプロジェクト番号
-
-> ポータルが提出する外部アーカイブシステムと、記録するプロジェクト番号スキーム。
-
-他のアーカイブポータルの記事では、アーカイブシステムとプロジェクト番号について一般的な用語で説明しています。これは、その背後にあるものが組織によって異なるためです。この記事では、ポータルが現在サポートしているものの名前を示しています。
-
-## 1. **アーカイブシステム: WebSak+**
-
-ポータルは**Acos**によって提供されるアーカイブシステム\*\*WebSak+\*\*に提出されます。
-
-提出はWebSak+に直接入りません。ポータルは項目のメタデータをXMLとして組み立て、Acosの提出サービスに手渡します。そのサービスがアーカイブを実行します。そのサービスが返す参照は、**アーカイブ済み**タブの**ACOS参照**に表示されるため、特定のアーカイブ済み項目について質問する必要がある場合は、それを引用してください。
-
-これが、**アーカイブ済み**タブの失敗理由が受信アーカイブの制限として表現される理由でもあります。提出あたり最大50ファイルおよび最大2300MBです。
-
-## 2. **プロジェクト番号: Agresso**
-
-**設定**の**プロジェクト番号**は**Agressoプロジェクト番号**で、8文字の長さです。
-
-> **重要:** 番号がポータルに入力されるのは、WebSak+のプロジェクトに登録されている番号だからです。アーカイブポータルとAgresso自体の間に接続はありません。Agressoから何も読み込まれたり、書き込まれたりすることはなく、検証は実行されないため、番号を慎重に入力してください。ポータルは番号が間違っていることを知ることはできません。
-
-## 3. **その他**
-
-ポータルはCatenda HubのopenBIMプロジェクトデータ用に構築されているため、提供するドキュメントとトピックはCatenda Hubから取得され、他のどこからも取得されません。
-
-エクスポート、長期形式、フリーズアーカイブオプションを含む他の方法でCatenda Hubからプロジェクトデータを取得する場合は、[すべてのプロジェクトデータのエクスポート](https://support.catenda.com/ja/articles/7946690-すべてのプロジェクトデータをエクスポートする)を参照してください。
-
 # オブジェクトからドキュメントをリンク解除
 
 オブジェクトをリンク解除するには、下の画像に示されているリンク解除ボタンをクリックします。
@@ -16770,80 +16684,6 @@ _作成者_ - _デフォルト_ レポートテンプレートの作成者
 
 - [テンプレート](https://support.catenda.com/ja/articles/12380837-レポートテンプレートページ)
 
-# レポート作成アクション
-
-レポート作成アクションは、オプトイン レポート機能が有効になるようにリクエストされたプロジェクトで利用可能になります。プロジェクトでレポート機能が有効になると、レポート作成アクションがドキュメント テーブルとトピック テーブルのアクションで利用可能になります。ドキュメント テーブルで 1 つ以上の要素を選択し、[ドキュメント テーブル アクション メニュー](https://support.catenda.com/ja/articles/4670288-ドキュメント-テーブル-アクション)を開きます。トピック テーブルで 1 つ以上の要素を選択し、[トピック テーブル アクション メニュー](https://support.catenda.com/ja/articles/4670284-トピックテーブルのアクション)を開きます。レポート作成アクションは次のように表示されます：
-
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-ef841bc1c2c3.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-0c1ebf646ff6.png" width="290"/>
-
-## 1. エクスポート オプションを選択
-
-レポート作成アクションをクリックすると、レポート生成ダイアログが開きます：
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/01-choose-export-options.png)
-
-> **注:** ドキュメント テーブルで選択されたアイテムに対して作成されたレポートについては、レポートにドキュメント アイテムのみが含まれ、フォルダ アイテムは含まれないことに注意してください。
-
-### 1.1 **選択済み**
-
-選択されたエレメントの数を表示します (ドキュメント レポートのフォルダを除く)
-
-### 1.2 **現在のフィルタ**
-
-現在のフィルタに一致するエレメントの数を表示します。ドキュメント レポートではこの数にフォルダ アイテムが含まれていますが、これらはレポートには含まれません
-
-### 1.3 **続行**
-
-[続行] をクリックして、レポート ページでレポートを開きます。
-
-## 2. 新規レポート ページ
-
-新規レポート ページの外観は次のようになります：
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/02-new-report-page.png)
-
-### 2.1 **レポート テンプレートを選択**
-
-プロジェクト管理者がプロジェクトで利用可能にしたレポート テンプレートのリストに基づいて、事前定義されたレポートを選択します。ドキュメント テーブルから作成されたレポートについては、利用可能なドキュメント テンプレートのリストから選択します。トピック テーブルから作成されたレポートについては、利用可能なトピック テンプレートのリストから選択します。
-
-### 2.2 **新規レポート ツールバー**
-
-**保存** 保存メニューの外観は次のようになります：
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/03-new-report-toolbar.png)
-
-> **注:** ブラウザ スケールが正しいスケールにズームされていることを確認して、メニュー全体を表示してください。
-
-同じレポートは利用可能な任意のファイルタイプで保存できます。利用可能なファイル形式は：
-
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 197px; padding: 8px;"><h3 id="h_c78caefe80"><b>利用可能なファイルタイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 77px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_682e4fccfb">標準</h3></td><td style="background-color: #e3e7fa80; width: 97px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_457a2022bf">標準バージョン</h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_2686400f9a">Catenda プレビュー</h3></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7d366f10d0">Adobe PDF</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pdf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>PDF/A-1<br/>PDF/A-2<br/>PDF/A-3</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_94e4483855">Microsoft PowerPoint</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pptx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bbed4e09ef">HTML</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.html</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>HTML<br/>HTML5</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670320-catenda-hubのファイルタイプのプレビュー">サポート記事</a>を確認してください </p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_619405a336">テキスト</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.txt</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_010bd11b0a">RTF</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.rtf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670320-catenda-hubのファイルタイプのプレビュー">サポート記事</a>を確認してください</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bc9ec295b0">Microsoft Word</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.docx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f4a5014703">OpenDocument Writer</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.odt</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_501a9a2af1">Microsoft Excel</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.xlsx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a247c33d74">OpenDocument Calc</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.ods</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa1a3a9285">データ</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.CSV<br/>.DBF<br/>.XML<br/>.DIF<br/>.SYKL<br/>.JSON</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670320-catenda-hubのファイルタイプのプレビュー">サポート記事</a>を確認してください</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d240bc4f64">画像</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.Bmp<br/>.Gif<br/>.Jpeg<br/>.Pcx<br/>.Png<br/>.Tiff<br/>.Svg<br/>.Svgz</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670320-catenda-hubのファイルタイプのプレビュー">サポート記事</a>を確認してください</p></td></tr></tbody></table></div>
-
-形式をクリックしてエクスポート設定メニューを開きます。
-
-**エクスポート設定** エクスポート設定メニュー (Adobe PDF ファイル形式) の外観は次のようになります：
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/04-new-report-toolbar.png)
-
-[OK] をクリックして、Catenda のドキュメント ライブラリ内のどこかにレポートをドキュメントとして保存します。そこからダウンロードできます。_レポート ファイルを保存_ レポートをダウンロードできるようにするには、最初に Catenda のドキュメント構造内のどこかに保存する必要があります。レポートを保存するフォルダを選択し、必要に応じてレポートの名前を変更してから、「ダウンロード」をクリックします。
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/05-new-report-toolbar.png)
-
-保存ドキュメント メニューは以前選択されたフォルダを記憶し、同じフォルダを毎回使用する場合は一度だけ設定する必要があります。
-
-### 2.3 **レポート プレビュー**
-
-レポートのプレビューはデフォルト テンプレートに従って生成されます。
-
-**トピック レポート** トピック レポートの外観は次のようになります：
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/06-report-preview.png)
-
-**ドキュメント レポート** ドキュメント レポートの外観は次のようになります：
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/07-report-preview.png)
-
-レポート テンプレートはレポート テンプレート ページで設定されます。_レポート保存アクセス必須:_ ドキュメント領域内のどこでも読み取りアクセス権が必要です。_テンプレート設定アクセス必須:_ 管理者
-
 # ロケーションページ - Catenda Mobile
 
 > Catenda Mobileでプロジェクトを建物、階、室で移動します。
@@ -17352,159 +17192,97 @@ ifcファイルにIFCTASKsが含まれている場合、4Dパネルでそれら�
 
 # 承認ページ
 
-承認ページは、左側のナビゲーションメニューの[ドキュメントページ](https://support.catenda.com/ja/articles/8204673-ドキュメントページ)のサブページとして見つけることができます。ここでは、プロジェクト内の承認要求の概要を確認できます。
+承認ページは、左ナビゲーションメニューの[ドキュメントページ](https://support.catenda.com/ja/articles/8204673-ドキュメントページ)のサブページとして表示されます。承認ページはデフォルトで非表示で、2025年10月2日以降に共有リビジョンを有効にしたプロジェクトの[ドキュメント設定](https://support.catenda.com/ja/articles/7831371-ドキュメント設定ページ)でステータスワークフローが有効になると表示されます。ここでは、プロジェクト内の承認リクエストの概要を確認できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-この記事には、以下のトピックに関する情報が含まれています：_[有効化](#h_263c9d1268) - [アクション](#h_39a97bd06a) - [検索/フィルター](#h_95652579ee) - [承認リスト](#h_aa4dfe69f5) - [行](#h_76de8831a3) - [承認要求カード](#h_e99a80135a) -_ [承認要求とドキュメント改訂タブ](#h_aae5976a1d)
+この記事には、次のトピックに関する情報が含まれています:
 
-承認ページでは、以下の操作ができます：
+_[検索またはフィルター](https://support.catenda.com/ja/articles/12495047-承認ページ#h_95652579ee) - [承認リスト](https://support.catenda.com/ja/articles/12495047-承認ページ#h_aa4dfe69f5) - [行の内容](https://support.catenda.com/ja/articles/12495047-承認ページ#h_76de8831a3) - [承認リクエストカード](https://support.catenda.com/ja/articles/12495047-承認ページ#h_e99a80135a)_
 
-- 各承認要求は、最終承認者が要求された改訂版を承認すべきかどうかを決定する前に、チームによってレビューおよび検証できます。
-- 承認の過程と結果の設定ができます。
+2025年10月2日より前に共有リビジョンが有効になったプロジェクトでは、代わりに[レガシー承認ページ](https://support.catenda.com/ja/articles/8349340-承認ページ-レガシー)が表示されます。承認ページでは、以下の操作が可能です:
+
+- 各承認リクエストは、最終確認者がリビジョンを承認するかどうかを決定する前に、チームによってレビューおよび検証できます。
+- 承認のプロセスと結果の設定を行うことができます。
 - 新しい承認を作成できます。
 
-## 1. **承認ページの有効化**
+## 1. **検索またはフィルターオプション**
 
-承認ページはデフォルトで非表示です。[ドキュメント設定](https://support.catenda.com/ja/articles/7831371-ドキュメント設定ページ)で共有改訂版を有効にして、承認ページを表示します。_アクセス権限が必要：_ プロジェクト管理者
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
 
-> **注：** 2025年10月2日より前に共有改訂版が有効になっているプロジェクトでは、[レガシー承認ページ](https://support.catenda.com/ja/articles/8349340-承認ページ-レガシー)が代わりに表示されます。
+[ここ](https://support.catenda.com/ja/articles/12495060-承認ページでのフィルタリング)をクリックして、承認ページのフィルタリングの詳細をご覧ください。
 
-### 1.1 **テンプレートプロジェクトから有効化**
+## 2. **承認リスト**
 
-テンプレートプロジェクトに基づいて作成されたプロジェクトで共有ステータスが有効化されている場合、共有ステータスが有効になり、作成時に承認ページが表示されます。テンプレートプロジェクトの承認ワークフローとトピックテンプレートは新しいプロジェクトに引き継がれるため、メンバーが承認リクエストの送信を開始する前に再度作成する必要はありません。
+テンプレートプロジェクトに基づいて作成されたプロジェクトには、そのテンプレートプロジェクトの承認ワークフローとトピックテンプレートが含まれています。承認リスト内の各行には、各承認リクエストの内容に関する視覚的な手がかりを含む承認カードが含まれています。
 
-## 2. **新規アイテムアクション**
+完全なアクティビティを持つ承認リクエストはこのようなものです:
 
-新規アイテムアクションはページの右上にあります。
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
-
-### 2.1 **新規承認要求**
-
-[ここ](https://support.catenda.com/ja/articles/12495005-新しい承認リクエストの作成)をクリックして、新しい承認要求の作成についてもっと読む。
-
-**アクセス権限が必要：** メンバーは、新しい承認要求を提出できるようになるために、設定されたワークフローの提出者チームの一部である必要があります。
-
-## 3. **検索またはフィルターオプション**
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
-
-[ここ](https://support.catenda.com/ja/articles/12495060-承認ページでのフィルタリング)をクリックして、承認ページでのフィルタリングについてもっと読む。
-
-## 4. **承認リスト**
-
-メンバーが関わっている各承認要求の内容に関する視覚的キューを含む承認カードが承認リストに表示されます。
-
-完全なアクティビティを持つ承認要求がどのように見えるかを示しています：
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
 
 承認内で発生したアクティビティは、承認カード上の数量とアイコンで表示されます。
 
-**アクセス権限が必要：** 要求の表示はロールベースです。プロジェクトメンバーは、自分が個人的に提出した要求、自分が属しているレビュアーまたは最終レビュアーチームに割り当てられたアクティブな要求、またはプロジェクト管理者の場合はすべてのプロジェクト要求のみを表示できます。
+**必要なアクセス:** 送信者、レビュアー、最終レビューチーム、または管理者のメンバー。
 
-- 改訂版の提出、レビューマークアップの追加、ステップの検証または最終判定の処理に関する詳細な操作手順については、[ここ](https://www.google.com/search?q=)をお読みください。
-- 承認テンプレートの設定、ロックされたパラメーターの管理、および壊れた依存関係の解決に関する管理ガイダンスについては、[ここ](https://www.google.com/search?q=)をお読みください。
+## 3. **行の内容**
 
-## 5. **ドキュメント改訂リスト**
+### 3.1 **オープンまたはクローズされた承認行**
 
-2番目のタブでは、すべてのオープンな承認全体でレビュー中のすべてのドキュメントの概要を確認できます。
+レビュー中またはクローズされた承認リクエスト行の内容を開くと、その承認の[承認ページ](https://support.catenda.com/ja/articles/12494960-オープンまたはクローズされた承認依頼ページ)が開きます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
+### 3.2 **ドラフト承認行**
 
-テーブルには以下が表示されます：
+ドラフト承認の場合、代わりに[ドラフト承認リクエストページ](https://support.catenda.com/ja/articles/12495175-ドラフト承認依頼ページ)が開きます。
 
-1. 改訂版の名前
-2. 改訂版の番号
-3. 現在のレビューステップ
-4. 現在のステップの状態
-5. ステップのレビューの期日
-6. ドキュメントをレビューする必要がまだあるチーム
-7. 承認要求名
-8. 提出者（個人およびチーム）
-9. 提出日
+## 4. **承認リクエストカード**
 
-### 5.1 フィルタリング
-
-また、左側のフィルターパネルを使用して、ドキュメントを以下の基準でフィルタリングできます：
-
-1. 割り当て：すべてのチームまたは特定のチーム
-2. ドキュメントの状態：保留中、レビュー中、完了
-3. 期日：すべて、今後、期限超過
-
-### 5.2 ソート
-
-最後に、以下の基準でソートできます：
-
-1. 改訂版の名前
-2. 状態
-3. 期日
-4. 提出日
-
-### 5.3 検索
-
-テキスト検索では、改訂版名と承認要求名で検索できます。
-
-## 6. **行の内容**
-
-### 6.1 **オープンまたはクローズした承認行**
-
-レビュー中またはクローズした承認要求行の内容を開くと、その承認の[承認ページ](https://support.catenda.com/ja/articles/12494960-オープンまたはクローズされた承認依頼ページ)が開きます。
-
-### 6.2 **ドラフト承認行**
-
-ドラフト承認の場合、[ドラフト承認要求ページ](https://support.catenda.com/ja/articles/12495175-ドラフト承認依頼ページ)が代わりに開きます。
-
-## 7. **承認要求カード**
-
-### 7.1 **タイトル**
+### 4.1 **タイトル**
 
 承認タイトル
 
-### 7.2 **ドラフトステータス**
+### 4.2 **ドラフトステータス**
 
-承認要求がドラフトステータスの場合、承認ページでドラフトを作成した人にのみ表示されます。
+承認リクエストがドラフトステータスを持つ場合、承認ページでドラフトを作成した人にのみ表示されます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
 
-承認要求は、改訂版の右側メニューの承認メニューに表示されません。
+承認リクエストはリビジョンの右メニューの承認メニューに表示されません。
 
-### 7.3 **オープン承認ステータス**
+### 4.3 **オープン承認ステータス**
 
-承認要求がオープンステータスの場合、その要求に関わっているチームの一部であるすべてのメンバーに表示されます。複数のチームによってレビュー中の承認のステータスの上にマウスを置くと、現在のレビューステップでレビューを提出する必要があるチームを表示するポップアップが開きます。
+承認リクエストがオープンステータスを持つ場合、リクエストに関わるチームの一部であるすべてのメンバーに表示されます。複数のチームによってレビュー中の承認のステータスにカーソルを合わせると、現在のレビューステップで確認をまだ提出していないチームを示すポップアップが開きます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
 
-レビューを既に提出したレビュアーチームは、このリストに表示されず、承認ステップが現在レビュー中のチーム数にカウントされません。
+既にレビューを提出したレビュアーチームはこのリストに表示されず、承認ステップが現在レビュー中のチーム数にカウントされません。
 
-オープン承認ステータスの右側に、承認ステップがレビューされる必要がある日時が表示されます。このステップに自動承認が設定されている場合、承認は指定された日時に自動的に次のステップに進みます。
+オープン承認ステータスの右側には、承認ステップをレビューする必要がある日時が表示されます。このステップに対して自動承認が設定されている場合、承認は自動的にこの日時に次のステップに進みます。
 
-### 7.4 **クローズドステータス**
+### 4.4 **クローズドステータス**
 
-承認リクエストが最終承認ステップに到達した場合、それはオープンのままになります。各承認ステップの各チームによって与えられた承認と却下に基づいて、最終承認チームのメンバーは最終承認または却下を与えることができます。承認リクエストが最終承認チームメンバーによって最終的に承認または却下されると、クローズされます。
+承認リクエストが最終承認ステップに達すると、オープンのままです。各承認ステップで各チームによって与えられた承認と却下に基づいて、最終承認チームのメンバーは最終的な承認または却下を行うことができます。最終承認チームメンバーによって承認リクエストが最終的に承認または却下されると、クローズされます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
 
-### 7.5 **ワークフロー**
+### 4.5 **ワークフロー**
 
-承認によってフォローされているワークフロー
+承認によって従うワークフロー
 
-### 7.6 **作成者**
+### 4.6 **作成者**
 
-承認を作成したメンバーおよび作成された日時。
+ドラフトを作成したメンバーと、それが作成された日時。
 
-### 7.7 **最終承認**
+### 4.7 **最終承認**
 
-承認内の共有ドキュメントの公開について最終的な決定権を持つ最終承認チーム。各承認ステップで提出者チームによって提出されたレビューによって通知されます。
+各承認ステップで送信者チームによって提出されたレビューによって知らされた、共有ドキュメントの発行に関して最終的な発言権を持つ最終承認チーム。
 
-### 7.8 **承認番号**
+### 4.8 **承認番号**
 
 承認の番号
 
-### 7.9 **下部アイコン**
+### 4.9 **下部のアイコン**
 
-承認がフォローしているワークフローの現在のレビューステップ。承認が完了する前に完了する必要があるステップの総数。オープンおよびクローズされた承認でのみ表示されます。アクセス設定に関係なく、承認内のドキュメント数。
+承認が従うワークフローの現在のレビューステップ。承認が完成する前に完了する必要があるステップの総数。オープンおよびクローズされた承認にのみ表示されます。アクセス設定に関係なく、承認内のドキュメントの数。
 
 # 承認ページ - レガシー
 

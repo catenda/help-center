@@ -4450,32 +4450,6 @@ So kann das Topic aussehen, wenn Sie mehrere Markups in demselben Topic speicher
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/12-br-save-all-markups-to-one-topic.png)
 
-# Archivsysteme und Projektnummern im Archivierungsportal
-
-> Welches externe Archivsystem das Portal nutzt und welches Projektnummerierungsschema es erfasst.
-
-Die anderen Artikel des Archivierungsportals beschreiben das Archivsystem und die Projektnummer in allgemeinen Begriffen, da dies je nach Organisation unterschiedlich ist. Dieser Artikel nennt das, was das Portal derzeit unterstützt.
-
-## 1. **Das Archivsystem: WebSak+**
-
-Das Portal nutzt **WebSak+**, das von **Acos** bereitgestellte Archivsystem.
-
-Eine Einreichung wird nicht direkt in WebSak+ durchgeführt. Das Portal stellt die Metadaten des Elements als XML zusammen und übergibt diese an den Einreichungsservice von Acos, der die Archivierung durchführt. Die Referenz, die dieser Service zurückgibt, wird auf der Registerkarte **Archiviert** unter **ACOS Ref** angezeigt. Verwenden Sie diese Referenz, wenn Sie Fragen zu einem bestimmten archivierten Element haben.
-
-Dies erklärt auch, warum die Fehlergründe auf der Registerkarte **Archiviert** als Einschränkungen des empfangenden Archivs formuliert sind: höchstens 50 Dateien und höchstens 2300 MB pro Einreichung.
-
-## 2. **Projektnummerierung: Agresso**
-
-Die **Projektnummer** in **Einstellungen** ist eine **Agresso-Projektnummer** mit 8 Zeichen Länge.
-
-> **Wichtig:** Die Nummer wird im Portal eingegeben, da dies die im Projekt in WebSak+ registrierte Nummer ist. Es gibt keine Verbindung zwischen dem Archivierungsportal und Agresso selbst. Es werden keine Daten aus Agresso gelesen oder in Agresso geschrieben, und es wird keine Validierung dagegen durchgeführt. Geben Sie die Nummer daher sorgfältig ein. Das Portal kann Ihnen nicht sagen, ob sie falsch ist.
-
-## 3. **Alles Weitere**
-
-Das Portal ist für openBIM-Projektdaten in Catenda Hub konzipiert. Die Dokumente und Themen, die es bereitstellt, stammen aus Catenda Hub und von nirgendwo sonst.
-
-Informationen zum Exportieren von Projektdaten aus Catenda Hub auf andere Weise, einschließlich Exporte, Langzeitformate und die Option des eingefrorenen Archivs, finden Sie unter [Exportieren aller Projektdaten](https://support.catenda.com/de/articles/7946690-exportieren-aller-projektdaten).
-
 # Auswahl und Clipping aus 2D
 
 ### **Clipping im Modell aus 2D**
@@ -4841,80 +4815,6 @@ Einige Spalten in der Berichtstabelle sind standardmäßig aktiviert, während a
 Die folgenden Seiten können als Unterseiten zur Berichtsseite gefunden werden:
 
 - [Vorlagen](https://support.catenda.com/de/articles/12380837-seite-berichtvorlagen)
-
-# Berichtsaktion erstellen
-
-Die Aktion "Bericht erstellen" ist für Projekte verfügbar, in denen die Opt-in-Berichtsfunktion aktiviert werden soll. Wenn die Berichtsfunktion in einem Projekt aktiviert ist, wird die Aktion "Bericht erstellen" in den Aktionsmenüs der Dokumente und Themen-Tabelle verfügbar. Wählen Sie ein oder mehrere Elemente in der Dokumenttabelle aus und öffnen Sie das [Dokumenttabellen-Aktionsmenü](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen). Wählen Sie ein oder mehrere Elemente in der Thematabelle aus und öffnen Sie das [Thematabellen-Aktionsmenü](https://support.catenda.com/de/articles/4670284-aktionen-in-der-thementabelle). So könnte die Aktion "Bericht erstellen" aussehen:
-
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-ef841bc1c2c3.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-0c1ebf646ff6.png" width="290"/>
-
-## 1. Exportoptionen wählen
-
-Wenn die Aktion "Bericht erstellen" angeklickt wird, wird das Dialogfeld "Bericht generieren" geöffnet:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/01-choose-export-options.png)
-
-> **Hinweis:** Beachten Sie bei Berichten, die auf ausgewählten Elementen in der Dokumenttabelle erstellt wurden, dass nur Dokumentelemente in den Bericht aufgenommen werden und nicht Ordnerelemente.
-
-### 1.1 **Ausgewählt**
-
-Zeigt die Anzahl der ausgewählten Elemente an (Ordner in Dokumentberichten ausgeschlossen)
-
-### 1.2 **Aktueller Filter**
-
-Zeigt die Anzahl der Elemente an, die dem aktuellen Filter entsprechen. Die Anzahl umfasst Ordnerelemente in Dokumentberichten, obwohl diese nicht in den Bericht aufgenommen werden
-
-### 1.3 **Weiter**
-
-Klicken Sie auf "Weiter", um den Bericht auf der Berichtsseite zu öffnen.
-
-## 2. Neue Berichtsseite
-
-So könnte die neue Berichtsseite aussehen:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/02-new-report-page.png)
-
-### 2.1 **Berichtsvorlage wählen**
-
-Wählen Sie einen vordefinierten Bericht aus der Liste der Berichtsvorlagen aus, die der Projektadministrator im Projekt verfügbar gemacht hat. Wählen Sie für Berichte aus der Dokumenttabelle aus einer Liste der verfügbaren Dokumentvorlagen aus. Wählen Sie für Berichte aus der Thematabelle aus einer Liste der verfügbaren Themenvorlagen aus.
-
-### 2.2 **Neue Berichts-Symbolleiste**
-
-**Speichern** So könnte das Speichermenü aussehen:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/03-new-report-toolbar.png)
-
-> **Hinweis:** Stellen Sie sicher, dass der Browserzoom auf die richtige Skalierung eingestellt ist, um das gesamte Menü zu sehen.
-
-Der gleiche Bericht kann in jedem verfügbaren Dateityp gespeichert werden. Die verfügbaren Dateiformate sind:
-
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 197px; padding: 8px;"><h3 id="h_c78caefe80"><b>Verfügbare Dateitypen</b></h3></td><td style="background-color: #e3e7fa80; width: 77px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_682e4fccfb">Standard</h3></td><td style="background-color: #e3e7fa80; width: 97px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_457a2022bf">Standardversion</h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_2686400f9a">Catenda-Vorschau</h3></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7d366f10d0">Adobe PDF</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pdf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>PDF/A-1<br/>PDF/A-2<br/>PDF/A-3</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_94e4483855">Microsoft PowerPoint</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pptx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bbed4e09ef">HTML</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.html</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>HTML<br/>HTML5</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Bitte lesen Sie den <a class="intercom-content-link" href="https://support.catenda.com/de/articles/4670320-vorschau-von-dateitypen-auf-catenda-hub">Support-Artikel</a> </p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_619405a336">Text</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.txt</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_010bd11b0a">RTF</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.rtf</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Bitte lesen Sie den <a class="intercom-content-link" href="https://support.catenda.com/de/articles/4670320-vorschau-von-dateitypen-auf-catenda-hub">Support-Artikel</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_bc9ec295b0">Microsoft Word</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.docx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f4a5014703">OpenDocument Writer</h3><p></p></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.odt</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_501a9a2af1">Microsoft Excel</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.xlsx</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a247c33d74">OpenDocument Calc</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.ods</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">✓</p></td></tr><tr><td style="background-color: #e8e8e880; width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa1a3a9285">Daten</h3></td><td style="background-color: #e8e8e880; width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.CSV<br/>.DBF<br/>.XML<br/>.DIF<br/>.SYKL<br/>.JSON</p></td><td style="background-color: #e8e8e880; width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Bitte lesen Sie den <a class="intercom-content-link" href="https://support.catenda.com/de/articles/4670320-vorschau-von-dateitypen-auf-catenda-hub">Support-Artikel</a></p></td></tr><tr><td style="width: 197px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d240bc4f64">Bild</h3></td><td style="width: 77px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.Bmp<br/>.Gif<br/>.Jpeg<br/>.Pcx<br/>.Png<br/>.Tiff<br/>.Svg<br/>.Svgz</p></td><td style="width: 97px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Bitte lesen Sie den <a class="intercom-content-link" href="https://support.catenda.com/de/articles/4670320-vorschau-von-dateitypen-auf-catenda-hub">Support-Artikel</a></p></td></tr></tbody></table></div>
-
-Klicken Sie auf ein Format, um das Menü "Exporteinstellungen" zu öffnen.
-
-**Exporteinstellungen** So könnte das Menü "Exporteinstellungen" für das Adobe PDF-Dateiformat aussehen:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/04-new-report-toolbar.png)
-
-Klicken Sie auf OK, um den Bericht als Dokument irgendwo in der Dokumentbibliothek auf Catenda zu speichern, von wo aus er heruntergeladen werden kann. _Berichtsdatei speichern_ Um den Bericht herunterzuladen, muss er zunächst irgendwo in der Dokumentstruktur von Catenda gespeichert werden. Wählen Sie den Ordner aus, in dem Sie den Bericht speichern möchten, benennen Sie Ihren Bericht ggf. um, und klicken Sie dann auf "Herunterladen".
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/05-new-report-toolbar.png)
-
-Das Menü zum Speichern von Dokumenten merkt sich den zuvor ausgewählten Ordner und muss nur einmal konfiguriert werden, wenn jedes Mal der gleiche Ordner verwendet wird.
-
-### 2.3 **Berichtsvorschau**
-
-Eine Vorschau des Berichts wird nach der Standardvorlage erstellt.
-
-**Themenbericht** So könnte ein Themenbericht aussehen:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/06-report-preview.png)
-
-**Dokumentenbericht** So könnte ein Dokumentenbericht aussehen:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/07-report-preview.png)
-
-Berichtsvorlagen werden auf der Seite "Berichtsvorlagen" konfiguriert. _Erforderlicher Zugriff zum Speichern von Berichten:_ Lesezugriff überall im Dokumentbereich. _Erforderlicher Zugriff für die Vorlagenkonfiguration:_ Administrator
 
 # Boards-Seite
 
@@ -10581,161 +10481,99 @@ Klicken Sie auf Speichern, um die Änderungen zu speichern
 
 Die Genehmigungseinstellungsseite ist nicht für Projekte verfügbar, die mit dem neuen Validierungsworkflow beginnen
 
-# Genehmigungsseite
+# Seite „Freigaben
 
-Die Genehmigungsseite befindet sich als Unterseite der [Dokumentseite](https://support.catenda.com/de/articles/8204673-dokumentenseite) im linken Navigationsmenü. Hier finden Sie einen Überblick über die Genehmigungsanfragen im Projekt.
+Die Seite „Freigaben
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Dieser Artikel enthält Informationen zu den folgenden Themen: _[Aktivieren](#h_263c9d1268) - [Aktionen](#h_39a97bd06a) - [Suchen/Filtern](#h_95652579ee) - [Genehmigungsliste](#h_aa4dfe69f5) - [Zeilen](#h_76de8831a3) - [Genehmigungsanfragekarten](#h_e99a80135a) -_ [Genehmigungsanfragen und Dokumentrevisionenreiter](#h_aae5976a1d)
+Dieser Artikel enthält Informationen zu den folgenden Themen:
 
-Auf der Genehmigungsseite können folgende Aktionen ausgeführt werden:
+_[Suchen oder Filtern](https://support.catenda.com/de/articles/12495047-genehmigungsseite#h_95652579ee) - [Freigabeliste](https://support.catenda.com/de/articles/12495047-genehmigungsseite#h_aa4dfe69f5) - [Zeileninhalt](https://support.catenda.com/de/articles/12495047-genehmigungsseite#h_76de8831a3) - [Freigabeanfragekarten](https://support.catenda.com/de/articles/12495047-genehmigungsseite#h_e99a80135a)_
 
-- Jede Genehmigungsanfrage kann vom Team überprüft und validiert werden, bevor eine endgültige Validierung entscheidet, ob die angeforderten Überarbeitungen genehmigt werden oder nicht.
-- Konfiguration des Verlaufs und des Ergebnisses einer Genehmigung können vorgenommen werden.
-- Neue Genehmigungen können erstellt werden.
+Projekte, bei denen freigegebene Überarbeitungen vor dem 2. Oktober 2025 aktiviert wurden, sehen stattdessen die [ältere Freigabenseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy). Auf der Freigabenseite können folgende Aktionen durchgeführt werden:
 
-## 1. **Aktivieren der Genehmigungsseite**
+- Jede Freigabeanfrage kann vom Team überprüft und validiert werden, bevor eine endgültige Validierung entscheidet, ob die angeforderten Überarbeitungen freigegeben werden sollen oder nicht.
+- Die Konfiguration des Verlaufs und des Ergebnisses einer Freigabe kann durchgeführt werden.
+- Es können neue Freigaben erstellt werden.
 
-Die Genehmigungsseite ist standardmäßig ausgeblendet. Aktivieren Sie gemeinsame Überarbeitungen in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen), um die Genehmigungsseite anzuzeigen. _Erforderlicher Zugriff:_ Projektadministrator
+## 1. **Such- oder Filteroptionen**
 
-> **Hinweis:** In Projekten, in denen gemeinsame Überarbeitungen vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die [Legacy-Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) angezeigt.
-
-### 1.1 **Aktivierung aus Vorlagenprojekt**
-
-Projekte, die auf der Grundlage eines Template-Projekts erstellt wurden, bei dem gemeinsame Status aktiviert waren, haben gemeinsame Status aktiviert und die Approvals-Seite wird bei der Erstellung angezeigt. Die Approval-Workflows und Topic-Templates des Template-Projekts werden auf das neue Projekt übertragen, sodass sie nicht erneut erstellt werden müssen, bevor Mitglieder mit der Einreichung von Approval-Anfragen beginnen können.
-
-## 2. **Neue Elementaktionen**
-
-Die neuen Elementaktionen befinden sich oben rechts auf der Seite.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
-
-### 2.1 **Neue Genehmigungsanfrage**
-
-Klicken Sie [hier](https://support.catenda.com/de/articles/12495005-erstellen-einer-neuen-genehmigungsanforderung), um mehr über die Erstellung einer neuen Genehmigungsanfrage zu erfahren.
-
-**Erforderlicher Zugriff:** Ein Mitglied muss Teil eines Absenderteams in einem konfigurierten Workflow sein, um eine neue Genehmigungsanfrage einreichen zu können.
-
-## 3. **Such- oder Filteroptionen**
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
 
 Klicken Sie [hier](https://support.catenda.com/de/articles/12495060-filterung-auf-der-genehmigungsseite), um mehr über das Filtern auf der Genehmigungsseite zu erfahren.
 
-## 4. **Genehmigungsliste**
+## 2. **Freigabeliste**
 
-Genehmigungskarten mit visuellen Hinweisen zum Inhalt jeder Genehmigungsanfrage, an der ein Mitglied beteiligt ist, werden in der Genehmigungsliste angezeigt.
+Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt wurden, enthalten die Genehmigungsworkflows und Themavorlagen dieses Vorlagenprojekts. Jede Zeile in der Genehmigungsliste enthält eine Genehmigungskarte mit visuellen Hinweisen auf den Inhalt jeder Genehmigungsanfrage.
 
-So kann eine Genehmigungsanfrage mit vollständiger Aktivität aussehen:
+So kann eine Freigabeanfrage mit vollständiger Aktivität aussehen:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
 
-Aktivität, die in der Genehmigung auftritt, wird mit Mengen und Symbolen auf der Genehmigungskarte angezeigt.
+Aktivitäten, die in der Freigabe auftreten, werden mit Mengen und Symbolen auf der Freigabenkarte angezeigt.
 
-**Erforderlicher Zugriff:** Die Sichtbarkeit der Anfrage ist rollenbasiert: Projektmitglieder können nur Anfragen anzeigen, die sie persönlich eingereicht haben, aktive Anfragen, die einem Bearbeiter- oder endgültigen Bearbeiterteam zugewiesen sind, bei dem sie Mitglied sind, oder alle Projektanfragen im Falle von Projektadministratoren.
+**Erforderlicher Zugriff:** Mitglied des Einreichers, des Prüfers oder des abschließenden Prüfteams oder Administrator.
 
-- Weitere Informationen zu detaillierten operativen Verfahren zum Einreichen von Überarbeitungen, zum Hinzufügen von Überarbeitungsmarkierungen und zum Verarbeiten von Schrittvalidierungen oder endgültigen Entscheidungen finden Sie [hier](https://www.google.com/search?q=).
-- Weitere Informationen zu Verwaltungsanleitungen zum Konfigurieren von Genehmigungsvorlagen, zum Verwalten gesperrter Parameter und zum Beheben fehlerhafter Abhängigkeiten finden Sie [hier](https://www.google.com/search?q=).
+## 3. **Zeileninhalt**
 
-## 5. **Dokumentrevisionsliste**
+### 3.1 **Offene oder geschlossene Freigabenzeile**
 
-Der zweite Reiter ermöglicht es Ihnen, einen Überblick über alle Dokumente zu erhalten, die in allen offenen Genehmigungen überprüft werden.
+Das Öffnen des Inhalts einer Freigabeanfrage, die überprüft wird oder geschlossen ist, öffnet die [Freigabenseite](https://support.catenda.com/de/articles/12494960-seite-offene-oder-geschlossene-freigabeanfrage) für diese Freigabe.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
+### 3.2 **Entwurffreigabenzeile**
 
-Die Tabelle zeigt:
+Für Entwurffreigaben wird stattdessen die [Seite für Entwurffreigabeanfragen](https://support.catenda.com/de/articles/12495175-seite-fur-freigabeanfrage-entwurf) geöffnet.
 
-1. der Revisionsname
-1. die Revisionsnummer
-1. der aktuelle Überprüfungsschritt
-1. der aktuelle Zustand des Schritts
-1. das Fälligkeitsdatum für die Überprüfung des Schritts
-1. die Teams, die das Dokument noch überprüfen müssen
-1. der Name der Genehmigungsanfrage
-1. der Absender (Einzelperson und Team)
-1. das Einreichungsdatum
+## 4. **Freigabeanfragekarten**
 
-### 5.1 Filterung
+### 4.1 **Titel**
 
-Das linke Filterpanel ermöglicht es Ihnen auch, die Dokumente nach folgenden Kriterien zu filtern:
+Freigabentitel
 
-1. Zuweisung: alle Teams oder Ihr Team spezifisch
-1. Dokumentzustand: Ausstehend, Unter Überprüfung, Abgeschlossen
-1. Fälligkeitsdatum: alle, bevorstehend, überfällig
+### 4.2 **Entwurfstatus**
 
-### 5.2 Sortierung
+Wenn eine Freigabeanfrage den Status Entwurf hat, ist sie nur für die Person sichtbar, die den Entwurf auf der Freigabenseite erstellt hat.
 
-Abschließend können Sie nach folgenden Kriterien sortieren:
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
 
-1. Revisionsname
-1. Status
-1. Fälligkeitsdatum
-1. Einreichungsdatum
+Die Freigabeanfrage ist im Freigabemenü des rechten Menüs einer Überarbeitung nicht sichtbar.
 
-### 5.3 Suchen
+### 4.3 **Offener Freigabenstatus**
 
-Die Textsuche ermöglicht es Ihnen, nach Revisionsname und Genehmigungsanfragename zu suchen.
+Wenn eine Freigabeanfrage den Status Offen hat, ist sie für alle Mitglieder sichtbar, die Teil der beteiligten Teams sind. Bewegen Sie die Maus über den Status von Freigaben, die von mehr als einem Team überprüft werden, um ein Popup zu öffnen, das anzeigt, welche Teams ihren Überblick in der aktuellen Überprüfungsphase noch einreichen müssen.
 
-## 6. **Zeileninhalt**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
 
-### 6.1 **Offene oder geschlossene Genehmigungszeile**
+Prüfteams, die bereits ihre Überprüfung durchgeführt haben, werden in dieser Liste nicht angezeigt und tragen nicht zu der Anzahl der Teams bei, von denen die Freigabenstufe derzeit überprüft wird.
 
-Wenn Sie den Inhalt einer Genehmigungsanfragungszeile öffnen, die sich in Überprüfung oder geschlossen befindet, wird die [Genehmigungsseite](https://support.catenda.com/de/articles/12494960-seite-offene-oder-geschlossene-freigabeanfrage) für diese Genehmigung geöffnet.
+Rechts neben dem Status der offenen Freigabe werden das Datum und die Uhrzeit angezeigt, bis zu denen die Freigabenstufe überprüft werden muss. Wenn für diesen Schritt die automatische Genehmigung konfiguriert ist, wechselt die Freigabe automatisch zu diesem Datum und dieser Uhrzeit zum nächsten Schritt.
 
-### 6.2 **Entwurf-Genehmigungszeile**
+### 4.4 **Geschlossener Status**
 
-Für Entwurfsgenehmigungen wird stattdessen die [Seite "Entwurf Genehmigungsanfrage"](https://support.catenda.com/de/articles/12495175-seite-fur-freigabeanfrage-entwurf) geöffnet.
+Wenn eine Freigabeanfrage ihre endgültige Freigabenstufe erreicht, bleibt sie offen. Auf der Grundlage der von jedem der Teams in jeder der Freigabenstufen gegebenen Genehmigungen und Ablehnungen kann ein Mitglied des abschließenden Freigabeteams seine endgültige Genehmigung oder Ablehnung geben. Wenn die Freigabeanfrage von einem Mitglied des abschließenden Freigabeteams endgültig genehmigt oder abgelehnt wird, wird sie geschlossen.
 
-## 7. **Genehmigungsanfragekarten**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
 
-### 7.1 **Titel**
+### 4.5 **Workflow**
 
-Genehmigungstitel
+Der Workflow, dem die Freigabe folgt
 
-### 7.2 **Entwurfsstatus**
+### 4.6 **Erstellt von**
 
-Wenn eine Genehmigungsanfrage den Status "Entwurf" hat, ist sie nur für die Person sichtbar, die den Entwurf auf der Genehmigungsseite erstellt hat.
+Das Mitglied, das die Freigabe erstellt hat, und das Datum und die Uhrzeit der Erstellung.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
+### 4.7 **Finale Freigabe**
 
-Die Genehmigungsanfrage ist nicht im Genehmigungsmenü des rechten Menüs einer Überarbeitung sichtbar.
+Das abschließende Freigabeteam, das das endgültige Wort bei der Veröffentlichung der freigegebenen Dokumente in der Freigabe hat, informiert durch die von den Einreicherteams in jeder der Freigabenstufen eingereichten Überprüfungen.
 
-### 7.3 **Status der offenen Genehmigung**
+### 4.8 **Freigabenummer**
 
-Wenn eine Genehmigungsanfrage den Status "Offen" hat, ist sie für alle Mitglieder sichtbar, die Teil von Teams in der Anfrage sind. Fahren Sie mit der Maus über den Status von Genehmigungen, die von mehr als einem Team überprüft werden, um ein Popup zu öffnen, das zeigt, welches Team seine Überprüfung im aktuellen Überprüfungsschritt noch einreichen muss.
+Die Nummer der Freigabe
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
+### 4.9 **Untere Symbole**
 
-Teams, die ihre Bewertung bereits abgegeben haben, werden in dieser Liste nicht angezeigt und zählen nicht zu der Anzahl der Teams, die den Genehmigungsschritt derzeit überprüfen.
-
-Rechts neben dem Status der offenen Genehmigung werden das Datum und die Uhrzeit angezeigt, bis zu denen der Genehmigungsschritt überprüft sein muss. Wenn für diesen Schritt die automatische Genehmigung konfiguriert ist, wird die Genehmigung zu diesem Datum und dieser Uhrzeit automatisch zum nächsten Schritt übergehen.
-
-### 7.4 **Geschlossener Status**
-
-Wenn eine Genehmigungsanfrage ihren finalen Genehmigungsschritt erreicht, bleibt sie offen. Basierend auf den Genehmigungen und Ablehnungen, die von jedem Team in jedem Genehmigungsschritt gegeben wurden, kann ein Mitglied des finalen Genehmigungsteams seine endgültige Genehmigung oder Ablehnung erteilen. Wenn die Genehmigungsanfrage von einem Mitglied des finalen Genehmigungsteams endgültig genehmigt oder abgelehnt wird, wird sie geschlossen.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
-
-### 7.5 **Workflow**
-
-Der Workflow, der von der Genehmigung befolgt wird
-
-### 7.6 **Erstellt von**
-
-Das Mitglied, das die Genehmigung erstellt hat, und das Datum und die Uhrzeit der Erstellung.
-
-### 7.7 **Endgültige Genehmigung**
-
-Das endgültige Genehmigungsteam, das das letzte Wort zur Veröffentlichung der gemeinsamen Dokumente in der Genehmigung hat, informiert durch die von den Einreichungsteams in jedem Genehmigungsschritt eingereichten Bewertungen.
-
-### 7.8 **Genehmigungsnummer**
-
-Die Nummer der Genehmigung
-
-### 7.9 **Symbole unten**
-
-Der aktuelle Genehmigungsschritt des Workflows, dem die Genehmigung folgt. Die Gesamtanzahl der Schritte, die die Genehmigung abschließen muss, bevor die Genehmigung abgeschlossen ist. Nur bei offenen und geschlossenen Genehmigungen sichtbar. Die Anzahl der Dokumente in der Genehmigung unabhängig von den Zugriffseinstellungen.
+Die aktuelle Überprüfungsphase des Workflows, dem die Freigabe folgt. Die Gesamtzahl der Schritte, die die Freigabe vor der Abfassung der Freigabe durchlaufen muss. Nur bei offenen und geschlossenen Freigaben sichtbar. Die Anzahl der Dokumente in der Freigabe unabhängig von den Zugriffseinstellungen.
 
 # Genehmigungsseite - Legacy
 
@@ -13797,66 +13635,6 @@ Das Inspect-Panel kann die folgenden Hauptseiten enthalten:
 Inspect QTO (Quantity Take-Off) 4D-Auswahl Messen
 
 Klicken Sie [hier](https://support.catenda.com/de/articles/4670285-inspect-menu), um mehr über das Inhalts-Panel zu erfahren.
-
-# Projektseite im Archivierungsportal
-
-> Melden Sie sich beim Archivierungsportal an und öffnen Sie ein Projekt. Nur Projekte, bei denen Sie Administrator sind, werden aufgelistet.
-
-Das Archivierungsportal ermöglicht es Ihnen, Dokumente und Themen aus Catenda Hub in das externe Archivierungssystem Ihrer Organisation zu archivieren. Es ist für denjenigen gedacht, der in einem oder mehreren Projekten für die Archivierung verantwortlich ist.
-
-Öffnen Sie das Portal unter [archiving.catenda.com](https://archiving.catenda.com) und klicken Sie auf **Mit Catenda Hub verbinden**. Das Portal hat sein eigenes Passwort nicht, daher authentifizieren Sie sich bei Catenda Hub und werden hierher zurückgebracht. Für das Konto selbst siehe [Anmeldeseite](https://support.catenda.com/de/articles/7891486-anmeldeseite).
-
-Die Projektseite kann ungefähr so aussehen:
-
-![](https://catenda.github.io/help-center-ops/images/h1mfgfs5/01-intro.png)
-
-## 1. **Wie die Archivierung funktioniert**
-
-Die Archivierung läuft in eine Richtung, von Catenda Hub zu Ihrem Archivierungssystem der Organisation. Das Portal ist der Ort, an dem Sie entscheiden, was archiviert wird und bestätigen, dass es angekommen ist.
-
-### 1.1 **Was wird archivierbar**
-
-Was archiviert werden kann, wird in Catenda Hub entschieden, nicht im Portal. Ein Dokument wird archivierbar, wenn es sich in einem Ordner mit der Archivierungs-Etikette befindet, die mit `Arkivverdig` bezeichnet ist, sofern Ihr Projekt keine eigene definiert. Themen werden auf die gleiche Weise archivierbar, über ihr Themen-Board.
-
-Das Portal verwaltet eine eigene Kopie dessen, was in Catenda Hub ist, und aktualisiert sie ungefähr alle 30 Minuten, daher dauert es eine Weile, bis eine gerade dort vorgenommene Änderung hier angezeigt wird.
-
-### 1.2 **Auswählen, was archiviert wird**
-
-Alles, was archiviert werden soll, wird auf einer eigenen Projektseite aufgelistet, mit Dokumenten und Themen auf separaten Registerkarten. Für jedes Element entscheiden Sie, ob es archiviert werden soll, ob es zunächst übersprungen wird oder ob es nie archiviert werden soll. Sie können auch die Metadaten korrigieren oder Anhänge hinzufügen, bevor es archiviert wird.
-
-Eine Projektnummer muss vor der Archivierung festgelegt werden, da dies die Nummer ist, unter der das Element im Archiv registriert wird. Bis sie festgelegt ist, teilt Ihnen das Portal dies mit, anstatt zu archivieren.
-
-### 1.3 **Versenden und was zurückkommt**
-
-Beim Versenden wird das Element an das Archivierungssystem übergeben, das es ablegt und eine Referenz zurückgibt. Das Portal zeichnet diese Referenz für das Element auf, daher kann alles Archivierte auf die Kopie im Archiv zurückverfolgt werden.
-
-Alles, das fehlschlägt, wird mit dem Grund des Fehlschlags aufgezeichnet und kann erneut versendet werden, entweder einzeln oder für das gesamte Projekt auf einmal.
-
-> **Hinweis:** Die Artikel, die diese Schritte im Detail beschreiben, sind nur für Benutzer mit Zugriff auf das Archivierungsportal verfügbar. Welches Archivierungssystem das Portal nutzt, siehe [Archivierungssysteme und Projektnummern im Archivierungsportal](https://support.catenda.com/de/articles/16968887-archivsysteme-und-projektnummern-im-archivierungsportal).
-
-## 2. **Ihre Projekte**
-
-Nach der Anmeldung landen Sie auf **Ihre Projekte**.
-
-Nur Projekte, bei denen Sie Administratorrechte haben, werden aufgelistet. Wenn ein Projekt fehlt, das Sie erwarten, überprüfen Sie Ihre Rechte darin in Catenda Hub, nicht im Portal.
-
-Jedes Projekt wird mit seinem Besitzer und einer Anzahl der Dokumente und Themen aufgelistet, die derzeit archiviert werden sollen.
-
-Klicken Sie auf **Archiv verwalten** für ein Projekt, um es zu öffnen. Was die Projektseite von dort aus zeigt, wird in [Projektinhaltsseite im Archivierungsportal](https://support.catenda.com/de/articles/16968871-projektinhaltsseite-im-archivierungsportal) beschrieben, die nur Benutzer mit Zugriff auf das Archivierungsportal lesen können.
-
-> **Hinweis:** Das Portal bestimmt, welche Projekte angezeigt werden, indem es Ihre Teammitgliedschaften überprüft. Wenn diese Überprüfung fehlschlägt, wird Ihnen mitgeteilt, dass einige Projekte möglicherweise nicht sichtbar sind, anstatt stillschweigend eine kurze Liste anzuzeigen.
-
-## 3. **Die Steuerelemente oben rechts**
-
-Drei Steuerelemente befinden sich oben rechts, und diese Seite ist der erste Ort, an dem Sie ihnen begegnen. Sie bleiben verfügbar, sobald Sie ein Projekt öffnen.
-
-**Sprache** Das Portal ist in Englisch und Norwegisch Bokmål verfügbar, und der Sprachwahlschalter wechselt zwischen ihnen.
-
-**Statistiken** **Statistiken anzeigen** öffnet eine Zusammenfassung dessen, was über alle Projekte hinweg archiviert wurde. Das Symbol wird nur Organisationseigentümern angezeigt und ersetzt das Zahnradsymbol, das eine Projektseite anzeigt. Diese Seite wird in [Statistikseite im Archivierungsportal](https://support.catenda.com/de/articles/16968884-statistikseite-im-archivierungsportal) beschrieben, und die projektspezifischen Zahlen in [Projekteinstellungsseite im Archivierungsportal](https://support.catenda.com/de/articles/16968883-projekteinstellungsseite-im-archivierungsportal). Beide Artikel sind nur für Benutzer mit Zugriff auf das Archivierungsportal verfügbar.
-
-**Abmelden** Meldet Sie vom Portal ab.
-
-> **Hinweis:** Der Sprachwahlschalter ändert die Benutzeroberfläche des Portals. Es ändert nicht die Namen der Etiketten, die Sie in Catenda Hub festgelegt haben, die bleiben so, wie sie dort geschrieben sind. Auch die englische Benutzeroberfläche verweist auf die Archivierungs-Etikette unter ihrem norwegischen Namen `Arkivverdig`.
 
 # Projektspezifische Benachrichtigungseinstellungen
 

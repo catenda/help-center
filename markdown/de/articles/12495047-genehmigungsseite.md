@@ -1,155 +1,93 @@
-# Genehmigungsseite
+# Seite „Freigaben
 
-Die Genehmigungsseite befindet sich als Unterseite der [Dokumentseite](https://support.catenda.com/de/articles/8204673-dokumentenseite) im linken Navigationsmenü. Hier finden Sie einen Überblick über die Genehmigungsanfragen im Projekt.
+Die Seite „Freigaben
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Dieser Artikel enthält Informationen zu den folgenden Themen: _[Aktivieren](#h_263c9d1268) - [Aktionen](#h_39a97bd06a) - [Suchen/Filtern](#h_95652579ee) - [Genehmigungsliste](#h_aa4dfe69f5) - [Zeilen](#h_76de8831a3) - [Genehmigungsanfragekarten](#h_e99a80135a) -_ [Genehmigungsanfragen und Dokumentrevisionenreiter](#h_aae5976a1d)
+Dieser Artikel enthält Informationen zu den folgenden Themen:
 
-Auf der Genehmigungsseite können folgende Aktionen ausgeführt werden:
+_[Suchen oder Filtern](https://support.catenda.com/de/articles/12495047-genehmigungsseite#h_95652579ee) - [Freigabeliste](https://support.catenda.com/de/articles/12495047-genehmigungsseite#h_aa4dfe69f5) - [Zeileninhalt](https://support.catenda.com/de/articles/12495047-genehmigungsseite#h_76de8831a3) - [Freigabeanfragekarten](https://support.catenda.com/de/articles/12495047-genehmigungsseite#h_e99a80135a)_
 
-- Jede Genehmigungsanfrage kann vom Team überprüft und validiert werden, bevor eine endgültige Validierung entscheidet, ob die angeforderten Überarbeitungen genehmigt werden oder nicht.
-- Konfiguration des Verlaufs und des Ergebnisses einer Genehmigung können vorgenommen werden.
-- Neue Genehmigungen können erstellt werden.
+Projekte, bei denen freigegebene Überarbeitungen vor dem 2. Oktober 2025 aktiviert wurden, sehen stattdessen die [ältere Freigabenseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy). Auf der Freigabenseite können folgende Aktionen durchgeführt werden:
 
-## 1. **Aktivieren der Genehmigungsseite**
+- Jede Freigabeanfrage kann vom Team überprüft und validiert werden, bevor eine endgültige Validierung entscheidet, ob die angeforderten Überarbeitungen freigegeben werden sollen oder nicht.
+- Die Konfiguration des Verlaufs und des Ergebnisses einer Freigabe kann durchgeführt werden.
+- Es können neue Freigaben erstellt werden.
 
-Die Genehmigungsseite ist standardmäßig ausgeblendet. Aktivieren Sie gemeinsame Überarbeitungen in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen), um die Genehmigungsseite anzuzeigen. _Erforderlicher Zugriff:_ Projektadministrator
+## 1. **Such- oder Filteroptionen**
 
-> **Hinweis:** In Projekten, in denen gemeinsame Überarbeitungen vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die [Legacy-Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) angezeigt.
-
-### 1.1 **Aktivierung aus Vorlagenprojekt**
-
-Projekte, die auf der Grundlage eines Template-Projekts erstellt wurden, bei dem gemeinsame Status aktiviert waren, haben gemeinsame Status aktiviert und die Approvals-Seite wird bei der Erstellung angezeigt. Die Approval-Workflows und Topic-Templates des Template-Projekts werden auf das neue Projekt übertragen, sodass sie nicht erneut erstellt werden müssen, bevor Mitglieder mit der Einreichung von Approval-Anfragen beginnen können.
-
-## 2. **Neue Elementaktionen**
-
-Die neuen Elementaktionen befinden sich oben rechts auf der Seite.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
-
-### 2.1 **Neue Genehmigungsanfrage**
-
-Klicken Sie [hier](https://support.catenda.com/de/articles/12495005-erstellen-einer-neuen-genehmigungsanforderung), um mehr über die Erstellung einer neuen Genehmigungsanfrage zu erfahren.
-
-**Erforderlicher Zugriff:** Ein Mitglied muss Teil eines Absenderteams in einem konfigurierten Workflow sein, um eine neue Genehmigungsanfrage einreichen zu können.
-
-## 3. **Such- oder Filteroptionen**
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
 
 Klicken Sie [hier](https://support.catenda.com/de/articles/12495060-filterung-auf-der-genehmigungsseite), um mehr über das Filtern auf der Genehmigungsseite zu erfahren.
 
-## 4. **Genehmigungsliste**
+## 2. **Freigabeliste**
 
-Genehmigungskarten mit visuellen Hinweisen zum Inhalt jeder Genehmigungsanfrage, an der ein Mitglied beteiligt ist, werden in der Genehmigungsliste angezeigt.
+Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt wurden, enthalten die Genehmigungsworkflows und Themavorlagen dieses Vorlagenprojekts. Jede Zeile in der Genehmigungsliste enthält eine Genehmigungskarte mit visuellen Hinweisen auf den Inhalt jeder Genehmigungsanfrage.
 
-So kann eine Genehmigungsanfrage mit vollständiger Aktivität aussehen:
+So kann eine Freigabeanfrage mit vollständiger Aktivität aussehen:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
 
-Aktivität, die in der Genehmigung auftritt, wird mit Mengen und Symbolen auf der Genehmigungskarte angezeigt.
+Aktivitäten, die in der Freigabe auftreten, werden mit Mengen und Symbolen auf der Freigabenkarte angezeigt.
 
-**Erforderlicher Zugriff:** Die Sichtbarkeit der Anfrage ist rollenbasiert: Projektmitglieder können nur Anfragen anzeigen, die sie persönlich eingereicht haben, aktive Anfragen, die einem Bearbeiter- oder endgültigen Bearbeiterteam zugewiesen sind, bei dem sie Mitglied sind, oder alle Projektanfragen im Falle von Projektadministratoren.
+**Erforderlicher Zugriff:** Mitglied des Einreichers, des Prüfers oder des abschließenden Prüfteams oder Administrator.
 
-- Weitere Informationen zu detaillierten operativen Verfahren zum Einreichen von Überarbeitungen, zum Hinzufügen von Überarbeitungsmarkierungen und zum Verarbeiten von Schrittvalidierungen oder endgültigen Entscheidungen finden Sie [hier](https://www.google.com/search?q=).
-- Weitere Informationen zu Verwaltungsanleitungen zum Konfigurieren von Genehmigungsvorlagen, zum Verwalten gesperrter Parameter und zum Beheben fehlerhafter Abhängigkeiten finden Sie [hier](https://www.google.com/search?q=).
+## 3. **Zeileninhalt**
 
-## 5. **Dokumentrevisionsliste**
+### 3.1 **Offene oder geschlossene Freigabenzeile**
 
-Der zweite Reiter ermöglicht es Ihnen, einen Überblick über alle Dokumente zu erhalten, die in allen offenen Genehmigungen überprüft werden.
+Das Öffnen des Inhalts einer Freigabeanfrage, die überprüft wird oder geschlossen ist, öffnet die [Freigabenseite](https://support.catenda.com/de/articles/12494960-seite-offene-oder-geschlossene-freigabeanfrage) für diese Freigabe.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
+### 3.2 **Entwurffreigabenzeile**
 
-Die Tabelle zeigt:
+Für Entwurffreigaben wird stattdessen die [Seite für Entwurffreigabeanfragen](https://support.catenda.com/de/articles/12495175-seite-fur-freigabeanfrage-entwurf) geöffnet.
 
-1. der Revisionsname
-1. die Revisionsnummer
-1. der aktuelle Überprüfungsschritt
-1. der aktuelle Zustand des Schritts
-1. das Fälligkeitsdatum für die Überprüfung des Schritts
-1. die Teams, die das Dokument noch überprüfen müssen
-1. der Name der Genehmigungsanfrage
-1. der Absender (Einzelperson und Team)
-1. das Einreichungsdatum
+## 4. **Freigabeanfragekarten**
 
-### 5.1 Filterung
+### 4.1 **Titel**
 
-Das linke Filterpanel ermöglicht es Ihnen auch, die Dokumente nach folgenden Kriterien zu filtern:
+Freigabentitel
 
-1. Zuweisung: alle Teams oder Ihr Team spezifisch
-1. Dokumentzustand: Ausstehend, Unter Überprüfung, Abgeschlossen
-1. Fälligkeitsdatum: alle, bevorstehend, überfällig
+### 4.2 **Entwurfstatus**
 
-### 5.2 Sortierung
+Wenn eine Freigabeanfrage den Status Entwurf hat, ist sie nur für die Person sichtbar, die den Entwurf auf der Freigabenseite erstellt hat.
 
-Abschließend können Sie nach folgenden Kriterien sortieren:
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
 
-1. Revisionsname
-1. Status
-1. Fälligkeitsdatum
-1. Einreichungsdatum
+Die Freigabeanfrage ist im Freigabemenü des rechten Menüs einer Überarbeitung nicht sichtbar.
 
-### 5.3 Suchen
+### 4.3 **Offener Freigabenstatus**
 
-Die Textsuche ermöglicht es Ihnen, nach Revisionsname und Genehmigungsanfragename zu suchen.
+Wenn eine Freigabeanfrage den Status Offen hat, ist sie für alle Mitglieder sichtbar, die Teil der beteiligten Teams sind. Bewegen Sie die Maus über den Status von Freigaben, die von mehr als einem Team überprüft werden, um ein Popup zu öffnen, das anzeigt, welche Teams ihren Überblick in der aktuellen Überprüfungsphase noch einreichen müssen.
 
-## 6. **Zeileninhalt**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
 
-### 6.1 **Offene oder geschlossene Genehmigungszeile**
+Prüfteams, die bereits ihre Überprüfung durchgeführt haben, werden in dieser Liste nicht angezeigt und tragen nicht zu der Anzahl der Teams bei, von denen die Freigabenstufe derzeit überprüft wird.
 
-Wenn Sie den Inhalt einer Genehmigungsanfragungszeile öffnen, die sich in Überprüfung oder geschlossen befindet, wird die [Genehmigungsseite](https://support.catenda.com/de/articles/12494960-seite-offene-oder-geschlossene-freigabeanfrage) für diese Genehmigung geöffnet.
+Rechts neben dem Status der offenen Freigabe werden das Datum und die Uhrzeit angezeigt, bis zu denen die Freigabenstufe überprüft werden muss. Wenn für diesen Schritt die automatische Genehmigung konfiguriert ist, wechselt die Freigabe automatisch zu diesem Datum und dieser Uhrzeit zum nächsten Schritt.
 
-### 6.2 **Entwurf-Genehmigungszeile**
+### 4.4 **Geschlossener Status**
 
-Für Entwurfsgenehmigungen wird stattdessen die [Seite "Entwurf Genehmigungsanfrage"](https://support.catenda.com/de/articles/12495175-seite-fur-freigabeanfrage-entwurf) geöffnet.
+Wenn eine Freigabeanfrage ihre endgültige Freigabenstufe erreicht, bleibt sie offen. Auf der Grundlage der von jedem der Teams in jeder der Freigabenstufen gegebenen Genehmigungen und Ablehnungen kann ein Mitglied des abschließenden Freigabeteams seine endgültige Genehmigung oder Ablehnung geben. Wenn die Freigabeanfrage von einem Mitglied des abschließenden Freigabeteams endgültig genehmigt oder abgelehnt wird, wird sie geschlossen.
 
-## 7. **Genehmigungsanfragekarten**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
 
-### 7.1 **Titel**
+### 4.5 **Workflow**
 
-Genehmigungstitel
+Der Workflow, dem die Freigabe folgt
 
-### 7.2 **Entwurfsstatus**
+### 4.6 **Erstellt von**
 
-Wenn eine Genehmigungsanfrage den Status "Entwurf" hat, ist sie nur für die Person sichtbar, die den Entwurf auf der Genehmigungsseite erstellt hat.
+Das Mitglied, das die Freigabe erstellt hat, und das Datum und die Uhrzeit der Erstellung.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
+### 4.7 **Finale Freigabe**
 
-Die Genehmigungsanfrage ist nicht im Genehmigungsmenü des rechten Menüs einer Überarbeitung sichtbar.
+Das abschließende Freigabeteam, das das endgültige Wort bei der Veröffentlichung der freigegebenen Dokumente in der Freigabe hat, informiert durch die von den Einreicherteams in jeder der Freigabenstufen eingereichten Überprüfungen.
 
-### 7.3 **Status der offenen Genehmigung**
+### 4.8 **Freigabenummer**
 
-Wenn eine Genehmigungsanfrage den Status "Offen" hat, ist sie für alle Mitglieder sichtbar, die Teil von Teams in der Anfrage sind. Fahren Sie mit der Maus über den Status von Genehmigungen, die von mehr als einem Team überprüft werden, um ein Popup zu öffnen, das zeigt, welches Team seine Überprüfung im aktuellen Überprüfungsschritt noch einreichen muss.
+Die Nummer der Freigabe
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
+### 4.9 **Untere Symbole**
 
-Teams, die ihre Bewertung bereits abgegeben haben, werden in dieser Liste nicht angezeigt und zählen nicht zu der Anzahl der Teams, die den Genehmigungsschritt derzeit überprüfen.
-
-Rechts neben dem Status der offenen Genehmigung werden das Datum und die Uhrzeit angezeigt, bis zu denen der Genehmigungsschritt überprüft sein muss. Wenn für diesen Schritt die automatische Genehmigung konfiguriert ist, wird die Genehmigung zu diesem Datum und dieser Uhrzeit automatisch zum nächsten Schritt übergehen.
-
-### 7.4 **Geschlossener Status**
-
-Wenn eine Genehmigungsanfrage ihren finalen Genehmigungsschritt erreicht, bleibt sie offen. Basierend auf den Genehmigungen und Ablehnungen, die von jedem Team in jedem Genehmigungsschritt gegeben wurden, kann ein Mitglied des finalen Genehmigungsteams seine endgültige Genehmigung oder Ablehnung erteilen. Wenn die Genehmigungsanfrage von einem Mitglied des finalen Genehmigungsteams endgültig genehmigt oder abgelehnt wird, wird sie geschlossen.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
-
-### 7.5 **Workflow**
-
-Der Workflow, der von der Genehmigung befolgt wird
-
-### 7.6 **Erstellt von**
-
-Das Mitglied, das die Genehmigung erstellt hat, und das Datum und die Uhrzeit der Erstellung.
-
-### 7.7 **Endgültige Genehmigung**
-
-Das endgültige Genehmigungsteam, das das letzte Wort zur Veröffentlichung der gemeinsamen Dokumente in der Genehmigung hat, informiert durch die von den Einreichungsteams in jedem Genehmigungsschritt eingereichten Bewertungen.
-
-### 7.8 **Genehmigungsnummer**
-
-Die Nummer der Genehmigung
-
-### 7.9 **Symbole unten**
-
-Der aktuelle Genehmigungsschritt des Workflows, dem die Genehmigung folgt. Die Gesamtanzahl der Schritte, die die Genehmigung abschließen muss, bevor die Genehmigung abgeschlossen ist. Nur bei offenen und geschlossenen Genehmigungen sichtbar. Die Anzahl der Dokumente in der Genehmigung unabhängig von den Zugriffseinstellungen.
+Die aktuelle Überprüfungsphase des Workflows, dem die Freigabe folgt. Die Gesamtzahl der Schritte, die die Freigabe vor der Abfassung der Freigabe durchlaufen muss. Nur bei offenen und geschlossenen Freigaben sichtbar. Die Anzahl der Dokumente in der Freigabe unabhängig von den Zugriffseinstellungen.

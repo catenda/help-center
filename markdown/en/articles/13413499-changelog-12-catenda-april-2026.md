@@ -26,7 +26,7 @@ As new features roll out and bugs are fixed articles are updated with the change
     - [Apply a document topic template when creating a markup from a document](https://support.catenda.com/en/articles/14078352-using-topic-templates-when-saving-markup-topics)
     - [Apply an approval topic template to an approval workflow template](https://support.catenda.com/en/articles/14078683-using-topic-templates-with-approvals)
 - Cross-category
-    - [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action)
+    - [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_
     - [Copy-link action](https://support.catenda.com/en/articles/14323982-copy-link-action)
 - Catenda plugins and intergrations
     - [Catenda Revit plugin changelog - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)

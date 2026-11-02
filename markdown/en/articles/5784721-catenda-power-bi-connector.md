@@ -12,7 +12,7 @@ When the Catenda Desktop Connector is installed on Windows its installation file
 
 ### 1.1 **Uninstalling**
 
-To uninstll the plugin go to the installation folder and run the following file:
+To uninstall the plugin go to the installation folder and run the following file:
 
 `uninstall.exe`
 
@@ -20,11 +20,11 @@ If the folder has been deleted and the plugin is still active, please re-install
 
 ## 2. **Get data and connect**
 
-To create a connection from PowerBI to the Catenda HUB database, proceed as follows: Open PowerBI and click on "Get data from another source" in the middle of tthe screen or use the Get data action in the home menu of the top ribbon. The ribbon might have to be expanded to see the action.
+To create a connection from PowerBI to the Catenda HUB database, proceed as follows: Open PowerBI and click on "Get data from another source" in the middle of the screen or use the Get data action in the home menu of the top ribbon. The ribbon might have to be expanded to see the action.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/01-get-data-and-connect.png)
 
-Select the target source under Other --> Catenda. Use "_Connect_" to establish the connection to the database.
+Select the target source under Other --> Catenda. Use "_Connect_" to establish the connection to the database. Signing in to Catenda, and what to do when the sign-in fails, are described in [Sign in to Catenda from Power BI](https://support.catenda.com/en/articles/17778878-sign-in-to-catenda-from-power-bi).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/02-get-data-and-connect.png)
 
@@ -34,35 +34,25 @@ A navigator opens in which all projects you have access to are listed. Select th
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 
-Here you will be able to choose from the following datasets: _Documents_
+The following tables can be loaded:
 
-**Documents Label**
-
-**Label**
-
-**Member**
-
-**Model**
-
-**Model Revision**
-
-**Products**
-
-**Team**
-
-**Team members**
-
-**Token**
-
-**Topic**
-
-**Topic Board**
-
-**Topic Label**
-
-**Topic Status**
-
-**Topic Type**
+| Table           | Contents                                  |
+| --------------- | ----------------------------------------- |
+| Documents       | The documents in the project.             |
+| Documents Label | The labels on each document.              |
+| Label           | The labels used in the project.           |
+| Member          | The members of the project.               |
+| Model           | The models in the project.                |
+| Model Revision  | The revisions of each model.              |
+| Products        | The objects in the models.                |
+| Team            | The teams in the project.                 |
+| Team members    | The members of each team.                 |
+| Token           | A viewer token for the project.           |
+| Topic           | The topics in the project.                |
+| Topic Board     | The topic boards in the project.          |
+| Topic Label     | The labels on each topic.                 |
+| Topic Status    | The statuses used on the topic boards.    |
+| Topic Type      | The topic types used on the topic boards. |
 
 After clicking on Load the PowerBI connector will start fetching the topic data from the API.
 

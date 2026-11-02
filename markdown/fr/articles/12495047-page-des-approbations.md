@@ -1,155 +1,93 @@
-# Page des approbations
+# Page des validations
 
-La page des approbations se trouve en tant que sous-page de la [page documents](https://support.catenda.com/fr/articles/8204673-page-documents) dans le menu de navigation de gauche. Vous y trouverez un aperçu des demandes d'approbation du projet.
+La page des validations se trouve comme sous-page de la [page documents](https://support.catenda.com/fr/articles/8204673-page-documents) dans le menu de navigation de gauche. La page des validations est masquée par défaut et s'affiche lorsque le circuit de validation des statuts a été activé dans les [paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) pour les projets ayant activé les révisions partagées après le 2 octobre 2025. Vous y trouverez un aperçu des demandes de validation du projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Cet article contient des informations sur les sujets suivants : _[Activer](#h_263c9d1268) - [Actions](#h_39a97bd06a) - [Rechercher/filtrer](#h_95652579ee) - [Liste des approbations](#h_aa4dfe69f5) - [Lignes](#h_76de8831a3) - [Cartes de demande d'approbation](#h_e99a80135a) -_ [Onglets Demandes d'approbation et Révisions de documents](#h_aae5976a1d)
+Cet article contient des informations sur les sujets suivants :
 
-Sur la page des approbations, il est possible de :
+_[Rechercher ou filtrer](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_95652579ee) - [Liste des validations](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_aa4dfe69f5) - [Contenu de la ligne](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_76de8831a3) - [Cartes de demande de validation](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_e99a80135a)_
 
-- Chaque demande d'approbation peut être examinée et validée par l'équipe avant qu'une validation finale décide si les révisions qui doivent être approuvées doivent être approuvées ou non.
-- La configuration du cours et du résultat d'une approbation peut être effectuée.
-- De nouvelles approbations peuvent être créées.
+Les projets pour lesquels les révisions partagées ont été activées avant le 2 octobre 2025 verront la [page de validations héritée](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage) à la place. Sur la page des validations, les actions suivantes peuvent être effectuées :
 
-## 1. **Activation de la page des approbations**
+- Chaque demande de validation peut être examinée et validée par l'équipe avant qu'une validation finale décide si les révisions demandées doivent être approuvées ou non.
+- La configuration du déroulement et du résultat d'une validation peut être effectuée.
+- De nouvelles validations peuvent être créées.
 
-La page des approbations est masquée par défaut. Activez les révisions partagées dans les [paramètres de document](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) pour afficher la page des approbations. _Accès requis :_ Administrateur de projet
+## 1. **Options de recherche ou de filtrage**
 
-> **Remarque :** Dans les projets où les révisions partagées ont été activées avant le 2 octobre 2025, la [page des approbations héritée](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage) s'affiche à la place.
-
-### 1.1 **Activation à partir d'un projet modèle**
-
-Les projets créés à partir d'un projet modèle pour lequel les statuts partagés étaient activés auront les statuts partagés activés et la page des approbations sera affichée à la création. Les workflows d'approbation et les modèles de sujets du projet modèle sont repris dans le nouveau projet, de sorte qu'ils n'ont pas besoin d'être créés à nouveau avant que les membres puissent commencer à soumettre des demandes d'approbation.
-
-## 2. **Nouvelles actions d'élément**
-
-Les nouvelles actions d'élément se trouvent en haut à droite de la page.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
-
-### 2.1 **Nouvelle demande d'approbation**
-
-Cliquez [ici](https://support.catenda.com/fr/articles/12495005-creation-d-une-nouvelle-demande-d-approbation) pour en savoir plus sur la création d'une nouvelle demande d'approbation.
-
-**Accès requis :** Un membre doit être partie d'une équipe de soumission dans un flux de travail configuré pour pouvoir soumettre une nouvelle demande d'approbation.
-
-## 3. **Options de recherche ou de filtrage**
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
 
 Cliquez [ici](https://support.catenda.com/fr/articles/12495060-filtrage-sur-la-page-des-approbations) pour en savoir plus sur le filtrage sur la page des approbations.
 
-## 4. **Liste des approbations**
+## 2. **Liste des validations**
 
-Les cartes d'approbation avec des indices visuels sur le contenu de chaque demande d'approbation dont un membre fait partie s'affichent dans la liste des approbations.
+Les projets créés à partir d'un projet modèle incluent les flux de travail d'approbation et les modèles de sujets de ce projet modèle. Chaque ligne de la liste des approbations contient une carte d'approbation avec des indices visuels sur le contenu de chaque demande d'approbation.
 
-Voici ce que pourrait ressembler une demande d'approbation avec une activité complète :
+Voici à quoi peut ressembler une demande de validation avec une activité complète :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
 
-L'activité qui se produit dans l'approbation s'affiche avec des quantités et des icônes sur la carte d'approbation.
+L'activité qui se produit dans la validation s'affiche avec des quantités et des icônes sur la carte de validation.
 
-**Accès requis :** La visibilité de la demande est basée sur les rôles : les membres du projet peuvent afficher uniquement les demandes qu'ils ont personnellement soumises, les demandes actives assignées à une équipe d'examinateur ou d'examinateur final dont ils sont membres, ou toutes les demandes du projet en cas d'administrateurs de projet.
+**Accès requis :** Membre de l'équipe du demandeur, examinateur ou équipe d'examen final ou administrateur.
 
-- Pour les procédures opérationnelles détaillées concernant la soumission de révisions, l'ajout de marques de révision et le traitement des validations d'étapes ou des décisions finales, lisez [ici](https://www.google.com/search?q=).
-- Pour les conseils d'administration sur la configuration des modèles d'approbation, la gestion des paramètres verrouillés et la résolution des dépendances cassées, lisez [ici](https://www.google.com/search?q=).
+## 3. **Contenu de la ligne**
 
-## 5. **Liste des révisions de documents**
+### 3.1 **Ligne de validation ouverte ou fermée**
 
-Le deuxième onglet vous permet d'obtenir un aperçu de tous les documents en cours d'examen dans toutes les approbations ouvertes.
+L'ouverture du contenu d'une ligne de demande de validation en cours d'examen ou fermée ouvre la [page de validation](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee) pour cette validation.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
+### 3.2 **Ligne de validation brouillon**
 
-Le tableau affiche :
+Pour les validations en brouillon, la [page de demande de validation en brouillon](https://support.catenda.com/fr/articles/12495175-page-de-demande-de-validation-de-brouillon) s'ouvrira à la place.
 
-1. le nom de la révision
-1. le numéro de révision
-1. l'étape d'examen actuelle
-1. l'état actuel de l'étape
-1. la date d'échéance de l'examen de l'étape
-1. les équipes qui doivent encore examiner le document
-1. le nom de la demande d'approbation
-1. le soumetteur (individuel et équipe)
-1. la date de soumission
+## 4. **Cartes de demande de validation**
 
-### 5.1 Filtrage
+### 4.1 **Titre**
 
-De plus, le panneau de filtrage de gauche vous permet de filtrer les documents par :
+Titre de la validation
 
-1. Assignation : toutes les équipes ou votre équipe spécifiquement
-1. État du document : En attente, En examen, Terminé
-1. Date d'échéance : tous, à venir, en retard
+### 4.2 **Statut brouillon**
 
-### 5.2 Tri
+Lorsqu'une demande de validation a le statut brouillon, elle n'est visible que par la personne qui a créé le brouillon dans la page des validations.
 
-Enfin, vous avez la possibilité de trier par :
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
 
-1. Nom de la révision
-1. État
-1. Date d'échéance
-1. Date de soumission
+La demande de validation n'est pas visible dans le menu des validations du menu droit d'une révision.
 
-### 5.3 Recherche
+### 4.3 **Statut de validation ouverte**
 
-La recherche textuelle vous permet de rechercher par nom de révision et nom de demande d'approbation.
+Lorsqu'une demande de validation a le statut ouvert, elle est visible pour tous les membres des équipes impliquées dans la demande. Survolez les statuts des validations en cours d'examen par plus d'une équipe pour ouvrir une fenêtre contextuelle montrant quelle équipe doit encore soumettre son examen à l'étape actuelle.
 
-## 6. **Contenu de la ligne**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
 
-### 6.1 **Ligne d'approbation ouverte ou fermée**
+Les équipes d'examen qui ont déjà donné leur examen n'apparaissent pas dans cette liste et ne sont pas comptabilisées dans le nombre d'équipes dont l'étape de validation est actuellement en cours d'examen.
 
-L'ouverture du contenu d'une ligne de demande d'approbation en cours d'examen ou fermée ouvre la [page d'approbation](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee) pour cette approbation.
+À droite du statut de validation ouverte, la date et l'heure auxquelles l'étape de validation doit être examinée s'affichent. Si l'approbation automatique est configurée pour cette étape, la validation passera automatiquement à l'étape suivante à cette date et cette heure.
 
-### 6.2 **Ligne de demande d'approbation au brouillon**
+### 4.4 **Statut fermé**
 
-Pour les approbations au brouillon, la [page de demande d'approbation au brouillon](https://support.catenda.com/fr/articles/12495175-page-de-demande-de-validation-de-brouillon) s'ouvrira à la place.
+Lorsqu'une demande de validation atteint son étape de validation finale, elle reste ouverte. En fonction des approbations et rejets donnés par chacune des équipes à chacune des étapes de validation, un membre de l'équipe de validation finale pourra donner son approbation ou son rejet final. Lorsque la demande de validation est finalement approuvée ou rejetée par le membre de l'équipe de validation finale, elle est fermée.
 
-## 7. **Cartes de demande d'approbation**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
 
-### 7.1 **Titre**
+### 4.5 **Circuit de validation**
 
-Titre d'approbation
+Le circuit de validation qui est suivi par la validation
 
-### 7.2 **Statut brouillon**
+### 4.6 **Créé par**
 
-Lorsqu'une demande d'approbation a le statut brouillon, elle n'est visible que par la personne qui a créé le brouillon sur la page des approbations.
+Le membre qui a créé la validation et la date et l'heure de sa création.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
+### 4.7 **Approbation finale**
 
-La demande d'approbation n'est pas visible dans le menu des approbations du menu droit d'une révision.
+L'équipe de validation finale qui aura le dernier mot sur la publication des documents partagés dans la validation, informée par les examens soumis par les équipes du demandeur à chacune des étapes de validation.
 
-### 7.3 **Statut d'approbation ouverte**
+### 4.8 **Numéro de validation**
 
-Lorsqu'une demande d'approbation a le statut ouvert, elle est visible pour tous les membres qui font partie des équipes impliquées dans la demande. Passez la souris sur les statuts des approbations qui sont en cours d'examen par plus d'une équipe pour ouvrir une fenêtre contextuelle qui montre quelle équipe doit encore soumettre son examen à l'étape d'examen actuelle.
+Le numéro de la validation
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
+### 4.9 **Icônes en bas**
 
-Les Équipes d'examen qui ont déjà donné leur avis n'apparaissent pas dans cette liste et ne comptent pas dans le nombre d'Équipes en train d'examiner l'étape d'approbation.
-
-À droite du statut d'approbation ouvert, la date et l'heure à laquelle l'étape d'approbation doit être examinée s'affichent. Si l'approbation automatique est configurée pour cette étape, l'approbation passera automatiquement à l'étape suivante à cette date et cette heure.
-
-### 7.4 **Statut fermé**
-
-Lorsqu'une demande d'approbation atteint son étape d'approbation finale, elle reste ouverte. En fonction des approbations et des rejets donnés par chacune des Équipes à chaque étape d'approbation, un Membre de l'Équipe d'approbation finale sera en mesure de donner son approbation ou son rejet final. Lorsque la demande d'approbation est finalement approuvée ou rejetée par un Membre de l'Équipe d'approbation finale, elle sera fermée.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
-
-### 7.5 **Workflow**
-
-Le workflow suivi par l'approbation
-
-### 7.6 **Créé par**
-
-Le Membre qui a créé l'approbation et la date et l'heure de sa création.
-
-### 7.7 **Approbation finale**
-
-L'Équipe d'approbation finale qui aura le dernier mot sur la publication des Documents partagés dans l'approbation, informée par les avis soumis par les Équipes soumissionnaires à chaque étape d'approbation.
-
-### 7.8 **Numéro d'approbation**
-
-Le numéro de l'approbation
-
-### 7.9 **Icônes du bas**
-
-L'étape d'examen actuelle du workflow suivi par l'approbation. Le nombre total d'étapes que l'approbation doit accomplir avant d'être finalisée. Visible uniquement sur les approbations ouvertes et fermées. Le nombre de Documents dans l'approbation quel que soit les paramètres d'accès.
+L'étape actuelle d'examen du circuit de validation que suit la validation. Le nombre total d'étapes que la validation doit compléter avant d'être finalisée. Visible uniquement sur les validations ouvertes et fermées. Le nombre de documents dans la validation indépendamment des paramètres d'accès.

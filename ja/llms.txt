@@ -112,8 +112,6 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [アクセスレベルの計算方法](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15644094-アクセスレベルの計算方法.md)
 - [アクセス制御デプロイメントのユースケース](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15644249-アクセス制御デプロイメントのユースケース.md)
 - [アクセス制御レベル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8967083-アクセス制御レベル.md)
-- [アーカイビングポータルのプロジェクトページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/16968870-アーカイビングポータルのプロジェクトページ.md): アーカイビングポータルにサインインしてプロジェクトを開きます。管理者である場合のみ、プロジェクトが一覧表示されます。
-- [アーカイブシステムとアーカイブポータルのプロジェクト番号](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/16968887-アーカイブシステムとアーカイブポータルのプロジェクト番号.md): ポータルが提出する外部アーカイブシステムと、記録するプロジェクト番号スキーム。
 - [オブジェクトからドキュメントをリンク解除](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670301-オブジェクトからドキュメントをリンク解除.md)
 - [オブジェクトページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12352750-オブジェクトページ.md)
 - [オブジェクトページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12353642-オブジェクトページでのフィルタリング.md)
@@ -226,7 +224,6 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [ルートフォルダ ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670292-ルートフォルダ-acl.md)
 - [レポートテンプレートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12380837-レポートテンプレートページ.md)
 - [レポートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12303098-レポートページ.md)
-- [レポート作成アクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13973721-レポート作成アクション.md)
 - [ロケーションページ - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17601635-ロケーションページ-catenda-mobile.md): Catenda Mobileでプロジェクトを建物、階、室で移動します。
 - [ワークフロー ページ - ドキュメント設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12309903-ワークフロー-ページ-ドキュメント設定.md)
 - [中程度の命名規則](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7936943-中程度の命名規則.md)

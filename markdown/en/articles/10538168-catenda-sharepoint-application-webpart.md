@@ -1,6 +1,6 @@
 # Catenda SharePoint Application - Webpart
 
-With the Catenda webpart you can browse the document section of a Catenda project within a SharePoint page. _Catenda Access required:_ Read to browse the document structure and write to upload SharePoint files to Catenda.
+With the Catenda webpart you can browse the document section of a Catenda project within a SharePoint page. _Catenda access required:_ Read to browse the document structure and write to upload SharePoint files to Catenda.
 
 ## 1. **Adding the webpart**
 

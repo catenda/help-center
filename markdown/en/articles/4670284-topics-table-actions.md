@@ -50,11 +50,11 @@ The export topics action will open up the [export topics dialogue](https://suppo
 
 ### 2.3 **Create report**
 
-The reporting tool can be requested to be activated on a per project basis. With the create report action you can create a report of your selected topics. _Access required:_ Read access to the topic board
+The reporting tool can be requested to be activated on a per project basis. With the create report action you can create a report of your selected topics. This action is only available on projects where the reports page has been enabled. _Access required:_ Read access to the topic board
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-This option is available when topics from multiple boards are selected. Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) to read more about creating reports.
+This option is available when topics from multiple boards are selected. Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_ to read more about creating reports.
 
 ### 2.4 **Follow**
 
