@@ -15625,7 +15625,7 @@ Delete Use the delete action to delete the selected report template.
 
 > **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects. **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
 
-The reports page can be found as the sixth item in the navigation menu. This page is part of the content panel. With the reports page template reports can be created in a report editor. Separate templates can be created for topics and documents. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template.
+The reports page can be found as the sixth item in the navigation menu. This page is part of the content panel. With the reports page template reports can be created in a [report editor](https://support.catenda.com/en/articles/17778656-report-editor) _(report editor customers only)_. Separate templates can be created for topics and documents. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
