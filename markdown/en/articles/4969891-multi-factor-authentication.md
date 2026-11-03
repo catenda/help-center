@@ -115,7 +115,6 @@ New device:
 1. Tap "Begin Recovery."
 
 > **Note 1:** Do not set up any accounts using Microsoft Authenticator until after you have used the Recovery tool because it will overwrite matching site accounts.
-
 > **Note 2:** This method requires you to backup your MFA codes which means they are stored in your app providers cloud service. Only use this method if you trust your app providers backup service. If not you are better off deactivating and reactivating.
 
 ## 4. **Disabling MFA**

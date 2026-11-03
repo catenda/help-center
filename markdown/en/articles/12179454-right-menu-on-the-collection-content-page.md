@@ -50,9 +50,9 @@ By finalizing the collection :
 
 - The collection can be shared outside the project.
 
-> **Note:** It will no longer be possible to modify the collection.
-
 > **Warning:** **It is not possible to go back after finalization**
+
+> **Note:** It will no longer be possible to modify the collection.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 
