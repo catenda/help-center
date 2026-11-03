@@ -48,6 +48,8 @@ If a document is not in a naming convention folder it will be possible to click 
 
 _Access required:_ Write access to the document.
 
+> **Note:** Document names cannot contain any of the following characters: `< > : " / \ | ? *` If the new name includes one of these characters, it cannot be saved.
+
 ### 2.3 **Filling out fields**
 
 This is what the fields that can be filled out for the whole document can look like:

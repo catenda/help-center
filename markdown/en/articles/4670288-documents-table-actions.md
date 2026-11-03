@@ -22,6 +22,8 @@ To make a new folder in the document location you are currently in you can use t
 
 When you are creating a document structure or have to make many folders at a time it can be tedious to have to click on the new folder button many times. To make many folder at once it can help to prepare the folders externally and upload them all at once with the upload zip action. _Access required:_ Write access to the folder you are currently in
 
+> **Note:** Folder names cannot contain any of the following characters: `< > : " / \ | ? *` If the new name includes one of these characters, it cannot be saved.
+
 ### 1.3 **Upload zip**
 
 The upload zip action will let you extract the contents of a zip file in the document structure. It is also possible to upload a zip document with the upload action button but then you just get it as a zipped file and you do not see the contents of the zip file. Click [here](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure#h_54ace27f24) to read more about how to upload a zip to Catenda.
