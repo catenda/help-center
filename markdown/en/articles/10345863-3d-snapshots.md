@@ -171,7 +171,8 @@ To change which models get loaded click the models button to open the model sele
 
 **Load models** Load the models from the snapshot in addition to the models that already exist in the viewer.
 
-> **Note 1:** In this menu you only link the snapshot to Catenda models. It does not change the content of the BCF. **Note 2:** Depending of the object visibility settings of the snapshot added models might be completely hidden. Even if they are not visible you should see that they are loaded when the topic is played.
+> **Note 1:** In this menu you only link the snapshot to Catenda models. It does not change the content of the BCF.
+> **Note 2:** Depending of the object visibility settings of the snapshot added models might be completely hidden. Even if they are not visible you should see that they are loaded when the topic is played.
 
 ## 7. **Snapshot access**
 

@@ -110,7 +110,8 @@ Priority When the same label is added in both menus removing the label gets prio
 
 **Custom fields** Set a custom field value or set the field to no value for multiple topics at once.
 
-> **Note 1:** Fields that are configured as required in topic board settings cannot be unset. **Note 2:** It is only possible to update text, integer and decimal fields and not unset them although integer and decimal fields can be nulled and text can be set to a single space.
+> **Note 1:** Fields that are configured as required in topic board settings cannot be unset.
+> **Note 2:** It is only possible to update text, integer and decimal fields and not unset them although integer and decimal fields can be nulled and text can be set to a single space.
 
 **Commment** Add a comment to multiple topics at once. It is only possible to add comments to multiple topics at once and not edit or remove comments.
 

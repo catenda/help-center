@@ -14,7 +14,8 @@ If you click on the name of the topic board on the top left you will get a dropd
 
 If there is more than one topic board in the project you will see the option All topic boards at the bottom of the dropdown list. Here the topics from all boards will be combined. This can be useful for finding a topic of which you are not sure in which topic board it was made.
 
-> **Note 1:** It is only possible to search on the following in the "All topic boards" board. My topics, Meta-status, Due date, Updated, Assignee, Requestee, Creator, Milestone, Custom fields, Labels, Links **Note 2:** It is only possible to exchange topics from one topic board at a time.
+> **Note 1:** It is only possible to search on the following in the "All topic boards" board. My topics, Meta-status, Due date, Updated, Assignee, Requestee, Creator, Milestone, Custom fields, Labels, Links
+> **Note 2:** It is only possible to exchange topics from one topic board at a time.
 
 ## 2. **New item actions**
 

@@ -28,7 +28,9 @@ If a storey has been configured in the storey configurator, the first storey of 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/04-displaying-markers.png)
 
-> **Warning 1:** When the topics menu is opened, markers from the first 250 topics in the result are updated and stored. When the 2D viewer is opened markers from any previously updated topics that match the result in the topics menu are displayed. Note tat markers from topics may be spread across storeys other than the active storey. **Warning 2:** When there are 250+ topics in the topics menu result markers may not have been loaded in or may be outdated. Scroll down the list to display/update their markers as well. Filtering the board so there are less topics in the result can also help ensure markers belonging to topics in the filtered result are additionally updated and displayed. **Warning 3:** When signing out of the application and signing back in the history of which topics were loaded in is lost and topics that were previously loaded in may have to be loaded in again.
+> **Warning 1:** When the topics menu is opened, markers from the first 250 topics in the result are updated and stored. When the 2D viewer is opened markers from any previously updated topics that match the result in the topics menu are displayed. Note tat markers from topics may be spread across storeys other than the active storey.
+> **Warning 2:** When there are 250+ topics in the topics menu result markers may not have been loaded in or may be outdated. Scroll down the list to display/update their markers as well. Filtering the board so there are less topics in the result can also help ensure markers belonging to topics in the filtered result are additionally updated and displayed.
+> **Warning 3:** When signing out of the application and signing back in the history of which topics were loaded in is lost and topics that were previously loaded in may have to be loaded in again.
 
 **Expand the 2D view** Drag on the divider between the 2D and 3D viewers to expand it.
 

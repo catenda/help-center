@@ -12,7 +12,8 @@ In the first step the revision from each of the models that should be included i
 
 In the first step of the model export the models that should be included in the export can be selected.
 
-> **Note 1:** If the model does not have revisions that can be exported the checkbox will be grayed out. **Note 2:** A model revision has to successfully be processed and not be withdrawn to be selectable.
+> **Note 1:** If the model does not have revisions that can be exported the checkbox will be grayed out.
+> **Note 2:** A model revision has to successfully be processed and not be withdrawn to be selectable.
 
 ### **Navigation**
 

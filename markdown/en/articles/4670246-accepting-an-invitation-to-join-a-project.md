@@ -28,7 +28,8 @@ The name of the inviting user and the email of the user will be visible in the i
 
 The email will be sent from [noreply@catenda.com](mailto:noreply@catenda.com)
 
-> **Note 1:** A project invitation can be sent multiple times. All emails will have the same link so they will all work unless the invitation has been revoked. **Note 2:** You cannot reply to the [noreply@catenda.com](mailto:noreply@catenda.com) email. If you have questions about the invite you will have to reply to the inviting persons email address or contact [support@catenda.com](mailto:support@catenda.com)
+> **Note 1:** A project invitation can be sent multiple times. All emails will have the same link so they will all work unless the invitation has been revoked.
+> **Note 2:** You cannot reply to the [noreply@catenda.com](mailto:noreply@catenda.com) email. If you have questions about the invite you will have to reply to the inviting persons email address or contact [support@catenda.com](mailto:support@catenda.com)
 
 ## 2. Accepting the invitation
 

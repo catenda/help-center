@@ -180,7 +180,8 @@ The name of the inviting user and the email of the user will be visible in the i
 
 The email will be sent from [noreply@catenda.com](mailto:noreply@catenda.com)
 
-> **Note 1:** A project invitation can be sent multiple times. All emails will have the same link so they will all work unless the invitation has been revoked. **Note 2:** You cannot reply to the [noreply@catenda.com](mailto:noreply@catenda.com) email. If you have questions about the invite you will have to reply to the inviting persons email address or contact [support@catenda.com](mailto:support@catenda.com)
+> **Note 1:** A project invitation can be sent multiple times. All emails will have the same link so they will all work unless the invitation has been revoked.
+> **Note 2:** You cannot reply to the [noreply@catenda.com](mailto:noreply@catenda.com) email. If you have questions about the invite you will have to reply to the inviting persons email address or contact [support@catenda.com](mailto:support@catenda.com)
 
 ## 2. Accepting the invitation
 
@@ -2716,7 +2717,9 @@ With [markers enabled](https://support.catenda.com/en/articles/4854537-2d-viewer
 
 When selected the topic number and title are displayed. Tap on the arrow to open the topic in the topics menu. Click [here](https://support.catenda.com/en/articles/4854523-2d-location-of-topics) to read more about the 2D location of topics.
 
-> **Warning 1:** When the topics menu is opened, markers from the first 250 topics in the result are updated and stored. When the 2D viewer is opened markers from any previously updated topics that match the result in the topics menu are displayed. Note tat markers from topics may be spread across storeys other than the active storey. **Warning 2:** When there are 250+ topics in the topics menu result markers may not have been loaded in or may be outdated. Scroll down the list to display/update their markers as well. Filtering the board so there are less topics in the result can also help ensure markers belonging to topics in the filtered result are additionally updated and displayed. **Warning 3:** When signing out of the application and signing back in the history of which topics were loaded in is lost and topics that were previously loaded in may have to be loaded in again.
+> **Warning 1:** When the topics menu is opened, markers from the first 250 topics in the result are updated and stored. When the 2D viewer is opened markers from any previously updated topics that match the result in the topics menu are displayed. Note tat markers from topics may be spread across storeys other than the active storey.
+> **Warning 2:** When there are 250+ topics in the topics menu result markers may not have been loaded in or may be outdated. Scroll down the list to display/update their markers as well. Filtering the board so there are less topics in the result can also help ensure markers belonging to topics in the filtered result are additionally updated and displayed.
+> **Warning 3:** When signing out of the application and signing back in the history of which topics were loaded in is lost and topics that were previously loaded in may have to be loaded in again.
 
 ### 1.3 **Toolbar**
 
@@ -3181,7 +3184,8 @@ To change which models get loaded click the models button to open the model sele
 
 **Load models** Load the models from the snapshot in addition to the models that already exist in the viewer.
 
-> **Note 1:** In this menu you only link the snapshot to Catenda models. It does not change the content of the BCF. **Note 2:** Depending of the object visibility settings of the snapshot added models might be completely hidden. Even if they are not visible you should see that they are loaded when the topic is played.
+> **Note 1:** In this menu you only link the snapshot to Catenda models. It does not change the content of the BCF.
+> **Note 2:** Depending of the object visibility settings of the snapshot added models might be completely hidden. Even if they are not visible you should see that they are loaded when the topic is played.
 
 ## 7. **Snapshot access**
 
@@ -7908,7 +7912,8 @@ In the first step the revision from each of the models that should be included i
 
 In the first step of the model export the models that should be included in the export can be selected.
 
-> **Note 1:** If the model does not have revisions that can be exported the checkbox will be grayed out. **Note 2:** A model revision has to successfully be processed and not be withdrawn to be selectable.
+> **Note 1:** If the model does not have revisions that can be exported the checkbox will be grayed out.
+> **Note 2:** A model revision has to successfully be processed and not be withdrawn to be selectable.
 
 ### **Navigation**
 
@@ -15363,7 +15368,8 @@ This will open the print dialogue of your browser. Here is what that can look li
 
 In the print dialogue, print the document to PDF.
 
-> **Note 1:** The QR code will only end up on the content layer if you print the document. If you download the document it will be on the annotation layer. **Note 2:** By printing to PDF you rasterize the content of the document. This means that the text will not be searchable when you upload it as a revision to Catenda.
+> **Note 1:** The QR code will only end up on the content layer if you print the document. If you download the document it will be on the annotation layer.
+> **Note 2:** By printing to PDF you rasterize the content of the document. This means that the text will not be searchable when you upload it as a revision to Catenda.
 
 The printed PDF with the placeholder can now be uploaded as a new revision to Catenda. To keep your revision history clean you might want to withdraw the previous revision without the QR code.
 
@@ -15553,7 +15559,8 @@ To save your query to continue working with it later, create a 3D snapshot in th
 
 # Report templates page
 
-> **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects. **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
+> **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects.
+> **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
 
 The report templates page can be found as a sub-page of the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) in the left navigation menu. On the report templates page the document, topic and approval templates that are available to the project can be managed. _Access required:_ Administrator
 
@@ -15625,7 +15632,8 @@ Delete Use the delete action to delete the selected report template.
 
 # Reports page
 
-> **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects. **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
+> **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects.
+> **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
 
 The reports page can be found as the sixth item in the navigation menu. This page is part of the content panel. With the reports page template reports can be created in a [report editor](https://support.catenda.com/en/articles/17778656-report-editor) _(report editor customers only)_. Separate templates can be created for topics and documents. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template.
 
@@ -16571,7 +16579,8 @@ Priority When the same label is added in both menus removing the label gets prio
 
 **Custom fields** Set a custom field value or set the field to no value for multiple topics at once.
 
-> **Note 1:** Fields that are configured as required in topic board settings cannot be unset. **Note 2:** It is only possible to update text, integer and decimal fields and not unset them although integer and decimal fields can be nulled and text can be set to a single space.
+> **Note 1:** Fields that are configured as required in topic board settings cannot be unset.
+> **Note 2:** It is only possible to update text, integer and decimal fields and not unset them although integer and decimal fields can be nulled and text can be set to a single space.
 
 **Commment** Add a comment to multiple topics at once. It is only possible to add comments to multiple topics at once and not edit or remove comments.
 
@@ -18108,7 +18117,8 @@ Remove Click "Catenda" to remove the link for that selected document.
 
 # Solibri Topics Integration
 
-> **Important:** **Solibri version 9.13:** **Important:** The BCF Connector plugin is since version 9.13 a separate tab called BCF Live connector in Solibri. Much of the same information still applies in this tab. **Solibri version 9.9:** Since update 9.9 of Solibri it is now possible to synchronize your topics with Catenda.
+> **Important:** **Solibri version 9.13:** **Important:** The BCF Connector plugin is since version 9.13 a separate tab called BCF Live connector in Solibri. Much of the same information still applies in this tab.
+> **Solibri version 9.9:** Since update 9.9 of Solibri it is now possible to synchronize your topics with Catenda.
 
 This document explains how to setup the BCF connector with your Catenda project. This allows topics to be communicated across the two applications seamlessly, avoiding the manual export and import BCF steps.
 
@@ -19922,7 +19932,8 @@ If you click on the name of the topic board on the top left you will get a dropd
 
 If there is more than one topic board in the project you will see the option All topic boards at the bottom of the dropdown list. Here the topics from all boards will be combined. This can be useful for finding a topic of which you are not sure in which topic board it was made.
 
-> **Note 1:** It is only possible to search on the following in the "All topic boards" board. My topics, Meta-status, Due date, Updated, Assignee, Requestee, Creator, Milestone, Custom fields, Labels, Links **Note 2:** It is only possible to exchange topics from one topic board at a time.
+> **Note 1:** It is only possible to search on the following in the "All topic boards" board. My topics, Meta-status, Due date, Updated, Assignee, Requestee, Creator, Milestone, Custom fields, Labels, Links
+> **Note 2:** It is only possible to exchange topics from one topic board at a time.
 
 ## 2. **New item actions**
 
@@ -20144,7 +20155,8 @@ With the follow action the selected topic can be followed.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
 
-> **Note 1:** If you were previously [assigned](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_0a91fa8dd9), set as [requester](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_1aea0990a7), or [mentioned](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) in the topic you will automatically be following the topic. **Note 2:** If a topic you are following is moved to a board you do not have access to you will still be following it but will no longer get notifications about it.
+> **Note 1:** If you were previously [assigned](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_0a91fa8dd9), set as [requester](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_1aea0990a7), or [mentioned](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) in the topic you will automatically be following the topic.
+> **Note 2:** If a topic you are following is moved to a board you do not have access to you will still be following it but will no longer get notifications about it.
 
 **Notifications on followed topics** Following a topic has to do with notifications. Members that follow a topic receive notifications about changes that are made to the topic. When a topic is created, all members with access to the topic board it is created in get a notification that the topic has been created. As this generates a lot of notifications many have disabled this type of notification in their settings. After its creation, members that have nothing to do with the topic will not get notified any further about future happenings like comments and changes in any of the fields in the topic header. Following a topic makes it so these notifications are sent out.
 
@@ -22439,7 +22451,9 @@ If a storey has been configured in the storey configurator, the first storey of 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/04-displaying-markers.png)
 
-> **Warning 1:** When the topics menu is opened, markers from the first 250 topics in the result are updated and stored. When the 2D viewer is opened markers from any previously updated topics that match the result in the topics menu are displayed. Note tat markers from topics may be spread across storeys other than the active storey. **Warning 2:** When there are 250+ topics in the topics menu result markers may not have been loaded in or may be outdated. Scroll down the list to display/update their markers as well. Filtering the board so there are less topics in the result can also help ensure markers belonging to topics in the filtered result are additionally updated and displayed. **Warning 3:** When signing out of the application and signing back in the history of which topics were loaded in is lost and topics that were previously loaded in may have to be loaded in again.
+> **Warning 1:** When the topics menu is opened, markers from the first 250 topics in the result are updated and stored. When the 2D viewer is opened markers from any previously updated topics that match the result in the topics menu are displayed. Note tat markers from topics may be spread across storeys other than the active storey.
+> **Warning 2:** When there are 250+ topics in the topics menu result markers may not have been loaded in or may be outdated. Scroll down the list to display/update their markers as well. Filtering the board so there are less topics in the result can also help ensure markers belonging to topics in the filtered result are additionally updated and displayed.
+> **Warning 3:** When signing out of the application and signing back in the history of which topics were loaded in is lost and topics that were previously loaded in may have to be loaded in again.
 
 **Expand the 2D view** Drag on the divider between the 2D and 3D viewers to expand it.
 
