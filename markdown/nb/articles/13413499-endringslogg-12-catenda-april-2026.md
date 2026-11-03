@@ -26,7 +26,7 @@ Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringen
   - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/nb/articles/14078352-bruk-av-malvinkler-nar-du-lagrer-merknadsaker)
   - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/nb/articles/14078683-bruke-saksmaler-med-gjennomganger)
 - Kategorioverskridende
-  - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling)
+  - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(bare for rapportredigerkunder)_
   - [Kopier-lenkehandling](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp)
 - Catenda-programtillegg og integrasjoner
   - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15)

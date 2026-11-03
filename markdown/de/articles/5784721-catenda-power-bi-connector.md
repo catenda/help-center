@@ -12,7 +12,7 @@ Wenn der Catenda Desktop Connector auf Windows installiert wird, befinden sich d
 
 ### 1.1 **Deinstallation**
 
-Um das Plug-in zu deinstallieren, gehen Sie zum Installationsordner und führen Sie die folgende Datei aus:
+Gehen Sie zum Installationsordner, um das Plugin zu deinstallieren, und führen Sie die folgende Datei aus:
 
 `uninstall.exe`
 
@@ -20,11 +20,11 @@ Wenn der Ordner gelöscht wurde und das Plug-in noch aktiv ist, installieren Sie
 
 ## 2. **Daten abrufen und verbinden**
 
-Um eine Verbindung von PowerBI zur Catenda HUB-Datenbank herzustellen, gehen Sie wie folgt vor: Öffnen Sie PowerBI und klicken Sie auf "Daten aus einer anderen Quelle abrufen" in der Mitte des Bildschirms oder verwenden Sie die Aktion "Daten abrufen" im Startmenü des oberen Menübands. Das Menüband muss möglicherweise erweitert werden, um die Aktion zu sehen.
+Gehen Sie wie folgt vor, um eine Verbindung von PowerBI zur Catenda HUB-Datenbank herzustellen: Öffnen Sie PowerBI und klicken Sie in der Mitte des Bildschirms auf "Daten aus einer anderen Quelle abrufen" oder verwenden Sie die Aktion "Daten abrufen" im Startmenü des oberen Menübands. Das Menüband muss möglicherweise erweitert werden, um die Aktion zu sehen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/01-get-data-and-connect.png)
 
-Wählen Sie die Zielquelle unter Sonstiges --> Catenda aus. Verwenden Sie "_Verbinden_", um die Verbindung zur Datenbank herzustellen.
+Wählen Sie die Zielquelle unter Sonstiges --> Catenda. Verwenden Sie "_Verbinden_", um die Verbindung zur Datenbank herzustellen. Die Anmeldung bei Catenda und was zu tun ist, wenn die Anmeldung fehlschlägt, werden unter [Bei Catenda von Power BI anmelden](https://support.catenda.com/de/articles/17778878-bei-catenda-von-power-bi-anmelden) beschrieben.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/02-get-data-and-connect.png)
 
@@ -34,35 +34,25 @@ Ein Navigator wird geöffnet, in dem alle Projekte aufgelistet sind, auf die Sie
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 
-Hier können Sie aus den folgenden Datensätzen wählen: _Dokumente_
+Die folgenden Tabellen können geladen werden:
 
-**Dokument-Etiketten**
-
-**Etikette**
-
-**Mitglied**
-
-**Modell**
-
-**Modellrevision**
-
-**Produkte**
-
-**Team**
-
-**Teammitglieder**
-
-**Token**
-
-**Thema**
-
-**Themen-Board**
-
-**Themen-Etikette**
-
-**Themen-Status**
-
-**Thementyp**
+| Tabelle             | Inhalt                                                             |
+| ------------------- | ------------------------------------------------------------------ |
+| Dokumente           | Die Dokumente im Projekt.                          |
+| Dokumente Etiketten | Die Etiketten für jedes Dokument.                  |
+| Etikette            | Die im Projekt verwendeten Etiketten.              |
+| Mitglied            | Die Mitglieder des Projekts.                       |
+| Modell              | Die Modelle im Projekt.                            |
+| Modellrevision      | Die Revisionen jedes Modells.                      |
+| Produkte            | Die Objekte in den Modellen.                       |
+| Team                | Die Teams im Projekt.                              |
+| Teammitglieder      | Die Mitglieder jedes Teams.                        |
+| Token               | Ein Viewer-Token für das Projekt.                  |
+| Thema               | Die Themen im Projekt.                             |
+| Themen-Board        | Die Themen-Boards im Projekt.                      |
+| Thema Etiketten     | Die Etiketten für jedes Thema.                     |
+| Themenstatus        | Die für die Themen-Boards verwendeten Status.      |
+| Thementyp           | Die auf den Themen-Boards verwendeten Thementypen. |
 
 Nach dem Klicken auf "Laden" beginnt der PowerBI Connector mit dem Abrufen der Themendaten aus der API.
 

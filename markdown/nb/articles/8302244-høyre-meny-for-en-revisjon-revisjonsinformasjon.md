@@ -48,6 +48,8 @@ Hvis et dokument ikke er i en navnekonvensjonmappe, vil det være mulig å klikk
 
 _Nødvendig tilgang:_ Skriverettighet til dokumentet.
 
+> **Merk:** Dokumentnavn kan ikke inneholde følgende tegn: `< > : " / \ | ? *` Hvis det nye navnet inneholder ett av disse tegnene, kan det ikke lagres.
+
 ### 2.3 **Fylling av felt**
 
 Slik kan feltene som kan fylles ut for hele dokumentet se ut:

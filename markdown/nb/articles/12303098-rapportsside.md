@@ -50,11 +50,11 @@ Klikk [her](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumen
 
 ### 3.2 **Radinnhold**
 
-_Tilgang_ Rader på rapportssiden vises basert på tilgangen til elementet. _Nødvendig tilgang -_ Les
+**Tilgang** Rader på rapportsiden vises basert på tilgang til elementet. _Tilgang påkrevd:_ Lesing
 
-_Mapperadskift_ Åpning av innholdet i en mapperad endrer tabellen slik at den viser innholdet i mappen i rapporttabellen.
+**Mapperadskift** Åpning av innholdet i en mapperad endrer tabellen slik at den viser innholdet i mappen i rapporttabellen.
 
-_Rapportrad_ Åpning av innholdet i en rapportrad åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste revisjonen av denne rapporten.
+**Rapportrad** Åpning av innholdet i en rapportrad åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste revisjonen av denne rapporten.
 
 ### 3.3 **Radinnhold med statusarbeidsflyt -** Kladdrevi
 
@@ -62,17 +62,17 @@ _Rapportrad_ Åpning av innholdet i en rapportrad åpner [dokumentforhåndsvisni
 
 ### 3.4 **Radinnhold med statusarbeidsflyt - Arbeidsarea-fane**
 
-_Tilgang_ Rader på rapportssiden vises basert på tilgangen til elementet. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Nødvendig tilgang_ - Tilgang til visning av delte revisjoner i rapporten
+**Tilgang** Rader på rapportsiden vises basert på tilgang til elementet. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Tilgang påkrevd:_ Tilgang til visning av delte revisjoner i rapporten
 
-Uten tilgang til visning av delte revisjoner vises den siste publiserte revisjonen. Selv om det finnes nyere delte revisjoner. _Nødvendig tilgang -_ Lestilgang til rapporten
+Uten tilgang til visning av delte revisjoner vises den siste publiserte revisjonen. Selv om det finnes nyere delte revisjoner. _Tilgang påkrevd:_ Lesetilgang til rapporten
 
-_Rapportinnhold_ Åpning av innholdet i en rapportrad i arbeidsarea-fanen åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste delte revisjonen, selv om revisjoner i rapporten tidligere ble publisert.
+**Rapportinnhold** Åpning av innholdet i en rapportrad i arbeidsarea-fanen åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste delte revisjonen, selv om revisjoner i rapporten tidligere ble publisert.
 
 ### 3.5 **Radinnhold med statusarbeitsflyt -** Publisert-fane
 
-_Tilgang_ Rader på rapportssiden vises basert på tilgangen til elementet. Rapportrader med minst én publisert revisjon vises. _Nødvendig tilgang -_ Les
+**Tilgang** Rader på rapportsiden vises basert på tilgang til elementet. Rapportrader med minst én publisert revisjon vises. _Tilgang påkrevd:_ Lesing
 
-_Rapportinnhold_ Åpning av innholdet i en rapportrad i den publiserte fanen åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste publiserte revisjonen av rapporten, selv om det finnes nyere delte revisjoner.
+**Rapportinnhold** Åpning av innholdet i en rapportrad i den publiserte fanen åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste publiserte revisjonen av rapporten, selv om det finnes nyere delte revisjoner.
 
 ### 3.6 **Kolonner**
 

@@ -2,7 +2,7 @@
 
 > **Hinweis 1:** Die Seite Berichte ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann. **Hinweis 2:** Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
 
-Die Seite Berichtvorlagen finden Sie als Unterseite der [Seite Berichte](https://support.catenda.com/de/articles/12303098-berichterstattungsseite) im linken Navigationsmenü. Auf der Seite Berichtvorlagen können Dokument- und Themenvorlagen, die dem Projekt zur Verfügung stehen, verwaltet werden. _Erforderlicher Zugriff:_ Administrator
+Die Seite "Berichtvorlagen" ist eine Unterseite der [Berichtsseite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite) im linken Navigationsmenü. Auf der Seite "Berichtvorlagen" können die Dokument-, Themen- und Genehmigungsvorlagen, die für das Projekt verfügbar sind, verwaltet werden. _Erforderlicher Zugriff:_ Administrator
 
 So kann die Seite Berichtvorlagen aussehen:
 
@@ -12,7 +12,9 @@ So kann die Seite Berichtvorlagen aussehen:
 
 Die Aktionen auf der Seite Berichtvorlagen können Sie finden, indem Sie oben rechts auf der Seite Berichtvorlagen auf das Aktionsmenü klicken. So können die Aktionen auf der Seite Berichtvorlagen aussehen:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-actions-on-the-report-templates-page.png)
+![Das Aktionsmenü der Berichtsvorlagenseite mit Neue Themenvorlage, Neue Dokumentvorlage und Neue Genehmigungsvorlage](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
+
+Diese Aktionen erstellen eine völlig neue Vorlage, beginnend mit einer leeren Seite. Es wird empfohlen, stattdessen mit einer der vorgefertigten Berichtvorlagen zu beginnen und diese an das Projekt anzupassen. Sie können von [Vorgefertigte Berichtvorlagen](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) heruntergeladen werden _(nur für Berichteditor-Kunden)_.
 
 ### 1.1 **Neue Themenvorlage**
 
@@ -21,6 +23,10 @@ Verwenden Sie die Aktion "Neue Themenvorlage", um eine neue Themenvorlage zu ers
 ### 1.2 **Neue Dokumentvorlage**
 
 Verwenden Sie die Aktion "Neue Dokumentvorlage", um eine neue Dokumentvorlage zu erstellen
+
+### 1.3 **Neue Genehmigungsvorlage**
+
+Verwenden Sie die Aktion "Neue Genehmigungsvorlage", um eine neue Genehmigungsvorlage für Berichte zu Genehmigungsanfragen zu erstellen.
 
 ## 2. **Nach Name filtern**
 
@@ -52,7 +58,7 @@ _Erstellt von_ - _Standard_ Der Ersteller der Berichtvorlage
 
 Erstellt - _Standard_ Zeitpunkt und Datum der Erstellung der Themenvorlage
 
-Typ - Standard Der Typ der Berichtvorlage, entweder Dokumente oder Themen.
+Typ - Standard Der Typ der Berichtvorlage: Dokumente, Themen oder Genehmigungen.
 
 Aktionsmenü - Standard Klicken Sie auf das Aktionsmenü in der Spalte Aktionsmenü, um das Zeilenaktionsmenü zu öffnen. So kann das Zeilenaktionsmenü für Berichtvorlagen aussehen:
 

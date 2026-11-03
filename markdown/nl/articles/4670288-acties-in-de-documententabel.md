@@ -82,11 +82,11 @@ Nadat u zowel document(en) in het Documentengedeelte van het inhoudsvenster als 
 
 ### 2.4 **Rapport**
 
-Het rapportageprogramma kan per project aangevraagd worden om te worden geactiveerd. Met de rapportactie kunt u een rapport van uw geselecteerde Documenten maken.
+Met de rapportactie kunt u een rapport maken van uw geselecteerde documenten. Deze actie is alleen beschikbaar in projecten waar de rapportpagina is ingeschakeld. De rapportpagina kan per project worden ingeschakeld.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) voor meer informatie over de rapportactie. _Vereiste toegang:_ Leestoegang tot het Document
+Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen klanten van report editor)_ voor meer informatie over de rapportactie. _Vereiste toegang:_ Leestoegang tot het document
 
 ### 2.5 **Publiceren**
 

@@ -52,6 +52,8 @@ Nach der Auswahl einer Elementzeile werden ausgewählte Elementaktionen oben in 
 
 Klicken Sie [hier](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen), um mehr über die ausgewählten Elementaktionen auf der Dokumentenseite zu erfahren.
 
+Bei Projekten mit aktivierter Berichtsseite hat das Menü für ausgewählte Elementaktionen eine weitere Option, wenn nur Dokumente ausgewählt sind: **Bericht erstellen**. Weitere Informationen finden Sie unter [Bericht erstellen-Aktion](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Bericht-Editor-Kunden)_.
+
 ### 4.2 **Zeileninhalt**
 
 Beim ersten Laden der Tabelle werden bis zu 100 Zeilen angezeigt. Wenn mehr als 100 Zeilen in der Tabelle vorhanden sind, scrollen Sie nach unten, um die nächsten 100 Zeilen zu laden.

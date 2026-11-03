@@ -13,24 +13,24 @@ Da neue Funktionen eingeführt und Fehler behoben werden, werden Artikel mit den
 **Kontoverwaltung**
 
 - Organisationen
-    - [Organisationskonfiguration](https://support.catenda.com/de/articles/13653794-organisationskonfiguration)
-    - [Organisationstypen](https://support.catenda.com/de/articles/13653807-organisationstypen)
-    - [Organisations- und Projekteinrichtung](https://support.catenda.com/de/articles/13653804-organisation-und-projekteinrichtung)
+  - [Organisationskonfiguration](https://support.catenda.com/de/articles/13653794-organisationskonfiguration)
+  - [Organisationstypen](https://support.catenda.com/de/articles/13653807-organisationstypen)
+  - [Organisations- und Projekteinrichtung](https://support.catenda.com/de/articles/13653804-organisation-und-projekteinrichtung)
 
 **Produktmerkmale**
 
 - Themen
-    - [Seite mit Themenvorlageneinstellungen](https://support.catenda.com/de/articles/14076010-einstellungsseite-fur-themenvorlagen)
+  - [Seite mit Themenvorlageneinstellungen](https://support.catenda.com/de/articles/14076010-einstellungsseite-fur-themenvorlagen)
 - Themenvorlagen
-    - [Allgemeine Themenvorlage bei der Themenerstellung anwenden](https://support.catenda.com/de/articles/14075921-verwenden-von-themen-vorlagen-in-einem-themen-board)
-    - [Dokumentthemenvorlage beim Erstellen einer Markup aus einem Dokument anwenden](https://support.catenda.com/de/articles/14078352-verwenden-von-themen-vorlagen-beim-speichern-von-markup-themen)
-    - [Genehmigungsthemenvorlage auf Genehmigungsworkflow-Vorlage anwenden](https://support.catenda.com/de/articles/14078683-themen-vorlagen-mit-genehmigungen-verwenden)
+  - [Allgemeine Themenvorlage bei der Themenerstellung anwenden](https://support.catenda.com/de/articles/14075921-verwenden-von-themen-vorlagen-in-einem-themen-board)
+  - [Dokumentthemenvorlage beim Erstellen einer Markup aus einem Dokument anwenden](https://support.catenda.com/de/articles/14078352-verwenden-von-themen-vorlagen-beim-speichern-von-markup-themen)
+  - [Genehmigungsthemenvorlage auf Genehmigungsworkflow-Vorlage anwenden](https://support.catenda.com/de/articles/14078683-themen-vorlagen-mit-genehmigungen-verwenden)
 - Kategorieübergreifend
-    - [Berichtsaktion erstellen](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen)
-    - [Aktion "Link kopieren"](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren)
+  - [Bericht erstellen-Aktion](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Berichtereditor)_
+  - [Aktion "Link kopieren"](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren)
 - Catenda-Plugins und -Integrationen
-    - [Catenda Revit Plugin-Changelog - 1.0.15](https://support.catenda.com/de/articles/13449051-catenda-revit-plugin-anderungsprotokoll-1-0-15)
-    - [Catenda Archicad Plugin-Changelog - 1.0.1.17](https://support.catenda.com/de/articles/13449075-catenda-archicad-plugin-anderungsprotokoll-1-0-1-17)
+  - [Catenda Revit Plugin-Changelog - 1.0.15](https://support.catenda.com/de/articles/13449051-catenda-revit-plugin-anderungsprotokoll-1-0-15)
+  - [Catenda Archicad Plugin-Changelog - 1.0.1.17](https://support.catenda.com/de/articles/13449075-catenda-archicad-plugin-anderungsprotokoll-1-0-1-17)
 
 **Fehlerbehebung**
 
@@ -45,9 +45,9 @@ Aktuelle Updates
 **Häufig gestellte Fragen**
 
 - Themen-FAQ
-    - [2D-Standort von Themen - Catenda-Website](https://support.catenda.com/de/articles/13616245-2d-position-von-themen-catenda-site)
+  - [2D-Standort von Themen - Catenda-Website](https://support.catenda.com/de/articles/13616245-2d-position-von-themen-catenda-site)
 - Projekt-FAQ
-    - [FAQ zu benutzerdefinierten Feldern](https://support.catenda.com/de/articles/11384331-haufig-gestellte-fragen-zu-benutzerdefinierten-feldern)
+  - [FAQ zu benutzerdefinierten Feldern](https://support.catenda.com/de/articles/11384331-haufig-gestellte-fragen-zu-benutzerdefinierten-feldern)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 

@@ -82,11 +82,11 @@ Etter å ha valgt dokument(er) i dokumentdelen av innholdspanelet og gjenstand(e
 
 ### 2.4 **Rapport**
 
-Rapporteringsverktøyet kan forespørres aktivert på per-prosjekt-basis. Med Rapport-handlingen kan du lage en rapport over dine valgte dokumenter.
+Med rapporthandlingen kan du lage en rapport over dine valgte dokumenter. Denne handlingen er bare tilgjengelig på prosjekter der rapportsiden er aktivert. Rapportsiden kan forespørres å være aktivert på et per-prosjekt-basis.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å lese mer om Rapport-handlingen. _Nødvendig tilgang:_ Lesetilgang til dokumentet
+Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(bare rapporteditor-kunder)_ for å lese mer om rapporthandlingen. _Påkrevd tilgang:_ Lesestilgang til dokumentet
 
 ### 2.5 **Publiser**
 

@@ -82,11 +82,11 @@ Nachdem Sie Dokument(e) im Dokumentenbereich des Inhaltsfensters und Objekt(e) v
 
 ### 2.4 **Bericht**
 
-Das Reporting-Tool kann projektweise aktiviert werden. Mit der Aktion "Bericht" können Sie einen Bericht über Ihre ausgewählten Dokumente erstellen.
+Mit der Berichtsaktion können Sie einen Bericht über Ihre ausgewählten Dokumente erstellen. Diese Aktion ist nur in Projekten verfügbar, in denen die Berichtsseite aktiviert wurde. Die Berichtsseite kann auf projektbasis angefordert werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen), um mehr über die Aktion "Bericht" zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
+Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Berichts-Editor-Kunden)_ um mehr über die Berichtsaktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
 
 ### 2.5 **Veröffentlichen**
 

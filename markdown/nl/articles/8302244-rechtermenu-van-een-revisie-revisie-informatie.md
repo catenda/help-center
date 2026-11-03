@@ -48,6 +48,8 @@ Als een document zich niet in een naamgevingsconventie-map bevindt, kunt u op he
 
 _Vereiste toegang:_ Schrijftoegang tot het document.
 
+> **Opmerking:** Documentnamen mogen geen van de volgende tekens bevatten: `< > : " / \ | ? *` Als de nieuwe naam een van deze tekens bevat, kan deze niet worden opgeslagen.
+
 ### 2.3 **Velden invullen**
 
 Dit is hoe de velden die voor het hele document kunnen worden ingevuld eruit kunnen zien:

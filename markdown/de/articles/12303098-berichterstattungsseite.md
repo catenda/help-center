@@ -50,7 +50,7 @@ Klicken Sie [hier](https://support.catenda.com/de/articles/4670288-dokumenttabel
 
 ### 3.2 **Zeileninhalt**
 
-**Zugriff** Zeilen auf der Berichtsseite werden basierend auf dem Zugriff auf das Element angezeigt. _Erforderlicher Zugriff -_ Lesen
+**Zugriff** Zeilen auf der Seite „Berichte
 
 **Ordnerzeile** Wenn Sie den Inhalt einer Ordnerzeile öffnen, wird die Tabelle so geändert, dass der Inhalt dieses Ordners in der Berichtstabelle angezeigt wird.
 
@@ -62,15 +62,15 @@ Wenn Sie den Inhalt einer Berichtszeile mit nur Entwurfsrevisionen öffnen, wird
 
 ### 3.4 **Zeileninhalt mit Status-Workflow - Arbeitsbereich-Registerkarte**
 
-**Zugriff** Zeilen auf der Berichtsseite werden basierend auf dem Zugriff auf das Element angezeigt. Mit Zugriff auf die Anzeige gemeinsamer Revisionen wird die neueste Revision angezeigt. _Erforderlicher Zugriff_ - Zugriff auf die Anzeige gemeinsamer Revisionen im Bericht
+**Zugriff** Zeilen auf der Seite „Berichte
 
-Ohne Zugriff auf die Anzeige gemeinsamer Revisionen wird die neueste veröffentlichte Revision angezeigt. Auch wenn es neuere gemeinsame Revisionen gibt. _Erforderlicher Zugriff -_ Lesezugriff auf den Bericht
+Ohne Zugriff zum Anzeigen gemeinsamer Revisionen wird die neueste veröffentlichte revision angezeigt. Auch wenn es neuere gemeinsame Revisionen gibt. _Erforderlicher Zugriff:_ Lesezugriff auf den Bericht
 
 **Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Arbeitsbereich-Registerkarte öffnen, wird die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen) der neuesten gemeinsamen Revision geöffnet, auch wenn Revisionen im Bericht zuvor veröffentlicht wurden.
 
 ### 3.5 **Zeileninhalt mit Status-Workflow -** Registerkarte „Veröffentlicht“
 
-**Zugriff** Zeilen auf der Berichtsseite werden basierend auf dem Zugriff auf das Element angezeigt. Berichtszeilen mit mindestens einer veröffentlichten Revision werden angezeigt. _Erforderlicher Zugriff -_ Lesen
+**Zugriff** Zeilen auf der Seite „Berichte
 
 **Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Registerkarte „Veröffentlicht“ öffnen, wird die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen) der letzten veröffentlichten Revision des Berichts geöffnet, selbst wenn es neuere freigegebene Revisionen gibt.
 

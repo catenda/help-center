@@ -12,7 +12,7 @@ Når Catenda Desktop Connector er installert på Windows, vil installasjonsfilen
 
 ### 1.1 **Avinstallering**
 
-For å avinstallere plugin-en, gå til installasjonsmappe og kjør følgende fil:
+For å avinstallere programtillegget går du til installasjonsplassen og kjører følgende fil:
 
 `uninstall.exe`
 
@@ -20,11 +20,11 @@ Hvis mappen er blitt slettet og plugin-en fremdeles er aktiv, installer plugin-e
 
 ## 2. **Hent data og koble til**
 
-For å opprette en forbindelse fra PowerBI til Catenda HUB-databasen, gjør følgende: Åpne PowerBI og klikk på "Hent data fra annen kilde" i midten av skjermen, eller bruk handlingen Hent data i hjemmemenyen på øverste bånd. Båndet må kanskje utvides for å se handlingen.
+For å opprette en forbindelse fra PowerBI til Catenda HUB-databasen gjør du følgende: Åpne PowerBI og klikk på "Hent data fra en annen kilde" i midten av skjermen, eller bruk handlingen Hent data i hjemmemenyen på det øverste båndet. Båndet må kanskje utvides for å se handlingen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/01-get-data-and-connect.png)
 
-Velg målkilden under Annet --> Catenda. Bruk "_Koble til_" for å etablere forbindelsen til databasen.
+Velg målkilde under Annet --> Catenda. Bruk "_Koble til_" for å etablere forbindelsen til databasen. Informasjon om pålogging til Catenda og hva du gjør hvis påloggingen mislykkes, finner du i [Logg på Catenda fra Power BI](https://support.catenda.com/nb/articles/17778878-logg-pa-catenda-fra-power-bi).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/02-get-data-and-connect.png)
 
@@ -34,35 +34,25 @@ En navigator åpnes der alle prosjekter du har tilgang til er oppført. Velg til
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 
-Her kan du velge fra følgende datasett: _Dokumenter_
+Følgende tabeller kan lastes inn:
 
-**Dokumentetiketter**
-
-**Etikett**
-
-**Medlem**
-
-**Modell**
-
-**Modellrevisjon**
-
-**Produkter**
-
-**Team**
-
-**Teammedlemmer**
-
-**Token**
-
-**Sak**
-
-**Saksliste**
-
-**Saketikett**
-
-**Saksstatus**
-
-**Sakstype**
+| Tabell                    | Innhold                                               |
+| ------------------------- | ----------------------------------------------------- |
+| Dokumenter                | Dokumentene i prosjektet.             |
+| Merkelapper på dokumenter | Merkelappene på hvert dokument.       |
+| Merkelapp                 | Merkelappene som brukes i prosjektet. |
+| Medlem                    | Medlemmene i prosjektet.              |
+| Modell                    | Modellene i prosjektet.               |
+| Modellrevisjon            | Revisjonene for hver modell.          |
+| Produkter                 | Objektene i modellene.                |
+| Team                      | Teamene i prosjektet.                 |
+| Medlemmer i team          | Medlemmene i hvert team.              |
+| Token                     | Et visningstoken for prosjektet.      |
+| Sak                       | Sakene i prosjektet.                  |
+| Saksliste                 | Sakslisten i prosjektet.              |
+| Merkelapp for sak         | Merkelappene på hver sak.             |
+| Saksstatus                | Statusene som brukes på sakslisten.   |
+| Sakstype                  | Sakstypene som brukes på sakslisten.  |
 
 Etter at du klikker på Last inn, starter PowerBI-koblingen med å hente saksdataene fra API-en.
 

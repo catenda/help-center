@@ -52,6 +52,8 @@ Après avoir sélectionné une ligne d'élément, les actions d'éléments séle
 
 Cliquez [ici](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents) pour en savoir plus sur les actions d'éléments sélectionnés sur la page Documents.
 
+Sur les projets avec la page des rapports activée, le menu des actions d'éléments sélectionnés a une option supplémentaire quand seuls des documents sont sélectionnés : **Créer un rapport**. Lisez-en plus à ce sujet dans [Action Créer un rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_.
+
 ### 4.2 **Contenu des lignes**
 
 Lors du premier chargement du tableau, jusqu'à 100 lignes sont affichées. S'il y a plus de 100 lignes dans le tableau, faites défiler vers le bas pour charger les 100 lignes suivantes.

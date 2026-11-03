@@ -2996,11 +2996,11 @@ L'action d'exportation de sujets ouvrira la [boîte de dialogue d'exportation de
 
 ### 2.3 **Créer un rapport**
 
-L'outil de reporting peut être demandé pour être activé par projet. Avec l'action de création de rapport, vous pouvez créer un rapport de vos sujets sélectionnés. _Accès requis:_ Accès en lecture à la liste de sujets
+L'outil de reporting peut être demandé pour être activé sur la base d'un projet. Avec l'action créer un rapport, vous pouvez créer un rapport de vos Sujets sélectionnés. Cette action n'est disponible que sur les projets où la page des rapports a été activée. _Accès requis:_ Accès en lecture à la Liste de sujets
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Cette option est disponible lorsque des sujets provenant de plusieurs listes sont sélectionnés. Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) pour en savoir plus sur la création de rapports.
+Cette option est disponible lorsque des Sujets provenant de plusieurs listes sont sélectionnés. Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_ pour en savoir plus sur la création de rapports.
 
 ### 2.4 **Suivre**
 
@@ -3142,11 +3142,11 @@ Après avoir sélectionné le(s) document(s) dans la section documents du pannea
 
 ### 2.4 **Rapport**
 
-L'outil de rapport peut être demandé pour être activé sur une base par projet. Avec l'action de rapport, vous pourrez créer un rapport de vos documents sélectionnés.
+Avec l'action de rapport, vous pourrez créer un rapport de vos Documents sélectionnés. Cette action n'est disponible que sur les projets où la page des rapports a été activée. La page des rapports peut être demandée pour être activée projet par projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) pour en savoir plus sur l'action de rapport. _Accès requis:_ Accès en lecture au document
+Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients éditeur de rapport uniquement)_ pour en savoir plus sur l'action de rapport. _Accès requis :_ Accès en lecture au Document
 
 ### 2.5 **Publier**
 
@@ -4140,7 +4140,7 @@ Si un document portant le même nom que votre fichier n'existe pas encore dans l
 
 > **Remarque :** Il est uniquement possible de publier des documents et non de charger des brouillons
 
-Une fois qu'un fichier est publié, les utilisateurs pourront le déplacer, le renommer et le supprimer. _Accès Catenda requis :_ Accès complet, généralement accordé aux utilisateurs comme l'éditeur ou un administrateur. La modification du fichier sur Catenda ne change rien dans SharePoint. De même, si le fichier change dans SharePoint, rien ne change dans Catenda.
+Après la publication d'un fichier, les utilisateurs pourront déplacer, renommer et supprimer le fichier. _Accès Catenda requis :_ Accès complet, généralement accordé aux utilisateurs tels que l'éditeur ou un administrateur. La modification du fichier sur Catenda ne change rien sur SharePoint. De même, si le fichier change sur SharePoint, rien ne change sur Catenda.
 
 ## 2. **Composant WebPart Catenda**
 
@@ -4172,7 +4172,7 @@ Si vous ne souhaitez plus donner à l'application l'accès à votre compte Caten
 
 # Application Webpart Catenda SharePoint
 
-Avec le webpart Catenda, vous pouvez parcourir la section Documents d'un projet Catenda au sein d'une page SharePoint. _Accès Catenda requis :_ Lecture pour parcourir la structure des Documents et écriture pour télécharger des fichiers SharePoint vers Catenda.
+Avec le webpart Catenda, vous pouvez parcourir la section Documents d'un projet Catenda dans une page SharePoint. _Accès Catenda requis :_ Accès en lecture pour parcourir la structure des Documents et accès en écriture pour télécharger des fichiers SharePoint vers Catenda.
 
 ## 1. **Ajout du webpart**
 
@@ -5500,6 +5500,38 @@ Catenda Hub assigne automatiquement l'**accès complet** au créateur d'un dossi
 
 **La logique** Parce que la ligne de base et les chemins d'équipe sont entièrement fermés, les utilisateurs standards ne voient rien. Cependant, parce que le créateur de ce dossier ou de ce tableau détient automatiquement l'**accès complet du propriétaire**, il conserve la visibilité complète et le contrôle administratif sur l'espace, complètement isolé des membres standard du projet tandis que les administrateurs de projet conservent une surveillance de haut niveau.
 
+# Catenda AI Connect et accès aux projets
+
+> Catenda AI Connect ne fonctionne qu'avec ce que chaque utilisateur peut déjà ouvrir dans Catenda Hub. L'organisation qui gère un projet décide si Catenda AI Connect peut y être utilisé et peut demander une limite pour certains ou tous ses projets.
+
+> **Important :** Catenda AI Connect est en accès anticipé. Les fonctionnalités et les étapes de configuration changent souvent ; cet article décrit la version actuelle.
+
+Catenda AI Connect n'accède qu'à ce que chaque utilisateur peut déjà ouvrir dans Catenda Hub, et il agit en tant que cet utilisateur.
+
+## 1. **Qui peut l'utiliser sur un projet**
+
+Catenda AI Connect fonctionne sur les projets auxquels l'utilisateur connecté participe. Pour de nombreux utilisateurs, il ne s'agit pas seulement des projets de leur propre organisation, mais aussi des projets d'autres organisations auxquels ils sont invités. L'organisation qui gère un projet a un contrôle total sur l'utilisation de Catenda AI Connect sur ce projet. Une organisation qui n'a pas demandé de limite permet Catenda AI Connect sur ses projets. Les personnes que cette organisation invite à ces projets peuvent alors utiliser Catenda AI Connect là aussi. Une organisation peut également avoir limité Catenda AI Connect sur certains ou tous les projets qu'elle gère. Sur un projet où Catenda AI Connect est limité, la limite décide qui peut encore utiliser Catenda AI Connect là. Un utilisateur invité peut ne pas être en mesure d'utiliser Catenda AI Connect sur un tel projet, même s'il dispose de Catenda AI Connect par le biais de sa propre organisation. Catenda AI Connect ne voit que ce que l'utilisateur connecté peut ouvrir dans Catenda Hub, et ne peut modifier que ce que cet utilisateur est autorisé à modifier.
+
+Lorsqu'une organisation permet Catenda AI Connect sur ses projets, cela ne signifie pas que chaque personne invitée peut utiliser Catenda AI Connect là. La propre organisation de chaque personne invitée peut avoir une politique qui empêche ses personnes d'utiliser l'IA sur des projets, y compris les projets d'autres organisations. Donc, sur un projet où Catenda AI Connect est autorisé, la propre organisation de chaque personne invitée décide si cette personne peut utiliser Catenda AI Connect là. Par conséquent, toutes les personnes invitées, certaines des personnes invitées ou aucune des personnes invitées peuvent être en mesure d'utiliser Catenda AI Connect sur ce projet.
+
+Les personnes d'autres entreprises qui souhaitent utiliser Catenda AI Connect peuvent le demander elles-mêmes.
+
+## 2. **Où Catenda AI Connect est disponible**
+
+Une organisation peut demander une limite pour tout le monde sur tous les projets qu'elle gère, ou sur des projets spécifiques. Avec cette limite en place, personne ne peut utiliser Catenda AI Connect sur ces projets. La limite n'empêche pas les propres personnes de l'organisation d'utiliser Catenda AI Connect sur les projets d'autres organisations auxquelles elles sont invitées. D'autres arrangements peuvent être pris.
+
+Une limite sur Catenda AI Connect ne modifie aucune autre permission dans Catenda Hub ou dans l'API Catenda.
+
+## 3. **Paramètres dans l'application IA**
+
+L'application IA propre de l'organisation a ses propres paramètres d'administration. Ils décident quelles applications IA et quels utilisateurs peuvent utiliser le connecteur Catenda. Ils décident également si l'application IA ne peut que lire les données du projet dans Catenda Hub, ou peut aussi les modifier. Ces paramètres sont effectués dans l'application IA elle-même, pas dans Catenda. Ils s'appliquent uniquement aux propres personnes de l'organisation. Les personnes d'autres entreprises utilisent leurs propres applications IA, donc ces paramètres ne les atteignent pas.
+
+## 4. **Mise en route**
+
+Pour commencer à utiliser Catenda AI Connect, ou pour poser des questions sur d'autres arrangements, contactez les ventes Catenda : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Remarque :** Plus est disponible pour les clients de Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche alors plus aux clients connectés, en commençant par [Accès aux projets avec Catenda AI Connect](https://support.catenda.com/fr/articles/17778906-acces-aux-projets-avec-catenda-ai-connect) _(clients connectés uniquement)_.
+
 # Champs personnalisés dans un topic board
 
 Après avoir configuré les paramètres de vos champs personnalisés, vous pouvez maintenant ajouter ces champs à votre topic board
@@ -6285,7 +6317,7 @@ Lorsque le Connecteur Catenda Desktop est installé sur Windows, ses fichiers d'
 
 ### 1.1 **Désinstallation**
 
-Pour désinstaller le plugin, accédez au dossier d'installation et exécutez le fichier suivant :
+Pour désinstaller le plug-in, accédez au dossier d'installation et exécutez le fichier suivant :
 
 `uninstall.exe`
 
@@ -6293,11 +6325,11 @@ Si le dossier a été supprimé et que le plugin est toujours actif, veuillez r�
 
 ## 2. **Obtenir les données et se connecter**
 
-Pour créer une connexion de PowerBI à la base de données Catenda HUB, procédez comme suit : Ouvrez PowerBI et cliquez sur "Obtenir les données d'une autre source" au milieu de l'écran ou utilisez l'action Obtenir les données dans le menu d'accueil du ruban supérieur. Le ruban peut devoir être développé pour voir l'action.
+Pour créer une connexion entre PowerBI et la base de données Catenda HUB, procédez comme suit : Ouvrez PowerBI et cliquez sur « Obtenir les données à partir d'une autre source » au centre de l'écran ou utilisez l'action Obtenir les données dans le menu Accueil du ruban supérieur. Le ruban peut devoir être développé pour voir l'action.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/01-get-data-and-connect.png)
 
-Sélectionnez la source cible sous Autre --> Catenda. Utilisez "_Connecter_" pour établir la connexion à la base de données.
+Sélectionnez la source cible sous Autre --> Catenda. Utilisez « _Connexion_ » pour établir la connexion à la base de données. La connexion à Catenda et les actions à effectuer en cas d'échec de connexion sont décrites dans [Se connecter à Catenda à partir de Power BI](https://support.catenda.com/fr/articles/17778878-se-connecter-a-catenda-depuis-power-bi).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/02-get-data-and-connect.png)
 
@@ -6307,35 +6339,25 @@ Un navigateur s'ouvre dans lequel tous les projets auxquels vous avez accès son
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 
-Vous pourrez choisir parmi les ensembles de données suivants : _Documents_
+Les tableaux suivants peuvent être chargés :
 
-**Étiquette Documents**
-
-**Intitulé du champ**
-
-**Membre**
-
-**Modèle**
-
-**Révision du modèle**
-
-**Produits**
-
-**Équipe**
-
-**Membres de l'équipe**
-
-**Jeton**
-
-**Sujet**
-
-**Liste de sujets**
-
-**Étiquette Sujet**
-
-**Statut du sujet**
-
-**Type de sujet**
+| Tableau                 | Contenu                                                                |
+| ----------------------- | ---------------------------------------------------------------------- |
+| Documents               | Les documents du projet.                               |
+| Étiquettes de documents | Les étiquettes de chaque document.                     |
+| Intitulé du champ       | Les étiquettes utilisées dans le projet.               |
+| Membre                  | Les membres du projet.                                 |
+| Modèle                  | Les modèles du projet.                                 |
+| Révision du modèle      | Les révisions de chaque modèle.                        |
+| Produits                | Les objets dans les modèles.                           |
+| L'équipe                | Les équipes du projet.                                 |
+| Membres de l'équipe     | Les membres de chaque équipe.                          |
+| Jeton                   | Un jeton de visionneuse pour le projet.                |
+| Sujet                   | Les sujets du projet.                                  |
+| Liste de sujets         | Les listes de sujets du projet.                        |
+| Étiquette de sujet      | Les étiquettes de chaque sujet.                        |
+| Statut du sujet         | Les statuts utilisés sur les listes de sujets.         |
+| Type de sujet           | Les types de sujets utilisés sur les listes de sujets. |
 
 Après avoir cliqué sur Charger, le connecteur PowerBI commencera à récupérer les données du sujet à partir de l'API.
 
@@ -11471,6 +11493,8 @@ Si un document ne se trouve pas dans un dossier de convention de nomenclature, i
 
 _Accès requis :_ Accès en écriture au document.
 
+> **Remarque :** Les noms de documents ne peuvent pas contenir les caractères suivants : `< > : " / \ | ? *` Si le nouveau nom contient l'un de ces caractères, il ne peut pas être enregistré.
+
 ### 2.3 **Remplir les champs**
 
 Voici à quoi peuvent ressembler les champs qui peuvent être remplis pour l'ensemble du document :
@@ -15056,99 +15080,171 @@ Cliquez sur Restaurer pour restaurer un Template topic archivé.
 
 La page de Template topic n'est pas disponible pour les projets commençant par le nouveau flux de validation.
 
-# Page des validations
+# Page des approbations
 
-La page des validations se trouve comme sous-page de la [page documents](https://support.catenda.com/fr/articles/8204673-page-documents) dans le menu de navigation de gauche. La page des validations est masquée par défaut et s'affiche lorsque le circuit de validation des statuts a été activé dans les [paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) pour les projets ayant activé les révisions partagées après le 2 octobre 2025. Vous y trouverez un aperçu des demandes de validation du projet.
+La page des approbations se trouve en tant que sous-page de la [page documents](https://support.catenda.com/fr/articles/8204673-page-documents) dans le menu de navigation de gauche. Vous y trouverez un aperçu des demandes d'approbation du projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Cet article contient des informations sur les sujets suivants :
+Cet article contient des informations sur les sujets suivants : _[Activer](#h_263c9d1268) - [Actions](#h_39a97bd06a) - [Rechercher/filtrer](#h_95652579ee) - [Liste des approbations](#h_aa4dfe69f5) - [Lignes](#h_76de8831a3) - [Cartes de demande d'approbation](#h_e99a80135a) -_ [Onglets Demandes d'approbation et Révisions de documents](#h_aae5976a1d)
 
-_[Rechercher ou filtrer](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_95652579ee) - [Liste des validations](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_aa4dfe69f5) - [Contenu de la ligne](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_76de8831a3) - [Cartes de demande de validation](https://support.catenda.com/fr/articles/12495047-page-des-approbations#h_e99a80135a)_
+Sur la page des approbations, il est possible de :
 
-Les projets pour lesquels les révisions partagées ont été activées avant le 2 octobre 2025 verront la [page de validations héritée](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage) à la place. Sur la page des validations, les actions suivantes peuvent être effectuées :
+- Chaque demande d'approbation peut être examinée et validée par l'équipe avant qu'une validation finale décide si les révisions qui doivent être approuvées doivent être approuvées ou non.
+- La configuration du cours et du résultat d'une approbation peut être effectuée.
+- De nouvelles approbations peuvent être créées.
 
-- Chaque demande de validation peut être examinée et validée par l'équipe avant qu'une validation finale décide si les révisions demandées doivent être approuvées ou non.
-- La configuration du déroulement et du résultat d'une validation peut être effectuée.
-- De nouvelles validations peuvent être créées.
+## 1. **Activation de la page des approbations**
 
-## 1. **Options de recherche ou de filtrage**
+La page des approbations est masquée par défaut. Activez les révisions partagées dans les [paramètres de document](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) pour afficher la page des approbations. _Accès requis :_ Administrateur de projet
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
+> **Remarque :** Dans les projets où les révisions partagées ont été activées avant le 2 octobre 2025, la [page des approbations héritée](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage) s'affiche à la place.
+
+### 1.1 **Activation à partir d'un projet modèle**
+
+Les projets créés à partir d'un projet modèle pour lequel les statuts partagés étaient activés auront les statuts partagés activés et la page des approbations sera affichée à la création. Les workflows d'approbation et les modèles de sujets du projet modèle sont repris dans le nouveau projet, de sorte qu'ils n'ont pas besoin d'être créés à nouveau avant que les membres puissent commencer à soumettre des demandes d'approbation.
+
+## 2. **Nouvelles actions d'élément**
+
+Les nouvelles actions d'élément se trouvent en haut à droite de la page.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
+
+### 2.1 **Nouvelle demande d'approbation**
+
+Cliquez [ici](https://support.catenda.com/fr/articles/12495005-creation-d-une-nouvelle-demande-d-approbation) pour en savoir plus sur la création d'une nouvelle demande d'approbation.
+
+_Accès requis :_ Membre d'une équipe de soumission dans un flux de travail configuré
+
+## 3. **Options de recherche ou de filtrage**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
 
 Cliquez [ici](https://support.catenda.com/fr/articles/12495060-filtrage-sur-la-page-des-approbations) pour en savoir plus sur le filtrage sur la page des approbations.
 
-## 2. **Liste des validations**
+## 4. **Liste des approbations**
 
-Les projets créés à partir d'un projet modèle incluent les flux de travail d'approbation et les modèles de sujets de ce projet modèle. Chaque ligne de la liste des approbations contient une carte d'approbation avec des indices visuels sur le contenu de chaque demande d'approbation.
+Les cartes d'approbation avec des indices visuels sur le contenu de chaque demande d'approbation dont un membre fait partie s'affichent dans la liste des approbations.
 
-Voici à quoi peut ressembler une demande de validation avec une activité complète :
+Voici ce que pourrait ressembler une demande d'approbation avec une activité complète :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
 
-L'activité qui se produit dans la validation s'affiche avec des quantités et des icônes sur la carte de validation.
+L'activité qui se produit dans l'approbation s'affiche avec des quantités et des icônes sur la carte d'approbation.
 
-**Accès requis :** Membre de l'équipe du demandeur, examinateur ou équipe d'examen final ou administrateur.
+La visibilité des demandes est basée sur les rôles : les membres du projet ne peuvent voir que les demandes qu'ils ont personnellement soumises, les demandes actives assignées à une équipe de réviseur ou de réviseur final dont ils sont membre, ou toutes les demandes du projet dans le cas des administrateurs de projet. _Accès requis :_ Membre du projet, ou administrateur du projet pour voir toutes les demandes
 
-## 3. **Contenu de la ligne**
+- Pour les procédures opérationnelles détaillées concernant la soumission de révisions, l'ajout de marques de révision et le traitement des validations d'étapes ou des décisions finales, lisez [ici](https://www.google.com/search?q=).
+- Pour les conseils d'administration sur la configuration des modèles d'approbation, la gestion des paramètres verrouillés et la résolution des dépendances cassées, lisez [ici](https://www.google.com/search?q=).
 
-### 3.1 **Ligne de validation ouverte ou fermée**
+### 4.1 **Actions sur les éléments sélectionnés**
 
-L'ouverture du contenu d'une ligne de demande de validation en cours d'examen ou fermée ouvre la [page de validation](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee) pour cette validation.
+> **Remarque :** Créer un rapport est la seule action sur les éléments sélectionnés sur la page des approbations. Le menu des actions sur les éléments sélectionnés n'est donc visible que sur les projets avec la page des rapports activée.
 
-### 3.2 **Ligne de validation brouillon**
+La sélection d'une ou plusieurs demandes d'approbation dans la liste des approbations affiche les actions sur les éléments sélectionnés en haut de la liste. La case à cocher en haut sélectionne toutes les demandes d'approbation de la liste à la fois. Voici à quoi le menu des actions sur les éléments sélectionnés peut ressembler :
 
-Pour les validations en brouillon, la [page de demande de validation en brouillon](https://support.catenda.com/fr/articles/12495175-page-de-demande-de-validation-de-brouillon) s'ouvrira à la place.
+![Le menu des actions sur les éléments sélectionnés sur la page des approbations, avec une demande d'approbation sélectionnée et Créer un rapport](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-## 4. **Cartes de demande de validation**
+**Créer un rapport** Crée un rapport des demandes d'approbation sélectionnées, basé sur un modèle d'approbation. Lisez-en plus sur [Action Créer un rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_.
 
-### 4.1 **Titre**
+## 5. **Liste des révisions de documents**
 
-Titre de la validation
+Le deuxième onglet vous permet d'obtenir un aperçu de tous les documents en cours d'examen dans toutes les approbations ouvertes.
 
-### 4.2 **Statut brouillon**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
 
-Lorsqu'une demande de validation a le statut brouillon, elle n'est visible que par la personne qui a créé le brouillon dans la page des validations.
+Le tableau affiche :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
+1. le nom de la révision
+1. le numéro de révision
+1. l'étape d'examen actuelle
+1. l'état actuel de l'étape
+1. la date d'échéance de l'examen de l'étape
+1. les équipes qui doivent encore examiner le document
+1. le nom de la demande d'approbation
+1. le soumetteur (individuel et équipe)
+1. la date de soumission
 
-La demande de validation n'est pas visible dans le menu des validations du menu droit d'une révision.
+### 5.1 Filtrage
 
-### 4.3 **Statut de validation ouverte**
+De plus, le panneau de filtrage de gauche vous permet de filtrer les documents par :
 
-Lorsqu'une demande de validation a le statut ouvert, elle est visible pour tous les membres des équipes impliquées dans la demande. Survolez les statuts des validations en cours d'examen par plus d'une équipe pour ouvrir une fenêtre contextuelle montrant quelle équipe doit encore soumettre son examen à l'étape actuelle.
+1. Assignation : toutes les équipes ou votre équipe spécifiquement
+1. État du document : En attente, En examen, Terminé
+1. Date d'échéance : tous, à venir, en retard
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
+### 5.2 Tri
 
-Les équipes d'examen qui ont déjà donné leur examen n'apparaissent pas dans cette liste et ne sont pas comptabilisées dans le nombre d'équipes dont l'étape de validation est actuellement en cours d'examen.
+Enfin, vous avez la possibilité de trier par :
 
-À droite du statut de validation ouverte, la date et l'heure auxquelles l'étape de validation doit être examinée s'affichent. Si l'approbation automatique est configurée pour cette étape, la validation passera automatiquement à l'étape suivante à cette date et cette heure.
+1. Nom de la révision
+1. État
+1. Date d'échéance
+1. Date de soumission
 
-### 4.4 **Statut fermé**
+### 5.3 Recherche
 
-Lorsqu'une demande de validation atteint son étape de validation finale, elle reste ouverte. En fonction des approbations et rejets donnés par chacune des équipes à chacune des étapes de validation, un membre de l'équipe de validation finale pourra donner son approbation ou son rejet final. Lorsque la demande de validation est finalement approuvée ou rejetée par le membre de l'équipe de validation finale, elle est fermée.
+La recherche textuelle vous permet de rechercher par nom de révision et nom de demande d'approbation.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
+## 6. **Contenu de la ligne**
 
-### 4.5 **Circuit de validation**
+### 6.1 **Ligne d'approbation ouverte ou fermée**
 
-Le circuit de validation qui est suivi par la validation
+L'ouverture du contenu d'une ligne de demande d'approbation en cours d'examen ou fermée ouvre la [page d'approbation](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee) pour cette approbation.
 
-### 4.6 **Créé par**
+### 6.2 **Ligne de demande d'approbation au brouillon**
 
-Le membre qui a créé la validation et la date et l'heure de sa création.
+Pour les approbations au brouillon, la [page de demande d'approbation au brouillon](https://support.catenda.com/fr/articles/12495175-page-de-demande-de-validation-de-brouillon) s'ouvrira à la place.
 
-### 4.7 **Approbation finale**
+## 7. **Cartes de demande d'approbation**
 
-L'équipe de validation finale qui aura le dernier mot sur la publication des documents partagés dans la validation, informée par les examens soumis par les équipes du demandeur à chacune des étapes de validation.
+### 7.1 **Titre**
 
-### 4.8 **Numéro de validation**
+Titre d'approbation
 
-Le numéro de la validation
+### 7.2 **Statut brouillon**
 
-### 4.9 **Icônes en bas**
+Lorsqu'une demande d'approbation a le statut brouillon, elle n'est visible que par la personne qui a créé le brouillon sur la page des approbations.
 
-L'étape actuelle d'examen du circuit de validation que suit la validation. Le nombre total d'étapes que la validation doit compléter avant d'être finalisée. Visible uniquement sur les validations ouvertes et fermées. Le nombre de documents dans la validation indépendamment des paramètres d'accès.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
+
+La demande d'approbation n'est pas visible dans le menu des approbations du menu droit d'une révision.
+
+### 7.3 **Statut d'approbation ouverte**
+
+Lorsqu'une demande d'approbation a le statut ouvert, elle est visible pour tous les membres qui font partie des équipes impliquées dans la demande. Passez la souris sur les statuts des approbations qui sont en cours d'examen par plus d'une équipe pour ouvrir une fenêtre contextuelle qui montre quelle équipe doit encore soumettre son examen à l'étape d'examen actuelle.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
+
+Les Équipes d'examen qui ont déjà donné leur avis n'apparaissent pas dans cette liste et ne comptent pas dans le nombre d'Équipes en train d'examiner l'étape d'approbation.
+
+À droite du statut d'approbation ouvert, la date et l'heure à laquelle l'étape d'approbation doit être examinée s'affichent. Si l'approbation automatique est configurée pour cette étape, l'approbation passera automatiquement à l'étape suivante à cette date et cette heure.
+
+### 7.4 **Statut fermé**
+
+Lorsqu'une demande d'approbation atteint son étape d'approbation finale, elle reste ouverte. En fonction des approbations et des rejets donnés par chacune des Équipes à chaque étape d'approbation, un Membre de l'Équipe d'approbation finale sera en mesure de donner son approbation ou son rejet final. Lorsque la demande d'approbation est finalement approuvée ou rejetée par un Membre de l'Équipe d'approbation finale, elle sera fermée.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
+
+### 7.5 **Workflow**
+
+Le workflow suivi par l'approbation
+
+### 7.6 **Créé par**
+
+Le Membre qui a créé l'approbation et la date et l'heure de sa création.
+
+### 7.7 **Approbation finale**
+
+L'Équipe d'approbation finale qui aura le dernier mot sur la publication des Documents partagés dans l'approbation, informée par les avis soumis par les Équipes soumissionnaires à chaque étape d'approbation.
+
+### 7.8 **Numéro d'approbation**
+
+Le numéro de l'approbation
+
+### 7.9 **Icônes du bas**
+
+L'étape d'examen actuelle du workflow suivi par l'approbation. Le nombre total d'étapes que l'approbation doit accomplir avant d'être finalisée. Visible uniquement sur les approbations ouvertes et fermées. Le nombre de Documents dans l'approbation quel que soit les paramètres d'accès.
 
 # Page des champs personnalisés
 
@@ -15302,7 +15398,7 @@ Après soumission d'une convention de nommage, elle peut être [activée par dos
 
 > **Remarque 1 :** La page des rapports est une fonctionnalité optionnelle qui peut être activée pour les projets en cours. **Remarque 2 :** Les nouveaux projets créés à partir d'un projet de gabarit pour lequel cette fonctionnalité est activée n'ont pas cette fonctionnalité activée.
 
-La page des gabarits de rapports se trouve comme sous-page de la [page des rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) dans le menu de navigation de gauche. Sur la page des gabarits de rapports, les gabarits de documents et de Sujets disponibles pour le projet peuvent être gérés. _Accès requis :_ Administrateur
+La page des modèles de rapports se trouve comme sous-page de la [page des rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) dans le menu de navigation de gauche. Sur la page des modèles de rapports, les modèles de documents, de Sujets et d'approbation disponibles pour le projet peuvent être gérés. _Accès requis :_ Administrateur
 
 Voici à quoi la page des gabarits de rapports peut ressembler :
 
@@ -15312,7 +15408,9 @@ Voici à quoi la page des gabarits de rapports peut ressembler :
 
 Les actions de la page des gabarits de rapports se trouvent en cliquant sur le menu d'action en haut à droite de la page des gabarits de rapports. Voici à quoi les actions de la page des gabarits de rapports peuvent ressembler :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-actions-on-the-report-templates-page.png)
+![Le menu d'actions de la page des modèles de rapports, avec Nouveau modèle de Sujets, Nouveau modèle de Documents et Nouveau modèle d'approbation](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
+
+Ces actions créent un modèle complètement nouveau, en commençant par une page vide. Il est recommandé de commencer par l'un des modèles de rapports prêts à l'emploi à la place, et de l'adapter au projet. Ils peuvent être téléchargés à partir de [Modèles de rapports prêts à l'emploi](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(clients de l'éditeur de rapports uniquement)_.
 
 ### 1.1 **Nouveau gabarit de Sujets**
 
@@ -15321,6 +15419,10 @@ Utilisez l'action de nouveau gabarit de Sujets pour créer un nouveau gabarit de
 ### 1.2 **Nouveau gabarit de Document**
 
 Utilisez l'action de nouveau gabarit de Document pour créer un nouveau gabarit de Document
+
+### 1.3 **Nouveau gabarit - Validations**
+
+Utilisez l'action du nouveau modèle d'approbation pour créer un nouveau modèle d'approbation, pour les rapports sur les demandes d'approbation.
 
 ## 2. **Filtrer par nom**
 
@@ -15352,7 +15454,7 @@ _Créé par_ - _Par défaut_ Le créateur du gabarit de rapport
 
 Créé - _Par défaut_ L'heure et la date de création du gabarit de Sujets
 
-Type - Par défaut Le type de gabarit de rapport, soit Documents soit Sujets.
+Type - Par défaut Le type de modèle de rapport : Documents, Sujets ou Approbations.
 
 Menu d'action - Par défaut Cliquez sur le menu d'action dans la colonne du menu d'action pour ouvrir le menu d'action de ligne. Voici à quoi le menu d'action de ligne de gabarit de rapport peut ressembler :
 
@@ -16276,6 +16378,8 @@ Après avoir sélectionné une ligne d'élément, les actions d'éléments séle
 
 Cliquez [ici](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents) pour en savoir plus sur les actions d'éléments sélectionnés sur la page Documents.
 
+Sur les projets avec la page des rapports activée, le menu des actions d'éléments sélectionnés a une option supplémentaire quand seuls des documents sont sélectionnés : **Créer un rapport**. Lisez-en plus à ce sujet dans [Action Créer un rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_.
+
 ### 4.2 **Contenu des lignes**
 
 Lors du premier chargement du tableau, jusqu'à 100 lignes sont affichées. S'il y a plus de 100 lignes dans le tableau, faites défiler vers le bas pour charger les 100 lignes suivantes.
@@ -16734,7 +16838,7 @@ Cliquez [ici](https://support.catenda.com/fr/articles/4670288-actions-du-tableau
 
 ### 3.2 **Contenu de la ligne**
 
-**Accès** Les lignes de la page Rapports sont affichées en fonction de l'accès à l'élément. _Accès requis -_ Lecture
+**Accès** Les lignes de la page des rapports s'affichent en fonction de l'accès à l'élément. _Accès requis :_ Lecture
 
 **Ligne de dossier** L'ouverture du contenu d'une ligne de dossier change le tableau pour afficher le contenu de ce dossier dans le tableau des rapports.
 
@@ -16746,15 +16850,15 @@ L'ouverture du contenu d'une ligne de rapport avec uniquement des révisions de 
 
 ### 3.4 **Contenu de la ligne avec flux de statut - Onglet Espace de travail**
 
-**Accès** Les lignes de la page Rapports sont affichées en fonction de l'accès à l'élément. Avec l'accès à l'affichage des révisions partagées, la révision la plus récente est affichée. _Accès requis_ - Accès à l'affichage des révisions partagées dans le rapport
+**Accès** Les lignes de la page des rapports s'affichent en fonction de l'accès à l'élément. Avec l'accès à l'affichage des révisions partagées, la dernière révision s'affiche. _Accès requis :_ Accès à l'affichage des révisions partagées dans le rapport
 
-Sans accès à l'affichage des révisions partagées, la révision publiée la plus récente est affichée. Même s'il y a des révisions partagées plus récentes. _Accès requis -_ Accès en lecture au rapport
+Sans accès à l'affichage des révisions partagées, la dernière révision publiée s'affiche. Même s'il existe des révisions partagées plus récentes. _Accès requis :_ Accès en lecture au rapport
 
 **Contenu du rapport** L'ouverture du contenu d'une ligne de rapport dans l'onglet Espace de travail ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) de la révision partagée la plus récente, même si les révisions du rapport ont été précédemment publiées.
 
 ### 3.5 **Contenu de la ligne avec flux de statut -** Onglet Publié
 
-**Accès** Les lignes de la page Rapports sont affichées en fonction de l'accès à l'élément. Les lignes de rapport avec au moins une révision publiée sont affichées. _Accès requis -_ Lecture
+**Accès** Les lignes de la page des rapports s'affichent en fonction de l'accès à l'élément. Les lignes de rapport avec au moins une révision publiée s'affichent. _Accès requis :_ Lecture
 
 **Contenu du rapport** L'ouverture du contenu d'une ligne de rapport dans l'onglet publié ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) de la révision publiée la plus récente du rapport, même s'il y a des révisions partagées plus récentes.
 
@@ -18488,7 +18592,7 @@ La sélection d'un projet Catenda affichera la liste du tableau de problèmes da
 
 Les applications suivantes vous permettent de vous connecter avec Catenda depuis l'outil. Après la connexion, vous trouverez ces applications listées sur votre [page des applications](https://hub.catenda.com/account/apps).
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/10741601-ajouter-a-l-ecran-d-accueil">Ajouter à l'écran d'accueil</a></i></h3><p>Ordinateur, iPhone et iPad, Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Même que l'expérience du navigateur </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/10741601-ajouter-a-l-ecran-d-accueil">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>iPhone &amp; iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site">Article</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://testflight.apple.com/join/xj6WppjQ">Catenda (Accès anticipé)</a></i></h3><p>iPhone et iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>Accès anticipé</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>TestFlight</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=com.catenda.apex">Catenda (Accès anticipé)</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>Accès anticipé</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5">​<i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Connecteur de bureau</a></i></h3><p>Windows</p><p>(Bêta pour les images dorées)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Bêta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda<br/>(Bêta sur demande uniquement)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi Bêta)</p><p>(.exe Bêta)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Plugin Revit</a></i></h3><p>De : Revit 2022 <br/>À : Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/4670334-extension-catenda-revit">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Plugin Navisworks</a></i></h3><p>Jusqu'à Navisworks v.2027</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Plugin Archicad</a></i></h3><p>Version Windows, <br/>De : Archicad 23<br/>À : Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/5519276-plugin-catenda-archicad">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Plugin Archicad</a></i></h3><p>Version MacOS, <br/>De : Archicad 23 <br/>À : Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/5519276-plugin-catenda-archicad">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/fr/articles/6988148-integration-des-modeles-et-documents-solibri">Intégration Solibri</a></i></h3><p>Documents OpenCDE</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6988148-integration-des-modeles-et-documents-solibri">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/fr/articles/4670340-integration-des-topics-solibri">Intégration Solibri</a></i></h3><p>Connecteur BCF Live</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/4670340-integration-des-topics-solibri">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Plugin Tekla</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Plugin Tekla</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Plugin Tekla</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Plugin Tekla</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Plugin Tekla</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Plugin Tekla</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Plugin Tekla</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">Connecteur PowerBI</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/fr/articles/5784721-connecteur-catenda-power-bi">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">Application SharePoint</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft Appsource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/fr/articles/8396496-application-catenda-sharepoint">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>Version</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>Type de lien</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>Type de fichier</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>Article</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Module complémentaire SimpleBIM</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance SimpleBIM</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p><p>-&gt; .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Intégrations VREX</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance 12Build <br/></p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.12build.com/en/">Article</a></p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>Version</b></h2></td><td style="background-color: #e3e7fa; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>Type de lien</b></h2></td><td style="background-color: #e3e7fa; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>Type de fichier</b></h2></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>Article</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance NYK Systems <br/></p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Article</a><br/>​</p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ccbdd3aae0"><b>Acos</b></h1></td><td style="background-color: #e3e7fa; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_67fc299f3a"><b>Version</b></h2></td><td style="background-color: #e3e7fa; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_515dacc105"><b>Type de lien</b></h2></td><td style="background-color: #e3e7fa; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_31f1ece2a4"><b>Type de fichier</b></h2></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7cde189b1c"><b>Article</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c3475691f7"><i>WebSak+</i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/10741601-ajouter-a-l-ecran-d-accueil">Ajouter à l'écran d'accueil</a></i></h3><p>Ordinateur, iPhone et iPad, Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Même que l'expérience du navigateur </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/10741601-ajouter-a-l-ecran-d-accueil">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>iPhone &amp; iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site">Article</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://testflight.apple.com/join/xj6WppjQ">Catenda (Accès anticipé)</a></i></h3><p>iPhone et iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>Accès anticipé</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>TestFlight</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=com.catenda.apex">Catenda (Accès anticipé)</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.1</p><p><i>Accès anticipé</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5">​<i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Connecteur de bureau</a></i></h3><p>Windows</p><p>(Bêta pour les images dorées)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Bêta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda<br/>(Bêta sur demande uniquement)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi Bêta)</p><p>(.exe Bêta)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7c41e0a9d2"><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/17778695-a-propos-de-catenda-ai-connect">Catenda AI Connect (Accès anticipé)</a></i></h3><p>Claude, Microsoft Copilot, ChatGPT</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Accès anticipé</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/17778695-a-propos-de-catenda-ai-connect">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Plugin Revit</a></i></h3><p>De : Revit 2022 <br/>À : Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/4670334-extension-catenda-revit">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Plugin Navisworks</a></i></h3><p>Jusqu'à Navisworks v.2027</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Plugin Archicad</a></i></h3><p>Version Windows, <br/>De : Archicad 23<br/>À : Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/5519276-plugin-catenda-archicad">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Plugin Archicad</a></i></h3><p>Version MacOS, <br/>De : Archicad 23 <br/>À : Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/5519276-plugin-catenda-archicad">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/fr/articles/6988148-integration-des-modeles-et-documents-solibri">Intégration Solibri</a></i></h3><p>Documents OpenCDE</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6988148-integration-des-modeles-et-documents-solibri">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/fr/articles/4670340-integration-des-topics-solibri">Intégration Solibri</a></i></h3><p>Connecteur BCF Live</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/4670340-integration-des-topics-solibri">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Plugin Tekla</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Plugin Tekla</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Plugin Tekla</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Plugin Tekla</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Plugin Tekla</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Plugin Tekla</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Plugin Tekla</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">Connecteur PowerBI</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/fr/articles/5784721-connecteur-catenda-power-bi">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">Application SharePoint</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft Appsource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/fr/articles/8396496-application-catenda-sharepoint">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>Version</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>Type de lien</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>Type de fichier</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>Article</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Module complémentaire SimpleBIM</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance SimpleBIM</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p><p>-&gt; .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_af2a42e407"><b>AnkerDB</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5bc6c766cb"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_57ebc2f0a8"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c53522ad00"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_657957a849"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_da06a3aa70"><a class="intercom-content-link" href="https://ankerdb.com/">AnkerDB</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Site web AnkerDB</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_a71ebd6fce"><b>Treegram</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_770450e792"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31225eee56"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f3615416c6"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_20b7886ed7"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_271e0bfa5b"><a class="intercom-content-link" href="https://www.treegram.fr/">Treegram</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Site web Treegram</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Intégrations VREX</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance 12Build <br/></p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.12build.com/en/">Article</a></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>Version</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>Type de lien</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>Type de fichier</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>Article</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance NYK Systems <br/></p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Article</a><br/>​</p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ccbdd3aae0"><b>Acos</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_67fc299f3a"><b>Version</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_515dacc105"><b>Type de lien</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_31f1ece2a4"><b>Type de fichier</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7cde189b1c"><b>Article</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c3475691f7"><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/16968870-page-projets-du-portail-d-archivage">WebSak+</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/fr/articles/16968870-page-projets-du-portail-d-archivage">Article</a></i></p></td></tr></tbody></table></div>
 
 # Points de vue 2D et 3D
 
@@ -19058,6 +19162,44 @@ Avec la convention de nommage, il est demandé ou souhaité que tout soit nommé
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-38d3286a0f80.png" style="height: auto;" width="1920"/></div>
 
 > **Remarque :** Conseil : Si cela n'a pas été modifié, chaque Membre voit la même vue par défaut. Si vous activez/désactivez différentes colonnes, ce paramètre n'est enregistré que pour vous et non pour les autres Membres du projet.
+
+# Se connecter à Catenda depuis Power BI
+
+> Comment le connecteur Catenda pour Power BI se connecte à Catenda, et que faire en cas d'échec ou d'expiration de la connexion.
+
+Le connecteur Catenda pour Power BI se connecte à Catenda avec le compte Catenda de l'utilisateur. Cela fonctionne de la même manière dans le [Connecteur Power BI Catenda](https://support.catenda.com/fr/articles/5784721-connecteur-catenda-power-bi) publié et dans le [Connecteur Power BI Catenda (À la demande)](https://support.catenda.com/en/articles/17778871-catenda-power-bi-connector-on-demand).
+
+## 1. **Se connecter pour la première fois**
+
+1. Dans Power BI Desktop, accédez à **Obtenir les données** > **Plus** > **Autre** > **Catenda**, puis sélectionnez **Connexion**.
+1. Une fenêtre de navigateur s'ouvre sur la page de connexion Catenda.
+1. Connectez-vous avec votre compte Catenda.
+
+La connexion Catenda elle-même est décrite dans [Page de connexion](https://support.catenda.com/fr/articles/7891486-page-de-connexion).
+
+Power BI Desktop mémorise ensuite la connexion, de sorte que les actualisations ultérieures et les nouvelles connexions ne demandent pas à nouveau. Le navigateur affiche tous les projets auxquels le compte a accès.
+
+## 2. **Se connecter à nouveau après une mise à niveau**
+
+Le connecteur Catenda s'appelait autrefois _Bimsync_ dans Power BI. Power BI Desktop conserve une connexion distincte pour chaque nom, de sorte que la première connexion après une mise à niveau à partir d'un connecteur _Bimsync_ demande une nouvelle connexion.
+
+## 3. **Lorsque la connexion échoue ou a expiré**
+
+Lorsque la connexion continue d'échouer, continue de demander à nouveau, ou qu'un chargement s'arrête avec _Connexion Catenda expirée_, la connexion stockée de Power BI Desktop doit être effacée:
+
+Accédez à **Fichier** > **Options et paramètres** > **Paramètres de la source de données**.
+
+![La page Options et paramètres du menu Fichier dans Power BI Desktop, avec une flèche de Options et paramètres vers Paramètres de la source de données](https://raw.githubusercontent.com/catenda/help-center/main/images/8jvrzkes/01-when-the-sign-in-fails-or-has-expired.png)
+
+Sélectionnez l'entrée Catenda et cliquez sur **Effacer les autorisations**.
+
+![La boîte de dialogue Paramètres de la source de données dans Power BI Desktop avec l'entrée Catenda sélectionnée et le bouton Effacer les autorisations](https://raw.githubusercontent.com/catenda/help-center/main/images/8jvrzkes/02-when-the-sign-in-fails-or-has-expired.png)
+
+Reconnectez-vous et connectez-vous.
+
+## 4. **Avant un long chargement**
+
+Un chargement de nombreuses tables à la fois peut prendre beaucoup de temps, et la connexion se renouvelle pendant celui-ci. Un long chargement est mieux commencé immédiatement après une connexion récente: effacez les autorisations comme décrit ci-dessus et connectez-vous, puis commencez le chargement.
 
 # Suivi des informations par liaison
 
@@ -20406,6 +20548,136 @@ Sans le flux de statut, toutes les révisions qui sont téléchargées sont inst
 ### 4.1 **Révisions partagées par rapport aux révisions publiées**
 
 Avec le flux de statut activé, les nouvelles révisions sont téléchargées en tant que révisions partagées avant la publication. Lorsque vous regardez la révision partagée, vous pouvez voir le document original avant que Catenda ne l'ait modifié avec un code QR généré. Avec le flux de statut, le remplacement du placeholder du code QR par le code QR généré se fait lorsqu'une révision partagée dans un dossier configuré qui dispose du placeholder du code QR est publiée.
+
+# À propos de Catenda AI Connect
+
+> Catenda AI Connect connecte l'IA que votre organisation utilise déjà, comme Claude, Microsoft Copilot ou ChatGPT, aux projets Catenda Hub auxquels elle participe. Découvrez ce que c'est, comment ça fonctionne et comment commencer.
+
+> **Important :** Catenda AI Connect est en accès anticipé. Les fonctionnalités et les étapes de configuration changent fréquemment ; cet article décrit la version actuelle.
+
+La rentabilité d'un projet de construction se situe quelque part entre ce qui a été contracté, ce qui a été conçu, ce qui a été construit, et ce qui a été dit et écrit en chemin. Maintenir ces éléments en ligne signifie tenir des réunions d'examen, vérifier les livraisons et fouiller dans les commentaires et les anciens fils de courrier électronique.
+
+Ce produit connecte l'IA que votre organisation utilise déjà et en qui elle a confiance directement aux models, aux Documents et aux Sujets dans Catenda Hub. Les questions sur un projet sont posées en langage naturel et trouvent une réponse à partir des données de projet en direct, prêtes à devenir des rapports et des preuves. Lorsque l'organisation autorise son application IA à apporter des modifications, les résultats deviennent également des Sujets dans Catenda Hub.
+
+## 1. **Ce que c'est**
+
+Catenda Hub ouvre ses données de projet aux outils IA que l'organisation a déjà choisis, de sorte que les Équipes continuent de travailler avec l'assistant qu'elles connaissent. Tout ce que l'application IA crée ou modifie est enregistré dans Catenda Hub, comme tout autre travail de coordination.
+
+La connexion utilise MCP (le Model Context Protocol), une norme ouverte pour connecter les applications IA à d'autres systèmes. Cela maintient le choix de l'IA au sein de l'organisation, aujourd'hui et lorsqu'elle change d'avis plus tard.
+
+## 2. **À quoi les Équipes l'utilisent**
+
+### 2.1 **Poser une question**
+
+Les questions reçoivent une réponse à partir des données de projet en direct, avec des sources. Par exemple :
+
+```
+Que s'est-il passé sur le projet cette semaine ? Qu'est-ce qui est en retard ? Où se situe le risque ?
+```
+
+### 2.2 **Vérifier**
+
+Les livraisons, les models et les Documents sont vérifiés par rapport aux exigences du projet. Par exemple :
+
+```
+Vérifiez le nommage et les métadonnées de cette livraison par rapport à notre Plan d'exécution BIM. Signalez ce qui échoue.
+```
+
+### 2.3 **Déléguer**
+
+Le travail structuré de routine est fait sous forme de brouillons qu'une personne approuve. Par exemple :
+
+```
+Le client a envoyé cette feuille de calcul. Créez un Sujet par ligne, définissez le propriétaire et la date limite.
+```
+
+## 3. **Comment ça fonctionne**
+
+L'informatique de l'organisation ajoute le connecteur Catenda à son application IA une seule fois, via la norme ouverte que l'application IA supporte déjà, ce qui la rend disponible pour les employés qui utilisent cette application IA. Chaque employé se connecte à l'application IA avec son compte IA habituel, puis utilise le connecteur pour connecter l'application IA à son propre compte Catenda.
+
+L'application IA fonctionne alors comme cet utilisateur connecté : elle fonctionne avec exactement l'accès que cet utilisateur a dans Catenda Hub, et les permissions du projet s'appliquent sans modification.
+
+L'application IA propose et une personne décide. Ce qu'elle crée, comme des Sujets, des rapports ou des Liens, est examiné avant d'être écrit, et reste dans Catenda Hub avec le même Historique que tout autre travail de coordination.
+
+## 4. **Contrôle sur les données de projet**
+
+L'organisation décide quelle IA fonctionne avec ses données de projet, et peut changer cette décision plus tard car la connexion est une norme ouverte que n'importe quelle application IA supportée peut utiliser.
+
+Catenda Hub reste la source unique d'information du projet. L'application IA accède aux données que l'utilisateur connecté est autorisé à voir, et les droits d'accès restent gérés en un seul endroit.
+
+## 5. **Commencer**
+
+Catenda AI Connect est disponible en accès anticipé.
+
+Catenda AI Connect n'est pas réservé aux organisations qui possèdent des projets dans Catenda Hub. Une organisation invitée aux projets d'autres organisations peut également obtenir Catenda AI Connect. Une telle organisation n'a pas besoin de posséder elle-même un projet. Catenda AI Connect fonctionne alors sur deux types de projets. Le premier type est les projets que l'organisation gère elle-même. Le deuxième type est les projets auxquels l'organisation est invitée, tant que l'organisation qui gère ce projet autorise Catenda AI Connect. Lorsqu'une organisation autorise Catenda AI Connect sur un projet, cela ne signifie pas que chaque personne invitée peut utiliser Catenda AI Connect. La propre organisation de chaque personne peut avoir une politique contre l'utilisation de l'IA sur les projets. [Catenda AI Connect et accès aux projets](https://support.catenda.com/fr/articles/17778745-catenda-ai-connect-et-acces-aux-projets) décrit cela plus en détail.
+
+Pour commencer à utiliser Catenda AI Connect, contactez les ventes de Catenda : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Remarque :** Plus est disponible pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche alors plus de contenu pour les clients connectés, en commençant par [Introduction à Catenda AI Connect](https://support.catenda.com/fr/articles/17778901-introduction-a-catenda-ai-connect) _(clients connectés uniquement)_.
+
+# À propos de Catenda Desktop Connector pour les images système
+
+> Une version de Catenda Desktop Connector pour les organisations qui installent des logiciels dans une image de système d'exploitation, qui peut être demandée.
+
+Catenda Desktop Connector planifie les téléchargements et les envois entre Catenda Hub et un ordinateur, et est décrit dans [Catenda Desktop Connector](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop). Une version pour les organisations qui installent des logiciels dans une image de système d'exploitation peut être demandée.
+
+## 1. **Ce qu'il est**
+
+C'est la même application que Catenda Desktop Connector standard, packagée pour s'installer par utilisateur au lieu de pour l'ensemble de l'ordinateur. Cela convient aux ordinateurs et aux bureaux virtuels configurés à partir d'une image préparée, comme une image golden dans Citrix.
+
+## 2. **Mise en route**
+
+Catenda Desktop Connector fonctionne avec des projets dans Catenda Hub. Pour l'utiliser, contactez la vente Catenda pour commencer avec un premier projet : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Remarque :** Plus de contenu est disponible pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche alors plus de contenu pour les clients connectés, en commençant par [Introduction to Catenda Desktop Connector for System Images](https://support.catenda.com/fr/articles/17778688-introduction-au-connecteur-bureau-catenda-pour-images-systeme) _(clients connectés uniquement)_.
+
+# À propos de Catenda pour Power BI (On Demand)
+
+> Catenda pour Power BI apporte les données de projet Catenda Hub dans Power BI. Une version suivante, avec des visuels et un modèle de rapport prêt à l'emploi, est disponible à la demande.
+
+Catenda pour Power BI apporte les données d'un projet Catenda Hub dans Microsoft Power BI, pour des rapports sur les modèles, documents et Sujets du projet. Le [Connecteur Catenda Power BI](https://support.catenda.com/fr/articles/5784721-connecteur-catenda-power-bi) publié est disponible pour chaque client Catenda. Une version suivante est disponible à la demande : elle peut être demandée avant sa sortie à tous.
+
+## 1. **Qu'est-ce que c'est**
+
+La version suivante est dotée d'un nouveau connecteur qui apporte beaucoup plus de données d'un projet dans Power BI, de visuels qui affichent les modèles et Sujets d'un projet dans un rapport, et d'un modèle de rapport prêt à l'emploi. Il est encore en évolution, il est donc proposé à titre d'essai plutôt que pour des rapports qui doivent durer.
+
+## 2. **Commencer**
+
+Catenda pour Power BI fonctionne avec des projets dans Catenda Hub. Pour l'utiliser, contactez les ventes de Catenda pour commencer avec un premier projet : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Remarque :** Plus est disponible pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche alors plus aux clients connectés, en commençant par [Introduction to Catenda for Power BI (On Demand)](https://support.catenda.com/fr/articles/17778865-introduction-a-catenda-pour-power-bi-a-la-demande) _(clients connectés uniquement)_.
+
+# À propos de l'éditeur de rapport
+
+> Catenda Hub crée des rapports à partir des Sujets, Documents et approbations d'un projet. Avec l'éditeur de rapport, un projet peut avoir ses propres modèles de rapport.
+
+Sur la [page des rapports](https://support.catenda.com/fr/articles/12303098-page-rapports), Catenda Hub crée des rapports à partir des Sujets, Documents et demandes d'approbation d'un projet, prêts à être enregistrés et partagés en tant que document. Chaque rapport est créé à partir d'un modèle de rapport, qui détermine l'apparence du rapport et les informations du projet qu'il affiche. L'éditeur de rapport, où les modèles de rapport sont conçus, peut être demandé pour les projets qui en ont besoin.
+
+## 1. **Qu'est-ce que c'est**
+
+L'éditeur de rapport donne à un projet ses propres modèles de rapport, du bloc de titre aux tableaux et graphiques. Des modèles prédéfinis pour les Sujets, Documents et approbations sont disponibles comme point de départ, dans différentes langues.
+
+## 2. **Commencer**
+
+L'éditeur de rapport fonctionne avec les projets dans Catenda Hub. Pour l'utiliser, contactez le service commercial de Catenda pour commencer avec un premier projet : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Remarque :** Plus est disponible pour les clients de Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche alors plus de contenu pour les clients connectés, en commençant par [Introduction à l'éditeur de rapport](https://support.catenda.com/fr/articles/17778684-introduction-a-l-editeur-de-rapport) _(clients connectés uniquement)_.
+
+# À propos du Portail d'archivage Catenda
+
+> Le Portail d'archivage Catenda permet aux utilisateurs de transférer les Documents et les Sujets de leur choix de Catenda Hub vers le système d'archivage de leur organisation.
+
+Le Portail d'archivage Catenda permet aux utilisateurs de transférer les Documents et les Sujets de leur choix de projets Catenda Hub vers le système d'archivage de leur organisation, afin que les enregistrements du projet se retrouvent où l'organisation les conserve. Il s'agit d'un produit distinct à côté de Catenda Hub.
+
+## 1. **Qu'est-ce que c'est**
+
+L'archivage s'effectue dans une seule direction, de Catenda Hub vers le système d'archivage. Le portail peut soumettre à des systèmes d'archivage tels que WebSak+ d'Acos.
+
+## 2. **Premiers pas**
+
+Le Portail d'archivage fonctionne avec les projets de Catenda Hub. Pour l'utiliser, contactez les ventes de Catenda pour commencer avec un premier projet : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Remarque :** Plus d'informations sont disponibles pour les clients de Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche alors plus d'informations aux clients connectés, en commençant par [Introduction au Portail d'archivage Catenda](https://support.catenda.com/fr/articles/17778822-introduction-au-portail-d-archivage-catenda) _(clients connectés uniquement)_.
 
 # Échanger des sujets
 
@@ -22332,7 +22604,7 @@ Les données des Sujets peuvent être extraites à l'aide de trois formats princ
 
 **Excel** Exporte les paramètres des Sujets dans un format de feuille de calcul pour le filtrage, le tri et la manipulation de données. Ce format fournit des lignes et des colonnes structurées qui sont idéales pour sélectionner et copier des données, et les fichiers Excel peuvent être facilement prévisualisés dans la plupart des plates-formes d'archivage. À des fins d'archivage, l'export PDF est généralement préféré à Excel car il inclut plus d'informations.
 
-**PDF** Génère un rapport résumé lisible et net au format PDF standard (v1.4) accessible sans logiciel spécialisé (voir [export des sujets vers PDF](https://support.catenda.com/fr/articles/9784934-exporter-des-sujets-en-pdf)). Les exports PDF standard incluent un horodatage de téléchargement consolidé pour les rapports formels des autorités et l'archivage, fournissant plus d'informations qu'un export Excel. Bien que l'export de base génère un fichier PDF standard (v1.4), que de nombreux systèmes d'archivage convertissent automatiquement en PDF/A lors du téléchargement pour un aperçu à long terme, l'export direct vers les formats natifs PDF/A-1, PDF/A-2 et PDF/A-3 est également disponible via la [page Rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) optionnelle.
+**PDF** Génère un rapport récapitulatif clair et lisible au format PDF standard (v1.4) accessible sans logiciel spécialisé (voir [exporting topics to PDF](https://support.catenda.com/fr/articles/9784934-exporter-des-sujets-en-pdf)). Les exports PDF standard incluent un horodatage de téléchargement consolidé pour les rapports aux autorités officielles et l'archivage, fournissant plus d'informations qu'un export Excel. Bien que l'export de base génère un fichier PDF standard (v1.4), que de nombreux systèmes d'archivage convertissent automatiquement en PDF/A lors du téléchargement pour un aperçu à long terme, les projets avec la [reports page](https://support.catenda.com/fr/articles/12303098-page-rapports) optionnelle activée peuvent également exporter les sujets dans des formats d'archivage, tel que décrit dans [Exporting project data with reports](https://support.catenda.com/fr/articles/17779017-exportation-des-donnees-de-projet-avec-des-rapports) _(clients report editor uniquement)_.
 
 ### 2.3 **Export des Documents et des collections**
 
@@ -22386,53 +22658,15 @@ Configurez un compte administratif dédié avec les [paramètres de notification
 
 ### 2.7 **Page Rapports (Fonctionnalité Opt-In)**
 
-**Activation de l'opt-in** La page rapports est une fonctionnalité optionnelle qui peut être demandée à être activée pour les projets en cours. Bien qu'aucun paiement supplémentaire ne soit requis pour utiliser cet outil, le propriétaire du projet doit accepter de l'activer sur le projet, ce qui signifie qu'il n'est pas actif par défaut dans de nombreux projets. Notez que les nouveaux projets créés à partir de projets Template où les rapports sont activés n'ont pas automatiquement cette fonctionnalité activée.
+La [reports page](https://support.catenda.com/fr/articles/12303098-page-rapports) est une fonctionnalité optionnelle qui peut être demandée pour les projets en cours. Les projets pour lesquels elle est activée peuvent également exporter les données de documents et sujets sous forme de rapports formatés, y compris les formats pour l'archivage à long terme.
 
-**Gestion basée sur les Template** Lorsqu'elles sont activées, les administrateurs du projet peuvent utiliser la [page des modèles de rapport](https://support.catenda.com/fr/articles/12380837-page-des-gabarits-de-rapports) pour configurer les modèles de rapport personnalisés et générer des exports formatés pour les Documents ou les Sujets sélectionnés.
+**Gestion basée sur des modèles** Lorsqu'elle est activée, les administrateurs de projet utilisent la [report templates page](https://support.catenda.com/fr/articles/12380837-page-des-gabarits-de-rapports) pour configurer leurs propres modèles de rapport et générer des exports formatés pour les documents ou sujets sélectionnés.
 
-**Rapports de Document** Exportez les métadonnées du Document et les détails de révision pour tous les fichiers sélectionnés, y compris le nom du Document, le nom de la révision, le numéro de révision le plus récent, le Statut, les champs personnalisés, le créateur, le téléchargeur et les horodatages de création/téléchargement.
-
-- **Cas d'utilisation clés**<br>Idéal pour générer des listes de contrôle formelles de livraison de documents pour accompagner une collection, ou compiler des listes de documents structurées pour l'analyse de données.
-- **Métadonnées et attributs du modèle**<br>Bien que le contenu réel des fichiers de document ne soit pas inclus, les métadonnées du modèle peuvent être exportées via les rapports de document car les modèles maintiennent des liens vers la section des documents. Des scripts personnalisés dans les modèles peuvent également être utilisés pour dériver des attributs supplémentaires, tels que l'extraction des types de fichiers à partir des noms de documents.
-
-**Rapports de Sujets** Exportez les en-têtes de Sujets globaux ainsi que les détails complets du corps du Sujet, y compris les descriptions, les commentaires et les images de commentaires incorporées.
-
-**Formats d'export disponibles** Les rapports créés à partir de n'importe quel Template peuvent être exportés vers plusieurs formats selon vos besoins de flux de travail :
-
-- **PDF / PDF/A**<br>Génère des rapports propres et formatés et supporte directement la conformité PDF/A native (PDF/A-1, PDF/A-2 et PDF/A-3) pour respecter les normes strictes d'archivage à long terme et les normes juridiques formelles.
-- **Excel**<br>Exporte des données tabulaires structurées en lignes et colonnes de feuille de calcul, ce qui le rend idéal pour la manipulation de données et l'analyse externe.
-- **Formats supplémentaires**<br>Un large éventail de formats de fichiers supplémentaires au-delà de PDF et Excel sont également pris en charge pour l'export ; l'aperçu complet peut être trouvé dans l'article [page des rapports](https://support.catenda.com/fr/articles/12303098-page-rapports).
-
-**Stockage centralisé** Les rapports générés sont répertoriés directement dans le tableau des rapports et intégrés automatiquement dans le tableau Documents principal pour une gestion facile.
+Ce qui peut être exporté et dans quels formats de fichier est décrit dans [Exporting project data with reports](https://support.catenda.com/fr/articles/17779017-exportation-des-donnees-de-projet-avec-des-rapports) _(clients report editor uniquement)_.
 
 ## 3. **Export de données Catenda**
 
-Contrairement aux téléchargements standard pilotés par l'utilisateur, Catenda Data Export est une solution automatisée en libre-service conçue pour transférer de manière transparente les données du projet directement dans le stockage cloud d'une organisation. Si votre organisation souhaite activer cette fonctionnalité, vous pouvez contacter le service des ventes à [sales@catenda.com](mailto:sales@catenda.com). Une fois activée, elle fournit des sauvegardes automatisées directement entre les environnements cloud sans nécessiter de scripts personnalisés, contournant les contraintes de mémoire du navigateur, les limitations d'espace de stockage local et les interruptions réseau grâce à la vérification de somme de contrôle automatisée.
-
-### 3.1 **Rôles et autorisations de l'organisation**
-
-La configuration et la gestion de Catenda Data Export nécessitent un **Administrateur de l'organisation**. Contrairement à un Propriétaire de l'organisation, dont les droits administratifs sont limités à une seule organisation, ou aux Membres de projet standard, un Administrateur de l'organisation dispose d'un accès élevé sur toutes les organisations appartenant à un compte couvrant. Ce rôle unique accorde la visibilité interorganisationnelle requise et l'autorité pour configurer et gérer les exports cloud automatisés.
-
-### 3.2 **Étapes de configuration**
-
-La configuration des exports de données automatisés implique quatre étapes principales :
-
-1. **Sélectionner la destination**<br>Choisissez un fournisseur de stockage cloud, Amazon Web Services (AWS) S3 ou stockage Microsoft Azure Blob, et configurez l'authentification.
-2. **Définir la portée et les formats de données**
-   - **Types de données**<br>Exportez les documents, les modèles et les sujets. <br>Les données de sujets peuvent être automatiquement converties en rapports de synthèse PDF lisibles ou en fichiers BCF standard lors du transfert.
-   - **Sélection du projet**<br>Choisissez tous les projets, sélectionnez des projets spécifiques ou configurez des règles de correspondance dynamiques utilisant des modèles de noms de projet (glob ou expression régulière / regex) pour inclure automatiquement les nouveaux projets à mesure qu'ils sont créés.
-3. **Sélectionner le mode d'export**
-   - **Mode continu**<br>Envoie les données automatiquement selon un calendrier quotidien. <br>Cette configuration récurrente garantit que les membres du projet qui ne sont pas propriétaires maintiennent une sauvegarde à jour jusqu'à la dernière exécution quotidienne si l'accès au projet se termine de façon inattendue.
-   - **Mode capture**<br>Effectue une exécution unique pour exporter un ensemble de données complet à une étape importante ou à un transfert de projet spécifique.
-4. **Déployer**<br>Finalisez et activez la configuration d'export en sélectionnant Créer.
-
-### 3.3 **Contenu extrait et vérification de l'intégrité**
-
-**Métadonnées et champs personnalisés** Les champs personnalisés associés aux Documents et aux Sujets sont exportés aux côtés des fichiers principaux en tant que fichiers JSON structurés, garantissant la rétention complète des attributs sans génération manuelle de rapports.
-
-**Vérification de l'intégrité** Chaque exécution d'export génère un fichier de somme de contrôle pour vérifier que les fichiers exportés correspondent aux données source dans Catenda Hub et ont été transférés complètement sans perte réseau.
-
-**Hiérarchie organisée** Les fichiers exportés sont automatiquement structurés dans des dossiers organisés par date, nom de projet et la hiérarchie exacte des dossiers maintenue dans Catenda Hub.
+Catenda Data Export est vendu séparément de Catenda Hub. Contrairement aux téléchargements ci-dessus, il copie les données du projet automatiquement, directement de Catenda Hub vers le stockage cloud propre d'une organisation sur Amazon S3 ou Azure Blob Storage. C'est approprié pour les organisations qui souhaitent une sauvegarde qui suit leurs projets, ou les dossiers de projet conservés dans leur propre stockage. Ce n'est pas seulement pour les propriétaires de projets. Un propriétaire de projet peut exporter une sauvegarde complète de ses projets, et un participant à un projet peut exporter ce qu'il a accès dans les projets auxquels il participe. Plus d'informations à ce sujet se trouvent dans [About Catenda Data Export](https://support.catenda.com/fr/articles/17779020-a-propos-de-catenda-data-export) _(pour les lecteurs qui ne sont pas connectés)_ et [Introduction to Catenda Data Export](https://support.catenda.com/fr/articles/17779027-introduction-a-catenda-data-export) _(clients connectés uniquement)_. Les clients qui l'ont trouvent la configuration dans [Catenda Data Export](https://support.catenda.com/fr/articles/17779052-export-de-donnees-catenda) _(clients Data Export uniquement)_.
 
 # FAQ Catenda Desktop Connector
 
@@ -24350,6 +24584,34 @@ S'il est décidé qu'un Sujets n'est pas réalisable à mettre en œuvre à n'im
 
 Le projet Catenda restera un projet interne. Cela signifie que nous ne pouvons pas afficher ces Sujets publiquement. Nous voulons être aussi transparents que possible, cependant, si vous vous demandez jamais l'état d'un Sujets de la voix utilisateur, n'hésitez pas à demander au support une mise à jour !
 
+# À propos de Catenda Data Export
+
+> Catenda Data Export copie les données des projets Catenda Hub vers le stockage cloud propre d'une organisation, automatiquement.
+
+Catenda Hub offre plusieurs façons de télécharger les données de projet, décrites dans [Exporting all project data](https://support.catenda.com/fr/articles/7946690-exporter-toutes-les-donnees-du-projet). Catenda Data Export est celui automatisé : il copie les données de projet directement vers le stockage cloud propre d'une organisation dans Amazon S3 ou Azure Blob storage. Il est vendu séparément de Catenda Hub.
+
+## 1. **Ce qu'il est**
+
+Catenda Data Export conserve une copie des documents, modèles et sujets d'un projet dans le stockage contrôlé par l'organisation. Il s'exécute selon un calendrier ou une seule fois, sans que personne ne télécharge manuellement des fichiers.
+
+## 2. **Propriétaires et participants de projets**
+
+Catenda Data Export n'est pas seulement destiné aux organisations qui possèdent des projets dans Catenda Hub. Ce qu'il exporte dépend du rôle de l'organisation dans chaque projet.
+
+### 2.1 **Propriétaires de projets**
+
+Une organisation qui possède un projet peut exporter une sauvegarde complète de toutes les données de ce projet.
+
+### 2.2 **Participants au projet**
+
+Une organisation qui participe à des projets possédés par d'autres peut également obtenir Catenda Data Export, sans posséder elle-même un projet. Dans ces projets, il exporte uniquement ce à quoi le participant a accès, ce qui peut être une partie limitée du projet. De cette façon, le participant conserve sa propre copie de son travail, même si son accès au projet prend fin.
+
+## 3. **Mise en route**
+
+Pour l'utiliser, contactez les ventes Catenda pour commencer avec un premier projet : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Remarque :** Plus est disponible pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche ensuite plus d'informations pour les clients connectés, en commençant par [Introduction to Catenda Data Export](https://support.catenda.com/fr/articles/17779027-introduction-a-catenda-data-export) _(clients connectés uniquement)_.
+
 # Affichage en tableau dans la section Documents
 
 La [page Documents ](https://support.catenda.com/fr/articles/8204673-page-documents)a reçu une refonte **🎉🎉**
@@ -24963,24 +25225,24 @@ Les fleurs s'épanouissent et le changement est dans l'air alors que les niveaux
 **Gestion des comptes**
 
 - Organisations
-    - [Configuration de l'organisation](https://support.catenda.com/fr/articles/13653794-configuration-de-l-organisation)
-    - [Types d'organisation](https://support.catenda.com/fr/articles/13653807-types-d-organisation)
-    - [Configuration de l'organisation et du projet](https://support.catenda.com/fr/articles/13653804-organisation-et-configuration-des-projets)
+  - [Configuration de l'organisation](https://support.catenda.com/fr/articles/13653794-configuration-de-l-organisation)
+  - [Types d'organisation](https://support.catenda.com/fr/articles/13653807-types-d-organisation)
+  - [Configuration de l'organisation et du projet](https://support.catenda.com/fr/articles/13653804-organisation-et-configuration-des-projets)
 
 **Fonctionnalités du produit**
 
 - Sujets
-    - [Page des paramètres du modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet)
+  - [Page des paramètres du modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet)
 - Modèles de sujet
-    - [Appliquer un modèle de sujet général lors de la création d'un sujet](https://support.catenda.com/fr/articles/14075921-utilisation-des-modeles-de-sujets-dans-une-liste-de-sujets)
-    - [Appliquer un modèle de sujet de document lors de la création d'une annotation à partir d'un document](https://support.catenda.com/fr/articles/14078352-utilisation-de-modeles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage)
-    - [Appliquer un modèle de sujet d'approbation à un modèle de flux de travail d'approbation](https://support.catenda.com/fr/articles/14078683-utilisation-de-modeles-de-sujets-avec-les-approbations)
+  - [Appliquer un modèle de sujet général lors de la création d'un sujet](https://support.catenda.com/fr/articles/14075921-utilisation-des-modeles-de-sujets-dans-une-liste-de-sujets)
+  - [Appliquer un modèle de sujet de document lors de la création d'une annotation à partir d'un document](https://support.catenda.com/fr/articles/14078352-utilisation-de-modeles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage)
+  - [Appliquer un modèle de sujet d'approbation à un modèle de flux de travail d'approbation](https://support.catenda.com/fr/articles/14078683-utilisation-de-modeles-de-sujets-avec-les-approbations)
 - Entre catégories
-    - [Action Créer un rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport)
-    - [Action Copier le lien](https://support.catenda.com/fr/articles/14323982-action-de-copie-de-liens)
+  - [Créer une action de rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_
+  - [Action Copier le lien](https://support.catenda.com/fr/articles/14323982-action-de-copie-de-liens)
 - Plug-ins et intégrations Catenda
-    - [Journal des modifications du plug-in Revit Catenda - 1.0.15](https://support.catenda.com/fr/articles/13449051-journal-des-modifications-du-plugin-catenda-revit-1-0-15)
-    - [Journal des modifications du plug-in Archicad Catenda - 1.0.1.17](https://support.catenda.com/fr/articles/13449075-journal-des-modifications-du-plugin-catenda-archicad-1-0-1-17)
+  - [Journal des modifications du plug-in Revit Catenda - 1.0.15](https://support.catenda.com/fr/articles/13449051-journal-des-modifications-du-plugin-catenda-revit-1-0-15)
+  - [Journal des modifications du plug-in Archicad Catenda - 1.0.1.17](https://support.catenda.com/fr/articles/13449075-journal-des-modifications-du-plugin-catenda-archicad-1-0-1-17)
 
 **Dépannage**
 
@@ -24995,9 +25257,9 @@ Mises à jour récentes
 **Foire aux questions**
 
 - FAQ Sujets
-    - [Localisation 2D des sujets - Site Catenda](https://support.catenda.com/fr/articles/13616245-localisation-2d-des-sujets-catenda-site)
+  - [Localisation 2D des sujets - Site Catenda](https://support.catenda.com/fr/articles/13616245-localisation-2d-des-sujets-catenda-site)
 - FAQ Projet
-    - [FAQ Champs personnalisés](https://support.catenda.com/fr/articles/11384331-faq-sur-les-champs-personnalises)
+  - [FAQ Champs personnalisés](https://support.catenda.com/fr/articles/11384331-faq-sur-les-champs-personnalises)
 
 ### 1.2 **Articles qui ont changé :**
 

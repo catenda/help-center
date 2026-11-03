@@ -58,7 +58,7 @@ Topicgegevens kunnen in drie primaire formaten worden geëxtraheerd via [topics 
 
 **Excel** Exporteert topicparameters naar een spreadsheetindeling voor filteren, sorteren en gegevensmanipulatie. Dit formaat biedt gestructureerde rijen en kolommen die ideaal zijn voor het selecteren en kopiëren van gegevens. Excel-bestanden kunnen eenvoudig worden bekeken in de meeste archiveringsplatforms. Voor archiveringsdoeleinden heeft de PDF-export meestal de voorkeur boven Excel omdat deze meer informatie bevat.
 
-**PDF** Genereert een schoon, leesbaar samenvattingsrapport in standaard PDF-indeling (v1.4) die zonder speciale software toegankelijk is (zie [topics naar PDF exporteren](https://support.catenda.com/nl/articles/9784934-onderwerpen-naar-pdf-exporteren)). Standaard PDF-exports bevatten een geconsolideerde downloadtijdstempel voor officiële overheidsrapportage en archivering, met meer informatie dan een Excel-export. Terwijl de basisexport een standaard PDF-bestand (v1.4) genereert, dat veel archiveringssystemen automatisch naar PDF/A omzetten bij upload voor langdurige voorbeelden, is directe export naar native PDF/A-1, PDF/A-2 en PDF/A-3-indeling ook beschikbaar via de opt-in [Rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina).
+**PDF** Genereert een schoon, leesbaar samenvattingsrapport in standaard PDF-indeling (v1.4) toegankelijk zonder gespecialiseerde software (zie [topics naar PDF exporteren](https://support.catenda.com/nl/articles/9784934-onderwerpen-naar-pdf-exporteren)). Standaard PDF-exports bevatten een geconsolideerde downloadtijdstempel voor officiële overheidsrapportage en archivering, met meer informatie dan een Excel-export. Terwijl de basisexport een standaard PDF-bestand (v1.4) genereert, dat veel archiveringssystemen automatisch naar PDF/A converteren bij upload voor langdurig voorbeeld, kunnen projecten met de opt-in [rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina) ingeschakeld ook topics in archiveringindelingen exporteren, zoals beschreven in [Projectgegevens exporteren met rapporten](https://support.catenda.com/nl/articles/17779017-projectgegevens-exporteren-met-rapporten) _(alleen rapporteditor-klanten)_.
 
 ### 2.3 **Documenten en bundels exporteren**
 
@@ -112,50 +112,12 @@ Configureer een speciaal beheerdersaccount met [projectspecifieke meldingsinstel
 
 ### 2.7 **Rapportenpagina (Opt-in-functie)**
 
-**Opt-in-activering** De rapportenpagina is een opt-in-functie die kan worden aangevraagd om voor lopende projecten in te schakelen. Hoewel er geen extra betaling nodig is om dit hulpmiddel te gebruiken, moet de projecteigenaar ermee instemmen dat dit op het project wordt ingeschakeld. Dit betekent dat het in veel projecten niet standaard actief is. Houd er rekening mee dat nieuwe projecten die zijn gemaakt op basis van sjabloonprojecten waarop rapporten zijn ingeschakeld, deze functie niet automatisch hebben ingeschakeld.
+De [rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina) is een opt-in-functie die voor lopende projecten kan worden aangevraagd. Projecten waarvoor deze functie is ingeschakeld, kunnen documentatie en Topics als geformatteerde rapporten exporteren, inclusief indelingen voor langdurige archivering.
 
-**Op sjablonen gebaseerd beheer** Wanneer dit is ingeschakeld, kunnen projectbeheerders de [rapportsjabloonenpagina](https://support.catenda.com/nl/articles/12380837-pagina-met-rapportsjablonen) gebruiken om aangepaste rapportsjablonen te configureren en geformatteerde exports voor geselecteerde documenten of topics te genereren.
+**Op templates gebaseerd beheer** Wanneer dit is ingeschakeld, gebruiken projectbeheerders de [pagina met rapportsjablonen](https://support.catenda.com/nl/articles/12380837-pagina-met-rapportsjablonen) om hun eigen rapportsjablonen in te stellen en geformatteerde exports voor geselecteerde Documenten of Topics te genereren.
 
-**Documentrapporten** Exporteer documentmetagegevens en revisiedetails voor alle geselecteerde bestanden, inclusief documentnaam, revisienaam, meest recente revisienummer, status, aangepaste velden, maker, uploader en aanmaak-/uploadtijdstempels.
-
-- **Belangrijkste gebruiksscenario's**<br>Ideaal voor het genereren van formele controlelijsten voor documentlevering ter begeleiding van een collectie, of het samenstellen van gestructureerde documentlijsten voor gegevensanalyse.
-- **Modelmetagegevens en kenmerken**<br>Hoewel de werkelijke documentbestandsinhoud niet is opgenomen, kunnen modelmetagegevens via documentrapporten worden geëxporteerd omdat modellen koppelingen naar de documentsectie behouden. Aangepaste scripts binnen templates kunnen ook worden gebruikt om aanvullende kenmerken af te leiden, zoals het extraheren van bestandstypen uit documentnamen.
-
-**Topicrapporten** Exporteer de algehele topicheaders en volledige topiclichaamdetails, inclusief beschrijvingen, opmerkingen en ingesloten opmerkingsafbeeldingen.
-
-**Beschikbare exportindelingen** Rapporten die op basis van een sjabloon zijn gemaakt, kunnen afhankelijk van uw werkstroomvereisten naar meerdere indeling worden geëxporteerd:
-
-- **PDF / PDF/A**<br>Genereert schoon opgemaakte rapporten en ondersteunt rechtstreeks native PDF/A-naleving (PDF/A-1, PDF/A-2 en PDF/A-3) om te voldoen aan strikte standaarden voor langdurige archivering en formeel-juridische normen.
-- **Excel**<br>Exporteert gestructureerde tabellarische gegevens naar rijen en kolommen in een spreadsheet, wat ideaal is voor gegevensmanipulatie en externe analyse.
-- **Aanvullende indelingen**<br>Een groot aantal aanvullende bestandsindelingen naast PDF en Excel worden ook ondersteund voor export; het volledige overzicht is te vinden in het artikel [rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina).
-
-**Gecentraliseerde opslag** Gegenereerde rapporten staan rechtstreeks in de rapportentabel en worden automatisch geïntegreerd in de hoofddocumenttabel voor eenvoudig beheer.
+Wat kan worden geëxporteerd en in welke bestandsindelingen wordt beschreven in [Projectgegevens exporteren met rapporten](https://support.catenda.com/nl/articles/17779017-projectgegevens-exporteren-met-rapporten) _(alleen rapporteditor-klanten)_.
 
 ## 3. **Catenda Data Export**
 
-In tegenstelling tot standaard door gebruikers gestuurde downloads is Catenda Data Export een geautomatiseerde selfserviceoplossing die is ontworpen om projectgegevens naadloos rechtstreeks in de cloudopslag van een organisatie over te dragen. Als uw organisatie geïnteresseerd is in het inschakelen van deze functie, kunt u contact opnemen met de afdeling Verkoop op [sales@catenda.com](mailto:sales@catenda.com). Nadat dit is ingeschakeld, worden geautomatiseerde back-ups rechtstreeks tussen cloudomgevingen zonder aangepaste scripts, door browserwerkgeheugenbeperkingen, lokale stationsopslagbeperkingen en netwerkonderbrekingen te omzeilen via geautomatiseerde checksumverificatie.
-
-### 3.1 **Organisatierollen en machtigingen**
-
-Het instellen en beheren van Catenda Data Export vereist een **Organisatiebeheerder**. In tegenstelling tot een Organisatie-eigenaar, wiens beheersrechten beperkt zijn tot één organisatie, of standaard projectleden, heeft een Organisatiebeheerder verhoogde toegang in alle organisaties die tot een overkoepelend account behoren. Deze unieke rol biedt de vereiste zichtbaarheid en bevoegdheid op het niveau van meerdere organisaties om geautomatiseerde cloudexports in te stellen en te beheren.
-
-### 3.2 **Configuratiestappen**
-
-Het instellen van geautomatiseerde gegevensexports omvat vier belangrijkste stappen:
-
-1. **Bestemming selecteren**<br>Kies een cloudopslagprovider, Amazon Web Services (AWS) S3 of Microsoft Azure Blob Storage, en configureer authenticatie.
-2. **Bereik en gegevensindelingen definiëren**
-   - **Gegevenstypen**<br>Exporteer documenten, modellen en topics. <br>Topicgegevens kunnen tijdens overdracht automatisch worden omgezet in leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
-   - **Projectselectie**<br>Kies alle projecten, selecteer specifieke projecten handmatig, of stel dynamische bijpassingsregels in met behulp van projectnaampatronen (glob of reguliere expressie / regex) om automatisch nieuwe projecten op te nemen naarmate deze worden gemaakt.
-3. **Exportmodus selecteren**
-   - **Continue modus**<br>Verzendt gegevens automatisch volgens een dagelijks schema. <br>Deze terugkerende instelling zorgt ervoor dat niet-eigenaar projectleden een bijgewerkte back-up behouden tot aan de laatste dagelijkse uitvoering als projecttoegang onverwacht wordt beëindigd.
-   - **Snapshottmodus**<br>Voert een eenmalige uitvoering uit om een volledige gegevensverzameling op een specifieke mijlpaal of projectoverdracht te exporteren.
-4. **Implementeren**<br>Voltooi en activeer de exportconfiguratie door Maken te selecteren.
-
-### 3.3 **Geëxtraheerde inhoud en Integriteitsverificatie**
-
-**Metagegevens en Aangepaste velden** Aangepaste velden die aan documenten en topics zijn gekoppeld, worden naast primaire bestanden als gestructureerde JSON-bestanden geëxporteerd, zodat volledige kenmerkbehoud zonder handmatige rapportgeneratie wordt gegarandeerd.
-
-**Integriteitsverificatie** Bij elke exportrun wordt een checksumbestand gegenereerd om te controleren of geëxporteerde bestanden overeenkomen met de brongegevens in Catenda Hub en volledig zonder netwerkuitval zijn overgedragen.
-
-**Georganiseerde Hiërarchie** Geëxporteerde bestanden worden automatisch in mappen ingedeeld op datum, projectnaam en de exacte maphiërarchie die in Catenda Hub wordt onderhouden.
+Catenda Data Export wordt apart verkocht van Catenda Hub. In tegenstelling tot de bovenstaande downloads kopieert het automatisch projectgegevens rechtstreeks van Catenda Hub naar de eigen cloudopslag van een organisatie in Amazon S3 of Azure Blob Storage. Het is geschikt voor organisaties die een back-up willen die meegaat met hun projecten, of projectrecords die in hun eigen opslag worden bewaard. Het is niet alleen voor projecteigenaren. Een projecteigenaar kan een volledige back-up van zijn projecten exporteren, en een projectdeelnemer kan wat hij toegang tot heeft in de projecten waarin hij deelneemt exporteren. Meer informatie hierover vindt u in [Over Catenda Data Export](https://support.catenda.com/nl/articles/17779020-over-catenda-data-export) _(voor lezers die niet zijn aangemeld)_ en [Inleiding tot Catenda Data Export](https://support.catenda.com/nl/articles/17779027-inleiding-tot-catenda-data-export) _(alleen aangemelde klanten)_. Klanten die dit hebben, vinden de instelling in [Catenda Data Export](https://support.catenda.com/nl/articles/17779052-catenda-data-export) _(alleen Data Export-klanten)_.

@@ -46,7 +46,7 @@ Hvis et dokument med samme navn som filen din ikke allerede finnes i mappen du p
 
 > **Merknad:** Det er bare mulig å publisere dokumenter og ikke laste opp kladder
 
-Etter at en fil er publisert, kan brukere flytte, gi nytt navn og slette filen. _Catenda-tilgang påkrevd:_ Full tilgang, vanligvis gitt til brukere som utgiver eller administrator. Endring av filen på Catenda endrer ingenting på SharePoint. På samme måte, hvis filen endres på SharePoint, endres ingenting på Catenda.
+Etter at en fil er publisert, vil brukere kunne flytte, gi nytt navn til og slette filen. _Catenda-tilgang påkrevd:_ Full tilgang, som vanligvis gis til brukere som utgiver eller administrator. Endring av filen på Catenda endrer ingenting på SharePoint. På samme måte, hvis filen endres på SharePoint, endres ingenting på Catenda.
 
 ## 2. **Catenda Webpart**
 

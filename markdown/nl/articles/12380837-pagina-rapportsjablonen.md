@@ -2,7 +2,7 @@
 
 > **Opmerking 1:** De pagina met rapporten is een opt-in-functie die kan worden aangevraagd voor lopende projecten. **Opmerking 2:** Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
 
-De pagina met rapportsjablonen vindt u als een subpagina van de [pagina met rapporten](https://support.catenda.com/nl/articles/12303098-rapportenpagina) in het linker navigatiemenu. Op de pagina met rapportsjablonen kunnen document- en onderwerpsjablonen die beschikbaar zijn voor het project, worden beheerd. _Vereiste toegang:_ Beheerder
+De rapportagesjablonenenpagina is te vinden als een subpagina van de [rapportages pagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina) in het linkernavigatiemenu. Op de rapportagesjablonenpagina kunnen de document-, Topics- en goedkeuringsjablonen die beschikbaar zijn voor het project worden beheerd. _Vereiste toegang:_ Beheerder
 
 Dit is hoe de pagina met rapportsjablonen er ongeveer uit kan zien:
 
@@ -12,7 +12,9 @@ Dit is hoe de pagina met rapportsjablonen er ongeveer uit kan zien:
 
 De acties op de pagina met rapportsjablonen kunt u vinden door op het actiemenu rechtsboven op de pagina met rapportsjablonen te klikken. Dit is hoe de acties op de pagina met rapportsjablonen eruit kunnen zien:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-actions-on-the-report-templates-page.png)
+![Het actiemenu van de rapportagesjablonenpagina met Nieuw Topics-sjabloon, Nieuw documentsjabloon en Nieuw goedkeuringssjabloon](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
+
+Deze acties maken een volledig nieuw sjabloon aan, beginnend met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapportagessjablonen en deze aan het project aan te passen. Deze kunnen worden gedownload van [Kant-en-klare rapportagessjablonen](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(alleen voor klanten met rapportage-editor)_.
 
 ### 1.1 **Nieuw onderwerpsjabloon**
 
@@ -21,6 +23,10 @@ Gebruik de actie Nieuw onderwerpsjabloon om een nieuw onderwerpsjabloon te maken
 ### 1.2 **Nieuw documentsjabloon**
 
 Gebruik de actie Nieuw documentsjabloon om een nieuw documentsjabloon te maken
+
+### 1.3 **Nieuw goedkeuringssjabloon**
+
+Gebruik de actie voor het nieuwe goedkeuringssjabloon om een nieuw goedkeuringssjabloon te maken voor rapporten over goedkeuringsverzoeken.
 
 ## 2. **Filteren op naam**
 
@@ -52,7 +58,7 @@ _Gemaakt door_ - _Standaard_ De maker van het rapportsjabloon
 
 Gemaakt - _Standaard_ Het moment waarop het onderwerpsjabloon is gemaakt
 
-Type - Standaard Het type rapportsjabloon, ofwel Documenten ofwel Onderwerpen.
+Type - Standaard Het type rapportagesjabloon: Documenten, Topics of Goedkeuringen.
 
 Actiemenu - Standaard Klik op het actiemenu in de actiemenulom om het rijactiemenu te openen. Dit is hoe het rijactiemenu voor rapportsjablonen eruit kan zien:
 

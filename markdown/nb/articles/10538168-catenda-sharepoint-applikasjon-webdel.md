@@ -1,6 +1,6 @@
 # Catenda SharePoint-applikasjon – Webdel
 
-Med Catenda-webdelen kan du bla gjennom dokumentdelen av et Catenda-prosjekt på en SharePoint-side. _Catenda-tilgang påkrevd:_ Les for å bla gjennom dokumentstrukturen og skriv for å laste opp SharePoint-filer til Catenda.
+Med Catenda-webdelen kan du bla gjennom dokumentdelen av et Catenda-prosjekt på en SharePoint-side. _Catenda-tilgang kreves:_ Leseilgang for å bla gjennom dokumentstrukturen og skrivetilgang for å laste opp SharePoint-filer til Catenda.
 
 ## 1. **Legge til webdelen**
 

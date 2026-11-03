@@ -46,7 +46,7 @@ Si un document portant le même nom que votre fichier n'existe pas encore dans l
 
 > **Remarque :** Il est uniquement possible de publier des documents et non de charger des brouillons
 
-Une fois qu'un fichier est publié, les utilisateurs pourront le déplacer, le renommer et le supprimer. _Accès Catenda requis :_ Accès complet, généralement accordé aux utilisateurs comme l'éditeur ou un administrateur. La modification du fichier sur Catenda ne change rien dans SharePoint. De même, si le fichier change dans SharePoint, rien ne change dans Catenda.
+Après la publication d'un fichier, les utilisateurs pourront déplacer, renommer et supprimer le fichier. _Accès Catenda requis :_ Accès complet, généralement accordé aux utilisateurs tels que l'éditeur ou un administrateur. La modification du fichier sur Catenda ne change rien sur SharePoint. De même, si le fichier change sur SharePoint, rien ne change sur Catenda.
 
 ## 2. **Composant WebPart Catenda**
 

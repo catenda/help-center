@@ -52,6 +52,8 @@ Na het selecteren van een elementrij verschijnen geselecteerde itemacties boven 
 
 Klik [hier](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) voor meer informatie over de geselecteerde itemacties op de documentenpagina.
 
+Bij projecten met de rapportenpagina ingeschakeld, heeft het menu voor geselecteerde itemaacties één extra optie wanneer alleen documenten zijn geselecteerd: **Rapport maken**. Lees er meer over in [Rapport maken-actie](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van rapporteditor)_.
+
 ### 4.2 **Rijinhoud**
 
 Wanneer de tabel voor het eerst wordt geladen, worden er tot 100 rijen weergegeven. Als er meer dan 100 rijen in de tabel staan, scrollt u naar beneden om de volgende 100 rijen in te laden.

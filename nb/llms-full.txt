@@ -4605,6 +4605,38 @@ Opprett en ny saksmal på siden for ny arbeidsflytt.
 
 3. Gjennomgå en gjennomgangsarbeidsflyt. <br>Etter at alle vurderinger er gjort og når gjennomgangsarbeidsflyten er lukket, blir tilknyttede gjennomgangssaker automatisk generert og automatisk fylt med alle feltene som ble angitt i de tilknyttede gjennomgangssakmalinnstillingene, tilgjengelig fra siden [gjennomgangssakmalinnstillinger](https://support.catenda.com/nb/articles/14076010-innstillinger-for-saksmal).<br>For at en sak skal genereres som resultat av lukking av en gjennomgang, må gjennomgangen inneholde en merknad. <br>Hvis en gjennomgangssakmal er konfigurert for arbeidsflyten som gjennomgangen følger, genereres saker når gjennomgangen lukkes.<br>For hver merknad i gjennomgangen genereres en separat sak.
 
+# Catenda AI Connect og prosjekttilgang
+
+> Catenda AI Connect fungerer bare med det hver bruker allerede kan åpne i Catenda Hub. Organisasjonen som kjører et prosjekt, bestemmer om Catenda AI Connect kan brukes på det prosjektet, og kan be om en grense for noen eller alle prosjektene.
+
+> **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og installasjonstrinn endres ofte; denne artikkelen beskriver gjeldende versjon.
+
+Catenda AI Connect når bare det hver bruker allerede kan åpne i Catenda Hub, og den fungerer som den brukeren.
+
+## 1. **Hvem kan bruke det på et prosjekt**
+
+Catenda AI Connect fungerer på prosjektene som den innloggede brukeren er del av. For mange brukere er det ikke bare deres egen organisasjons prosjekter, men også prosjekter fra andre organisasjoner de er invitert til. Organisasjonen som kjører et prosjekt, har full kontroll over bruken av Catenda AI Connect på det prosjektet. En organisasjon som ikke har bedt om en grense, tillater Catenda AI Connect på sine prosjekter. Personene som denne organisasjonen inviterer til disse prosjektene, kan da også bruke Catenda AI Connect der. En organisasjon kan også ha begrenset Catenda AI Connect på noen eller alle prosjektene den kjører. På et prosjekt der Catenda AI Connect er begrenset, bestemmer grensen hvem som fortsatt kan bruke Catenda AI Connect der. En invitert bruker kan ikke være i stand til å bruke Catenda AI Connect på et slikt prosjekt, selv når de har Catenda AI Connect gjennom sin egen organisasjon. Catenda AI Connect ser bare det den innloggede brukeren kan åpne i Catenda Hub, og kan bare endre det som brukeren har tillatelse til å endre.
+
+Når en organisasjon tillater Catenda AI Connect på sine prosjekter, betyr det ikke at alle inviterte personer kan bruke Catenda AI Connect der. Hver invitert persons egen organisasjon kan ha en policy som hindrer sine personer fra å bruke AI på prosjekter, inkludert prosjekter fra andre organisasjoner. Så på et prosjekt der Catenda AI Connect er tillatt, bestemmer hver invitert persons egen organisasjon om den personen kan bruke Catenda AI Connect der. Som et resultat kan alle de inviterte personene, noen av de inviterte personene eller ingen av de inviterte personene være i stand til å bruke Catenda AI Connect på det prosjektet.
+
+Personer fra andre selskaper som ønsker å bruke Catenda AI Connect, kan be om det selv.
+
+## 2. **Hvor Catenda AI Connect er tilgjengelig**
+
+En organisasjon kan be om en grense for alle på alle prosjektene den kjører, eller på spesifikke prosjekter. Med denne grensen på plass, kan ingen bruke Catenda AI Connect på disse prosjektene. Grensen hindrer ikke organisasjonens egne personer fra å bruke Catenda AI Connect på prosjekter fra andre organisasjoner de er invitert til. Andre ordninger kan ordnes.
+
+En grense på Catenda AI Connect endrer ikke noen annen tillatelse i Catenda Hub eller i Catenda API.
+
+## 3. **Innstillinger i AI-appen**
+
+Organisasjonens egen AI-app har egne administratoinnstillinger. De bestemmer hvilke AI-apper og hvilke brukere som kan bruke Catenda-koblingen. De bestemmer også om AI-appen kun kan lese prosjektdata i Catenda Hub, eller også kan endre den. Disse innstillingene gjøres i selve AI-appen, ikke i Catenda. De gjelder bare organisasjonens egne personer. Personer fra andre selskaper bruker sine egne AI-apper, så disse innstillingene når dem ikke.
+
+## 4. **Komme i gang**
+
+For å begynne å bruke Catenda AI Connect, eller for å spørre om andre ordninger, kontakt Catenda-salg: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Merk:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret. Hjelpesenteret viser da mer til innloggede kunder, startende med [Tilgang til prosjekter med Catenda AI Connect](https://support.catenda.com/nb/articles/17778906-tilgang-til-prosjekter-med-catenda-ai-connect) _(bare innloggede kunder)_.
+
 # Catenda Archicad-plugin
 
 > **Merk:** Installasjonfilen for programtillegget finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
@@ -5338,7 +5370,7 @@ For å kunne bruke BCF-synspunktene fra Catenda-prosjektet ditt i Catenda-progra
 
 Følgende applikasjoner lar deg logge inn med Catenda fra inne i verktøyet. Etter tilkobling vil du finne disse applikasjonene oppført på din [applikasjonsside](https://hub.catenda.com/account/apps).
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/10741601-legg-til-pa-startskjermen">Legg til startskjermen</a></i></h3><p>Datamaskin, iPhone & iPad, Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Samme som nettleseropplevelse </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda hjelpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/10741601-legg-til-pa-startskjermen">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>iPhone &amp; iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site">Artikkel</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://testflight.apple.com/join/xj6WppjQ">Catenda (tidlig tilgang)</a></i></h3><p>iPhone & iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>Tidlig tilgang</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>TestFlight</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=com.catenda.apex">Catenda (tidlig tilgang)</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>Tidlig tilgang</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Desktop Connector</a></i></h3><p>Windows</p><p>(Beta for gylne bilder)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Beta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection<br/>(Beta er kun på forespørsel)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi Beta)</p><p>(.exe Beta)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Revit-plugin</a></i></h3><p>Fra: Revit 2022 <br/>Til: Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Navisworks-plugin</a></i></h3><p>Opp til Navisworks v.2027</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Archicad-plugin</a></i></h3><p>Windows-versjon, <br/>Fra: Archicad 23<br/>Til: Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Archicad-plugin</a></i></h3><p>MacOS-versjon, <br/>Fra: Archicad 23 <br/>Til: Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/nb/articles/6988148-solibri-modeller-og-dokumentintegrering">Solibri-integrasjon</a></i></h3><p>OpenCDE-dokumenter</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda hjelpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6988148-solibri-modeller-og-dokumentintegrering">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/nb/articles/4670340-solibri-topics-integrasjon">Solibri-integrasjon</a></i></h3><p>BCF Live Connector</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda hjelpartikel</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/4670340-solibri-topics-integrasjon">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Tekla-plugin</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Tekla-plugin</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Tekla-plugin</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Tekla-plugin</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Tekla-plugin</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Tekla-plugin</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Tekla-plugin</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">PowerBI-kobling</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">SharePoint-app</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft AppSource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-applikasjon">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>Versjon</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>Lenke type</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>Filtype</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>Artikkel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">SimpleBIM Add-on</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>SimpleBIM Support-sider</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p><p>-&gt; .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>VREX-integrasjoner</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>12Build <br/>Support-sider</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.12build.com/en/">Artikkel</a></p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>Versjon</b></h2></td><td style="background-color: #e3e7fa; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>Lenke type</b></h2></td><td style="background-color: #e3e7fa; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>Filtype</b></h2></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>Artikkel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>NYK Systems <br/>Support-sider</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Artikkel</a><br/></p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ccbdd3aae0"><b>Acos</b></h1></td><td style="background-color: #e3e7fa; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_67fc299f3a"><b>Versjon</b></h2></td><td style="background-color: #e3e7fa; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_515dacc105"><b>Lenker</b></h2></td><td style="background-color: #e3e7fa; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_31f1ece2a4"><b>Filtype</b></h2></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7cde189b1c"><b>Artikkel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c3475691f7"><i>WebSak+</i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-hjelpeartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/10741601-legg-til-pa-startskjermen">Legg til startskjermen</a></i></h3><p>Datamaskin, iPhone & iPad, Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Samme som nettleseropplevelse </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda hjelpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/10741601-legg-til-pa-startskjermen">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>iPhone &amp; iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site">Artikkel</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://testflight.apple.com/join/xj6WppjQ">Catenda (tidlig tilgang)</a></i></h3><p>iPhone & iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>Tidlig tilgang</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>TestFlight</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=com.catenda.apex">Catenda (tidlig tilgang)</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.1</p><p><i>Tidlig tilgang</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Desktop Connector</a></i></h3><p>Windows</p><p>(Beta for gylne bilder)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Beta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection<br/>(Beta er kun på forespørsel)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi Beta)</p><p>(.exe Beta)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7c41e0a9d2"><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/17778695-om-catenda-ai-connect">Catenda AI Connect (tidlig tilgang)</a></i></h3><p>Claude, Microsoft Copilot, ChatGPT</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tidlig tilgang</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda hjelpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/17778695-om-catenda-ai-connect">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Revit-plugin</a></i></h3><p>Fra: Revit 2022 <br/>Til: Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Navisworks-plugin</a></i></h3><p>Opp til Navisworks v.2027</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Archicad-plugin</a></i></h3><p>Windows-versjon, <br/>Fra: Archicad 23<br/>Til: Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Archicad-plugin</a></i></h3><p>MacOS-versjon, <br/>Fra: Archicad 23 <br/>Til: Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/nb/articles/6988148-solibri-modeller-og-dokumentintegrering">Solibri-integrasjon</a></i></h3><p>OpenCDE-dokumenter</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda hjelpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6988148-solibri-modeller-og-dokumentintegrering">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/nb/articles/4670340-solibri-topics-integrasjon">Solibri-integrasjon</a></i></h3><p>BCF Live Connector</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-hjelpeartikel</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/4670340-solibri-topics-integrasjon">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Tekla-plugin</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Tekla-plugin</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Tekla-plugin</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Tekla-plugin</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Tekla-plugin</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Tekla-plugin</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Tekla-plugin</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/6549656-catenda-tekla-programtillegg">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">PowerBI-kobling</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">SharePoint-app</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft AppSource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-applikasjon">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>Versjon</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>Lenke type</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>Filtype</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>Artikkel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">SimpleBIM Add-on</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>SimpleBIM Support-sider</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p><p>-&gt; .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_af2a42e407"><b>AnkerDB</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5bc6c766cb"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_57ebc2f0a8"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c53522ad00"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_657957a849"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_da06a3aa70"><a class="intercom-content-link" href="https://ankerdb.com/">AnkerDB</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>AnkerDB-nettside</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_a71ebd6fce"><b>Treegram</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_770450e792"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31225eee56"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f3615416c6"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_20b7886ed7"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_271e0bfa5b"><a class="intercom-content-link" href="https://www.treegram.fr/">Treegram</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Treegram-nettside</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>Lenke type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>VREX-integrasjoner</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">Artikkel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>Versjon</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>Lenker</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>Filtype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>Artikkel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>12Build <br/>Support-sider</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.12build.com/en/">Artikkel</a></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>Versjon</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>Linktype</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>Filtype</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>Artikkel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>NYK Systems <br/>Support-sider</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Artikkel</a><br/></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ccbdd3aae0"><b>Acos</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_67fc299f3a"><b>Versjon</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_515dacc105"><b>Linktype</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_31f1ece2a4"><b>Filtype</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7cde189b1c"><b>Artikkel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c3475691f7"><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/16968870-prosjektsiden-i-arkiveringsportalen">WebSak+</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda hjelpeartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nettside</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/nb/articles/16968870-prosjektsiden-i-arkiveringsportalen">Artikkel</a></i></p></td></tr></tbody></table></div>
 
 # Catenda Power BI Connector
 
@@ -5354,7 +5386,7 @@ Når Catenda Desktop Connector er installert på Windows, vil installasjonsfilen
 
 ### 1.1 **Avinstallering**
 
-For å avinstallere plugin-en, gå til installasjonsmappe og kjør følgende fil:
+For å avinstallere programtillegget går du til installasjonsplassen og kjører følgende fil:
 
 `uninstall.exe`
 
@@ -5362,11 +5394,11 @@ Hvis mappen er blitt slettet og plugin-en fremdeles er aktiv, installer plugin-e
 
 ## 2. **Hent data og koble til**
 
-For å opprette en forbindelse fra PowerBI til Catenda HUB-databasen, gjør følgende: Åpne PowerBI og klikk på "Hent data fra annen kilde" i midten av skjermen, eller bruk handlingen Hent data i hjemmemenyen på øverste bånd. Båndet må kanskje utvides for å se handlingen.
+For å opprette en forbindelse fra PowerBI til Catenda HUB-databasen gjør du følgende: Åpne PowerBI og klikk på "Hent data fra en annen kilde" i midten av skjermen, eller bruk handlingen Hent data i hjemmemenyen på det øverste båndet. Båndet må kanskje utvides for å se handlingen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/01-get-data-and-connect.png)
 
-Velg målkilden under Annet --> Catenda. Bruk "_Koble til_" for å etablere forbindelsen til databasen.
+Velg målkilde under Annet --> Catenda. Bruk "_Koble til_" for å etablere forbindelsen til databasen. Informasjon om pålogging til Catenda og hva du gjør hvis påloggingen mislykkes, finner du i [Logg på Catenda fra Power BI](https://support.catenda.com/nb/articles/17778878-logg-pa-catenda-fra-power-bi).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/02-get-data-and-connect.png)
 
@@ -5376,35 +5408,25 @@ En navigator åpnes der alle prosjekter du har tilgang til er oppført. Velg til
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 
-Her kan du velge fra følgende datasett: _Dokumenter_
+Følgende tabeller kan lastes inn:
 
-**Dokumentetiketter**
-
-**Etikett**
-
-**Medlem**
-
-**Modell**
-
-**Modellrevisjon**
-
-**Produkter**
-
-**Team**
-
-**Teammedlemmer**
-
-**Token**
-
-**Sak**
-
-**Saksliste**
-
-**Saketikett**
-
-**Saksstatus**
-
-**Sakstype**
+| Tabell                    | Innhold                                               |
+| ------------------------- | ----------------------------------------------------- |
+| Dokumenter                | Dokumentene i prosjektet.             |
+| Merkelapper på dokumenter | Merkelappene på hvert dokument.       |
+| Merkelapp                 | Merkelappene som brukes i prosjektet. |
+| Medlem                    | Medlemmene i prosjektet.              |
+| Modell                    | Modellene i prosjektet.               |
+| Modellrevisjon            | Revisjonene for hver modell.          |
+| Produkter                 | Objektene i modellene.                |
+| Team                      | Teamene i prosjektet.                 |
+| Medlemmer i team          | Medlemmene i hvert team.              |
+| Token                     | Et visningstoken for prosjektet.      |
+| Sak                       | Sakene i prosjektet.                  |
+| Saksliste                 | Sakslisten i prosjektet.              |
+| Merkelapp for sak         | Merkelappene på hver sak.             |
+| Saksstatus                | Statusene som brukes på sakslisten.   |
+| Sakstype                  | Sakstypene som brukes på sakslisten.  |
 
 Etter at du klikker på Last inn, starter PowerBI-koblingen med å hente saksdataene fra API-en.
 
@@ -5724,7 +5746,7 @@ Hvis et dokument med samme navn som filen din ikke allerede finnes i mappen du p
 
 > **Merknad:** Det er bare mulig å publisere dokumenter og ikke laste opp kladder
 
-Etter at en fil er publisert, kan brukere flytte, gi nytt navn og slette filen. _Catenda-tilgang påkrevd:_ Full tilgang, vanligvis gitt til brukere som utgiver eller administrator. Endring av filen på Catenda endrer ingenting på SharePoint. På samme måte, hvis filen endres på SharePoint, endres ingenting på Catenda.
+Etter at en fil er publisert, vil brukere kunne flytte, gi nytt navn til og slette filen. _Catenda-tilgang påkrevd:_ Full tilgang, som vanligvis gis til brukere som utgiver eller administrator. Endring av filen på Catenda endrer ingenting på SharePoint. På samme måte, hvis filen endres på SharePoint, endres ingenting på Catenda.
 
 ## 2. **Catenda Webpart**
 
@@ -5756,7 +5778,7 @@ Hvis du ikke lenger ønsker å gi appen tilgang til Catenda-kontoen din, kan du 
 
 # Catenda SharePoint-applikasjon – Webdel
 
-Med Catenda-webdelen kan du bla gjennom dokumentdelen av et Catenda-prosjekt på en SharePoint-side. _Catenda-tilgang påkrevd:_ Les for å bla gjennom dokumentstrukturen og skriv for å laste opp SharePoint-filer til Catenda.
+Med Catenda-webdelen kan du bla gjennom dokumentdelen av et Catenda-prosjekt på en SharePoint-side. _Catenda-tilgang kreves:_ Leseilgang for å bla gjennom dokumentstrukturen og skrivetilgang for å laste opp SharePoint-filer til Catenda.
 
 ## 1. **Legge til webdelen**
 
@@ -6319,6 +6341,8 @@ Etter at du velger en elementrad, vises valgte elementhandlinger mot toppen av d
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/06-selected-item-actions.png)
 
 Klikk [her](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) for å lese mer om valgte elementhandlinger på dokumenter-siden.
+
+På prosjekter der rapportsiden er aktivert, har menyen for valgte element-handlinger ett ekstra alternativ når bare dokumenter er valgt: **Opprett rapport**. Les mer om det i [Opprett rapport-handling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun for rapportredigerings-kunder)_.
 
 ### 4.2 **Radinnhold**
 
@@ -8540,97 +8564,169 @@ Gjennomgangsinnstillingssiden er ikke tilgjengelig for prosjekter som starter me
 
 # Gjennomgangsside
 
-Gjennomgangssiden finnes som en underside til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) i venstremenyen. Gjennomgangssiden er skjult som standard og vises når statusarbeidsflyten er aktivert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Her finner du en oversikt over gjennomgangsforespørslene i prosjektet.
+Gjennomgangssiden finnes som en underside til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) i venstre navigasjonsmeny. Her finner du en oversikt over gjennomgangsforespørslene i prosjektet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
-Denne artikkelen inneholder informasjon om følgende saker:
+Denne artikkelen inneholder informasjon om følgende saker: _[Aktiver](#h_263c9d1268) - [Handlinger](#h_39a97bd06a) - [Søk/filtrer](#h_95652579ee) - [Gjennomgangsliste](#h_aa4dfe69f5) - [Rader](#h_76de8831a3) - [Gjennomgangsforespørselskort](#h_e99a80135a) -_ [Gjennomgangsforespørsler og dokumentrevisjoner-faner](#h_aae5976a1d)
 
-_[Søk eller filtrer](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_95652579ee) - [Gjennomgangsliste](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_aa4dfe69f5) - [Radinnhold](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_76de8831a3) - [Gjennomgangskort](https://support.catenda.com/nb/articles/12495047-gjennomgangsside#h_e99a80135a)_
+På gjennomgangssiden kan følgende gjøres:
 
-Prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vil se [eldre gjennomgangsside](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) i stedet. På gjennomgangssiden kan du gjøre følgende:
-
-- Hver gjennomgangsforespørsel kan gjennomgås og valideres av teamet før en endelig validering avgjør om revisjonene som forespørres godkjent skal godkjennes eller ikke.
-- Konfigurasjon av forløp og resultat av en gjennomgang kan gjøres.
+- Hver gjennomgangsforespørsel kan gjennomgås og valideres av teamet før en endelig validering avgjør om revisjonene som bes om å bli godkjent skal godkjennes eller ikke.
+- Konfigurasjon av forløp og utfall av en gjennomgang kan gjøres.
 - Nye gjennomganger kan opprettes.
 
-## 1. **Søk eller filtreringsalternativer**
+## 1. **Aktiver gjennomgangssiden**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-search-or-filter-options.png)
+Gjennomgangssiden er skjult som standard. Aktiver delte revisjoner i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) for å avdekke gjennomgangssiden. _Nødvendig tilgang:_ Prosjektadministrator
 
-Klikk [her](https://support.catenda.com/nb/articles/12495060-filtrering-pa-godkjenningssiden) for å lese mer om filtrering på gjennomgingssiden.
+> **Merknad:** I prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vises [den gamle gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) i stedet.
 
-## 2. **Gjennomgangsliste**
+### 1.1 **Aktiver fra malprosjekt**
 
-Prosjekter opprettet basert på et malprosjekt inkluderer gjennomgangsarbeidsflyten og saksmalene fra det malprosjektet. Hver rad i gjennomgangslisten inneholder et gjennomgangskort med visuelle indikatorer om innholdet i hver gjennomgingsforespørsel.
+Prosjekter som er opprettet basert på en malprosjekt der delt status var aktivert, vil ha delt status aktivert og godkjenningssiden vil vises ved opprettelse. Godkjenningsarbeidsflyten og saksmaler fra malprosjektet overføres til det nye prosjektet, slik at de ikke trenger å opprettes på nytt før medlemmer kan begynne å sende inn godkjenningsforespørsler.
+
+## 2. **Nye varhandlinger**
+
+De nye varhandlingene finnes i øvre høyre hjørne av siden.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
+
+### 2.1 **Ny gjennomgangsforespørsel**
+
+Klikk [her](https://support.catenda.com/nb/articles/12495005-opprette-en-ny-gjennomgang) for å lese mer om hvordan du oppretter en ny gjennomgangsforespørsel.
+
+_Påkrevd tilgang:_ Medlem av et innsendingsteam i en konfigurert arbeidsflyt
+
+## 3. **Søk- eller filteralternativer**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
+
+Klikk [her](https://support.catenda.com/nb/articles/12495060-filtrering-pa-godkjenningssiden) for å lese mer om filtrering på gjennomgangssiden.
+
+## 4. **Gjennomgangsliste**
+
+Gjennomgangskort med visuelle ledetråder om innholdet i hver gjennomgangsforespørsel som et medlem er del av, vises i gjennomgangslisten.
 
 Slik kan en gjennomgangsforespørsel med full aktivitet se ut:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
 
 Aktivitet som oppstår i gjennomgangen vises med mengder og ikoner på gjennomgangskortet.
 
-**Nødvendig tilgang:** Medlem av innsender-, anmelder- eller endelig vurderingsteam eller administrator.
+Synligheten for forespørsler er rollebasert: prosjektmedlemmer kan bare se forespørsler de selv har sendt inn, aktive forespørsler tildelt et vurderingsteam eller siste vurderingsteam som de er medlem av, eller alle prosjektforespørsler i tilfelle prosjektadministratorer. _Påkrevd tilgang:_ Prosjektmedlem, eller prosjektadministrator for å se alle forespørsler
 
-## 3. **Radinnhold**
+- For detaljerte operasjonelle prosedyrer for innsending av revisjoner, tillegg av vurderingsmerknader og behandling av trinnvalidering eller endelige beslutninger, les mer [her](https://www.google.com/search?q=).
+- For administrativ veiledning om konfigurering av gjennomgangsmaler, styring av låste parametere og løsing av brutte avhengigheter, les mer [her](https://www.google.com/search?q=).
 
-### 3.1 **Åpen eller lukket gjennomgangsrad**
+### 4.1 **Handlinger for valgte elementer**
 
-Hvis du åpner innholdet i en gjennomgangsforespørselrad som er under gjennomgang eller lukket, åpnes [gjennomgangssiden](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel) for den gjennomgangen.
+> **Merk:** Opprett rapport er den eneste valgte elementhandlingen på gjennomgangssiden. Menyen for valgte elementhandlinger er derfor bare synlig på prosjekter med rapportssiden aktivert.
 
-### 3.2 **Utkast gjennomgangsrad**
+Hvis du velger en eller flere gjennomgangsforespørsler i gjennomgangslisten, vises de valgte elementhandlingene øverst i listen. Avmerkingsboksen øverst velger alle gjennomgangsforespørsler i listen på en gang. Slik kan menyen for valgte elementhandlinger se ut:
 
-For gjennomganger i utkast åpnes [utkast gjennomgangsforespørselssiden](https://support.catenda.com/nb/articles/12495175-side-for-utkast-til-gjennomgangsforesporsel) i stedet.
+![Menyen for valgte elementhandlinger på gjennomgangssiden, med en gjennomgangsforespørsel valgt og Opprett rapport](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-## 4. **Gjennomgangskort**
+_Opprett rapport_ Oppretter en rapport over de valgte gjennomgangsforespørslene, basert på en gjennomgangsmal. Les mer om det i [Opprett rapport-handling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun rapporteditor-kunder)_.
 
-### 4.1 **Tittel**
+## 5. **Dokumentrevisjoner-liste**
 
-Gjennomgangtittel
+Den andre fanen lar deg få en oversikt over alle dokumenter som blir gjennomgått på tvers av alle åpne gjennomganger.
 
-### 4.2 **Utkast status**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
 
-Når en gjennomgangsforespørsel har statusen utkast, er den bare synlig for personen som opprettet utkastet på gjennomgangssiden.
+Tabellen viser:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-draft-status.png)
+1. revisjonens navn
+1. revisjonsnummeret
+1. gjeldende vurderingstrinn
+1. gjeldende trinns tilstand
+1. fristen for trinnets vurdering
+1. teamene som fortsatt må vurdere dokumentet
+1. gjennomgangsforespørselens navn
+1. innsender (person og team)
+1. innsendingsdatoen
 
-Gjennomgangsforespørselen er ikke synlig i gjennomgangsmenyen på høyre meny for en revisjon.
+### 5.1 Filtrering
 
-### 4.3 **Åpen gjennomgangsstatus**
+Også tillater det venstre filterpanelet deg å filtrere dokumentene etter:
 
-Når en gjennomgangsforespørsel har statusen åpen, er den synlig for alle medlemmer som er del av teams involvert i forespørselen. Hvis du holder musepekeren over statuser for gjennomganger som gjennomgås av mer enn ett team, åpnes et popup-vindu som viser hvilket team som ennå må sende inn sin gjennomgang i gjeldende gjennomgangstrinn.
+1. Tilordning: alle team eller ditt team spesifikt
+1. Dokumenttilstand: Venter, Under vurdering, Fullført
+1. Frist: alle, kommende, forfalte
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-open-approval-status.png)
+### 5.2 Sortering
 
-Anmelderteam som allerede har gitt sin vurdering vises ikke i denne listen eller telles med i antallet teams som gjennomgangstrinnet for øyeblikket gjennomgås av.
+Til slutt kan du sortere etter:
 
-Til høyre for den åpne gjennomgangsstatusen vises datoen og klokkeslettet når gjennomgangstrinnet må gjennomgås. Hvis automatisk godkjennelse er konfigurert for dette trinnet, går gjennomgangen automatisk til neste trinn på denne datoen og klokkeslettet.
+1. Revisjons navn
+1. Tilstand
+1. Frist
+1. Innsendingsdato
 
-### 4.4 **Lukket status**
+### 5.3 Søk
 
-Når en gjennomgangsforespørsel når sitt endelige gjennomgangstrinn, forblir den åpen. Basert på godkjennelsene og avvisningene gitt av hvert av teamene i hvert av gjennomgangstrinnet, vil et medlem av det endelige gjennomgangssteamet kunne gi sin endelige godkjennelse eller avvisning. Når gjennomgangsforespørselen endelig godkjennes eller avvises av medlemmet i det endelige gjennomgangssteamet, blir den lukket.
+Tekststøket lar deg søke etter revisjonsnavn og gjennomgangsforespørselsnavn.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-closed-status.png)
+## 6. **Radinnhold**
 
-### 4.5 **Arbeidsflyt**
+### 6.1 **Åpen eller lukket gjennomgangsrad**
+
+Åpning av innholdet i en gjennomgangsforespørselrad som er under vurdering eller lukket, åpner [gjennomgangssiden](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel) for den gjennomgangen.
+
+### 6.2 **Utkast gjennomgangsrad**
+
+For utkastgjennomganger åpnes [siden for gjennomgangsforespørsel i utkast](https://support.catenda.com/nb/articles/12495175-side-for-utkast-til-gjennomgangsforesporsel) i stedet.
+
+## 7. **Gjennomgangsforespørselskort**
+
+### 7.1 **Tittel**
+
+Gjennomgangs tittel
+
+### 7.2 **Utkast-status**
+
+Når en gjennomgangsforespørsel har statusen utkast, er den kun synlig for personen som opprettet utkastet på gjennomgangssiden.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
+
+Gjennomgangsforespørselen er ikke synlig i gjennomgangmenyen til høyremenyen for en revisjon.
+
+### 7.3 **Åpen gjennomgang-status**
+
+Når en gjennomgangsforespørsel har statusen åpen, er den synlig for alle medlemmer som er del av team som er involvert i forespørselen. Hold musepekeren over statusen på gjennomganger som er under vurdering av mer enn ett team, for å åpne et vindu som viser hvilket team som fortsatt må sende inn sin vurdering i gjeldende vurderingstrinn.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
+
+Vurderingsteams som allerede har gitt sin vurdering vises ikke i denne listen eller regnes med i antallet teams som gjennomgangen for tiden er under vurdering av.
+
+Til høyre for statusen for åpen gjennomgang vises datoen og tiden som gjennomgangstrinnet må vurderes innen. Hvis auto-godkjennelse er konfigurert for dette trinnet, vil gjennomgangen automatisk gå til neste trinn på denne datoen og tiden.
+
+### 7.4 **Lukket status**
+
+Når en gjennomgangsforespørsel når sitt endelige gjennomgangstrinn, forblir den åpen. Basert på godkjenningene og avvisningene gitt av hvert team i hvert gjennomgangstrinn, vil et medlem av det endelige gjennomgangsteamet kunne gi sin endelige godkjenning eller avvisning. Når gjennomgangsforespørselen er endelig godkjent eller avvist av medlemmet av det endelige gjennomgangsteamet, vil den lukkes.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
+
+### 7.5 **Arbeidsflyt**
 
 Arbeidsflyten som følges av gjennomgangen
 
-### 4.6 **Opprettet av**
+### 7.6 **Opprettet av**
 
-Medlemmet som opprettet gjennomgangen og datoen og klokkeslettet for når det ble opprettet.
+Medlemmet som opprettet gjennomgangen og datoen og tiden for når den ble opprettet.
 
-### 4.7 **Sluttgjennomgang**
+### 7.7 **Endelig gjennomgang**
 
-Det endelige gjennomgangssteamet som vil ha det endelige ordet om publisering av de delte dokumentene i gjennomgangen, informert av anmeldelsene sendt inn av innsenderteamene i hvert av gjennomgangstrinnet.
+Det endelige gjennomgangsteamet som skal ha det endelige ordet om publiseringen av de delte dokumentene i gjennomgangen, informert av vurderingene som er sendt inn av innsendingsteamene i hvert gjennomgangstrinn.
 
-### 4.8 **Gjennomgangsnummer**
+### 7.8 **Gjennomgangnummer**
 
 Nummeret på gjennomgangen
 
-### 4.9 **Ikoner nederst**
+### 7.9 **Ikoner nederst**
 
-Gjeldende gjennomgangstrinn i arbeidsflyten som gjennomgangen følger. Det totale antallet trinn gjennomgangen må gjennomføre før gjennomgangen blir avsluttet. Bare synlig på åpne og lukkede gjennomganger. Antall dokumenter i gjennomgangen uavhengig av tilgangsinnstillinger.
+Det gjeldende vurderingstrinnnet i arbeidsflyten som gjennomgangen følger. Det totale antallet trinn som gjennomgangen må fullføre før gjennomgangen er ferdigstilt. Bare synlig på åpne og lukkede gjennomganger. Antallet dokumenter i gjennomgangen uavhengig av tilgangsinnstillinger.
 
 # Gjennomgangsside - Eldre versjon
 
@@ -8906,11 +9002,11 @@ Etter å ha valgt dokument(er) i dokumentdelen av innholdspanelet og gjenstand(e
 
 ### 2.4 **Rapport**
 
-Rapporteringsverktøyet kan forespørres aktivert på per-prosjekt-basis. Med Rapport-handlingen kan du lage en rapport over dine valgte dokumenter.
+Med rapporthandlingen kan du lage en rapport over dine valgte dokumenter. Denne handlingen er bare tilgjengelig på prosjekter der rapportsiden er aktivert. Rapportsiden kan forespørres å være aktivert på et per-prosjekt-basis.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å lese mer om Rapport-handlingen. _Nødvendig tilgang:_ Lesetilgang til dokumentet
+Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(bare rapporteditor-kunder)_ for å lese mer om rapporthandlingen. _Påkrevd tilgang:_ Lesestilgang til dokumentet
 
 ### 2.5 **Publiser**
 
@@ -9022,11 +9118,11 @@ Eksporter saker-handlingen vil åpne [eksportdialogboksen for saker](https://sup
 
 ### 2.3 **Lag rapport**
 
-Rapporteringsverktøyet kan monteres på basis per prosjekt. Med lag rapport-handlingen kan du lage en rapport over de valgte sakene dine. _Tilgang påkrevd:_ Lesetilgang til en saksliste
+Rapporteringsverktøyet kan monteres på basis per prosjekt. Med handlingen Lag rapport kan du lage en rapport over de valgte sakene dine. Denne handlingen er bare tilgjengelig på prosjekter der rapportsiden er aktivert. _Tilgang påkrevd:_ Lesetilgang til en saksliste
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å lære mer om å lage rapporter.
+Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun rapporteditor-kunder)_ for å lese mer om å lage rapporter.
 
 ### 2.4 **Følg**
 
@@ -9306,6 +9402,8 @@ Hvis et dokument ikke er i en navnekonvensjonmappe, vil det være mulig å klikk
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/05-document-name.png)
 
 _Nødvendig tilgang:_ Skriverettighet til dokumentet.
+
+> **Merk:** Dokumentnavn kan ikke inneholde følgende tegn: `< > : " / \ | ? *` Hvis det nye navnet inneholder ett av disse tegnene, kan det ikke lagres.
 
 ### 2.3 **Fylling av felt**
 
@@ -12405,6 +12503,44 @@ _Saksnummer_ Nummeret på saken på Catenda. Klikk på dette nummeret for å kop
 
 _Nedre ikoner_ Antall merkede bokser. Antall kommentarer. Antall koblede dokumenter.
 
+# Logg på Catenda fra Power BI
+
+> Hvordan Catenda-koblingen for Power BI logger på Catenda, og hva du skal gjøre når påloggingen mislykkes eller utløper.
+
+Catenda-koblingen for Power BI logger på Catenda med brukerens egen Catenda-konto. Dette fungerer på samme måte i den utgitte [Catenda Power BI-koblingen](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) og i [Catenda Power BI-koblingen (On Demand)](https://support.catenda.com/en/articles/17778871-catenda-power-bi-connector-on-demand).
+
+## 1. **Logg på for første gang**
+
+1. I Power BI Desktop går du til **Hent data** > **Mer** > **Annet** > **Catenda**, og velger **Koble til**.
+1. Et nettleservindu åpnes på påloggingssiden for Catenda.
+1. Logg på med Catenda-kontoen.
+
+Catenda-påloggingen selv er beskrevet på [Påloggingsside](https://support.catenda.com/nb/articles/7891486-paloggingsside).
+
+Power BI Desktop husker deretter påloggingen, så senere oppdateringer og nye tilkoblinger spør ikke igjen. Navigatoren viser alle prosjektene som kontoen har tilgang til.
+
+## 2. **Logg på igjen etter en oppgradering**
+
+Catenda-koblingen pleide å kalles _Bimsync_ i Power BI. Power BI Desktop holder en separat pålogging for hvert navn, så den første tilkoblingen etter en oppgradering fra en _Bimsync_-kobling spør om en ny pålogging.
+
+## 3. **Når påloggingen mislykkes eller har utløpt**
+
+Når påloggingen fortsetter å mislykkes, fortsetter å spørre igjen, eller en lasting stopper med _Catenda-pålogging utløpt_, må Power BI Desktops lagrede pålogging slettes:
+
+Gå til **Fil** > **Alternativer og innstillinger** > **Datakildeinnstillinger**.
+
+![Siden Alternativer og innstillinger i Fil-menyen i Power BI Desktop, med en pil fra Alternativer og innstillinger til Datakildeinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/images/8jvrzkes/01-when-the-sign-in-fails-or-has-expired.png)
+
+Velg Catenda-oppføringen og klikk **Fjern tillatelser**.
+
+![Dialogboksen Datakildeinnstillinger i Power BI Desktop med Catenda-oppføringen valgt og knappen Fjern tillatelser](https://raw.githubusercontent.com/catenda/help-center/main/images/8jvrzkes/02-when-the-sign-in-fails-or-has-expired.png)
+
+Koble til igjen og logg på.
+
+## 4. **Før en lang lasting**
+
+En lasting av mange tabeller på en gang kan ta lang tid, og påloggingen fornyer seg selv under den. En lang lasting startes best rett etter en frisk pålogging: fjern tillatelsene som beskrevet ovenfor og logg på, deretter starter du lastingen.
+
 # Mappekonfigurasjon - Dokumentinnstillinger
 
 Menyen for mappekonfigurasjon finner du på siden [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger). Ved å konfigurere en mappe kan du forbedre hvordan dokumenter håndteres i den arbeidsflytingen.
@@ -14109,6 +14245,136 @@ Videre kan produkttabellen ha hvilket som helst antall kolonner avhengig av meng
 
 Kolonnepreferanser lagres ikke mellom øktene. Kolonner kan ikke endres rekkefølge, bare aktiveres og deaktiveres. Det er ikke mulig å sortere tabellen etter en annen kolonne ved å klikke på cellen i overskriftsraden for kolonnen. Det er ikke mulig å endre sorteringsretningen på kolonnen tabellen sorteres etter. Det er ikke mulig å dra cellen i overskriftsraden ut av tabellen for å deaktivere raden, rader må deaktiveres via kolonnenavigasjonen.
 
+# Om Catenda AI Connect
+
+> Catenda AI Connect kobler AI-verktøyene som organisasjonen allerede bruker, som Claude, Microsoft Copilot eller ChatGPT, til Catenda Hub-prosjektene den deltar i. Hva det er, hvordan det fungerer og hvordan du kommer i gang.
+
+> **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og oppsettsteg endres ofte; denne artikkelen beskriver den gjeldende versjonen.
+
+Fortjenesten på et byggeprosjekt ligger et sted mellom det som ble kontraktfestet, hva som ble designet, hva som ble bygget, og hva som ble sagt og skrevet underveis. Å holde det på linje betyr vurderingsmøter, kontroll av leveranser og gjennomgang av kommentarer og gamle e-posttråder.
+
+Dette produktet kobler AI-verktøyene som organisasjonen allerede bruker og stoler på, direkte til modellene, dokumentene og sakene i Catenda Hub. Spørsmål om et prosjekt stilles på vanlig språk og besvares fra live prosjektdata, klar til å bli rapporter og bevis. Der organisasjonen tillater at AI-appen gjør endringer, blir funnene også til saker i Catenda Hub.
+
+## 1. **Hva det er**
+
+Catenda Hub åpner prosjektdataene sine for AI-verktøyene som organisasjonen allerede har valgt, slik at Teams fortsetter å arbeide med assistenten de kjenner. Alt som AI-appen opprett eller endrer, registreres i Catenda Hub, som all annen koordineringsarbeid.
+
+Forbindelsen bruker MCP (Model Context Protocol), en åpen standard for tilkobling av AI-apper til andre systemer. Det holder valget av AI hos organisasjonen, både i dag og når den endrer sitt syn senere.
+
+## 2. **Hva Teams bruker det til**
+
+### 2.1 **Spør**
+
+Spørsmål besvares fra live prosjektdata, med kilder. For eksempel:
+
+```
+Hva skjedde på prosjektet denne uken? Hva er forfalt? Hvor er risikoen?
+```
+
+### 2.2 **Kontroller**
+
+Leveranser, modeller og dokumenter kontrolleres mot prosjektets krav. For eksempel:
+
+```
+Kontroller navngivingen og metadataene på denne leveransen mot vår BIM-utføringsplan. Flagg det som mislykkes.
+```
+
+### 2.3 **Deleger**
+
+Strukturert rutinearbeid gjøres som utkast som en person viderfører. For eksempel:
+
+```
+Klienten sendte dette regnearket. Opprett en sak per linje, angi eier og frist.
+```
+
+## 3. **Hvordan det fungerer**
+
+Organisasjonens IT legger til Catenda-konnektoren i AI-appen sin en gang, gjennom den åpne standarden som AI-appen allerede støtter, noe som gjør den tilgjengelig for ansatte som bruker den AI-appen. Hver ansatt logger på AI-appen med sin vanlige AI-konto, og bruker deretter konnektoren til å koble AI-appen til sin egen Catenda-konto.
+
+AI-appen fungerer deretter som den påloggede brukeren: den fungerer med nøyaktig den tilgangen som brukeren har i Catenda Hub, og prosjektets tillatelser gjelder uendret.
+
+AI-appen foreslår og en person avgjør. Det den opprett, som saker, rapporter eller lenker, vurderes før det skrives, og forblir i Catenda Hub med samme historikk som alt annet koordineringsarbeid.
+
+## 4. **Kontroll over prosjektdata**
+
+Organisasjonen bestemmer hvilken AI som fungerer med dens prosjektdata, og kan endre denne beslutningen senere fordi forbindelsen er en åpen standard som en hvilken som helst støttende AI-app kan bruke.
+
+Catenda Hub forblir den eneste kilden til prosjektinformasjon. AI-appen får tilgang til dataene som den påloggede brukeren er autorisert til å se, og tilgangsrettigheter forblir administrert på ett sted.
+
+## 5. **Kom i gang**
+
+Catenda AI Connect er tilgjengelig i tidlig tilgang.
+
+Catenda AI Connect er ikke bare for organisasjoner som eier prosjekter i Catenda Hub. En organisasjon som blir invitert til prosjektene til andre organisasjoner kan også få Catenda AI Connect. Slik organisasjon trenger ikke å eie et prosjekt selv. Catenda AI Connect fungerer deretter på to slags prosjekter. Den første typen er prosjektene som organisasjonen kjører selv. Den andre typen er prosjektene som organisasjonen blir invitert til, så lenge organisasjonen som kjører det prosjektet tillater Catenda AI Connect der. Når en organisasjon tillater Catenda AI Connect på et prosjekt, betyr det ikke at hver invitert person kan bruke Catenda AI Connect der. Hver persons egen organisasjon kan ha en policy mot bruk av AI på prosjekter. [Catenda AI Connect og prosjekttilgang](https://support.catenda.com/nb/articles/17778745-catenda-ai-connect-og-prosjekttilgang) beskriver dette mer detaljert.
+
+For å begynne å bruke Catenda AI Connect, kontakt Catenda-salget: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg på Catenda på [https://hub.catenda.com](https://hub.catenda.com), åpne eller last inn en side i Hjelpesenteret på nytt. Hjelpesenteret viser deretter mer til påloggede kunder, med start på [Introduksjon til Catenda AI Connect](https://support.catenda.com/nb/articles/17778901-introduksjon-til-catenda-ai-connect) _(bare påloggede kunder)_.
+
+# Om Catenda Archiving Portal
+
+> Catenda Archiving Portal lar folk overføre dokumenter og saker de velger fra Catenda Hub til organisasjonens arkivsystem.
+
+Catenda Archiving Portal lar folk overføre dokumenter og saker de velger fra Catenda Hub-prosjekter til organisasjonens eget arkivsystem, slik at prosjektets journaler ender opp der organisasjonen lagrer dem. Det er et eget produkt ved siden av Catenda Hub.
+
+## 1. **Hva det er**
+
+Arkivering kjører i én retning, fra Catenda Hub ut til arkivsystemet. Portalen kan sende til arkivsystemer som WebSak+ fra Acos.
+
+## 2. **Komme i gang**
+
+Arkiveringsportalen fungerer med prosjekter i Catenda Hub. For å bruke den, kontakt Catenda-salg om hvordan du kommer i gang med ditt første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), deretter åpner eller laster du inn på nytt en side fra Hjelpesenteret. Hjelpesenteret viser da mer til påloggede kunder, med start i [Introduksjon til Catenda Archiving Portal](https://support.catenda.com/nb/articles/17778822-introduksjon-til-catenda-arkiveringsportal) _(bare for påloggede kunder)_.
+
+# Om Catenda Desktop Connector for System Images
+
+> En versjon av Catenda Desktop Connector for organisasjoner som installerer programvare i et operativsystemavbilde, som kan forespørres.
+
+Catenda Desktop Connector planlegger opplastinger og nedlastinger mellom Catenda Hub og en datamaskin, og er beskrevet i [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector). En versjon for organisasjoner som installerer programvare i et operativsystemavbilde kan forespørres.
+
+## 1. **Hva det er**
+
+Det er det samme programmet som den vanlige Desktop Connector-en, pakket slik at det installeres per bruker i stedet for for hele datamaskinen. Det passer for datamaskiner og virtuelle skrivebord satt opp fra et forberedt avbilde, for eksempel et gyllent avbilde i Citrix.
+
+## 2. **Komme i gang**
+
+Catenda Desktop Connector fungerer med prosjekter i Catenda Hub. For å bruke den, kontakter du Catenda-salg om å komme i gang med ditt første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenter. Hjelpesenteret viser deretter mer for innloggede kunder, med start på [Introduksjon til Catenda Desktop Connector for System Images](https://support.catenda.com/nb/articles/17778688-introduksjon-til-catenda-desktop-connector-for-systemavbilder) _(bare innloggede kunder)_.
+
+# Om Catenda for Power BI (On Demand)
+
+> Catenda for Power BI bringer Catenda Hub-prosjektdata til Power BI. En neste versjon, med visuelle elementer og en ferdigpreparet rapportmal, er tilgjengelig on demand.
+
+Catenda for Power BI bringer dataene fra et Catenda Hub-prosjekt til Microsoft Power BI, for rapporter om prosjektets modeller, dokumenter og saker. Den utgitte [Catenda Power BI Connector](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) er tilgjengelig for alle Catenda-kunder. En neste versjon er tilgjengelig on demand: den kan bes om før utgivelsen til alle.
+
+## 1. **Hva det er**
+
+Neste versjon kommer med en ny connector som bringer langt mer av et prosjekts data til Power BI, visuelle elementer som viser et prosjekts modeller og saker inne i en rapport, og en ferdigpreparet rapportmal. Den endrer seg fortsatt mye, så den tilbys for å prøve heller enn for rapporter som må vare.
+
+## 2. **Komme i gang**
+
+Catenda for Power BI fungerer med prosjekter i Catenda Hub. For å bruke det, kontakt Catenda-salg om å komme i gang med et første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret på nytt. Hjelpesenteret viser da mer for innloggede kunder, med start på [Introduksjon til Catenda for Power BI (On Demand)](https://support.catenda.com/nb/articles/17778865-introduksjon-til-catenda-for-power-bi-on-demand) _(bare for innloggede kunder)_.
+
+# Om rapportverktøyet
+
+> Catenda Hub genererer rapporter fra en prosjekts saker, dokumenter og gjennomganger. Med rapportverktøyet kan et prosjekt ha sine egne rapportmaler.
+
+På [rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside) genererer Catenda Hub rapporter fra sakene, dokumentene og gjennomgangsforespørslene i et prosjekt, klare til å lagre og dele som et dokument. Hver rapport er bygget fra en rapportmal, som bestemmer hvordan rapporten ser ut og hvilken prosjektinformasjon den viser. Rapportverktøyet, der rapportmaler utformes, kan bestilles for prosjekter som trenger det.
+
+## 1. **Hva det er**
+
+Rapportverktøyet gir et prosjekt sine egne rapportmaler, fra tittelblokken til tabeller og diagrammer. Forhåndslaget maler for saker, dokumenter og gjennomganger er tilgjengelige som utgangspunkt, på flere språk.
+
+## 2. **Kom i gang**
+
+Rapportverktøyet fungerer med prosjekter i Catenda Hub. For å bruke det, kontakt Catenda-salg for å komme i gang med ditt første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret. Hjelpesenteret viser deretter mer til innloggede kunder, med [Introduksjon til rapportverktøyet](https://support.catenda.com/nb/articles/17778684-introduksjon-til-rapportredigeringen) _(bare for innloggede kunder)_ som startpunkt.
+
 # Operasjoner på dokumentbibliotekselementer
 
 ## 1. **1. Mappeoperasjoner**
@@ -15777,7 +16043,7 @@ I menyen for etterbehandling velger du alternativet Kombiner tilstøtende bilder
 
 > **Notat 1:** Rapportsiden er en valgfri funksjon som kan aktiveres for pågående prosjekter. **Notat 2:** Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
 
-Rapportmalsiden finnes som en underside av [rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside) i den venstre navigasjonsmenyen. På rapportmalsiden kan dokument- og sakskmaler som er tilgjengelige for prosjektet administreres. _Nødvendig tilgang:_ Administrator
+Siden for rapportmaler kan finnes som en underside av [rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside) i den venstre navigeringsmenyen. På siden for rapportmaler kan dokumenter, saker og gjennomgangsmalene som er tilgjengelige for prosjektet administreres. _Påkrevd tilgang:_ Administrator
 
 Dette er hvordan rapportmalsiden kan se ut:
 
@@ -15787,7 +16053,9 @@ Dette er hvordan rapportmalsiden kan se ut:
 
 Handlingene på rapportmalsiden finner du ved å klikke på handlingsmenyen øverst til høyre på rapportmalsiden. Dette er hvordan handlingene på rapportmalsiden kan se ut:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-actions-on-the-report-templates-page.png)
+![Handlingsmenyen på siden for rapportmaler, med Ny mal for sak, Ny dokumentmal og Ny mal for gjennomgang](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
+
+Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdige rapportmalene i stedet, og tilpasse den til prosjektet. De kan lastes ned fra [Ferdige rapportmaler](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(kun for report editor-kunder)_.
 
 ### 1.1 **Ny saksmal**
 
@@ -15797,13 +16065,17 @@ Bruk handlingen for ny saksmal for å opprette en ny saksmal
 
 Bruk handlingen for ny dokumentmal for å opprette en ny dokumentmal
 
+### 1.3 **Ny mal for gjennomgang**
+
+Bruk handlingen for ny mal for gjennomgang til å opprette en ny mal for gjennomgang for rapporter om gjennomgangsforespørsler.
+
 ## 2. **Filtrer på navn**
 
 Skriv i søkelinjen for å filtrere rapportmaltabellen etter navn på rapportene.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/03-filter-by-name.png)
 
-Tekst søk - `search=test`
+Tekstsøk - `search=test`
 
 ## 3. **Rapportmalstabell**
 
@@ -15815,7 +16087,7 @@ Klikk [her](https://support.catenda.com/nb/articles/11748020-tabeller-pa-catenda
 
 ### 3.1 **Radinnhold**
 
-**Rapportrad** Selv om det er mulig å klikke på en rad for å velge den og markere den med grønn farge, er det ingen handlinger som kan utføres ved å velge en rad. Raden velges når handlingsmenyen i den høyre kolonnen velges.
+_Rapportrad_ Selv om det er mulig å klikke på en rad for å velge den og markere den med grønn farge, er det ingen handlinger som kan utføres ved å velge en rad. Raden velges når handlingsmenyen i den høyre kolonnen velges.
 
 ### 3.2 **Kolonner**
 
@@ -15827,7 +16099,7 @@ _Opprettet av_ - _Standard_ Skaperen av rapportmalen
 
 Opprettet - _Standard_ Tidspunktet og datoen for når saksmalten ble opprettet
 
-Type - Standard Typen rapportmal, enten Dokumenter eller Saker.
+Type - Standard Typen på rapportmalen: Dokumenter, Saker eller Gjennomganger.
 
 Handlingsmeny - Standard Klikk på handlingsmenyen i handlingsmenyvkolonnen for å åpne radhandlingsmenyen. Dette er hvordan radhandlingsmenyen for rapportmal kan se ut:
 
@@ -15891,11 +16163,11 @@ Klikk [her](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumen
 
 ### 3.2 **Radinnhold**
 
-_Tilgang_ Rader på rapportssiden vises basert på tilgangen til elementet. _Nødvendig tilgang -_ Les
+**Tilgang** Rader på rapportsiden vises basert på tilgang til elementet. _Tilgang påkrevd:_ Lesing
 
-_Mapperadskift_ Åpning av innholdet i en mapperad endrer tabellen slik at den viser innholdet i mappen i rapporttabellen.
+**Mapperadskift** Åpning av innholdet i en mapperad endrer tabellen slik at den viser innholdet i mappen i rapporttabellen.
 
-_Rapportrad_ Åpning av innholdet i en rapportrad åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste revisjonen av denne rapporten.
+**Rapportrad** Åpning av innholdet i en rapportrad åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste revisjonen av denne rapporten.
 
 ### 3.3 **Radinnhold med statusarbeidsflyt -** Kladdrevi
 
@@ -15903,17 +16175,17 @@ _Rapportrad_ Åpning av innholdet i en rapportrad åpner [dokumentforhåndsvisni
 
 ### 3.4 **Radinnhold med statusarbeidsflyt - Arbeidsarea-fane**
 
-_Tilgang_ Rader på rapportssiden vises basert på tilgangen til elementet. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Nødvendig tilgang_ - Tilgang til visning av delte revisjoner i rapporten
+**Tilgang** Rader på rapportsiden vises basert på tilgang til elementet. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Tilgang påkrevd:_ Tilgang til visning av delte revisjoner i rapporten
 
-Uten tilgang til visning av delte revisjoner vises den siste publiserte revisjonen. Selv om det finnes nyere delte revisjoner. _Nødvendig tilgang -_ Lestilgang til rapporten
+Uten tilgang til visning av delte revisjoner vises den siste publiserte revisjonen. Selv om det finnes nyere delte revisjoner. _Tilgang påkrevd:_ Lesetilgang til rapporten
 
-_Rapportinnhold_ Åpning av innholdet i en rapportrad i arbeidsarea-fanen åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste delte revisjonen, selv om revisjoner i rapporten tidligere ble publisert.
+**Rapportinnhold** Åpning av innholdet i en rapportrad i arbeidsarea-fanen åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste delte revisjonen, selv om revisjoner i rapporten tidligere ble publisert.
 
 ### 3.5 **Radinnhold med statusarbeitsflyt -** Publisert-fane
 
-_Tilgang_ Rader på rapportssiden vises basert på tilgangen til elementet. Rapportrader med minst én publisert revisjon vises. _Nødvendig tilgang -_ Les
+**Tilgang** Rader på rapportsiden vises basert på tilgang til elementet. Rapportrader med minst én publisert revisjon vises. _Tilgang påkrevd:_ Lesing
 
-_Rapportinnhold_ Åpning av innholdet i en rapportrad i den publiserte fanen åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste publiserte revisjonen av rapporten, selv om det finnes nyere delte revisjoner.
+**Rapportinnhold** Åpning av innholdet i en rapportrad i den publiserte fanen åpner [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) av den siste publiserte revisjonen av rapporten, selv om det finnes nyere delte revisjoner.
 
 ### 3.6 **Kolonner**
 
@@ -22781,11 +23053,11 @@ Prosjekteiere og prosjektdeltakere må ofte vedlikeholde lokale kopier av prosje
 
 Prosjektdata kan være nødvendig på ulike prosjektmilepæler:
 
-**Faseskifter** Overganger mellom planlegging, design og konstruksjon krever ofte utvinning av dataspøkelser, spesielt hvis prosjekter settes på hold eller overføres til nye parter.
+_Faseskifter_ Overganger mellom planlegging, design og konstruksjon krever ofte utvinning av dataspøkelser, spesielt hvis prosjekter settes på hold eller overføres til nye parter.
 
-**Offentlige forespørsler** Formelle overføringer til myndigheter kreves ofte under eller etter prosjektets slutt.
+_Offentlige forespørsler_ Formelle overføringer til myndigheter kreves ofte under eller etter prosjektets slutt.
 
-**Anbudsrunde** Forberedelse av dokumentoverføringspakker til anbudsrunder.
+_Anbudsrunde_ Forberedelse av dokumentoverføringspakker til anbudsrunder.
 
 ### 1.2 **Uavhengig datalagring og tilgangsbeskyttelse**
 
@@ -22813,62 +23085,62 @@ Disse innebygde eksportverktøyene er tilgjengelige direkte innenfor standardgre
 
 Fordi hver modell i Catenda er knyttet til et dokument i dokumentdelen, gjelder standard dokumenteksportalternativer også for modeller. I tillegg er dedikerte eksportalternativer tilgjengelige spesielt for modeller:
 
-**Valgt modellenedlasting** Velg en eller flere modeller på [modellersiden](https://support.catenda.com/nb/articles/4670286-modellside) og bruk nedlastingshandlingen til å trekke ut deres nyeste revisjoner.
+_Valgt modellenedlasting_ Velg en eller flere modeller på [modellersiden](https://support.catenda.com/nb/articles/4670286-modellside) og bruk nedlastingshandlingen til å trekke ut deres nyeste revisjoner.
 
-**Individuell revisjonsnedlasting** Velg en modell på [modellersiden](https://support.catenda.com/nb/articles/4670286-modellside) og bruk nedlastingsknappen ved siden av hver revisjon i høyre informasjonspanel. Dette gir en effektiv måte å laste ned bestemte revisjoner direkte uten å måtte laste hele [modellinnholdssiden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside). Alternativt kan individuelle revisjoner også lastes ned direkte fra innholdssiden for en modell.
+_Individuell revisjonsnedlasting_ Velg en modell på [modellersiden](https://support.catenda.com/nb/articles/4670286-modellside) og bruk nedlastingsknappen ved siden av hver revisjon i høyre informasjonspanel. Dette gir en effektiv måte å laste ned bestemte revisjoner direkte uten å måtte laste hele [modellinnholdssiden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside). Alternativt kan individuelle revisjoner også lastes ned direkte fra innholdssiden for en modell.
 
-**Avansert modelleksport** Få tilgang til [modeleksportsiden](https://support.catenda.com/nb/articles/4670280-modelleksportside) for å pakke valgte revisjoner på tvers av flere modeller til en enkelt nedlastbar ZIP-fil. Denne metoden inkluderer avanserte alternativer for å forbedre de eksporterte modelfilene ved å bake inn merker, brukerdefinerte egenskaper eller biblioteksinformasjon.
+_Avansert modelleksport_ Få tilgang til [modeleksportsiden](https://support.catenda.com/nb/articles/4670280-modelleksportside) for å pakke valgte revisjoner på tvers av flere modeller til en enkelt nedlastbar ZIP-fil. Denne metoden inkluderer avanserte alternativer for å forbedre de eksporterte modelfilene ved å bake inn merker, brukerdefinerte egenskaper eller biblioteksinformasjon.
 
 ### 2.2 **Eksporterer saker (3 måter)**
 
 Sakdata kan utvinnes ved hjelp av tre primære formater via [utvekslingssaker](https://support.catenda.com/nb/articles/4670289-utveksle-saker), avhengig av hvordan informasjonen blir sett, analysert eller lagret:
 
-**BCF (BIM Collaboration Format)** En åpen standard utformet for å fange og overføre saksinformasjon som strengt overholder den offisielle BCF-spesifikasjonen, inkludert individuelle saksopprettelsestidsstempler. Dette formatet garanterer bred plattformfellesdrift, noe som gjør det ideelt for å åpne på nytt, redigere eller utveksle saksdata smidig med annen BCF-kompatibel programvare. For generelle langsiktige dokumentoppbevaringsplasser der direkte filforhåndsvisninger trengs, er PDF- eller Excel-formater vanligvis foretrukket.
+_BCF (BIM Collaboration Format)_ En åpen standard utformet for å fange og overføre saksinformasjon som strengt overholder den offisielle BCF-spesifikasjonen, inkludert individuelle saksopprettelsestidsstempler. Dette formatet garanterer bred plattformfellesdrift, noe som gjør det ideelt for å åpne på nytt, redigere eller utveksle saksdata smidig med annen BCF-kompatibel programvare. For generelle langsiktige dokumentoppbevaringsplasser der direkte filforhåndsvisninger trengs, er PDF- eller Excel-formater vanligvis foretrukket.
 
-**Excel** Eksporterer sakparametere til et regnearkformat for filtrering, sortering og datamanipulering. Dette formatet gir strukturerte rader og kolonner som er ideelle for valg og kopiering av data, og Excel-filer kan lett forhåndsvises innenfor de fleste arkiveringsplattformer. For arkiveringsformål foretrekkes PDF-eksporten generelt fremfor Excel fordi den inneholder mer informasjon.
+_Excel_ Eksporterer sakparametere til et regnearkformat for filtrering, sortering og datamanipulering. Dette formatet gir strukturerte rader og kolonner som er ideelle for valg og kopiering av data, og Excel-filer kan lett forhåndsvises innenfor de fleste arkiveringsplattformer. For arkiveringsformål foretrekkes PDF-eksporten generelt fremfor Excel fordi den inneholder mer informasjon.
 
-**PDF** Genererer en ren, lesbar sammendragsrapport i standard PDF-format (v1.4) tilgjengelig uten spesialisert programvare (se [eksporterer saker til PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf)). Standard PDF-eksporter inkluderer et konsolidert nedlastingstidsstempel for formell myndighetrapportering og arkivering, med mer informasjon enn en Excel-eksport. Mens basiseksporten genererer en standard PDF (v1.4) fil, som mange arkiveringsystemer automatisk konverterer til PDF/A ved opplasting for langsiktig forhåndsvisning, er direkte eksport til native PDF/A-1, PDF/A-2 og PDF/A-3-formater også tilgjengelig via opt-in [Rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside).
+_PDF_ Genererer en ren, lesbar sammendragsrapport i standard PDF-format (v1.4) som er tilgjengelig uten spesialisert programvare (se [eksportering av saker til PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf)). Standard PDF-eksporter inkluderer et konsolidert nedlastingstidsstempel for offisiell rapportering og arkivering, noe som gir mer informasjon enn en Excel-eksport. Mens grunneksorten genererer en standard PDF-fil (v1.4), som mange arkiveringssystemer automatisk konverterer til PDF/A ved opplasting for langsiktig visning, kan prosjekter med den innbygde [rapportsidefunksjonen](https://support.catenda.com/nb/articles/12303098-rapportsside) aktivert også eksportere saker i arkiveringsformater, som beskrevet i [Eksportering av prosjektdata med rapporter](https://support.catenda.com/nb/articles/17779017-eksportere-prosjektdata-med-rapporter) _(kun rapportredigerer-kunder)_.
 
 ### 2.3 **Eksporterer dokumenter og samlinger**
 
-**Sats- og mappenedlastinger** Velg individuelle mapper, bestemte dokumentbatcher eller alle synlige tabeilelementer på en gang for å generere en nedlastbar ZIP-arkiv. Det anbefales å laste ned i håndterbare batcher ved å velge bestemte undermapper eller målrettede filgrupper for jevne overføringer når du arbeider med store datasett.
+_Sats- og mappenedlastinger_ Velg individuelle mapper, bestemte dokumentbatcher eller alle synlige tabeilelementer på en gang for å generere en nedlastbar ZIP-arkiv. Det anbefales å laste ned i håndterbare batcher ved å velge bestemte undermapper eller målrettede filgrupper for jevne overføringer når du arbeider med store datasett.
 
 - **Publisert-fanen**<br>Henter den nyeste publiserte revisjonen for hvert valgt dokument.
 - **Arbeidsområde-fanen**<br>Henter den nyeste delte revisjonen for hvert valgt dokument (krever "Vis delte revisjoner"-tillatelse). Merk at eldre utkastrevisjoner ikke kan lastes ned i batch til en ZIP-arkiv og lastes ned individuelt.
 
-**Individuell revisjonsnedlasting** Velg et dokument på [dokumentersiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) og klikk på nedlastingsknappen ved siden av hver revisjon som vises i høyre informasjonsmeny. Dette er en enklere måte å laste ned individuelle eller historiske revisjoner på fordi dokumentforhåndsvisningssiden ikke trenger å lastes inn, slik at du kan velge et annet dokument i tabellen og laste ned revisjonene i høyremeny uten å måtte åpne en ny forhåndsvisningsside.
+_Individuell revisjonsnedlasting_ Velg et dokument på [dokumentersiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) og klikk på nedlastingsknappen ved siden av hver revisjon som vises i høyre informasjonsmeny. Dette er en enklere måte å laste ned individuelle eller historiske revisjoner på fordi dokumentforhåndsvisningssiden ikke trenger å lastes inn, slik at du kan velge et annet dokument i tabellen og laste ned revisjonene i høyremeny uten å måtte åpne en ny forhåndsvisningsside.
 
-**Offentlige samlinger** Bruk [samlinger](https://support.catenda.com/nb/articles/6344318-samlingside) til å opprette offentlige lenker for valgte dokumentdelsett, slik at eksterne parter kan laste ned filer uten å kreve en Catenda-konto. Merk at bare publiserte revisjoner kan legges til samlinger.
+_Offentlige samlinger_ Bruk [samlinger](https://support.catenda.com/nb/articles/6344318-samlingside) til å opprette offentlige lenker for valgte dokumentdelsett, slik at eksterne parter kan laste ned filer uten å kreve en Catenda-konto. Merk at bare publiserte revisjoner kan legges til samlinger.
 
-**Slettede filer** Søk etter "slettet" i dokumentsøkelinjen for å finne og eksportere tidligere slettede dokumenter. Husk at dette filteret er språkspesifikt og vil tilsvare begrepet for "slettet" i gjeldende språkinnstillinger.
+_Slettede filer_ Søk etter "slettet" i dokumentsøkelinjen for å finne og eksportere tidligere slettede dokumenter. Husk at dette filteret er språkspesifikt og vil tilsvare begrepet for "slettet" i gjeldende språkinnstillinger.
 
 ### 2.4 **Desktop connector (Automatisert lokal sikkerhetskopi)**
 
 [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) gjør det mulig å bakgrunnssynkronisere for periodisk å laste ned nye dokumentrevisjoner direkte til en lokal stasjon. I motsetning til satseksporten, ankommer nedlastede dokumenter direkte på systemet ditt som rå, ukomprimerte filer uten at det kreves manuell arkivekstraksjon.
 
-**Planlagte og øyeblikkelige sikkerhetskopier** Oppgaver kan planlegges til å kjøre automatisk med regelmessige intervaller eller utføres on-demand, noe som sikrer at prosjektmedlemmer bevarer en oppdatert lokal kopi av dokumenter selv om prosjekttilgangen uventet tilbakekalles.
+_Planlagte og øyeblikkelige sikkerhetskopier_ Oppgaver kan planlegges til å kjøre automatisk med regelmessige intervaller eller utføres on-demand, noe som sikrer at prosjektmedlemmer bevarer en oppdatert lokal kopi av dokumenter selv om prosjekttilgangen uventet tilbakekalles.
 
-**Direkte API-overføringer** Overfører store datasett betydelig raskere enn weblesernedlastinger ved å utnytte direkte API-forbindelser uten leserbegrensninger eller overhead.
+_Direkte API-overføringer_ Overfører store datasett betydelig raskere enn weblesernedlastinger ved å utnytte direkte API-forbindelser uten leserbegrensninger eller overhead.
 
-**Hierarkialternativer** Laster ned valgte mappestrukturer med komplett hierarki intakt, eller trekker ut individuelt valgte filer direkte som en flat liste til den utpekte lokale mappen.
+_Hierarkialternativer_ Laster ned valgte mappestrukturer med komplett hierarki intakt, eller trekker ut individuelt valgte filer direkte som en flat liste til den utpekte lokale mappen.
 
 ### 2.5 **Medlemtilgang og aktivitetslogger**
 
-**Saklister** Dokumentelementbordtilgangstillatelser ved hjelp av to tilgjengelige visninger:
+_Saklister_ Dokumentelementbordtilgangstillatelser ved hjelp av to tilgjengelige visninger:
 
 - **Per-bruker tilgangsvisning**<br>Vis individuelle brukeradgangnivåer direkte fra informasjonsmenyene til høyre på en saksliste eller valgt sak.<br>_Tilgang kreves:_ lesetilgang til sakslist
 - **Fullstendig teamkonfigurasjon**<br>Ta skjermbilder av de komplette tillatelseinnstillingene på teamnivå innenfor tilganginnstillingene for sakslisten.<br>_Tilgang kreves:_ Full tilgang til sakslisten eller prosjektadministrator
 
-**Dokument- og modelltilgang** Eksporter [tilgangsoversikten](https://support.catenda.com/nb/articles/6660820-tilgangsoversikt-over-dokumenter) for å registrere tillatelser for medlemmer og team. Tilgang påkrevd: Prosjektadministrator. Fordi hver modell er knyttet til et dokument i dokumentdelen, styres tilgangstillatelser for modeller av de underliggende dokumenttillatelsene og registreres ved hjelp av samme dokumenttilgangsoversikt eller tillatelseamenyer.
+_Dokument- og modelltilgang_ Eksporter [tilgangsoversikten](https://support.catenda.com/nb/articles/6660820-tilgangsoversikt-over-dokumenter) for å registrere tillatelser for medlemmer og team. Tilgang påkrevd: Prosjektadministrator. Fordi hver modell er knyttet til et dokument i dokumentdelen, styres tilgangstillatelser for modeller av de underliggende dokumenttillatelsene og registreres ved hjelp av samme dokumenttilgangsoversikt eller tillatelseamenyer.
 
-**Dokument- og modellrevisjonens tilgang** Vis tillatelser fra [høyre meny for en dokumentrevisjon](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) og fang opp skjermbildet etter behov.
+_Dokument- og modellrevisjonens tilgang_ Vis tillatelser fra [høyre meny for en dokumentrevisjon](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) og fang opp skjermbildet etter behov.
 
-**Prosjektomfattende handlingstillatelser** Dokumenter prosjektomfattende tillatelser på [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger) (for eksempel oppretting av saklister, invitasjon av nye medlemmer, konfigurering av dokumentstatuser og opprettelse eller fjerning av modeller) ved hjelp av to tilgjengelige visninger:
+_Prosjektomfattende handlingstillatelser_ Dokumenter prosjektomfattende tillatelser på [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger) (for eksempel oppretting av saklister, invitasjon av nye medlemmer, konfigurering av dokumentstatuser og opprettelse eller fjerning av modeller) ved hjelp av to tilgjengelige visninger:
 
 - **Visning per bruker**<br>Prosjektmedlemmer kan utvide hver meny under tilgangskontroll for å se hvilke individuelle brukere som har tillatelse til å utføre hver handling.
 - **Fullstendig konfigurasjon**<br>Administratorer kan åpne dialogboksen for redigering av tilgang for å vise og administrere tillatelseinnstillinger på teamnivå.<br>_Tilgang kreves:_ Prosjektadministrator
 
-**Brukerprofiler og medlemsdetaljer** Informasjon om prosjektmedlemmer og team er tilgjengelig for utvinning eller dokumentasjon, inkludert:
+_Brukerprofiler og medlemsdetaljer_ Informasjon om prosjektmedlemmer og team er tilgjengelig for utvinning eller dokumentasjon, inkludert:
 
 - Brukernavn og e-postadresser (se [egendefinert medlemsinformasjon](https://www.google.com/search?q=https://support.catenda.com/nb/articles/11769670-egendefinert-medlemsinformasjon)).
 - Teammedlemskap, tildelte saker, opplastede modellrevisjoner og tillatelseinnstillinger (fanget via [medlemssiden](https://www.google.com/search?q=https://support.catenda.com/nb/articles/4670291-medlemmer-og-teams-side) eller [teamsiden](https://www.google.com/search?q=https://support.catenda.com/nb/articles/4670291-medlemmer-og-teams-side)).
@@ -22881,53 +23153,15 @@ Konfigurer en dedikert administratorkonto med [prosjektspesifikke varslingsinnst
 
 ### 2.7 **Rapportsiden (Innmeldingsfunksjon)**
 
-**Innmeldings aktivering** Rapportsiden er en innmeldingsfunksjon som kan forespørres som aktiv for aktuelle prosjekter. Selv om ingen ekstra betaling kreves for å bruke dette verktøyet, må prosjekteieren godta å aktivere det på prosjektet, noe som betyr at det ikke er aktivt som standard i mange prosjekter. Merk at nye prosjekter opprettet fra malprosjekter der rapporter er aktivert, aktiverer ikke automatisk denne funksjonen.
+[Rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside) er en frivillig funksjon som kan forespørres for pågående prosjekter. Prosjekter som har den aktivert kan også eksportere Dokumenter- og Sak-data som formaterte rapporter, inkludert formater for langsiktig arkivering.
 
-**Malbasert administrasjon** Når den er aktivert, kan prosjektadministratorer bruke [rapportmalsiden](https://support.catenda.com/nb/articles/12380837-rapportmalsider) for å konfigurere egendefinerte rapportmaler og generere formaterte eksporter for valgte dokumenter eller saker.
+_Malbasert administrasjon_ Når den er aktivert, bruker prosjektadministratorer [rapportmalsiden](https://support.catenda.com/nb/articles/12380837-rapportmalsider) til å konfigurere rapportmaler etter eget valg og generere formaterte eksporter for valgte Dokumenter eller Saker.
 
-**Dokumentrapporter** Eksporter dokumentmetadata og revisjondetaljer for alle valgte filer, inkludert dokumentnavn, revisjonsnavn, siste revisjonsnummer, status, egendefinerte felt, oppretter, opplaster og opprettelse/opplastingstidsstempler.
-
-- **Viktige brukstilfeller**<br>Ideell for å generere formelle sjekklister for dokumentlevering som skal følge en samling, eller for å kompilere strukturerte dokumentlister for dataanalyse.
-- **Modellmetadata og attributter**<br>Selv om det faktiske dokumentfilinnholdet ikke er inkludert, kan modellmetadata eksporteres gjennom dokumentrapporter ettersom modeller opprettholder lenker til dokumentdelen. Egendefinerte skript i maler kan også brukes til å utlede tilleggsattributter, for eksempel å trekke ut filtyper fra dokumentnavn.
-
-**Sakrapporter** Eksporter overordnede saksoverskrifter samt komplette sakskroppdetaljer, inkludert beskrivelser, kommentarer og innebygde kommentarbilder.
-
-**Tilgjengelige eksportformater** Rapporter opprettet fra en mal kan eksporteres til flere formater avhengig av arbeidsflytkrav:
-
-- **PDF / PDF/A**<br>Genererer rene formaterte rapporter og støtter direkte opprinnelig PDF/A-samsvar (PDF/A-1, PDF/A-2 og PDF/A-3) for å oppfylle strenge krav til langtidsarkivering og formelle juridiske standarder.
-- **Excel**<br>Eksporterer strukturerte tabellariske data til regnearkrader og -kolonner, noe som gjør det ideelt for datamanipulering og ekstern analyse.
-- **Tilleggsformater**<br>Et bredt spekter av tilleggsfilformater utover PDF og Excel støttes også for eksport; det komplette oversikten finnes i artikkelen [rapportside](https://support.catenda.com/nb/articles/12303098-rapportsside).
-
-**Sentralisert lagring** Genererte rapporter vises direkte i rapporttabellen og integreres automatisk i hoveddokumenttabellen for enkel administrasjon.
+Hva som kan eksporteres, og i hvilke filformater, er beskrevet i [Eksportering av prosjektdata med rapporter](https://support.catenda.com/nb/articles/17779017-eksportere-prosjektdata-med-rapporter) _(kun rapportredigerer-kunder)_.
 
 ## 3. **Catenda dataeksport**
 
-I motsetning til standard brukerstyrt nedlasting, er Catenda Data Export en automatisert, selvbetjent løsning utformet for å smidig overføre prosjektdata direkte til en organisasjons skylager. Hvis organisasjonen din er interessert i å aktivere denne funksjonen, kan salg nås på [sales@catenda.com](mailto:sales@catenda.com). Når den er aktivert, gir den automatiserte sikkerhetskopier direkte mellom skyomgivelser uten å trenge egendefinerte skript, som omgår minnebegrensninger for nettleser, lagringsbegrensninger for lokal stasjon og nettverksavbrudd gjennom automatisert kontrollsum-verifisering.
-
-### 3.1 **Organisasjonsroller og tillatelser**
-
-Oppsettet og administrasjon av Catenda Data Export krever en **organisasjonsadministrator**. I motsetning til en organisasjonseier, hvis administrative rettigheter er begrenset til en enkelt organisasjon, eller standard prosjektmedlemmer, har en organisasjonsadministrator forhøyet tilgang på tvers av alle organisasjoner som tilhører en overordnet konto. Denne unike rollen gir den nødvendige tverrorganisasjonstillitingen og myndigheten til å konfigurere og administrere automatiserte skyleksporter.
-
-### 3.2 **Konfigureringstrinn**
-
-Oppsettet av automatiserte dataeksporter innebærer fire hovedtrinn:
-
-1. **Velg destinasjon**<br>Velg en skylageringsleverandør, Amazon Web Services (AWS) S3 eller Microsoft Azure Blob-lagring, og konfigurer godkjenning.
-2. **Definer omfang og dataformater**
-   - **Datatyper**<br>Eksporter dokumenter, modeller og saker. <br>Sakdata kan automatisk konverteres til lesbare PDF-sammendragsrapporter eller standard BCF-filer under overføring.
-   - **Prosjektvalg**<br>Velg alle prosjekter, plukk spesifikke prosjekter manuelt, eller opprett dynamiske sammenligningsregler med prosjektnavn-mønstre (glob eller regulært uttrykk / regex) for automatisk å inkludere nye prosjekter når de opprettes.
-3. **Velg eksportmodus**
-   - **Kontinuerlig modus**<br>Sender data automatisk på daglig grunnlag. <br>Dette gjentakende oppsettet sikrer at prosjektmedlemmer som ikke er eiere, opprettholder en oppdatert sikkerhetskopi frem til siste daglige kjøring hvis prosjekttilgangen ender uventet.
-   - **Øyeblikksbilde-modus**<br>Utfører en engangskjøring for å eksportere et komplett datasett på et spesifikt milepæl eller prosjektoverlevering.
-4. **Distribuer**<br>Avslutter og aktiverer eksportkonfigurasjonen ved å velge Opprett.
-
-### 3.3 **Uttrukket innhold og integritetsverifisering**
-
-**Metadata og egendefinerte felt** Egendefinerte felt knyttet til dokumenter og saker eksporteres ved siden av primære filer som strukturerte JSON-filer, noe som sikrer fullstendig attributtbevaring uten manuell rapportgenerering.
-
-**Integritetverifisering** Hver eksportkjøring genererer en kontrollsum-fil for å bekrefte at eksporterte filer samsvarer med kildedataene i Catenda Hub og ble overført fullstendig uten nettverkstap.
-
-**Organisert hierarki** Eksporterte filer er automatisk strukturert til mapper organisert etter dato, prosjektnavn og det nøyaktige mappearkitekturhierarkiet opprettholdt i Catenda Hub.
+Catenda Data Export selges separat fra Catenda Hub. I motsetning til nedlastingene ovenfor, kopierer den prosjektdata automatisk direkte fra Catenda Hub til en organisasjons egen skytlagring i Amazon S3 eller Azure Blob-lagring. Det passer for organisasjoner som ønsker en sikkerhetskopi som holder tritt med prosjektene deres, eller prosjektposter som oppbevares i deres eget lager. Det er ikke bare for prosjekteiere. En prosjekteier kan eksportere en fullstendig sikkerhetskopi av prosjektene sine, og en prosjektdeltaker kan eksportere det den har tilgang til i prosjektene den deltar i. Mer om det finner du i [Om Catenda Data Export](https://support.catenda.com/nb/articles/17779020-om-catenda-data-export) _(for lesere som ikke er pålogget)_ og [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(bare for påloggede kunder)_. Kunder som har det, finner oppsettet i [Catenda Data Export](https://support.catenda.com/nb/articles/17779052-catenda-datakeksport) _(bare for Data Export-kunder)_.
 
 # Endring av størrelse på kolonner
 
@@ -23459,6 +23693,34 @@ Egendefinerte felt på dokumenter er bare tilgjengelig for eksport med rapportha
 ### 4.3 **Dokumentnedlasting**
 
 Egendefinerte felt på dokumenter er bare tilgjengelig med rapporthandlingen. Når dokumenter lastes ned med nedlastingshandlingen i dokumenttabellen, lastes det opprinnelige dokumentet ned. Catenda endrer ikke dokumentet på noen måte, så egendefinerte felt legges heller ikke til som metadata.
+
+# Om Catenda Data Export
+
+> Catenda Data Export kopierer data fra Catenda Hub-prosjekter til organisasjonens eget skylagring, automatisk.
+
+Catenda Hub har flere måter å laste ned prosjektdata på, beskrevet i [Eksportere all prosjektdata](https://support.catenda.com/nb/articles/7946690-eksporterer-alle-prosjektdata). Catenda Data Export er den automatiserte: den kopierer prosjektdata direkte til organisasjonens eget skylagring i Amazon S3 eller Azure Blob storage. Det selges separat fra Catenda Hub.
+
+## 1. **Hva det er**
+
+Catenda Data Export holder en kopi av et prosjekts Dokumenter, modeller og Saker i lagring som organisasjonen kontrollerer. Det kjører etter en tidsplan eller én gang, uten at noen laster ned filer manuelt.
+
+## 2. **Prosjekteiere og deltakere**
+
+Catenda Data Export er ikke bare for organisasjoner som eier prosjekter i Catenda Hub. Hva som eksporteres, avhenger av organisasjonens rolle i hvert prosjekt.
+
+### 2.1 **Prosjekteiere**
+
+En organisasjon som eier et prosjekt, kan eksportere en fullstendig sikkerhetskopi av alle prosjektets data.
+
+### 2.2 **Prosjektdeltakere**
+
+En organisasjon som deltar i prosjekter eid av andre, kan også få Catenda Data Export, uten å eie et prosjekt selv. I disse prosjektene eksporterer det bare det deltakeren har tilgang til, som kan være en begrenset del av prosjektet. På denne måten beholder deltakeren sin egen kopi av sitt arbeid, selv om tilgangen til et prosjekt opphører.
+
+## 3. **Kom i gang**
+
+For å bruke det, kontakter du Catenda sales om å komme i gang med ditt første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
+
+> **Merk:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Help Center. Help Center viser da mer til påloggede kunder, med start [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(kun for påloggede kunder)_.
 
 # Organisasjonsverktøy FAQ
 
@@ -25202,7 +25464,7 @@ Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringen
   - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/nb/articles/14078352-bruk-av-malvinkler-nar-du-lagrer-merknadsaker)
   - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/nb/articles/14078683-bruke-saksmaler-med-gjennomganger)
 - Kategorioverskridende
-  - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling)
+  - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(bare for rapportredigerkunder)_
   - [Kopier-lenkehandling](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp)
 - Catenda-programtillegg og integrasjoner
   - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15)

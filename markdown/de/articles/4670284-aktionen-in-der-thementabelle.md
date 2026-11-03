@@ -50,11 +50,11 @@ Die Aktion "Themen exportieren" öffnet den [Dialog "Themen exportieren"](https:
 
 ### 2.3 **Bericht erstellen**
 
-Das Reporting-Tool kann auf Projektbasis aktiviert werden. Mit der Aktion "Bericht erstellen" können Sie einen Bericht über Ihre ausgewählten Themen erstellen. _Erforderlicher Zugriff:_ Lesezugriff auf das Themen-Board
+Das Reporting-Tool kann auf Projektbasis aktiviert werden. Mit der Aktion "Bericht erstellen" können Sie einen Bericht Ihrer ausgewählten Themen erstellen. Diese Aktion ist nur in Projekten verfügbar, in denen die Berichtsseite aktiviert wurde. _Erforderlicher Zugriff:_ Lesezugriff auf das Themen-Board
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Diese Option ist verfügbar, wenn Themen aus mehreren Boards ausgewählt werden. Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen), um mehr über das Erstellen von Berichten zu erfahren.
+Diese Option ist verfügbar, wenn Themen aus mehreren Boards ausgewählt werden. Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Report-Editor-Kunden)_, um mehr über die Erstellung von Berichten zu erfahren.
 
 ### 2.4 **Folgen**
 

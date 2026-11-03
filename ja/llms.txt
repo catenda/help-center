@@ -74,8 +74,12 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [3Dビューア](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8227211-3dビューア.md)
 - [3Dビューアツールメニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670294-3dビューアツールメニュー.md): Catenda Hubの3Dビューアツールについて説明します
 - [Archicadのマークアップツールを使用したBCFワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670335-archicadのマークアップツールを使用したbcfワークフロー.md)
+- [Catenda AI Connectとプロジェクトアクセス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778745-q7kwqj4b.md): Catenda AI Connectは、各ユーザーがCatenda Hubで既に開くことができるものだけで機能します。プロジェクトを実行している組織は、そのプロジェクトでCatenda AI Connectを使用できるかどうかを決定でき、一部またはすべてのプロジェクトに対して制限をリクエストできます。
+- [Catenda AI Connectについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778695-3abb6spn.md): Catenda AI Connectは、組織が既に使用しているClaude、Microsoft Copilot、ChatGPTなどのAIを、Catenda Hubプロジェクトに接続します。それが何であるか、どのように機能するか、そして始める方法を説明します。
 - [Catenda Archicadプラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5519276-catenda-archicad-プラグイン.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8358861-catenda-desktop-connector-デスクトップ-コネクタ.md)
+- [Catenda Desktop Connector for System Imagesについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778686-v0ka4j3n.md): オペレーティングシステムイメージにソフトウェアをインストールする組織向けのCatenda Desktop Connectorのバージョンで、リクエストして取得できます。
+- [Catenda for Power BI (On Demand) について](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778860-64t9azag.md): Catenda for Power BI は、Catenda Hub プロジェクトデータを Power BI に取り込みます。ビジュアルと既製のレポートテンプレート付きの次のバージョンがオンデマンドで利用可能です。
 - [Catenda Hub - Solibri ワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670339-catenda-hub-solibri-ワークフロー.md)
 - [Catenda Hubのポイントクラウド](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5606625-点群データ-ポイントクラウド.md): Catenda Hubでレーザースキャンおよび LIDARテクノロジーの利点を活かしてください。
 - [Catenda Navisworksプラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5085987-catenda-navisworks-プラグイン.md)
@@ -89,6 +93,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [Catenda Siteのオフラインモード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7325268-catenda-siteのオフラインモード.md)
 - [Catenda Tekla プラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6549656-catenda-tekla-プラグイン.md): Catenda Hub と Tekla を接続
 - [Catenda の PDF 上の QR コード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9360508-catenda-の-pdf-上の-qr-コード.md)
+- [Catenda アーカイビング ポータルについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778812-p8xcwvy0.md): Catenda アーカイビング ポータルを使用すると、Catenda Hub から組織のアーカイブ システムに選択したドキュメントとトピックを転送できます。
 - [Catenda プラグイン & 統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396532-catendaプラグインと連携.md): Catenda をお気に入りのツールに接続
 - [CatendaSP アプリの追加と削除](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9453368-catendasp-アプリの追加と削除.md)
 - [Catendaのトピックとは？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8979789-catendaのトピックとは.md)
@@ -222,6 +227,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [リンクコピーアクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14323982-リンクコピーアクション.md)
 - [リンクライブラリ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670254-リンクライブラリ.md)
 - [ルートフォルダ ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670292-ルートフォルダ-acl.md)
+- [レポートエディタについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778674-dajzqjd5.md): Catenda Hubはプロジェクトのトピック、ドキュメント、承認からレポートを作成します。レポートエディタを使用すると、プロジェクトが独自のレポートテンプレートを持つことができます。
 - [レポートテンプレートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12380837-レポートテンプレートページ.md)
 - [レポートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12303098-レポートページ.md)
 - [ロケーションページ - Catenda Mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17601635-ロケーションページ-catenda-mobile.md): Catenda Mobileでプロジェクトを建物、階、室で移動します。
@@ -323,6 +329,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [2Dトピック位置 - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13616245-2dトピック位置-catenda-site.md)
 - [3D DWGエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7887999-3d-dwgエクスポートマニュアル.md)
 - [3Dビューア最適化](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13927321-3dビューア最適化.md)
+- [Catenda Data Exportについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17779020-y5mhccmn.md): Catenda Data Exportは、Catenda Hubプロジェクトのデータを組織独自のクラウドストレージに自動的にコピーします。
 - [Catenda Desktop Connector FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11582835-catenda-desktop-connector-faq.md)
 - [Catenda Hubでスペースを表示するにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670315-catenda-hubでスペースを表示するにはどうすればよいですか.md)
 - [Catenda Hubのオブジェクトにドキュメントをリンクするにはどうすればよいですか?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670322-catenda-hubのオブジェクトにドキュメントをリンクするにはどうすればよいですか.md)

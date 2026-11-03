@@ -50,7 +50,7 @@ Cliquez [ici](https://support.catenda.com/fr/articles/4670288-actions-du-tableau
 
 ### 3.2 **Contenu de la ligne**
 
-**Accès** Les lignes de la page Rapports sont affichées en fonction de l'accès à l'élément. _Accès requis -_ Lecture
+**Accès** Les lignes de la page des rapports s'affichent en fonction de l'accès à l'élément. _Accès requis :_ Lecture
 
 **Ligne de dossier** L'ouverture du contenu d'une ligne de dossier change le tableau pour afficher le contenu de ce dossier dans le tableau des rapports.
 
@@ -62,15 +62,15 @@ L'ouverture du contenu d'une ligne de rapport avec uniquement des révisions de 
 
 ### 3.4 **Contenu de la ligne avec flux de statut - Onglet Espace de travail**
 
-**Accès** Les lignes de la page Rapports sont affichées en fonction de l'accès à l'élément. Avec l'accès à l'affichage des révisions partagées, la révision la plus récente est affichée. _Accès requis_ - Accès à l'affichage des révisions partagées dans le rapport
+**Accès** Les lignes de la page des rapports s'affichent en fonction de l'accès à l'élément. Avec l'accès à l'affichage des révisions partagées, la dernière révision s'affiche. _Accès requis :_ Accès à l'affichage des révisions partagées dans le rapport
 
-Sans accès à l'affichage des révisions partagées, la révision publiée la plus récente est affichée. Même s'il y a des révisions partagées plus récentes. _Accès requis -_ Accès en lecture au rapport
+Sans accès à l'affichage des révisions partagées, la dernière révision publiée s'affiche. Même s'il existe des révisions partagées plus récentes. _Accès requis :_ Accès en lecture au rapport
 
 **Contenu du rapport** L'ouverture du contenu d'une ligne de rapport dans l'onglet Espace de travail ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) de la révision partagée la plus récente, même si les révisions du rapport ont été précédemment publiées.
 
 ### 3.5 **Contenu de la ligne avec flux de statut -** Onglet Publié
 
-**Accès** Les lignes de la page Rapports sont affichées en fonction de l'accès à l'élément. Les lignes de rapport avec au moins une révision publiée sont affichées. _Accès requis -_ Lecture
+**Accès** Les lignes de la page des rapports s'affichent en fonction de l'accès à l'élément. Les lignes de rapport avec au moins une révision publiée s'affichent. _Accès requis :_ Lecture
 
 **Contenu du rapport** L'ouverture du contenu d'une ligne de rapport dans l'onglet publié ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) de la révision publiée la plus récente du rapport, même s'il y a des révisions partagées plus récentes.
 

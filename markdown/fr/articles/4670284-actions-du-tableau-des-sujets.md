@@ -50,11 +50,11 @@ L'action d'exportation de sujets ouvrira la [boîte de dialogue d'exportation de
 
 ### 2.3 **Créer un rapport**
 
-L'outil de reporting peut être demandé pour être activé par projet. Avec l'action de création de rapport, vous pouvez créer un rapport de vos sujets sélectionnés. _Accès requis:_ Accès en lecture à la liste de sujets
+L'outil de reporting peut être demandé pour être activé sur la base d'un projet. Avec l'action créer un rapport, vous pouvez créer un rapport de vos Sujets sélectionnés. Cette action n'est disponible que sur les projets où la page des rapports a été activée. _Accès requis:_ Accès en lecture à la Liste de sujets
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Cette option est disponible lorsque des sujets provenant de plusieurs listes sont sélectionnés. Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) pour en savoir plus sur la création de rapports.
+Cette option est disponible lorsque des Sujets provenant de plusieurs listes sont sélectionnés. Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_ pour en savoir plus sur la création de rapports.
 
 ### 2.4 **Suivre**
 

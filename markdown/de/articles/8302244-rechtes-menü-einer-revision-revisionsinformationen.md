@@ -52,6 +52,8 @@ Wenn sich ein Dokument nicht in einem Ordner mit Namenskonvention befindet, kön
 
 _Erforderlicher Zugriff:_ Schreibzugriff auf das Dokument.
 
+> **Hinweis:** Dokumentnamen darf keine der folgenden Zeichen enthalten: `< > : " / \ | ? *` Wenn der neue Name eines dieser Zeichen enthält, kann er nicht gespeichert werden.
+
 ### 2.3 **Felder ausfüllen**
 
 So können die Felder aussehen, die für das gesamte Dokument ausgefüllt werden können:

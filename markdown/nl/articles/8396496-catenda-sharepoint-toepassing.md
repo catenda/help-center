@@ -46,7 +46,7 @@ Als een document met dezelfde naam als uw bestand nog niet in de map bestaat waa
 
 > **Opmerking:** Het is alleen mogelijk om documenten te publiceren en geen concepten te uploaden
 
-Nadat een bestand is gepubliceerd, kunnen gebruikers het bestand verplaatsen, hernoemen en verwijderen. _Catenda-toegang vereist:_ Volledige toegang, meestal gegeven aan gebruikers zoals de uitgever of een beheerder. Het wijzigen van het bestand op Catenda verandert niets op SharePoint. Evenzo, als het bestand op SharePoint verandert, verandert er niets op Catenda.
+Nadat een bestand is gepubliceerd, kunnen gebruikers het bestand verplaatsen, hernoemen en verwijderen. _Catenda-toegang vereist:_ Volledige toegang, meestal gegeven aan gebruikers zoals de uitgever of een beheerder. Het wijzigen van het bestand in Catenda verandert niets in SharePoint. Evenzo, als het bestand in SharePoint verandert, verandert er niets in Catenda.
 
 ## 2. **Catenda Webpart**
 

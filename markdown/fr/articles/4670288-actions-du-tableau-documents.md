@@ -82,11 +82,11 @@ Après avoir sélectionné le(s) document(s) dans la section documents du pannea
 
 ### 2.4 **Rapport**
 
-L'outil de rapport peut être demandé pour être activé sur une base par projet. Avec l'action de rapport, vous pourrez créer un rapport de vos documents sélectionnés.
+Avec l'action de rapport, vous pourrez créer un rapport de vos Documents sélectionnés. Cette action n'est disponible que sur les projets où la page des rapports a été activée. La page des rapports peut être demandée pour être activée projet par projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) pour en savoir plus sur l'action de rapport. _Accès requis:_ Accès en lecture au document
+Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients éditeur de rapport uniquement)_ pour en savoir plus sur l'action de rapport. _Accès requis :_ Accès en lecture au Document
 
 ### 2.5 **Publier**
 

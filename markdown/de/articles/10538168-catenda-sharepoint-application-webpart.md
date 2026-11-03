@@ -1,6 +1,6 @@
 # Catenda SharePoint Application - Webpart
 
-Mit dem Catenda-Webpart können Sie den Dokumentbereich eines Catenda-Projekts innerhalb einer SharePoint-Seite durchsuchen. _Catenda-Zugriff erforderlich:_ Lesezugriff zum Durchsuchen der Dokumentstruktur und Schreibzugriff zum Hochladen von SharePoint-Dateien in Catenda.
+Mit dem Catenda-Webpart können Sie den Dokumentbereich eines Catenda-Projekts innerhalb einer SharePoint-Seite durchsuchen. _Catenda-Zugriff erforderlich:_ Lesezugriff zum Durchsuchen der Dokumentstruktur und Schreibzugriff zum Hochladen von SharePoint-Dateien zu Catenda.
 
 ## 1. **Webpart hinzufügen**
 

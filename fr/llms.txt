@@ -95,6 +95,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Boîte à outils de formatage des publications](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8430847-boîte-à-outils-de-formatage-des-publications.md): Comment les champs où les publications peuvent être faites peuvent être formatés
 - [Captures 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10345863-captures-3d.md)
 - [Cas d'usage du déploiement du contrôle d'accès](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15644249-cas-d-usage-du-déploiement-du-contrôle-d-accès.md)
+- [Catenda AI Connect et accès aux projets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17778745-q7kwqj4b.md): Catenda AI Connect ne fonctionne qu'avec ce que chaque utilisateur peut déjà ouvrir dans Catenda Hub. L'organisation qui gère un projet décide si Catenda AI Connect peut y être utilisé et peut demander une limite pour certains ou tous ses projets.
 - [Champs personnalisés dans un topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6563368-champs-personnalisés-dans-un-topic-board.md)
 - [Champs personnalisés sur les documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9531080-champs-personnalisés-sur-les-documents.md)
 - [Code QR sur les PDF dans Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9360508-qr-code-sur-les-pdf-dans-catenda.md)
@@ -252,6 +253,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Ruban d'étapes dans une demande de validation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12495212-ruban-d-étapes-dans-une-demande-de-validation.md)
 - [Résumé des raccourcis et commandes de base les plus importants](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670267-résumé-des-raccourcis-et-commandes-de-base-les-plus-importants.md): Raccourcis et touches de fonction
 - [Révisions dans la convention de nommage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9496151-révisions-dans-la-convention-de-nommage.md)
+- [Se connecter à Catenda depuis Power BI](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17778878-8jvrzkes.md): Comment le connecteur Catenda pour Power BI se connecte à Catenda, et que faire en cas d'échec ou d'expiration de la connexion.
 - [Suivi des informations par liaison](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8294909-suivi-des-informations-par-liaison.md)
 - [Suivre les annotations avec les markups](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10210710-suivre-les-annotations-avec-les-markups.md)
 - [Sélecteur de révision](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670279-sélecteur-de-révision.md)
@@ -274,6 +276,11 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Visionneuse 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8227211-visionneuse-3d.md)
 - [Visionneuse 3D - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7744403-visionneuse-3d-catenda-site.md)
 - [Vérification des révisions via code QR sur les PDF](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9330787-vérification-des-révisions-via-code-qr-sur-les-pdf.md)
+- [À propos de Catenda AI Connect](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17778695-3abb6spn.md): Catenda AI Connect connecte l'IA que votre organisation utilise déjà, comme Claude, Microsoft Copilot ou ChatGPT, aux projets Catenda Hub auxquels elle participe. Découvrez ce que c'est, comment ça fonctionne et comment commencer.
+- [À propos de Catenda Desktop Connector pour les images système](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17778686-v0ka4j3n.md): Une version de Catenda Desktop Connector pour les organisations qui installent des logiciels dans une image de système d'exploitation, qui peut être demandée.
+- [À propos de Catenda pour Power BI (On Demand)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17778860-64t9azag.md): Catenda pour Power BI apporte les données de projet Catenda Hub dans Power BI. Une version suivante, avec des visuels et un modèle de rapport prêt à l'emploi, est disponible à la demande.
+- [À propos de l'éditeur de rapport](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17778674-dajzqjd5.md): Catenda Hub crée des rapports à partir des Sujets, Documents et approbations d'un projet. Avec l'éditeur de rapport, un projet peut avoir ses propres modèles de rapport.
+- [À propos du Portail d'archivage Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17778812-p8xcwvy0.md): Le Portail d'archivage Catenda permet aux utilisateurs de transférer les Documents et les Sujets de leur choix de Catenda Hub vers le système d'archivage de leur organisation.
 - [Échanger des sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670289-échanger-des-sujets.md)
 
 ## Tutoriels vidéo
@@ -365,6 +372,7 @@ Problèmes de connexion, problèmes de performances, support, etc.
 - [Tableaux sur Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11748020-tableaux-sur-catenda.md)
 - [Un membre standard peut-il inviter de nouveaux membres à un projet ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670321-un-membre-standard-peut-il-inviter-de-nouveaux-membres-à-un-projet.md)
 - [User Voice @ Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5925449-user-voice-catenda.md): L'engagement de Catenda à livrer de la valeur à nos utilisateurs
+- [À propos de Catenda Data Export](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/17779020-y5mhccmn.md): Catenda Data Export copie les données des projets Catenda Hub vers le stockage cloud propre d'une organisation, automatiquement.
 
 ## Nouvelles mises à jour 🎉
 

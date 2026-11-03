@@ -83,11 +83,13 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [BCF-Arbeitsablauf mit Markup-Tool in Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670335-bcf-arbeitsablauf-mit-markup-tool-in-archicad.md)
 - [BCF-Workflow mit Naviate für Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670337-bcf-workflow-mit-naviate-für-revit.md)
 - [BCF-Workflow mit NTI Tools für Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670336-bcf-workflow-mit-nti-tools-für-revit.md)
+- [Bei Catenda von Power BI anmelden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778878-8jvrzkes.md): Wie sich der Catenda-Connector für Power BI bei Catenda anmeldet und was zu tun ist, wenn die Anmeldung fehlschlägt oder abläuft.
 - [Benutzerdefinierte Felder in Dokumenten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9531080-benutzerdefinierte-felder-in-dokumenten.md)
 - [Benutzerdefinierte Felder in einem topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6563368-benutzerdefinierte-felder-in-einem-topic-board.md)
 - [Berechnung der Zugriffsstufen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/15644094-berechnung-der-zugriffsstufen.md)
 - [Berichterstattungsseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12303098-berichterstattungsseite.md)
 - [Boards-Seite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9413644-boards-seite.md)
+- [Catenda AI Connect und Projektzugriff](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778745-q7kwqj4b.md): Catenda AI Connect nutzt nur, was jeder Benutzer in Catenda Hub bereits öffnen kann. Die Organisation, die ein Projekt verwaltet, entscheidet, ob Catenda AI Connect dort zulässig ist, und kann eine Beschränkung für einige oder alle Projekte anfordern.
 - [Catenda Archicad Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5519276-catenda-archicad-plugin.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8358861-catenda-desktop-connector.md)
 - [Catenda Navisworks-Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5085987-catenda-hub-navisworks-plugin.md)
@@ -275,6 +277,11 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Zusammenfassung der wichtigsten Tastenkombinationen und grundlegenden Steuerelemente](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670267-zusammenfassung-der-wichtigsten-tastenkombinationen-und-grundlegenden-steuerelemente.md): Tastenkombinationen und Tastaturbelegungen
 - [Zusammengeführte Datei in Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7120416-zusammengeführte-datei-in-navisworks.md)
 - [Ändern des Namens Ihres Projekts](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670256-ändern-des-namens-ihres-projekts.md)
+- [Über Catenda AI Connect](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778695-3abb6spn.md): Catenda AI Connect verbindet die KI, die eine Organisation bereits nutzt, wie Claude, Microsoft Copilot oder ChatGPT, mit den Catenda Hub-Projekten, an denen sie teilnimmt. Was es ist, wie es funktioniert und wie man damit anfängt.
+- [Über Catenda Desktop Connector für Systemimages](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778686-v0ka4j3n.md): Eine Version des Catenda Desktop Connector für Organisationen, die Software in einem Betriebssystem-Image installieren, die angefordert werden kann.
+- [Über Catenda für Power BI (On Demand)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778860-64t9azag.md): Catenda für Power BI bringt Catenda Hub-Projektdaten in Power BI. Eine nächste Version mit Visuals und einer vorgefertigten Berichtsvorlage ist auf Anfrage verfügbar.
+- [Über das Catenda Archiving Portal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778812-p8xcwvy0.md): Das Catenda Archiving Portal ermöglicht es Benutzern, die von ihnen ausgewählten Dokumente und Themen aus Catenda Hub in ihr Archivierungssystem der Organisation zu übertragen.
+- [Über den Report-Editor](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778674-dajzqjd5.md): Catenda Hub erstellt Berichte aus den Themen, Dokumenten und Genehmigungen eines Projekts. Mit dem Report-Editor kann ein Projekt über eigene Report-Vorlagen verfügen.
 
 ## Video Tutorials
 
@@ -367,6 +374,7 @@ FAQ zu Catenda
 - [Wie mache ich andere Modelle halbtransparent?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670328-wie-kann-ich-ein-model-vollständig-anzeigen-und-alle-anderen-models-halbtransparent-machen.md)
 - [Wo kann ich die GUID für das IFC-Objekt finden?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670333-wo-kann-ich-die-guid-für-das-ifc-objekt-finden.md)
 - [Wo man Benachrichtigungen findet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670261-wo-man-benachrichtigungen-findet.md)
+- [Über Catenda Data Export](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17779020-y5mhccmn.md): Catenda Data Export kopiert die Daten von Catenda Hub-Projekten automatisch in den Cloud-Speicher einer Organisation.
 
 ## Neueste Updates 🎉
 

@@ -87,6 +87,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Bruk av saksmaler i en saksliste](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14075921-bruk-av-saksmaler-i-en-saksliste.md): Bruk en generell saksmal ved opprettelse av sak
 - [Bruk av tilgangskontroll – brukstilfeller](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15644249-bruk-av-tilgangskontroll-brukstilfeller.md)
 - [Bruke saksmaler med gjennomganger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14078683-bruke-saksmaler-med-gjennomganger.md): Bruk en gjennomgangssaksmal på en gjennomgangarbeidsflytmal
+- [Catenda AI Connect og prosjekttilgang](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17778745-q7kwqj4b.md): Catenda AI Connect fungerer bare med det hver bruker allerede kan åpne i Catenda Hub. Organisasjonen som kjører et prosjekt, bestemmer om Catenda AI Connect kan brukes på det prosjektet, og kan be om en grense for noen eller alle prosjektene.
 - [Catenda Archicad-plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5519276-catenda-hub-archicad-plugin.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8358861-skrivebordstilkoblingen-desktop-connector.md)
 - [Catenda Navisworks-plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5085987-catenda-hub-navisworks-plugin.md)
@@ -176,6 +177,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Lenker-bibliotek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670254-lenker-bibliotek.md)
 - [Lenking av dokumenter til objekter](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670297-lenking-av-dokumenter-til-objekter.md)
 - [Listevisning i en saksliste](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6941232-listevisning-i-en-saksliste.md)
+- [Logg på Catenda fra Power BI](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17778878-8jvrzkes.md): Hvordan Catenda-koblingen for Power BI logger på Catenda, og hva du skal gjøre når påloggingen mislykkes eller utløper.
 - [Mappekonfigurasjon - Dokumentinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12302595-mappekonfigurasjon-dokumentinnstillinger.md)
 - [Mapper og Dokumenter tilgangstyring](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring.md): Tilgangskontrollnivåer for Dokumenter
 - [Matrise for gjennomgangsoperasjoner og handlinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/16195101-matrise-for-gjennomgangsoperasjoner-og-handlinger.md): Detaljert operasjonell veiledning som beskriver tillatelser for visning og utføring av handlinger i tvers av utformings-, vurderings- og sluttgjennomgangsfaser, strukturert etter pre-submittering og post-submittering livssyklus-stadier.
@@ -200,6 +202,11 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Navnekonvensjonsside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7832559-navnekonvensjonsside.md)
 - [Ny statusarbeidsflyt - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9874698-ny-statusarbeidsflyt-iso-19650.md)
 - [Objektside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12352750-objektside.md)
+- [Om Catenda AI Connect](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17778695-3abb6spn.md): Catenda AI Connect kobler AI-verktøyene som organisasjonen allerede bruker, som Claude, Microsoft Copilot eller ChatGPT, til Catenda Hub-prosjektene den deltar i. Hva det er, hvordan det fungerer og hvordan du kommer i gang.
+- [Om Catenda Archiving Portal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17778812-p8xcwvy0.md): Catenda Archiving Portal lar folk overføre dokumenter og saker de velger fra Catenda Hub til organisasjonens arkivsystem.
+- [Om Catenda Desktop Connector for System Images](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17778686-v0ka4j3n.md): En versjon av Catenda Desktop Connector for organisasjoner som installerer programvare i et operativsystemavbilde, som kan forespørres.
+- [Om Catenda for Power BI (On Demand)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17778860-64t9azag.md): Catenda for Power BI bringer Catenda Hub-prosjektdata til Power BI. En neste versjon, med visuelle elementer og en ferdigpreparet rapportmal, er tilgjengelig on demand.
+- [Om rapportverktøyet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17778674-dajzqjd5.md): Catenda Hub genererer rapporter fra en prosjekts saker, dokumenter og gjennomganger. Med rapportverktøyet kan et prosjekt ha sine egne rapportmaler.
 - [Operasjoner på dokumentbibliotekselementer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15647394-operasjoner-på-dokumentbibliotekselementer.md)
 - [Opprett en ny sak](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670268-opprett-en-ny-sak.md): Dette beskriver alle trinnene for å opprette en sak
 - [Opprett miniatyrbilde for modellen din](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670257-opprett-miniatyrbilde-for-modellen-din.md)
@@ -360,6 +367,7 @@ Her finner du svar på spørsmål som mange brukere har
 - [Maskinvareanbefalinger - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17596478-maskinvareanbefalinger-catenda-site.md): Finn anbefalinger for enheter og tips for visning av 3D-modeller i mobilappen Catenda Site på telefoner og nettbrett.
 - [Nettverksanbefaling](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13927294-nettverksanbefaling.md)
 - [Ofte stilte spørsmål om egendefinerte felt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11384331-ofte-stilte-spørsmål-om-egendefinerte-felt.md)
+- [Om Catenda Data Export](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/17779020-y5mhccmn.md): Catenda Data Export kopierer data fra Catenda Hub-prosjekter til organisasjonens eget skylagring, automatisk.
 - [Organisasjonsverktøy FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10475849-organisasjonsverktøy-faq.md)
 - [Plassering og funksjonalitet for støtteknappen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8894066-plassering-og-funksjonalitet-for-støtteknappen.md)
 - [Prosjektsikkerhet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8263256-prosjektsikkerhet.md)

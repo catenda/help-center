@@ -50,7 +50,7 @@ Klik [hier](https://support.catenda.com/nl/articles/4670288-acties-in-de-documen
 
 ### 3.2 **Rijinhoud**
 
-**Toegang** Rijen op de rapportenpagina worden weergegeven op basis van de toegang tot het element. _Vereiste toegang -_ Lezen
+**Toegang** Rijen op de rapportenpagina worden weergegeven op basis van toegang tot het element. _Vereiste toegang:_ Lezen
 
 **Mappenrij** Als u de inhoud van een mappenrij opent, verandert de tabel zodat deze de inhoud van die map in de rapportentabel weergeeft.
 
@@ -62,15 +62,15 @@ Als u de inhoud van een rapportrij met alleen conceptrevisies opent, wordt het [
 
 ### 3.4 **Rijinhoud met statuswerkstroom - Werkruimte-tabblad**
 
-**Toegang** Rijen op de rapportenpagina worden weergegeven op basis van de toegang tot het element. Met toegang tot het bekijken van gedeelde revisies wordt de meest recente revisie weergegeven. _Vereiste toegang_ - Toegang tot het bekijken van gedeelde revisies in het rapport
+**Toegang** Rijen op de rapportenpagina worden weergegeven op basis van toegang tot het element. Met toegang tot het bekijken van gedeelde revisies wordt de laatste revision weergegeven. _Vereiste toegang:_ Toegang tot het bekijken van gedeelde revisies in het rapport
 
-Zonder toegang tot het bekijken van gedeelde revisies wordt de meest recente gepubliceerde revisie weergegeven. Ook als er meer recente gedeelde revisies zijn. _Vereiste toegang -_ Leestoegang tot het rapport
+Zonder toegang tot het bekijken van gedeelde revisies wordt de meest recente gepubliceerde revision weergegeven. Zelfs als er recentere gedeelde revisies zijn. _Vereiste toegang:_ Leestoegang tot het rapport
 
 **Rapportinhoud** Als u de inhoud van een rapportrij in het werkruimte-tabblad opent, wordt het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen) van de meest recente gedeelde revisie geopend, zelfs als revisies in het rapport eerder zijn gepubliceerd.
 
 ### 3.5 **Rijinhoud met statuswerkstroom -** Tabblad Gepubliceerd
 
-**Toegang** Rijen op de rapportenpagina worden weergegeven op basis van de toegang tot het element. Rapportrijen met minstens één gepubliceerde revisie worden weergegeven. _Vereiste toegang -_ Lezen
+**Toegang** Rijen op de rapportenpagina worden weergegeven op basis van toegang tot het element. Raprijen met ten minste één gepubliceerde revision worden weergegeven. _Vereiste toegang:_ Lezen
 
 **Rapportinhoud** Als u de inhoud van een rapportrij in het gepubliceerde tabblad opent, wordt het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen) van de meest recente gepubliceerde revisie van het rapport geopend, zelfs als er nieuwere gedeelde revisies zijn.
 

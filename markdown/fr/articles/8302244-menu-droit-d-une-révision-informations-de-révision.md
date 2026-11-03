@@ -48,6 +48,8 @@ Si un document ne se trouve pas dans un dossier de convention de nomenclature, i
 
 _Accès requis :_ Accès en écriture au document.
 
+> **Remarque :** Les noms de documents ne peuvent pas contenir les caractères suivants : `< > : " / \ | ? *` Si le nouveau nom contient l'un de ces caractères, il ne peut pas être enregistré.
+
 ### 2.3 **Remplir les champs**
 
 Voici à quoi peuvent ressembler les champs qui peuvent être remplis pour l'ensemble du document :

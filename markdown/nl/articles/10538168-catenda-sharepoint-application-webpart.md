@@ -1,6 +1,6 @@
 # Catenda SharePoint Application - Webpart
 
-Met de Catenda webpart kunt u de sectie Documenten van een Catenda-project binnen een SharePoint-pagina bekijken. _Catenda-toegang vereist:_ Leestoegang om de documentstructuur te bekijken en schrijftoegang om SharePoint-bestanden naar Catenda te uploaden.
+Met de Catenda webpart kunt u de documentsectie van een Catendaproject op een SharePoint-pagina bekijken. _Catenda-toegang vereist:_ Lezen om de documentstructuur te bekijken en schrijven om SharePoint-bestanden naar Catenda te uploaden.
 
 ## 1. **De webpart toevoegen**
 

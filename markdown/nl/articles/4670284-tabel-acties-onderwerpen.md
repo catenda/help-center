@@ -50,11 +50,11 @@ De actie onderwerpen exporteren opent de [dialoogvenster onderwerpen exporteren]
 
 ### 2.3 **Rapport maken**
 
-Het rapportagehulpmiddel kan per project basis worden geactiveerd. Met de actie rapport maken kunt u een rapport van uw geselecteerde onderwerpen maken. _Vereiste toegang:_ Leestoegang tot het onderwerpenbord
+Het rapportinginstrument kan per project worden geactiveerd. Met de actie rapport maken kunt u een rapport van uw geselecteerde Topics maken. Deze actie is alleen beschikbaar voor projecten waar de rapportpagina is ingeschakeld. _Vereiste toegang:_ Leestoegang tot de Topic board
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Deze optie is beschikbaar wanneer onderwerpen van meerdere borden zijn geselecteerd. Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) om meer te lezen over het maken van rapporten.
+Deze optie is beschikbaar wanneer Topics van meerdere boards zijn geselecteerd. Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor rapporteditor-klanten)_ voor meer informatie over het maken van rapporten.
 
 ### 2.4 **Volgen**
 

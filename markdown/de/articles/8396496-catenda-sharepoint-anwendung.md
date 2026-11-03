@@ -46,7 +46,7 @@ Wenn ein Dokument mit demselben Namen wie Ihre Datei noch nicht im Ordner vorhan
 
 > **Hinweis:** Es ist nur möglich, Dokumente zu veröffentlichen, aber keine Entwürfe hochzuladen
 
-Nach der Veröffentlichung einer Datei können Benutzer die Datei verschieben, umbenennen und löschen. _Catenda-Zugriff erforderlich:_ Vollzugriff, normalerweise für Benutzer wie den Verleger oder einen Administrator verfügbar. Das Ändern der Datei in Catenda ändert nichts in SharePoint. Wenn sich die Datei in SharePoint ändert, ändert sich in Catenda nichts.
+Nach der Veröffentlichung einer Datei können Benutzer die Datei verschieben, umbenennen und löschen. _Catenda-Zugriff erforderlich:_ Vollzugriff, normalerweise für Benutzer wie den Herausgeber oder einen Administrator vergeben. Das Ändern der Datei in Catenda wirkt sich nicht auf SharePoint aus. Ebenso hat eine Änderung der Datei in SharePoint keine Auswirkungen auf Catenda.
 
 ## 2. **Catenda Webpart**
 

@@ -2,7 +2,7 @@
 
 > **Remarque 1 :** La page des rapports est une fonctionnalité optionnelle qui peut être activée pour les projets en cours. **Remarque 2 :** Les nouveaux projets créés à partir d'un projet de gabarit pour lequel cette fonctionnalité est activée n'ont pas cette fonctionnalité activée.
 
-La page des gabarits de rapports se trouve comme sous-page de la [page des rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) dans le menu de navigation de gauche. Sur la page des gabarits de rapports, les gabarits de documents et de Sujets disponibles pour le projet peuvent être gérés. _Accès requis :_ Administrateur
+La page des modèles de rapports se trouve comme sous-page de la [page des rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) dans le menu de navigation de gauche. Sur la page des modèles de rapports, les modèles de documents, de Sujets et d'approbation disponibles pour le projet peuvent être gérés. _Accès requis :_ Administrateur
 
 Voici à quoi la page des gabarits de rapports peut ressembler :
 
@@ -12,7 +12,9 @@ Voici à quoi la page des gabarits de rapports peut ressembler :
 
 Les actions de la page des gabarits de rapports se trouvent en cliquant sur le menu d'action en haut à droite de la page des gabarits de rapports. Voici à quoi les actions de la page des gabarits de rapports peuvent ressembler :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-actions-on-the-report-templates-page.png)
+![Le menu d'actions de la page des modèles de rapports, avec Nouveau modèle de Sujets, Nouveau modèle de Documents et Nouveau modèle d'approbation](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
+
+Ces actions créent un modèle complètement nouveau, en commençant par une page vide. Il est recommandé de commencer par l'un des modèles de rapports prêts à l'emploi à la place, et de l'adapter au projet. Ils peuvent être téléchargés à partir de [Modèles de rapports prêts à l'emploi](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(clients de l'éditeur de rapports uniquement)_.
 
 ### 1.1 **Nouveau gabarit de Sujets**
 
@@ -21,6 +23,10 @@ Utilisez l'action de nouveau gabarit de Sujets pour créer un nouveau gabarit de
 ### 1.2 **Nouveau gabarit de Document**
 
 Utilisez l'action de nouveau gabarit de Document pour créer un nouveau gabarit de Document
+
+### 1.3 **Nouveau gabarit - Validations**
+
+Utilisez l'action du nouveau modèle d'approbation pour créer un nouveau modèle d'approbation, pour les rapports sur les demandes d'approbation.
 
 ## 2. **Filtrer par nom**
 
@@ -52,7 +58,7 @@ _Créé par_ - _Par défaut_ Le créateur du gabarit de rapport
 
 Créé - _Par défaut_ L'heure et la date de création du gabarit de Sujets
 
-Type - Par défaut Le type de gabarit de rapport, soit Documents soit Sujets.
+Type - Par défaut Le type de modèle de rapport : Documents, Sujets ou Approbations.
 
 Menu d'action - Par défaut Cliquez sur le menu d'action dans la colonne du menu d'action pour ouvrir le menu d'action de ligne. Voici à quoi le menu d'action de ligne de gabarit de rapport peut ressembler :
 

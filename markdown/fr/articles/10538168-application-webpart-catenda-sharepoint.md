@@ -1,6 +1,6 @@
 # Application Webpart Catenda SharePoint
 
-Avec le webpart Catenda, vous pouvez parcourir la section Documents d'un projet Catenda au sein d'une page SharePoint. _Accès Catenda requis :_ Lecture pour parcourir la structure des Documents et écriture pour télécharger des fichiers SharePoint vers Catenda.
+Avec le webpart Catenda, vous pouvez parcourir la section Documents d'un projet Catenda dans une page SharePoint. _Accès Catenda requis :_ Accès en lecture pour parcourir la structure des Documents et accès en écriture pour télécharger des fichiers SharePoint vers Catenda.
 
 ## 1. **Ajout du webpart**
 

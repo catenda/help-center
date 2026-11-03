@@ -50,11 +50,11 @@ Eksporter saker-handlingen vil åpne [eksportdialogboksen for saker](https://sup
 
 ### 2.3 **Lag rapport**
 
-Rapporteringsverktøyet kan monteres på basis per prosjekt. Med lag rapport-handlingen kan du lage en rapport over de valgte sakene dine. _Tilgang påkrevd:_ Lesetilgang til en saksliste
+Rapporteringsverktøyet kan monteres på basis per prosjekt. Med handlingen Lag rapport kan du lage en rapport over de valgte sakene dine. Denne handlingen er bare tilgjengelig på prosjekter der rapportsiden er aktivert. _Tilgang påkrevd:_ Lesetilgang til en saksliste
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å lære mer om å lage rapporter.
+Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun rapporteditor-kunder)_ for å lese mer om å lage rapporter.
 
 ### 2.4 **Følg**
 

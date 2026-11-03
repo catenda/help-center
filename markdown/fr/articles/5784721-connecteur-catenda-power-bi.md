@@ -12,7 +12,7 @@ Lorsque le Connecteur Catenda Desktop est installé sur Windows, ses fichiers d'
 
 ### 1.1 **Désinstallation**
 
-Pour désinstaller le plugin, accédez au dossier d'installation et exécutez le fichier suivant :
+Pour désinstaller le plug-in, accédez au dossier d'installation et exécutez le fichier suivant :
 
 `uninstall.exe`
 
@@ -20,11 +20,11 @@ Si le dossier a été supprimé et que le plugin est toujours actif, veuillez r�
 
 ## 2. **Obtenir les données et se connecter**
 
-Pour créer une connexion de PowerBI à la base de données Catenda HUB, procédez comme suit : Ouvrez PowerBI et cliquez sur "Obtenir les données d'une autre source" au milieu de l'écran ou utilisez l'action Obtenir les données dans le menu d'accueil du ruban supérieur. Le ruban peut devoir être développé pour voir l'action.
+Pour créer une connexion entre PowerBI et la base de données Catenda HUB, procédez comme suit : Ouvrez PowerBI et cliquez sur « Obtenir les données à partir d'une autre source » au centre de l'écran ou utilisez l'action Obtenir les données dans le menu Accueil du ruban supérieur. Le ruban peut devoir être développé pour voir l'action.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/01-get-data-and-connect.png)
 
-Sélectionnez la source cible sous Autre --> Catenda. Utilisez "_Connecter_" pour établir la connexion à la base de données.
+Sélectionnez la source cible sous Autre --> Catenda. Utilisez « _Connexion_ » pour établir la connexion à la base de données. La connexion à Catenda et les actions à effectuer en cas d'échec de connexion sont décrites dans [Se connecter à Catenda à partir de Power BI](https://support.catenda.com/fr/articles/17778878-se-connecter-a-catenda-depuis-power-bi).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/02-get-data-and-connect.png)
 
@@ -34,35 +34,25 @@ Un navigateur s'ouvre dans lequel tous les projets auxquels vous avez accès son
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 
-Vous pourrez choisir parmi les ensembles de données suivants : _Documents_
+Les tableaux suivants peuvent être chargés :
 
-**Étiquette Documents**
-
-**Intitulé du champ**
-
-**Membre**
-
-**Modèle**
-
-**Révision du modèle**
-
-**Produits**
-
-**Équipe**
-
-**Membres de l'équipe**
-
-**Jeton**
-
-**Sujet**
-
-**Liste de sujets**
-
-**Étiquette Sujet**
-
-**Statut du sujet**
-
-**Type de sujet**
+| Tableau                 | Contenu                                                                |
+| ----------------------- | ---------------------------------------------------------------------- |
+| Documents               | Les documents du projet.                               |
+| Étiquettes de documents | Les étiquettes de chaque document.                     |
+| Intitulé du champ       | Les étiquettes utilisées dans le projet.               |
+| Membre                  | Les membres du projet.                                 |
+| Modèle                  | Les modèles du projet.                                 |
+| Révision du modèle      | Les révisions de chaque modèle.                        |
+| Produits                | Les objets dans les modèles.                           |
+| L'équipe                | Les équipes du projet.                                 |
+| Membres de l'équipe     | Les membres de chaque équipe.                          |
+| Jeton                   | Un jeton de visionneuse pour le projet.                |
+| Sujet                   | Les sujets du projet.                                  |
+| Liste de sujets         | Les listes de sujets du projet.                        |
+| Étiquette de sujet      | Les étiquettes de chaque sujet.                        |
+| Statut du sujet         | Les statuts utilisés sur les listes de sujets.         |
+| Type de sujet           | Les types de sujets utilisés sur les listes de sujets. |
 
 Après avoir cliqué sur Charger, le connecteur PowerBI commencera à récupérer les données du sujet à partir de l'API.
 

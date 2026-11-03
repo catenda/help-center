@@ -26,7 +26,7 @@ Naarmate nieuwe functies uitrollen en bugs worden opgelost, worden artikelen bij
   - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen)
   - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen)
 - Categorieoverschrijdend
-  - [Rapportactie maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken)
+  - [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van de rapporteditor)_
   - [Koppelingsactie kopiëren](https://support.catenda.com/nl/articles/14323982-koppelingen-actie)
 - Catenda-plugins en integraties
   - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/nl/articles/13449051-catenda-revit-plugin-changelog-1-0-15)

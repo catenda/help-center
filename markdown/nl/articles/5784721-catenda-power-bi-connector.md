@@ -12,7 +12,7 @@ Wanneer de Catenda Desktop Connector op Windows wordt geïnstalleerd, verschijne
 
 ### 1.1 **Verwijderen**
 
-Ga naar de installatiemap om de plug-in te verwijderen en voer het volgende bestand uit:
+Ga naar de installatiemap om de plugin te verwijderen en voer het volgende bestand uit:
 
 `uninstall.exe`
 
@@ -20,11 +20,11 @@ Als de map is verwijderd en de plug-in nog steeds actief is, installeert u de pl
 
 ## 2. **Gegevens ophalen en verbinden**
 
-Ga als volgt te werk om een verbinding van PowerBI naar de Catenda HUB-database tot stand te brengen: Open PowerBI en klik op "Gegevens ophalen uit een ander bron" in het midden van het scherm of gebruik de actie Gegevens ophalen in het startmenu van het bovenste lint. Het lint moet mogelijk worden uitgevouwen om de actie te zien.
+Volg deze stappen om een verbinding van PowerBI naar de Catenda HUB-database tot stand te brengen: Open PowerBI en klik op "Gegevens uit een ander bron ophalen" in het midden van het scherm of gebruik de actie Gegevens ophalen in het startmenu van het lint bovenaan. Het lint moet mogelijk worden uitgebreid om de actie weer te geven.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/01-get-data-and-connect.png)
 
-Selecteer de doelbron onder Overig --> Catenda. Gebruik "_Verbinden_" om de verbinding met de database tot stand te brengen.
+Selecteer de doelbron onder Overige --> Catenda. Gebruik "_Verbinden_" om de verbinding met de database tot stand te brengen. Aanmelden bij Catenda en wat u moet doen wanneer aanmelden mislukt, worden beschreven in [Aanmelden bij Catenda vanuit Power BI](https://support.catenda.com/nl/articles/17778878-aanmelden-bij-catenda-vanuit-power-bi).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/02-get-data-and-connect.png)
 
@@ -34,35 +34,25 @@ Een navigator wordt geopend waarin alle projecten waartoe u toegang hebt, worden
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 
-Hier kunt u kiezen uit de volgende gegevenssets: _Documenten_
+De volgende tabellen kunnen worden geladen:
 
-**Document labels**
-
-**Label**
-
-**Gebruiker**
-
-**Model**
-
-**Revisie van het model**
-
-**Producten**
-
-**Team**
-
-**Teamleden**
-
-**Token**
-
-**Topic**
-
-**Topic Board**
-
-**Topic Label**
-
-**Topic Status**
-
-**Topic Type**
+| Tabel          | Inhoud                                                                 |
+| -------------- | ---------------------------------------------------------------------- |
+| Documenten     | De Documenten in het project.                          |
+| Document Label | De Labels op elk Document.                             |
+| Label          | De Labels die in het project worden gebruikt.          |
+| Gebruiker      | De Leden van het project.                              |
+| Model          | De modellen in het project.                            |
+| Modelrevisie   | De revisies van elk model.                             |
+| Producten      | De objecten in de modellen.                            |
+| Team           | De Teams in het project.                               |
+| Teamleden      | De Leden van elk Team.                                 |
+| Token          | Een Viewer-token voor het project.                     |
+| Topic          | De Topics in het project.                              |
+| Topicbord      | De Topic boards in het project.                        |
+| Topicliabel    | De Labels op elk Topic.                                |
+| Topicstatus    | De Statussen die op de Topic boards worden gebruikt.   |
+| Topictype      | De Topic-types die op de Topic boards worden gebruikt. |
 
 Nadat u op Laden hebt geklikt, begint de PowerBI-connector met het ophalen van de topicgegevens uit de API.
 
