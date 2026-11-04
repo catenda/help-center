@@ -621,7 +621,8 @@ Der Name des einladenden Benutzers und die E-Mail-Adresse des Benutzers werden i
 
 Die E-Mail wird von [noreply@catenda.com](mailto:noreply@catenda.com) gesendet
 
-> **Hinweis 1:** Eine Projekteinladung kann mehrmals gesendet werden. Alle E-Mails enthalten denselben Link, sodass sie alle funktionieren, es sei denn, die Einladung wurde widerrufen. **Hinweis 2:** Sie können nicht auf die E-Mail [noreply@catenda.com](mailto:noreply@catenda.com) antworten. Wenn Sie Fragen zur Einladung haben, müssen Sie an die E-Mail-Adresse der einladenden Person antworten oder [support@catenda.com](mailto:support@catenda.com) kontaktieren
+> **Hinweis 1:** Eine Projekteinladung kann mehrmals versendet werden. Alle E-Mails enthalten denselben Link, sodass alle funktionieren, es sei denn, die Einladung wurde widerrufen.
+> **Hinweis 2:** Sie können nicht auf die E-Mail [noreply@catenda.com](mailto:noreply@catenda.com) antworten. Wenn Sie Fragen zur Einladung haben, müssen Sie dem Absender der Einladung antworten oder sich an [support@catenda.com](mailto:support@catenda.com) wenden
 
 ## 2. Einladung annehmen
 
@@ -1476,8 +1477,8 @@ Nach dem Verbinden eines MFA-Codes können Sie den Kontonamen des Codes sicher b
 **Deaktivieren und Reaktivieren** Es ist nur möglich, eine MFA-App-Code-Kopplung gleichzeitig zu verwenden. Wenn Sie zu einer anderen Code-Kopplung wechseln möchten, möglicherweise weil Ihre aktuelle kompromittiert wurde, führen Sie diese Schritte aus: Sie sollten diese Methode auch verwenden, wenn Sie die App ändern möchten, die Sie für MFA verwenden.
 
 1. Deaktivieren Sie Ihre MFA auf der [Authentifizierungsseite](https://hub.catenda.com/account/authentication)
-1. Bereiten Sie die App vor, die Sie verwenden möchten, um Ihre MFA erneut zu verbinden
-1. Generieren Sie ein neues Code-Paar durch Scannen des QR-Codes wie im [Aktivierungsbereich](#h_9e13fd06f5)
+2. Bereiten Sie die App vor, die Sie verwenden möchten, um Ihre MFA erneut zu verbinden
+3. Generieren Sie ein neues Code-Paar durch Scannen des QR-Codes wie im [Aktivierungsbereich](#h_9e13fd06f5)
 
 > **Hinweis:** Seien Sie vorsichtig mit dieser Methode, da Ihr Konto während der Deaktivierung vorübergehend anfällig ist und Sie während dieser Zeit nicht auf Projekte zugreifen können, für die MFA erforderlich ist.
 
@@ -1486,29 +1487,28 @@ Nach dem Verbinden eines MFA-Codes können Sie den Kontonamen des Codes sicher b
 **Google Authenticator** Altes Gerät:
 
 1. Tippen Sie oben rechts auf das Hamburger-Menü
-1. Tippen Sie auf Konten exportieren
-1. Wählen Sie die Konten aus, die Sie exportieren möchten
+2. Tippen Sie auf Konten exportieren
+3. Wählen Sie die Konten aus, die Sie exportieren möchten
 
 Neues Gerät:
 
 1. Tippen Sie oben rechts auf das Hamburger-Menü
-1. Tippen Sie auf Konten importieren
-1. Tippen Sie auf QR-Code scannen
-1. Scannen Sie den QR-Code, der auf dem alten Gerät angezeigt wird, wenn Sie den Exportvorgang durchlaufen haben.
+2. Tippen Sie auf Konten importieren
+3. Tippen Sie auf QR-Code scannen
+4. Scannen Sie den QR-Code, der auf dem alten Gerät angezeigt wird, wenn Sie den Exportvorgang durchlaufen haben.
 
 **Microsoft Authenticator** Altes Gerät:
 
 1. Tippen Sie oben rechts auf das Hamburger-Menü
-1. Sicherung aktivieren
+2. Sicherung aktivieren
 
 Neues Gerät:
 
 1. Installieren und öffnen Sie die Microsoft Authenticator-App auf Ihrem neuen Gerät
-1. Tippen Sie auf "Wiederherstellung starten."
+2. Tippen Sie auf "Wiederherstellung starten."
 
-> **Hinweis 1:** Richten Sie keine Konten mit Microsoft Authenticator ein, bis Sie das Wiederherstellungstool verwendet haben, da es übereinstimmende Site-Konten überschreibt.
-
-> **Hinweis 2:** Diese Methode erfordert, dass Sie Ihre MFA-Codes sichern, was bedeutet, dass sie im Cloud-Service Ihres App-Anbieters gespeichert sind. Verwenden Sie diese Methode nur, wenn Sie dem Sicherungsdienst Ihres App-Anbieters vertrauen. Wenn nicht, ist es besser, zu deaktivieren und zu reaktivieren.
+> **Hinweis 1:** Richten Sie keine Konten mit Microsoft Authenticator ein, bis Sie das Wiederherstellungstool verwendet haben, da es übereinstimmende Konten auf Websites überschreibt.
+> **Hinweis 2:** Diese Methode erfordert, dass Sie Ihre MFA-Codes sichern, was bedeutet, dass sie im Cloud-Dienst Ihres App-Anbieters gespeichert sind. Verwenden Sie diese Methode nur, wenn Sie dem Backup-Dienst Ihres App-Anbieters vertrauen. Wenn nicht, sollten Sie lieber die Deaktivierung und Reaktivierung durchführen.
 
 ## 4. **MFA deaktivieren**
 
@@ -2716,7 +2716,9 @@ Mit [aktivierten Markern](https://support.catenda.com/de/articles/4854537-2d-vie
 
 Wenn ausgewählt, werden die Themennummer und der Titel angezeigt. Tippen Sie auf den Pfeil, um das Thema im Themenmenü zu öffnen. Klicken Sie [hier](https://support.catenda.com/de/articles/4854523-2d-position-von-themen), um mehr über die 2D-Lage von Themen zu erfahren.
 
-> **Warnung 1:** Wenn das Themenmenü geöffnet wird, werden Marker aus den ersten 250 Themen im Ergebnis aktualisiert und gespeichert. Wenn der 2D-Viewer geöffnet wird, werden Marker von zuvor aktualisierten Themen angezeigt, die dem Ergebnis im Themenmenü entsprechen. Beachten Sie, dass Marker von Themen über andere Geschosse als das aktive Geschoss verteilt sein können. **Warnung 2:** Wenn sich 250+ Themen im Themenmenü-Ergebnis befinden, wurden Marker möglicherweise nicht geladen oder sind veraltet. Scrollen Sie in der Liste nach unten, um ihre Marker anzuzeigen/zu aktualisieren. Das Filtern des Boards, damit weniger Themen im Ergebnis enthalten sind, kann auch dazu beitragen, dass Marker, die zu Themen im gefilterten Ergebnis gehören, zusätzlich aktualisiert und angezeigt werden. **Warnung 3:** Wenn Sie sich aus der Anwendung abmelden und sich erneut anmelden, geht der Verlauf darüber, welche Themen geladen wurden, verloren und Themen, die zuvor geladen wurden, müssen möglicherweise erneut geladen werden.
+> **Warnung 1:** Wenn das Themenmenü geöffnet wird, werden Marker aus den ersten 250 Themen in das Ergebnis aktualisiert und gespeichert. Wenn der 2D Viewer geöffnet wird, werden Marker aus allen zuvor aktualisierten Themen angezeigt, die mit dem Ergebnis im Themenmenü übereinstimmen. Beachten Sie, dass Marker aus Themen möglicherweise auf anderen Ebenen als der aktiven Ebene verteilt sind.
+> **Warnung 2:** Wenn das Themenmenü 250+ Themen im Ergebnis enthält, wurden Marker möglicherweise nicht geladen oder sind veraltet. Scrollen Sie in der Liste nach unten, um ihre Marker anzuzeigen/zu aktualisieren. Das Filtern des Boards, sodass weniger Themen im Ergebnis vorhanden sind, kann auch dazu beitragen, dass Marker, die zu Themen im gefilterten Ergebnis gehören, zusätzlich aktualisiert und angezeigt werden.
+> **Warnung 3:** Wenn Sie sich von der Anwendung abmelden und sich erneut anmelden, geht die Historie, welche Themen geladen wurden, verloren und Themen, die zuvor geladen wurden, müssen möglicherweise erneut geladen werden.
 
 ### 1.3 **Symbolleiste**
 
@@ -3251,7 +3253,8 @@ Um zu ändern, welche Modelle geladen werden, klicken Sie auf die Schaltfläche 
 
 **Modelle laden** Laden Sie die Modelle aus dem Schnappschuss zusätzlich zu den Modellen, die bereits im Viewer vorhanden sind.
 
-> **Hinweis 1:** In diesem Menü verknüpfen Sie den Schnappschuss nur mit Catenda-Modellen. Dies ändert den Inhalt der BCF nicht. **Hinweis 2:** Je nach Sichtbarkeitseinstellungen des Schnappschussobjekts können hinzugefügte Modelle vollständig ausgeblendet sein. Auch wenn sie nicht sichtbar sind, sollten Sie sehen, dass sie geladen sind, wenn das Thema abgespielt wird.
+> **Hinweis 1:** In diesem Menü verknüpfen Sie den Schnappschuss nur mit Catenda-Modellen. Der Inhalt der BCF wird nicht geändert.
+> **Hinweis 2:** Je nach den Objektsichtbarkeitseinstellungen des Schnappschusses können hinzugefügte Modelle vollständig verborgen sein. Auch wenn sie nicht sichtbar sind, sollten Sie sehen, dass sie geladen werden, wenn das Thema wiedergegeben wird.
 
 ## 7. **Schnappschusszugriff**
 
@@ -4194,7 +4197,8 @@ Mit der Aktion "Folgen" kann das ausgewählte Thema gefolgt werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
 
-> **Hinweis 1:** Wenn Sie zuvor [zugewiesen](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas#h_0a91fa8dd9), als [Anfragender](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas#h_1aea0990a7) festgelegt oder [erwähnt](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung#h_2481ad1c8c) wurden, werden Sie dem Thema automatisch folgen. **Hinweis 2:** Wenn ein Thema, dem Sie folgen, auf ein Board verschoben wird, auf das Sie keinen Zugriff haben, folgen Sie ihm weiterhin, erhalten aber keine Benachrichtigungen mehr darüber.
+> **Hinweis 1:** Wenn Sie zuvor [zugewiesen](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas#h_0a91fa8dd9), als [Anforderer](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas#h_1aea0990a7) festgelegt oder [erwähnt](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung#h_2481ad1c8c) wurden, folgen Sie dem Thema automatisch.
+> **Hinweis 2:** Wenn ein Thema, dem Sie folgen, in ein Board verschoben wird, auf das Sie keinen Zugriff haben, folgen Sie ihm weiterhin, erhalten aber keine Benachrichtigungen mehr darüber.
 
 **Benachrichtigungen zu gefolgten Themen** Das Folgen eines Themas hat mit Benachrichtigungen zu tun. Mitglieder, die einem Thema folgen, erhalten Benachrichtigungen über Änderungen, die am Thema vorgenommen werden. Wenn ein Thema erstellt wird, erhalten alle Mitglieder mit Zugriff auf das Board, in dem es erstellt wird, eine Benachrichtigung, dass das Thema erstellt wurde. Da dies viele Benachrichtigungen generiert, haben viele diese Art von Benachrichtigung in ihren Einstellungen deaktiviert. Nach der Erstellung erhalten Mitglieder, die nichts mit dem Thema zu tun haben, keine weiteren Benachrichtigungen über zukünftige Ereignisse wie Kommentare und Änderungen in einem der Felder in der Themen-Kopfzeile. Das Folgen eines Themas bewirkt, dass diese Benachrichtigungen gesendet werden.
 
@@ -4588,7 +4592,7 @@ Die in Revit erstellte BCF wurde zu Bimsync hinzugefügt. Dieser Workflow funkti
 
 > Wie sich der Catenda-Connector für Power BI bei Catenda anmeldet und was zu tun ist, wenn die Anmeldung fehlschlägt oder abläuft.
 
-Der Catenda-Connector für Power BI meldet sich bei Catenda mit dem eigenen Catenda-Konto des Benutzers an. Dies funktioniert auf die gleiche Weise im veröffentlichten [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) und im [Catenda Power BI Connector (On Demand)](https://support.catenda.com/en/articles/17778871-catenda-power-bi-connector-on-demand).
+Der Catenda-Connector für Power BI meldet sich bei Catenda mit dem eigenen Catenda-Konto des Benutzers an. Dies funktioniert auf die gleiche Weise im veröffentlichten [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) und im [Catenda Power BI Connector (On Demand)](https://support.catenda.com/de/articles/17778871-catenda-power-bi-connector-on-demand).
 
 ## 1. **Erstmalige Anmeldung**
 
@@ -7173,6 +7177,8 @@ Um einen neuen Ordner am aktuellen Dokumentenspeicherort zu erstellen, können S
 
 Wenn Sie eine Dokumentstruktur erstellen oder viele Ordner auf einmal erstellen müssen, kann es mühsam sein, die Schaltfläche "Neuer Ordner" mehrmals anklicken zu müssen. Um viele Ordner auf einmal zu erstellen, kann es hilfreich sein, die Ordner extern vorzubereiten und sie alle auf einmal mit der Aktion "Zip hochladen" hochzuladen. _Erforderlicher Zugriff:_ Schreibzugriff auf den aktuellen Ordner
 
+> **Hinweis:** Ordnernamen darf keine der folgenden Zeichen enthalten: `< > : " / \ | ? *` Wenn der neue Name eines dieser Zeichen enthält, kann er nicht gespeichert werden.
+
 ### 1.3 **Zip hochladen**
 
 Mit der Aktion "Zip hochladen" können Sie den Inhalt einer ZIP-Datei in der Dokumentstruktur extrahieren. Es ist auch möglich, ein ZIP-Dokument mit der Schaltfläche "Hochladen" hochzuladen, aber dann erhalten Sie es nur als gezippte Datei und sehen nicht den Inhalt der ZIP-Datei. Klicken Sie [hier](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen#h_54ace27f24), um mehr darüber zu erfahren, wie Sie eine ZIP-Datei zu Catenda hochladen.
@@ -8879,7 +8885,8 @@ Im ersten Schritt kann die Revision jedes Modells angegeben werden, das in den E
 
 Im ersten Schritt des Modellexports können die Modelle ausgewählt werden, die in den Export einbezogen werden sollen.
 
-> **Hinweis 1:** Wenn das Modell keine Revisionen hat, die exportiert werden können, wird das Kontrollkästchen ausgegraut. **Hinweis 2:** Eine Modellrevision muss erfolgreich verarbeitet und nicht widerrufen worden sein, um ausgewählt zu werden.
+> **Hinweis 1:** Wenn das Modell keine exportierbaren Revisionen hat, wird das Kontrollkästchen ausgegraut.
+> **Hinweis 2:** Eine Modellrevision muss erfolgreich verarbeitet werden und darf nicht zurückgezogen sein, um wählbar zu sein.
 
 ### 1.1 **Navigation**
 
@@ -13995,7 +14002,8 @@ Dadurch wird das Druckdialogfeld Ihres Browsers geöffnet. So kann es für Googl
 
 Drucken Sie das Dokument im Druckdialogfeld als PDF.
 
-> **Hinweis 1:** Der QR-Code wird nur auf der Inhaltsebene angezeigt, wenn Sie das Dokument drucken. Wenn Sie das Dokument herunterladen, befindet es sich auf der Anmerkungsebene. **Hinweis 2:** Durch das Drucken als PDF rastern Sie den Inhalt des Dokuments. Dies bedeutet, dass der Text nicht durchsuchbar ist, wenn Sie ihn als neue Fassung auf Catenda hochladen.
+> **Hinweis 1:** Der QR-Code wird nur auf der Inhaltsebene angezeigt, wenn Sie das Dokument drucken. Wenn Sie das Dokument herunterladen, befindet es sich auf der Annotationsebene.
+> **Hinweis 2:** Durch das Drucken als PDF rasteln Sie den Inhalt des Dokuments. Dies bedeutet, dass der Text nicht durchsuchbar ist, wenn Sie ihn als neue Revision bei Catenda hochladen.
 
 Das gedruckte PDF mit dem Platzhalter kann nun als neue Fassung auf Catenda hochgeladen werden. Um die Fassungshistorie übersichtlich zu halten, können Sie die vorherige Fassung ohne QR-Code zurückziehen.
 
@@ -14275,9 +14283,9 @@ Durch die Finalisierung der Sammlung:
 
 - Die Sammlung kann außerhalb des Projekts freigegeben werden.
 
-> **Hinweis:** Es ist nicht mehr möglich, die Sammlung zu ändern.
-
 > **Warnung:** **Nach der Finalisierung ist ein Zurückgehen nicht möglich**
+
+> **Hinweis:** Es ist nicht mehr möglich, die Sammlung zu ändern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 
@@ -15075,7 +15083,8 @@ Priorität Wenn das gleiche Etikett in beiden Menüs hinzugefügt wird, hat das 
 
 **Benutzerdefinierte Felder** Legen Sie einen Wert für ein benutzerdefiniertes Feld fest oder stellen Sie das Feld auf keinen Wert für mehrere Themen auf einmal ein.
 
-> **Hinweis 1:** Felder, die in den Einstellungen des Themen-Boards als erforderlich konfiguriert sind, können nicht deaktiviert werden. **Hinweis 2:** Es ist nur möglich, Text-, Integer- und Dezimalfelder zu aktualisieren und sie nicht zu deaktivieren, obwohl Integer- und Dezimalfelder auf Null gesetzt und Text auf ein einzelnes Leerzeichen gesetzt werden können.
+> **Hinweis 1:** Felder, die in den Themen-Board-Einstellungen als erforderlich konfiguriert sind, können nicht deaktiviert werden.
+> **Hinweis 2:** Es ist nur möglich, Text-, Integer- und Dezimalfelder zu aktualisieren und sie nicht zu deaktivieren, obwohl Integer- und Dezimalfelder auf null gesetzt werden können und Text auf ein einzelnes Leerzeichen gesetzt werden kann.
 
 **Kommentar** Fügen Sie mehreren Themen auf einmal einen Kommentar hinzu. Es ist nur möglich, Kommentare zu mehreren Themen auf einmal hinzuzufügen, und nicht möglich, sie zu bearbeiten oder zu entfernen.
 
@@ -16506,7 +16515,8 @@ Nach dem Erstellen eines benutzerdefinierten Felds kann das Feld zu [Themen in e
 
 # Seite Berichtvorlagen
 
-> **Hinweis 1:** Die Seite Berichte ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann. **Hinweis 2:** Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
+> **Hinweis 1:** Die Seite "Berichte" ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann.
+> **Hinweis 2:** Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
 
 Die Seite "Berichtvorlagen" ist eine Unterseite der [Berichtsseite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite) im linken Navigationsmenü. Auf der Seite "Berichtvorlagen" können die Dokument-, Themen- und Genehmigungsvorlagen, die für das Projekt verfügbar sind, verwaltet werden. _Erforderlicher Zugriff:_ Administrator
 
@@ -16520,7 +16530,7 @@ Die Aktionen auf der Seite Berichtvorlagen können Sie finden, indem Sie oben re
 
 ![Das Aktionsmenü der Berichtsvorlagenseite mit Neue Themenvorlage, Neue Dokumentvorlage und Neue Genehmigungsvorlage](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Diese Aktionen erstellen eine völlig neue Vorlage, beginnend mit einer leeren Seite. Es wird empfohlen, stattdessen mit einer der vorgefertigten Berichtvorlagen zu beginnen und diese an das Projekt anzupassen. Sie können von [Vorgefertigte Berichtvorlagen](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) heruntergeladen werden _(nur für Berichteditor-Kunden)_.
+Diese Aktionen erstellen eine völlig neue Vorlage, beginnend mit einer leeren Seite. Es wird empfohlen, stattdessen mit einer der vorgefertigten Berichtvorlagen zu beginnen und diese an das Projekt anzupassen. Sie können von [Vorgefertigte Berichtvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) heruntergeladen werden _(nur für Berichteditor-Kunden)_.
 
 ### 1.1 **Neue Themenvorlage**
 
@@ -17496,7 +17506,8 @@ Wenn Dokumente aus einer SharePoint-Dokumentbibliothek zu Catenda hochgeladen we
 
 # Solibri Topics-Integration
 
-> **Wichtig:** **Solibri Version 9.13:** **Wichtig:** Das BCF Connector-Plugin ist seit Version 9.13 ein separater Tab namens BCF Live Connector in Solibri. Viele der gleichen Informationen gelten weiterhin für diesen Tab. **Solibri Version 9.9:** Seit Update 9.9 von Solibri ist es nun möglich, Ihre Topics mit Catenda zu synchronisieren.
+> **Wichtig:** **Solibri Version 9.13:** **Wichtig:** Das BCF Connector-Plugin ist seit Version 9.13 ein separater Reiter namens BCF Live Connector in Solibri. Viel der gleichen Informationen gelten weiterhin in diesem Reiter.
+> **Solibri Version 9.9:** Seit Update 9.9 von Solibri ist es nun möglich, Ihre Themen mit Catenda zu synchronisieren.
 
 Dieses Dokument erläutert, wie Sie den BCF Connector mit Ihrem Catenda-Projekt einrichten. Dies ermöglicht es, Topics nahtlos zwischen den beiden Anwendungen auszutauschen und vermeidet die manuellen BCF-Export- und -Importschritte.
 
@@ -18760,7 +18771,8 @@ Wenn Sie oben links auf den Namen des Themen-Boards klicken, wird eine Dropdown-
 
 Wenn es mehr als ein Themen-Board im Projekt gibt, wird die Option "Alle Themen-Boards" am Ende der Dropdown-Liste angezeigt. Hier werden die Themen aus allen Boards zusammengefasst. Dies kann hilfreich sein, um ein Thema zu finden, dessen Themen-Board Sie nicht genau kennen.
 
-> **Hinweis 1:** In der "Alle Themen-Boards"-Übersicht ist die Suche nur auf Folgendes möglich: Meine Themen, Meta-Status, Fälligkeit, Aktualisiert, Verantwortlicher, Anforderer, Ersteller, Meilenstein, Benutzerdefinierte Felder, Etiketten, Links. **Hinweis 2:** Ein Austausch von Themen ist nur von einem Themen-Board auf einmal möglich.
+> **Hinweis 1:** Im Board "Alle Themen-Boards" können nur nach folgendem gesucht werden: Meine Themen, Meta-Status, Fälligkeit, Aktualisiert, Verantwortlicher, Anforderer, Ersteller, milestone, Benutzerdefinierte Felder, Etiketten, Links
+> **Hinweis 2:** Themen können jeweils nur von einem Themen-Board zu einem anderen verschoben werden.
 
 ## 2. **Neue Element-Aktionen**
 
@@ -22441,7 +22453,9 @@ Wenn ein Geschoss im Geschoss-Konfigurator konfiguriert worden ist, wird das ers
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/04-displaying-markers.png)
 
-> **Warnung 1:** Wenn das Themen-Menü geöffnet wird, werden Marker aus den ersten 250 Themen des Ergebnisses aktualisiert und gespeichert. Wenn der 2D-Viewer geöffnet wird, werden Marker aus zuvor aktualisierten Themen angezeigt, die dem Ergebnis im Themen-Menü entsprechen. Beachten Sie, dass Marker aus Themen über mehrere Geschosse verteilt sein können, nicht nur das aktive Geschoss. **Warnung 2:** Wenn sich 250+ Themen im Themen-Menü-Ergebnis befinden, wurden Marker möglicherweise nicht geladen oder sind veraltet. Scrollen Sie in der Liste nach unten, um deren Marker ebenfalls anzuzeigen/zu aktualisieren. Das Filtern des Boards, sodass weniger Themen im Ergebnis vorhanden sind, kann auch dazu beitragen, dass Marker, die zu Themen im gefilterten Ergebnis gehören, zusätzlich aktualisiert und angezeigt werden. **Warnung 3:** Wenn Sie sich von der Anwendung abmelden und sich wieder anmelden, geht der Verlauf der geladenen Themen verloren und Themen, die zuvor geladen waren, müssen möglicherweise erneut geladen werden.
+> **Warnung 1:** Wenn das Themenmenü geöffnet wird, werden Marker aus den ersten 250 Themen im Ergebnis aktualisiert und gespeichert. Wenn der 2D Viewer geöffnet wird, werden Marker aus zuvor aktualisierten Themen angezeigt, die mit dem Ergebnis im Themenmenü übereinstimmen. Beachten Sie, dass Marker aus Themen über verschiedene Geschosse verteilt sein können, nicht nur über das aktive Geschoss.
+> **Warnung 2:** Wenn im Themenmenü 250+ Themen vorhanden sind, wurden Marker möglicherweise nicht geladen oder sind veraltet. Scrollen Sie in der Liste nach unten, um ihre Marker anzuzeigen/zu aktualisieren. Das Filtern des Boards, sodass weniger Themen im Ergebnis enthalten sind, kann auch sicherstellen, dass Marker, die zu Themen im gefilterten Ergebnis gehören, zusätzlich aktualisiert und angezeigt werden.
+> **Warnung 3:** Wenn Sie sich von der Anwendung abmelden und sich erneut anmelden, geht die Historie darüber verloren, welche Themen geladen wurden, und Themen, die zuvor geladen wurden, müssen möglicherweise erneut geladen werden.
 
 **Erweitern Sie die 2D-Ansicht** Ziehen Sie auf dem Teiler zwischen dem 2D- und 3D-Viewer, um diese zu erweitern.
 

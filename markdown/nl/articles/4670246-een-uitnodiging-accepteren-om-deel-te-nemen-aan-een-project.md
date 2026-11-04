@@ -28,7 +28,8 @@ De naam van de uitnodigende gebruiker en het e-mailadres van de gebruiker zijn z
 
 De e-mail wordt verzonden vanaf [noreply@catenda.com](mailto:noreply@catenda.com)
 
-> **Opmerking 1:** Een projectuitnodiging kan meerdere keren worden verzonden. Alle e-mails hebben dezelfde Koppeling, dus ze werken allemaal, tenzij de uitnodiging is ingetrokken. **Opmerking 2:** U kunt niet antwoorden op de e-mail van [noreply@catenda.com](mailto:noreply@catenda.com). Als u vragen over de uitnodiging hebt, moet u antwoorden op het e-mailadres van de uitnodigende persoon of contact opnemen met [support@catenda.com](mailto:support@catenda.com)
+> **Opmerking 1:** Een projectuitnodiging kan meerdere keren worden verzonden. Alle e-mails hebben dezelfde Koppelingen, dus deze werken allemaal tenzij de uitnodiging is ingetrokken.
+> **Opmerking 2:** U kunt niet antwoorden op de e-mail van [noreply@catenda.com](mailto:noreply@catenda.com). Als u vragen hebt over de uitnodiging, moet u antwoorden op het e-mailadres van de persoon die u heeft uitgenodigd of contact opnemen met [support@catenda.com](mailto:support@catenda.com)
 
 ## 2. De uitnodiging accepteren
 

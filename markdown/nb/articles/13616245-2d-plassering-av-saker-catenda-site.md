@@ -18,19 +18,21 @@ Trykk på en markør på Catenda Site for å vise saknummeret og tittelen på sa
 
 For å arbeide med saker og plasseringer åpner du 2D/3D-visermenyen.
 
-_Velg et sakbrett_ Velg et sakbrett for å se markørene på etasjen fra det sakbrettet.
+**Velg et sakbrett** Velg et sakbrett for å se markørene på etasjen fra det sakbrettet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/03-displaying-markers.png)
 
 Hvis en etasje er konfigurert i etasjekonfiguratoren, åpnes den første etasjen i den første bygningen som standard så snart 2D/3D-visermenyen ble åpnet.
 
-_Filtrer sakbrettet_ Begrens antallet markører på skjermen ved å filtrere sakbrettet.
+**Filtrer sakbrettet** Begrens antallet markører på skjermen ved å filtrere sakbrettet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/04-displaying-markers.png)
 
-> **Advarsel 1:** Når sakmenyen åpnes, oppdateres og lagres markører fra de første 250 sakene i resultatet. Når 2D-viseren åpnes, vises markører fra tidligere oppdaterte saker som samsvarer med resultatet i sakmenyen. Merk at markører fra saker kan være spredt på etasjer som ikke er den aktive etasjen. **Advarsel 2:** Når det er 250+ saker i sakmenyen-resultatet, kan markører ikke ha blitt lastet inn eller kan være utdaterte. Rull ned listen for å vise/oppdatere markørene deres også. Filtrering av brettet slik at det er færre saker i resultatet kan også bidra til å sikre at markører som tilhører saker i det filtrerte resultatet blir ytterligere oppdatert og vist. **Advarsel 3:** Når du logger ut av applikasjonen og logger tilbake inn, går historien over hvilke saker som ble lastet inn tapt, og saker som ble lastet inn tidligere må kanskje lastes inn igjen.
+> **Advarsel 1:** Når emne-menyen åpnes, oppdateres og lagres markører fra de første 250 sakene i resultatet. Når 2D-viseren åpnes, vises markører fra tidligere oppdaterte saker som samsvarer med resultatet i emne-menyen. Merk at markører fra saker kan være spredt på andre etasjer enn den aktive etasjen.
+> **Advarsel 2:** Når det er 250+ saker i emne-menyens resultat, kan markører ikke ha blitt lastet inn eller kan være foreldet. Rull ned i listen for å vise/oppdatere deres markører også. Filtrering av brettet slik at det er færre saker i resultatet kan også bidra til å sikre at markører som tilhører saker i det filtrerte resultatet, blir oppdatert og vist.
+> **Advarsel 3:** Når du logger ut av applikasjonen og logger inn igjen, går historikken over hvilke saker som ble lastet inn tapt, og saker som tidligere ble lastet inn, må kanskje lastes inn igjen.
 
-_Utvid 2D-visningen_ Dra på skillelinjen mellom 2D- og 3D-viserne for å utvide den.
+**Utvid 2D-visningen** Dra på skillelinjen mellom 2D- og 3D-viserne for å utvide den.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/05-displaying-markers.png)
 

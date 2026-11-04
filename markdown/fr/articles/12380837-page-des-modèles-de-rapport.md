@@ -1,6 +1,7 @@
 # Page des gabarits de rapports
 
-> **Remarque 1 :** La page des rapports est une fonctionnalité optionnelle qui peut être activée pour les projets en cours. **Remarque 2 :** Les nouveaux projets créés à partir d'un projet de gabarit pour lequel cette fonctionnalité est activée n'ont pas cette fonctionnalité activée.
+> **Remarque 1 :** La page des rapports est une fonctionnalité optionnelle qui peut être demandée pour les projets en cours.
+> **Remarque 2 :** Les nouveaux projets créés à partir d'un projet de modèle où cette fonctionnalité est activée n'ont pas cette fonctionnalité activée.
 
 La page des modèles de rapports se trouve comme sous-page de la [page des rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) dans le menu de navigation de gauche. Sur la page des modèles de rapports, les modèles de documents, de Sujets et d'approbation disponibles pour le projet peuvent être gérés. _Accès requis :_ Administrateur
 
@@ -14,7 +15,7 @@ Les actions de la page des gabarits de rapports se trouvent en cliquant sur le m
 
 ![Le menu d'actions de la page des modèles de rapports, avec Nouveau modèle de Sujets, Nouveau modèle de Documents et Nouveau modèle d'approbation](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Ces actions créent un modèle complètement nouveau, en commençant par une page vide. Il est recommandé de commencer par l'un des modèles de rapports prêts à l'emploi à la place, et de l'adapter au projet. Ils peuvent être téléchargés à partir de [Modèles de rapports prêts à l'emploi](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(clients de l'éditeur de rapports uniquement)_.
+Ces actions créent un modèle complètement nouveau, en commençant par une page vide. Il est recommandé de commencer par l'un des modèles de rapports prêts à l'emploi à la place, et de l'adapter au projet. Ils peuvent être téléchargés à partir de [Modèles de rapports prêts à l'emploi](https://support.catenda.com/fr/articles/17778911-modeles-de-rapport-prets-a-l-emploi) _(clients de l'éditeur de rapports uniquement)_.
 
 ### 1.1 **Nouveau gabarit de Sujets**
 

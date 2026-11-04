@@ -114,9 +114,8 @@ Nieuw apparaat:
 1. Installeer en open de Microsoft Authenticator-app op uw nieuwe apparaat
 2. Tik op "Herstel starten."
 
-> **Opmerking 1:** Stel geen accounts in met Microsoft Authenticator totdat u het Recovery-hulpprogramma hebt gebruikt, omdat dit overeenkomende siteaccounts overschrijft.
-
-> **Opmerking 2:** Deze methode vereist dat u uw MFA-codes een back-up maakt, wat betekent dat deze worden opgeslagen in de cloudservice van uw app-provider. Gebruik deze methode alleen als u de back-upservice van uw app-provider vertrouwt. Zo niet, dan kunt u beter deactiveren en opnieuw activeren.
+> **Opmerking 1:** Stel geen accounts in met Microsoft Authenticator totdat u het herstelgereedschap hebt gebruikt, omdat dit overeenkomende siteaccounts overschrijft.
+> **Opmerking 2:** Deze methode vereist dat u een back-up maakt van uw MFA-codes, wat betekent dat ze zijn opgeslagen in de cloudservice van uw app-provider. Gebruik deze methode alleen als u de back-upservice van uw app-provider vertrouwt. Zo niet, dan kunt u beter deactiveren en opnieuw activeren.
 
 ## 4. **MFA uitschakelen**
 

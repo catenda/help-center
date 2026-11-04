@@ -26,7 +26,9 @@ Med [markører aktivert](https://support.catenda.com/nb/articles/4854537-2d-vise
 
 Når den er valgt, vises saksnummeret og tittelen. Trykk på pilen for å åpne saken i sakenes meny. Klikk [her](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker) for å lese mer om 2D-plassering av saker.
 
-> **Advarsel 1:** Når sakenes meny åpnes, oppdateres og lagres markører fra de første 250 sakene i resultatet. Når 2D-viseren åpnes, vises markører fra eventuelle tidligere oppdaterte saker som samsvarer med resultatet i sakenes meny. Merk at markører fra saker kan være spredt over etasjer annet enn den aktive etasjen. **Advarsel 2:** Når det er 250+ saker i sakenes meny-resultat, kan markører ikke være lastet inn eller kan være foreldet. Rull ned i listen for å vise/oppdatere deres markører også. Filtrering av tavlen slik at det er færre saker i resultatet kan også bidra til å sikre at markører som tilhører saker i det filtrerte resultatet, blir ytterligere oppdatert og vist. **Advarsel 3:** Når du logger ut av applikasjonen og logger inn igjen, går historikken over hvilke saker som ble lastet inn tapt, og saker som tidligere ble lastet inn, må kanskje lastes inn igjen.
+> **Advarsel 1:** Når menyen Saker er åpnet, blir markører fra de første 250 sakene i resultatet oppdatert og lagret. Når 2D-viseren åpnes, vises markører fra tidligere oppdaterte saker som samsvarer med resultatet i menyen Saker. Merk at markører fra saker kan være spredt på etasjer andre enn den aktive etasjen.
+> **Advarsel 2:** Når det er 250+ saker i resultatet av menyen Saker, er det mulig at markører ikke har blitt lastet inn eller kan være foreldet. Bla ned i listen for å vise/oppdatere markørene deres også. Filtrering av tavlen slik at det er færre saker i resultatet, kan også bidra til å sikre at markører som tilhører saker i det filtrerte resultatet, blir ytterligere oppdatert og vist.
+> **Advarsel 3:** Når du logger ut av programmet og logger inn igjen, mistes historikken over hvilke saker som ble lastet inn, og saker som ble lastet inn tidligere, må kanskje lastes inn på nytt.
 
 ### 1.3 **Verktøylinje**
 

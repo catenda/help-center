@@ -110,7 +110,8 @@ Prioriteit Wanneer hetzelfde label in beide menu's wordt toegevoegd, krijgt het 
 
 **Aangepaste velden** Stel een waarde voor een aangepast veld in of stel het veld op geen waarde voor meerdere topics tegelijk.
 
-> **Opmerking 1:** Velden die als verplicht zijn geconfigureerd in topic board-instellingen kunnen niet worden verwijderd. **Opmerking 2:** Het is alleen mogelijk om tekst-, geheel getal- en decimailvelden bij te werken en deze niet in te stellen, hoewel geheel getal- en decimailvelden kunnen worden geannuleerd en tekst kan worden ingesteld op een enkele spatie.
+> **Opmerking 1:** Velden die als verplicht zijn ingesteld in de instellingen van het topic board kunnen niet worden uitgeschakeld.
+> **Opmerking 2:** Het is alleen mogelijk om tekst-, geheel getal- en decimaalvelden bij te werken en deze niet uit te schakelen, hoewel geheel getal- en decimaalvelden kunnen worden leeggemaakt en tekst kan worden ingesteld op één spatie.
 
 **Opmerking** Voeg een opmerking toe aan meerdere topics tegelijk. Het is alleen mogelijk om opmerkingen aan meerdere topics tegelijk toe te voegen en niet om opmerkingen te bewerken of te verwijderen.
 

@@ -28,7 +28,8 @@ Le nom de l'utilisateur qui invite et l'adresse e-mail de l'utilisateur seront v
 
 L'e-mail sera envoyé depuis [noreply@catenda.com](mailto:noreply@catenda.com)
 
-> **Remarque 1 :** Une invitation à un projet peut être envoyée plusieurs fois. Tous les e-mails auront le même Lien, ils fonctionneront tous à moins que l'invitation n'ait été révoquée. **Remarque 2 :** Vous ne pouvez pas répondre à l'e-mail [noreply@catenda.com](mailto:noreply@catenda.com). Si vous avez des questions concernant l'invitation, vous devrez répondre à l'adresse e-mail de la personne qui vous invite ou contacter [support@catenda.com](mailto:support@catenda.com)
+> **Remarque 1 :** Une invitation de projet peut être envoyée plusieurs fois. Tous les e-mails auront le même lien, ils fonctionneront donc tous à moins que l'invitation n'ait été révoquée.
+> **Remarque 2 :** Vous ne pouvez pas répondre à l'e-mail [noreply@catenda.com](mailto:noreply@catenda.com). Si vous avez des questions sur l'invitation, vous devrez répondre à l'adresse e-mail de la personne qui vous a invité ou contacter [support@catenda.com](mailto:support@catenda.com)
 
 ## 2. Accepter l'invitation
 

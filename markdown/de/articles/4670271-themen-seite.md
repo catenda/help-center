@@ -14,7 +14,8 @@ Wenn Sie oben links auf den Namen des Themen-Boards klicken, wird eine Dropdown-
 
 Wenn es mehr als ein Themen-Board im Projekt gibt, wird die Option "Alle Themen-Boards" am Ende der Dropdown-Liste angezeigt. Hier werden die Themen aus allen Boards zusammengefasst. Dies kann hilfreich sein, um ein Thema zu finden, dessen Themen-Board Sie nicht genau kennen.
 
-> **Hinweis 1:** In der "Alle Themen-Boards"-Übersicht ist die Suche nur auf Folgendes möglich: Meine Themen, Meta-Status, Fälligkeit, Aktualisiert, Verantwortlicher, Anforderer, Ersteller, Meilenstein, Benutzerdefinierte Felder, Etiketten, Links. **Hinweis 2:** Ein Austausch von Themen ist nur von einem Themen-Board auf einmal möglich.
+> **Hinweis 1:** Im Board "Alle Themen-Boards" können nur nach folgendem gesucht werden: Meine Themen, Meta-Status, Fälligkeit, Aktualisiert, Verantwortlicher, Anforderer, Ersteller, milestone, Benutzerdefinierte Felder, Etiketten, Links
+> **Hinweis 2:** Themen können jeweils nur von einem Themen-Board zu einem anderen verschoben werden.
 
 ## 2. **Neue Element-Aktionen**
 

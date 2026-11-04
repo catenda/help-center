@@ -14,7 +14,8 @@ Si vous cliquez sur le nom de la liste de sujets en haut à gauche, vous obtiend
 
 S'il y a plus d'une liste de sujets dans le projet, vous verrez l'option Toutes les listes de sujets en bas de la liste déroulante. Ici, les Sujets de toutes les listes seront combinés. Cela peut être utile pour trouver un Sujet dont vous n'êtes pas sûr de la liste de sujets dans laquelle il a été créé.
 
-> **Note 1 :** Il est uniquement possible de rechercher les éléments suivants dans la liste de sujets "Toutes les listes de sujets". Mes Sujets, Méta-statut, Échéance, Mis à jour, Assigné à, Demandeur, Créateur, Jalon, Champs personnalisés, Étiquettes, Liens **Note 2 :** Il est uniquement possible d'échanger les Sujets d'une liste de sujets à la fois.
+> **Remarque 1 :** Il est uniquement possible de rechercher les éléments suivants dans le tableau « Tous les listes de sujets ». Mes sujets, Méta-statut, Échéance, Mis à jour, Responsable, Demandeur, Créateur, Jalon, Champs personnalisés, Étiquettes, Liens
+> **Remarque 2 :** Il est uniquement possible d'échanger des sujets d'une liste de sujets à la fois.
 
 ## 2. **Nouvelles actions d'élément**
 

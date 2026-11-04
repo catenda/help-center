@@ -721,42 +721,41 @@ _Microsoft Authenticator_
 
 ## 3. **Overføring av MFA**
 
-_Deaktivering og reaktivering_ Det er bare mulig å bruke en MFA-apkkodeparring om gangen. Hvis du ønsker å bytte til en annen kodeparring, kanskje fordi din nåværende er kompromittert, følger du disse trinnene: Du bør også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
+**Deaktivering og reaktivering** Det er bare mulig å bruke en MFA-apkkodeparring om gangen. Hvis du ønsker å bytte til en annen kodeparring, kanskje fordi din nåværende er kompromittert, følger du disse trinnene: Du bør også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
 
 1. Deaktiver MFA din på [autentiseringssiden](https://hub.catenda.com/account/authentication)
-1. Forbered appen du vil bruke for å gjenopprette MFA-en din
-1. Generer et nytt kodeparpar ved å skanne QR-koden som i [aktiveringsdelen](#h_9e13fd06f5)
+2. Forbered appen du vil bruke for å gjenopprette MFA-en din
+3. Generer et nytt kodeparpar ved å skanne QR-koden som i [aktiveringsdelen](#h_9e13fd06f5)
 
 > **Merk:** Vær forsiktig med denne metoden fordi kontoen din blir midlertidig sårbar mens den er deaktivert, og du vil ikke kunne få tilgang til prosjekter hvor MFA kreves i løpet av denne tiden.
 
-_Overføring via sikkerhetskopi_ Hvis du ønsker å begynne å bruke en ny enhet uten at koden blir midlertidig deaktivert, kan du bruke en annen installasjon av samme MFA-app og overføre koden fra den gamle installasjonen til den nye installasjonen.
+**Overføring via sikkerhetskopi** Hvis du ønsker å begynne å bruke en ny enhet uten at koden blir midlertidig deaktivert, kan du bruke en annen installasjon av samme MFA-app og overføre koden fra den gamle installasjonen til den nye installasjonen.
 
-_Google authenticator_ Gammel enhet:
+**Google authenticator** Gammel enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-1. Trykk på Eksporter kontoer
-1. Velg kontiene du ønsker å eksportere
+2. Trykk på Eksporter kontoer
+3. Velg kontiene du ønsker å eksportere
 
 Ny enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-1. Trykk på importer kontoer
-1. Trykk på skann QR-kode
-1. Skann QR-koden som vises på den gamle enheten når du gikk gjennom eksportprosessen.
+2. Trykk på importer kontoer
+3. Trykk på skann QR-kode
+4. Skann QR-koden som vises på den gamle enheten når du gikk gjennom eksportprosessen.
 
-_Microsoft authenticator_ Gammel enhet:
+**Microsoft authenticator** Gammel enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-1. Slå på sikkerhetskopi
+2. Slå på sikkerhetskopi
 
 Ny enhet:
 
 1. Installer og åpne Microsoft Authenticator-appen på den nye enheten din
-1. Trykk på "Begynn gjenoppretting."
+2. Trykk på "Begynn gjenoppretting."
 
-> **Merk 1:** Ikke konfigurer noen kontoer med Microsoft Authenticator før du har brukt gjenopprettingsverktøyet, fordi det vil overskrive matchende nettstedkontoer.
-
-> **Merk 2:** Denne metoden krever at du sikkerhetskopier MFA-kodene dine, noe som betyr at de lagres i sikkerhetskopieringstjenesten til appleverandøren din. Bruk bare denne metoden hvis du stoler på sikkerhetskopieringstjenesten til appleverandøren din. Hvis ikke er du bedre tjent med å deaktivere og reaktivere.
+> **Merknad 1:** Ikke konfigurer noen kontoer ved hjelp av Microsoft Authenticator før du har brukt gjenopprettingsverktøyet, fordi det vil overskrive samsvarende nettstedskontoer.
+> **Merknad 2:** Denne metoden krever at du sikkerhetskopier MFA-kodene dine, noe som betyr at de lagres i skytjenesten til appleverandøren din. Bruk denne metoden bare hvis du stoler på sikkerhetskopitjenesten til appleverandøren din. Hvis ikke er det bedre å deaktivere og reaktivere.
 
 ## 4. **Deaktivering av MFA**
 
@@ -819,7 +818,8 @@ Navnet på den inviterende brukeren og e-postadressen til brukeren vil være syn
 
 E-posten vil bli sendt fra [noreply@catenda.com](mailto:noreply@catenda.com)
 
-> **Merknad 1:** En prosjektinvitasjon kan sendes flere ganger. Alle e-poster vil ha samme lenke så de vil alle fungere hvis ikke invitasjonen har blitt tilbakekalt. **Merknad 2:** Du kan ikke svare på [noreply@catenda.com](mailto:noreply@catenda.com) e-posten. Hvis du har spørsmål om invitasjonen, må du svare til den inviterende personens e-postadresse eller kontakte [support@catenda.com](mailto:support@catenda.com)
+> **Merk 1:** En prosjektinvitasjon kan sendes flere ganger. Alle e-poster vil ha den samme lenken, så de vil alle fungere med mindre invitasjonen har blitt tilbakekalt.
+> **Merk 2:** Du kan ikke svare på [noreply@catenda.com](mailto:noreply@catenda.com) e-posten. Hvis du har spørsmål om invitasjonen, må du svare på e-postadressen til personen som inviterte deg, eller kontakte [support@catenda.com](mailto:support@catenda.com)
 
 ## 2. Godta invitasjonen
 
@@ -2645,7 +2645,9 @@ Med [markører aktivert](https://support.catenda.com/nb/articles/4854537-2d-vise
 
 Når den er valgt, vises saksnummeret og tittelen. Trykk på pilen for å åpne saken i sakenes meny. Klikk [her](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker) for å lese mer om 2D-plassering av saker.
 
-> **Advarsel 1:** Når sakenes meny åpnes, oppdateres og lagres markører fra de første 250 sakene i resultatet. Når 2D-viseren åpnes, vises markører fra eventuelle tidligere oppdaterte saker som samsvarer med resultatet i sakenes meny. Merk at markører fra saker kan være spredt over etasjer annet enn den aktive etasjen. **Advarsel 2:** Når det er 250+ saker i sakenes meny-resultat, kan markører ikke være lastet inn eller kan være foreldet. Rull ned i listen for å vise/oppdatere deres markører også. Filtrering av tavlen slik at det er færre saker i resultatet kan også bidra til å sikre at markører som tilhører saker i det filtrerte resultatet, blir ytterligere oppdatert og vist. **Advarsel 3:** Når du logger ut av applikasjonen og logger inn igjen, går historikken over hvilke saker som ble lastet inn tapt, og saker som tidligere ble lastet inn, må kanskje lastes inn igjen.
+> **Advarsel 1:** Når menyen Saker er åpnet, blir markører fra de første 250 sakene i resultatet oppdatert og lagret. Når 2D-viseren åpnes, vises markører fra tidligere oppdaterte saker som samsvarer med resultatet i menyen Saker. Merk at markører fra saker kan være spredt på etasjer andre enn den aktive etasjen.
+> **Advarsel 2:** Når det er 250+ saker i resultatet av menyen Saker, er det mulig at markører ikke har blitt lastet inn eller kan være foreldet. Bla ned i listen for å vise/oppdatere markørene deres også. Filtrering av tavlen slik at det er færre saker i resultatet, kan også bidra til å sikre at markører som tilhører saker i det filtrerte resultatet, blir ytterligere oppdatert og vist.
+> **Advarsel 3:** Når du logger ut av programmet og logger inn igjen, mistes historikken over hvilke saker som ble lastet inn, og saker som ble lastet inn tidligere, må kanskje lastes inn på nytt.
 
 ### 1.3 **Verktøylinje**
 
@@ -3767,7 +3769,8 @@ For å endre hvilke modeller som lastes inn, klikker du på modellknappen for å
 
 **Lastmodeller** Last modellene fra øyblikksbildet i tillegg til modellene som allerede finnes i viseren.
 
-> **Merknad 1:** I denne menyen lenker du bare øyblikksbildet til Catenda-modeller. Det endrer ikke innholdet i BCF. **Merknad 2:** Avhengig av synlighetsinnstillingene for objekter i øyblikksbildet, kan tilførte modeller være helt skjult. Selv om de ikke er synlige, bør du se at de lastes inn når saken spilles.
+> **Merknad 1:** I denne menyen kobler du bare øyeblikksbildet til Catenda-modeller. Det endrer ikke innholdet i BCF.
+> **Merknad 2:** Avhengig av synlighetsinnstillingene for objekter i øyeblikksbildet, kan tilføyde modeller være helt skjult. Selv om de ikke er synlige, bør du se at de er lastet når saken er åpen.
 
 ## 7. **Øyeblikksbildetilgang**
 
@@ -8942,6 +8945,8 @@ For å lage en ny mappe på dokumentplasseringen du er i nå, kan du bruke knapp
 
 Når du oppretter en dokumentstruktur eller må lage mange mapper på en gang, kan det være kjedelig å måtte klikke på knappen for ny mappe mange ganger. For å lage mange mapper på en gang kan det være nyttig å forberede mappene eksternt og laste dem opp alle på en gang med handlingen Last opp zip. _Nødvendig tilgang:_ Skrivetilgang til mappen du er i nå
 
+> **Merk:** Mappenavn kan ikke inneholde noen av følgende tegn: `< > : " / \ | ? *` Hvis det nye navnet inneholder noen av disse tegnene, kan det ikke lagres.
+
 ### 1.3 **Last opp zip**
 
 Handlingen Last opp zip lar deg pakke ut innholdet i en zip-fil i dokumentstrukturen. Det er også mulig å laste opp et zip-dokument med knappen Last opp-handling, men da får du det bare som en zippet fil og du ser ikke innholdet i zip-filen. Klikk [her](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur#h_54ace27f24) for å lese mer om hvordan du laster opp en zip til Catenda.
@@ -9130,25 +9135,26 @@ Med følg-handlingen kan den valgte saken følges.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
 
-> **Merknad 1:** Hvis du tidligere har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9), satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7), eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) i saken, vil du automatisk følge saken. **Merknad 2:** Hvis en sak du følger blir flyttet til en saksliste du ikke har tilgang til, vil du fortsatt følge den, men vil ikke lenger få varslinger om den.
+> **Merknad 1:** Hvis du tidligere har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9), satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7), eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) i saken, vil du automatisk følge saken.
+> **Merknad 2:** Hvis en sak du følger blir flyttet til en saksliste du ikke har tilgang til, vil du fortsatt følge den, men vil ikke lenger få varslinger om den.
 
-_Varslinger på fulgte saker_ Å følge en sak handler om varslinger. Medlemmer som følger en sak får varslinger om endringer som blir gjort på saken. Når en sak blir opprettet, får alle medlemmer med tilgang til sakslisten der den blir opprettet, en varsling om at saken er opprettet. Fordi dette genererer mange varslinger, har mange slått av denne typen varsling i innstillingene sine. Etter opprettelsen vil medlemmer som ikke har noe med saken å gjøre ikke få varslinger videre om fremtidige hendelser som kommentarer og endringer i noen av feltene i sakshodet. Å følge en sak gjør at disse varslingene blir sendt ut.
+**Varslinger på fulgte saker** Å følge en sak handler om varslinger. Medlemmer som følger en sak får varslinger om endringer som blir gjort på saken. Når en sak blir opprettet, får alle medlemmer med tilgang til sakslisten der den blir opprettet, en varsling om at saken er opprettet. Fordi dette genererer mange varslinger, har mange slått av denne typen varsling i innstillingene sine. Etter opprettelsen vil medlemmer som ikke har noe med saken å gjøre ikke få varslinger videre om fremtidige hendelser som kommentarer og endringer i noen av feltene i sakshodet. Å følge en sak gjør at disse varslingene blir sendt ut.
 
-_Slutt å følge_ Medlemmer som følger en sak kan bruke handlingen "slutt å følge" for å slutte å følge saken, selv om de var de som opprettet saken.
+**Slutt å følge** Medlemmer som følger en sak kan bruke handlingen "slutt å følge" for å slutte å følge saken, selv om de var de som opprettet saken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/07-follow.png)
 
 Etter at du har sluttet å følge, blir ikke varslinger om saksendringer som nye kommentarer eller endringer i sakshodefelt sendt til medlemmene som sluttet å følge. _Tilgang påkrevd:_ Lesetilgang til sakslisten som saken er i
 
-_Få andre medlemmer til å følge_ [Tildeling](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) av et medlem til en sak gjør at de automatisk følger saken. Å sette et medlem som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) av en sak gjør at de automatisk følger saken. Fordi saksskaperen er satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) som standard ved opprettelsen av saken, følger de typisk saker de har opprettet. [Omtale](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) av et medlem i en sak gjør at de automatisk følger saken.
+**Få andre medlemmer til å følge** [Tildeling](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) av et medlem til en sak gjør at de automatisk følger saken. Å sette et medlem som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) av en sak gjør at de automatisk følger saken. Fordi saksskaperen er satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) som standard ved opprettelsen av saken, følger de typisk saker de har opprettet. [Omtale](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) av et medlem i en sak gjør at de automatisk følger saken.
 
 > **Merknad:** Mens begjærer, tildelte og omtalte medlemmer blir satt som følgere, gjelder ikke det samme for medlemmer av team som er satt som begjærer, tildelinger eller omtalt i saken. I dette tilfellet blir det sendt en engangsvarsling som sier at et team de er medlem av har blitt satt som begjærer, tildeling eller omtalt, men medlemmene i teamet blir da ikke satt som følgere til saken.
 
-_Manuell følging_ Hvis et annet medlem har laget en sak som virker uavhengig for et medlem, men de er interessert og vil se hvordan saken utvikler seg, kan saken følges for å få varslinger. Andre medlemmer kan ikke se hvem som har fulgt en sak. Dette gjør bare at fra da av blir varslinger sendt ut om endringer i saken til medlemmene som følger.
+**Manuell følging** Hvis et annet medlem har laget en sak som virker uavhengig for et medlem, men de er interessert og vil se hvordan saken utvikler seg, kan saken følges for å få varslinger. Andre medlemmer kan ikke se hvem som har fulgt en sak. Dette gjør bare at fra da av blir varslinger sendt ut om endringer i saken til medlemmene som følger.
 
 Tilfeller der et medlem ikke følger en sak kan være i saker der de ikke har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c).
 
-_Slutt å følge_ Hvis du ikke ønsker å få varslinger om fremtidig utvikling av denne saken, kan du slutte å følge den ved å klikke på slutt å følge.
+**Slutt å følge** Hvis du ikke ønsker å få varslinger om fremtidig utvikling av denne saken, kan du slutte å følge den ved å klikke på slutt å følge.
 
 ### 2.5 **Flytt sak**
 
@@ -9801,9 +9807,9 @@ Ved å fullføre samlingen:
 
 - Samlingen kan deles utenfor prosjektet.
 
-> **Merk:** Det vil ikke lenger være mulig å endre samlingen.
-
 > **Advarsel:** **Det er ikke mulig å gå tilbake etter fullføring**
+
+> **Merk:** Det vil ikke lenger være mulig å endre samlingen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 
@@ -10201,7 +10207,8 @@ Prioritet Når samme merkelapp legges til i begge menyene, får fjerning av merk
 
 **Egendefinerte felt** Angi en egendefinert feltverdi eller sett feltet til ingen verdi for flere saker på en gang.
 
-> **Merk 1:** Felt som er konfigurert som påkrevd i sakliste-innstillingene, kan ikke fjernes. **Merk 2:** Det er bare mulig å oppdatere tekst-, heltalls- og desimalfelt og ikke fjerne dem, selv om heltalls- og desimalfelt kan nulles og tekst kan settes til et enkelt mellomrom.
+> **Merknad 1:** Felt som er konfigurert som påkrevd i innstillingene for sakslist, kan ikke fjernes.
+> **Merknad 2:** Det er bare mulig å oppdatere tekst-, heltalls- og desimalfelt og ikke fjerne dem selv om heltalls- og desimalfelt kan nullstilles og tekst kan settes til ett enkelt mellomrom.
 
 **Kommentar** Legg til en kommentar på flere saker på en gang. Det er bare mulig å legge til kommentarer på flere saker på en gang, ikke redigere eller fjerne kommentarer.
 
@@ -12507,7 +12514,7 @@ _Nedre ikoner_ Antall merkede bokser. Antall kommentarer. Antall koblede dokumen
 
 > Hvordan Catenda-koblingen for Power BI logger på Catenda, og hva du skal gjøre når påloggingen mislykkes eller utløper.
 
-Catenda-koblingen for Power BI logger på Catenda med brukerens egen Catenda-konto. Dette fungerer på samme måte i den utgitte [Catenda Power BI-koblingen](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) og i [Catenda Power BI-koblingen (On Demand)](https://support.catenda.com/en/articles/17778871-catenda-power-bi-connector-on-demand).
+Catenda-koblingen for Power BI logger på Catenda med brukerens egen Catenda-konto. Dette fungerer på samme måte i den utgitte [Catenda Power BI-koblingen](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) og i [Catenda Power BI-koblingen (On Demand)](https://support.catenda.com/nb/articles/17778871-catenda-power-bi-kobling-pa-foresporsel).
 
 ## 1. **Logg på for første gang**
 
@@ -15184,7 +15191,8 @@ I det første trinnet kan revisjonen fra hver av modellene som skal inkluderes i
 
 I det første trinnet av modeleksporten kan modellene som skal inkluderes i eksporten velges.
 
-> **Merknad 1:** Hvis modellen ikke har revisjoner som kan eksporteres, vil avmerkingsboksen være utgråt. **Merknad 2:** En modellrevisjon må være blitt behandlet og ikke trukket tilbake for å kunne velges.
+> **Merknad 1:** Hvis modellen ikke har revisjoner som kan eksporteres, vil avmerkingsboksen være utgrårt.
+> **Merknad 2:** En modellrevisjon må være behandlet og ikke trukket tilbake for å kunne velges.
 
 ### 1.1 **Navigasjon**
 
@@ -15989,7 +15997,8 @@ Dette åpner utskriftsdialogen i nettleseren din. Her er et eksempel på hvordan
 
 I utskriftsdialogen skriver du ut dokumentet til PDF.
 
-> **Merk 1:** QR-koden vil bare havne på innholdslaget hvis du skriver ut dokumentet. Hvis du laster ned dokumentet, vil det være på annoterungslaget. **Merk 2:** Ved å skrive ut til PDF rasteriserer du innholdet i dokumentet. Dette betyr at teksten ikke vil være søkbar når du laster den opp som en revisjon til Catenda.
+> **Merknad 1:** QR-koden vil bare ende opp på innholdslaget hvis du skriver ut dokumentet. Hvis du laster ned dokumentet, vil det være på annoteringslaget.
+> **Merknad 2:** Ved å skrive ut til PDF rasteriserer du innholdet i dokumentet. Dette betyr at teksten ikke vil være søkbar når du laster den opp som en revision til Catenda.
 
 Den utskrevne PDF-en med plassholdingen kan nå lastes opp som en ny revisjon til Catenda. For å holde revisjonsloggen din ren kan du velge å trekke tilbake forrige revisjon uten QR-koden.
 
@@ -16041,7 +16050,8 @@ I menyen for etterbehandling velger du alternativet Kombiner tilstøtende bilder
 
 # Rapportmalsider
 
-> **Notat 1:** Rapportsiden er en valgfri funksjon som kan aktiveres for pågående prosjekter. **Notat 2:** Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
+> **Merknad 1:** Rapportsiden er en opt-in-funksjon som kan aktiveres for pågående prosjekter.
+> **Merknad 2:** Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
 
 Siden for rapportmaler kan finnes som en underside av [rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside) i den venstre navigeringsmenyen. På siden for rapportmaler kan dokumenter, saker og gjennomgangsmalene som er tilgjengelige for prosjektet administreres. _Påkrevd tilgang:_ Administrator
 
@@ -16055,7 +16065,7 @@ Handlingene på rapportmalsiden finner du ved å klikke på handlingsmenyen øve
 
 ![Handlingsmenyen på siden for rapportmaler, med Ny mal for sak, Ny dokumentmal og Ny mal for gjennomgang](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdige rapportmalene i stedet, og tilpasse den til prosjektet. De kan lastes ned fra [Ferdige rapportmaler](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(kun for report editor-kunder)_.
+Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdige rapportmalene i stedet, og tilpasse den til prosjektet. De kan lastes ned fra [Ferdige rapportmaler](https://support.catenda.com/nb/articles/17778911-ferdige-rapportmaler) _(kun for report editor-kunder)_.
 
 ### 1.1 **Ny saksmal**
 
@@ -17377,7 +17387,8 @@ Hvis du klikker på navnet på sakslisten øverst til venstre, får du en rulleg
 
 Hvis det er mer enn én saksliste i prosjektet, vil du se alternativet Alle sakslister nederst i rullegardinlisten. Her kombineres sakene fra alle lister. Dette kan være nyttig for å finne en sak som du er usikker på hvilken saksliste den ble opprettet i.
 
-> **Merknad 1:** Det er kun mulig å søke på følgende i "Alle sakslister"-listen. Mine saker, Meta-status, Frist, Oppdatert, Tildelt til, Etterspurt av, Oppretter, Milepæl, Egendefinerte felt, Merkelapper, Lenker **Merknad 2:** Det er kun mulig å bytte saker fra én saksliste om gangen.
+> **Merknad 1:** Det er kun mulig å søke på følgende i "Alle sakslister"-tavlen. Mine saker, Meta-status, Frist, Oppdatert, Tilordnet, Anmoder, Opprettet av, milestone, Egendefinerte felt, Merkelapper, Lenker
+> **Merknad 2:** Det er kun mulig å flytte saker fra én saksliste av gangen.
 
 ## 2. **Nye elementhandlinger**
 
@@ -18424,7 +18435,8 @@ Dokumenter som lastes opp til en mappe der denne navnekonvensjonen er konfigurer
 
 # Solibri Topics-integrasjon
 
-> **Viktig:** **Solibri versjon 9.13:** **Viktig:** BCF Connector-programtillegget er siden versjon 9.13 en egen fane kalt BCF Live connector i Solibri. Mye av den samme informasjonen gjelder fortsatt i denne fanen. **Solibri versjon 9.9:** Siden oppdatering 9.9 av Solibri er det nå mulig å synkronisere sakene dine med Catenda.
+> **Viktig:** **Solibri versjon 9.13:** **Viktig:** BCF Connector-programtillegget er siden versjon 9.13 en egen fane kalt BCF Live connector i Solibri. Mye av den samme informasjonen gjelder fortsatt i denne fanen.
+> **Solibri versjon 9.9:** Siden oppdatering 9.9 av Solibri er det nå mulig å synkronisere sakene dine med Catenda.
 
 Dette dokumentet forklarer hvordan du setter opp BCF-koblingen med Catenda-prosjektet ditt. Dette gjør det mulig å kommunisere saker på tvers av de to programmene sømløst, og unngår manuelle eksport- og import BCF-trinn.
 
@@ -22451,19 +22463,21 @@ Trykk på en markør på Catenda Site for å vise saknummeret og tittelen på sa
 
 For å arbeide med saker og plasseringer åpner du 2D/3D-visermenyen.
 
-_Velg et sakbrett_ Velg et sakbrett for å se markørene på etasjen fra det sakbrettet.
+**Velg et sakbrett** Velg et sakbrett for å se markørene på etasjen fra det sakbrettet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/03-displaying-markers.png)
 
 Hvis en etasje er konfigurert i etasjekonfiguratoren, åpnes den første etasjen i den første bygningen som standard så snart 2D/3D-visermenyen ble åpnet.
 
-_Filtrer sakbrettet_ Begrens antallet markører på skjermen ved å filtrere sakbrettet.
+**Filtrer sakbrettet** Begrens antallet markører på skjermen ved å filtrere sakbrettet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/04-displaying-markers.png)
 
-> **Advarsel 1:** Når sakmenyen åpnes, oppdateres og lagres markører fra de første 250 sakene i resultatet. Når 2D-viseren åpnes, vises markører fra tidligere oppdaterte saker som samsvarer med resultatet i sakmenyen. Merk at markører fra saker kan være spredt på etasjer som ikke er den aktive etasjen. **Advarsel 2:** Når det er 250+ saker i sakmenyen-resultatet, kan markører ikke ha blitt lastet inn eller kan være utdaterte. Rull ned listen for å vise/oppdatere markørene deres også. Filtrering av brettet slik at det er færre saker i resultatet kan også bidra til å sikre at markører som tilhører saker i det filtrerte resultatet blir ytterligere oppdatert og vist. **Advarsel 3:** Når du logger ut av applikasjonen og logger tilbake inn, går historien over hvilke saker som ble lastet inn tapt, og saker som ble lastet inn tidligere må kanskje lastes inn igjen.
+> **Advarsel 1:** Når emne-menyen åpnes, oppdateres og lagres markører fra de første 250 sakene i resultatet. Når 2D-viseren åpnes, vises markører fra tidligere oppdaterte saker som samsvarer med resultatet i emne-menyen. Merk at markører fra saker kan være spredt på andre etasjer enn den aktive etasjen.
+> **Advarsel 2:** Når det er 250+ saker i emne-menyens resultat, kan markører ikke ha blitt lastet inn eller kan være foreldet. Rull ned i listen for å vise/oppdatere deres markører også. Filtrering av brettet slik at det er færre saker i resultatet kan også bidra til å sikre at markører som tilhører saker i det filtrerte resultatet, blir oppdatert og vist.
+> **Advarsel 3:** Når du logger ut av applikasjonen og logger inn igjen, går historikken over hvilke saker som ble lastet inn tapt, og saker som tidligere ble lastet inn, må kanskje lastes inn igjen.
 
-_Utvid 2D-visningen_ Dra på skillelinjen mellom 2D- og 3D-viserne for å utvide den.
+**Utvid 2D-visningen** Dra på skillelinjen mellom 2D- og 3D-viserne for å utvide den.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/05-displaying-markers.png)
 

@@ -709,7 +709,8 @@ De naam van de uitnodigende gebruiker en het e-mailadres van de gebruiker zijn z
 
 De e-mail wordt verzonden vanaf [noreply@catenda.com](mailto:noreply@catenda.com)
 
-> **Opmerking 1:** Een projectuitnodiging kan meerdere keren worden verzonden. Alle e-mails hebben dezelfde Koppeling, dus ze werken allemaal, tenzij de uitnodiging is ingetrokken. **Opmerking 2:** U kunt niet antwoorden op de e-mail van [noreply@catenda.com](mailto:noreply@catenda.com). Als u vragen over de uitnodiging hebt, moet u antwoorden op het e-mailadres van de uitnodigende persoon of contact opnemen met [support@catenda.com](mailto:support@catenda.com)
+> **Opmerking 1:** Een projectuitnodiging kan meerdere keren worden verzonden. Alle e-mails hebben dezelfde Koppelingen, dus deze werken allemaal tenzij de uitnodiging is ingetrokken.
+> **Opmerking 2:** U kunt niet antwoorden op de e-mail van [noreply@catenda.com](mailto:noreply@catenda.com). Als u vragen hebt over de uitnodiging, moet u antwoorden op het e-mailadres van de persoon die u heeft uitgenodigd of contact opnemen met [support@catenda.com](mailto:support@catenda.com)
 
 ## 2. De uitnodiging accepteren
 
@@ -1496,9 +1497,8 @@ Nieuw apparaat:
 1. Installeer en open de Microsoft Authenticator-app op uw nieuwe apparaat
 2. Tik op "Herstel starten."
 
-> **Opmerking 1:** Stel geen accounts in met Microsoft Authenticator totdat u het Recovery-hulpprogramma hebt gebruikt, omdat dit overeenkomende siteaccounts overschrijft.
-
-> **Opmerking 2:** Deze methode vereist dat u uw MFA-codes een back-up maakt, wat betekent dat deze worden opgeslagen in de cloudservice van uw app-provider. Gebruik deze methode alleen als u de back-upservice van uw app-provider vertrouwt. Zo niet, dan kunt u beter deactiveren en opnieuw activeren.
+> **Opmerking 1:** Stel geen accounts in met Microsoft Authenticator totdat u het herstelgereedschap hebt gebruikt, omdat dit overeenkomende siteaccounts overschrijft.
+> **Opmerking 2:** Deze methode vereist dat u een back-up maakt van uw MFA-codes, wat betekent dat ze zijn opgeslagen in de cloudservice van uw app-provider. Gebruik deze methode alleen als u de back-upservice van uw app-provider vertrouwt. Zo niet, dan kunt u beter deactiveren en opnieuw activeren.
 
 ## 4. **MFA uitschakelen**
 
@@ -2505,7 +2505,9 @@ Met [markers ingeschakeld](https://support.catenda.com/nl/articles/4854537-2d-vi
 
 Wanneer geselecteerd, worden het onderwerpcijfer en de titel weergegeven. Tik op de pijl om het onderwerp in het menu Topics te openen. Klik [hier](https://support.catenda.com/nl/articles/4854523-2d-locatie-van-onderwerpen) voor meer informatie over de 2D-locatie van Topics.
 
-> **Waarschuwing 1:** Wanneer het Topics-menu wordt geopend, worden markers van de eerste 250 Topics in het resultaat bijgewerkt en opgeslagen. Wanneer de 2D viewer wordt geopend, worden markers van eerder bijgewerkte Topics die overeenkomen met het resultaat in het Topics-menu, weergegeven. Opmerking: markers van Topics kunnen verspreid zijn over verdiepingen anders dan de actieve verdieping. **Waarschuwing 2:** Wanneer er 250+ Topics in het Topics-menu resultaat voorkomen, kunnen markers niet zijn geladen of kunnen zij verouderd zijn. Blader omlaag in de lijst om hun markers ook weer te geven/bij te werken. Het filteren van het bord zodat er minder Topics in het resultaat voorkomen, kan er ook voor zorgen dat markers die bij Topics in het gefilterde resultaat horen, extra worden bijgewerkt en weergegeven. **Waarschuwing 3:** Wanneer u zich afmeldt bij de toepassing en zich opnieuw aanmeldt, gaat de geschiedenis verloren van welke Topics zijn geladen en moeten Topics die eerder zijn geladen mogelijk opnieuw worden geladen.
+> **Waarschuwing 1:** Wanneer het Topics-menu is geopend, worden markers van de eerste 250 Topics in het resultaat bijgewerkt en opgeslagen. Wanneer de 2D Viewer is geopend, worden markers van eerder bijgewerkte Topics die overeenkomen met het resultaat in het Topics-menu weergegeven. Let op dat markers van Topics kunnen verspreid zijn over verdiepingen anders dan de actieve verdieping.
+> **Waarschuwing 2:** Wanneer er 250+ Topics in het Topics-menu resultaat zijn, zijn markers mogelijk niet geladen of verouderd. Scrol naar beneden in de lijst om hun markers weer te geven/bij te werken. Het filteren van het bord zodat er minder Topics in het resultaat zijn, kan er ook voor zorgen dat markers die tot Topics in het gefilterde resultaat behoren, aanvullend worden bijgewerkt en weergegeven.
+> **Waarschuwing 3:** Wanneer u zich afmeldt bij de toepassing en zich opnieuw aanmeldt, gaat de Geschiedenis van welke Topics waren geladen verloren en Topics die eerder waren geladen, moeten mogelijk opnieuw worden geladen.
 
 ### 1.3 **Werkbalk**
 
@@ -3318,7 +3320,8 @@ Klik op de knop Modellen om het dialoogvenster Modelselectie te openen om te wij
 
 **Modellen laden** Laad de modellen uit de snapshot naast de modellen die al in de viewer bestaan.
 
-> **Opmerking 1:** In dit menu koppelt u de snapshot alleen aan Catenda-modellen. Dit verandert niet de inhoud van de BCF. **Opmerking 2:** Afhankelijk van de instellingen voor objectzichtbaarheid van de snapshot, kunnen toegevoegde modellen volledig verborgen zijn. Zelfs als ze niet zichtbaar zijn, dient u te kunnen zien dat ze worden geladen wanneer het onderwerp wordt afgespeeld.
+> **Opmerking 1:** In dit menu kunt u de snapshot alleen aan Catenda-modellen koppelen. De inhoud van de BCF wordt niet gewijzigd.
+> **Opmerking 2:** Afhankelijk van de zichtbaarheidsinstellingen van de snapshot kunnen toegevoegde modellen volledig verborgen zijn. Zelfs als ze niet zichtbaar zijn, zou u moeten zien dat ze zijn geladen wanneer het Topic wordt afgespeeld.
 
 ## 7. **Snapshoottoegang**
 
@@ -3923,7 +3926,7 @@ Ga als volgt te werk om door gebruikers gedefinieerde velden op documenten toe t
 
 > Hoe de Catenda-connector voor Power BI zich aanmeldt bij Catenda en wat u moet doen als de aanmelding mislukt of vervalt.
 
-De Catenda-connector voor Power BI meldt zich aan bij Catenda met het eigen Catenda-account van de gebruiker. Dit werkt op dezelfde manier in de uitgebrachte [Catenda Power BI Connector](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) en in de [Catenda Power BI Connector (On Demand)](https://support.catenda.com/en/articles/17778871-catenda-power-bi-connector-on-demand).
+De Catenda-connector voor Power BI meldt zich aan bij Catenda met het eigen Catenda-account van de gebruiker. Dit werkt op dezelfde manier in de uitgebrachte [Catenda Power BI Connector](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) en in de [Catenda Power BI Connector (On Demand)](https://support.catenda.com/nl/articles/17778871-catenda-power-bi-connector-on-demand).
 
 ## 1. **Aanmelden voor het eerst**
 
@@ -4175,6 +4178,8 @@ Om een nieuwe map te maken op de locatie waar u zich momenteel bevindt, kunt u d
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/02-new-folder.png)
 
 Wanneer u een Documentenstructuur maakt of veel mappen tegelijk moet maken, kan het vervelend zijn om de knop nieuwe map steeds opnieuw aan te klikken. Om veel mappen tegelijk te maken, kan het helpen om de mappen extern voor te bereiden en ze allemaal tegelijk met de actie zip uploaden te uploaden. _Vereiste toegang:_ Schrijftoegang tot de map waarin u zich momenteel bevindt
+
+> **Opmerking:** Mapnamen mogen geen van de volgende tekens bevatten: `< > : " / \ | ? *` Als de nieuwe naam een van deze tekens bevat, kan deze niet worden opgeslagen.
 
 ### 1.3 **Zip uploaden**
 
@@ -7911,7 +7916,8 @@ In de eerste stap kan de revisie van elk van de modellen die in het export moete
 
 In de eerste stap van het modelexport kunnen de modellen die in het export moeten worden opgenomen, worden geselecteerd.
 
-> **Opmerking 1:** Als het model geen revisies heeft die kunnen worden geëxporteerd, wordt het selectievakje grijs weergegeven. **Opmerking 2:** Een modelrevisie moet met succes zijn verwerkt en niet zijn ingetrokken om selecteerbaar te zijn.
+> **Opmerking 1:** Als het model geen revisies heeft die kunnen worden geëxporteerd, wordt het selectievakje grijs weergegeven.
+> **Opmerking 2:** Een modelrevise moet succesvol zijn verwerkt en niet ingetrokken zijn om selecteerbaar te zijn.
 
 ### 1.1 **Navigatie**
 
@@ -15197,7 +15203,8 @@ U vindt de volgende pagina's als subpagina's op deze pagina:
 
 # Pagina met rapportsjablonen
 
-> **Opmerking 1:** De pagina met rapporten is een opt-in-functie die kan worden aangevraagd voor lopende projecten. **Opmerking 2:** Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
+> **Opmerking 1:** De rapportenpagina is een opt-in-functie die kan worden aangevraagd voor lopende projecten.
+> **Opmerking 2:** Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waarbij deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
 
 De rapportagesjablonenenpagina is te vinden als een subpagina van de [rapportages pagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina) in het linkernavigatiemenu. Op de rapportagesjablonenpagina kunnen de document-, Topics- en goedkeuringsjablonen die beschikbaar zijn voor het project worden beheerd. _Vereiste toegang:_ Beheerder
 
@@ -15211,7 +15218,7 @@ De acties op de pagina met rapportsjablonen kunt u vinden door op het actiemenu 
 
 ![Het actiemenu van de rapportagesjablonenpagina met Nieuw Topics-sjabloon, Nieuw documentsjabloon en Nieuw goedkeuringssjabloon](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Deze acties maken een volledig nieuw sjabloon aan, beginnend met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapportagessjablonen en deze aan het project aan te passen. Deze kunnen worden gedownload van [Kant-en-klare rapportagessjablonen](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(alleen voor klanten met rapportage-editor)_.
+Deze acties maken een volledig nieuw sjabloon aan, beginnend met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapportagessjablonen en deze aan het project aan te passen. Deze kunnen worden gedownload van [Kant-en-klare rapportagessjablonen](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(alleen voor klanten met rapportage-editor)_.
 
 ### 1.1 **Nieuw onderwerpsjabloon**
 
@@ -15754,7 +15761,8 @@ Als u op de naam van het Topic board linksboven klikt, krijgt u een vervolgkeuze
 
 Als er meer dan één Topic board in het project is, ziet u de optie Alle Topic boards onderaan de vervolgkeuzelijst. Hier worden de Topics van alle boards gecombineerd. Dit kan nuttig zijn om een Topic te vinden waarvan u niet zeker bent op welk Topic board het is gemaakt.
 
-> **Opmerking 1:** In het "Alle Topic boards" board is het alleen mogelijk om op het volgende te zoeken. Mijn Topics, Meta-status, Einddatum, Bijgewerkt, Toegewezen aan, Aanvrager, Maker, Mijlpaal, Aangepaste velden, Labels, Koppelingen **Opmerking 2:** Het is alleen mogelijk om Topics van één Topic board tegelijk uit te wisselen.
+> **Opmerking 1:** Het is alleen mogelijk om te zoeken naar het volgende in het bord "Alle topic boards". Mijn Topics, Meta-status, Einddatum, Bijgewerkt, Toegewezen aan, Aanvrager, Maker, milestone, Aangepaste velden, Labels, Koppelingen
+> **Opmerking 2:** Het is alleen mogelijk om Topics van één Topic board tegelijk uit te wisselen.
 
 ## 2. **Nieuwe item acties**
 
@@ -16265,7 +16273,8 @@ Hiermee wordt het afdrukdialoogvenster van uw browser geopend. Dit is wat het vo
 
 Druk in het afdrukdialoogvenster het document af naar PDF.
 
-> **Opmerking 1:** De QR-code eindigt alleen op de inhoudslaag als u het document afdrukt. Als u het document downloadt, bevindt het zich op de annotatielaag. **Opmerking 2:** Door af te drukken naar PDF rasteriseert u de inhoud van het document. Dit betekent dat de tekst niet kan worden doorzocht wanneer u deze als revisie naar Catenda uploadt.
+> **Opmerking 1:** De QR-code komt alleen op de inhoudslaag te staan als u het document afdrukt. Als u het document downloadt, staat het op de annotatielaag.
+> **Opmerking 2:** Door naar PDF af te drukken rasteriseert u de inhoud van het document. Dit betekent dat de tekst niet doorzoekbaar is wanneer u het als revision uploadt naar Catenda.
 
 De afgedrukte PDF met de tijdelijke aanduiding kan nu als een nieuwe revisie naar Catenda worden geüpload. Om uw revisiegeschiedenis schoon te houden, kunt u de vorige revisie zonder QR-code intrekken.
 
@@ -16735,7 +16744,8 @@ Prioriteit Wanneer hetzelfde label in beide menu's wordt toegevoegd, krijgt het 
 
 **Aangepaste velden** Stel een waarde voor een aangepast veld in of stel het veld op geen waarde voor meerdere topics tegelijk.
 
-> **Opmerking 1:** Velden die als verplicht zijn geconfigureerd in topic board-instellingen kunnen niet worden verwijderd. **Opmerking 2:** Het is alleen mogelijk om tekst-, geheel getal- en decimailvelden bij te werken en deze niet in te stellen, hoewel geheel getal- en decimailvelden kunnen worden geannuleerd en tekst kan worden ingesteld op een enkele spatie.
+> **Opmerking 1:** Velden die als verplicht zijn ingesteld in de instellingen van het topic board kunnen niet worden uitgeschakeld.
+> **Opmerking 2:** Het is alleen mogelijk om tekst-, geheel getal- en decimaalvelden bij te werken en deze niet uit te schakelen, hoewel geheel getal- en decimaalvelden kunnen worden leeggemaakt en tekst kan worden ingesteld op één spatie.
 
 **Opmerking** Voeg een opmerking toe aan meerdere topics tegelijk. Het is alleen mogelijk om opmerkingen aan meerdere topics tegelijk toe te voegen en niet om opmerkingen te bewerken of te verwijderen.
 
@@ -16995,9 +17005,9 @@ Door de verzameling te finaliseren:
 
 - De verzameling kan buiten het project worden gedeeld.
 
-> **Opmerking:** Het zal niet meer mogelijk zijn de verzameling te wijzigen.
-
 > **Waarschuwing:** **Het is niet mogelijk terug te gaan na finalisering**
+
+> **Opmerking:** Het zal niet meer mogelijk zijn de verzameling te wijzigen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 
@@ -18553,7 +18563,8 @@ Wanneer documenten van een SharePoint-documentbibliotheek naar Catenda worden ge
 
 # Solibri Topics-integratie
 
-> **Belangrijk:** **Solibri versie 9.13:** **Belangrijk:** De BCF Connector-plugin is sinds versie 9.13 een afzonderlijk tabblad genaamd BCF Live connector in Solibri. Veel van dezelfde informatie is nog steeds van toepassing op dit tabblad. **Solibri versie 9.9:** Sinds update 9.9 van Solibri is het nu mogelijk om uw topics met Catenda te synchroniseren.
+> **Belangrijk:** **Solibri versie 9.13:** **Belangrijk:** De BCF Connector-plugin is sinds versie 9.13 een apart tabblad genaamd BCF Live connector in Solibri. Veel van dezelfde informatie is nog steeds van toepassing op dit tabblad.
+> **Solibri versie 9.9:** Sinds update 9.9 van Solibri is het nu mogelijk om uw Topics met Catenda te synchroniseren.
 
 Dit document beschrijft hoe u de BCF connector met uw Catenda-project instelt. Dit stelt u in staat om topics naadloos tussen de twee toepassingen te communiceren, waardoor handmatige BCF-export- en importstappen worden vermeden.
 
@@ -19216,7 +19227,8 @@ Met de actie volgen kan het geselecteerde onderwerp worden gevolgd.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
 
-> **Opmerking 1:** Als u eerder [was toegewezen](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp#h_0a91fa8dd9), [ingesteld als aanvrager](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp#h_1aea0990a7), of [genoemd](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak#h_2481ad1c8c) in het onderwerp, wordt u automatisch gevolgd door het onderwerp. **Opmerking 2:** Als een onderwerp dat u volgt, naar een bord wordt verplaatst waartoe u geen toegang hebt, volgt u deze nog steeds, maar ontvangt u geen meldingen meer over dit onderwerp.
+> **Opmerking 1:** Als u eerder [toegewezen](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp#h_0a91fa8dd9) was, ingesteld als [aanvrager](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp#h_1aea0990a7), of [vermeld](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak#h_2481ad1c8c) in het onderwerp, volgt u het onderwerp automatisch.
+> **Opmerking 2:** Als een onderwerp dat u volgt wordt verplaatst naar een bord waartoe u geen toegang hebt, volgt u het nog steeds, maar ontvangt u geen Notificaties meer erover.
 
 **Meldingen over gevolgde onderwerpen** Het volgen van een onderwerp heeft te maken met meldingen. Leden die een onderwerp volgen, ontvangen meldingen over wijzigingen die aan het onderwerp worden aangebracht. Wanneer een onderwerp wordt gemaakt, ontvangen alle leden met toegang tot het onderwerpenbord waarin het is gemaakt, een melding dat het onderwerp is gemaakt. Omdat dit veel meldingen genereert, hebben velen dit type melding in hun instellingen uitgeschakeld. Na het maken ervan, worden leden die niets met het onderwerp te maken hebben, niet meer op de hoogte gesteld van toekomstige gebeurtenissen zoals opmerkingen en wijzigingen in een van de velden in de onderwerpheader. Het volgen van een onderwerp zorg ervoor dat deze meldingen worden verzonden.
 
@@ -22369,7 +22381,9 @@ Als een verdieping is geconfigureerd in de verdiepingsconfiguratie, wordt de eer
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/04-displaying-markers.png)
 
-> **Waarschuwing 1:** Wanneer het topics menu wordt geopend, worden markeringen van de eerste 250 topics in het resultaat bijgewerkt en opgeslagen. Wanneer de 2D viewer wordt geopend, worden markeringen van eerder bijgewerkte topics die overeenkomen met het resultaat in het topics menu weergegeven. Opmerking: markeringen van topics kunnen verspreid zijn over verdiepingen anders dan de actieve verdieping. **Waarschuwing 2:** Wanneer er 250+ topics in het topics menu-resultaat zijn, zijn markeringen mogelijk niet geladen of verouderd. Schuif omlaag in de lijst om hun markeringen ook weer te geven/bij te werken. Het filteren van het board zodat er minder topics in het resultaat zijn, kan ook helpen om ervoor te zorgen dat markeringen van topics in het gefilterde resultaat aanvullend worden bijgewerkt en weergegeven. **Waarschuwing 3:** Wanneer u zich afmeldt bij de toepassing en zich weer aanmeldt, gaat de geschiedenis van welke topics zijn geladen verloren en moet u topics die eerder zijn geladen mogelijk opnieuw laden.
+> **Waarschuwing 1:** Wanneer het menu Onderwerpen wordt geopend, worden markers van de eerste 250 onderwerpen in het resultaat bijgewerkt en opgeslagen. Wanneer de Viewer wordt geopend, worden markers van eerder bijgewerkte onderwerpen die overeenkomen met het resultaat in het menu Onderwerpen weergegeven. Opmerking: markers van onderwerpen kunnen verspreid zijn over verdiepingen anders dan de actieve verdieping.
+> **Waarschuwing 2:** Wanneer er 250+ onderwerpen in het resultaat van het menu Onderwerpen zijn, kunnen markers niet zijn geladen of verouderd zijn. Scroll naar beneden in de lijst om hun markers ook weer te geven/bij te werken. Het filteren van het bord zodat er minder onderwerpen in het resultaat zijn, kan ook helpen om ervoor te zorgen dat markers van onderwerpen in het gefilterde resultaat aanvullend worden bijgewerkt en weergegeven.
+> **Waarschuwing 3:** Wanneer u zich afmeldt en zich opnieuw aanmeldt, gaat de Geschiedenis van welke onderwerpen zijn geladen verloren en onderwerpen die eerder zijn geladen, moeten mogelijk opnieuw worden geladen.
 
 **Breid de 2D weergave uit** Sleep op de scheidingslijn tussen de 2D en 3D viewers om deze uit te breiden.
 

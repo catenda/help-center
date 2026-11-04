@@ -22,6 +22,8 @@ For å lage en ny mappe på dokumentplasseringen du er i nå, kan du bruke knapp
 
 Når du oppretter en dokumentstruktur eller må lage mange mapper på en gang, kan det være kjedelig å måtte klikke på knappen for ny mappe mange ganger. For å lage mange mapper på en gang kan det være nyttig å forberede mappene eksternt og laste dem opp alle på en gang med handlingen Last opp zip. _Nødvendig tilgang:_ Skrivetilgang til mappen du er i nå
 
+> **Merk:** Mappenavn kan ikke inneholde noen av følgende tegn: `< > : " / \ | ? *` Hvis det nye navnet inneholder noen av disse tegnene, kan det ikke lagres.
+
 ### 1.3 **Last opp zip**
 
 Handlingen Last opp zip lar deg pakke ut innholdet i en zip-fil i dokumentstrukturen. Det er også mulig å laste opp et zip-dokument med knappen Last opp-handling, men da får du det bare som en zippet fil og du ser ikke innholdet i zip-filen. Klikk [her](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur#h_54ace27f24) for å lese mer om hvordan du laster opp en zip til Catenda.

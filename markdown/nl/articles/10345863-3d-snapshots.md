@@ -169,7 +169,8 @@ Klik op de knop Modellen om het dialoogvenster Modelselectie te openen om te wij
 
 **Modellen laden** Laad de modellen uit de snapshot naast de modellen die al in de viewer bestaan.
 
-> **Opmerking 1:** In dit menu koppelt u de snapshot alleen aan Catenda-modellen. Dit verandert niet de inhoud van de BCF. **Opmerking 2:** Afhankelijk van de instellingen voor objectzichtbaarheid van de snapshot, kunnen toegevoegde modellen volledig verborgen zijn. Zelfs als ze niet zichtbaar zijn, dient u te kunnen zien dat ze worden geladen wanneer het onderwerp wordt afgespeeld.
+> **Opmerking 1:** In dit menu kunt u de snapshot alleen aan Catenda-modellen koppelen. De inhoud van de BCF wordt niet gewijzigd.
+> **Opmerking 2:** Afhankelijk van de zichtbaarheidsinstellingen van de snapshot kunnen toegevoegde modellen volledig verborgen zijn. Zelfs als ze niet zichtbaar zijn, zou u moeten zien dat ze zijn geladen wanneer het Topic wordt afgespeeld.
 
 ## 7. **Snapshoottoegang**
 

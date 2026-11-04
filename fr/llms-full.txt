@@ -180,7 +180,8 @@ Le nom de l'utilisateur qui invite et l'adresse e-mail de l'utilisateur seront v
 
 L'e-mail sera envoyé depuis [noreply@catenda.com](mailto:noreply@catenda.com)
 
-> **Remarque 1 :** Une invitation à un projet peut être envoyée plusieurs fois. Tous les e-mails auront le même Lien, ils fonctionneront tous à moins que l'invitation n'ait été révoquée. **Remarque 2 :** Vous ne pouvez pas répondre à l'e-mail [noreply@catenda.com](mailto:noreply@catenda.com). Si vous avez des questions concernant l'invitation, vous devrez répondre à l'adresse e-mail de la personne qui vous invite ou contacter [support@catenda.com](mailto:support@catenda.com)
+> **Remarque 1 :** Une invitation de projet peut être envoyée plusieurs fois. Tous les e-mails auront le même lien, ils fonctionneront donc tous à moins que l'invitation n'ait été révoquée.
+> **Remarque 2 :** Vous ne pouvez pas répondre à l'e-mail [noreply@catenda.com](mailto:noreply@catenda.com). Si vous avez des questions sur l'invitation, vous devrez répondre à l'adresse e-mail de la personne qui vous a invité ou contacter [support@catenda.com](mailto:support@catenda.com)
 
 ## 2. Accepter l'invitation
 
@@ -386,8 +387,8 @@ Après avoir connecté un code MFA, vous pouvez modifier en toute sécurité le 
 **Désactivation et réactivation** Il n'est possible d'utiliser qu'un appairage de code MFA à la fois. Si vous souhaitez passer à un appairage de code différent, peut-être parce que le vôtre a été compromis, vous suivez ces étapes : Vous devez également utiliser cette méthode si vous souhaitez changer l'application que vous utilisez pour le MFA.
 
 1. Désactivez votre MFA sur la [page d'authentification](https://hub.catenda.com/account/authentication)
-1. Préparez l'application que vous souhaitez utiliser pour reconnecter votre MFA
-1. Générez un nouvel appairage de code en scannant le code QR comme dans la [section d'activation](#h_9e13fd06f5)
+2. Préparez l'application que vous souhaitez utiliser pour reconnecter votre MFA
+3. Générez un nouvel appairage de code en scannant le code QR comme dans la [section d'activation](#h_9e13fd06f5)
 
 > **Note :** Soyez prudent avec cette méthode car votre compte sera temporairement vulnérable pendant qu'il est désactivé et vous ne pourrez pas accéder aux projets où le MFA est requis pendant cette période.
 
@@ -396,29 +397,28 @@ Après avoir connecté un code MFA, vous pouvez modifier en toute sécurité le 
 **Authentificateur Google** Ancien appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Appuyez sur Exporter les comptes
-1. Sélectionnez les comptes que vous souhaitez exporter
+2. Appuyez sur Exporter les comptes
+3. Sélectionnez les comptes que vous souhaitez exporter
 
 Nouvel appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Appuyez sur importer les comptes
-1. Appuyez sur scanner le code QR
-1. Scannez le code QR affiché sur l'ancien appareil lorsque vous avez suivi le processus d'export.
+2. Appuyez sur importer les comptes
+3. Appuyez sur scanner le code QR
+4. Scannez le code QR affiché sur l'ancien appareil lorsque vous avez suivi le processus d'export.
 
 **Authentificateur Microsoft** Ancien appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Activez la sauvegarde
+2. Activez la sauvegarde
 
 Nouvel appareil :
 
 1. Installez et ouvrez l'application Microsoft Authenticator sur votre nouvel appareil
-1. Appuyez sur "Commencer la récupération."
+2. Appuyez sur "Commencer la récupération."
 
-> **Note 1 :** Ne configurez aucun compte à l'aide de Microsoft Authenticator avant d'avoir utilisé l'outil de récupération car il remplacera les comptes de site correspondants.
-
-> **Note 2 :** Cette méthode nécessite que vous sauvegardiez vos codes MFA, ce qui signifie qu'ils sont stockés dans le service cloud de votre fournisseur d'applications. N'utilisez cette méthode que si vous faites confiance au service de sauvegarde de votre fournisseur d'applications. Si ce n'est pas le cas, il est préférable de désactiver et réactiver.
+> **Remarque 1 :** Ne configurez pas de comptes à l'aide de Microsoft Authenticator avant d'avoir utilisé l'outil de récupération, car il remplacera les comptes de site correspondants.
+> **Remarque 2 :** Cette méthode vous oblige à sauvegarder vos codes MFA, ce qui signifie qu'ils sont stockés dans le service cloud de votre fournisseur d'applications. Utilisez cette méthode uniquement si vous faites confiance au service de sauvegarde de votre fournisseur d'applications. Si ce n'est pas le cas, il est préférable de désactiver et réactiver.
 
 ## 4. **Désactivation du MFA**
 
@@ -3008,7 +3008,8 @@ Avec l'action de suivi, le sujet sélectionné peut être suivi.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
 
-> **Remarque 1:** Si vous avez été précédemment [assigné](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet#h_0a91fa8dd9), défini comme [demandeur](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet#h_1aea0990a7), ou [mentionné](https://support.catenda.com/fr/articles/8430847-boite-a-outils-de-formatage-des-publications#h_2481ad1c8c) dans le sujet, vous suivrez automatiquement le sujet. **Remarque 2:** Si un sujet que vous suivez est déplacé vers une liste à laquelle vous n'avez pas accès, vous continuerez à le suivre mais ne recevrez plus de notifications à ce sujet.
+> **Remarque 1 :** Si vous aviez précédemment été [assigné](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet#h_0a91fa8dd9), défini comme [demandeur](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet#h_1aea0990a7), ou [mentionné](https://support.catenda.com/fr/articles/8430847-boite-a-outils-de-formatage-des-publications#h_2481ad1c8c) dans le Sujet, vous suivrez automatiquement le Sujet.
+> **Remarque 2 :** Si un Sujet que vous suivez est déplacé vers un tableau auquel vous n'avez pas accès, vous continuerez à le suivre mais vous ne recevrez plus de notifications à ce sujet.
 
 **Notifications sur les sujets suivis** Le suivi d'un sujet est lié aux notifications. Les membres qui suivent un sujet reçoivent des notifications concernant les modifications apportées au sujet. Lorsqu'un sujet est créé, tous les membres ayant accès à la liste de sujets dans laquelle il est créé reçoivent une notification indiquant que le sujet a été créé. Comme cela génère beaucoup de notifications, beaucoup l'ont désactivé dans leurs paramètres. Après sa création, les membres qui n'ont rien à voir avec le sujet ne seront pas notifiés davantage des événements futurs tels que les commentaires et les modifications dans n'importe quel champ de l'en-tête du sujet. Le suivi d'un sujet garantit que ces notifications sont envoyées.
 
@@ -3081,6 +3082,8 @@ Pour créer un nouveau dossier à l'emplacement du document dans lequel vous vou
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/02-new-folder.png)
 
 Lorsque vous créez une structure de documents ou que vous devez créer de nombreux dossiers à la fois, il peut être fastidieux de devoir cliquer plusieurs fois sur le bouton de nouveau dossier. Pour créer de nombreux dossiers à la fois, il peut être utile de préparer les dossiers en externe et de les télécharger tous à la fois avec l'action de dépôt ZIP. _Accès requis :_ Accès en écriture au dossier dans lequel vous êtes actuellement
+
+> **Remarque :** Les noms de dossiers ne peuvent pas contenir les caractères suivants : `< > : " / \ | ? *` Si le nouveau nom inclut l'un de ces caractères, il ne peut pas être enregistré.
 
 ### 1.3 **Déposer un fichier ZIP**
 
@@ -5374,7 +5377,8 @@ Pour modifier les modèles chargés, cliquez sur le bouton modèles pour ouvrir 
 
 **Charger les modèles** Charger les modèles de la capture en plus des modèles qui existent déjà dans la visionneuse.
 
-> **Remarque 1 :** Dans ce menu, vous ne liez que la capture aux modèles Catenda. Cela ne change pas le contenu du BCF. **Remarque 2 :** Selon les paramètres de visibilité des objets de la capture, les modèles ajoutés pourraient être complètement masqués. Même s'ils ne sont pas visibles, vous devriez voir qu'ils sont chargés lors de la lecture du sujet.
+> **Note 1 :** Dans ce menu, vous liez uniquement la Capture au modèle Catenda. Cela ne modifie pas le contenu du BCF.
+> **Note 2 :** Selon les paramètres de visibilité des objets de la Capture, les modèles ajoutés peuvent être complètement masqués. Même s'ils ne sont pas visibles, vous devriez voir qu'ils sont chargés lors de la lecture du Sujet.
 
 ## 7. **Accès à la capture**
 
@@ -5664,7 +5668,8 @@ Cela ouvrira la boîte de dialogue d'impression de votre navigateur. Voici ce qu
 
 Dans la boîte de dialogue d'impression, imprimez le document en PDF.
 
-> **Remarque 1 :** Le code QR ne se retrouvera sur la couche de contenu que si vous imprimez le document. Si vous téléchargez le document, il sera sur la couche d'annotation. **Remarque 2 :** En imprimant en PDF, vous rastérisez le contenu du document. Cela signifie que le texte ne sera pas consultable lorsque vous le téléchargerez en tant que révision vers Catenda.
+> **Remarque 1 :** Le code QR ne s'affichera sur la couche de contenu que si vous imprimez le document. Si vous téléchargez le document, il sera sur la couche d'annotation.
+> **Remarque 2 :** En imprimant au format PDF, vous rastérisez le contenu du document. Cela signifie que le texte ne sera pas consultable lorsque vous le téléverserez comme révision sur Catenda.
 
 Le PDF imprimé avec l'espace réservé peut maintenant être téléchargé en tant que nouvelle révision vers Catenda. Pour garder votre historique de révisions propre, vous pouvez souhaiter retirer la révision précédente sans le code QR.
 
@@ -7600,7 +7605,8 @@ Cliquez sur le bouton plus vert en haut à droite de la [page d'export de modèl
 
 À la première étape de l'export de modèle, les modèles à inclure dans l'export peuvent être sélectionnés.
 
-> **Remarque 1 :** Si le modèle n'a pas de révisions pouvant être exportées, la case sera grisée. **Remarque 2 :** Une révision de modèle doit être traitée avec succès et ne pas être retirée pour être sélectionnable.
+> **Remarque 1 :** Si le modèle n'a pas de révisions qui peuvent être exportées, la case à cocher sera grisée.
+> **Remarque 2 :** Une révision de modèle doit être traitée avec succès et ne pas être retirée pour être sélectionnable.
 
 ### 1.1 **Navigation**
 
@@ -10107,7 +10113,8 @@ Supprimer - Cliquez sur "Catenda" pour supprimer le lien pour ce document sélec
 
 # Intégration des Topics Solibri
 
-> **Important :** **Solibri version 9.13 :** **Important :** Le plugin BCF Connector est depuis la version 9.13 un onglet séparé appelé BCF Live connector dans Solibri. Une grande partie des mêmes informations s'applique toujours dans cet onglet. **Solibri version 9.9 :** Depuis la mise à jour 9.9 de Solibri, il est maintenant possible de synchroniser vos topics avec Catenda.
+> **Important :** **Solibri version 9.13 :** **Important :** Le plug-in BCF Connector est depuis la version 9.13 un onglet séparé appelé BCF Live connector dans Solibri. Une grande partie des mêmes informations s'applique toujours dans cet onglet.
+> **Solibri version 9.9 :** Depuis la mise à jour 9.9 de Solibri, il est désormais possible de synchroniser vos Sujets avec Catenda.
 
 Ce document explique comment configurer le connecteur BCF avec votre projet Catenda. Cela permet aux topics d'être communiqués entre les deux applications de manière transparente, en évitant les étapes manuelles d'export et d'import BCF.
 
@@ -11072,9 +11079,9 @@ En finalisant la collection :
 
 - La collection peut être partagée en dehors du projet.
 
-> **Remarque :** Il ne sera plus possible de modifier la collection.
-
 > **Avertissement :** **Il n'est pas possible de revenir en arrière après la finalisation**
+
+> **Remarque :** Il ne sera plus possible de modifier la collection.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 
@@ -12071,7 +12078,8 @@ Priorité Lorsque la même étiquette est ajoutée dans les deux menus, la suppr
 
 **Champs personnalisés** Définissez une valeur de champ personnalisé ou définissez le champ sur aucune valeur pour plusieurs sujets à la fois.
 
-> **Remarque 1 :** Les champs configurés comme obligatoires dans les paramètres de la liste de sujets ne peuvent pas être désactivés. **Remarque 2 :** Il est uniquement possible de mettre à jour les champs texte, entier et décimal et de ne pas les désactiver, bien que les champs entier et décimal puissent être annulés et le texte puisse être défini sur un espace unique.
+> **Remarque 1 :** Les champs configurés comme obligatoires dans les paramètres de la liste de sujets ne peuvent pas être désactivés.
+> **Remarque 2 :** Il est uniquement possible de mettre à jour les champs texte, entier et décimal et de ne pas les désactiver, bien que les champs entier et décimal puissent être annulés et le texte peut être défini sur un seul espace.
 
 **Commentaire** Ajoutez un commentaire à plusieurs sujets à la fois. Il est uniquement possible d'ajouter des commentaires à plusieurs sujets à la fois et non de modifier ou de supprimer des commentaires.
 
@@ -15396,7 +15404,8 @@ Après soumission d'une convention de nommage, elle peut être [activée par dos
 
 # Page des gabarits de rapports
 
-> **Remarque 1 :** La page des rapports est une fonctionnalité optionnelle qui peut être activée pour les projets en cours. **Remarque 2 :** Les nouveaux projets créés à partir d'un projet de gabarit pour lequel cette fonctionnalité est activée n'ont pas cette fonctionnalité activée.
+> **Remarque 1 :** La page des rapports est une fonctionnalité optionnelle qui peut être demandée pour les projets en cours.
+> **Remarque 2 :** Les nouveaux projets créés à partir d'un projet de modèle où cette fonctionnalité est activée n'ont pas cette fonctionnalité activée.
 
 La page des modèles de rapports se trouve comme sous-page de la [page des rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) dans le menu de navigation de gauche. Sur la page des modèles de rapports, les modèles de documents, de Sujets et d'approbation disponibles pour le projet peuvent être gérés. _Accès requis :_ Administrateur
 
@@ -15410,7 +15419,7 @@ Les actions de la page des gabarits de rapports se trouvent en cliquant sur le m
 
 ![Le menu d'actions de la page des modèles de rapports, avec Nouveau modèle de Sujets, Nouveau modèle de Documents et Nouveau modèle d'approbation](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Ces actions créent un modèle complètement nouveau, en commençant par une page vide. Il est recommandé de commencer par l'un des modèles de rapports prêts à l'emploi à la place, et de l'adapter au projet. Ils peuvent être téléchargés à partir de [Modèles de rapports prêts à l'emploi](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(clients de l'éditeur de rapports uniquement)_.
+Ces actions créent un modèle complètement nouveau, en commençant par une page vide. Il est recommandé de commencer par l'un des modèles de rapports prêts à l'emploi à la place, et de l'adapter au projet. Ils peuvent être téléchargés à partir de [Modèles de rapports prêts à l'emploi](https://support.catenda.com/fr/articles/17778911-modeles-de-rapport-prets-a-l-emploi) _(clients de l'éditeur de rapports uniquement)_.
 
 ### 1.1 **Nouveau gabarit de Sujets**
 
@@ -16982,7 +16991,8 @@ Si vous cliquez sur le nom de la liste de sujets en haut à gauche, vous obtiend
 
 S'il y a plus d'une liste de sujets dans le projet, vous verrez l'option Toutes les listes de sujets en bas de la liste déroulante. Ici, les Sujets de toutes les listes seront combinés. Cela peut être utile pour trouver un Sujet dont vous n'êtes pas sûr de la liste de sujets dans laquelle il a été créé.
 
-> **Note 1 :** Il est uniquement possible de rechercher les éléments suivants dans la liste de sujets "Toutes les listes de sujets". Mes Sujets, Méta-statut, Échéance, Mis à jour, Assigné à, Demandeur, Créateur, Jalon, Champs personnalisés, Étiquettes, Liens **Note 2 :** Il est uniquement possible d'échanger les Sujets d'une liste de sujets à la fois.
+> **Remarque 1 :** Il est uniquement possible de rechercher les éléments suivants dans le tableau « Tous les listes de sujets ». Mes sujets, Méta-statut, Échéance, Mis à jour, Responsable, Demandeur, Créateur, Jalon, Champs personnalisés, Étiquettes, Liens
+> **Remarque 2 :** Il est uniquement possible d'échanger des sujets d'une liste de sujets à la fois.
 
 ## 2. **Nouvelles actions d'élément**
 
@@ -19167,7 +19177,7 @@ Avec la convention de nommage, il est demandé ou souhaité que tout soit nommé
 
 > Comment le connecteur Catenda pour Power BI se connecte à Catenda, et que faire en cas d'échec ou d'expiration de la connexion.
 
-Le connecteur Catenda pour Power BI se connecte à Catenda avec le compte Catenda de l'utilisateur. Cela fonctionne de la même manière dans le [Connecteur Power BI Catenda](https://support.catenda.com/fr/articles/5784721-connecteur-catenda-power-bi) publié et dans le [Connecteur Power BI Catenda (À la demande)](https://support.catenda.com/en/articles/17778871-catenda-power-bi-connector-on-demand).
+Le connecteur Catenda pour Power BI se connecte à Catenda avec le compte Catenda de l'utilisateur. Cela fonctionne de la même manière dans le [Connecteur Power BI Catenda](https://support.catenda.com/fr/articles/5784721-connecteur-catenda-power-bi) publié et dans le [Connecteur Power BI Catenda (À la demande)](https://support.catenda.com/fr/articles/17778871-connecteur-catenda-power-bi-a-la-demande).
 
 ## 1. **Se connecter pour la première fois**
 
@@ -20102,7 +20112,9 @@ Avec les [marqueurs activés](https://support.catenda.com/fr/articles/4854537-vi
 
 Une fois sélectionné, le numéro et le titre du Sujets sont affichés. Appuyez sur la flèche pour ouvrir le Sujets dans le menu des Sujets. Cliquez [ici](https://support.catenda.com/fr/articles/4854523-localisation-2d-des-topics) pour en savoir plus sur l'emplacement 2D des Sujets.
 
-> **Avertissement 1 :** Lorsque le menu des Sujets est ouvert, les marqueurs des 250 premiers Sujets du résultat sont mis à jour et stockés. Lorsque la visionneuse 2D est ouverte, les marqueurs de tous les Sujets précédemment mis à jour qui correspondent au résultat du menu des Sujets sont affichés. Notez que les marqueurs des Sujets peuvent être répartis sur d'autres étages que l'étage actif. **Avertissement 2 :** Lorsqu'il y a 250+ Sujets dans le résultat du menu des Sujets, les marqueurs peuvent ne pas avoir été chargés ou peuvent être obsolètes. Faites défiler la liste pour afficher/mettre à jour leurs marqueurs également. Le filtrage du tableau pour qu'il y ait moins de Sujets dans le résultat peut également aider à garantir que les marqueurs appartenant aux Sujets du résultat filtré sont également mis à jour et affichés. **Avertissement 3 :** Lorsque vous vous déconnectez de l'application et que vous vous reconnectez, l'Historique des Sujets qui ont été chargés est perdu et les Sujets qui ont été précédemment chargés peuvent devoir être rechargés.
+> **Avertissement 1 :** Lorsque le menu Sujets est ouvert, les marqueurs des 250 premiers Sujets dans le résultat sont mis à jour et stockés. Lorsque la Visionneuse 2D est ouverte, les marqueurs des Sujets précédemment mis à jour qui correspondent au résultat dans le menu Sujets sont affichés. Notez que les marqueurs des Sujets peuvent être répartis sur des étages autres que l'étage actif.
+> **Avertissement 2 :** Lorsqu'il y a 250+ Sujets dans le résultat du menu Sujets, les marqueurs peuvent ne pas avoir été chargés ou peuvent être obsolètes. Faites défiler la liste pour afficher/mettre à jour leurs marqueurs également. Filtrer le tableau pour avoir moins de Sujets dans le résultat peut également aider à garantir que les marqueurs appartenant aux Sujets dans le résultat filtré sont également mis à jour et affichés.
+> **Avertissement 3 :** Lorsque vous vous déconnectez de l'application et que vous vous reconnectez, l'Historique des Sujets qui ont été chargés est perdu et les Sujets précédemment chargés devront peut-être être rechargés.
 
 ### 1.3 **Barre d'outils**
 
@@ -23214,7 +23226,9 @@ Si un étage a été configuré dans le configurateur d'étage, le premier étag
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/04-displaying-markers.png)
 
-> **Avertissement 1 :** Lorsque le menu des sujets est ouvert, les marqueurs des 250 premiers sujets du résultat sont mis à jour et stockés. Lorsque la Visionneuse 2D est ouverte, les marqueurs des sujets précédemment mis à jour qui correspondent au résultat du menu des sujets sont affichés. Notez que les marqueurs des sujets peuvent être répartis sur des étages autres que l'étage actif. **Avertissement 2 :** S'il y a 250+ sujets dans le résultat du menu des sujets, les marqueurs peuvent ne pas avoir été chargés ou peuvent être obsolètes. Faites défiler la liste pour afficher/mettre à jour leurs marqueurs également. Le filtrage du tableau de manière à avoir moins de sujets dans le résultat peut également aider à garantir que les marqueurs appartenant aux sujets du résultat filtré sont également mis à jour et affichés. **Avertissement 3 :** Lors de la déconnexion de l'application et de la reconnexion, l'Historique des sujets qui ont été chargés est perdu et les sujets qui ont été précédemment chargés devront peut-être être chargés à nouveau.
+> **Avertissement 1 :** Lorsque le menu des sujets est ouvert, les marqueurs des 250 premiers sujets du résultat sont mis à jour et stockés. Lorsque la visionneuse 2D est ouverte, les marqueurs des sujets précédemment mis à jour qui correspondent au résultat du menu des sujets sont affichés. Notez que les marqueurs des sujets peuvent être répartis sur des étages autres que l'étage actif.
+> **Avertissement 2 :** Lorsqu'il y a 250+ sujets dans le résultat du menu des sujets, les marqueurs peuvent ne pas avoir été chargés ou peuvent être obsolètes. Faites défiler la liste pour afficher/mettre à jour leurs marqueurs également. Le filtrage du tableau pour qu'il y ait moins de sujets dans le résultat peut également aider à garantir que les marqueurs appartenant aux sujets du résultat filtré sont également mis à jour et affichés.
+> **Avertissement 3 :** Lorsque vous vous déconnectez de l'application et que vous vous reconnectez, l'historique des sujets qui ont été chargés est perdu et les sujets qui ont été précédemment chargés peuvent devoir être rechargés.
 
 **Développer la vue 2D** Faites glisser le diviseur entre les Visionneuses 2D et 3D pour le développer.
 

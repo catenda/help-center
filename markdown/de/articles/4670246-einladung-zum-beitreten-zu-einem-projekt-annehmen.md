@@ -28,7 +28,8 @@ Der Name des einladenden Benutzers und die E-Mail-Adresse des Benutzers werden i
 
 Die E-Mail wird von [noreply@catenda.com](mailto:noreply@catenda.com) gesendet
 
-> **Hinweis 1:** Eine Projekteinladung kann mehrmals gesendet werden. Alle E-Mails enthalten denselben Link, sodass sie alle funktionieren, es sei denn, die Einladung wurde widerrufen. **Hinweis 2:** Sie können nicht auf die E-Mail [noreply@catenda.com](mailto:noreply@catenda.com) antworten. Wenn Sie Fragen zur Einladung haben, müssen Sie an die E-Mail-Adresse der einladenden Person antworten oder [support@catenda.com](mailto:support@catenda.com) kontaktieren
+> **Hinweis 1:** Eine Projekteinladung kann mehrmals versendet werden. Alle E-Mails enthalten denselben Link, sodass alle funktionieren, es sei denn, die Einladung wurde widerrufen.
+> **Hinweis 2:** Sie können nicht auf die E-Mail [noreply@catenda.com](mailto:noreply@catenda.com) antworten. Wenn Sie Fragen zur Einladung haben, müssen Sie dem Absender der Einladung antworten oder sich an [support@catenda.com](mailto:support@catenda.com) wenden
 
 ## 2. Einladung annehmen
 

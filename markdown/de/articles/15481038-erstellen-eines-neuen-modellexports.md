@@ -12,7 +12,8 @@ Im ersten Schritt kann die Revision jedes Modells angegeben werden, das in den E
 
 Im ersten Schritt des Modellexports können die Modelle ausgewählt werden, die in den Export einbezogen werden sollen.
 
-> **Hinweis 1:** Wenn das Modell keine Revisionen hat, die exportiert werden können, wird das Kontrollkästchen ausgegraut. **Hinweis 2:** Eine Modellrevision muss erfolgreich verarbeitet und nicht widerrufen worden sein, um ausgewählt zu werden.
+> **Hinweis 1:** Wenn das Modell keine exportierbaren Revisionen hat, wird das Kontrollkästchen ausgegraut.
+> **Hinweis 2:** Eine Modellrevision muss erfolgreich verarbeitet werden und darf nicht zurückgezogen sein, um wählbar zu sein.
 
 ### 1.1 **Navigation**
 

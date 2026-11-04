@@ -1,6 +1,7 @@
 # Seite Berichtvorlagen
 
-> **Hinweis 1:** Die Seite Berichte ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann. **Hinweis 2:** Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
+> **Hinweis 1:** Die Seite "Berichte" ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann.
+> **Hinweis 2:** Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
 
 Die Seite "Berichtvorlagen" ist eine Unterseite der [Berichtsseite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite) im linken Navigationsmenü. Auf der Seite "Berichtvorlagen" können die Dokument-, Themen- und Genehmigungsvorlagen, die für das Projekt verfügbar sind, verwaltet werden. _Erforderlicher Zugriff:_ Administrator
 
@@ -14,7 +15,7 @@ Die Aktionen auf der Seite Berichtvorlagen können Sie finden, indem Sie oben re
 
 ![Das Aktionsmenü der Berichtsvorlagenseite mit Neue Themenvorlage, Neue Dokumentvorlage und Neue Genehmigungsvorlage](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Diese Aktionen erstellen eine völlig neue Vorlage, beginnend mit einer leeren Seite. Es wird empfohlen, stattdessen mit einer der vorgefertigten Berichtvorlagen zu beginnen und diese an das Projekt anzupassen. Sie können von [Vorgefertigte Berichtvorlagen](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) heruntergeladen werden _(nur für Berichteditor-Kunden)_.
+Diese Aktionen erstellen eine völlig neue Vorlage, beginnend mit einer leeren Seite. Es wird empfohlen, stattdessen mit einer der vorgefertigten Berichtvorlagen zu beginnen und diese an das Projekt anzupassen. Sie können von [Vorgefertigte Berichtvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) heruntergeladen werden _(nur für Berichteditor-Kunden)_.
 
 ### 1.1 **Neue Themenvorlage**
 

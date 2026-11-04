@@ -14,7 +14,8 @@ Als u op de naam van het Topic board linksboven klikt, krijgt u een vervolgkeuze
 
 Als er meer dan één Topic board in het project is, ziet u de optie Alle Topic boards onderaan de vervolgkeuzelijst. Hier worden de Topics van alle boards gecombineerd. Dit kan nuttig zijn om een Topic te vinden waarvan u niet zeker bent op welk Topic board het is gemaakt.
 
-> **Opmerking 1:** In het "Alle Topic boards" board is het alleen mogelijk om op het volgende te zoeken. Mijn Topics, Meta-status, Einddatum, Bijgewerkt, Toegewezen aan, Aanvrager, Maker, Mijlpaal, Aangepaste velden, Labels, Koppelingen **Opmerking 2:** Het is alleen mogelijk om Topics van één Topic board tegelijk uit te wisselen.
+> **Opmerking 1:** Het is alleen mogelijk om te zoeken naar het volgende in het bord "Alle topic boards". Mijn Topics, Meta-status, Einddatum, Bijgewerkt, Toegewezen aan, Aanvrager, Maker, milestone, Aangepaste velden, Labels, Koppelingen
+> **Opmerking 2:** Het is alleen mogelijk om Topics van één Topic board tegelijk uit te wisselen.
 
 ## 2. **Nieuwe item acties**
 

@@ -12,7 +12,8 @@ Cliquez sur le bouton plus vert en haut à droite de la [page d'export de modèl
 
 À la première étape de l'export de modèle, les modèles à inclure dans l'export peuvent être sélectionnés.
 
-> **Remarque 1 :** Si le modèle n'a pas de révisions pouvant être exportées, la case sera grisée. **Remarque 2 :** Une révision de modèle doit être traitée avec succès et ne pas être retirée pour être sélectionnable.
+> **Remarque 1 :** Si le modèle n'a pas de révisions qui peuvent être exportées, la case à cocher sera grisée.
+> **Remarque 2 :** Une révision de modèle doit être traitée avec succès et ne pas être retirée pour être sélectionnable.
 
 ### 1.1 **Navigation**
 

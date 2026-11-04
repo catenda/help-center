@@ -110,7 +110,8 @@ Priorité Lorsque la même étiquette est ajoutée dans les deux menus, la suppr
 
 **Champs personnalisés** Définissez une valeur de champ personnalisé ou définissez le champ sur aucune valeur pour plusieurs sujets à la fois.
 
-> **Remarque 1 :** Les champs configurés comme obligatoires dans les paramètres de la liste de sujets ne peuvent pas être désactivés. **Remarque 2 :** Il est uniquement possible de mettre à jour les champs texte, entier et décimal et de ne pas les désactiver, bien que les champs entier et décimal puissent être annulés et le texte puisse être défini sur un espace unique.
+> **Remarque 1 :** Les champs configurés comme obligatoires dans les paramètres de la liste de sujets ne peuvent pas être désactivés.
+> **Remarque 2 :** Il est uniquement possible de mettre à jour les champs texte, entier et décimal et de ne pas les désactiver, bien que les champs entier et décimal puissent être annulés et le texte peut être défini sur un seul espace.
 
 **Commentaire** Ajoutez un commentaire à plusieurs sujets à la fois. Il est uniquement possible d'ajouter des commentaires à plusieurs sujets à la fois et non de modifier ou de supprimer des commentaires.
 

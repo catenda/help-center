@@ -50,9 +50,9 @@ Door de verzameling te finaliseren:
 
 - De verzameling kan buiten het project worden gedeeld.
 
-> **Opmerking:** Het zal niet meer mogelijk zijn de verzameling te wijzigen.
-
 > **Waarschuwing:** **Het is niet mogelijk terug te gaan na finalisering**
+
+> **Opmerking:** Het zal niet meer mogelijk zijn de verzameling te wijzigen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 

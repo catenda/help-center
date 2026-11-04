@@ -12,7 +12,8 @@ I det første trinnet kan revisjonen fra hver av modellene som skal inkluderes i
 
 I det første trinnet av modeleksporten kan modellene som skal inkluderes i eksporten velges.
 
-> **Merknad 1:** Hvis modellen ikke har revisjoner som kan eksporteres, vil avmerkingsboksen være utgråt. **Merknad 2:** En modellrevisjon må være blitt behandlet og ikke trukket tilbake for å kunne velges.
+> **Merknad 1:** Hvis modellen ikke har revisjoner som kan eksporteres, vil avmerkingsboksen være utgrårt.
+> **Merknad 2:** En modellrevisjon må være behandlet og ikke trukket tilbake for å kunne velges.
 
 ### 1.1 **Navigasjon**
 

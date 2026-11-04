@@ -1,6 +1,7 @@
 # Pagina met rapportsjablonen
 
-> **Opmerking 1:** De pagina met rapporten is een opt-in-functie die kan worden aangevraagd voor lopende projecten. **Opmerking 2:** Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
+> **Opmerking 1:** De rapportenpagina is een opt-in-functie die kan worden aangevraagd voor lopende projecten.
+> **Opmerking 2:** Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waarbij deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
 
 De rapportagesjablonenenpagina is te vinden als een subpagina van de [rapportages pagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina) in het linkernavigatiemenu. Op de rapportagesjablonenpagina kunnen de document-, Topics- en goedkeuringsjablonen die beschikbaar zijn voor het project worden beheerd. _Vereiste toegang:_ Beheerder
 
@@ -14,7 +15,7 @@ De acties op de pagina met rapportsjablonen kunt u vinden door op het actiemenu 
 
 ![Het actiemenu van de rapportagesjablonenpagina met Nieuw Topics-sjabloon, Nieuw documentsjabloon en Nieuw goedkeuringssjabloon](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Deze acties maken een volledig nieuw sjabloon aan, beginnend met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapportagessjablonen en deze aan het project aan te passen. Deze kunnen worden gedownload van [Kant-en-klare rapportagessjablonen](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(alleen voor klanten met rapportage-editor)_.
+Deze acties maken een volledig nieuw sjabloon aan, beginnend met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapportagessjablonen en deze aan het project aan te passen. Deze kunnen worden gedownload van [Kant-en-klare rapportagessjablonen](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(alleen voor klanten met rapportage-editor)_.
 
 ### 1.1 **Nieuw onderwerpsjabloon**
 

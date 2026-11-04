@@ -60,7 +60,8 @@ Dadurch wird das Druckdialogfeld Ihres Browsers geöffnet. So kann es für Googl
 
 Drucken Sie das Dokument im Druckdialogfeld als PDF.
 
-> **Hinweis 1:** Der QR-Code wird nur auf der Inhaltsebene angezeigt, wenn Sie das Dokument drucken. Wenn Sie das Dokument herunterladen, befindet es sich auf der Anmerkungsebene. **Hinweis 2:** Durch das Drucken als PDF rastern Sie den Inhalt des Dokuments. Dies bedeutet, dass der Text nicht durchsuchbar ist, wenn Sie ihn als neue Fassung auf Catenda hochladen.
+> **Hinweis 1:** Der QR-Code wird nur auf der Inhaltsebene angezeigt, wenn Sie das Dokument drucken. Wenn Sie das Dokument herunterladen, befindet es sich auf der Annotationsebene.
+> **Hinweis 2:** Durch das Drucken als PDF rasteln Sie den Inhalt des Dokuments. Dies bedeutet, dass der Text nicht durchsuchbar ist, wenn Sie ihn als neue Revision bei Catenda hochladen.
 
 Das gedruckte PDF mit dem Platzhalter kann nun als neue Fassung auf Catenda hochgeladen werden. Um die Fassungshistorie übersichtlich zu halten, können Sie die vorherige Fassung ohne QR-Code zurückziehen.
 

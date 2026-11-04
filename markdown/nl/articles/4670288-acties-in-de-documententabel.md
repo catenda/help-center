@@ -22,6 +22,8 @@ Om een nieuwe map te maken op de locatie waar u zich momenteel bevindt, kunt u d
 
 Wanneer u een Documentenstructuur maakt of veel mappen tegelijk moet maken, kan het vervelend zijn om de knop nieuwe map steeds opnieuw aan te klikken. Om veel mappen tegelijk te maken, kan het helpen om de mappen extern voor te bereiden en ze allemaal tegelijk met de actie zip uploaden te uploaden. _Vereiste toegang:_ Schrijftoegang tot de map waarin u zich momenteel bevindt
 
+> **Opmerking:** Mapnamen mogen geen van de volgende tekens bevatten: `< > : " / \ | ? *` Als de nieuwe naam een van deze tekens bevat, kan deze niet worden opgeslagen.
+
 ### 1.3 **Zip uploaden**
 
 Met de actie zip uploaden kunt u de inhoud van een zip-bestand in de Documentenstructuur uitpakken. Het is ook mogelijk om een zip-document te uploaden met de knop uploadactie, maar dan krijgt u het alleen als een gezipd bestand en ziet u de inhoud van het zip-bestand niet. Klik [hier](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden#h_54ace27f24) voor meer informatie over hoe u een zip naar Catenda uploadt.

@@ -164,7 +164,8 @@ Um zu ändern, welche Modelle geladen werden, klicken Sie auf die Schaltfläche 
 
 **Modelle laden** Laden Sie die Modelle aus dem Schnappschuss zusätzlich zu den Modellen, die bereits im Viewer vorhanden sind.
 
-> **Hinweis 1:** In diesem Menü verknüpfen Sie den Schnappschuss nur mit Catenda-Modellen. Dies ändert den Inhalt der BCF nicht. **Hinweis 2:** Je nach Sichtbarkeitseinstellungen des Schnappschussobjekts können hinzugefügte Modelle vollständig ausgeblendet sein. Auch wenn sie nicht sichtbar sind, sollten Sie sehen, dass sie geladen sind, wenn das Thema abgespielt wird.
+> **Hinweis 1:** In diesem Menü verknüpfen Sie den Schnappschuss nur mit Catenda-Modellen. Der Inhalt der BCF wird nicht geändert.
+> **Hinweis 2:** Je nach den Objektsichtbarkeitseinstellungen des Schnappschusses können hinzugefügte Modelle vollständig verborgen sein. Auch wenn sie nicht sichtbar sind, sollten Sie sehen, dass sie geladen werden, wenn das Thema wiedergegeben wird.
 
 ## 7. **Schnappschusszugriff**
 

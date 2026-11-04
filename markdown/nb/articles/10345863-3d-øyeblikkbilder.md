@@ -169,7 +169,8 @@ For å endre hvilke modeller som lastes inn, klikker du på modellknappen for å
 
 **Lastmodeller** Last modellene fra øyblikksbildet i tillegg til modellene som allerede finnes i viseren.
 
-> **Merknad 1:** I denne menyen lenker du bare øyblikksbildet til Catenda-modeller. Det endrer ikke innholdet i BCF. **Merknad 2:** Avhengig av synlighetsinnstillingene for objekter i øyblikksbildet, kan tilførte modeller være helt skjult. Selv om de ikke er synlige, bør du se at de lastes inn når saken spilles.
+> **Merknad 1:** I denne menyen kobler du bare øyeblikksbildet til Catenda-modeller. Det endrer ikke innholdet i BCF.
+> **Merknad 2:** Avhengig av synlighetsinnstillingene for objekter i øyeblikksbildet, kan tilføyde modeller være helt skjult. Selv om de ikke er synlige, bør du se at de er lastet når saken er åpen.
 
 ## 7. **Øyeblikksbildetilgang**
 

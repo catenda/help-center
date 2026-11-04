@@ -50,9 +50,9 @@ En finalisant la collection :
 
 - La collection peut être partagée en dehors du projet.
 
-> **Remarque :** Il ne sera plus possible de modifier la collection.
-
 > **Avertissement :** **Il n'est pas possible de revenir en arrière après la finalisation**
+
+> **Remarque :** Il ne sera plus possible de modifier la collection.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 

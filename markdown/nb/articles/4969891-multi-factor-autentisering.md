@@ -81,42 +81,41 @@ _Microsoft Authenticator_
 
 ## 3. **Overføring av MFA**
 
-_Deaktivering og reaktivering_ Det er bare mulig å bruke en MFA-apkkodeparring om gangen. Hvis du ønsker å bytte til en annen kodeparring, kanskje fordi din nåværende er kompromittert, følger du disse trinnene: Du bør også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
+**Deaktivering og reaktivering** Det er bare mulig å bruke en MFA-apkkodeparring om gangen. Hvis du ønsker å bytte til en annen kodeparring, kanskje fordi din nåværende er kompromittert, følger du disse trinnene: Du bør også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
 
 1. Deaktiver MFA din på [autentiseringssiden](https://hub.catenda.com/account/authentication)
-1. Forbered appen du vil bruke for å gjenopprette MFA-en din
-1. Generer et nytt kodeparpar ved å skanne QR-koden som i [aktiveringsdelen](#h_9e13fd06f5)
+2. Forbered appen du vil bruke for å gjenopprette MFA-en din
+3. Generer et nytt kodeparpar ved å skanne QR-koden som i [aktiveringsdelen](#h_9e13fd06f5)
 
 > **Merk:** Vær forsiktig med denne metoden fordi kontoen din blir midlertidig sårbar mens den er deaktivert, og du vil ikke kunne få tilgang til prosjekter hvor MFA kreves i løpet av denne tiden.
 
-_Overføring via sikkerhetskopi_ Hvis du ønsker å begynne å bruke en ny enhet uten at koden blir midlertidig deaktivert, kan du bruke en annen installasjon av samme MFA-app og overføre koden fra den gamle installasjonen til den nye installasjonen.
+**Overføring via sikkerhetskopi** Hvis du ønsker å begynne å bruke en ny enhet uten at koden blir midlertidig deaktivert, kan du bruke en annen installasjon av samme MFA-app og overføre koden fra den gamle installasjonen til den nye installasjonen.
 
-_Google authenticator_ Gammel enhet:
+**Google authenticator** Gammel enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-1. Trykk på Eksporter kontoer
-1. Velg kontiene du ønsker å eksportere
+2. Trykk på Eksporter kontoer
+3. Velg kontiene du ønsker å eksportere
 
 Ny enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-1. Trykk på importer kontoer
-1. Trykk på skann QR-kode
-1. Skann QR-koden som vises på den gamle enheten når du gikk gjennom eksportprosessen.
+2. Trykk på importer kontoer
+3. Trykk på skann QR-kode
+4. Skann QR-koden som vises på den gamle enheten når du gikk gjennom eksportprosessen.
 
-_Microsoft authenticator_ Gammel enhet:
+**Microsoft authenticator** Gammel enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-1. Slå på sikkerhetskopi
+2. Slå på sikkerhetskopi
 
 Ny enhet:
 
 1. Installer og åpne Microsoft Authenticator-appen på den nye enheten din
-1. Trykk på "Begynn gjenoppretting."
+2. Trykk på "Begynn gjenoppretting."
 
-> **Merk 1:** Ikke konfigurer noen kontoer med Microsoft Authenticator før du har brukt gjenopprettingsverktøyet, fordi det vil overskrive matchende nettstedkontoer.
-
-> **Merk 2:** Denne metoden krever at du sikkerhetskopier MFA-kodene dine, noe som betyr at de lagres i sikkerhetskopieringstjenesten til appleverandøren din. Bruk bare denne metoden hvis du stoler på sikkerhetskopieringstjenesten til appleverandøren din. Hvis ikke er du bedre tjent med å deaktivere og reaktivere.
+> **Merknad 1:** Ikke konfigurer noen kontoer ved hjelp av Microsoft Authenticator før du har brukt gjenopprettingsverktøyet, fordi det vil overskrive samsvarende nettstedskontoer.
+> **Merknad 2:** Denne metoden krever at du sikkerhetskopier MFA-kodene dine, noe som betyr at de lagres i skytjenesten til appleverandøren din. Bruk denne metoden bare hvis du stoler på sikkerhetskopitjenesten til appleverandøren din. Hvis ikke er det bedre å deaktivere og reaktivere.
 
 ## 4. **Deaktivering av MFA**
 

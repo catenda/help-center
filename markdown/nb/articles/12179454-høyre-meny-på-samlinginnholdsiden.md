@@ -50,9 +50,9 @@ Ved å fullføre samlingen:
 
 - Samlingen kan deles utenfor prosjektet.
 
-> **Merk:** Det vil ikke lenger være mulig å endre samlingen.
-
 > **Advarsel:** **Det er ikke mulig å gå tilbake etter fullføring**
+
+> **Merk:** Det vil ikke lenger være mulig å endre samlingen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 

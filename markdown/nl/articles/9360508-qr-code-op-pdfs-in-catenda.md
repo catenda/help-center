@@ -60,7 +60,8 @@ Hiermee wordt het afdrukdialoogvenster van uw browser geopend. Dit is wat het vo
 
 Druk in het afdrukdialoogvenster het document af naar PDF.
 
-> **Opmerking 1:** De QR-code eindigt alleen op de inhoudslaag als u het document afdrukt. Als u het document downloadt, bevindt het zich op de annotatielaag. **Opmerking 2:** Door af te drukken naar PDF rasteriseert u de inhoud van het document. Dit betekent dat de tekst niet kan worden doorzocht wanneer u deze als revisie naar Catenda uploadt.
+> **Opmerking 1:** De QR-code komt alleen op de inhoudslaag te staan als u het document afdrukt. Als u het document downloadt, staat het op de annotatielaag.
+> **Opmerking 2:** Door naar PDF af te drukken rasteriseert u de inhoud van het document. Dit betekent dat de tekst niet doorzoekbaar is wanneer u het als revision uploadt naar Catenda.
 
 De afgedrukte PDF met de tijdelijke aanduiding kan nu als een nieuwe revisie naar Catenda worden geüpload. Om uw revisiegeschiedenis schoon te houden, kunt u de vorige revisie zonder QR-code intrekken.
 

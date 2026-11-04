@@ -28,7 +28,8 @@ Navnet på den inviterende brukeren og e-postadressen til brukeren vil være syn
 
 E-posten vil bli sendt fra [noreply@catenda.com](mailto:noreply@catenda.com)
 
-> **Merknad 1:** En prosjektinvitasjon kan sendes flere ganger. Alle e-poster vil ha samme lenke så de vil alle fungere hvis ikke invitasjonen har blitt tilbakekalt. **Merknad 2:** Du kan ikke svare på [noreply@catenda.com](mailto:noreply@catenda.com) e-posten. Hvis du har spørsmål om invitasjonen, må du svare til den inviterende personens e-postadresse eller kontakte [support@catenda.com](mailto:support@catenda.com)
+> **Merk 1:** En prosjektinvitasjon kan sendes flere ganger. Alle e-poster vil ha den samme lenken, så de vil alle fungere med mindre invitasjonen har blitt tilbakekalt.
+> **Merk 2:** Du kan ikke svare på [noreply@catenda.com](mailto:noreply@catenda.com) e-posten. Hvis du har spørsmål om invitasjonen, må du svare på e-postadressen til personen som inviterte deg, eller kontakte [support@catenda.com](mailto:support@catenda.com)
 
 ## 2. Godta invitasjonen
 

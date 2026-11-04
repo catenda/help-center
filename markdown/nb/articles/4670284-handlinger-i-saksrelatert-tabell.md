@@ -62,25 +62,26 @@ Med følg-handlingen kan den valgte saken følges.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
 
-> **Merknad 1:** Hvis du tidligere har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9), satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7), eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) i saken, vil du automatisk følge saken. **Merknad 2:** Hvis en sak du følger blir flyttet til en saksliste du ikke har tilgang til, vil du fortsatt følge den, men vil ikke lenger få varslinger om den.
+> **Merknad 1:** Hvis du tidligere har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9), satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7), eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) i saken, vil du automatisk følge saken.
+> **Merknad 2:** Hvis en sak du følger blir flyttet til en saksliste du ikke har tilgang til, vil du fortsatt følge den, men vil ikke lenger få varslinger om den.
 
-_Varslinger på fulgte saker_ Å følge en sak handler om varslinger. Medlemmer som følger en sak får varslinger om endringer som blir gjort på saken. Når en sak blir opprettet, får alle medlemmer med tilgang til sakslisten der den blir opprettet, en varsling om at saken er opprettet. Fordi dette genererer mange varslinger, har mange slått av denne typen varsling i innstillingene sine. Etter opprettelsen vil medlemmer som ikke har noe med saken å gjøre ikke få varslinger videre om fremtidige hendelser som kommentarer og endringer i noen av feltene i sakshodet. Å følge en sak gjør at disse varslingene blir sendt ut.
+**Varslinger på fulgte saker** Å følge en sak handler om varslinger. Medlemmer som følger en sak får varslinger om endringer som blir gjort på saken. Når en sak blir opprettet, får alle medlemmer med tilgang til sakslisten der den blir opprettet, en varsling om at saken er opprettet. Fordi dette genererer mange varslinger, har mange slått av denne typen varsling i innstillingene sine. Etter opprettelsen vil medlemmer som ikke har noe med saken å gjøre ikke få varslinger videre om fremtidige hendelser som kommentarer og endringer i noen av feltene i sakshodet. Å følge en sak gjør at disse varslingene blir sendt ut.
 
-_Slutt å følge_ Medlemmer som følger en sak kan bruke handlingen "slutt å følge" for å slutte å følge saken, selv om de var de som opprettet saken.
+**Slutt å følge** Medlemmer som følger en sak kan bruke handlingen "slutt å følge" for å slutte å følge saken, selv om de var de som opprettet saken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/07-follow.png)
 
 Etter at du har sluttet å følge, blir ikke varslinger om saksendringer som nye kommentarer eller endringer i sakshodefelt sendt til medlemmene som sluttet å følge. _Tilgang påkrevd:_ Lesetilgang til sakslisten som saken er i
 
-_Få andre medlemmer til å følge_ [Tildeling](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) av et medlem til en sak gjør at de automatisk følger saken. Å sette et medlem som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) av en sak gjør at de automatisk følger saken. Fordi saksskaperen er satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) som standard ved opprettelsen av saken, følger de typisk saker de har opprettet. [Omtale](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) av et medlem i en sak gjør at de automatisk følger saken.
+**Få andre medlemmer til å følge** [Tildeling](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) av et medlem til en sak gjør at de automatisk følger saken. Å sette et medlem som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) av en sak gjør at de automatisk følger saken. Fordi saksskaperen er satt som [begjærer](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_1aea0990a7) som standard ved opprettelsen av saken, følger de typisk saker de har opprettet. [Omtale](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) av et medlem i en sak gjør at de automatisk følger saken.
 
 > **Merknad:** Mens begjærer, tildelte og omtalte medlemmer blir satt som følgere, gjelder ikke det samme for medlemmer av team som er satt som begjærer, tildelinger eller omtalt i saken. I dette tilfellet blir det sendt en engangsvarsling som sier at et team de er medlem av har blitt satt som begjærer, tildeling eller omtalt, men medlemmene i teamet blir da ikke satt som følgere til saken.
 
-_Manuell følging_ Hvis et annet medlem har laget en sak som virker uavhengig for et medlem, men de er interessert og vil se hvordan saken utvikler seg, kan saken følges for å få varslinger. Andre medlemmer kan ikke se hvem som har fulgt en sak. Dette gjør bare at fra da av blir varslinger sendt ut om endringer i saken til medlemmene som følger.
+**Manuell følging** Hvis et annet medlem har laget en sak som virker uavhengig for et medlem, men de er interessert og vil se hvordan saken utvikler seg, kan saken følges for å få varslinger. Andre medlemmer kan ikke se hvem som har fulgt en sak. Dette gjør bare at fra da av blir varslinger sendt ut om endringer i saken til medlemmene som følger.
 
 Tilfeller der et medlem ikke følger en sak kan være i saker der de ikke har blitt [tildelt](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_0a91fa8dd9) eller [omtalt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c).
 
-_Slutt å følge_ Hvis du ikke ønsker å få varslinger om fremtidig utvikling av denne saken, kan du slutte å følge den ved å klikke på slutt å følge.
+**Slutt å følge** Hvis du ikke ønsker å få varslinger om fremtidig utvikling av denne saken, kan du slutte å følge den ved å klikke på slutt å følge.
 
 ### 2.5 **Flytt sak**
 

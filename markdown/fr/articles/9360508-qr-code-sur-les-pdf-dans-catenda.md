@@ -60,7 +60,8 @@ Cela ouvrira la boîte de dialogue d'impression de votre navigateur. Voici ce qu
 
 Dans la boîte de dialogue d'impression, imprimez le document en PDF.
 
-> **Remarque 1 :** Le code QR ne se retrouvera sur la couche de contenu que si vous imprimez le document. Si vous téléchargez le document, il sera sur la couche d'annotation. **Remarque 2 :** En imprimant en PDF, vous rastérisez le contenu du document. Cela signifie que le texte ne sera pas consultable lorsque vous le téléchargerez en tant que révision vers Catenda.
+> **Remarque 1 :** Le code QR ne s'affichera sur la couche de contenu que si vous imprimez le document. Si vous téléchargez le document, il sera sur la couche d'annotation.
+> **Remarque 2 :** En imprimant au format PDF, vous rastérisez le contenu du document. Cela signifie que le texte ne sera pas consultable lorsque vous le téléverserez comme révision sur Catenda.
 
 Le PDF imprimé avec l'espace réservé peut maintenant être téléchargé en tant que nouvelle révision vers Catenda. Pour garder votre historique de révisions propre, vous pouvez souhaiter retirer la révision précédente sans le code QR.
 

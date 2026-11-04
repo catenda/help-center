@@ -84,8 +84,8 @@ Après avoir connecté un code MFA, vous pouvez modifier en toute sécurité le 
 **Désactivation et réactivation** Il n'est possible d'utiliser qu'un appairage de code MFA à la fois. Si vous souhaitez passer à un appairage de code différent, peut-être parce que le vôtre a été compromis, vous suivez ces étapes : Vous devez également utiliser cette méthode si vous souhaitez changer l'application que vous utilisez pour le MFA.
 
 1. Désactivez votre MFA sur la [page d'authentification](https://hub.catenda.com/account/authentication)
-1. Préparez l'application que vous souhaitez utiliser pour reconnecter votre MFA
-1. Générez un nouvel appairage de code en scannant le code QR comme dans la [section d'activation](#h_9e13fd06f5)
+2. Préparez l'application que vous souhaitez utiliser pour reconnecter votre MFA
+3. Générez un nouvel appairage de code en scannant le code QR comme dans la [section d'activation](#h_9e13fd06f5)
 
 > **Note :** Soyez prudent avec cette méthode car votre compte sera temporairement vulnérable pendant qu'il est désactivé et vous ne pourrez pas accéder aux projets où le MFA est requis pendant cette période.
 
@@ -94,29 +94,28 @@ Après avoir connecté un code MFA, vous pouvez modifier en toute sécurité le 
 **Authentificateur Google** Ancien appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Appuyez sur Exporter les comptes
-1. Sélectionnez les comptes que vous souhaitez exporter
+2. Appuyez sur Exporter les comptes
+3. Sélectionnez les comptes que vous souhaitez exporter
 
 Nouvel appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Appuyez sur importer les comptes
-1. Appuyez sur scanner le code QR
-1. Scannez le code QR affiché sur l'ancien appareil lorsque vous avez suivi le processus d'export.
+2. Appuyez sur importer les comptes
+3. Appuyez sur scanner le code QR
+4. Scannez le code QR affiché sur l'ancien appareil lorsque vous avez suivi le processus d'export.
 
 **Authentificateur Microsoft** Ancien appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Activez la sauvegarde
+2. Activez la sauvegarde
 
 Nouvel appareil :
 
 1. Installez et ouvrez l'application Microsoft Authenticator sur votre nouvel appareil
-1. Appuyez sur "Commencer la récupération."
+2. Appuyez sur "Commencer la récupération."
 
-> **Note 1 :** Ne configurez aucun compte à l'aide de Microsoft Authenticator avant d'avoir utilisé l'outil de récupération car il remplacera les comptes de site correspondants.
-
-> **Note 2 :** Cette méthode nécessite que vous sauvegardiez vos codes MFA, ce qui signifie qu'ils sont stockés dans le service cloud de votre fournisseur d'applications. N'utilisez cette méthode que si vous faites confiance au service de sauvegarde de votre fournisseur d'applications. Si ce n'est pas le cas, il est préférable de désactiver et réactiver.
+> **Remarque 1 :** Ne configurez pas de comptes à l'aide de Microsoft Authenticator avant d'avoir utilisé l'outil de récupération, car il remplacera les comptes de site correspondants.
+> **Remarque 2 :** Cette méthode vous oblige à sauvegarder vos codes MFA, ce qui signifie qu'ils sont stockés dans le service cloud de votre fournisseur d'applications. Utilisez cette méthode uniquement si vous faites confiance au service de sauvegarde de votre fournisseur d'applications. Si ce n'est pas le cas, il est préférable de désactiver et réactiver.
 
 ## 4. **Désactivation du MFA**
 

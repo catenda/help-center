@@ -84,8 +84,8 @@ Nach dem Verbinden eines MFA-Codes können Sie den Kontonamen des Codes sicher b
 **Deaktivieren und Reaktivieren** Es ist nur möglich, eine MFA-App-Code-Kopplung gleichzeitig zu verwenden. Wenn Sie zu einer anderen Code-Kopplung wechseln möchten, möglicherweise weil Ihre aktuelle kompromittiert wurde, führen Sie diese Schritte aus: Sie sollten diese Methode auch verwenden, wenn Sie die App ändern möchten, die Sie für MFA verwenden.
 
 1. Deaktivieren Sie Ihre MFA auf der [Authentifizierungsseite](https://hub.catenda.com/account/authentication)
-1. Bereiten Sie die App vor, die Sie verwenden möchten, um Ihre MFA erneut zu verbinden
-1. Generieren Sie ein neues Code-Paar durch Scannen des QR-Codes wie im [Aktivierungsbereich](#h_9e13fd06f5)
+2. Bereiten Sie die App vor, die Sie verwenden möchten, um Ihre MFA erneut zu verbinden
+3. Generieren Sie ein neues Code-Paar durch Scannen des QR-Codes wie im [Aktivierungsbereich](#h_9e13fd06f5)
 
 > **Hinweis:** Seien Sie vorsichtig mit dieser Methode, da Ihr Konto während der Deaktivierung vorübergehend anfällig ist und Sie während dieser Zeit nicht auf Projekte zugreifen können, für die MFA erforderlich ist.
 
@@ -94,29 +94,28 @@ Nach dem Verbinden eines MFA-Codes können Sie den Kontonamen des Codes sicher b
 **Google Authenticator** Altes Gerät:
 
 1. Tippen Sie oben rechts auf das Hamburger-Menü
-1. Tippen Sie auf Konten exportieren
-1. Wählen Sie die Konten aus, die Sie exportieren möchten
+2. Tippen Sie auf Konten exportieren
+3. Wählen Sie die Konten aus, die Sie exportieren möchten
 
 Neues Gerät:
 
 1. Tippen Sie oben rechts auf das Hamburger-Menü
-1. Tippen Sie auf Konten importieren
-1. Tippen Sie auf QR-Code scannen
-1. Scannen Sie den QR-Code, der auf dem alten Gerät angezeigt wird, wenn Sie den Exportvorgang durchlaufen haben.
+2. Tippen Sie auf Konten importieren
+3. Tippen Sie auf QR-Code scannen
+4. Scannen Sie den QR-Code, der auf dem alten Gerät angezeigt wird, wenn Sie den Exportvorgang durchlaufen haben.
 
 **Microsoft Authenticator** Altes Gerät:
 
 1. Tippen Sie oben rechts auf das Hamburger-Menü
-1. Sicherung aktivieren
+2. Sicherung aktivieren
 
 Neues Gerät:
 
 1. Installieren und öffnen Sie die Microsoft Authenticator-App auf Ihrem neuen Gerät
-1. Tippen Sie auf "Wiederherstellung starten."
+2. Tippen Sie auf "Wiederherstellung starten."
 
-> **Hinweis 1:** Richten Sie keine Konten mit Microsoft Authenticator ein, bis Sie das Wiederherstellungstool verwendet haben, da es übereinstimmende Site-Konten überschreibt.
-
-> **Hinweis 2:** Diese Methode erfordert, dass Sie Ihre MFA-Codes sichern, was bedeutet, dass sie im Cloud-Service Ihres App-Anbieters gespeichert sind. Verwenden Sie diese Methode nur, wenn Sie dem Sicherungsdienst Ihres App-Anbieters vertrauen. Wenn nicht, ist es besser, zu deaktivieren und zu reaktivieren.
+> **Hinweis 1:** Richten Sie keine Konten mit Microsoft Authenticator ein, bis Sie das Wiederherstellungstool verwendet haben, da es übereinstimmende Konten auf Websites überschreibt.
+> **Hinweis 2:** Diese Methode erfordert, dass Sie Ihre MFA-Codes sichern, was bedeutet, dass sie im Cloud-Dienst Ihres App-Anbieters gespeichert sind. Verwenden Sie diese Methode nur, wenn Sie dem Backup-Dienst Ihres App-Anbieters vertrauen. Wenn nicht, sollten Sie lieber die Deaktivierung und Reaktivierung durchführen.
 
 ## 4. **MFA deaktivieren**
 

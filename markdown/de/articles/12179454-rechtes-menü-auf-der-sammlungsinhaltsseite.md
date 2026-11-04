@@ -50,9 +50,9 @@ Durch die Finalisierung der Sammlung:
 
 - Die Sammlung kann außerhalb des Projekts freigegeben werden.
 
-> **Hinweis:** Es ist nicht mehr möglich, die Sammlung zu ändern.
-
 > **Warnung:** **Nach der Finalisierung ist ein Zurückgehen nicht möglich**
+
+> **Hinweis:** Es ist nicht mehr möglich, die Sammlung zu ändern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/08-document-revision.png)
 

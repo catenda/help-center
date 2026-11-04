@@ -60,7 +60,8 @@ Dette åpner utskriftsdialogen i nettleseren din. Her er et eksempel på hvordan
 
 I utskriftsdialogen skriver du ut dokumentet til PDF.
 
-> **Merk 1:** QR-koden vil bare havne på innholdslaget hvis du skriver ut dokumentet. Hvis du laster ned dokumentet, vil det være på annoterungslaget. **Merk 2:** Ved å skrive ut til PDF rasteriserer du innholdet i dokumentet. Dette betyr at teksten ikke vil være søkbar når du laster den opp som en revisjon til Catenda.
+> **Merknad 1:** QR-koden vil bare ende opp på innholdslaget hvis du skriver ut dokumentet. Hvis du laster ned dokumentet, vil det være på annoteringslaget.
+> **Merknad 2:** Ved å skrive ut til PDF rasteriserer du innholdet i dokumentet. Dette betyr at teksten ikke vil være søkbar når du laster den opp som en revision til Catenda.
 
 Den utskrevne PDF-en med plassholdingen kan nå lastes opp som en ny revisjon til Catenda. For å holde revisjonsloggen din ren kan du velge å trekke tilbake forrige revisjon uten QR-koden.
 

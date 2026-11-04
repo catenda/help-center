@@ -110,7 +110,8 @@ Prioritet Når samme merkelapp legges til i begge menyene, får fjerning av merk
 
 **Egendefinerte felt** Angi en egendefinert feltverdi eller sett feltet til ingen verdi for flere saker på en gang.
 
-> **Merk 1:** Felt som er konfigurert som påkrevd i sakliste-innstillingene, kan ikke fjernes. **Merk 2:** Det er bare mulig å oppdatere tekst-, heltalls- og desimalfelt og ikke fjerne dem, selv om heltalls- og desimalfelt kan nulles og tekst kan settes til et enkelt mellomrom.
+> **Merknad 1:** Felt som er konfigurert som påkrevd i innstillingene for sakslist, kan ikke fjernes.
+> **Merknad 2:** Det er bare mulig å oppdatere tekst-, heltalls- og desimalfelt og ikke fjerne dem selv om heltalls- og desimalfelt kan nullstilles og tekst kan settes til ett enkelt mellomrom.
 
 **Kommentar** Legg til en kommentar på flere saker på en gang. Det er bare mulig å legge til kommentarer på flere saker på en gang, ikke redigere eller fjerne kommentarer.
 

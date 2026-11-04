@@ -22,6 +22,8 @@ Um einen neuen Ordner am aktuellen Dokumentenspeicherort zu erstellen, können S
 
 Wenn Sie eine Dokumentstruktur erstellen oder viele Ordner auf einmal erstellen müssen, kann es mühsam sein, die Schaltfläche "Neuer Ordner" mehrmals anklicken zu müssen. Um viele Ordner auf einmal zu erstellen, kann es hilfreich sein, die Ordner extern vorzubereiten und sie alle auf einmal mit der Aktion "Zip hochladen" hochzuladen. _Erforderlicher Zugriff:_ Schreibzugriff auf den aktuellen Ordner
 
+> **Hinweis:** Ordnernamen darf keine der folgenden Zeichen enthalten: `< > : " / \ | ? *` Wenn der neue Name eines dieser Zeichen enthält, kann er nicht gespeichert werden.
+
 ### 1.3 **Zip hochladen**
 
 Mit der Aktion "Zip hochladen" können Sie den Inhalt einer ZIP-Datei in der Dokumentstruktur extrahieren. Es ist auch möglich, ein ZIP-Dokument mit der Schaltfläche "Hochladen" hochzuladen, aber dann erhalten Sie es nur als gezippte Datei und sehen nicht den Inhalt der ZIP-Datei. Klicken Sie [hier](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen#h_54ace27f24), um mehr darüber zu erfahren, wie Sie eine ZIP-Datei zu Catenda hochladen.

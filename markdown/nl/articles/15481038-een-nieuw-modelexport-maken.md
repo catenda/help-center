@@ -12,7 +12,8 @@ In de eerste stap kan de revisie van elk van de modellen die in het export moete
 
 In de eerste stap van het modelexport kunnen de modellen die in het export moeten worden opgenomen, worden geselecteerd.
 
-> **Opmerking 1:** Als het model geen revisies heeft die kunnen worden geëxporteerd, wordt het selectievakje grijs weergegeven. **Opmerking 2:** Een modelrevisie moet met succes zijn verwerkt en niet zijn ingetrokken om selecteerbaar te zijn.
+> **Opmerking 1:** Als het model geen revisies heeft die kunnen worden geëxporteerd, wordt het selectievakje grijs weergegeven.
+> **Opmerking 2:** Een modelrevise moet succesvol zijn verwerkt en niet ingetrokken zijn om selecteerbaar te zijn.
 
 ### 1.1 **Navigatie**
 

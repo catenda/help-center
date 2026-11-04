@@ -22,6 +22,8 @@ Pour créer un nouveau dossier à l'emplacement du document dans lequel vous vou
 
 Lorsque vous créez une structure de documents ou que vous devez créer de nombreux dossiers à la fois, il peut être fastidieux de devoir cliquer plusieurs fois sur le bouton de nouveau dossier. Pour créer de nombreux dossiers à la fois, il peut être utile de préparer les dossiers en externe et de les télécharger tous à la fois avec l'action de dépôt ZIP. _Accès requis :_ Accès en écriture au dossier dans lequel vous êtes actuellement
 
+> **Remarque :** Les noms de dossiers ne peuvent pas contenir les caractères suivants : `< > : " / \ | ? *` Si le nouveau nom inclut l'un de ces caractères, il ne peut pas être enregistré.
+
 ### 1.3 **Déposer un fichier ZIP**
 
 L'action de dépôt ZIP vous permettra d'extraire le contenu d'un fichier ZIP dans la structure du document. Il est également possible de télécharger un document ZIP avec le bouton d'action de téléchargement, mais vous l'obtenez simplement sous forme de fichier zippé et vous ne voyez pas le contenu du fichier ZIP. Cliquez [ici](https://support.catenda.com/fr/articles/7945410-telecharger-un-fichier-zip-structure-de-fichiers#h_54ace27f24) pour en savoir plus sur le téléchargement d'un fichier ZIP vers Catenda.

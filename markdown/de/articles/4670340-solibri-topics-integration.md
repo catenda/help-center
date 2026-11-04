@@ -1,6 +1,7 @@
 # Solibri Topics-Integration
 
-> **Wichtig:** **Solibri Version 9.13:** **Wichtig:** Das BCF Connector-Plugin ist seit Version 9.13 ein separater Tab namens BCF Live Connector in Solibri. Viele der gleichen Informationen gelten weiterhin für diesen Tab. **Solibri Version 9.9:** Seit Update 9.9 von Solibri ist es nun möglich, Ihre Topics mit Catenda zu synchronisieren.
+> **Wichtig:** **Solibri Version 9.13:** **Wichtig:** Das BCF Connector-Plugin ist seit Version 9.13 ein separater Reiter namens BCF Live Connector in Solibri. Viel der gleichen Informationen gelten weiterhin in diesem Reiter.
+> **Solibri Version 9.9:** Seit Update 9.9 von Solibri ist es nun möglich, Ihre Themen mit Catenda zu synchronisieren.
 
 Dieses Dokument erläutert, wie Sie den BCF Connector mit Ihrem Catenda-Projekt einrichten. Dies ermöglicht es, Topics nahtlos zwischen den beiden Anwendungen auszutauschen und vermeidet die manuellen BCF-Export- und -Importschritte.
 

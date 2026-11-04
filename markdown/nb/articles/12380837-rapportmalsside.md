@@ -1,6 +1,7 @@
 # Rapportmalsider
 
-> **Notat 1:** Rapportsiden er en valgfri funksjon som kan aktiveres for pågående prosjekter. **Notat 2:** Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
+> **Merknad 1:** Rapportsiden er en opt-in-funksjon som kan aktiveres for pågående prosjekter.
+> **Merknad 2:** Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
 
 Siden for rapportmaler kan finnes som en underside av [rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside) i den venstre navigeringsmenyen. På siden for rapportmaler kan dokumenter, saker og gjennomgangsmalene som er tilgjengelige for prosjektet administreres. _Påkrevd tilgang:_ Administrator
 
@@ -14,7 +15,7 @@ Handlingene på rapportmalsiden finner du ved å klikke på handlingsmenyen øve
 
 ![Handlingsmenyen på siden for rapportmaler, med Ny mal for sak, Ny dokumentmal og Ny mal for gjennomgang](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdige rapportmalene i stedet, og tilpasse den til prosjektet. De kan lastes ned fra [Ferdige rapportmaler](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(kun for report editor-kunder)_.
+Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdige rapportmalene i stedet, og tilpasse den til prosjektet. De kan lastes ned fra [Ferdige rapportmaler](https://support.catenda.com/nb/articles/17778911-ferdige-rapportmaler) _(kun for report editor-kunder)_.
 
 ### 1.1 **Ny saksmal**
 

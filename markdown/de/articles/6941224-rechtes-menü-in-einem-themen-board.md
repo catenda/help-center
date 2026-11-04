@@ -110,7 +110,8 @@ Priorität Wenn das gleiche Etikett in beiden Menüs hinzugefügt wird, hat das 
 
 **Benutzerdefinierte Felder** Legen Sie einen Wert für ein benutzerdefiniertes Feld fest oder stellen Sie das Feld auf keinen Wert für mehrere Themen auf einmal ein.
 
-> **Hinweis 1:** Felder, die in den Einstellungen des Themen-Boards als erforderlich konfiguriert sind, können nicht deaktiviert werden. **Hinweis 2:** Es ist nur möglich, Text-, Integer- und Dezimalfelder zu aktualisieren und sie nicht zu deaktivieren, obwohl Integer- und Dezimalfelder auf Null gesetzt und Text auf ein einzelnes Leerzeichen gesetzt werden können.
+> **Hinweis 1:** Felder, die in den Themen-Board-Einstellungen als erforderlich konfiguriert sind, können nicht deaktiviert werden.
+> **Hinweis 2:** Es ist nur möglich, Text-, Integer- und Dezimalfelder zu aktualisieren und sie nicht zu deaktivieren, obwohl Integer- und Dezimalfelder auf null gesetzt werden können und Text auf ein einzelnes Leerzeichen gesetzt werden kann.
 
 **Kommentar** Fügen Sie mehreren Themen auf einmal einen Kommentar hinzu. Es ist nur möglich, Kommentare zu mehreren Themen auf einmal hinzuzufügen, und nicht möglich, sie zu bearbeiten oder zu entfernen.
 
