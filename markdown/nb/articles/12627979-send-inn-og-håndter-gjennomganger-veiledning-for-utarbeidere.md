@@ -1,6 +1,6 @@
 # Send inn og håndter gjennomganger: Veiledning for utarbeidere
 
-Denne artikkelen ble generert ved å be vår AI-støtteagent. Instruksjonen som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfellet ettersom støtteartiklene som AI er trent på, endres over tid.
+Denne artikkelen ble generert ved å be vår KI-støtteagent. Instruksjonen som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfellet ettersom støtteartiklene som KI er trent på, endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ddyggmjj/01-intro.png)
 

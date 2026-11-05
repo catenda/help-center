@@ -1,6 +1,6 @@
 # Endelige gjennomgangsbeslutninger gjort enkelt
 
-Denne artikkelen ble generert ved å instruere vår AI-støtteagent. Ledeteksten som er gitt mot slutten kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfellet ettersom støtteartiklene som AI er opplært på endres over tid.
+Denne artikkelen ble generert ved å instruere vår KI-støtteagent. Ledeteksten som er gitt mot slutten kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfellet ettersom støtteartiklene som KI er opplært på endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mc4yn53c/01-intro.png)
 

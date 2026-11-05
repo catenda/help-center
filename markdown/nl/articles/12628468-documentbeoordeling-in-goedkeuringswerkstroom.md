@@ -1,6 +1,6 @@
 # Documentbeoordeling in goedkeuringswerkstroom
 
-Dit artikel is gegenereerd door ons AI-ondersteuningsagent aan te sturen. De prompt onderaan kan worden gebruikt om uw eigen, bijgewerkte versie van deze use case te genereren naarmate de ondersteuningsartikelen waarop de AI is getraind, in de loop der tijd veranderen.
+Dit artikel is gegenereerd door ons KI-ondersteuningsagent aan te sturen. De prompt onderaan kan worden gebruikt om uw eigen, bijgewerkte versie van deze use case te genereren naarmate de ondersteuningsartikelen waarop de KI is getraind, in de loop der tijd veranderen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ca2vjrkb/01-intro.png)
 

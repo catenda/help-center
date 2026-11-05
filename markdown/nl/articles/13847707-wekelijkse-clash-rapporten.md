@@ -1,6 +1,6 @@
 # Wekelijkse Clash-rapporten
 
-Dit artikel werd gegenereerd door onze AI-ondersteuningsagent aan te spreken. De prompt onderaan kan worden gebruikt om uw eigen, bijgewerkte versie van deze use case te genereren naarmate de ondersteuningsartikelen waarop de AI is getraind, in de loop der tijd veranderen.
+Dit artikel werd gegenereerd door onze KI-ondersteuningsagent aan te spreken. De prompt onderaan kan worden gebruikt om uw eigen, bijgewerkte versie van deze use case te genereren naarmate de ondersteuningsartikelen waarop de KI is getraind, in de loop der tijd veranderen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1fm32sex/01-intro.png)
 

@@ -1,6 +1,6 @@
 # Dokumentvurdering i gjennomgangsprosess
 
-Denne artikkelen ble generert ved å spørre vår AI-støtteagent. Meldingen som er oppgitt mot slutten kan brukes til å generere din egen, oppdaterte versjon av dette bruksscenariet ettersom støtteartiklene som AI-en er trent på, endres over tid.
+Denne artikkelen ble generert ved å spørre vår KI-støtteagent. Meldingen som er oppgitt mot slutten kan brukes til å generere din egen, oppdaterte versjon av dette bruksscenariet ettersom støtteartiklene som KI-en er trent på, endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ca2vjrkb/01-intro.png)
 

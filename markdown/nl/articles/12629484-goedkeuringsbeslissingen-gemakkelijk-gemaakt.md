@@ -1,6 +1,6 @@
 # Goedkeuringsbeslissingen gemakkelijk gemaakt
 
-Dit artikel is gegenereerd door onze AI-ondersteuningsagent om te vragen. De prompt die onderaan is opgenomen, kan worden gebruikt om uw eigen, bijgewerkte versie van deze use case te genereren naarmate de ondersteunende artikelen waarop de AI is getraind, in de loop der tijd veranderen.
+Dit artikel is gegenereerd door onze KI-ondersteuningsagent om te vragen. De prompt die onderaan is opgenomen, kan worden gebruikt om uw eigen, bijgewerkte versie van deze use case te genereren naarmate de ondersteunende artikelen waarop de KI is getraind, in de loop der tijd veranderen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mc4yn53c/01-intro.png)
 

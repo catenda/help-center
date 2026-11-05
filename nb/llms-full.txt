@@ -4620,7 +4620,7 @@ Catenda AI Connect når bare det hver bruker allerede kan åpne i Catenda Hub, o
 
 Catenda AI Connect fungerer på prosjektene som den innloggede brukeren er del av. For mange brukere er det ikke bare deres egen organisasjons prosjekter, men også prosjekter fra andre organisasjoner de er invitert til. Organisasjonen som kjører et prosjekt, har full kontroll over bruken av Catenda AI Connect på det prosjektet. En organisasjon som ikke har bedt om en grense, tillater Catenda AI Connect på sine prosjekter. Personene som denne organisasjonen inviterer til disse prosjektene, kan da også bruke Catenda AI Connect der. En organisasjon kan også ha begrenset Catenda AI Connect på noen eller alle prosjektene den kjører. På et prosjekt der Catenda AI Connect er begrenset, bestemmer grensen hvem som fortsatt kan bruke Catenda AI Connect der. En invitert bruker kan ikke være i stand til å bruke Catenda AI Connect på et slikt prosjekt, selv når de har Catenda AI Connect gjennom sin egen organisasjon. Catenda AI Connect ser bare det den innloggede brukeren kan åpne i Catenda Hub, og kan bare endre det som brukeren har tillatelse til å endre.
 
-Når en organisasjon tillater Catenda AI Connect på sine prosjekter, betyr det ikke at alle inviterte personer kan bruke Catenda AI Connect der. Hver invitert persons egen organisasjon kan ha en policy som hindrer sine personer fra å bruke AI på prosjekter, inkludert prosjekter fra andre organisasjoner. Så på et prosjekt der Catenda AI Connect er tillatt, bestemmer hver invitert persons egen organisasjon om den personen kan bruke Catenda AI Connect der. Som et resultat kan alle de inviterte personene, noen av de inviterte personene eller ingen av de inviterte personene være i stand til å bruke Catenda AI Connect på det prosjektet.
+Når en organisasjon tillater Catenda AI Connect på sine prosjekter, betyr det ikke at alle inviterte personer kan bruke Catenda AI Connect der. Hver invitert persons egen organisasjon kan ha en policy som hindrer sine personer fra å bruke KI på prosjekter, inkludert prosjekter fra andre organisasjoner. Så på et prosjekt der Catenda AI Connect er tillatt, bestemmer hver invitert persons egen organisasjon om den personen kan bruke Catenda AI Connect der. Som et resultat kan alle de inviterte personene, noen av de inviterte personene eller ingen av de inviterte personene være i stand til å bruke Catenda AI Connect på det prosjektet.
 
 Personer fra andre selskaper som ønsker å bruke Catenda AI Connect, kan be om det selv.
 
@@ -4630,9 +4630,9 @@ En organisasjon kan be om en grense for alle på alle prosjektene den kjører, e
 
 En grense på Catenda AI Connect endrer ikke noen annen tillatelse i Catenda Hub eller i Catenda API.
 
-## 3. **Innstillinger i AI-appen**
+## 3. **Innstillinger i KI-appen**
 
-Organisasjonens egen AI-app har egne administratoinnstillinger. De bestemmer hvilke AI-apper og hvilke brukere som kan bruke Catenda-koblingen. De bestemmer også om AI-appen kun kan lese prosjektdata i Catenda Hub, eller også kan endre den. Disse innstillingene gjøres i selve AI-appen, ikke i Catenda. De gjelder bare organisasjonens egne personer. Personer fra andre selskaper bruker sine egne AI-apper, så disse innstillingene når dem ikke.
+Organisasjonens egen KI-app har egne administratoinnstillinger. De bestemmer hvilke KI-apper og hvilke brukere som kan bruke Catenda-koblingen. De bestemmer også om KI-appen kun kan lese prosjektdata i Catenda Hub, eller også kan endre den. Disse innstillingene gjøres i selve KI-appen, ikke i Catenda. De gjelder bare organisasjonens egne personer. Personer fra andre selskaper bruker sine egne KI-apper, så disse innstillingene når dem ikke.
 
 ## 4. **Komme i gang**
 
@@ -9593,7 +9593,7 @@ En tidligere delt revisjon av et dokument:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/22-shared-revision-status.png)
 
-**Nødvendig tilgang:** Lesetilgang til dokumentet Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
+_Nødvendig tilgang:_ Lesetilgang til dokumentet Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
 
 En delt revisjon som er del av en åpen eller lukket godkjenningsforespørsel:
 
@@ -9601,7 +9601,7 @@ En delt revisjon som er del av en åpen eller lukket godkjenningsforespørsel:
 
 > **Merknad:** Det faktum at en revisjon er del av en lukket godkjenningsforespørsel betyr ikke at dette er revisjonen som førte til neste hovedversjon av dokumentet.
 
-**Nødvendig tilgang:** Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket. Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen er del av. Administratorer vil ikke se denne boksen hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
+_Nødvendig tilgang:_ Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket. Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen er del av. Administratorer vil ikke se denne boksen hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
 
 ### 8.3 **Utkastrevisionsstatus - Arv**
 
@@ -9735,9 +9735,9 @@ Her vil du se de ulike revisjonene i dokumentet. Revisjonmenyen kan se slik ut:
 
 Med nedlastingsknappen på høyre side kan du laste ned hver revisjon. Hvis et virus oppdages, vil du se et varsel i rød tekst under revisjonen. Det anbefales ikke å laste ned en dokumentrevisjon som er infisert. Du vil ikke kunne se innholdet i en revisjon med et virus.
 
-**Tilbaketrukket revisjon** Dokumentrevisjoner kan bare trekkes tilbake og ikke slettes. En tilbaketrukket revisjon vises som gjennomstreget. Den rette revisjonen kan lastes ned og lastes opp på nytt slik at den blir den siste revisjonen igjen.
+_Tilbaketrukket revisjon_ Dokumentrevisjoner kan bare trekkes tilbake og ikke slettes. En tilbaketrukket revisjon vises som gjennomstreget. Den rette revisjonen kan lastes ned og lastes opp på nytt slik at den blir den siste revisjonen igjen.
 
-**Gjenadrening av dokumentet** For å fjerne revisjonen helt, last ned hver revisjon. Opprett deretter et nytt dokument og last opp hver revisjon i rekkefølge. Gå til hver av de koblede sakene i det gamle dokumentet og kobl det nye dokumentet. Velg 3D-objektene som er koblet til det gamle dokumentet og kople dem til det nye dokumentet. Slett til slutt det gamle dokumentet. Alle tilkoblinger dokumentet kan ha hatt til for eksempel merknader vil gå tapt, sammen med informasjonen om hvem som lastet opp filen og når den ble lastet opp.
+_Gjenadrening av dokumentet_ For å fjerne revisjonen helt, last ned hver revisjon. Opprett deretter et nytt dokument og last opp hver revisjon i rekkefølge. Gå til hver av de koblede sakene i det gamle dokumentet og kobl det nye dokumentet. Velg 3D-objektene som er koblet til det gamle dokumentet og kople dem til det nye dokumentet. Slett til slutt det gamle dokumentet. Alle tilkoblinger dokumentet kan ha hatt til for eksempel merknader vil gå tapt, sammen med informasjonen om hvem som lastet opp filen og når den ble lastet opp.
 
 ## 12. **Historikk**
 
@@ -14254,19 +14254,19 @@ Kolonnepreferanser lagres ikke mellom øktene. Kolonner kan ikke endres rekkefø
 
 # Om Catenda AI Connect
 
-> Catenda AI Connect kobler AI-verktøyene som organisasjonen allerede bruker, som Claude, Microsoft Copilot eller ChatGPT, til Catenda Hub-prosjektene den deltar i. Hva det er, hvordan det fungerer og hvordan du kommer i gang.
+> Catenda AI Connect kobler KI-verktøyene som organisasjonen allerede bruker, som Claude, Microsoft Copilot eller ChatGPT, til Catenda Hub-prosjektene den deltar i. Hva det er, hvordan det fungerer og hvordan du kommer i gang.
 
 > **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og oppsettsteg endres ofte; denne artikkelen beskriver den gjeldende versjonen.
 
 Fortjenesten på et byggeprosjekt ligger et sted mellom det som ble kontraktfestet, hva som ble designet, hva som ble bygget, og hva som ble sagt og skrevet underveis. Å holde det på linje betyr vurderingsmøter, kontroll av leveranser og gjennomgang av kommentarer og gamle e-posttråder.
 
-Dette produktet kobler AI-verktøyene som organisasjonen allerede bruker og stoler på, direkte til modellene, dokumentene og sakene i Catenda Hub. Spørsmål om et prosjekt stilles på vanlig språk og besvares fra live prosjektdata, klar til å bli rapporter og bevis. Der organisasjonen tillater at AI-appen gjør endringer, blir funnene også til saker i Catenda Hub.
+Dette produktet kobler KI-verktøyene som organisasjonen allerede bruker og stoler på, direkte til modellene, dokumentene og sakene i Catenda Hub. Spørsmål om et prosjekt stilles på vanlig språk og besvares fra live prosjektdata, klar til å bli rapporter og bevis. Der organisasjonen tillater at KI-appen gjør endringer, blir funnene også til saker i Catenda Hub.
 
 ## 1. **Hva det er**
 
-Catenda Hub åpner prosjektdataene sine for AI-verktøyene som organisasjonen allerede har valgt, slik at Teams fortsetter å arbeide med assistenten de kjenner. Alt som AI-appen opprett eller endrer, registreres i Catenda Hub, som all annen koordineringsarbeid.
+Catenda Hub åpner prosjektdataene sine for KI-verktøyene som organisasjonen allerede har valgt, slik at Teams fortsetter å arbeide med assistenten de kjenner. Alt som KI-appen opprett eller endrer, registreres i Catenda Hub, som all annen koordineringsarbeid.
 
-Forbindelsen bruker MCP (Model Context Protocol), en åpen standard for tilkobling av AI-apper til andre systemer. Det holder valget av AI hos organisasjonen, både i dag og når den endrer sitt syn senere.
+Forbindelsen bruker MCP (Model Context Protocol), en åpen standard for tilkobling av KI-apper til andre systemer. Det holder valget av KI hos organisasjonen, både i dag og når den endrer sitt syn senere.
 
 ## 2. **Hva Teams bruker det til**
 
@@ -14296,23 +14296,23 @@ Klienten sendte dette regnearket. Opprett en sak per linje, angi eier og frist.
 
 ## 3. **Hvordan det fungerer**
 
-Organisasjonens IT legger til Catenda-konnektoren i AI-appen sin en gang, gjennom den åpne standarden som AI-appen allerede støtter, noe som gjør den tilgjengelig for ansatte som bruker den AI-appen. Hver ansatt logger på AI-appen med sin vanlige AI-konto, og bruker deretter konnektoren til å koble AI-appen til sin egen Catenda-konto.
+Organisasjonens IT legger til Catenda-konnektoren i KI-appen sin en gang, gjennom den åpne standarden som KI-appen allerede støtter, noe som gjør den tilgjengelig for ansatte som bruker den KI-appen. Hver ansatt logger på KI-appen med sin vanlige KI-konto, og bruker deretter konnektoren til å koble KI-appen til sin egen Catenda-konto.
 
-AI-appen fungerer deretter som den påloggede brukeren: den fungerer med nøyaktig den tilgangen som brukeren har i Catenda Hub, og prosjektets tillatelser gjelder uendret.
+KI-appen fungerer deretter som den påloggede brukeren: den fungerer med nøyaktig den tilgangen som brukeren har i Catenda Hub, og prosjektets tillatelser gjelder uendret.
 
-AI-appen foreslår og en person avgjør. Det den opprett, som saker, rapporter eller lenker, vurderes før det skrives, og forblir i Catenda Hub med samme historikk som alt annet koordineringsarbeid.
+KI-appen foreslår og en person avgjør. Det den opprett, som saker, rapporter eller lenker, vurderes før det skrives, og forblir i Catenda Hub med samme historikk som alt annet koordineringsarbeid.
 
 ## 4. **Kontroll over prosjektdata**
 
-Organisasjonen bestemmer hvilken AI som fungerer med dens prosjektdata, og kan endre denne beslutningen senere fordi forbindelsen er en åpen standard som en hvilken som helst støttende AI-app kan bruke.
+Organisasjonen bestemmer hvilken KI som fungerer med dens prosjektdata, og kan endre denne beslutningen senere fordi forbindelsen er en åpen standard som en hvilken som helst støttende KI-app kan bruke.
 
-Catenda Hub forblir den eneste kilden til prosjektinformasjon. AI-appen får tilgang til dataene som den påloggede brukeren er autorisert til å se, og tilgangsrettigheter forblir administrert på ett sted.
+Catenda Hub forblir den eneste kilden til prosjektinformasjon. KI-appen får tilgang til dataene som den påloggede brukeren er autorisert til å se, og tilgangsrettigheter forblir administrert på ett sted.
 
 ## 5. **Kom i gang**
 
 Catenda AI Connect er tilgjengelig i tidlig tilgang.
 
-Catenda AI Connect er ikke bare for organisasjoner som eier prosjekter i Catenda Hub. En organisasjon som blir invitert til prosjektene til andre organisasjoner kan også få Catenda AI Connect. Slik organisasjon trenger ikke å eie et prosjekt selv. Catenda AI Connect fungerer deretter på to slags prosjekter. Den første typen er prosjektene som organisasjonen kjører selv. Den andre typen er prosjektene som organisasjonen blir invitert til, så lenge organisasjonen som kjører det prosjektet tillater Catenda AI Connect der. Når en organisasjon tillater Catenda AI Connect på et prosjekt, betyr det ikke at hver invitert person kan bruke Catenda AI Connect der. Hver persons egen organisasjon kan ha en policy mot bruk av AI på prosjekter. [Catenda AI Connect og prosjekttilgang](https://support.catenda.com/nb/articles/17778745-catenda-ai-connect-og-prosjekttilgang) beskriver dette mer detaljert.
+Catenda AI Connect er ikke bare for organisasjoner som eier prosjekter i Catenda Hub. En organisasjon som blir invitert til prosjektene til andre organisasjoner kan også få Catenda AI Connect. Slik organisasjon trenger ikke å eie et prosjekt selv. Catenda AI Connect fungerer deretter på to slags prosjekter. Den første typen er prosjektene som organisasjonen kjører selv. Den andre typen er prosjektene som organisasjonen blir invitert til, så lenge organisasjonen som kjører det prosjektet tillater Catenda AI Connect der. Når en organisasjon tillater Catenda AI Connect på et prosjekt, betyr det ikke at hver invitert person kan bruke Catenda AI Connect der. Hver persons egen organisasjon kan ha en policy mot bruk av KI på prosjekter. [Catenda AI Connect og prosjekttilgang](https://support.catenda.com/nb/articles/17778745-catenda-ai-connect-og-prosjekttilgang) beskriver dette mer detaljert.
 
 For å begynne å bruke Catenda AI Connect, kontakt Catenda-salget: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
@@ -21453,7 +21453,7 @@ _Les mer om tilgangsoversikten over dokumenter [her](https://intercom.help/bimsy
 
 # Administrering av Clash-koordinering i stor skala
 
-Denne artikkelen ble generert ved å be vår AI-støtteagent. Ledeteksten som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette bruksmønsteret når støtteartiklene som AI-en er opplært på, endres over tid.
+Denne artikkelen ble generert ved å be vår KI-støtteagent. Ledeteksten som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette bruksmønsteret når støtteartiklene som KI-en er opplært på, endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hkk8f581/01-intro.png)
 
@@ -21475,15 +21475,15 @@ Saksliste-separasjon forhindrer informasjonsoverbelastning, egendefinerte status
 
 ## 2. **Roller og ansvar**
 
-**Strukturleder** Marcus Rodriguez administrerer koordinering av stålramme ved hjelp av dedikerte Struktur-MEP-saklister. Han filtrerer saker etter tildelt status og løser strukturelle konflikter innen 48 timer ved hjelp av milepælssporing.
+_Strukturleder_ Marcus Rodriguez administrerer koordinering av stålramme ved hjelp av dedikerte Struktur-MEP-saklister. Han filtrerer saker etter tildelt status og løser strukturelle konflikter innen 48 timer ved hjelp av milepælssporing.
 
-**MEP-koordineringsleder** Lisa Park fører tilsyn med mekaniske systemer gjennom MEP-spesifikke saklister. Hun bruker merkelapper til å prioritere kritiske problemer og administrerer rutingkonflikter gjennom egendefinerte statusarbeidsflyter.
+_MEP-koordineringsleder_ Lisa Park fører tilsyn med mekaniske systemer gjennom MEP-spesifikke saklister. Hun bruker merkelapper til å prioritere kritiske problemer og administrerer rutingkonflikter gjennom egendefinerte statusarbeidsflyter.
 
-**Arkitektonisk designleder** David Kim opprettholder designintensjon gjennom Arkitektur-MEP-integreringstavler. Han gjennomgår clash-løsninger ved hjelp av milepæler-filtre og godkjenner designendringer med riktige statusoppdateringer.
+_Arkitektonisk designleder_ David Kim opprettholder designintensjon gjennom Arkitektur-MEP-integreringstavler. Han gjennomgår clash-løsninger ved hjelp av milepæler-filtre og godkjenner designendringer med riktige statusoppdateringer.
 
-**Stedsbyggeleder** Jennifer Walsh bruker mobil tilgang med merkelappfiltre for å fokusere på etasjebaserte problemer. Hun oppretter stedsbaserte saker og lenker dem til eksisterende koordineringsmilepæler.
+_Stedsbyggeleder_ Jennifer Walsh bruker mobil tilgang med merkelappfiltre for å fokusere på etasjebaserte problemer. Hun oppretter stedsbaserte saker og lenker dem til eksisterende koordineringsmilepæler.
 
-**Viktige observasjoner** Hver rolle arbeider innen spesifikke saklister, bruker merkelapper for filtrering, og sporer fremdrift gjennom milepælsintegrasjon.
+_Viktige observasjoner_ Hver rolle arbeider innen spesifikke saklister, bruker merkelapper for filtrering, og sporer fremdrift gjennom milepælsintegrasjon.
 
 ### 2.1 **Virkelig bruksmønster: Metro Transit Hub**
 
@@ -21547,27 +21547,27 @@ Du er en meister innen digital koordinering som trives i høytrykksuker der tuse
 
 Ditt mål er å transformere et enormt datasett til en handlingsorientert arbeidsflyt ved å:
 
-**Separering av saklister:** Organisering av tusenvis av saker i kategoribaserte tavler for å forhindre datasiloer.
+_Separering av saklister:_ Organisering av tusenvis av saker i kategoribaserte tavler for å forhindre datasiloer.
 
-**Definering av livssykluser:** Etablering av klare statusverdier og typer for hver tavle for å sikre at design følger en streng valideringsbane.
+_Definering av livssykluser:_ Etablering av klare statusverdier og typer for hver tavle for å sikre at design følger en streng valideringsbane.
 
-**Sikring av ansvar:** Fordeling av arbeidsmengde på tvers av team for å sikre at milepælblokkering av problemer blir løst før formelle vurderinger.
+_Sikring av ansvar:_ Fordeling av arbeidsmengde på tvers av team for å sikre at milepælblokkering av problemer blir løst før formelle vurderinger.
 
-**Tilbud av transparens:** Oppretting av et uangripelig revisjonslogg for hver beslutning, revisjon og godkjenning.
+_Tilbud av transparens:_ Oppretting av et uangripelig revisjonslogg for hver beslutning, revisjon og godkjenning.
 
 ### 5.4 **Situasjon**
 
 Prosjektet går inn i en kritisk koordineringsfase, og clash-deteksjonsprogramvaren din har nettopp identifisert tusenvis av problemer. For å administrere dette i Catenda Hub implementerer du følgende system:
 
-**Saksliste-separasjon:** Du oppretter distinkte tavler basert på disiplin (f.eks. struktur, MEP, arkitektur) eller alvorlighetsgrad. Dette holder tekniske iterasjoner organiserte og søkbare.
+_Saksliste-separasjon:_ Du oppretter distinkte tavler basert på disiplin (f.eks. struktur, MEP, arkitektur) eller alvorlighetsgrad. Dette holder tekniske iterasjoner organiserte og søkbare.
 
-**Konfigurering av statusverdier og typer:** For hver tavle konfigurerer du spesifikke typer (f.eks. clash, RFI, advarsel) og statusverdier (f.eks. aktiv, pågår, løst, godkjent). Dette sikrer at livssyklusen til hvert koordineringspunkt spores i henhold til ISO 19650-standarder.
+_Konfigurering av statusverdier og typer:_ For hver tavle konfigurerer du spesifikke typer (f.eks. clash, RFI, advarsel) og statusverdier (f.eks. aktiv, pågår, løst, godkjent). Dette sikrer at livssyklusen til hvert koordineringspunkt spores i henhold til ISO 19650-standarder.
 
-**Sporing via milepæler:** Du lenker saker på tvers av ulike tavler til prosjektmilepæler. Dette gjør det mulig for deg å spore sanntidshelse og identifisere nøyaktig hvilke clash som vil blokkere prosjektets fortsettelse hvis de ikke blir løst innen en bestemt dato.
+_Sporing via milepæler:_ Du lenker saker på tvers av ulike tavler til prosjektmilepæler. Dette gjør det mulig for deg å spore sanntidshelse og identifisere nøyaktig hvilke clash som vil blokkere prosjektets fortsettelse hvis de ikke blir løst innen en bestemt dato.
 
-**Gruppering med merkelapper:** Du bruker merkelapper til å gruppere saker etter etasje, prioritet eller teknisk system. Dette forbedrer søkbarheten betydelig, slik at fagpersoner raskt kan filtrere og finne problemene de er ansvarlige for.
+_Gruppering med merkelapper:_ Du bruker merkelapper til å gruppere saker etter etasje, prioritet eller teknisk system. Dette forbedrer søkbarheten betydelig, slik at fagpersoner raskt kan filtrere og finne problemene de er ansvarlige for.
 
-**Fordeling av arbeidsmengde:** Du deler ansvar ved å tildele saker til spesifikke medlemmer eller tverrfaglige team. Ved å lenke saker direkte til BIM-objekter og 3D-visninger sikrer du at struktur- eller MEP-lederen kan finne, diskutere og løse problemet uten noen gang å forlate sitt eget redigeringsmiljø.
+_Fordeling av arbeidsmengde:_ Du deler ansvar ved å tildele saker til spesifikke medlemmer eller tverrfaglige team. Ved å lenke saker direkte til BIM-objekter og 3D-visninger sikrer du at struktur- eller MEP-lederen kan finne, diskutere og løse problemet uten noen gang å forlate sitt eget redigeringsmiljø.
 
 ### 5.5 **Insentiv**
 
@@ -21575,7 +21575,7 @@ Din suksess måles ved å nå kontraktsmessige milepæler i tide med null manuel
 
 # Administrering av gjennomganger som administrator
 
-Denne artikkelen ble generert ved å bruke spørring til vår AI-støtteagent. Spørringen som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette brukseksemplet ettersom støtteartiklene som AI-en er trent på, endres over tid.
+Denne artikkelen ble generert ved å bruke spørring til vår KI-støtteagent. Spørringen som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette brukseksemplet ettersom støtteartiklene som KI-en er trent på, endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/f5d997a8/01-intro.png)
 
@@ -21587,47 +21587,47 @@ Robert Chen er en erfaren prosjektadministrator som overser et stort kommersielt
 
 ### 2.1 **Dokumentinnsendera**
 
-**Stillingstitler** Designingeniør, BIM-koordinator, prosjektarkitekt, dokumentkontroller
+_Stillingstitler_ Designingeniør, BIM-koordinator, prosjektarkitekt, dokumentkontroller
 
-**Rolle** Disse teammedlemmene forbereder og laster opp dokumenter (som plantegninger, tidsplaner eller materiallistor) som må vurderes og videreføres. De starter gjennomgangsprosessen ved å sende inn arbeidet sitt til validering. Robert sikrer at de har riktig tilgang og at innsendingene deres blir dirigert til riktige vurderere.
+_Rolle_ Disse teammedlemmene forbereder og laster opp dokumenter (som plantegninger, tidsplaner eller materiallistor) som må vurderes og videreføres. De starter gjennomgangsprosessen ved å sende inn arbeidet sitt til validering. Robert sikrer at de har riktig tilgang og at innsendingene deres blir dirigert til riktige vurderere.
 
 ### 2.2 **Vurderingsteam**
 
-**Stillingstitler** Arkitekt, konstruktør, MEP-ingeniør, kostnadsleder, kvalitetssikringsspesialist
+_Stillingstitler_ Arkitekt, konstruktør, MEP-ingeniør, kostnadsleder, kvalitetssikringsspesialist
 
-**Rolle** Disse fagpersonene vurderer de innsendte dokumentene nøye med tanke på nøyaktighet, samsvar og fullstendighet. De gir tilbakemelding eller viderefører etter behov. Robert konfigurerer hvilke team som vurderer hvilke typer dokumenter og overvåker deres aktivitet for å oppdage forsinkelser eller flaskehalser.
+_Rolle_ Disse fagpersonene vurderer de innsendte dokumentene nøye med tanke på nøyaktighet, samsvar og fullstendighet. De gir tilbakemelding eller viderefører etter behov. Robert konfigurerer hvilke team som vurderer hvilke typer dokumenter og overvåker deres aktivitet for å oppdage forsinkelser eller flaskehalser.
 
 ### 2.3 **Publiserere**
 
-**Stillingstitler** Prosjektleder, seniorarkitekt, designleder
+_Stillingstitler_ Prosjektleder, seniorarkitekt, designleder
 
-**Rolle** Publisereren har siste ordet i gjennomgangsprosessen. Etter at vurdererne har gitt sitt bidrag, bestemmer publisereren hvilke dokumenter som blir offisielt videreført og publisert for bruk. Robert tildeler det aktuelle teamet eller personen som publiserer for å sikre at bare validerte dokumenter blir frigitt.
+_Rolle_ Publisereren har siste ordet i gjennomgangsprosessen. Etter at vurdererne har gitt sitt bidrag, bestemmer publisereren hvilke dokumenter som blir offisielt videreført og publisert for bruk. Robert tildeler det aktuelle teamet eller personen som publiserer for å sikre at bare validerte dokumenter blir frigitt.
 
 ### 2.4 **Bygningsarbeidere**
 
-**Stillingstitler** Områdeleier, formand, byggarbeiderlaget medlem
+_Stillingstitler_ Områdeleier, formand, byggarbeiderlaget medlem
 
-**Rolle** Selv om de ikke er direkte involvert i gjennomgangsprosessen, er disse personene avhengige av de publiserte, videreførte dokumentene for å utføre arbeidet sitt på stedet. Robert administrerer tilgangen deres slik at de bare ser sluttbehandlede dokumenter, noe som reduserer feilerrisikoen.
+_Rolle_ Selv om de ikke er direkte involvert i gjennomgangsprosessen, er disse personene avhengige av de publiserte, videreførte dokumentene for å utføre arbeidet sitt på stedet. Robert administrerer tilgangen deres slik at de bare ser sluttbehandlede dokumenter, noe som reduserer feilerrisikoen.
 
 ### 2.5 **Andre administratorer og ledere**
 
-**Stillingstitler** Prosjektdirektør, byggeleder, IT-administrator
+_Stillingstitler_ Prosjektdirektør, byggeleder, IT-administrator
 
-**Rolle** Disse rollene støtter arbeidsflyten ved å overvåke prosessen, løse flaskehalser og justere arbeidsflyter etter behov. Robert samarbeider med dem for å holde prosjektet i gang jevnt og trutt og for å løse eventuelle problemer som oppstår.
+_Rolle_ Disse rollene støtter arbeidsflyten ved å overvåke prosessen, løse flaskehalser og justere arbeidsflyter etter behov. Robert samarbeider med dem for å holde prosjektet i gang jevnt og trutt og for å løse eventuelle problemer som oppstår.
 
 ## 3. **Trinnvis veiledning**
 
 1. **Få tilgang til gjennomgangssiden:** Gå til Dokumenter > Gjennomganger i venstremenyen.
-2. **Konfigurer arbeidsflyter:** Sett opp hvilke team som kan sende inn, vurdere og publisere dokumenter. Tildel team for hvert trinn og definer vurderingsperioder.
-3. **Tildel tilgang:** Begrens dokumenttilgang slik at bare relevante brukere kan vise eller viderefør spesifikke dokumenter.
-4. **Overvåk gjennomganger:** Bruk dashbordet til å se alle gjennomgangsforespørsler, filtrer for ventende elementer og del filtrerte lenker med teammedlemmer for å rette oppmerksomheten deres.
-5. **Eksempel fra virkeligheten:** Hvis flere dokumenter venter, filtrerer Robert gjennomgangssiden, kopierer den filtrerte lenken og sender den til det ansvarlige teamet for å fokusere oppmerksomheten deres og unngå forsinkelser.
+1. **Konfigurer arbeidsflyter:** Sett opp hvilke team som kan sende inn, vurdere og publisere dokumenter. Tildel team for hvert trinn og definer vurderingsperioder.
+1. **Tildel tilgang:** Begrens dokumenttilgang slik at bare relevante brukere kan vise eller viderefør spesifikke dokumenter.
+1. **Overvåk gjennomganger:** Bruk dashbordet til å se alle gjennomgangsforespørsler, filtrer for ventende elementer og del filtrerte lenker med teammedlemmer for å rette oppmerksomheten deres.
+1. **Eksempel fra virkeligheten:** Hvis flere dokumenter venter, filtrerer Robert gjennomgangssiden, kopierer den filtrerte lenken og sender den til det ansvarlige teamet for å fokusere oppmerksomheten deres og unngå forsinkelser.
 
 Denne strukturen sikrer at hver deltaker kjenner sitt ansvar, noe som strømlinjeformer samarbeidet og reduserer feil eller forsinkelser i prosjektets dokumentgjennomgangsprosess.
 
-## 4. **AI-spørring**
+## 4. **KI-spørring**
 
-Dette er AI-spørringen som ble brukt til å generere denne artikkelen.
+Dette er KI-spørringen som ble brukt til å generere denne artikkelen.
 
 ### 4.1 **Karakter**
 
@@ -21886,7 +21886,7 @@ Annoteringer gjøres direkte på de relevante dokumentene, noe som gir presis vi
 
 # Dokumentvurdering i gjennomgangsprosess
 
-Denne artikkelen ble generert ved å spørre vår AI-støtteagent. Meldingen som er oppgitt mot slutten kan brukes til å generere din egen, oppdaterte versjon av dette bruksscenariet ettersom støtteartiklene som AI-en er trent på, endres over tid.
+Denne artikkelen ble generert ved å spørre vår KI-støtteagent. Meldingen som er oppgitt mot slutten kan brukes til å generere din egen, oppdaterte versjon av dette bruksscenariet ettersom støtteartiklene som KI-en er trent på, endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ca2vjrkb/01-intro.png)
 
@@ -21992,7 +21992,7 @@ Dit omdømme betyr alt for deg. Du vet at meningene du sender inn her er permane
 
 # Endelige gjennomgangsbeslutninger gjort enkelt
 
-Denne artikkelen ble generert ved å instruere vår AI-støtteagent. Ledeteksten som er gitt mot slutten kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfellet ettersom støtteartiklene som AI er opplært på endres over tid.
+Denne artikkelen ble generert ved å instruere vår KI-støtteagent. Ledeteksten som er gitt mot slutten kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfellet ettersom støtteartiklene som KI er opplært på endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mc4yn53c/01-intro.png)
 
@@ -22146,7 +22146,7 @@ Du har kontroll over tidsplanen for prosjektet. Det er mange bevegelige elemente
 
 # Send inn og håndter gjennomganger: Veiledning for utarbeidere
 
-Denne artikkelen ble generert ved å be vår AI-støtteagent. Instruksjonen som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfellet ettersom støtteartiklene som AI er trent på, endres over tid.
+Denne artikkelen ble generert ved å be vår KI-støtteagent. Instruksjonen som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfellet ettersom støtteartiklene som KI er trent på, endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ddyggmjj/01-intro.png)
 
@@ -22226,7 +22226,7 @@ Hvis du gjør en feil i et dokument, vil det bli en virkelig konsekvens av feile
 
 # Ukentlige clash-rapporter
 
-Denne artikkelen ble generert ved å gi instruksjoner til vår AI-støtteagent. Oppfordringen som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfelle etter hvert som støtteartiklene som AI er trent på endres over tid.
+Denne artikkelen ble generert ved å gi instruksjoner til vår KI-støtteagent. Oppfordringen som er gitt nederst kan brukes til å generere din egen, oppdaterte versjon av dette brukstilfelle etter hvert som støtteartiklene som KI er trent på endres over tid.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1fm32sex/01-intro.png)
 
@@ -22322,25 +22322,25 @@ Du er en ekspert innen dataanalyse og automatisering innen Catenda-økosystemet.
 
 Din oppgave er å automatisere genereringen av komplekse ukentlige rapporter som kategoriserer tusenvis av clashes i distinkte risiko- og løsningsbeholdere. Du tar sikte på å gi presise, datadrevne svar på:
 
-**Auto-Closed Volume** Kvantifisering av ubetydelige clashes (f.eks. innenfor en 2 cm buffer) som ble løst automatisk.
+_Auto-Closed Volume_ Kvantifisering av ubetydelige clashes (f.eks. innenfor en 2 cm buffer) som ble løst automatisk.
 
-**Technical Review Zones** Identifisering av det spesifikke volumet av clashes (f.eks. 2–5 cm) som krever ekspertvurdering.
+_Technical Review Zones_ Identifisering av det spesifikke volumet av clashes (f.eks. 2–5 cm) som krever ekspertvurdering.
 
-**Historical Aging** Rapportering om status for clashes som ble overført fra tidligere måneder for å sikre ansvarlighet.
+_Historical Aging_ Rapportering om status for clashes som ble overført fra tidligere måneder for å sikre ansvarlighet.
 
 ### 7.4 **Situasjon**
 
 Prosjektet entrer en kritisk koordineringsfase med tusenvis av synkroniserte saker. For å generere dine ukentlige rapporter i Catenda Hub bruker du følgende system:
 
-**PDF Export for Snapshots** For lesbare sammendrag bruker du PDF-eksportfunksjonen. Du tilpasser rapporten med prosjektlogoen din og sikrer at den inkluderer kritiske metadata som Type, Status, Tilordnet og Kommentarer.
+_PDF Export for Snapshots_ For lesbare sammendrag bruker du PDF-eksportfunksjonen. Du tilpasser rapporten med prosjektlogoen din og sikrer at den inkluderer kritiske metadata som Type, Status, Tilordnet og Kommentarer.
 
-**The Reports Page for Multi-Board Reporting** Du bruker Reports-page, en opt-in-funksjon som lar deg lage egendefinerte maler for rapporter for både saker og dokumenter. Dette er essensielt fordi det kan eksportere saker fra flere topic boards samtidig. Du bruker rapportredigeringen til å administrere disse malene og spore hver revisjon for en fullstendig historie.
+_The Reports Page for Multi-Board Reporting_ Du bruker Reports-page, en opt-in-funksjon som lar deg lage egendefinerte maler for rapporter for både saker og dokumenter. Dette er essensielt fordi det kan eksportere saker fra flere topic boards samtidig. Du bruker rapportredigeringen til å administrere disse malene og spore hver revisjon for en fullstendig historie.
 
-**Catenda Power BI Connector** For dyptgående dataanalyse kobler du Catenda Hub-databasen direkte til Power BI. Du henter komplette datasett, inkludert Saker, saksstatuser og merkelapper, for å bygge interaktive dashbord. Dette gjør det mulig for deg å utføre avanserte beregninger for å isolere spesifikke buffersone-clash og spore deres aldring over tid.
+_Catenda Power BI Connector_ For dyptgående dataanalyse kobler du Catenda Hub-databasen direkte til Power BI. Du henter komplette datasett, inkludert Saker, saksstatuser og merkelapper, for å bygge interaktive dashbord. Dette gjør det mulig for deg å utføre avanserte beregninger for å isolere spesifikke buffersone-clash og spore deres aldring over tid.
 
-**Advanced Filtering and Labels** Du etablerer et stivt merkesystem for clash-alvorlighetsgrad. Du bruker deretter søks- og filteralternativene på Reports-page eller innenfor Power BI for å isolere disse spesifikke gruppene for dine ukentlige metrikker.
+_Advanced Filtering and Labels_ Du etablerer et stivt merkesystem for clash-alvorlighetsgrad. Du bruker deretter søks- og filteralternativene på Reports-page eller innenfor Power BI for å isolere disse spesifikke gruppene for dine ukentlige metrikker.
 
-**Milestone Tracking** Mens milepæler er ekskludert fra standard PDF-eksporter, sporer du dem innenfor Reports-page eller Power BI for å korrelere clash-løsning med projektfrister, og identifiserer nøyaktig hvilke problemer som blokkerer progresjon.
+_Milestone Tracking_ Mens milepæler er ekskludert fra standard PDF-eksporter, sporer du dem innenfor Reports-page eller Power BI for å korrelere clash-løsning med projektfrister, og identifiserer nøyaktig hvilke problemer som blokkerer progresjon.
 
 ### 7.5 **Insentiv**
 

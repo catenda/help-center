@@ -1,6 +1,6 @@
 # Goedkeuringen indienen en beheren: gids voor opstellers
 
-Dit artikel is gegenereerd door onze AI-ondersteuningsagent te gebruiken. De prompt onderaan kan worden gebruikt om uw eigen bijgewerkte versie van deze use case te genereren naarmate de ondersteuningsartikelen waarop de AI is getraind, in de loop van de tijd veranderen.
+Dit artikel is gegenereerd door onze KI-ondersteuningsagent te gebruiken. De prompt onderaan kan worden gebruikt om uw eigen bijgewerkte versie van deze use case te genereren naarmate de ondersteuningsartikelen waarop de KI is getraind, in de loop van de tijd veranderen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ddyggmjj/01-intro.png)
 

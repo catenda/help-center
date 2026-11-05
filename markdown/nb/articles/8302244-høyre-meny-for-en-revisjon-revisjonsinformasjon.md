@@ -232,7 +232,7 @@ En tidligere delt revisjon av et dokument:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/22-shared-revision-status.png)
 
-**Nødvendig tilgang:** Lesetilgang til dokumentet Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
+_Nødvendig tilgang:_ Lesetilgang til dokumentet Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
 
 En delt revisjon som er del av en åpen eller lukket godkjenningsforespørsel:
 
@@ -240,7 +240,7 @@ En delt revisjon som er del av en åpen eller lukket godkjenningsforespørsel:
 
 > **Merknad:** Det faktum at en revisjon er del av en lukket godkjenningsforespørsel betyr ikke at dette er revisjonen som førte til neste hovedversjon av dokumentet.
 
-**Nødvendig tilgang:** Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket. Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen er del av. Administratorer vil ikke se denne boksen hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
+_Nødvendig tilgang:_ Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket. Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen er del av. Administratorer vil ikke se denne boksen hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
 
 ### 8.3 **Utkastrevisionsstatus - Arv**
 
@@ -374,9 +374,9 @@ Her vil du se de ulike revisjonene i dokumentet. Revisjonmenyen kan se slik ut:
 
 Med nedlastingsknappen på høyre side kan du laste ned hver revisjon. Hvis et virus oppdages, vil du se et varsel i rød tekst under revisjonen. Det anbefales ikke å laste ned en dokumentrevisjon som er infisert. Du vil ikke kunne se innholdet i en revisjon med et virus.
 
-**Tilbaketrukket revisjon** Dokumentrevisjoner kan bare trekkes tilbake og ikke slettes. En tilbaketrukket revisjon vises som gjennomstreget. Den rette revisjonen kan lastes ned og lastes opp på nytt slik at den blir den siste revisjonen igjen.
+_Tilbaketrukket revisjon_ Dokumentrevisjoner kan bare trekkes tilbake og ikke slettes. En tilbaketrukket revisjon vises som gjennomstreget. Den rette revisjonen kan lastes ned og lastes opp på nytt slik at den blir den siste revisjonen igjen.
 
-**Gjenadrening av dokumentet** For å fjerne revisjonen helt, last ned hver revisjon. Opprett deretter et nytt dokument og last opp hver revisjon i rekkefølge. Gå til hver av de koblede sakene i det gamle dokumentet og kobl det nye dokumentet. Velg 3D-objektene som er koblet til det gamle dokumentet og kople dem til det nye dokumentet. Slett til slutt det gamle dokumentet. Alle tilkoblinger dokumentet kan ha hatt til for eksempel merknader vil gå tapt, sammen med informasjonen om hvem som lastet opp filen og når den ble lastet opp.
+_Gjenadrening av dokumentet_ For å fjerne revisjonen helt, last ned hver revisjon. Opprett deretter et nytt dokument og last opp hver revisjon i rekkefølge. Gå til hver av de koblede sakene i det gamle dokumentet og kobl det nye dokumentet. Velg 3D-objektene som er koblet til det gamle dokumentet og kople dem til det nye dokumentet. Slett til slutt det gamle dokumentet. Alle tilkoblinger dokumentet kan ha hatt til for eksempel merknader vil gå tapt, sammen med informasjonen om hvem som lastet opp filen og når den ble lastet opp.
 
 ## 12. **Historikk**
 
