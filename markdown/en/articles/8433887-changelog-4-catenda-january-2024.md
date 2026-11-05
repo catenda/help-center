@@ -1,4 +1,4 @@
-# Changelog 4 Catenda - January 2024
+# Changelog 4 Catenda - January, 2024
 
 > New information and minor changes
 

@@ -395,13 +395,13 @@ Find the latest Catenda updates
 - [Catenda Teams and select all users added to ShareLink](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5375875-catenda-teams-and-select-all-users-added-to-sharelink.md)
 - [Changelog 1 Catenda - April, 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7018311-changelog-1-catenda-april-2023.md)
 - [Changelog 10 Catenda - October, 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11582902-changelog-10-catenda-october-2025.md)
-- [Changelog 11 Catenda - January, 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12529903-changelog-11-catenda-january-2025.md)
-- [Changelog 12 Catenda, April 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13413499-changelog-12-catenda-april-2026.md)
+- [Changelog 11 Catenda - January, 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12529903-changelog-11-catenda-january-2025.md)
+- [Changelog 12 Catenda - April, 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13413499-changelog-12-catenda-april-2026.md)
 - [Changelog 13 Catenda - August, 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15655135-changelog-13-catenda-august-2026.md): Catenda product updates: Explore the new Kanban view for topics, enhanced Approval Workflows, Catenda AI Connect, and Data Export. Includes resolved bugs, new tutorial videos, and updated support documentation across models, documents, and topics.
 - [Changelog 2 Catenda - July, 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7338675-changelog-2-catenda-july-2023.md)
 - [Changelog 3 Catenda - October, 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7983534-changelog-3-catenda-october-2023.md): New information and minor changes
-- [Changelog 4 Catenda - January 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8433887-changelog-4-catenda-january-2024.md): New information and minor changes
-- [Changelog 5 Catenda - April 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8851281-changelog-5-catenda-april-2024.md)
+- [Changelog 4 Catenda - January, 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8433887-changelog-4-catenda-january-2024.md): New information and minor changes
+- [Changelog 5 Catenda - April, 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8851281-changelog-5-catenda-april-2024.md)
 - [Changelog 6 Catenda - August, 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9285880-changelog-6-catenda-august-2024.md)
 - [Changelog 7 Catenda - December, 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9691178-changelog-7-catenda-december-2024.md)
 - [Changelog 8 Catenda - March, 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10288759-changelog-8-catenda-march-2025.md)

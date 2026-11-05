@@ -1,4 +1,4 @@
-# Changelog 12 Catenda, April 2026
+# Changelog 12 Catenda - April, 2026
 
 Hello everyone,
 

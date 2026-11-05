@@ -25004,7 +25004,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 **PowerBI Connector** API requests that require multiple pages of information (Often when more than 1000 elements are requested) now gather all pages. If there are more than 100 projects it is now possible to get all of them. It is now possible to get all documents in the project instead of just the first 1000 If there are more that 1000 objects in a request it is now possible to get information about all of them.
 
-# Changelog 11 Catenda - January, 2025
+# Changelog 11 Catenda - January, 2026
 
 Hello everyone,
 
@@ -25158,7 +25158,7 @@ _Revit plugin v1.0.15_
 
 **Tekla plugin v1.4.0** Support for new status workflow with published and shared major and minor revisions. Support for Tekla 2023, Tekla 2024 and Tekla 2025
 
-# Changelog 12 Catenda, April 2026
+# Changelog 12 Catenda - April, 2026
 
 Hello everyone,
 
@@ -25641,7 +25641,7 @@ _Desktop connector:_ [New version 1.0.4.0](https://hub.catenda.com/share/collect
 
 - New release
 
-# Changelog 4 Catenda - January 2024
+# Changelog 4 Catenda - January, 2024
 
 > New information and minor changes
 
@@ -25791,7 +25791,7 @@ _Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579
 
 - You can now connect to your catenda account via a browser popup instead of waiting for an email.
 
-# Changelog 5 Catenda - April 2024
+# Changelog 5 Catenda - April, 2024
 
 Hello everyone,
 
