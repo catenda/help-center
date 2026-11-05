@@ -413,7 +413,7 @@ Find the latest Catenda updates
 - [Feature statuses Q3 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13905373-feature-statuses-q3-2025.md)
 - [Feature statuses Q3 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15957767-feature-statuses-q3-2026.md)
 - [Feature statuses Q4 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13905411-feature-statuses-q4-2025.md)
-- [Feature statuses Q4 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/new-0j3jpvac-0j3jpvac.md)
+- [Feature statuses Q4 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/18242344-feature-statuses-q4-2026.md)
 - [Massive upgrade of mobile app](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5435949-massive-upgrade-of-mobile-app.md)
 - [Mobile app update](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5280539-mobile-app-update.md)
 - [Models as Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8064548-models-as-documents.md)
