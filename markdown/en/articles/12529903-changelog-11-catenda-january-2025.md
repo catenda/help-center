@@ -4,10 +4,6 @@ Hello everyone,
 
 thank you all for being so active on our platform in these winter months. We have enjoyed an amazing winter period and can prodly say that there has been more stability on the platform around this time than previous years. At the same time we have continued to listen to your request about the approval workflow overhaul that was brand new as of the last changelog. While some administrators have learned how to configure workflows and others been busy at work approving on behalf of their team there are a few checkboxes for us left to complete to tie everything together. A focus going forward will be creating a way to lock down an audit trail of the different actions that have occured in the approval process so documentation can be provided as proof that approval checks are being performed by the different teams. With the new members page it is easier than ever to configure team membership so let your administrators know if you feel like you are not in the right team or a team is missing in the project! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️
 
-In this article you will find updates about the following:
-
-_[Articles](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_a1a4085421) - [Bugs](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_43a9641d96) - [Videos](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_1ec3df5bf7) - [User Voices](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_4c273d2715) - [New releases](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_fea31925e9) - [Feature statuses](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_76a41f54f2)_
-
 ## 1. **Articles**
 
 As new features roll out and bugs are fixed articles are updated with the changes that are made. Please find the following articles that have been made and changed since the last changelog.
