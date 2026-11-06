@@ -1,12 +1,8 @@
-# Endringslogg 11 Catenda - Januar 2025
+# Changelog 11 Catenda - Januar 2026
 
 Hei alle sammen,
 
 takk skal dere ha for at dere er så aktive på plattformen vår i disse vintermånedene. Vi har hatt en fantastisk vinterperiode og kan med stolthet si at det har vært mer stabilitet på plattformen rundt denne tiden enn tidligere år. Samtidig har vi fortsatt å lytte til deres ønsker om overhalingen av gjennomgangsflyten som var helt ny fra forrige endringslogg. Mens noen administratorer har lært hvordan de skal konfigurere arbeidsflyter og andre har vært travelt opptatt med å viderefør på vegne av teamet sitt, har vi noen få oppgaver igjen å fullføre for å binde alt sammen. Et fokus fremover blir å lage en måte å låse ned et revisjonsspor over de ulike handlingene som har skjedd i gjennomgangsprosessen slik at dokumentasjon kan fremlegges som bevis på at gjennomgangssjekker utføres av de ulike teamene. Med den nye medlemmersiden er det lettere enn noen gang å konfigurere teammedlemskap, så si gjerne til administratorene dine hvis du føler at du ikke er i rett team eller at et team mangler i prosjektet! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️
-
-I denne artikkelen finner du oppdateringer om følgende:
-
-_[Artikler](https://support.catenda.com/nb/articles/11582902-endringslogg-10-catenda-oktober-2025#h_a1a4085421) - [Feil](https://support.catenda.com/nb/articles/11582902-endringslogg-10-catenda-oktober-2025#h_43a9641d96) - [Videoer](https://support.catenda.com/nb/articles/11582902-endringslogg-10-catenda-oktober-2025#h_1ec3df5bf7) - [Brukerønsker](https://support.catenda.com/nb/articles/11582902-endringslogg-10-catenda-oktober-2025#h_4c273d2715) - [Nye utgivelser](https://support.catenda.com/nb/articles/11582902-endringslogg-10-catenda-oktober-2025#h_fea31925e9) - [Funksjonsstatuser](https://support.catenda.com/nb/articles/11582902-endringslogg-10-catenda-oktober-2025#h_76a41f54f2)_
 
 ## 1. **Artikler**
 

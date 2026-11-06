@@ -1,4 +1,4 @@
-# Historique 12 Catenda, avril 2026
+# Journal des modifications 12 Catenda - avril 2026
 
 Bonjour à tous,
 
@@ -13,24 +13,24 @@ Les fleurs s'épanouissent et le changement est dans l'air alors que les niveaux
 **Gestion des comptes**
 
 - Organisations
-  - [Configuration de l'organisation](https://support.catenda.com/fr/articles/13653794-configuration-de-l-organisation)
-  - [Types d'organisation](https://support.catenda.com/fr/articles/13653807-types-d-organisation)
-  - [Configuration de l'organisation et du projet](https://support.catenda.com/fr/articles/13653804-organisation-et-configuration-des-projets)
+    - [Configuration de l'organisation](https://support.catenda.com/fr/articles/13653794-configuration-de-l-organisation)
+    - [Types d'organisation](https://support.catenda.com/fr/articles/13653807-types-d-organisation)
+    - [Configuration de l'organisation et du projet](https://support.catenda.com/fr/articles/13653804-organisation-et-configuration-des-projets)
 
 **Fonctionnalités du produit**
 
 - Sujets
-  - [Page des paramètres du modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet)
+    - [Page des paramètres du modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet)
 - Modèles de sujet
-  - [Appliquer un modèle de sujet général lors de la création d'un sujet](https://support.catenda.com/fr/articles/14075921-utilisation-des-modeles-de-sujets-dans-une-liste-de-sujets)
-  - [Appliquer un modèle de sujet de document lors de la création d'une annotation à partir d'un document](https://support.catenda.com/fr/articles/14078352-utilisation-de-modeles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage)
-  - [Appliquer un modèle de sujet d'approbation à un modèle de flux de travail d'approbation](https://support.catenda.com/fr/articles/14078683-utilisation-de-modeles-de-sujets-avec-les-approbations)
+    - [Appliquer un modèle de sujet général lors de la création d'un sujet](https://support.catenda.com/fr/articles/14075921-utilisation-des-modeles-de-sujets-dans-une-liste-de-sujets)
+    - [Appliquer un modèle de sujet de document lors de la création d'une annotation à partir d'un document](https://support.catenda.com/fr/articles/14078352-utilisation-de-modeles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage)
+    - [Appliquer un modèle de sujet d'approbation à un modèle de flux de travail d'approbation](https://support.catenda.com/fr/articles/14078683-utilisation-de-modeles-de-sujets-avec-les-approbations)
 - Entre catégories
-  - [Créer une action de rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_
-  - [Action Copier le lien](https://support.catenda.com/fr/articles/14323982-action-de-copie-de-liens)
+    - [Créer une action de rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_
+    - [Action Copier le lien](https://support.catenda.com/fr/articles/14323982-action-de-copie-de-liens)
 - Plug-ins et intégrations Catenda
-  - [Journal des modifications du plug-in Revit Catenda - 1.0.15](https://support.catenda.com/fr/articles/13449051-journal-des-modifications-du-plugin-catenda-revit-1-0-15)
-  - [Journal des modifications du plug-in Archicad Catenda - 1.0.1.17](https://support.catenda.com/fr/articles/13449075-journal-des-modifications-du-plugin-catenda-archicad-1-0-1-17)
+    - [Journal des modifications du plug-in Revit Catenda - 1.0.15](https://support.catenda.com/fr/articles/13449051-journal-des-modifications-du-plugin-catenda-revit-1-0-15)
+    - [Journal des modifications du plug-in Archicad Catenda - 1.0.1.17](https://support.catenda.com/fr/articles/13449075-journal-des-modifications-du-plugin-catenda-archicad-1-0-1-17)
 
 **Dépannage**
 
@@ -45,9 +45,9 @@ Mises à jour récentes
 **Foire aux questions**
 
 - FAQ Sujets
-  - [Localisation 2D des sujets - Site Catenda](https://support.catenda.com/fr/articles/13616245-localisation-2d-des-sujets-catenda-site)
+    - [Localisation 2D des sujets - Site Catenda](https://support.catenda.com/fr/articles/13616245-localisation-2d-des-sujets-catenda-site)
 - FAQ Projet
-  - [FAQ Champs personnalisés](https://support.catenda.com/fr/articles/11384331-faq-sur-les-champs-personnalises)
+    - [FAQ Champs personnalisés](https://support.catenda.com/fr/articles/11384331-faq-sur-les-champs-personnalises)
 
 ### 1.2 **Articles qui ont changé :**
 

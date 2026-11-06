@@ -381,20 +381,20 @@ Trouvez les dernières mises à jour de Catenda Hub
 - [Affichage en tableau dans la section Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8398771-affichage-en-tableau-dans-la-section-documents.md)
 - [Aperçu 3D des documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5658031-aperçu-3d-des-documents.md): Prévisualisez votre modèle directement dans la section Documents de Bimsync.
 - [Bimsync est maintenant Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7890769-bimsync-est-maintenant-catenda-hub.md): Catenda Hub s'appelle désormais Bimsync
+- [Changelog 11 Catenda - Janvier 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12529903-journal-des-modifications-11-catenda-janvier-2025.md)
 - [Changelog 13 Catenda - Août 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15655135-changelog-13-catenda-août-2026.md): Mises à jour produit Catenda : nouvelle vue Kanban pour les topics, flux d'approbation améliorés, Catenda AI Connect et export de données. Inclut bugs résolus, nouveaux tutoriels vidéo et documentation mise à jour pour modèles, documents et topics.
 - [Changelog 8 Catenda - Mars 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10288759-changelog-8-catenda-mars-2025.md)
 - [Changelog 9 Catenda - Juin 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10857573-changelog-9-catenda-juin-2025.md)
 - [Filtre de date 📆](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6511685-filtre-de-date.md)
 - [Flux de travail Statut Partagé -> Publié](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9662473-flux-de-travail-statut-partagé-publié.md)
 - [Glisser-déposer !](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6078698-glisser-déposer.md): Cet article décrit comment glisser-déposer des fichiers dans votre Bibliothèque
-- [Historique 12 Catenda, avril 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13413499-historique-12-catenda-avril-2026.md)
 - [Journal des modifications 1 Catenda - Avril 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7018311-journal-des-modifications-1-catenda-avril-2023.md)
 - [Journal des modifications 10 Catenda - octobre 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025.md)
-- [Journal des modifications 11 Catenda - janvier 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12529903-journal-des-modifications-11-catenda-janvier-2025.md)
+- [Journal des modifications 12 Catenda - avril 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13413499-historique-12-catenda-avril-2026.md)
 - [Journal des modifications 2 Catenda - Juillet 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7338675-journal-des-modifications-2-catenda-juillet-2023.md)
 - [Journal des modifications 3 Catenda - Octobre 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7983534-journal-des-modifications-3-catenda-octobre-2023.md): Nouvelles informations et modifications mineures
-- [Journal des modifications 4 Catenda - janvier 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8433887-journal-des-modifications-4-catenda-janvier-2024.md): Nouvelles informations et modifications mineures
-- [Journal des modifications 5 Catenda - Avril 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8851281-journal-des-modifications-5-catenda-avril-2024.md)
+- [Journal des modifications 4 Catenda - Janvier 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8433887-journal-des-modifications-4-catenda-janvier-2024.md): Nouvelles informations et modifications mineures
+- [Journal des modifications 5 Catenda - avril 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8851281-journal-des-modifications-5-catenda-avril-2024.md)
 - [Journal des modifications 6 Catenda - Août 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9285880-journal-des-modifications-6-catenda-août-2024.md)
 - [Journal des modifications 7 Catenda - Décembre 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9691178-journal-des-modifications-7-catenda-décembre-2024.md)
 - [Journal des modifications de Catenda Site - 3.5.0](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9930034-journal-des-modifications-de-catenda-site-3-5-0.md)
@@ -421,6 +421,7 @@ Trouvez les dernières mises à jour de Catenda Hub
 - [Statuts des fonctionnalités Q3 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13905373-statuts-des-fonctionnalités-q3-2025.md)
 - [Statuts des fonctionnalités Q3 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15957767-statuts-des-fonctionnalités-q3-2026.md)
 - [Statuts des fonctionnalités Q4 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13905411-statuts-des-fonctionnalités-q4-2025.md)
+- [Statuts des fonctionnalités Q4 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/18242344-statuts-des-fonctionnalites-q4-2026.md)
 - [Équipes Catenda et sélection de tous les utilisateurs ajoutées à ShareLink](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5375875-équipes-catenda-et-sélection-de-tous-les-utilisateurs-ajoutées-à-sharelink.md)
 - [🎉 Nouvelle documentation API 🎉](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9857242-nouvelle-documentation-api.md)
 

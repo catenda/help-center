@@ -1,4 +1,4 @@
-# Journal des modifications 4 Catenda - janvier 2024
+# Journal des modifications 4 Catenda - Janvier 2024
 
 > Nouvelles informations et modifications mineures
 

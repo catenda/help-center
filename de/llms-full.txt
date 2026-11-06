@@ -25007,15 +25007,11 @@ Dank Ihres wertvollen Feedbacks konnten wir viele Probleme beheben, die Sie mög
 
 **PowerBI Connector** API-Anfragen, die mehrere Informationsseiten erfordern (häufig wenn mehr als 1000 Elemente angefordert werden), werden nun auf allen Seiten zusammengefasst. Wenn es mehr als 100 Projekte gibt, ist es jetzt möglich, alle abzurufen. Es ist jetzt möglich, alle Dokumente im Projekt zu erhalten, anstatt nur die ersten 1000. Wenn es mehr als 1000 Objekte in einer Anfrage gibt, ist es jetzt möglich, Informationen über alle abzurufen.
 
-# Changelog 11 Catenda - Januar 2025
+# Changelog 11 Catenda - Januar 2026
 
 Hallo zusammen,
 
 vielen Dank, dass ihr alle in diesen Wintermonaten so aktiv auf unserer Plattform seid. Wir haben eine erstaunliche Winterperiode genossen und können stolz sagen, dass es in dieser Zeit mehr Stabilität auf der Plattform gibt als in den Vorjahren. Gleichzeitig haben wir weiterhin auf eure Anfragen zum Überholte Genehmigungsablauf gehört, der ab dem letzten Changelog nagelneu war. Während einige Administratoren gelernt haben, wie man Workflows konfiguriert, und andere bei der Arbeit damit beschäftigt waren, im Namen ihres Teams zu genehmigen, gibt es noch ein paar Kontrollkästchen für uns, um alles zusammenzuziehen. Ein Fokus in Zukunft wird darin bestehen, einen Weg zu schaffen, um einen Audit-Trail der verschiedenen Aktionen, die im Genehmigungsprozess aufgetreten sind, zu sperren, damit die Dokumentation erbracht werden kann, dass Genehmigungsprüfungen von den verschiedenen Teams durchgeführt werden. Mit der neuen Mitglieder-Seite ist es einfacher denn je, die Teamzugehörigkeit zu konfigurieren, also informiert eure Administratoren, wenn ihr das Gefühl habt, dass ihr nicht im richtigen Team seid oder ein Team im Projekt fehlt! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️
-
-In diesem Artikel finden Sie Aktualisierungen zu folgendem:
-
-_[Artikel](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_a1a4085421) - [Fehler](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_43a9641d96) - [Videos](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_1ec3df5bf7) - [Benutzer-Feedback](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_4c273d2715) - [Neue Versionen](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_fea31925e9) - [Funktionsstatus](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_76a41f54f2)_
 
 ## 1. **Artikel**
 
@@ -25161,7 +25157,7 @@ _Revit-Plugin v1.0.15_
 
 **Tekla-Plugin v1.4.0** Unterstützung für neuen Status-Workflow mit veröffentlichten und geteilten Major- und Minor-Revisionen. Unterstützung für Tekla 2023, Tekla 2024 und Tekla 2025
 
-# Changelog 12 Catenda, April 2026
+# Changelog 12 Catenda - April 2026
 
 Hallo zusammen,
 
@@ -25176,24 +25172,24 @@ Da neue Funktionen eingeführt und Fehler behoben werden, werden Artikel mit den
 **Kontoverwaltung**
 
 - Organisationen
-  - [Organisationskonfiguration](https://support.catenda.com/de/articles/13653794-organisationskonfiguration)
-  - [Organisationstypen](https://support.catenda.com/de/articles/13653807-organisationstypen)
-  - [Organisations- und Projekteinrichtung](https://support.catenda.com/de/articles/13653804-organisation-und-projekteinrichtung)
+    - [Organisationskonfiguration](https://support.catenda.com/de/articles/13653794-organisationskonfiguration)
+    - [Organisationstypen](https://support.catenda.com/de/articles/13653807-organisationstypen)
+    - [Organisations- und Projekteinrichtung](https://support.catenda.com/de/articles/13653804-organisation-und-projekteinrichtung)
 
 **Produktmerkmale**
 
 - Themen
-  - [Seite mit Themenvorlageneinstellungen](https://support.catenda.com/de/articles/14076010-einstellungsseite-fur-themenvorlagen)
+    - [Seite mit Themenvorlageneinstellungen](https://support.catenda.com/de/articles/14076010-einstellungsseite-fur-themenvorlagen)
 - Themenvorlagen
-  - [Allgemeine Themenvorlage bei der Themenerstellung anwenden](https://support.catenda.com/de/articles/14075921-verwenden-von-themen-vorlagen-in-einem-themen-board)
-  - [Dokumentthemenvorlage beim Erstellen einer Markup aus einem Dokument anwenden](https://support.catenda.com/de/articles/14078352-verwenden-von-themen-vorlagen-beim-speichern-von-markup-themen)
-  - [Genehmigungsthemenvorlage auf Genehmigungsworkflow-Vorlage anwenden](https://support.catenda.com/de/articles/14078683-themen-vorlagen-mit-genehmigungen-verwenden)
+    - [Allgemeine Themenvorlage bei der Themenerstellung anwenden](https://support.catenda.com/de/articles/14075921-verwenden-von-themen-vorlagen-in-einem-themen-board)
+    - [Dokumentthemenvorlage beim Erstellen einer Markup aus einem Dokument anwenden](https://support.catenda.com/de/articles/14078352-verwenden-von-themen-vorlagen-beim-speichern-von-markup-themen)
+    - [Genehmigungsthemenvorlage auf Genehmigungsworkflow-Vorlage anwenden](https://support.catenda.com/de/articles/14078683-themen-vorlagen-mit-genehmigungen-verwenden)
 - Kategorieübergreifend
-  - [Bericht erstellen-Aktion](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Berichtereditor)_
-  - [Aktion "Link kopieren"](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren)
+    - [Bericht erstellen-Aktion](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Berichtereditor)_
+    - [Aktion "Link kopieren"](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren)
 - Catenda-Plugins und -Integrationen
-  - [Catenda Revit Plugin-Changelog - 1.0.15](https://support.catenda.com/de/articles/13449051-catenda-revit-plugin-anderungsprotokoll-1-0-15)
-  - [Catenda Archicad Plugin-Changelog - 1.0.1.17](https://support.catenda.com/de/articles/13449075-catenda-archicad-plugin-anderungsprotokoll-1-0-1-17)
+    - [Catenda Revit Plugin-Changelog - 1.0.15](https://support.catenda.com/de/articles/13449051-catenda-revit-plugin-anderungsprotokoll-1-0-15)
+    - [Catenda Archicad Plugin-Changelog - 1.0.1.17](https://support.catenda.com/de/articles/13449075-catenda-archicad-plugin-anderungsprotokoll-1-0-1-17)
 
 **Fehlerbehebung**
 
@@ -25208,9 +25204,9 @@ Aktuelle Updates
 **Häufig gestellte Fragen**
 
 - Themen-FAQ
-  - [2D-Standort von Themen - Catenda-Website](https://support.catenda.com/de/articles/13616245-2d-position-von-themen-catenda-site)
+    - [2D-Standort von Themen - Catenda-Website](https://support.catenda.com/de/articles/13616245-2d-position-von-themen-catenda-site)
 - Projekt-FAQ
-  - [FAQ zu benutzerdefinierten Feldern](https://support.catenda.com/de/articles/11384331-haufig-gestellte-fragen-zu-benutzerdefinierten-feldern)
+    - [FAQ zu benutzerdefinierten Feldern](https://support.catenda.com/de/articles/11384331-haufig-gestellte-fragen-zu-benutzerdefinierten-feldern)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 
@@ -25794,6 +25790,121 @@ _Catenda Site:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579
 
 - Du kannst dich jetzt über ein Browser-Popup mit deinem Catenda-Konto verbinden, anstatt auf eine E-Mail zu warten.
 
+# Changelog 5 Catenda - April 2024
+
+Hallo zusammen,
+
+Der Winter ist endlich vorbei und die Sonne scheint wieder. Auch hier in Norwegen! Jetzt, da Ostern vorbei ist, steht der Sommer vor der Tür! ☀️😎🏖️ Aber machen Sie noch keinen Urlaub, denn wir haben einige Änderungen vorgenommen. In diesem Artikel finden Sie Updates zu den folgenden Themen:
+
+_[Artikel](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_5be2a02999) - [Themen gelöst](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_d238d9111d) - [Neue Versionen](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_d238d9111d)_
+
+## 1. **Artikel**
+
+Wenn neue Funktionen eingeführt und Fehler behoben werden, werden die Artikel mit den vorgenommenen Änderungen aktualisiert. Bitte beachten Sie die folgenden Artikel, die seit dem letzten Changelog erstellt und geändert wurden.
+
+### 1.1 **Neue Artikel:**
+
+**Erste Schritte und FAQ** [Erste Schritte auf Catenda Hub](https://support.catenda.com/de/articles/9030303-schritt-1-kontoeinrichtung) [Die Nachrichtenblase unten rechts](http://The%20bottom%20right%20message%20bubble) [Zugriffsebenen](https://support.catenda.com/de/articles/8967083-zugriffskontrollebenen) [Was ist ein Thema in Catenda?](https://support.catenda.com/de/articles/8979789-was-ist-ein-topic-in-catenda) [Ausschreibung in Catenda](https://support.catenda.com/de/articles/9063936-ausschreibungen-in-catenda) [Seiten ohne Zugriff](https://support.catenda.com/de/articles/9172624-seiten-ohne-zugang)
+
+**Hauptseite** [Seite "Mitglieder" im Organisationstool](https://support.catenda.com/de/articles/9003642-projektmitgliedschaften-organisationswerkzeug)
+
+**Themen** [2D- und 3D-Ansichtspunkte](https://support.catenda.com/de/articles/9184555-2d-und-3d-ansichtspunkte)
+
+**Dokumente** [Hochladen eines Dokuments](https://support.catenda.com/de/articles/4670278-ein-dokument-hochladen) [Sammlungsseite](https://support.catenda.com/de/articles/8999764-sammlungsinhaltseite)
+
+**Plugins und Integrationen** [Dokument - Catenda Site](https://support.catenda.com/de/articles/8975421-dateitypen-auf-catenda-site-in-der-vorschau-anzeigen)
+
+### 1.2 **Artikel, die sich geändert haben:**
+
+**Aktuelle Updates** [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-modelle-als-dokumente)
+
+**Hauptseite** [Projektseite](https://support.catenda.com/de/articles/4670260-kontenschaltflachen) [Ein neues Projekt erstellen](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen) [Seite "Benutzer" im Organisationstool](https://support.catenda.com/de/articles/8508311-benutzerseite-organisationsverwaltungstool) [Benachrichtigungseinstellungen für Konto](https://support.catenda.com/de/articles/8272435-kontobenachrichtigungseinstellungen)
+
+**Themen** [Einstellungen für das Themen-Board](https://support.catenda.com/de/articles/4670277-einstellungsseite-fur-topic-board) [Themen-Text](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas) [Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung)
+
+**Dokumente**
+
+_[Dokumente strukturieren](https://support.catenda.com/de/articles/8542598-dokumente-strukturieren)_ [Anmerkungen zu Dokumenten](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen) [Sammlungsseite](https://support.catenda.com/de/articles/6344318-sammlungsseite) [Filtern auf der Genehmigungsseite](https://support.catenda.com/de/articles/8551740-filterung-auf-der-genehmigungsseite-erbschaft) [Filtern in einem Themen-Board](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen)
+
+**Modelle** [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) [Abfragen](https://support.catenda.com/de/articles/4854514-abfragen)
+
+**Informationsbereich** [Informationsbereich](https://support.catenda.com/de/articles/8238584-informationsbereich)
+
+**Einstellungen** [Seite "Etiketten"](https://support.catenda.com/de/articles/4670265-etikettenseite) [Ein Team erstellen](https://support.catenda.com/de/articles/4670264-ein-team-erstellen)
+
+**Plugins und Integrationen** [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) [Power BI-Integration](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) [IFC Archicad-Anleitung](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch) [Archicad-Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin) [Solibri-Modelle als Dokumente-Integration](https://support.catenda.com/de/articles/6988148-solibri-modelle-und-dokumentenintegration)
+
+**Catenda Site** [Laden Sie Ihre mobile App Catenda Site herunter](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter)
+
+## 2. **Behobene Fehler**
+
+Dank Ihres wertvollen Feedbacks konnten wir viele Themen beheben, die Sie vielleicht gar nicht bemerkt haben. Nachfolgend finden Sie eine Liste kleinerer Änderungen, die das Entwicklungsteam aufgrund von Gesprächen mit Benutzern vorgenommen hat.
+
+### 2.1 **Themen**
+
+- Wenn Sie einen Standardwert für ein benutzerdefiniertes Feld in einem Themen-Board festlegen, wird automatisch ein Wert in das Feld eingefügt, wenn Sie ein Thema erstellen. Es ist nun auch möglich, ein Thema zu erstellen, wenn Sie diesen Wert entfernen, sodass das Feld leer ist.
+- Geschlossene Themen, deren Fälligkeitsdatum abgelaufen ist, haben nun die gleiche Farbe für das Fälligkeitsdatum-Symbol im Themen-Board und im Thema selbst.
+- Der Filter "Überfällig" wurde in "Fälligkeitsdatum abgelaufen" geändert, was korrekter ist, da dieser Filter nicht berücksichtigt, wann das Thema im Verhältnis zum Fälligkeitsdatum geschlossen wurde.
+
+### 2.2 **Dokumente**
+
+- Dokumente, die aus Dokumentvorschauansichten heruntergeladen werden, erhalten nun einen Dateinamen entsprechend der für das Projekt festgelegten Dokumentnamenskonvention
+- Dokumente, die aus dem Revisions-Menü im rechten Informationsmenü heruntergeladen werden, erhalten nun einen Dateinamen entsprechend der für das Projekt festgelegten Dokumentnamenskonvention
+- Etiketten sind nun wieder im Filtermenü im Dokumentbereich sichtbar
+- Es ist nun möglich, auch Modelle aus Dokumenten mit großen IFC-Buchstaben in der Dateierweiterung zu erstellen.
+- Wenn Sie ein Dokument in einer Sammlung anzeigen, ist kein weißes Blatt mehr über den Namen der anderen Dokumente in der Sammlung sichtbar.
+- es ist nun möglich, mehrere IFC-Dokumente/Punktwolken gleichzeitig im 3D-Viewer zu öffnen
+- Dokumentstatus können nun wieder von innerhalb des Dokuments geändert werden.
+- es ist nun wieder möglich, 3D-Vorschauansichten für IFC-Dateien im Dokumentbereich anzuzeigen.
+
+### 2.3 **Modelle**
+
+- Es ist nun wieder möglich, frühere Revisionen in der Revisionsauswahl anzuzeigen
+- Die Modelltransformation wird nun wieder angewendet, wenn Sie ein Modell aus der Revisionsauswahl öffnen.
+- Die Modelltransformation wird nun korrekt angewendet, wenn Sie ein Modell auf der Modellseite mit aktivierter Option "Modelle als Dokumente" öffnen.
+- Es ist nun wieder möglich, frühere Revisionen in der Revisionsauswahl anzuzeigen, nachdem Sie eine frühere Revision eines anderen Modells ausgewählt haben.
+- Kopierte Lesezeichen werden nun mit einem Häkchen angezeigt, um anzuzeigen, dass sie kopiert wurden, damit Sie sie nicht erneut kopieren.
+- Sie können nun den Filter auf der Lesezeichen-Seite durchstreichen, um alle Lesezeichen anzuzeigen.
+- Es ist nun wieder möglich, Lesezeichen mit ausgewählten Objekten zu kopieren.
+- Transparenz, die in IFC 4-Modellen angegeben ist, wird nun korrekt in unserem Viewer angezeigt.
+- Schnittebenen werden nun viel schneller erstellt, was es ermöglicht, sie in Modellen zu verwenden, bei denen dies lange dauerte.
+
+### 2.4 **Bibliotheken**
+
+- Es ist nun wieder möglich, Klassifizierungs-CSVs in Klassifizierungsbibliotheken zu importieren.
+- Es ist nun wieder möglich, SharePoint-Bibliotheken zu verbinden.
+
+### 2.5 **Plugins und Integrationen**
+
+- Es ist nun wieder möglich, sich beim Navisworks-Plugin anzumelden.
+
+### 2.6 **Allgemein**
+
+- Infotext hinzugefügt mit dem Hinweis, dass ein Benutzer Administrator oder Besitzer sein muss, um die Ordnerstruktur von einem Projekt beim Erstellen eines Projekts aus einer Vorlage zu kopieren.
+- Die Chat-Blase unten rechts zum Kontaktieren des Supports wurde in die obere rechte Ecke der Seite verschoben, da sie Seitenelemente wie die Info-Schaltfläche im 3D-Viewer und die Speicherschaltfläche im rechten Informationsfeld des Themas überlagerte.
+
+## 3. **Benutzerstimmen abgeschlossen**
+
+### 3.1 **Themen**
+
+Es ist nun möglich, Textkommentare zu mehreren Themen gleichzeitig hinzuzufügen. Diese Option finden Sie im rechten Informationsmenü nach dem Auswählen von zwei oder mehr Themen.
+
+### 3.2 **Dokumente**
+
+Vorschauansichten von Videoformaten werden nun unterstützt: mp4, ogg und webM
+
+### 3.3 **Modelle**
+
+Administratoren können nun Lesezeichen löschen, die von Benutzern erstellt wurden. Dies ist besonders hilfreich, wenn ein Benutzer nicht mehr Teil des Projekts ist. Lesezeichen können nun auch nach ihrer Erstellung aktualisiert werden, sodass Sie Ihr vorheriges Lesezeichen nicht löschen und ein neues erstellen müssen.
+
+## 4. **Neue Versionen** - Catenda Site, Plugins und Integrationen
+
+**Catenda Hub:** _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+
+**Tekla-Plugin v1.1.2:** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
+
+Archicad-Plugin v1.0.1.11: [Graphisoft Archicad Plugin - v1.0.1.11 - Windows](https://hub.catenda.com/share/collections/Zxu69mYiYBrU0ClC9MYFP2Rm6CdjUmlCWcDRTM8wdvUm) - Alle Versionen [Graphisoft Archicad Plugin - v1.0.1.11 - Mac](https://hub.catenda.com/share/collections/QlZGUafsOwX4LKF7eqwo15YLuhDkTeAfJjTYjqCmYgPp) - Alle Versionen
+
 # Changelog 6 Catenda - August 2024
 
 Hallo zusammen,
@@ -26357,6 +26468,100 @@ Suchen Sie mit Logik nach beliebigen Inhalten aus Ihrem IFC. Die Objektseite ist
 ### 2.3 **Report-Editor**
 
 Erstellen Sie Report-Vorlagen für Themen und Dokumente, damit Projektmitglieder Themen oder Dokumente aus der Tabelle auswählen und die Report-Aktion zum Generieren eines Reports verwenden können. Die Reports-Seite ist eine On-Demand-Funktion, die für laufende Projekte aktiviert werden kann. Neue Projekte, die auf einem Vorlagenprojekt basieren, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert. Separate Vorlagen können für Themen und Dokumente erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Report-Aktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Report basierend auf der ausgewählten Vorlage zu generieren. Unterstützung für die Anzeige verschiedener Werte auf der Seite wird von Catenda angeboten. Wenn Sie einen benutzerdefinierten Report wünschen, der auf Ihr Unternehmen zugeschnitten ist, können wir Sie mit einem Berater in Kontakt bringen, der Ihnen dabei helfen kann.
+
+# Feature-Status Q4 2026
+
+Um Benachrichtigungsspam zu vermeiden und einen reibungslosen Start zu gewährleisten, können neue Verhaltensweisen oder Änderungen an vorhandenen Verhaltensweisen schrittweise und ohne vorherige Ankündigung eingeführt werden. Benutzer, die Verhaltensänderungen in einem Teil einer häufig genutzten Seite bemerken, oder die wissen möchten, was neu ist, können diese Artikel konsultieren, um sich über aktuelle Verhaltensänderungen für alle Benutzer zu informieren.
+
+## 1. **Neue Funktionen**
+
+Jeder Benutzer nutzt die Plattform unterschiedlich. Auch wenn eine neue Funktion veröffentlicht oder Änderungen an einer Funktion vorgenommen werden, kann es sein, dass Benutzer diesen Teil der Funktion nicht nutzen. Für diejenigen, die neugierig sind, was "dieser neue Button" oder "diese neue Seite" auf der Plattform ist, enthält dieser Artikel eine Einführung in das, worum es bei der Änderung geht. Für diese Funktionen ist oft nur grundlegendes oder leicht veraltetes Supportmaterial verfügbar, da dies laufend aktualisiert wird. Zusammen mit der Unterstützung im Support werden die Artikel häufig aktualisiert, und wenn Fragen, die gestellt wurden, schnell in einem Artikel erläutert gefunden werden können, geschieht dies in der nächsten Woche.
+
+### 1.1 **Zeichnungen in 3D**
+
+PDF-Zeichnungen können jetzt im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) zusammen mit den Modellen angezeigt werden. Eine Zeichnung wird einmal ausgerichtet und kann dann beliebig oft in 3D geöffnet werden.
+
+![Eine PDF-Zeichnung, die unter dem Modell im 3D-Viewer angezeigt wird, mit der 3D-Schaltfläche in der Viewer-Spalte der Dokumenttabelle](https://raw.githubusercontent.com/catenda/help-center/main/images/0j3jpvac/01-drawings-in-3d.png)
+
+**Ausrichten einer Zeichnung** Wählen Sie eine einzelne PDF in der Dokumenttabelle auf der [Seite "Dokumente"](https://support.catenda.com/de/articles/8204673-dokumentenseite) aus und wählen Sie im Aktionsmenü oben in der Tabelle "Zeichnung erstellen" aus. Geben Sie der Zeichnung eine Höhenlage und platzieren Sie dann die Markierungen A und B, um ihre Position und Rotation festzulegen. Dies funktioniert genauso wie im [Geschosskonfigurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite). Es richtet die Zeichnung nach einem Geschoss aus dem Geschosskonfigurator oder aus einem IFC-Modell aus.
+
+**Zeichnungen in 3D öffnen** Wählen Sie eine oder mehrere ausgerichtete Zeichnungen aus und wählen Sie 3D im Aktionsmenü oben in der Dokumenttabelle. Die 3D-Ansicht einer einzelnen ausgerichteten Zeichnung kann auch mit der 3D-Schaltfläche in der [Viewer-Spalte](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_face62c318) ein- und ausgeschaltet werden. Falls die Viewer-Spalte nicht sichtbar ist, zeigen Sie diese zuerst an, wie unter [Spalten auf der Dokumentenseite](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite) beschrieben. Die im 3D-Viewer geladenen Zeichnungen werden oben in der Modell-Dropdown-Liste aufgelistet, genauso wie Punktwolken und GML-Dateien. Zeichnungen in 3D funktionieren mit PDF-Dateien. 📽️ **[Schulungsvideo](https://eu.guidde.com/playbooks/devAaKxijzjkFmKW8xcgLq?mode=videoAndDoc)**
+
+### 1.2 **Barrierefreiheit**
+
+**Tastatur und Bildschirmleser** Catenda Hub kann jetzt nur mit einer Tastatur und mit einem Bildschirmleser verwendet werden. Ein Link zum Überspringen zum Hauptinhalt und die Taste F6 bewegen sich zwischen den Hauptbereichen des Bildschirms, und ein sichtbarer Rahmen zeigt, wo der Fokus liegt. Themen, Dokumente, Freigaben und Modelle funktionieren alle über Tastatur und Bildschirmleser, einschließlich Tabellen, Formulare, Pop-ups, dem 3D-Viewer und dem PDF-Viewer. Schaltflächen, die nur ein Symbol anzeigen, haben jetzt Namen, die ein Bildschirmleser in der [Oberflächensprache](https://support.catenda.com/de/articles/4670248-anderung-der-bevorzugten-sprache) des Benutzers vorliest. Fehler- und Erfolgsmeldungen werden ebenfalls vorgelesen.
+
+**Farbblind-Modi** Drei Farbblind-Modi können unter "Farbsehen" auf der [Kontoseite](https://support.catenda.com/de/articles/6880968-kontoseite) ausgewählt werden: Protanopia, Deuteranopia und Tritanopia. Jeder Modus verwendet eine Farbpalette, die leichter zu unterscheiden ist, und "Standard" behält die Standardfarben bei.
+
+![Die Einstellung "Farbsehen" mit den Paletten "Standard", "Protanopia", "Deuteranopia" und "Tritanopia"](https://raw.githubusercontent.com/catenda/help-center/main/images/0j3jpvac/02-accessibility.png)
+
+## 2. **Aktualisierte Funktionen**
+
+### 2.1 **Freigabeverbesserungen**
+
+**Anklickbare Freigabeschritte** Die Schritte im [Schritt-Band](https://support.catenda.com/de/articles/12495212-schrittband-in-einer-freigabeanfrage) oben bei einer Freigabe können jetzt angeklickt werden. Wenn Sie auf einen Schritt klicken, werden sein Status, seine Reviewer-Teams und seine Daten angezeigt. Der aktuelle Schritt behält seine grüne Umrandung bei, damit klar bleibt, wo die Überprüfung tatsächlich ist.
+
+**Geschlossene Legacy-Freigaben nach dem Umschalten** Projekte, die von den Legacy-Freigaben zum neuen Freigabe-Workflow wechseln, können ihre geschlossenen Legacy-Freigaben jetzt auf der [Seite "Freigaben"](https://support.catenda.com/de/articles/12495047-genehmigungsseite) sehen. Die Dokumentation und der Audit-Trail dieser Freigaben bleiben nach dem Umschalten intakt.
+
+### 2.2 **Gemeinsame Revisionen in Sammlungen**
+
+[Sammlungen](https://support.catenda.com/de/articles/6344318-sammlungsseite) unterstützen jetzt gemeinsame Revisionen. Dies war eine lange geforderte Anfrage von Benutzern und erweitert die Verwendungsmöglichkeiten von Sammlungen.
+
+### 2.3 **Catenda AI Connect**
+
+Catenda AI Connect wurde aktualisiert, und die Änderungen sind im [Catenda AI Connect-Changelog](https://support.catenda.com/de/articles/17778717-changelog-fur-catenda-ai-connect) aufgelistet _(nur für AI Connect-Kunden)_.
+
+### 2.4 **3D-Viewer**
+
+**Leistung** Eine neue Version des 3D-Viewers lädt Modelle schneller und verbraucht weniger Speicher, besonders beim Laden. Dies ermöglicht es, größere Projekte als zuvor zu öffnen. Die Messwerkzeuge reagieren schneller und frieren weniger bei großen Projekten ein. Modelle bleiben bei jeder Browser-Zoomstufe scharf. Die Anzeigequalitätseinstellungen in den [3D-Viewer-Einstellungen](https://support.catenda.com/de/articles/5784718-3d-viewer-einstellungen) wurden umbenannt und funktionieren anders. Der Standard ist jetzt Adaptive Qualität.
+
+**Ausrichtungen** Aus der Ausrichtungstabelle kann die [Schnittebene](https://support.catenda.com/de/articles/4670253-schnittebenen) nun direkt zu einem Punkt auf einer [Ausrichtung](https://support.catenda.com/de/articles/4670327-schiebeflachen-dropdown) gesendet werden. Es ist nicht mehr notwendig, eine Ebene zu erstellen und sie manuell an Ort und Stelle zu ziehen. Der genaue Abstand entlang der Ausrichtung, an dem der Querschnitt sitzt, wird ebenfalls angezeigt. Das Eingeben eines Abstands bewegt den Querschnitt direkt dorthin.
+
+**Öffentliche Lesezeichen** Das Messwerkzeug und die [Schnittebene](https://support.catenda.com/de/articles/4670253-schnittebenen) können nun in [öffentlichen Lesezeichen](https://support.catenda.com/de/articles/8471481-lesezeichen-inhaltsseite) verwendet werden.
+
+### 2.5 **Dokumentenviewer-Sprachen**
+
+Der [Dokumentenviewer](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen) folgt nun der [Oberflächensprache](https://support.catenda.com/de/articles/4670248-anderung-der-bevorzugten-sprache), die im Benutzerkonto eingestellt ist, in jeder unterstützten Sprache.
+
+### 2.6 **Benachrichtigungen**
+
+Die [Seite mit Benachrichtigungen](https://support.catenda.com/de/articles/7439223-seite-kontobenachrichtigungen), die [Projektbenachrichtigungsseite](https://support.catenda.com/de/articles/4670295-projektbenachrichtigungsseite) und das Popup-Fenster, das sich aus der Glocke in der oberen rechten Ecke öffnet, wurden neu aufgebaut.
+
+## 3. **On-Demand-Funktionen aktivieren**
+
+Jede On-Demand-Funktion ist produktionsreif und einsatzbereit. Obwohl diese Funktionen getestet wurden, um wie erwartet zu funktionieren, kann es unterschiedliche Grade geben, wie viele Projekte diese Funktionen bereits nutzen, sodass unbekannte Grenzfälle gefunden werden könnten. Während Änderungen vorgenommen werden, um diese Funktionen für alle Benutzer verfügbar zu machen, werden Daten, die in diesen Funktionen eingereicht werden, nicht gelöscht.
+
+### 3.1 **On-Demand-Funktionen zum Aktivieren anfordern**
+
+Einige Funktionen können von der Kontaktperson für Ihre Catenda-Lizenz für bestehende Projekte zur Aktivierung angefordert werden, während andere mit einer Einstellung im Projekt aktiviert werden können. Wenn eine On-Demand-Funktion zur Aktivierung angefordert wird, wird ein Treffen mit einem Support-Vertreter vereinbart, um den aktuellen Status der Funktion zu besprechen. Falls ein Projekt nicht bereits verfügbar ist, in dem die On-Demand-Funktion getestet werden kann, kann ein Dummy-Projekt für begrenzte Zeit erstellt werden, um die On-Demand-Funktion zu testen und zu prüfen, ob die Funktion einsatzbereit ist.
+
+### 3.2 **Berichts-Editor**
+
+Erstellen Sie Berichtsvorlagen für Themen und Dokumente, damit Projektmitglieder Themen oder Dokumente aus der Tabelle auswählen und die Berichtsaktion verwenden können, um einen Bericht zu erstellen. Die Berichtsseite ist eine On-Demand-Funktion, die für laufende Projekte zur Aktivierung angefordert werden kann. Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert. Separate Vorlagen können für Themen und Dokumente erstellt werden. Berichte können auch aus Genehmigungen mit der [Berichtsaktion erstellen](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur Berichts-Editor-Kunden)_ erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht basierend auf der ausgewählten Vorlage zu erstellen. Unterstützung für die Anzeige verschiedener Werte auf der Seite wird von Catenda angeboten. Wenn Sie einen benutzerdefinierten Bericht für Ihr Unternehmen wünschen, können wir Sie mit einem Berater in Verbindung bringen, der Ihnen helfen kann. Beispielberichte für Themen, Dokumente und Genehmigungen sind jetzt unter [Vorgefertigte Berichtsvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) _(nur Berichts-Editor-Kunden)_ verfügbar. Wie der Berichts-Editor funktioniert, wird in [Berichts-Editor](https://support.catenda.com/de/articles/17778656-berichts-editor) _(nur Berichts-Editor-Kunden)_ beschrieben.
+
+### 3.3 **Catenda für Power BI (On Demand)**
+
+Eine On-Demand-Version von Catenda für Power BI ist jetzt verfügbar. Sie kann auf die gleiche Weise wie die anderen On-Demand-Funktionen angefordert werden. Wofür es gedacht ist, wird in [Einführung in Catenda für Power BI (On Demand)](https://support.catenda.com/de/articles/17778865-einfuhrung-in-catenda-fur-power-bi-on-demand) _(nur angemeldete Kunden)_ beschrieben. Die Einrichtung wird in [Catenda für Power BI (On Demand)](https://support.catenda.com/de/articles/17778868-catenda-fur-power-bi-on-demand) _(auf Anfrage)_ beschrieben.
+
+### 3.4 **Catenda Desktop Connector für Systembilder (On Demand)**
+
+Eine On-Demand-Version des Catenda Desktop Connectors für Systembilder ist jetzt verfügbar. Sie kann auf die gleiche Weise wie die anderen On-Demand-Funktionen angefordert werden. Wofür es gedacht ist, wird in [Einführung in Catenda Desktop Connector für Systembilder](https://support.catenda.com/de/articles/17778688-einfuhrung-in-catenda-desktop-connector-fur-systemabbilder) _(nur angemeldete Kunden)_ beschrieben. Die Einrichtung wird in [Catenda Desktop Connector für Systembilder (On Demand)](https://support.catenda.com/de/articles/17778690-catenda-desktop-connector-fur-systemabbilder-on-demand) _(auf Anfrage)_ beschrieben.
+
+## 4. **Co-Creation-Programm**
+
+Einige Funktionen werden zusammen mit einer kleinen Gruppe von Kunden entwickelt, während sie sich noch in der Entwicklung befinden. Diese Kunden nehmen am Co-Creation-Programm teil: Sie nutzen die Funktion in ihren eigenen Projekten und ihr Feedback gestaltet das, was sie wird.
+
+Eine Co-Creation-Funktion unterscheidet sich von einer On-Demand-Funktion. Eine On-Demand-Funktion ist produktionsreif und wartet nur darauf, allen Benutzern zur Verfügung gestellt zu werden, während eine Co-Creation-Funktion noch nicht endgültig ist. Seiten und Schaltflächen können von einer Version zur nächsten verschoben, umbenannt oder ersetzt werden, und die Artikel, die sie beschreiben, werden aktualisiert, wenn sich die Funktion ändert. Eine Co-Creation-Funktion wird eine kostenpflichtige Funktion sein, sobald sie vollständig freigegeben wird.
+
+### 4.1 **Beitreten zum Co-Creation-Programm**
+
+Die Kontaktperson für Ihre Catenda-Lizenz kann darum bitten, dem Co-Creation-Programm beizutreten. Ein Treffen wird mit einem Catenda-Vertreter vereinbart, um den aktuellen Status der Funktion und die Bedeutung der Teilnahme am Programm zu besprechen.
+
+### 4.2 **Catenda Mobile**
+
+[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist eine neue mobile App für Telefone und Tablets, verfügbar im Frühen Zugriff für iPhone und iPad über TestFlight und für Android auf Google Play. Sie umfasst Themen, Standorte, Formulare und Dokumente, und im Laufe der Zeit wird sie alle Funktionen von [Catenda Site](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) und mehr erhalten. Themen und Dokumente funktionieren in jedem Projekt, bei dem der Benutzer ein Mitglied ist. Formulare und Standorte können nur in Projekten verwendet werden, in denen sie aktiviert wurden, und bis jetzt ist das nur bei Projekten von Kunden im Co-Creation-Programm der Fall.
+
+Die App ist nicht endgültig und kann sich noch erheblich ändern. Catenda Site kann weiterhin parallel dazu verwendet werden und bleibt die App, die verwendet werden kann, wenn eine Funktion benötigt wird, die noch nicht in Catenda Mobile vorhanden ist.
 
 # Funktionsstatus Q1 2026
 
@@ -27165,121 +27370,6 @@ Wir unterstützen jetzt Deutsch und Japanisch!
 ![Problemverwaltung Erfassen und verwalten Sie Probleme unterwegs, auch offline](https://raw.githubusercontent.com/catenda/help-center/main/images/3htkwp30/03-new-languages-available.png)
 
 ![Alle Boards Alle offenen Probleme Alle geschlossenen Probleme Angefordert von mir Alle Kandidatenprobleme Überfällige Probleme Innerhalb von 2 Wochen fällig](https://raw.githubusercontent.com/catenda/help-center/main/images/3htkwp30/04-new-languages-available.png)
-
-# Änderungsprotokoll 5 Catenda - April 2024
-
-Hallo zusammen,
-
-Der Winter ist endlich vorbei und die Sonne scheint wieder. Auch hier in Norwegen! Jetzt, da Ostern vorbei ist, steht der Sommer vor der Tür! ☀️😎🏖️ Aber machen Sie noch keinen Urlaub, denn wir haben einige Änderungen vorgenommen. In diesem Artikel finden Sie Updates zu den folgenden Themen:
-
-_[Artikel](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_5be2a02999) - [Themen gelöst](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_d238d9111d) - [Neue Versionen](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_d238d9111d)_
-
-## 1. **Artikel**
-
-Wenn neue Funktionen eingeführt und Fehler behoben werden, werden die Artikel mit den vorgenommenen Änderungen aktualisiert. Bitte beachten Sie die folgenden Artikel, die seit dem letzten Changelog erstellt und geändert wurden.
-
-### 1.1 **Neue Artikel:**
-
-**Erste Schritte und FAQ** [Erste Schritte auf Catenda Hub](https://support.catenda.com/de/articles/9030303-schritt-1-kontoeinrichtung) [Die Nachrichtenblase unten rechts](http://The%20bottom%20right%20message%20bubble) [Zugriffsebenen](https://support.catenda.com/de/articles/8967083-zugriffskontrollebenen) [Was ist ein Thema in Catenda?](https://support.catenda.com/de/articles/8979789-was-ist-ein-topic-in-catenda) [Ausschreibung in Catenda](https://support.catenda.com/de/articles/9063936-ausschreibungen-in-catenda) [Seiten ohne Zugriff](https://support.catenda.com/de/articles/9172624-seiten-ohne-zugang)
-
-**Hauptseite** [Seite "Mitglieder" im Organisationstool](https://support.catenda.com/de/articles/9003642-projektmitgliedschaften-organisationswerkzeug)
-
-**Themen** [2D- und 3D-Ansichtspunkte](https://support.catenda.com/de/articles/9184555-2d-und-3d-ansichtspunkte)
-
-**Dokumente** [Hochladen eines Dokuments](https://support.catenda.com/de/articles/4670278-ein-dokument-hochladen) [Sammlungsseite](https://support.catenda.com/de/articles/8999764-sammlungsinhaltseite)
-
-**Plugins und Integrationen** [Dokument - Catenda Site](https://support.catenda.com/de/articles/8975421-dateitypen-auf-catenda-site-in-der-vorschau-anzeigen)
-
-### 1.2 **Artikel, die sich geändert haben:**
-
-**Aktuelle Updates** [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-modelle-als-dokumente)
-
-**Hauptseite** [Projektseite](https://support.catenda.com/de/articles/4670260-kontenschaltflachen) [Ein neues Projekt erstellen](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen) [Seite "Benutzer" im Organisationstool](https://support.catenda.com/de/articles/8508311-benutzerseite-organisationsverwaltungstool) [Benachrichtigungseinstellungen für Konto](https://support.catenda.com/de/articles/8272435-kontobenachrichtigungseinstellungen)
-
-**Themen** [Einstellungen für das Themen-Board](https://support.catenda.com/de/articles/4670277-einstellungsseite-fur-topic-board) [Themen-Text](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas) [Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung)
-
-**Dokumente**
-
-_[Dokumente strukturieren](https://support.catenda.com/de/articles/8542598-dokumente-strukturieren)_ [Anmerkungen zu Dokumenten](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen) [Sammlungsseite](https://support.catenda.com/de/articles/6344318-sammlungsseite) [Filtern auf der Genehmigungsseite](https://support.catenda.com/de/articles/8551740-filterung-auf-der-genehmigungsseite-erbschaft) [Filtern in einem Themen-Board](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen)
-
-**Modelle** [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) [Abfragen](https://support.catenda.com/de/articles/4854514-abfragen)
-
-**Informationsbereich** [Informationsbereich](https://support.catenda.com/de/articles/8238584-informationsbereich)
-
-**Einstellungen** [Seite "Etiketten"](https://support.catenda.com/de/articles/4670265-etikettenseite) [Ein Team erstellen](https://support.catenda.com/de/articles/4670264-ein-team-erstellen)
-
-**Plugins und Integrationen** [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) [Power BI-Integration](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) [IFC Archicad-Anleitung](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch) [Archicad-Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin) [Solibri-Modelle als Dokumente-Integration](https://support.catenda.com/de/articles/6988148-solibri-modelle-und-dokumentenintegration)
-
-**Catenda Site** [Laden Sie Ihre mobile App Catenda Site herunter](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter)
-
-## 2. **Behobene Fehler**
-
-Dank Ihres wertvollen Feedbacks konnten wir viele Themen beheben, die Sie vielleicht gar nicht bemerkt haben. Nachfolgend finden Sie eine Liste kleinerer Änderungen, die das Entwicklungsteam aufgrund von Gesprächen mit Benutzern vorgenommen hat.
-
-### 2.1 **Themen**
-
-- Wenn Sie einen Standardwert für ein benutzerdefiniertes Feld in einem Themen-Board festlegen, wird automatisch ein Wert in das Feld eingefügt, wenn Sie ein Thema erstellen. Es ist nun auch möglich, ein Thema zu erstellen, wenn Sie diesen Wert entfernen, sodass das Feld leer ist.
-- Geschlossene Themen, deren Fälligkeitsdatum abgelaufen ist, haben nun die gleiche Farbe für das Fälligkeitsdatum-Symbol im Themen-Board und im Thema selbst.
-- Der Filter "Überfällig" wurde in "Fälligkeitsdatum abgelaufen" geändert, was korrekter ist, da dieser Filter nicht berücksichtigt, wann das Thema im Verhältnis zum Fälligkeitsdatum geschlossen wurde.
-
-### 2.2 **Dokumente**
-
-- Dokumente, die aus Dokumentvorschauansichten heruntergeladen werden, erhalten nun einen Dateinamen entsprechend der für das Projekt festgelegten Dokumentnamenskonvention
-- Dokumente, die aus dem Revisions-Menü im rechten Informationsmenü heruntergeladen werden, erhalten nun einen Dateinamen entsprechend der für das Projekt festgelegten Dokumentnamenskonvention
-- Etiketten sind nun wieder im Filtermenü im Dokumentbereich sichtbar
-- Es ist nun möglich, auch Modelle aus Dokumenten mit großen IFC-Buchstaben in der Dateierweiterung zu erstellen.
-- Wenn Sie ein Dokument in einer Sammlung anzeigen, ist kein weißes Blatt mehr über den Namen der anderen Dokumente in der Sammlung sichtbar.
-- es ist nun möglich, mehrere IFC-Dokumente/Punktwolken gleichzeitig im 3D-Viewer zu öffnen
-- Dokumentstatus können nun wieder von innerhalb des Dokuments geändert werden.
-- es ist nun wieder möglich, 3D-Vorschauansichten für IFC-Dateien im Dokumentbereich anzuzeigen.
-
-### 2.3 **Modelle**
-
-- Es ist nun wieder möglich, frühere Revisionen in der Revisionsauswahl anzuzeigen
-- Die Modelltransformation wird nun wieder angewendet, wenn Sie ein Modell aus der Revisionsauswahl öffnen.
-- Die Modelltransformation wird nun korrekt angewendet, wenn Sie ein Modell auf der Modellseite mit aktivierter Option "Modelle als Dokumente" öffnen.
-- Es ist nun wieder möglich, frühere Revisionen in der Revisionsauswahl anzuzeigen, nachdem Sie eine frühere Revision eines anderen Modells ausgewählt haben.
-- Kopierte Lesezeichen werden nun mit einem Häkchen angezeigt, um anzuzeigen, dass sie kopiert wurden, damit Sie sie nicht erneut kopieren.
-- Sie können nun den Filter auf der Lesezeichen-Seite durchstreichen, um alle Lesezeichen anzuzeigen.
-- Es ist nun wieder möglich, Lesezeichen mit ausgewählten Objekten zu kopieren.
-- Transparenz, die in IFC 4-Modellen angegeben ist, wird nun korrekt in unserem Viewer angezeigt.
-- Schnittebenen werden nun viel schneller erstellt, was es ermöglicht, sie in Modellen zu verwenden, bei denen dies lange dauerte.
-
-### 2.4 **Bibliotheken**
-
-- Es ist nun wieder möglich, Klassifizierungs-CSVs in Klassifizierungsbibliotheken zu importieren.
-- Es ist nun wieder möglich, SharePoint-Bibliotheken zu verbinden.
-
-### 2.5 **Plugins und Integrationen**
-
-- Es ist nun wieder möglich, sich beim Navisworks-Plugin anzumelden.
-
-### 2.6 **Allgemein**
-
-- Infotext hinzugefügt mit dem Hinweis, dass ein Benutzer Administrator oder Besitzer sein muss, um die Ordnerstruktur von einem Projekt beim Erstellen eines Projekts aus einer Vorlage zu kopieren.
-- Die Chat-Blase unten rechts zum Kontaktieren des Supports wurde in die obere rechte Ecke der Seite verschoben, da sie Seitenelemente wie die Info-Schaltfläche im 3D-Viewer und die Speicherschaltfläche im rechten Informationsfeld des Themas überlagerte.
-
-## 3. **Benutzerstimmen abgeschlossen**
-
-### 3.1 **Themen**
-
-Es ist nun möglich, Textkommentare zu mehreren Themen gleichzeitig hinzuzufügen. Diese Option finden Sie im rechten Informationsmenü nach dem Auswählen von zwei oder mehr Themen.
-
-### 3.2 **Dokumente**
-
-Vorschauansichten von Videoformaten werden nun unterstützt: mp4, ogg und webM
-
-### 3.3 **Modelle**
-
-Administratoren können nun Lesezeichen löschen, die von Benutzern erstellt wurden. Dies ist besonders hilfreich, wenn ein Benutzer nicht mehr Teil des Projekts ist. Lesezeichen können nun auch nach ihrer Erstellung aktualisiert werden, sodass Sie Ihr vorheriges Lesezeichen nicht löschen und ein neues erstellen müssen.
-
-## 4. **Neue Versionen** - Catenda Site, Plugins und Integrationen
-
-**Catenda Hub:** _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
-
-**Tekla-Plugin v1.1.2:** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
-
-Archicad-Plugin v1.0.1.11: [Graphisoft Archicad Plugin - v1.0.1.11 - Windows](https://hub.catenda.com/share/collections/Zxu69mYiYBrU0ClC9MYFP2Rm6CdjUmlCWcDRTM8wdvUm) - Alle Versionen [Graphisoft Archicad Plugin - v1.0.1.11 - Mac](https://hub.catenda.com/share/collections/QlZGUafsOwX4LKF7eqwo15YLuhDkTeAfJjTYjqCmYgPp) - Alle Versionen
 
 # 🎉 Neue API-Dokumentation 🎉
 

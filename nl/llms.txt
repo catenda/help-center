@@ -388,17 +388,19 @@ Vind de laatste Catenda updates
 - [Catenda Teams en alle gebruikers toegevoegd aan ShareLink](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5375875-catenda-teams-en-alle-gebruikers-toegevoegd-aan-sharelink.md)
 - [Changelog 1 Catenda - April 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7018311-changelog-1-catenda-april-2023.md)
 - [Changelog 10 Catenda - oktober 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/11582902-changelog-10-catenda-oktober-2025.md)
-- [Changelog 11 Catenda - januari 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12529903-changelog-11-catenda-januari-2025.md)
-- [Changelog 12 Catenda, april 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13413499-changelog-12-catenda-april-2026.md)
+- [Changelog 11 Catenda - Januari 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12529903-changelog-11-catenda-januari-2025.md)
+- [Changelog 12 Catenda - April 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13413499-changelog-12-catenda-april-2026.md)
 - [Changelog 13 Catenda - augustus 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/15655135-changelog-13-catenda-augustus-2026.md): Catenda-productupdates: de nieuwe Kanban-weergave voor topics, verbeterde goedkeuringswerkstromen, Catenda AI Connect en Gegevensexport. Met opgeloste bugs, nieuwe videotutorials en bijgewerkte documentatie voor modellen, documenten en topics.
 - [Changelog 2 Catenda - juli 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7338675-changelog-2-catenda-juli-2023.md)
 - [Changelog 3 Catenda - oktober 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7983534-changelog-3-catenda-oktober-2023.md): Nieuwe informatie en kleine wijzigingen
+- [Changelog 4 Catenda - januari 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8433887-wijzigingslogboek-4-catenda-januari-2024.md): Nieuwe informatie en kleine wijzigingen
 - [Changelog 5 Catenda - April 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8851281-changelog-5-catenda-april-2024.md)
 - [Changelog 7 Catenda - december 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9691178-changelog-7-catenda-december-2024.md)
 - [Changelog 9 Catenda - Juni 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10857573-changelog-9-catenda-juni-2025.md)
 - [Changelog Catenda Archicad-plugin - 1.0.1.17](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13449075-changelog-catenda-archicad-plugin-1-0-1-17.md)
 - [Datumfilter 📆](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6511685-datumfilter.md)
 - [Functiestatus Q3 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/15957767-functiestatus-q3-2026.md)
+- [Functiestatus Q4 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/18242344-functiestatus-q4-2026.md)
 - [Functiestatussen Q1 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13905428-functiestatussen-q1-2026.md)
 - [Functiestatussen Q2 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14804986-functiestatussen-q2-2026.md)
 - [Functiestatussen Q3 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13905373-functiestatussen-q3-2025.md)
@@ -422,7 +424,6 @@ Vind de laatste Catenda updates
 - [Wat is er nieuw in Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7150907-wat-is-er-nieuw-in-catenda-hub.md): Ontdek de nieuwe look en feel van jouw favoriete platform
 - [Wat is er nieuw in Catenda Site?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7161448-wat-is-er-nieuw-in-catenda-site.md)
 - [Wijzigingslog 8 Catenda - maart 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10288759-wijzigingslog-8-catenda-maart-2025.md)
-- [Wijzigingslogboek 4 Catenda - januari 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8433887-wijzigingslogboek-4-catenda-januari-2024.md): Nieuwe informatie en kleine wijzigingen
 - [Wijzigingslogboek 6 Catenda - augustus 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9285880-wijzigingslogboek-6-catenda-augustus-2024.md)
 - [🎉 Nieuwe API-documentatie 🎉](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9857242-nieuwe-api-documentatie.md)
 

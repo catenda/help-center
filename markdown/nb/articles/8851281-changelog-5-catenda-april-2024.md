@@ -1,4 +1,4 @@
-# Changelog 5 Catenda - april 2024
+# Endringslogg 5 Catenda - April, 2024
 
 Hei alle sammen,
 
@@ -12,37 +12,37 @@ Etter hvert som nye funksjoner lanseres og feil rettes, oppdateres artikler med 
 
 ### 1.1 **Nye artikler:**
 
-**Kom i gang og vanlige spørsmål** [Kom i gang på Catenda Hub](https://support.catenda.com/nb/articles/9030303-trinn-1-kontokonfigurering) [Meldingsboblen i nederste høyre hjørne](http://The%20bottom%20right%20message%20bubble) [Tilgangskontrollnivåer](https://support.catenda.com/nb/articles/8967083-tilgangskontrollnivaer) [Hva er en sak i Catenda?](https://support.catenda.com/nb/articles/8979789-hva-er-en-topic-i-catenda) [Anbudsgivning i Catenda](https://support.catenda.com/nb/articles/9063936-anbudsinnhenting-i-catenda) [Ingen tilgangssider](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
+_Kom i gang og vanlige spørsmål_ [Kom i gang på Catenda Hub](https://support.catenda.com/nb/articles/9030303-trinn-1-kontokonfigurering) [Meldingsboblen i nederste høyre hjørne](http://The%20bottom%20right%20message%20bubble) [Tilgangskontrollnivåer](https://support.catenda.com/nb/articles/8967083-tilgangskontrollnivaer) [Hva er en sak i Catenda?](https://support.catenda.com/nb/articles/8979789-hva-er-en-topic-i-catenda) [Anbudsgivning i Catenda](https://support.catenda.com/nb/articles/9063936-anbudsinnhenting-i-catenda) [Ingen tilgangssider](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
 
-**Hovedside** [Medlemmerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/9003642-prosjektmedlemskap-organisasjonsverktoy)
+_Hovedside_ [Medlemmerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/9003642-prosjektmedlemskap-organisasjonsverktoy)
 
-**Saker** [2D og 3D-visninger](https://support.catenda.com/nb/articles/9184555-2d-og-3d-visninger)
+_Saker_ [2D og 3D-visninger](https://support.catenda.com/nb/articles/9184555-2d-og-3d-visninger)
 
-**Dokumenter** [Opplasting av dokument](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument) [Samlingsside](https://support.catenda.com/nb/articles/8999764-samlinginnholdside)
+_Dokumenter_ [Opplasting av dokument](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument) [Samlingsside](https://support.catenda.com/nb/articles/8999764-samlinginnholdside)
 
-**Plugins og integrasjoner** [Dokument - Catenda Site](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site)
+_Plugins og integrasjoner_ [Dokument - Catenda Site](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site)
 
 ### 1.2 **Artikler som har endret seg:**
 
-**Nylige oppdateringer** [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)
+_Nylige oppdateringer_ [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)
 
-**Hovedside** [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
+_Hovedside_ [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
 
-**Saker** [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) [Saksbrødtekst](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg)
+_Saker_ [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) [Saksbrødtekst](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg)
 
-**Dokumenter**
+_Dokumenter_
 
 _[Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter)_ [Merknader på dokumenter](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) [Samlingsside](https://support.catenda.com/nb/articles/6344318-samlingside) [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/8551740-filtrering-pa-godkjenningssiden-eldre-versjon) [Filtrering i saksliste](https://support.catenda.com/nb/articles/8370693-filtrering-pa-sakssiden)
 
-**Modeller** [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viser) [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Søk](https://support.catenda.com/nb/articles/4854514-sporringer)
+_Modeller_ [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viser) [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Søk](https://support.catenda.com/nb/articles/4854514-sporringer)
 
-**Informasjonspanel** [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-informasjonspanel)
+_Informasjonspanel_ [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-informasjonspanel)
 
-**Innstillinger** [Merkelappersde](https://support.catenda.com/nb/articles/4670265-merkelappersiden) [Opprett et team](https://support.catenda.com/nb/articles/4670264-opprette-et-team)
+_Innstillinger_ [Merkelappersde](https://support.catenda.com/nb/articles/4670265-merkelappersiden) [Opprett et team](https://support.catenda.com/nb/articles/4670264-opprette-et-team)
 
-**Plugins og integrasjoner** [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) [Integrasjon Power BI](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) [IFC Archicad Manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual) [Archicad plugin](https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin) [Solibri Modeller som dokumenter-integrering](https://support.catenda.com/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
+_Plugins og integrasjoner_ [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) [Integrasjon Power BI](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) [IFC Archicad Manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual) [Archicad plugin](https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin) [Solibri Modeller som dokumenter-integrering](https://support.catenda.com/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
 
-**Catenda Site** [Last ned mobilappen Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site)
+_Catenda Site_ [Last ned mobilappen Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site)
 
 ## 2. **Feil løst**
 
@@ -107,8 +107,8 @@ Det er nå mulig for administratorer å slette bokmerker laget av brukere. Dette
 
 ## 4. **Nye versjoner** - Catenda Site, plugins og integrasjoner
 
-**Catenda Hub:** _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+_Catenda Hub:_ _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
-**Tekla-programtillegg v1.1.2:** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
+_Tekla-programtillegg v1.1.2:_ [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
 
 Archicad-programtillegg v1.0.1.11: [Graphisoft Archicad-programtillegg - v1.0.1.11 - Windows](https://hub.catenda.com/share/collections/Zxu69mYiYBrU0ClC9MYFP2Rm6CdjUmlCWcDRTM8wdvUm) - Alle versjoner [Graphisoft Archicad-programtillegg - v1.0.1.11 - Mac](https://hub.catenda.com/share/collections/QlZGUafsOwX4LKF7eqwo15YLuhDkTeAfJjTYjqCmYgPp) - Alle versjoner

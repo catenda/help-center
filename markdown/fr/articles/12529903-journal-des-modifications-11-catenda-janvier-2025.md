@@ -1,12 +1,8 @@
-# Journal des modifications 11 Catenda - janvier 2025
+# Changelog 11 Catenda - Janvier 2026
 
 Bonjour à tous,
 
 merci à tous d'être aussi actifs sur notre plateforme en ces mois d'hiver. Nous avons apprécié une période hivernale extraordinaire et pouvons affirmer avec fierté qu'il y a eu plus de stabilité sur la plateforme à cette époque que les années précédentes. En même temps, nous avons continué à écouter vos demandes concernant la révision complète du flux de travail d'approbation qui était toute nouvelle dans le dernier journal des modifications. Tandis que certains administrateurs ont appris à configurer les flux de travail et que d'autres sont occupés à approuver au nom de leur équipe, il nous reste quelques cases à cocher pour tout assembler. À l'avenir, nous nous concentrerons sur la création d'un moyen de verrouiller un journal d'audit des différentes actions qui se sont produites dans le processus d'approbation, de sorte que la documentation puisse être fournie comme preuve que les contrôles d'approbation sont effectués par les différentes équipes. Avec la nouvelle page des Membres, il est plus facile que jamais de configurer l'adhésion aux équipes, alors informez vos administrateurs si vous pensez que vous ne vous trouvez pas dans la bonne équipe ou qu'une équipe est manquante dans le projet ! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️
-
-Dans cet article, vous trouverez des mises à jour sur les sujets suivants :
-
-_[Articles](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_a1a4085421) - [Bogues](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_43a9641d96) - [Vidéos](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_1ec3df5bf7) - [Demandes des utilisateurs](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_4c273d2715) - [Nouvelles versions](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_fea31925e9) - [Statuts des fonctionnalités](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_76a41f54f2)_
 
 ## 1. **Articles**
 

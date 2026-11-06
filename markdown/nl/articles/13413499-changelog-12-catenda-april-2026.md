@@ -1,4 +1,4 @@
-# Changelog 12 Catenda, april 2026
+# Changelog 12 Catenda - April 2026
 
 Hallo iedereen,
 
@@ -13,24 +13,24 @@ Naarmate nieuwe functies uitrollen en bugs worden opgelost, worden artikelen bij
 **Accountbeheer**
 
 - Organisaties
-  - [Organisatieconfiguratie](https://support.catenda.com/nl/articles/13653794-organisatieconfiguratie)
-  - [Organisatietypen](https://support.catenda.com/nl/articles/13653807-organisatietypen)
-  - [Organisatie- en projectopstelling](https://support.catenda.com/nl/articles/13653804-organisatie-en-projectinstellingen)
+    - [Organisatieconfiguratie](https://support.catenda.com/nl/articles/13653794-organisatieconfiguratie)
+    - [Organisatietypen](https://support.catenda.com/nl/articles/13653807-organisatietypen)
+    - [Organisatie- en projectopstelling](https://support.catenda.com/nl/articles/13653804-organisatie-en-projectinstellingen)
 
 **Productfuncties**
 
 - Onderwerpen
-  - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/nl/articles/14076010-pagina-topic-template-instellingen)
+    - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/nl/articles/14076010-pagina-topic-template-instellingen)
 - Onderwerpsjablonen
-  - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/nl/articles/14075921-onderwerpssjablonen-in-een-onderwerpsboard-gebruiken)
-  - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen)
-  - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen)
+    - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/nl/articles/14075921-onderwerpssjablonen-in-een-onderwerpsboard-gebruiken)
+    - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen)
+    - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen)
 - Categorieoverschrijdend
-  - [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van de rapporteditor)_
-  - [Koppelingsactie kopiëren](https://support.catenda.com/nl/articles/14323982-koppelingen-actie)
+    - [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van de rapporteditor)_
+    - [Koppelingsactie kopiëren](https://support.catenda.com/nl/articles/14323982-koppelingen-actie)
 - Catenda-plugins en integraties
-  - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/nl/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
-  - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/nl/articles/13449075-changelog-catenda-archicad-plugin-1-0-1-17)
+    - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/nl/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
+    - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/nl/articles/13449075-changelog-catenda-archicad-plugin-1-0-1-17)
 
 **Probleemoplossing**
 
@@ -45,9 +45,9 @@ Recente updates
 **Veelgestelde vragen**
 
 - Veelgestelde vragen over onderwerpen
-  - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/nl/articles/13616245-2d-locatie-van-topics-catenda-site)
+    - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/nl/articles/13616245-2d-locatie-van-topics-catenda-site)
 - Projectveelgestelde vragen
-  - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/nl/articles/11384331-veelgestelde-vragen-over-aangepaste-velden)
+    - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/nl/articles/11384331-veelgestelde-vragen-over-aangepaste-velden)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -63,44 +63,44 @@ Recente updates
 **Productfuncties**
 
 - Onderwerpen
-  - [Onderwerpentabel acties](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen)
-  - [Menu aan de rechterkant in een onderwerp](https://support.catenda.com/nl/articles/8053299-rechtermenu-in-een-topic)
-  - [Werkbalk voor post-opmaak](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak) (Eerder opmaak van berichten)
-  - [Onderwerpstekst - De inhoud van een onderwerp](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp)
-  - [Tabelweergave in een onderwerpenbord](https://support.catenda.com/nl/articles/6941099-tabelweergave-in-een-topic-board)
-  - [Filteren op de onderwerpenenpagina](https://support.catenda.com/nl/articles/8370693-filteren-op-de-onderwerppagina)
-  - [Onderwerpkop - Het onderwerp van een onderwerp](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp)
+    - [Onderwerpentabel acties](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen)
+    - [Menu aan de rechterkant in een onderwerp](https://support.catenda.com/nl/articles/8053299-rechtermenu-in-een-topic)
+    - [Werkbalk voor post-opmaak](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak) (Eerder opmaak van berichten)
+    - [Onderwerpstekst - De inhoud van een onderwerp](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp)
+    - [Tabelweergave in een onderwerpenbord](https://support.catenda.com/nl/articles/6941099-tabelweergave-in-een-topic-board)
+    - [Filteren op de onderwerpenenpagina](https://support.catenda.com/nl/articles/8370693-filteren-op-de-onderwerppagina)
+    - [Onderwerpkop - Het onderwerp van een onderwerp](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp)
 - Modellen
-  - [Objectenpagina](https://support.catenda.com/nl/articles/12352750-objectenpagina)
-  - [Modelenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina)
-  - [Filteren op de modelenpagina](https://support.catenda.com/nl/articles/12129622-filteren-op-de-modellenpagina)
-  - [Filteren op de objectenpagina](https://support.catenda.com/nl/articles/12353642-filteren-op-de-objectenpagina)
-  - [Acties op de modelinhoudfenpagina](https://support.catenda.com/nl/articles/9674157-acties-op-pagina-met-modelinhoud)
-  - [Menu aan de rechterkant op de modelenpagina](https://support.catenda.com/nl/articles/9673735-rechtermenu-op-de-modellenpagina)
+    - [Objectenpagina](https://support.catenda.com/nl/articles/12352750-objectenpagina)
+    - [Modelenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina)
+    - [Filteren op de modelenpagina](https://support.catenda.com/nl/articles/12129622-filteren-op-de-modellenpagina)
+    - [Filteren op de objectenpagina](https://support.catenda.com/nl/articles/12353642-filteren-op-de-objectenpagina)
+    - [Acties op de modelinhoudfenpagina](https://support.catenda.com/nl/articles/9674157-acties-op-pagina-met-modelinhoud)
+    - [Menu aan de rechterkant op de modelenpagina](https://support.catenda.com/nl/articles/9673735-rechtermenu-op-de-modellenpagina)
 - Documenten
-  - [Documententabel acties](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel)
-  - [Documententabblad in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495130-tabblad-documenten-in-een-beoordelingsverzoek)
-  - [Documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina)
-  - [Filteren op de Collections-pagina](https://support.catenda.com/nl/articles/8999945-filteren-op-de-verzamelingenpagina)
-  - [Filteren op de documentenpagina](https://support.catenda.com/nl/articles/4670283-filteren-op-de-documentenpagina)
-  - [Filteren op de pagina Goedkeuringen](https://support.catenda.com/nl/articles/12495060-filteren-op-de-goedkeuringspagina)
-  - [Filteren op de pagina Goedkeuringen (Verouderd)](https://support.catenda.com/nl/articles/8551740-filteren-op-de-pagina-goedkeuringen-legacy)
+    - [Documententabel acties](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel)
+    - [Documententabblad in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495130-tabblad-documenten-in-een-beoordelingsverzoek)
+    - [Documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina)
+    - [Filteren op de Collections-pagina](https://support.catenda.com/nl/articles/8999945-filteren-op-de-verzamelingenpagina)
+    - [Filteren op de documentenpagina](https://support.catenda.com/nl/articles/4670283-filteren-op-de-documentenpagina)
+    - [Filteren op de pagina Goedkeuringen](https://support.catenda.com/nl/articles/12495060-filteren-op-de-goedkeuringspagina)
+    - [Filteren op de pagina Goedkeuringen (Verouderd)](https://support.catenda.com/nl/articles/8551740-filteren-op-de-pagina-goedkeuringen-legacy)
 - Instellingen
-  - [Inhoudfenpagina voor aangepaste velden](https://support.catenda.com/nl/articles/8445588-pagina-met-inhoud-van-aangepast-veld)
-  - [Filteren op de pagina Leden en Teams](https://support.catenda.com/nl/articles/11744242-filteren-op-de-pagina-leden-en-teams)
+    - [Inhoudfenpagina voor aangepaste velden](https://support.catenda.com/nl/articles/8445588-pagina-met-inhoud-van-aangepast-veld)
+    - [Filteren op de pagina Leden en Teams](https://support.catenda.com/nl/articles/11744242-filteren-op-de-pagina-leden-en-teams)
 - Boomstructuurpaneel
-  - [Modelboomstructuurpaneel](https://support.catenda.com/nl/articles/4670290-modelboom-paneel)
+    - [Modelboomstructuurpaneel](https://support.catenda.com/nl/articles/4670290-modelboom-paneel)
 - 2D- en 3D-viewers
-  - [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer)
-  - [Instellingen 3D-viewer](https://support.catenda.com/nl/articles/5784718-3d-viewer-instellingen)
-  - [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer)
-  - [Uiterlijk 2D-viewer](https://support.catenda.com/nl/articles/13615984-2d-viewer-uiterlijk)
-  - [Revisiekiezer](https://support.catenda.com/nl/articles/4670279-revisiekiezer)
-  - [Puntenwolken in Catenda](https://support.catenda.com/nl/articles/5606625-puntenwolken-in-catenda-hub)
+    - [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer)
+    - [Instellingen 3D-viewer](https://support.catenda.com/nl/articles/5784718-3d-viewer-instellingen)
+    - [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer)
+    - [Uiterlijk 2D-viewer](https://support.catenda.com/nl/articles/13615984-2d-viewer-uiterlijk)
+    - [Revisiekiezer](https://support.catenda.com/nl/articles/4670279-revisiekiezer)
+    - [Puntenwolken in Catenda](https://support.catenda.com/nl/articles/5606625-puntenwolken-in-catenda-hub)
 - Catenda-plugins en integraties
-  - Catenda - Als een toepassing
-    - [2D-viewer - Catenda-site](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site)
-    - [2D-viewer gebouwen en verdiepingen](https://support.catenda.com/nl/articles/10901703-2d-viewer-gebouwen-en-verdiepingen)
+    - Catenda - Als een toepassing
+        - [2D-viewer - Catenda-site](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site)
+        - [2D-viewer gebouwen en verdiepingen](https://support.catenda.com/nl/articles/10901703-2d-viewer-gebouwen-en-verdiepingen)
 
 **Probleemoplossing**
 
@@ -121,9 +121,9 @@ Recente updates
 **Veelgestelde vragen**
 
 - Veelgestelde vragen over productfuncties
-  - [Bestandstypen weergeven op Catenda Hub](https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub)
+    - [Bestandstypen weergeven op Catenda Hub](https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub)
 - Veelgestelde vragen over onderwerpen
-  - [2D-locatie van onderwerpen](https://support.catenda.com/nl/articles/4854523-2d-locatie-van-onderwerpen)
+    - [2D-locatie van onderwerpen](https://support.catenda.com/nl/articles/4854523-2d-locatie-van-onderwerpen)
 - [Hardwareaanbeveling](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling)
 - [3D-viewer optimalisatie](https://support.catenda.com/nl/articles/13927321-3d-viewer-optimalisatie)
 - [Netwerkaanbeveling](https://support.catenda.com/nl/articles/13927294-netwerkadvisering)
@@ -131,8 +131,8 @@ Recente updates
 - [Aanbeveling systeemsoft](https://support.catenda.com/nl/articles/13927605-aanbeveling-voor-systeemsoft)
 - [Veelgestelde vragen over productfuncties](https://support.catenda.com/nl/articles/8263256-projectbeveiliging)
 - Veelgestelde vragen over accountbeheer
-  - [Een filterkoppeling opslaan en delen](https://support.catenda.com/nl/articles/11401493-een-filterlink-opslaan-en-delen)
-  - [Filterresultaten beperken](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken)
+    - [Een filterkoppeling opslaan en delen](https://support.catenda.com/nl/articles/11401493-een-filterlink-opslaan-en-delen)
+    - [Filterresultaten beperken](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken)
 
 ## 2. **Nieuwe video's in afspeellijsten**
 
@@ -175,7 +175,7 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die u m
 - **[Geolocatie] Etage op 0 m hoogte uitlijnen met kaart**<br>Etages van modellen die exact op 0 m hoogte liggen, worden nu correct weergegeven in het rotatiemenu van de geolocatieconfiguratie in projectinstellingen.
 - **[Snelkoppelingen] Paneel snelkoppeling**
 
-  Paneelsnelkoppelingen controleren nu ook het getal dat in de snelkoppeling wordt gebruikt, waardoor gebruikers met verschillende toetsenbordindelingen de snelkoppelingen ook kunnen gebruiken, zelfs als het shift-teken anders is dan normaal.
+    Paneelsnelkoppelingen controleren nu ook het getal dat in de snelkoppeling wordt gebruikt, waardoor gebruikers met verschillende toetsenbordindelingen de snelkoppelingen ook kunnen gebruiken, zelfs als het shift-teken anders is dan normaal.
 
 ## 4. **Voltooide gebruikersstemmen**
 

@@ -388,18 +388,18 @@ Finn de siste Catenda-oppdateringene
 - [Catenda Archicad plugin endringslogg - 1.0.1.17](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13449075-catenda-archicad-plugin-endringslogg-1-0-1-17.md)
 - [Catenda Site Endringslogg - 3.5.0](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9930034-catenda-site-endringslogg-3-5-0.md)
 - [Catenda Teams og velg alle brukere lagt til ShareLink](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5375875-catenda-teams-og-velg-alle-brukere-lagt-til-sharelink.md)
-- [Changelog 5 Catenda - april 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8851281-changelog-5-catenda-april-2024.md)
+- [Changelog 11 Catenda - Januar 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12529903-endringslogg-11-catenda-januar-2025.md)
 - [Changelog 7 Catenda - desember 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9691178-changelog-7-catenda-desember-2024.md)
 - [Datofilter 📆](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6511685-datofilter.md)
 - [Dra og slipp !](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6078698-dra-og-slipp.md): Denne artikkelen beskriver hvordan du drar og slipper filer i biblioteket ditt
 - [Endringslogg 1 Catenda - April 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7018311-endringslogg-1-catenda-april-2023.md)
 - [Endringslogg 10 Catenda - Oktober 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11582902-endringslogg-10-catenda-oktober-2025.md)
-- [Endringslogg 11 Catenda - Januar 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12529903-endringslogg-11-catenda-januar-2025.md)
-- [Endringslogg 12 Catenda, april 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13413499-endringslogg-12-catenda-april-2026.md)
+- [Endringslogg 12 Catenda - april 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13413499-endringslogg-12-catenda-april-2026.md)
 - [Endringslogg 13 Catenda - August 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15655135-endringslogg-13-catenda-august-2026.md): Catenda-produktoppdateringer: ny Kanban-visning for saker, forbedrede gjennomgangsarbeidsflyter, Catenda AI Connect og dataeksport. Inkluderer løste feil, nye opplæringsvideoer og oppdatert dokumentasjon for modeller, dokumenter og saker.
 - [Endringslogg 2 Catenda - Juli 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7338675-endringslogg-2-catenda-juli-2023.md)
 - [Endringslogg 3 Catenda - oktober 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7983534-endringslogg-3-catenda-oktober-2023.md): Ny informasjon og mindre endringer
 - [Endringslogg 4 Catenda - Januar 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8433887-endringslogg-4-catenda-januar-2024.md): Ny informasjon og mindre endringer
+- [Endringslogg 5 Catenda - April, 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8851281-changelog-5-catenda-april-2024.md)
 - [Endringslogg 6 Catenda - august 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9285880-endringslogg-6-catenda-august-2024.md)
 - [Endringslogg 8 Catenda - Mars 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10288759-endringslogg-8-catenda-mars-2025.md)
 - [Endringslogg 9 Catenda - juni 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10857573-endringslogg-9-catenda-juni-2025.md)
@@ -409,6 +409,7 @@ Finn de siste Catenda-oppdateringene
 - [Funksjonsstatuser Q3 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13905373-funksjonsstatuser-q3-2025.md)
 - [Funksjonsstatuser Q3 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15957767-funksjonsstatusar-q3-2026.md)
 - [Funksjonsstatuser Q4 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13905411-funksjonsstatuser-q4-2025.md)
+- [Funksjonsstatuser Q4 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/18242344-funksjonsstatuser-q4-2026.md)
 - [Hva er nytt i Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7150907-hva-er-nytt-i-catenda-hub.md): Oppdag det nye utseendet og følelsen av din favorittplattform
 - [Hva er nytt i Catenda Site?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7161448-hva-er-nytt-i-catenda-site.md)
 - [Massiv oppgradering av mobilapp](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5435949-massiv-oppgradering-av-mobilapp.md)

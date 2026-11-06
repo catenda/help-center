@@ -24754,6 +24754,156 @@ Pour plus d'informations sur la connexion, consultez [cet](https://support.caten
 
 Si vous avez des questions ou des préoccupations concernant ces modifications, veuillez nous le faire savoir.
 
+# Changelog 11 Catenda - Janvier 2026
+
+Bonjour à tous,
+
+merci à tous d'être aussi actifs sur notre plateforme en ces mois d'hiver. Nous avons apprécié une période hivernale extraordinaire et pouvons affirmer avec fierté qu'il y a eu plus de stabilité sur la plateforme à cette époque que les années précédentes. En même temps, nous avons continué à écouter vos demandes concernant la révision complète du flux de travail d'approbation qui était toute nouvelle dans le dernier journal des modifications. Tandis que certains administrateurs ont appris à configurer les flux de travail et que d'autres sont occupés à approuver au nom de leur équipe, il nous reste quelques cases à cocher pour tout assembler. À l'avenir, nous nous concentrerons sur la création d'un moyen de verrouiller un journal d'audit des différentes actions qui se sont produites dans le processus d'approbation, de sorte que la documentation puisse être fournie comme preuve que les contrôles d'approbation sont effectués par les différentes équipes. Avec la nouvelle page des Membres, il est plus facile que jamais de configurer l'adhésion aux équipes, alors informez vos administrateurs si vous pensez que vous ne vous trouvez pas dans la bonne équipe ou qu'une équipe est manquante dans le projet ! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️
+
+## 1. **Articles**
+
+À mesure que de nouvelles fonctionnalités sont déployées et que les bogues sont corrigés, les articles sont mis à jour avec les modifications apportées. Veuillez trouver les articles suivants qui ont été créés et modifiés depuis le dernier journal des modifications.
+
+### 1.1 **Nouveaux articles :**
+
+**Gestion des comptes**
+
+- [Boutons de compte](https://support.catenda.com/fr/articles/4670260-boutons-de-compte)
+
+**Dépannage**
+
+- [Dépannage des captures 3D](https://support.catenda.com/fr/articles/12831346-captures-3d-depannage)
+- [Dépannage des paramètres de document](https://support.catenda.com/fr/articles/12521958-depannage-des-parametres-de-document)
+- [Dépannage du plugin Navisworks](https://support.catenda.com/fr/articles/12597294-depannage-du-plugin-navisworks)
+
+### 1.2 **Articles qui ont été modifiés :**
+
+**Gestion des comptes**
+
+- Paramètres du compte
+    - [Filtrage des notifications et fonctionnalités](https://support.catenda.com/fr/articles/8304417-filtrage-sur-la-page-des-notifications)
+    - [Page du compte](https://support.catenda.com/fr/articles/6880968-page-du-compte)
+
+**Fonctionnalités du produit**
+
+- Tableau de bord
+    - [Page du tableau de bord](https://support.catenda.com/fr/articles/8212646-page-tableau-de-bord)
+- Sujets
+    - [Filtrage sur la page des sujets](https://support.catenda.com/fr/articles/8370693-filtrage-sur-la-page-des-sujets)
+    - [Actions du tableau des sujets](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets)
+    - [Export des sujets en PDF](https://support.catenda.com/fr/articles/9784934-exporter-des-sujets-en-pdf)
+    - [En-tête du sujet - L'objet d'un sujet](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet)
+    - [Échanger des sujets](https://support.catenda.com/fr/articles/4670289-echanger-des-sujets)
+- Modèles
+    - [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-selecteur-de-revision)
+    - [Filtrage sur la page des objets](https://support.catenda.com/fr/articles/12353642-filtrage-sur-la-page-des-objets)
+    - [Filtrage sur la page des modèles](https://support.catenda.com/fr/articles/12129622-filtrage-sur-la-page-des-modeles)
+    - [Menu de droite sur la page des modèles](https://support.catenda.com/fr/articles/9673735-menu-droit-sur-la-page-des-modeles)
+    - [Liste déroulante du plan glissant](https://support.catenda.com/fr/articles/4670327-menu-deroulant-du-plan-glissant)
+    - [Page du contenu des favoris](https://support.catenda.com/fr/articles/8471481-page-de-contenu-des-signets)
+- Documents
+    - [Page de vue d'ensemble de l'accès au document](https://support.catenda.com/fr/articles/6660820-page-d-apercu-des-acces-aux-documents)
+    - [Filtrage sur la page des documents](https://support.catenda.com/fr/articles/4670283-filtrage-sur-la-page-des-documents)
+    - [Contrôle d'accès des dossiers et des documents](https://support.catenda.com/fr/articles/4670287-controle-d-acces-aux-dossiers-et-documents)
+    - [Création d'un nouveau flux de travail](https://support.catenda.com/fr/articles/12313251-creer-un-nouveau-flux-de-travail)
+    - [Page Flux de travail - Paramètres du document](https://support.catenda.com/fr/articles/12309903-page-workflows-parametres-des-documents)
+    - [Outils d'aperçu des documents](https://support.catenda.com/fr/articles/11384618-outils-d-apercu-de-document)
+    - [Télécharger une structure de fichiers zip](https://support.catenda.com/fr/articles/7945410-telecharger-un-fichier-zip-structure-de-fichiers)
+    - [Filtrage sur la page des collections](https://support.catenda.com/fr/articles/8999945-filtrage-sur-la-page-des-collections)
+    - [Filtrage sur la page des approbations](https://support.catenda.com/fr/articles/12495060-filtrage-sur-la-page-des-approbations)
+    - [Filtrage sur la page des approbations - Hérité](https://support.catenda.com/fr/articles/8551740-filtrage-sur-la-page-des-approbations-legacy)
+- Paramètres
+    - [Filtrage sur la page des membres et des équipes](https://support.catenda.com/fr/articles/11744242-filtrage-sur-la-page-des-membres-et-equipes)
+- Visionneuses 2D et 3D
+    - [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d)
+    - [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d)
+- Plugins et intégrations Catenda
+    - [Manuel d'export IFC Revit](https://support.catenda.com/fr/articles/4670341-manuel-d-exportation-ifc-revit)
+    - [Manuel d'export IFC Archicad](https://support.catenda.com/fr/articles/4670338-manuel-d-exportation-ifc-pour-archicad)
+    - [Plugin Catenda Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks)
+    - [Plugin Catenda Archicad](https://support.catenda.com/fr/articles/5519276-plugin-catenda-archicad)
+    - [Plugin Catenda Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit)
+    - [Connecteur Catenda Power BI](https://support.catenda.com/fr/articles/5784721-connecteur-catenda-power-bi)
+    - [Connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop)
+    - [Plugin Catenda Tekla](https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla)
+    - [Dépannage du connecteur de bureau](https://support.catenda.com/fr/articles/11019637-depannage-du-bureau-connector)
+
+**Dépannage**
+
+- [Dépannage du téléchargement zip](https://support.catenda.com/fr/articles/11017391-depannage-du-telechargement-de-fichiers-zip)
+
+**Cas d'usage**
+
+- Approbations
+    - [Examen de document dans le flux de travail d'approbation](https://support.catenda.com/fr/articles/12628468-examen-des-documents-dans-le-flux-de-travail-d-approbation)
+    - [Soumettre et gérer les approbations : Guide pour les rédacteurs](https://support.catenda.com/fr/articles/12627979-soumettre-et-gerer-les-validations-guide-pour-les-redacteurs)
+    - [Décisions d'approbation finale simplifiées](https://support.catenda.com/fr/articles/12629484-les-decisions-de-validation-finales-simplifiees)
+    - [Gestion des approbations en tant qu'administrateur](https://support.catenda.com/fr/articles/12620829-gestion-des-approbations-en-tant-qu-administrateur)
+
+**Questions fréquemment posées**
+
+- [Structuration des documents](https://support.catenda.com/fr/articles/8542598-structuration-des-documents)
+- [Export de toutes les données du projet](https://support.catenda.com/fr/articles/7946690-exporter-toutes-les-donnees-du-projet)
+- [Quelle est la taille de fichier que je peux télécharger ?](https://support.catenda.com/fr/articles/4670324-quelle-taille-de-fichier-puis-je-telecharger)
+
+## 2. **Bogues résolus**
+
+Grâce à vos précieuses remarques, nous avons pu corriger de nombreux sujets que vous ayez ou non remarqué existaient. Voici une liste des petits changements apportés par l'équipe de développement à la suite de conversations avec les utilisateurs.
+
+### 2.1 **Sujets**
+
+- Il est maintenant à nouveau possible de cliquer sur le bouton de lecture d'une capture d'annotation pour lire les annotations sur le document au lieu d'obtenir un écran complètement blanc.
+- Améliorations de la recherche de texte sur la page des sujets.
+
+### 2.2 **Documents**
+
+- Il est maintenant à nouveau possible d'ouvrir des dossiers après qu'un écran blanc ait été affiché lors de l'ouverture d'un dossier dans une période de 15 minutes.
+
+### 2.3 **Modèles**
+
+- La quantité de mémoire dédiée à la génération d'exports Excel des lignes filtrées dans le tableau des objets a été augmentée afin que l'export Excel soit correctement généré et qu'aucun indicateur de progression infini ne soit affiché.
+- C'est maintenant beaucoup plus rapide et la page est moins susceptible de se figer lors de la sélection de 50000+ éléments dans le tableau des objets.
+- Lorsque les grilles sont activées et que le modèle est transformé dans la visionneuse 3D Catenda Hub (navigateur uniquement), les grilles suivaient toujours, maintenant, lorsque vous actualisez la page et chargez le modèle transformé à son emplacement transformé, les grilles sont correctement affichées à cet emplacement transformé aussi.
+
+### 2.4 **Plugins et intégrations**
+
+- Il est maintenant à nouveau possible pour les utilisateurs ayant l'authentification multifacteur activée d'ouvrir le contenu des projets via les plugins et les intégrations.
+- Catenda en tant qu'application
+    - Il est maintenant à nouveau possible d'avoir à la fois la visionneuse 3D et les panneaux de contenu ouverts simultanément au lieu d'un à la fois sur les iPad de 11 pouces
+
+## 3. **Demandes des utilisateurs complétées**
+
+### 3.1 **Sujets**
+
+- Il est maintenant à nouveau possible de rechercher des mots partiels dans les titres des sujets, les descriptions dans les commentaires. La recherche de numéro de sujet a maintenant été séparée de cette recherche, ce qui permet plus de granularité lors de la recherche de sujets spécifiquement par leur numéro de sujet sur Catenda.
+
+### 3.2 **Documents**
+
+- Les notifications sont désormais envoyées aux utilisateurs qui font partie d'équipes appartenant à trois catégories différentes.<br>En tant que membre d'une équipe de soumission pour approbation, en tant que membre d'une équipe faisant partie de l'une des étapes du flux de travail et en tant que membre de l'équipe de soumission final.<br>Il y a des notifications concernant les nouvelles informations comme l'information soumise et modifiée.<br>Il y a des notifications concernant la responsabilité comme le moment où une équipe de révision doit effectuer sa révision ou le moment où l'examinateur final doit publier les documents dans la demande d'approbation.<br>Et il y a des notifications concernant les actions effectuées comme tous les examens dans une étape soumis par les différentes équipes de l'étape ou la fermeture finale d'une demande d'approbation par l'équipe d'examinateur final.
+- À l'étape finale d'une approbation, au lieu de simplement approuver et rejeter, il est maintenant possible pour quelqu'un de l'équipe approbatrice finale d'approuver avec commentaire. Ceci est généralement utilisé dans la situation où l'approbateur final souhaite approuver au nom de l'équipe approbatrice mais a quelques réserves concernant le document. Peut-être qu'un petit changement doit être apporté, peut-être qu'il y a un défaut acceptable dans le document.
+
+### 3.3 **Paramètres**
+
+- Il est maintenant possible de configurer l'adhésion aux équipes en sélectionnant un ou plusieurs membres dans la liste et en apportant des modifications pour les mettre à jour dans le menu de droite au lieu de devoir aller à l'équipe et d'ajouter membre par membre.
+- Champ de date - Un nouveau champ personnalisé de type Date est maintenant disponible.<br>Si ce champ est disponible pour les sujets ou les documents, chaque champ de date mis à disposition pour un sujet/document peut recevoir une date en cliquant dessus et en sélectionnant une date dans un calendrier.<br>Les champs de date ne sont pas disponibles pour les conventions de nommage, mais ils sont disponibles via l'API.
+
+## 4. **Nouvelles versions** - Plugins et intégrations
+
+**Connecteur Catenda PowerBI v1.0.0** Il est maintenant possible d'obtenir des sujets avec des métastatuts ouverts ainsi que des sujets avec des métastatuts fermés.
+
+**Plugin Catenda Archicad v1.0.1.17** Support pour Archicad 29 Il est maintenant possible de choisir entre le point d'arpentage et l'origine du projet dans le menu d'action des coordonnées. Les points de vue sont maintenant lus par rapport au paramètre de coordonnée configuré dans le menu d'action des coordonnées. Support du nouveau flux de travail de statut avec les révisions majeures et mineures publiées et partagées.
+
+_Plugin Revit v1.0.15_
+
+- Ce plugin possède maintenant son propre installateur .MSI qui est séparé de la page des plugins Autodesk.
+- Lorsque vous tapez @ dans un commentaire ou une description, vous obtenez maintenant une liste de membres parmi lesquels vous pouvez choisir pour sélectionner celui que vous souhaitez mentionner.
+- Les images pour les captures 3D et autres images dans les commentaires des sujets se chargent beaucoup plus rapidement maintenant.
+- Support pour Revit 2026
+
+> **Remarque :** La désinstallation de la version précédente et l'installation de la nouvelle version sont requises pour utiliser ce plugin.
+
+**Plugin Tekla v1.4.0** Support du nouveau flux de travail de statut avec les révisions majeures et mineures publiées et partagées. Support pour Tekla 2023, Tekla 2024 et Tekla 2025
+
 # Changelog 13 Catenda - Août 2026
 
 > Mises à jour produit Catenda : nouvelle vue Kanban pour les topics, flux d'approbation améliorés, Catenda AI Connect et export de données. Inclut bugs résolus, nouveaux tutoriels vidéo et documentation mise à jour pour modèles, documents et topics.
@@ -25224,193 +25374,6 @@ Voici la nouvelle fonctionnalité dans Catenda, les fichiers peuvent maintenant 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6tsarmtg/02-intro.gif)
 
-# Historique 12 Catenda, avril 2026
-
-Bonjour à tous,
-
-Les fleurs s'épanouissent et le changement est dans l'air alors que les niveaux d'énergie augmentent avec plus de lumière solaire en se dirigeant vers l'été. ☀️😎🏖️ Chez Catenda, nous avons travaillé dur pour s'assurer que la plateforme se déplace avec cette nouvelle énergie qui vient avec la saison du printemps. Maintenant que de plus en plus de personnes ont commencé à utiliser la nouvelle façon de travailler avec les approbations, nous avons pu recueillir vos commentaires et effectuer certains changements finaux pour que cette nouvelle fonctionnalité fonctionne correctement et continuera à le faire. L'un de ces changements a également affecté la zone des sujets avec l'introduction de modèles de sujet qui ne sont pas seulement disponibles via le flux de travail d'approbation mais aussi pour les sujets généraux. Restez à l'affût des améliorations finales à la fonctionnalité d'approbation alors que nous passons à nous concentrer sur ce qui est disponible sur la page d'aperçu d'un document au cours des prochains mois.
-
-## 1. **Articles**
-
-À mesure que de nouvelles fonctionnalités sont déployées et que les bogues sont corrigés, les articles sont mis à jour avec les modifications apportées. Veuillez trouver les articles suivants qui ont été créés et modifiés depuis le dernier historique.
-
-### 1.1 **Nouveaux articles :**
-
-**Gestion des comptes**
-
-- Organisations
-  - [Configuration de l'organisation](https://support.catenda.com/fr/articles/13653794-configuration-de-l-organisation)
-  - [Types d'organisation](https://support.catenda.com/fr/articles/13653807-types-d-organisation)
-  - [Configuration de l'organisation et du projet](https://support.catenda.com/fr/articles/13653804-organisation-et-configuration-des-projets)
-
-**Fonctionnalités du produit**
-
-- Sujets
-  - [Page des paramètres du modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet)
-- Modèles de sujet
-  - [Appliquer un modèle de sujet général lors de la création d'un sujet](https://support.catenda.com/fr/articles/14075921-utilisation-des-modeles-de-sujets-dans-une-liste-de-sujets)
-  - [Appliquer un modèle de sujet de document lors de la création d'une annotation à partir d'un document](https://support.catenda.com/fr/articles/14078352-utilisation-de-modeles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage)
-  - [Appliquer un modèle de sujet d'approbation à un modèle de flux de travail d'approbation](https://support.catenda.com/fr/articles/14078683-utilisation-de-modeles-de-sujets-avec-les-approbations)
-- Entre catégories
-  - [Créer une action de rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_
-  - [Action Copier le lien](https://support.catenda.com/fr/articles/14323982-action-de-copie-de-liens)
-- Plug-ins et intégrations Catenda
-  - [Journal des modifications du plug-in Revit Catenda - 1.0.15](https://support.catenda.com/fr/articles/13449051-journal-des-modifications-du-plugin-catenda-revit-1-0-15)
-  - [Journal des modifications du plug-in Archicad Catenda - 1.0.1.17](https://support.catenda.com/fr/articles/13449075-journal-des-modifications-du-plugin-catenda-archicad-1-0-1-17)
-
-**Dépannage**
-
-- [Dépannage du téléchargement Zip](https://support.catenda.com/fr/articles/13399638-depannage-du-telechargement-zip)
-- [Dépannage Desktop Connector - tous les dossiers n'ont pas été téléchargés](https://support.catenda.com/fr/articles/13772277-desktop-connector-tous-les-dossiers-n-ont-pas-ete-telecharges)
-- [Dépannage du plug-in Revit Catenda](https://support.catenda.com/fr/articles/14301534-depannage-du-plugin-catenda-revit)
-
-Mises à jour récentes
-
-- [États des fonctionnalités Q1 2026](https://support.catenda.com/fr/articles/13905428-statuts-des-fonctionnalites-q1-2026)
-
-**Foire aux questions**
-
-- FAQ Sujets
-  - [Localisation 2D des sujets - Site Catenda](https://support.catenda.com/fr/articles/13616245-localisation-2d-des-sujets-catenda-site)
-- FAQ Projet
-  - [FAQ Champs personnalisés](https://support.catenda.com/fr/articles/11384331-faq-sur-les-champs-personnalises)
-
-### 1.2 **Articles qui ont changé :**
-
-**Gestion des comptes**
-
-- [Créer un nouveau projet](https://support.catenda.com/fr/articles/4670245-creer-un-nouveau-projet)
-- [Authentification multifacteur](https://support.catenda.com/fr/articles/4969891-authentification-multi-facteurs)
-- [Notifications Microsoft Équipes](https://Microsoft%20Teams%20notifications)
-- [Page de connexion](https://support.catenda.com/fr/articles/7891486-page-de-connexion)
-- [Filtrage sur la page Notifications](https://support.catenda.com/fr/articles/8304417-filtrage-sur-la-page-des-notifications)
-- [Page Organisations](https://support.catenda.com/fr/articles/8281910-page-organisations)
-
-**Fonctionnalités du produit**
-
-- Sujets
-    - [Actions du tableau des sujets](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets)
-    - [Menu droit dans un sujet](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet)
-    - [Boîte à outils de formatage des messages](https://support.catenda.com/fr/articles/8430847-boite-a-outils-de-formatage-des-publications) (Formatage précédemment des messages)
-    - [Corps du sujet - Le contenu d'un sujet](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet)
-    - [Vue tableau dans un tableau de sujets](https://support.catenda.com/fr/articles/6941099-affichage-tableau-dans-un-topic-board)
-    - [Filtrage sur la page des sujets](https://support.catenda.com/fr/articles/8370693-filtrage-sur-la-page-des-sujets)
-    - [En-tête de sujet - L'objet d'un sujet](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet)
-- Modèles
-    - [Page Objets](https://support.catenda.com/fr/articles/12352750-page-objets)
-    - [Page Modèles](https://support.catenda.com/fr/articles/4670286-page-modeles)
-    - [Filtrage sur la page des modèles](https://support.catenda.com/fr/articles/12129622-filtrage-sur-la-page-des-modeles)
-    - [Filtrage sur la page des objets](https://support.catenda.com/fr/articles/12353642-filtrage-sur-la-page-des-objets)
-    - [Actions de la page des contenus du modèle](https://support.catenda.com/fr/articles/9674157-actions-de-la-page-de-contenu-du-modele)
-    - [Menu droit sur la page des modèles](https://support.catenda.com/fr/articles/9673735-menu-droit-sur-la-page-des-modeles)
-- Documents
-    - [Actions du tableau des documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents)
-    - [Onglet Documents dans une demande d'approbation](https://support.catenda.com/fr/articles/12495130-onglet-documents-dans-une-demande-de-validation)
-    - [Page Documents](https://support.catenda.com/fr/articles/8204673-page-documents)
-    - [Filtrage sur la page Collections](https://support.catenda.com/fr/articles/8999945-filtrage-sur-la-page-des-collections)
-    - [Filtrage sur la page des documents](https://support.catenda.com/fr/articles/4670283-filtrage-sur-la-page-des-documents)
-    - [Filtrage sur la page des approbations](https://support.catenda.com/fr/articles/12495060-filtrage-sur-la-page-des-approbations)
-    - [Filtrage sur la page des approbations (Héritage)](https://support.catenda.com/fr/articles/8551740-filtrage-sur-la-page-des-approbations-legacy)
-- Paramètres
-    - [Page du contenu des champs personnalisés](https://support.catenda.com/fr/articles/8445588-page-de-contenu-des-champs-personnalises)
-    - [Filtrage sur la page Membres et Équipes](https://support.catenda.com/fr/articles/11744242-filtrage-sur-la-page-des-membres-et-equipes)
-- Panneau Arbres
-    - [Panneau d'arborescence des modèles](https://support.catenda.com/fr/articles/4670290-panneau-arborescence-du-modele)
-- Visionneuses 2D et 3D
-    - [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d)
-    - [Paramètres de la visionneuse 3D](https://support.catenda.com/fr/articles/5784718-parametres-de-la-visionneuse-3d)
-    - [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d)
-    - [Apparence de la visionneuse 2D](https://support.catenda.com/fr/articles/13615984-apparence-de-la-visionneuse-2d)
-    - [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-selecteur-de-revision)
-    - [Nuages de points dans Catenda](https://support.catenda.com/fr/articles/5606625-nuages-de-points-dans-catenda-hub)
-- Plug-ins et intégrations Catenda
-    - Catenda - En tant qu'application
-        - [Visionneuse 2D - Site Catenda](https://support.catenda.com/fr/articles/7748370-visionneuse-2d-catenda-site)
-        - [Bâtiments et étages de la visionneuse 2D](https://support.catenda.com/fr/articles/10901703-visionneuse-2d-batiments-et-etages)
-
-**Dépannage**
-
-- [Dépannage du connecteur de bureau](https://support.catenda.com/fr/articles/11019637-depannage-du-bureau-connector)
-- [Dépannage du contenu des champs personnalisés](https://support.catenda.com/fr/articles/13750419-depannage-du-contenu-des-champs-personnalises)
-- [Dépannage de l'intégration des documents Solibri](https://support.catenda.com/fr/articles/11431097-depannage-de-l-integration-des-documents-solibri)
-- [Dépannage du connecteur Solibri BCF Live](https://support.catenda.com/fr/articles/14301642-depannage-du-connecteur-solibri-bcf-live)
-
-**Tutoriels et guides**
-
-- [Vidéos Guidde](https://support.catenda.com/fr/articles/11055278-videos-guidde)
-
-**Cas d'usage**
-
-- [Gestion de la coordination des interférences à grande échelle](https://support.catenda.com/fr/articles/13845605-gestion-de-la-coordination-des-clashs-a-grande-echelle)
-- [Rapports d'interférences hebdomadaires](https://support.catenda.com/fr/articles/13847707-rapports-de-detection-des-interferences-hebdomadaires)
-
-**Foire aux questions**
-
-- FAQ Fonctionnalités du produit
-    - [Aperçu des types de fichiers sur Catenda Hub](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub)
-- FAQ Sujets
-    - [Localisation 2D des sujets](https://support.catenda.com/fr/articles/4854523-localisation-2d-des-topics)
-- [Recommandation matérielle](https://support.catenda.com/fr/articles/6921941-recommandation-materielle)
-- [Optimisation de la visionneuse 3D](https://support.catenda.com/fr/articles/13927321-optimisation-de-la-visionneuse-3d)
-- [Recommandation réseau](https://support.catenda.com/fr/articles/13927294-recommandation-reseau)
-- [Recommandation logiciel d'application](https://Application%20software%20recommendation)
-- [Recommandation logiciel système](https://support.catenda.com/fr/articles/13927605-recommandation-logicielle-systeme)
-- [FAQ Fonctionnalités du produit](https://support.catenda.com/fr/articles/8263256-securite-du-projet)
-- FAQ Gestion des comptes
-    - [Enregistrement et partage d'un lien de filtre](https://support.catenda.com/fr/articles/11401493-enregistrement-et-partage-d-un-lien-de-filtre)
-    - [Limitation des résultats du filtre](https://support.catenda.com/fr/articles/8551755-limitation-des-resultats-de-filtrage)
-
-## 2. **Nouvelles vidéos dans les playlists**
-
-- [Site Catenda - Interactions de la visionneuse 2D](https://eu.guidde.com/share/playbooks/1m5Vd8zAkL8kAfcAdsj9iJ?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-- [Interroger les objets 3D à l'aide du module Object Query](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-
-## 3. **Bogues résolus**
-
-Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets que vous ayez ou non remarqué existaient. Ci-dessous se trouve une liste des petits changements qui ont été apportés par l'équipe de développement en raison de conversations avec les utilisateurs.
-
-### 3.1 Sujets
-
-- Nous avons résolu un problème où l'exportation de sujets vers Excel échouerait occasionnellement si un champ personnalisé « Nombre décimal » contenait un nombre entier (par exemple, `1,0` ou `5`). Avec ce correctif, le système traite maintenant correctement ces valeurs, en s'assurant que vos exportations de sujets se génèrent avec succès à chaque fois.
-
-> **Remarque :** Pour assurer une stabilité immédiate, les valeurs décimales entrées comme nombres entiers (par exemple, `1,0` ou `2,0`) apparaîtront actuellement sous forme d'entiers (par exemple, `1` ou `2`) dans le fichier Excel exporté. Bien que l'exportation soit maintenant entièrement fonctionnelle, nous sommes conscients que la préservation du formatage spécifique (zéros à droite) est importante pour la précision. Nous travaillons activement sur une mise à jour de suivi pour restaurer ce formatage visuel dans une version future.
-
-- Les images téléchargées dans la zone du logo sur les paramètres du projet s'affichent à nouveau correctement en haut à gauche de la version PDF de l'exportation de sujet. Notez que cela fonctionnait toujours dans l'outil de rapports à la demande et ce n'était un problème que dans l'exportation de sujet actuelle qui est disponible pour tous.
-- Comme pour les étiquettes, les options de liste déroulante des champs personnalisés ne sont maintenant suggérées dans le menu de filtre de gauche dans un tableau de sujets que s'il y a des sujets dans la liste qui ont cette option sélectionnée.
-- Lorsque les boutons @mention et #lien sont utilisés alors que le curseur se trouve au milieu d'un message, le curseur ne se déplace plus à la fin du message et l'e-mail et le numéro de rubrique lié sont correctement ajoutés au message lorsqu'ils sont sélectionnés dans la liste déroulante.<br>Cela empêche également que tout ce qui a été écrit entre l'emplacement de la mention/lien soit tronqué.
-
-### 3.2 **Documents**
-
-- **[Aperçu du document] Page blanche à l'ouverture du document**<br>Lors de l'ouverture de l'aperçu du document sur la page Documents, l'extraction en arrière-plan des données de Sujets et de model liées ne rend plus la page complètement blanche pour les Membres
-- **[Approbations] Réinitialisation du panneau de balisage**<br>Lors de la création d'une grande quantité de balisages dans l'examen des Documents d'une demande d'approbation sur le même document, le panneau de balisage ne se réinitialise plus à son état d'origine.
-
-### 3.3 **Modèles**
-
-- **[Visionneuse 3D] Sélecteur de revision : Chargement incorrect de la revision** <br>Nous avons résolu un problème où la Visionneuse 3D affichait occasionnellement une revision obsolète au lieu du model le plus récent lors de l'ouverture via Sujets ou Affichages. Cela garantit que le model affiché correspond à la revision de document active, indépendamment de la séquence de téléchargement ou de traitement.
-- **[Page Objets] Exportation Excel filtrée**<br>La page Objets tient maintenant compte de tous les Filtres lors de l'exportation vers Excel au lieu de simplement considérer le filtre model.
-- **[Page Objets] Sélection paginée**<br>Lors du défilement au-delà de 100 objets, il est maintenant possible de sélectionner toutes les lignes à l'aide de la case à cocher en haut à gauche au lieu de seulement les 100 premières lignes.
-- **[Page Objets] Points dans les noms**<br>Les noms des propriétés et des ensembles de propriétés qui contiennent des points sont maintenant correctement affichés dans la cellule d'en-tête de la colonne sur la page Objets au lieu que seul ce qui suit le point soit affiché. Il est maintenant également possible de rechercher sur ces types de noms de propriétés.
-- **[Page des modèles] Spinner infini pour les révisions partagées après désactivation**<br>Dans les projets où les révisions partagées ont été désactivées après le téléchargement des révisions de modèles partagés alors que les révisions partagées étaient activées, les spinners infinis ne seront plus visibles dans la colonne Visionneuse de la page des modèles.<br>
-
-### 3.4 **Rapports**
-
-- **[Champs personnalisés]** **Champs de convention de nommage dans les rapports**<br>Il est maintenant également possible d'afficher les valeurs des champs personnalisés qui sont automatiquement configurés dans le cadre d'une convention de nommage dans un rapport au lieu de seulement les champs personnalisés sur les Documents.
-
-### 3.5 **Paramètres du projet**
-
-- **[Géolocalisation] Alignement de l'étage à 0 m de hauteur sur la carte**<br>Les étages des models qui sont exactement à 0 m de hauteur sont maintenant correctement affichés dans le menu de rotation de la configuration de géolocalisation dans les paramètres des projets.
-- **[Raccourcis] Raccourci du panneau**
-
-    Les raccourcis du panneau vérifient maintenant également le numéro utilisé dans la combinaison de raccourcis, ce qui permet aux utilisateurs ayant des dispositions de clavier différentes d'utiliser également les raccourcis même si le caractère de majuscule est différent de ce qui est habituel.
-
-## 4. **Voix des utilisateurs complétées**
-
-### 4.1 **Modèles**
-
-- Sur la nouvelle page des objets, il y a une barre de recherche où vous pouvez taper un attribut existant et elle listera tous les objets qui l'ont.
-- Sur la nouvelle page des objets, il est maintenant possible de rechercher des objets par modèle, ce qui a longtemps été demandé car la bibliothèque de valeurs de propriété n'indexait les objets que des révisions les plus récentes du modèle à la fois au lieu de par modèle, ce qui pouvait souvent prendre plus de temps que prévu.
-- Dans chacun des menus du panneau d'arborescence, le nom de l'objet s'affiche maintenant au lieu d'un nom généré automatiquement pour chaque objet.
-
 # Journal des modifications 1 Catenda - Avril 2023
 
 ## 1. Articles
@@ -25669,159 +25632,192 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreuses rubri
 
 **Connecteur PowerBI** Les demandes d'API qui nécessitent plusieurs pages d'informations (souvent lorsque plus de 1000 éléments sont demandés) collectent maintenant toutes les pages. S'il y a plus de 100 projets, il est maintenant possible de tous les obtenir. Il est maintenant possible d'obtenir tous les documents du projet au lieu de simplement les 1000 premiers. S'il y a plus de 1000 objets dans une demande, il est maintenant possible d'obtenir des informations sur tous.
 
-# Journal des modifications 11 Catenda - janvier 2025
+# Journal des modifications 12 Catenda - avril 2026
 
 Bonjour à tous,
 
-merci à tous d'être aussi actifs sur notre plateforme en ces mois d'hiver. Nous avons apprécié une période hivernale extraordinaire et pouvons affirmer avec fierté qu'il y a eu plus de stabilité sur la plateforme à cette époque que les années précédentes. En même temps, nous avons continué à écouter vos demandes concernant la révision complète du flux de travail d'approbation qui était toute nouvelle dans le dernier journal des modifications. Tandis que certains administrateurs ont appris à configurer les flux de travail et que d'autres sont occupés à approuver au nom de leur équipe, il nous reste quelques cases à cocher pour tout assembler. À l'avenir, nous nous concentrerons sur la création d'un moyen de verrouiller un journal d'audit des différentes actions qui se sont produites dans le processus d'approbation, de sorte que la documentation puisse être fournie comme preuve que les contrôles d'approbation sont effectués par les différentes équipes. Avec la nouvelle page des Membres, il est plus facile que jamais de configurer l'adhésion aux équipes, alors informez vos administrateurs si vous pensez que vous ne vous trouvez pas dans la bonne équipe ou qu'une équipe est manquante dans le projet ! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️
-
-Dans cet article, vous trouverez des mises à jour sur les sujets suivants :
-
-_[Articles](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_a1a4085421) - [Bogues](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_43a9641d96) - [Vidéos](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_1ec3df5bf7) - [Demandes des utilisateurs](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_4c273d2715) - [Nouvelles versions](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_fea31925e9) - [Statuts des fonctionnalités](https://support.catenda.com/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025#h_76a41f54f2)_
+Les fleurs s'épanouissent et le changement est dans l'air alors que les niveaux d'énergie augmentent avec plus de lumière solaire en se dirigeant vers l'été. ☀️😎🏖️ Chez Catenda, nous avons travaillé dur pour s'assurer que la plateforme se déplace avec cette nouvelle énergie qui vient avec la saison du printemps. Maintenant que de plus en plus de personnes ont commencé à utiliser la nouvelle façon de travailler avec les approbations, nous avons pu recueillir vos commentaires et effectuer certains changements finaux pour que cette nouvelle fonctionnalité fonctionne correctement et continuera à le faire. L'un de ces changements a également affecté la zone des sujets avec l'introduction de modèles de sujet qui ne sont pas seulement disponibles via le flux de travail d'approbation mais aussi pour les sujets généraux. Restez à l'affût des améliorations finales à la fonctionnalité d'approbation alors que nous passons à nous concentrer sur ce qui est disponible sur la page d'aperçu d'un document au cours des prochains mois.
 
 ## 1. **Articles**
 
-À mesure que de nouvelles fonctionnalités sont déployées et que les bogues sont corrigés, les articles sont mis à jour avec les modifications apportées. Veuillez trouver les articles suivants qui ont été créés et modifiés depuis le dernier journal des modifications.
+À mesure que de nouvelles fonctionnalités sont déployées et que les bogues sont corrigés, les articles sont mis à jour avec les modifications apportées. Veuillez trouver les articles suivants qui ont été créés et modifiés depuis le dernier historique.
 
 ### 1.1 **Nouveaux articles :**
 
 **Gestion des comptes**
 
-- [Boutons de compte](https://support.catenda.com/fr/articles/4670260-boutons-de-compte)
-
-**Dépannage**
-
-- [Dépannage des captures 3D](https://support.catenda.com/fr/articles/12831346-captures-3d-depannage)
-- [Dépannage des paramètres de document](https://support.catenda.com/fr/articles/12521958-depannage-des-parametres-de-document)
-- [Dépannage du plugin Navisworks](https://support.catenda.com/fr/articles/12597294-depannage-du-plugin-navisworks)
-
-### 1.2 **Articles qui ont été modifiés :**
-
-**Gestion des comptes**
-
-- Paramètres du compte
-    - [Filtrage des notifications et fonctionnalités](https://support.catenda.com/fr/articles/8304417-filtrage-sur-la-page-des-notifications)
-    - [Page du compte](https://support.catenda.com/fr/articles/6880968-page-du-compte)
+- Organisations
+    - [Configuration de l'organisation](https://support.catenda.com/fr/articles/13653794-configuration-de-l-organisation)
+    - [Types d'organisation](https://support.catenda.com/fr/articles/13653807-types-d-organisation)
+    - [Configuration de l'organisation et du projet](https://support.catenda.com/fr/articles/13653804-organisation-et-configuration-des-projets)
 
 **Fonctionnalités du produit**
 
-- Tableau de bord
-    - [Page du tableau de bord](https://support.catenda.com/fr/articles/8212646-page-tableau-de-bord)
 - Sujets
-    - [Filtrage sur la page des sujets](https://support.catenda.com/fr/articles/8370693-filtrage-sur-la-page-des-sujets)
-    - [Actions du tableau des sujets](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets)
-    - [Export des sujets en PDF](https://support.catenda.com/fr/articles/9784934-exporter-des-sujets-en-pdf)
-    - [En-tête du sujet - L'objet d'un sujet](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet)
-    - [Échanger des sujets](https://support.catenda.com/fr/articles/4670289-echanger-des-sujets)
-- Modèles
-    - [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-selecteur-de-revision)
-    - [Filtrage sur la page des objets](https://support.catenda.com/fr/articles/12353642-filtrage-sur-la-page-des-objets)
-    - [Filtrage sur la page des modèles](https://support.catenda.com/fr/articles/12129622-filtrage-sur-la-page-des-modeles)
-    - [Menu de droite sur la page des modèles](https://support.catenda.com/fr/articles/9673735-menu-droit-sur-la-page-des-modeles)
-    - [Liste déroulante du plan glissant](https://support.catenda.com/fr/articles/4670327-menu-deroulant-du-plan-glissant)
-    - [Page du contenu des favoris](https://support.catenda.com/fr/articles/8471481-page-de-contenu-des-signets)
-- Documents
-    - [Page de vue d'ensemble de l'accès au document](https://support.catenda.com/fr/articles/6660820-page-d-apercu-des-acces-aux-documents)
-    - [Filtrage sur la page des documents](https://support.catenda.com/fr/articles/4670283-filtrage-sur-la-page-des-documents)
-    - [Contrôle d'accès des dossiers et des documents](https://support.catenda.com/fr/articles/4670287-controle-d-acces-aux-dossiers-et-documents)
-    - [Création d'un nouveau flux de travail](https://support.catenda.com/fr/articles/12313251-creer-un-nouveau-flux-de-travail)
-    - [Page Flux de travail - Paramètres du document](https://support.catenda.com/fr/articles/12309903-page-workflows-parametres-des-documents)
-    - [Outils d'aperçu des documents](https://support.catenda.com/fr/articles/11384618-outils-d-apercu-de-document)
-    - [Télécharger une structure de fichiers zip](https://support.catenda.com/fr/articles/7945410-telecharger-un-fichier-zip-structure-de-fichiers)
-    - [Filtrage sur la page des collections](https://support.catenda.com/fr/articles/8999945-filtrage-sur-la-page-des-collections)
-    - [Filtrage sur la page des approbations](https://support.catenda.com/fr/articles/12495060-filtrage-sur-la-page-des-approbations)
-    - [Filtrage sur la page des approbations - Hérité](https://support.catenda.com/fr/articles/8551740-filtrage-sur-la-page-des-approbations-legacy)
-- Paramètres
-    - [Filtrage sur la page des membres et des équipes](https://support.catenda.com/fr/articles/11744242-filtrage-sur-la-page-des-membres-et-equipes)
-- Visionneuses 2D et 3D
-    - [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d)
-    - [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d)
-- Plugins et intégrations Catenda
-    - [Manuel d'export IFC Revit](https://support.catenda.com/fr/articles/4670341-manuel-d-exportation-ifc-revit)
-    - [Manuel d'export IFC Archicad](https://support.catenda.com/fr/articles/4670338-manuel-d-exportation-ifc-pour-archicad)
-    - [Plugin Catenda Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks)
-    - [Plugin Catenda Archicad](https://support.catenda.com/fr/articles/5519276-plugin-catenda-archicad)
-    - [Plugin Catenda Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit)
-    - [Connecteur Catenda Power BI](https://support.catenda.com/fr/articles/5784721-connecteur-catenda-power-bi)
-    - [Connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop)
-    - [Plugin Catenda Tekla](https://support.catenda.com/fr/articles/6549656-plugin-catenda-tekla)
-    - [Dépannage du connecteur de bureau](https://support.catenda.com/fr/articles/11019637-depannage-du-bureau-connector)
+    - [Page des paramètres du modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet)
+- Modèles de sujet
+    - [Appliquer un modèle de sujet général lors de la création d'un sujet](https://support.catenda.com/fr/articles/14075921-utilisation-des-modeles-de-sujets-dans-une-liste-de-sujets)
+    - [Appliquer un modèle de sujet de document lors de la création d'une annotation à partir d'un document](https://support.catenda.com/fr/articles/14078352-utilisation-de-modeles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage)
+    - [Appliquer un modèle de sujet d'approbation à un modèle de flux de travail d'approbation](https://support.catenda.com/fr/articles/14078683-utilisation-de-modeles-de-sujets-avec-les-approbations)
+- Entre catégories
+    - [Créer une action de rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_
+    - [Action Copier le lien](https://support.catenda.com/fr/articles/14323982-action-de-copie-de-liens)
+- Plug-ins et intégrations Catenda
+    - [Journal des modifications du plug-in Revit Catenda - 1.0.15](https://support.catenda.com/fr/articles/13449051-journal-des-modifications-du-plugin-catenda-revit-1-0-15)
+    - [Journal des modifications du plug-in Archicad Catenda - 1.0.1.17](https://support.catenda.com/fr/articles/13449075-journal-des-modifications-du-plugin-catenda-archicad-1-0-1-17)
 
 **Dépannage**
 
-- [Dépannage du téléchargement zip](https://support.catenda.com/fr/articles/11017391-depannage-du-telechargement-de-fichiers-zip)
+- [Dépannage du téléchargement Zip](https://support.catenda.com/fr/articles/13399638-depannage-du-telechargement-zip)
+- [Dépannage Desktop Connector - tous les dossiers n'ont pas été téléchargés](https://support.catenda.com/fr/articles/13772277-desktop-connector-tous-les-dossiers-n-ont-pas-ete-telecharges)
+- [Dépannage du plug-in Revit Catenda](https://support.catenda.com/fr/articles/14301534-depannage-du-plugin-catenda-revit)
+
+Mises à jour récentes
+
+- [États des fonctionnalités Q1 2026](https://support.catenda.com/fr/articles/13905428-statuts-des-fonctionnalites-q1-2026)
+
+**Foire aux questions**
+
+- FAQ Sujets
+    - [Localisation 2D des sujets - Site Catenda](https://support.catenda.com/fr/articles/13616245-localisation-2d-des-sujets-catenda-site)
+- FAQ Projet
+    - [FAQ Champs personnalisés](https://support.catenda.com/fr/articles/11384331-faq-sur-les-champs-personnalises)
+
+### 1.2 **Articles qui ont changé :**
+
+**Gestion des comptes**
+
+- [Créer un nouveau projet](https://support.catenda.com/fr/articles/4670245-creer-un-nouveau-projet)
+- [Authentification multifacteur](https://support.catenda.com/fr/articles/4969891-authentification-multi-facteurs)
+- [Notifications Microsoft Équipes](https://Microsoft%20Teams%20notifications)
+- [Page de connexion](https://support.catenda.com/fr/articles/7891486-page-de-connexion)
+- [Filtrage sur la page Notifications](https://support.catenda.com/fr/articles/8304417-filtrage-sur-la-page-des-notifications)
+- [Page Organisations](https://support.catenda.com/fr/articles/8281910-page-organisations)
+
+**Fonctionnalités du produit**
+
+- Sujets
+    - [Actions du tableau des sujets](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets)
+    - [Menu droit dans un sujet](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet)
+    - [Boîte à outils de formatage des messages](https://support.catenda.com/fr/articles/8430847-boite-a-outils-de-formatage-des-publications) (Formatage précédemment des messages)
+    - [Corps du sujet - Le contenu d'un sujet](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet)
+    - [Vue tableau dans un tableau de sujets](https://support.catenda.com/fr/articles/6941099-affichage-tableau-dans-un-topic-board)
+    - [Filtrage sur la page des sujets](https://support.catenda.com/fr/articles/8370693-filtrage-sur-la-page-des-sujets)
+    - [En-tête de sujet - L'objet d'un sujet](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet)
+- Modèles
+    - [Page Objets](https://support.catenda.com/fr/articles/12352750-page-objets)
+    - [Page Modèles](https://support.catenda.com/fr/articles/4670286-page-modeles)
+    - [Filtrage sur la page des modèles](https://support.catenda.com/fr/articles/12129622-filtrage-sur-la-page-des-modeles)
+    - [Filtrage sur la page des objets](https://support.catenda.com/fr/articles/12353642-filtrage-sur-la-page-des-objets)
+    - [Actions de la page des contenus du modèle](https://support.catenda.com/fr/articles/9674157-actions-de-la-page-de-contenu-du-modele)
+    - [Menu droit sur la page des modèles](https://support.catenda.com/fr/articles/9673735-menu-droit-sur-la-page-des-modeles)
+- Documents
+    - [Actions du tableau des documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents)
+    - [Onglet Documents dans une demande d'approbation](https://support.catenda.com/fr/articles/12495130-onglet-documents-dans-une-demande-de-validation)
+    - [Page Documents](https://support.catenda.com/fr/articles/8204673-page-documents)
+    - [Filtrage sur la page Collections](https://support.catenda.com/fr/articles/8999945-filtrage-sur-la-page-des-collections)
+    - [Filtrage sur la page des documents](https://support.catenda.com/fr/articles/4670283-filtrage-sur-la-page-des-documents)
+    - [Filtrage sur la page des approbations](https://support.catenda.com/fr/articles/12495060-filtrage-sur-la-page-des-approbations)
+    - [Filtrage sur la page des approbations (Héritage)](https://support.catenda.com/fr/articles/8551740-filtrage-sur-la-page-des-approbations-legacy)
+- Paramètres
+    - [Page du contenu des champs personnalisés](https://support.catenda.com/fr/articles/8445588-page-de-contenu-des-champs-personnalises)
+    - [Filtrage sur la page Membres et Équipes](https://support.catenda.com/fr/articles/11744242-filtrage-sur-la-page-des-membres-et-equipes)
+- Panneau Arbres
+    - [Panneau d'arborescence des modèles](https://support.catenda.com/fr/articles/4670290-panneau-arborescence-du-modele)
+- Visionneuses 2D et 3D
+    - [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d)
+    - [Paramètres de la visionneuse 3D](https://support.catenda.com/fr/articles/5784718-parametres-de-la-visionneuse-3d)
+    - [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d)
+    - [Apparence de la visionneuse 2D](https://support.catenda.com/fr/articles/13615984-apparence-de-la-visionneuse-2d)
+    - [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-selecteur-de-revision)
+    - [Nuages de points dans Catenda](https://support.catenda.com/fr/articles/5606625-nuages-de-points-dans-catenda-hub)
+- Plug-ins et intégrations Catenda
+    - Catenda - En tant qu'application
+        - [Visionneuse 2D - Site Catenda](https://support.catenda.com/fr/articles/7748370-visionneuse-2d-catenda-site)
+        - [Bâtiments et étages de la visionneuse 2D](https://support.catenda.com/fr/articles/10901703-visionneuse-2d-batiments-et-etages)
+
+**Dépannage**
+
+- [Dépannage du connecteur de bureau](https://support.catenda.com/fr/articles/11019637-depannage-du-bureau-connector)
+- [Dépannage du contenu des champs personnalisés](https://support.catenda.com/fr/articles/13750419-depannage-du-contenu-des-champs-personnalises)
+- [Dépannage de l'intégration des documents Solibri](https://support.catenda.com/fr/articles/11431097-depannage-de-l-integration-des-documents-solibri)
+- [Dépannage du connecteur Solibri BCF Live](https://support.catenda.com/fr/articles/14301642-depannage-du-connecteur-solibri-bcf-live)
+
+**Tutoriels et guides**
+
+- [Vidéos Guidde](https://support.catenda.com/fr/articles/11055278-videos-guidde)
 
 **Cas d'usage**
 
-- Approbations
-    - [Examen de document dans le flux de travail d'approbation](https://support.catenda.com/fr/articles/12628468-examen-des-documents-dans-le-flux-de-travail-d-approbation)
-    - [Soumettre et gérer les approbations : Guide pour les rédacteurs](https://support.catenda.com/fr/articles/12627979-soumettre-et-gerer-les-validations-guide-pour-les-redacteurs)
-    - [Décisions d'approbation finale simplifiées](https://support.catenda.com/fr/articles/12629484-les-decisions-de-validation-finales-simplifiees)
-    - [Gestion des approbations en tant qu'administrateur](https://support.catenda.com/fr/articles/12620829-gestion-des-approbations-en-tant-qu-administrateur)
+- [Gestion de la coordination des interférences à grande échelle](https://support.catenda.com/fr/articles/13845605-gestion-de-la-coordination-des-clashs-a-grande-echelle)
+- [Rapports d'interférences hebdomadaires](https://support.catenda.com/fr/articles/13847707-rapports-de-detection-des-interferences-hebdomadaires)
 
-**Questions fréquemment posées**
+**Foire aux questions**
 
-- [Structuration des documents](https://support.catenda.com/fr/articles/8542598-structuration-des-documents)
-- [Export de toutes les données du projet](https://support.catenda.com/fr/articles/7946690-exporter-toutes-les-donnees-du-projet)
-- [Quelle est la taille de fichier que je peux télécharger ?](https://support.catenda.com/fr/articles/4670324-quelle-taille-de-fichier-puis-je-telecharger)
+- FAQ Fonctionnalités du produit
+    - [Aperçu des types de fichiers sur Catenda Hub](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub)
+- FAQ Sujets
+    - [Localisation 2D des sujets](https://support.catenda.com/fr/articles/4854523-localisation-2d-des-topics)
+- [Recommandation matérielle](https://support.catenda.com/fr/articles/6921941-recommandation-materielle)
+- [Optimisation de la visionneuse 3D](https://support.catenda.com/fr/articles/13927321-optimisation-de-la-visionneuse-3d)
+- [Recommandation réseau](https://support.catenda.com/fr/articles/13927294-recommandation-reseau)
+- [Recommandation logiciel d'application](https://Application%20software%20recommendation)
+- [Recommandation logiciel système](https://support.catenda.com/fr/articles/13927605-recommandation-logicielle-systeme)
+- [FAQ Fonctionnalités du produit](https://support.catenda.com/fr/articles/8263256-securite-du-projet)
+- FAQ Gestion des comptes
+    - [Enregistrement et partage d'un lien de filtre](https://support.catenda.com/fr/articles/11401493-enregistrement-et-partage-d-un-lien-de-filtre)
+    - [Limitation des résultats du filtre](https://support.catenda.com/fr/articles/8551755-limitation-des-resultats-de-filtrage)
 
-## 2. **Bogues résolus**
+## 2. **Nouvelles vidéos dans les playlists**
 
-Grâce à vos précieuses remarques, nous avons pu corriger de nombreux sujets que vous ayez ou non remarqué existaient. Voici une liste des petits changements apportés par l'équipe de développement à la suite de conversations avec les utilisateurs.
+- [Site Catenda - Interactions de la visionneuse 2D](https://eu.guidde.com/share/playbooks/1m5Vd8zAkL8kAfcAdsj9iJ?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+- [Interroger les objets 3D à l'aide du module Object Query](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
-### 2.1 **Sujets**
+## 3. **Bogues résolus**
 
-- Il est maintenant à nouveau possible de cliquer sur le bouton de lecture d'une capture d'annotation pour lire les annotations sur le document au lieu d'obtenir un écran complètement blanc.
-- Améliorations de la recherche de texte sur la page des sujets.
+Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets que vous ayez ou non remarqué existaient. Ci-dessous se trouve une liste des petits changements qui ont été apportés par l'équipe de développement en raison de conversations avec les utilisateurs.
 
-### 2.2 **Documents**
+### 3.1 Sujets
 
-- Il est maintenant à nouveau possible d'ouvrir des dossiers après qu'un écran blanc ait été affiché lors de l'ouverture d'un dossier dans une période de 15 minutes.
+- Nous avons résolu un problème où l'exportation de sujets vers Excel échouerait occasionnellement si un champ personnalisé « Nombre décimal » contenait un nombre entier (par exemple, `1,0` ou `5`). Avec ce correctif, le système traite maintenant correctement ces valeurs, en s'assurant que vos exportations de sujets se génèrent avec succès à chaque fois.
 
-### 2.3 **Modèles**
+> **Remarque :** Pour assurer une stabilité immédiate, les valeurs décimales entrées comme nombres entiers (par exemple, `1,0` ou `2,0`) apparaîtront actuellement sous forme d'entiers (par exemple, `1` ou `2`) dans le fichier Excel exporté. Bien que l'exportation soit maintenant entièrement fonctionnelle, nous sommes conscients que la préservation du formatage spécifique (zéros à droite) est importante pour la précision. Nous travaillons activement sur une mise à jour de suivi pour restaurer ce formatage visuel dans une version future.
 
-- La quantité de mémoire dédiée à la génération d'exports Excel des lignes filtrées dans le tableau des objets a été augmentée afin que l'export Excel soit correctement généré et qu'aucun indicateur de progression infini ne soit affiché.
-- C'est maintenant beaucoup plus rapide et la page est moins susceptible de se figer lors de la sélection de 50000+ éléments dans le tableau des objets.
-- Lorsque les grilles sont activées et que le modèle est transformé dans la visionneuse 3D Catenda Hub (navigateur uniquement), les grilles suivaient toujours, maintenant, lorsque vous actualisez la page et chargez le modèle transformé à son emplacement transformé, les grilles sont correctement affichées à cet emplacement transformé aussi.
-
-### 2.4 **Plugins et intégrations**
-
-- Il est maintenant à nouveau possible pour les utilisateurs ayant l'authentification multifacteur activée d'ouvrir le contenu des projets via les plugins et les intégrations.
-- Catenda en tant qu'application
-    - Il est maintenant à nouveau possible d'avoir à la fois la visionneuse 3D et les panneaux de contenu ouverts simultanément au lieu d'un à la fois sur les iPad de 11 pouces
-
-## 3. **Demandes des utilisateurs complétées**
-
-### 3.1 **Sujets**
-
-- Il est maintenant à nouveau possible de rechercher des mots partiels dans les titres des sujets, les descriptions dans les commentaires. La recherche de numéro de sujet a maintenant été séparée de cette recherche, ce qui permet plus de granularité lors de la recherche de sujets spécifiquement par leur numéro de sujet sur Catenda.
+- Les images téléchargées dans la zone du logo sur les paramètres du projet s'affichent à nouveau correctement en haut à gauche de la version PDF de l'exportation de sujet. Notez que cela fonctionnait toujours dans l'outil de rapports à la demande et ce n'était un problème que dans l'exportation de sujet actuelle qui est disponible pour tous.
+- Comme pour les étiquettes, les options de liste déroulante des champs personnalisés ne sont maintenant suggérées dans le menu de filtre de gauche dans un tableau de sujets que s'il y a des sujets dans la liste qui ont cette option sélectionnée.
+- Lorsque les boutons @mention et #lien sont utilisés alors que le curseur se trouve au milieu d'un message, le curseur ne se déplace plus à la fin du message et l'e-mail et le numéro de rubrique lié sont correctement ajoutés au message lorsqu'ils sont sélectionnés dans la liste déroulante.<br>Cela empêche également que tout ce qui a été écrit entre l'emplacement de la mention/lien soit tronqué.
 
 ### 3.2 **Documents**
 
-- Les notifications sont désormais envoyées aux utilisateurs qui font partie d'équipes appartenant à trois catégories différentes.<br>En tant que membre d'une équipe de soumission pour approbation, en tant que membre d'une équipe faisant partie de l'une des étapes du flux de travail et en tant que membre de l'équipe de soumission final.<br>Il y a des notifications concernant les nouvelles informations comme l'information soumise et modifiée.<br>Il y a des notifications concernant la responsabilité comme le moment où une équipe de révision doit effectuer sa révision ou le moment où l'examinateur final doit publier les documents dans la demande d'approbation.<br>Et il y a des notifications concernant les actions effectuées comme tous les examens dans une étape soumis par les différentes équipes de l'étape ou la fermeture finale d'une demande d'approbation par l'équipe d'examinateur final.
-- À l'étape finale d'une approbation, au lieu de simplement approuver et rejeter, il est maintenant possible pour quelqu'un de l'équipe approbatrice finale d'approuver avec commentaire. Ceci est généralement utilisé dans la situation où l'approbateur final souhaite approuver au nom de l'équipe approbatrice mais a quelques réserves concernant le document. Peut-être qu'un petit changement doit être apporté, peut-être qu'il y a un défaut acceptable dans le document.
+- **[Aperçu du document] Page blanche à l'ouverture du document**<br>Lors de l'ouverture de l'aperçu du document sur la page Documents, l'extraction en arrière-plan des données de Sujets et de model liées ne rend plus la page complètement blanche pour les Membres
+- **[Approbations] Réinitialisation du panneau de balisage**<br>Lors de la création d'une grande quantité de balisages dans l'examen des Documents d'une demande d'approbation sur le même document, le panneau de balisage ne se réinitialise plus à son état d'origine.
 
-### 3.3 **Paramètres**
+### 3.3 **Modèles**
 
-- Il est maintenant possible de configurer l'adhésion aux équipes en sélectionnant un ou plusieurs membres dans la liste et en apportant des modifications pour les mettre à jour dans le menu de droite au lieu de devoir aller à l'équipe et d'ajouter membre par membre.
-- Champ de date - Un nouveau champ personnalisé de type Date est maintenant disponible.<br>Si ce champ est disponible pour les sujets ou les documents, chaque champ de date mis à disposition pour un sujet/document peut recevoir une date en cliquant dessus et en sélectionnant une date dans un calendrier.<br>Les champs de date ne sont pas disponibles pour les conventions de nommage, mais ils sont disponibles via l'API.
+- **[Visionneuse 3D] Sélecteur de revision : Chargement incorrect de la revision** <br>Nous avons résolu un problème où la Visionneuse 3D affichait occasionnellement une revision obsolète au lieu du model le plus récent lors de l'ouverture via Sujets ou Affichages. Cela garantit que le model affiché correspond à la revision de document active, indépendamment de la séquence de téléchargement ou de traitement.
+- **[Page Objets] Exportation Excel filtrée**<br>La page Objets tient maintenant compte de tous les Filtres lors de l'exportation vers Excel au lieu de simplement considérer le filtre model.
+- **[Page Objets] Sélection paginée**<br>Lors du défilement au-delà de 100 objets, il est maintenant possible de sélectionner toutes les lignes à l'aide de la case à cocher en haut à gauche au lieu de seulement les 100 premières lignes.
+- **[Page Objets] Points dans les noms**<br>Les noms des propriétés et des ensembles de propriétés qui contiennent des points sont maintenant correctement affichés dans la cellule d'en-tête de la colonne sur la page Objets au lieu que seul ce qui suit le point soit affiché. Il est maintenant également possible de rechercher sur ces types de noms de propriétés.
+- **[Page des modèles] Spinner infini pour les révisions partagées après désactivation**<br>Dans les projets où les révisions partagées ont été désactivées après le téléchargement des révisions de modèles partagés alors que les révisions partagées étaient activées, les spinners infinis ne seront plus visibles dans la colonne Visionneuse de la page des modèles.<br>
 
-## 4. **Nouvelles versions** - Plugins et intégrations
+### 3.4 **Rapports**
 
-**Connecteur Catenda PowerBI v1.0.0** Il est maintenant possible d'obtenir des sujets avec des métastatuts ouverts ainsi que des sujets avec des métastatuts fermés.
+- **[Champs personnalisés]** **Champs de convention de nommage dans les rapports**<br>Il est maintenant également possible d'afficher les valeurs des champs personnalisés qui sont automatiquement configurés dans le cadre d'une convention de nommage dans un rapport au lieu de seulement les champs personnalisés sur les Documents.
 
-**Plugin Catenda Archicad v1.0.1.17** Support pour Archicad 29 Il est maintenant possible de choisir entre le point d'arpentage et l'origine du projet dans le menu d'action des coordonnées. Les points de vue sont maintenant lus par rapport au paramètre de coordonnée configuré dans le menu d'action des coordonnées. Support du nouveau flux de travail de statut avec les révisions majeures et mineures publiées et partagées.
+### 3.5 **Paramètres du projet**
 
-_Plugin Revit v1.0.15_
+- **[Géolocalisation] Alignement de l'étage à 0 m de hauteur sur la carte**<br>Les étages des models qui sont exactement à 0 m de hauteur sont maintenant correctement affichés dans le menu de rotation de la configuration de géolocalisation dans les paramètres des projets.
+- **[Raccourcis] Raccourci du panneau**
 
-- Ce plugin possède maintenant son propre installateur .MSI qui est séparé de la page des plugins Autodesk.
-- Lorsque vous tapez @ dans un commentaire ou une description, vous obtenez maintenant une liste de membres parmi lesquels vous pouvez choisir pour sélectionner celui que vous souhaitez mentionner.
-- Les images pour les captures 3D et autres images dans les commentaires des sujets se chargent beaucoup plus rapidement maintenant.
-- Support pour Revit 2026
+    Les raccourcis du panneau vérifient maintenant également le numéro utilisé dans la combinaison de raccourcis, ce qui permet aux utilisateurs ayant des dispositions de clavier différentes d'utiliser également les raccourcis même si le caractère de majuscule est différent de ce qui est habituel.
 
-> **Remarque :** La désinstallation de la version précédente et l'installation de la nouvelle version sont requises pour utiliser ce plugin.
+## 4. **Voix des utilisateurs complétées**
 
-**Plugin Tekla v1.4.0** Support du nouveau flux de travail de statut avec les révisions majeures et mineures publiées et partagées. Support pour Tekla 2023, Tekla 2024 et Tekla 2025
+### 4.1 **Modèles**
+
+- Sur la nouvelle page des objets, il y a une barre de recherche où vous pouvez taper un attribut existant et elle listera tous les objets qui l'ont.
+- Sur la nouvelle page des objets, il est maintenant possible de rechercher des objets par modèle, ce qui a longtemps été demandé car la bibliothèque de valeurs de propriété n'indexait les objets que des révisions les plus récentes du modèle à la fois au lieu de par modèle, ce qui pouvait souvent prendre plus de temps que prévu.
+- Dans chacun des menus du panneau d'arborescence, le nom de l'objet s'affiche maintenant au lieu d'un nom généré automatiquement pour chaque objet.
 
 # Journal des modifications 2 Catenda - Juillet 2023
 
@@ -25977,7 +25973,7 @@ _Connecteur Bureau :_ [Nouvelle version 1.0.4.0](https://hub.catenda.com/share/c
 
 - Nouvelle version
 
-# Journal des modifications 4 Catenda - janvier 2024
+# Journal des modifications 4 Catenda - Janvier 2024
 
 > Nouvelles informations et modifications mineures
 
@@ -26127,7 +26123,7 @@ _Catenda Site :_ [App store](https://apps.apple.com/us/app/catenda-site/id144957
 
 - Vous pouvez maintenant vous connecter à votre compte Catenda via une fenêtre contextuelle du navigateur au lieu d'attendre un e-mail.
 
-# Journal des modifications 5 Catenda - Avril 2024
+# Journal des modifications 5 Catenda - avril 2024
 
 Bonjour à tous,
 
@@ -27256,6 +27252,100 @@ Recherchez n'importe quel contenu de votre IFC avec logique. La page Objets est 
 ### 1.4 **Éditeur de rapports**
 
 Créez des modèles de rapport pour les Sujets et les Documents afin que les Membres du projet puissent sélectionner les Sujets ou les Documents du tableau et utiliser l'action de rapport pour générer un rapport. La page Rapports est une fonctionnalité à la demande qui peut être demandée à être activée pour les projets en cours. Les nouveaux projets créés sur la base d'un project model où cette fonctionnalité est activée n'ont pas cette fonctionnalité activée. Des modèles distincts peuvent être créés pour les Sujets et les Documents. Lorsqu'un modèle est disponible dans un projet, l'action de rapport peut être utilisée avec les Sujets et les Documents sélectionnés pour générer un rapport basé sur le modèle sélectionné. Le support pour l'affichage de différentes valeurs sur la page est offert par Catenda. Si vous souhaitez un rapport personnalisé adapté à votre entreprise, nous pouvons vous mettre en contact avec un consultant qui peut vous aider.
+
+# Statuts des fonctionnalités Q4 2026
+
+Pour éviter le spam de notifications et assurer un lancement en douceur, les nouveaux comportements ou les modifications des comportements existants peuvent être déployés progressivement et sans avertissement. Ceux qui remarquent des modifications dans le comportement d'une partie de la page qu'ils utilisent fréquemment ou ceux qui se demandent ce qui est nouveau peuvent consulter ces articles pour obtenir des mises à jour sur les modifications récentes du comportement pour tous les utilisateurs.
+
+## 1. **Nouvelles fonctionnalités**
+
+Chaque utilisateur utilise la plateforme différemment. Même si une nouvelle fonctionnalité est publiée ou des modifications sont apportées à une fonctionnalité, il se peut que les utilisateurs n'utilisent pas cette partie de la fonctionnalité. Pour ceux qui sont curieux de savoir ce qu'est « ce nouveau bouton » ou « cette nouvelle page » sur la plateforme, cet article contient une introduction sur ce que le changement concerne. Pour ces fonctionnalités, souvent seul du matériel d'assistance de base ou légèrement obsolète est disponible car cela est mis à jour au fur et à mesure. Parallèlement à l'aide apportée aux personnes dans le support, les articles sont souvent mis à jour et si les questions qui ont été posées peuvent être trouvées rapidement expliquées dans un article la semaine suivante.
+
+### 1.1 **Dessins en 3D**
+
+Les dessins PDF peuvent maintenant être affichés dans la [visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d), en place avec les modèles. Un dessin est aligné une fois, et à partir de là, il peut être ouvert en 3D aussi souvent que nécessaire.
+
+![Un dessin PDF affiché sous le modèle dans la visionneuse 3D, avec le bouton 3D dans la colonne visionneuse du tableau des documents](https://raw.githubusercontent.com/catenda/help-center/main/images/0j3jpvac/01-drawings-in-3d.png)
+
+**Aligner un dessin** Sélectionnez un seul PDF dans le tableau des documents sur la [page des documents](https://support.catenda.com/fr/articles/8204673-page-documents) et choisissez Créer un dessin dans le menu d'action en haut du tableau. Donnez au dessin une élévation, puis placez les marqueurs A et B pour définir sa position et sa rotation. Cela fonctionne de la même façon que dans le [configurateur d'étages](https://support.catenda.com/fr/articles/6921756-page-configurateur-d-etage). Il aligne le dessin avec un étage du configurateur d'étages ou d'un modèle IFC.
+
+**Ouverture des dessins en 3D** Sélectionnez un ou plusieurs dessins alignés et choisissez 3D dans le menu d'action en haut du tableau des documents. La vue 3D d'un seul dessin aligné peut également être activée et désactivée avec le bouton 3D dans la [colonne Visionneuse](https://support.catenda.com/fr/articles/8204673-page-documents#h_face62c318). Si la colonne Visionneuse n'est pas visible, affichez-la d'abord, comme décrit dans [Colonnes de la page Documents](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents). Les dessins chargés dans la visionneuse 3D sont listés dans le menu déroulant du model en haut, de la même manière que les nuages de points et les fichiers GML. Les dessins en 3D fonctionnent avec les fichiers PDF. 📽️ **[Vidéo tutorielle](https://eu.guidde.com/playbooks/devAaKxijzjkFmKW8xcgLq?mode=videoAndDoc)**
+
+### 1.2 **Accessibilité**
+
+**Clavier et lecteur d'écran** Catenda Hub peut maintenant être utilisé avec un clavier seul et avec un lecteur d'écran. Un lien « passer au contenu principal » et la touche F6 se déplacent entre les zones principales de l'écran, et un contour visible indique où se trouve le focus. Les sujets, documents, approbations et modèles fonctionnent tous au clavier et au lecteur d'écran, y compris les tableaux, les formulaires, les pop-ups, la visionneuse 3D et la visionneuse PDF. Les boutons qui affichent uniquement une icône ont maintenant des noms que le lecteur d'écran lit à haute voix, dans la [langue d'interface](https://support.catenda.com/fr/articles/4670248-modification-de-la-langue-preferee) de l'utilisateur. Les messages d'erreur et de succès sont également lus à haute voix.
+
+**Modes daltoniens** Trois modes daltoniens peuvent être choisis sous Vision des couleurs sur la [page du compte](https://support.catenda.com/fr/articles/6880968-page-du-compte) : protanopie, deutéranopie et tritanopie. Chaque mode utilise une palette de couleurs qui est plus facile à distinguer, et Standard conserve les couleurs par défaut.
+
+![Le paramètre Vision des couleurs avec les palettes Standard, Protanopie, Deutéranopie et Tritanopie](https://raw.githubusercontent.com/catenda/help-center/main/images/0j3jpvac/02-accessibility.png)
+
+## 2. **Fonctionnalités mises à jour**
+
+### 2.1 **Améliorations des approbations**
+
+**Étapes d'approbation cliquables** Les étapes du [ruban d'étapes](https://support.catenda.com/fr/articles/12495212-ruban-d-etapes-dans-une-demande-de-validation) en haut d'une approbation peuvent maintenant être cliquées. Cliquer sur une étape affiche son statut, ses équipes de révision et ses dates. L'étape actuelle conserve son contour vert, il reste donc clair où se trouve réellement la révision.
+
+**Approbations héritées fermées après le basculement** Les projets qui ont basculé des approbations héritées vers le nouveau flux de travail d'approbation peuvent maintenant voir leurs approbations héritées fermées sur la [page des approbations](https://support.catenda.com/fr/articles/12495047-page-des-approbations). La documentation et la piste d'audit de ces approbations restent intactes après le basculement.
+
+### 2.2 **Révisions partagées dans les collections**
+
+[Les collections](https://support.catenda.com/fr/articles/6344318-page-collections) supportent maintenant les révisions partagées. C'était une demande de longue date des utilisateurs, et cela élargit les utilisations possibles des collections.
+
+### 2.3 **Catenda AI Connect**
+
+Catenda AI Connect a été mise à jour, et les modifications sont répertoriées dans le [journal des modifications de Catenda AI Connect](https://support.catenda.com/fr/articles/17778717-journal-des-modifications-de-catenda-ai-connect) _(Clients AI Connect uniquement)_.
+
+### 2.4 **Visionneuse 3D**
+
+**Performance** Une nouvelle version de la Visionneuse 3D charge les modèles plus rapidement et utilise moins de mémoire, notamment pendant le chargement. Cela permet d'ouvrir des projets plus volumineux qu'auparavant. Les outils de mesure réagissent plus rapidement et se figent moins sur les grands projets. Les modèles restent nets à n'importe quel niveau de zoom du navigateur. Les paramètres de qualité d'affichage dans les [paramètres de la Visionneuse 3D](https://support.catenda.com/fr/articles/5784718-parametres-de-la-visionneuse-3d) ont été renommés et fonctionnent différemment. La valeur par défaut est maintenant Qualité adaptative.
+
+**Alignements** À partir du tableau d'alignement, le [plan de coupe](https://support.catenda.com/fr/articles/4670253-plans-de-coupe) peut maintenant être envoyé directement à un point sur un [alignement](https://support.catenda.com/fr/articles/4670327-menu-deroulant-du-plan-glissant). Il n'est plus nécessaire de créer un plan et de le faire glisser en place à la main. La distance exacte le long de l'alignement où se situe la coupe transversale est également affichée. L'entrée d'une distance déplace la coupe transversale directement à cet endroit.
+
+**Signets publics** L'outil de mesure et le [plan de coupe](https://support.catenda.com/fr/articles/4670253-plans-de-coupe) peuvent maintenant être utilisés dans les [signets publics](https://support.catenda.com/fr/articles/8471481-page-de-contenu-des-signets).
+
+### 2.5 **Langues de la visionneuse de documents**
+
+La [visionneuse de documents](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) suit maintenant la [langue d'interface](https://support.catenda.com/fr/articles/4670248-modification-de-la-langue-preferee) définie dans le compte utilisateur, dans toutes les langues prises en charge.
+
+### 2.6 **Notifications**
+
+La [page des notifications du compte](https://support.catenda.com/fr/articles/7439223-page-des-notifications-de-compte), la [page des notifications du projet](https://support.catenda.com/fr/articles/4670295-page-de-notifications-de-projet) et la fenêtre contextuelle qui s'ouvre à partir de la cloche dans le coin supérieur droit ont été reconstruites.
+
+## 3. **Activation des fonctionnalités à la demande**
+
+Chaque fonctionnalité à la demande est de qualité production et prête pour une utilisation réelle dans les projets. Bien que ces fonctionnalités aient été testées pour fonctionner comme prévu, le nombre de projets qui ont commencé à utiliser ces fonctionnalités peut varier, de sorte que des cas limites inconnus pourraient être trouvés. Bien que des modifications puissent être apportées au fur et à mesure que nous travaillons à la mise à disposition de ces fonctionnalités à tous les utilisateurs, les données soumises dans ces fonctionnalités ne seront pas supprimées.
+
+### 3.1 **Demande d'activation des fonctionnalités à la demande**
+
+Certaines fonctionnalités peuvent être demandées à être activées pour les projets existants par la personne contact de votre licence Catenda, tandis que d'autres peuvent être activées avec un paramètre dans le projet. Lorsqu'une fonctionnalité à la demande est demandée à être activée, une réunion sera organisée avec un représentant du support pour discuter du statut actuel de la fonctionnalité. Si un projet n'est pas déjà disponible où la fonctionnalité à la demande peut être testée, un projet fictif peut être créé pour une durée limitée où la fonctionnalité à la demande peut être testée pour déterminer si la fonctionnalité est prête à être utilisée.
+
+### 3.2 **Éditeur de rapports**
+
+Créez des modèles de rapport pour les sujets et les documents afin que les membres du projet puissent sélectionner des sujets ou des documents du tableau et utiliser l'action de rapport pour générer un rapport. La page des rapports est une fonctionnalité à la demande qui peut être demandée à être activée pour les projets en cours. Les nouveaux projets créés à partir d'un projet de modèle où cette fonctionnalité est activée n'ont pas cette fonctionnalité activée. Des modèles séparés peuvent être créés pour les sujets et les documents. Les rapports peuvent également être créés à partir des approbations avec l'[action de création de rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_. Lorsqu'un modèle est disponible dans un projet, l'action de rapport peut être utilisée avec les sujets et documents sélectionnés pour générer un rapport basé sur le modèle sélectionné. Catenda offre un support sur la façon dont différentes valeurs peuvent être affichées sur la page. Si vous souhaitez un rapport personnalisé adapté à votre entreprise, nous pouvons vous mettre en contact avec un consultant qui peut vous aider. Des exemples de rapports pour les sujets, documents et approbations sont maintenant disponibles dans les [modèles de rapport prêts à l'emploi](https://support.catenda.com/fr/articles/17778911-modeles-de-rapport-prets-a-l-emploi) _(clients de l'éditeur de rapports uniquement)_. Le fonctionnement de l'éditeur de rapports est décrit dans l'[Éditeur de rapports](https://support.catenda.com/fr/articles/17778656-editeur-de-rapport) _(clients de l'éditeur de rapports uniquement)_.
+
+### 3.3 **Catenda pour Power BI (À la demande)**
+
+Une version à la demande de Catenda pour Power BI est maintenant disponible. Elle peut être demandée de la même manière que les autres fonctionnalités à la demande. Ce qu'elle est pour est décrit dans l'[Introduction à Catenda pour Power BI (À la demande)](https://support.catenda.com/fr/articles/17778865-introduction-a-catenda-pour-power-bi-a-la-demande) _(clients connectés uniquement)_. La configuration est décrite dans [Catenda pour Power BI (À la demande)](https://support.catenda.com/fr/articles/17778868-catenda-pour-power-bi-a-la-demande) _(sur demande uniquement)_.
+
+### 3.4 **Connecteur de bureau Catenda pour images système (À la demande)**
+
+Une version à la demande du Connecteur de bureau Catenda pour images système est maintenant disponible. Elle peut être demandée de la même manière que les autres fonctionnalités à la demande. Ce qu'elle est pour est décrit dans l'[Introduction au Connecteur de bureau Catenda pour images système](https://support.catenda.com/fr/articles/17778688-introduction-au-connecteur-bureau-catenda-pour-images-systeme) _(clients connectés uniquement)_. La configuration est décrite dans [Connecteur de bureau Catenda pour images système (À la demande)](https://support.catenda.com/fr/articles/17778690-catenda-desktop-connector-pour-les-images-systeme-a-la-demande) _(sur demande uniquement)_.
+
+## 4. **Programme de co-création**
+
+Certaines fonctionnalités sont construites en collaboration avec un petit groupe de clients tandis qu'elles sont encore en développement. Ces clients participent au programme de co-création : ils utilisent la fonctionnalité dans leurs propres projets et leurs commentaires façonnent ce qu'elle devient.
+
+Une fonctionnalité de co-création est différente d'une fonctionnalité à la demande. Une fonctionnalité à la demande est de qualité production et n'attend que d'être mise à disposition de tous les utilisateurs, tandis qu'une fonctionnalité de co-création n'est pas encore finalisée. Les pages et les boutons peuvent être déplacés, renommés ou remplacés d'une version à l'autre, et les articles qui les décrivent sont mis à jour au fur et à mesure que la fonctionnalité change. Une fonctionnalité de co-création deviendra une fonctionnalité payante une fois qu'elle sera entièrement disponible.
+
+### 4.1 **Rejoindre le programme de co-création**
+
+La personne contact de votre licence Catenda peut demander à rejoindre le programme de co-création. Une réunion sera organisée avec un représentant Catenda pour discuter du statut actuel de la fonctionnalité et de ce que cela implique de participer au programme.
+
+### 4.2 **Catenda Mobile**
+
+[Catenda Mobile](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda) est une nouvelle application mobile pour les téléphones et les tablettes, disponible en accès anticipé pour iPhone et iPad via TestFlight et pour Android sur Google Play. Elle couvre les sujets, les emplacements, les formulaires et les documents, et au fil du temps, elle obtiendra toutes les fonctionnalités de [Catenda Site](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site), et bien d'autres. Les sujets et les documents fonctionnent dans tous les projets dont l'utilisateur est membre. Les formulaires et les emplacements ne peuvent être utilisés que dans les projets où ils ont été activés, et pour le moment, c'est uniquement les projets des clients du programme de co-création.
+
+L'application n'est pas définitive et peut encore changer considérablement. Catenda Site peut toujours être utilisée aux côtés de celle-ci, et reste l'application à utiliser lorsqu'une fonctionnalité est nécessaire qui ne figure pas encore dans Catenda Mobile.
 
 # Équipes Catenda et sélection de tous les utilisateurs ajoutées à ShareLink
 

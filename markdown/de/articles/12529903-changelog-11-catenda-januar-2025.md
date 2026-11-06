@@ -1,12 +1,8 @@
-# Changelog 11 Catenda - Januar 2025
+# Changelog 11 Catenda - Januar 2026
 
 Hallo zusammen,
 
 vielen Dank, dass ihr alle in diesen Wintermonaten so aktiv auf unserer Plattform seid. Wir haben eine erstaunliche Winterperiode genossen und können stolz sagen, dass es in dieser Zeit mehr Stabilität auf der Plattform gibt als in den Vorjahren. Gleichzeitig haben wir weiterhin auf eure Anfragen zum Überholte Genehmigungsablauf gehört, der ab dem letzten Changelog nagelneu war. Während einige Administratoren gelernt haben, wie man Workflows konfiguriert, und andere bei der Arbeit damit beschäftigt waren, im Namen ihres Teams zu genehmigen, gibt es noch ein paar Kontrollkästchen für uns, um alles zusammenzuziehen. Ein Fokus in Zukunft wird darin bestehen, einen Weg zu schaffen, um einen Audit-Trail der verschiedenen Aktionen, die im Genehmigungsprozess aufgetreten sind, zu sperren, damit die Dokumentation erbracht werden kann, dass Genehmigungsprüfungen von den verschiedenen Teams durchgeführt werden. Mit der neuen Mitglieder-Seite ist es einfacher denn je, die Teamzugehörigkeit zu konfigurieren, also informiert eure Administratoren, wenn ihr das Gefühl habt, dass ihr nicht im richtigen Team seid oder ein Team im Projekt fehlt! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️
-
-In diesem Artikel finden Sie Aktualisierungen zu folgendem:
-
-_[Artikel](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_a1a4085421) - [Fehler](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_43a9641d96) - [Videos](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_1ec3df5bf7) - [Benutzer-Feedback](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_4c273d2715) - [Neue Versionen](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_fea31925e9) - [Funktionsstatus](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_76a41f54f2)_
 
 ## 1. **Artikel**
 

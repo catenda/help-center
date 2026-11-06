@@ -1,4 +1,4 @@
-# Endringslogg 12 Catenda, april 2026
+# Endringslogg 12 Catenda - april 2026
 
 Hallo alle sammen,
 
@@ -10,29 +10,29 @@ Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringen
 
 ### 1.1 **Nye artikler:**
 
-**Kontoadministrasjon**
+_Kontoadministrasjon_
 
 - Organisasjoner
-  - [Organisasjonskonfigurasjon](https://support.catenda.com/nb/articles/13653794-organisasjonskonfigurasjon)
-  - [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
-  - [Organisasjon og prosjektkonfigurasjon](https://support.catenda.com/nb/articles/13653804-organisering-og-prosjektoppsett)
+    - [Organisasjonskonfigurasjon](https://support.catenda.com/nb/articles/13653794-organisasjonskonfigurasjon)
+    - [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
+    - [Organisasjon og prosjektkonfigurasjon](https://support.catenda.com/nb/articles/13653804-organisering-og-prosjektoppsett)
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - Saker
-  - [Sakmalsettingsside](https://support.catenda.com/nb/articles/14076010-innstillinger-for-saksmal)
+    - [Sakmalsettingsside](https://support.catenda.com/nb/articles/14076010-innstillinger-for-saksmal)
 - Sakmaler
-  - [Anvend en generell sakmal ved saksoppretting](https://support.catenda.com/nb/articles/14075921-bruk-av-saksmaler-i-en-saksliste)
-  - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/nb/articles/14078352-bruk-av-malvinkler-nar-du-lagrer-merknadsaker)
-  - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/nb/articles/14078683-bruke-saksmaler-med-gjennomganger)
+    - [Anvend en generell sakmal ved saksoppretting](https://support.catenda.com/nb/articles/14075921-bruk-av-saksmaler-i-en-saksliste)
+    - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/nb/articles/14078352-bruk-av-malvinkler-nar-du-lagrer-merknadsaker)
+    - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/nb/articles/14078683-bruke-saksmaler-med-gjennomganger)
 - Kategorioverskridende
-  - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(bare for rapportredigerkunder)_
-  - [Kopier-lenkehandling](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp)
+    - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(bare for rapportredigerkunder)_
+    - [Kopier-lenkehandling](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp)
 - Catenda-programtillegg og integrasjoner
-  - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15)
-  - [Catenda Archicad-programtillegg endringslogg - 1.0.1.17](https://support.catenda.com/nb/articles/13449075-catenda-archicad-plugin-endringslogg-1-0-1-17)
+    - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15)
+    - [Catenda Archicad-programtillegg endringslogg - 1.0.1.17](https://support.catenda.com/nb/articles/13449075-catenda-archicad-plugin-endringslogg-1-0-1-17)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Feilsøking for zip-nedlasting](https://support.catenda.com/nb/articles/13399638-feilsoking-av-zip-nedlasting)
 - [Desktop Connector - ikke alle mapper lastet ned](https://support.catenda.com/nb/articles/13772277-desktop-connector-ikke-alle-mapper-lastet-ned)
@@ -42,16 +42,16 @@ Nylige oppdateringer
 
 - [Funksjonstilstander Q1 2026](https://support.catenda.com/nb/articles/13905428-funksjonsstatuser-q1-2026)
 
-**Ofte stilte spørsmål**
+_Ofte stilte spørsmål_
 
 - Saker - OSS
-  - [2D-plassering av saker - Catenda-nettsted](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
+    - [2D-plassering av saker - Catenda-nettsted](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
 - Prosjekt - OSS
-  - [Egendefinerte felt - OSS](https://support.catenda.com/nb/articles/11384331-ofte-stilte-sporsmal-om-egendefinerte-felt)
+    - [Egendefinerte felt - OSS](https://support.catenda.com/nb/articles/11384331-ofte-stilte-sporsmal-om-egendefinerte-felt)
 
 ### 1.2 **Artikler som har endret seg:**
 
-**Kontoadministrasjon**
+_Kontoadministrasjon_
 
 - [Opprette et nytt prosjekt](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt)
 - [Godkjenning med flere faktorer](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering)
@@ -60,70 +60,70 @@ Nylige oppdateringer
 - [Filtrering på varslingssiden](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden)
 - [Organisasjonersiden](https://support.catenda.com/nb/articles/8281910-organisasjonssiden)
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - Saker
-  - [Sakstabellhandlinger](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell)
-  - [Høyremeny i en sak](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak)
-  - [Verktøylinje for innleggformatering](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg) (Tidligere formatering av innlegg)
-  - [Saksteksten - Innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
-  - [Tabeloversikt i en saksliste](https://support.catenda.com/nb/articles/6941099-tabellvisning-i-et-emn)
-  - [Filtrering på sakssiden](https://support.catenda.com/nb/articles/8370693-filtrering-pa-sakssiden)
-  - [Sak-overskrift - Emnet i en sak](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak)
+    - [Sakstabellhandlinger](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell)
+    - [Høyremeny i en sak](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak)
+    - [Verktøylinje for innleggformatering](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg) (Tidligere formatering av innlegg)
+    - [Saksteksten - Innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
+    - [Tabeloversikt i en saksliste](https://support.catenda.com/nb/articles/6941099-tabellvisning-i-et-emn)
+    - [Filtrering på sakssiden](https://support.catenda.com/nb/articles/8370693-filtrering-pa-sakssiden)
+    - [Sak-overskrift - Emnet i en sak](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak)
 - Modeller
-  - [Objektside](https://support.catenda.com/nb/articles/12352750-objektside)
-  - [Modellside](https://support.catenda.com/nb/articles/4670286-modellside)
-  - [Filtrering på modellsiden](https://support.catenda.com/nb/articles/12129622-filtrering-pa-modelside)
-  - [Filtrering på objektsiden](https://support.catenda.com/nb/articles/12353642-filtrering-pa-objektsiden)
-  - [Modellinnholdssideshandlinger](https://support.catenda.com/nb/articles/9674157-handlinger-pa-siden-for-modelinnhold)
-  - [Høyremeny på modellsiden](https://support.catenda.com/nb/articles/9673735-hoyremeny-pa-modelsiden)
+    - [Objektside](https://support.catenda.com/nb/articles/12352750-objektside)
+    - [Modellside](https://support.catenda.com/nb/articles/4670286-modellside)
+    - [Filtrering på modellsiden](https://support.catenda.com/nb/articles/12129622-filtrering-pa-modelside)
+    - [Filtrering på objektsiden](https://support.catenda.com/nb/articles/12353642-filtrering-pa-objektsiden)
+    - [Modellinnholdssideshandlinger](https://support.catenda.com/nb/articles/9674157-handlinger-pa-siden-for-modelinnhold)
+    - [Høyremeny på modellsiden](https://support.catenda.com/nb/articles/9673735-hoyremeny-pa-modelsiden)
 - Dokumenter
-  - [Dokumenttabellhandlinger](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen)
-  - [Dokumentfane i en gjennomgangsforespørsel](https://support.catenda.com/nb/articles/12495130-dokumenter-fanen-i-en-gjennomgangsforesporsel)
-  - [Dokumentside](https://support.catenda.com/nb/articles/8204673-dokumenter-side)
-  - [Filtrering på samlingssiden](https://support.catenda.com/nb/articles/8999945-filtrering-pa-samlingssiden)
-  - [Filtrering på dokumentsiden](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden)
-  - [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/12495060-filtrering-pa-godkjenningssiden)
-  - [Filtrering på gjennomgangssiden (eldre versjon)](https://support.catenda.com/nb/articles/8551740-filtrering-pa-godkjenningssiden-eldre-versjon)
+    - [Dokumenttabellhandlinger](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen)
+    - [Dokumentfane i en gjennomgangsforespørsel](https://support.catenda.com/nb/articles/12495130-dokumenter-fanen-i-en-gjennomgangsforesporsel)
+    - [Dokumentside](https://support.catenda.com/nb/articles/8204673-dokumenter-side)
+    - [Filtrering på samlingssiden](https://support.catenda.com/nb/articles/8999945-filtrering-pa-samlingssiden)
+    - [Filtrering på dokumentsiden](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden)
+    - [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/12495060-filtrering-pa-godkjenningssiden)
+    - [Filtrering på gjennomgangssiden (eldre versjon)](https://support.catenda.com/nb/articles/8551740-filtrering-pa-godkjenningssiden-eldre-versjon)
 - Innstillinger
-  - [Egendefinerte feltinnholdsside](https://support.catenda.com/nb/articles/8445588-egendefinert-felt-innholdsside)
-  - [Filtrering på siden for medlemmer og grupper](https://support.catenda.com/nb/articles/11744242-filtrering-pa-siden-for-medlemmer-og-teams)
+    - [Egendefinerte feltinnholdsside](https://support.catenda.com/nb/articles/8445588-egendefinert-felt-innholdsside)
+    - [Filtrering på siden for medlemmer og grupper](https://support.catenda.com/nb/articles/11744242-filtrering-pa-siden-for-medlemmer-og-teams)
 - Treepanel
-  - [Modelltre-panel](https://support.catenda.com/nb/articles/4670290-modelltre-panel)
+    - [Modelltre-panel](https://support.catenda.com/nb/articles/4670290-modelltre-panel)
 - 2D- og 3D-visere
-  - [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viser)
-  - [3D-viserinnstillinger](https://support.catenda.com/nb/articles/5784718-3d-viser-innstillinger)
-  - [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser)
-  - [2D-viser-utseende](https://support.catenda.com/nb/articles/13615984-2d-viser-utseende)
-  - [Revisjonvelger](https://support.catenda.com/nb/articles/4670279-revisjonsvelger)
-  - [Punktskyer i Catenda](https://support.catenda.com/nb/articles/5606625-punktskyer-i-catenda-hub)
+    - [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viser)
+    - [3D-viserinnstillinger](https://support.catenda.com/nb/articles/5784718-3d-viser-innstillinger)
+    - [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser)
+    - [2D-viser-utseende](https://support.catenda.com/nb/articles/13615984-2d-viser-utseende)
+    - [Revisjonvelger](https://support.catenda.com/nb/articles/4670279-revisjonsvelger)
+    - [Punktskyer i Catenda](https://support.catenda.com/nb/articles/5606625-punktskyer-i-catenda-hub)
 - Catenda-programtillegg og integrasjoner
-  - Catenda - som et program
-    - [2D-viser - Catenda-nettsted](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site)
-    - [2D-viser bygninger og etasjer](https://support.catenda.com/nb/articles/10901703-2d-viser-bygninger-og-etasjer)
+    - Catenda - som et program
+        - [2D-viser - Catenda-nettsted](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site)
+        - [2D-viser bygninger og etasjer](https://support.catenda.com/nb/articles/10901703-2d-viser-bygninger-og-etasjer)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Feilsøking for Desktop Connector](https://support.catenda.com/nb/articles/11019637-feilsoking-av-desktop-connector)
 - [Feilsøking for innhold i egendefinerte felt](https://support.catenda.com/nb/articles/13750419-feilsoking-av-innhold-i-egendefinert-felt)
 - [Feilsøking for Solibri-dokumentintegrasjon](https://support.catenda.com/nb/articles/11431097-feilsoking-for-solibri-dokumentintegrasjon)
 - [Feilsøking for Solibri BCF Live Connector](https://support.catenda.com/nb/articles/14301642-solibri-bcf-live-connector-feilsoking)
 
-**Veiledninger og guides**
+_Veiledninger og guides_
 
 - [Guidde-videoer](https://support.catenda.com/nb/articles/11055278-guidde-videoer)
 
-**Brukstilfeller**
+_Brukstilfeller_
 
 - [Administrering av samkjøring i stor skala](https://support.catenda.com/nb/articles/13845605-administrering-av-clash-koordinering-i-stor-skala)
 - [Ukentlige samkjøringsrapporter](https://support.catenda.com/nb/articles/13847707-ukentlige-clash-rapporter)
 
-**Ofte stilte spørsmål**
+_Ofte stilte spørsmål_
 
 - Produktfunksjoner - OSS
-  - [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub)
+    - [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub)
 - Saker - OSS
-  - [2D-plassering av saker](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker)
+    - [2D-plassering av saker](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker)
 - [Maskinvareanbefalinger](https://support.catenda.com/nb/articles/6921941-maskinvareanbefalinger)
 - [Optimalisering av 3D-viser](https://support.catenda.com/nb/articles/13927321-3d-viser-optimalisering)
 - [Nettverksanbefalinger](https://support.catenda.com/nb/articles/13927294-nettverksanbefaling)
@@ -131,8 +131,8 @@ Nylige oppdateringer
 - [Anbefalinger for systemprogramvare](https://support.catenda.com/nb/articles/13927605-systemvarerekomendation)
 - [Produktfunksjoner - OSS](https://support.catenda.com/nb/articles/8263256-prosjektsikkerhet)
 - Kontoadministrasjon - OSS
-  - [Lagring og deling av filterlenke](https://support.catenda.com/nb/articles/11401493-lagring-og-deling-av-filterlenke)
-  - [Begrensning av filterresultater](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater)
+    - [Lagring og deling av filterlenke](https://support.catenda.com/nb/articles/11401493-lagring-og-deling-av-filterlenke)
+    - [Begrensning av filterresultater](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater)
 
 ## 2. **Nye videoer i avspillingslister**
 
@@ -175,7 +175,7 @@ Takk for verdifulle tilbakemeldinger har vi kunne eliminere mange saker som du k
 - **[Geolokalisering] Justering av etasje på 0 m høyde til kart**<br>Etasjer av modeller som er nøyaktig på 0 m høyde, vises nå riktig i rotasjonsmenyen for geolokaliskeringskonfigurasjonen i prosjektinnstillingene.
 - **[Snarveier] Panelsnarveien**
 
-  Panelsnarveier sjekker nå også nummeret som brukes i snarveikombinasjonen, som gjør det mulig for brukere med ulike tastaturoppsetninger å også bruke snarveigjengene selv om shift-tegnet er annerledes enn vanlig.
+    Panelsnarveier sjekker nå også nummeret som brukes i snarveikombinasjonen, som gjør det mulig for brukere med ulike tastaturoppsetninger å også bruke snarveigjengene selv om shift-tegnet er annerledes enn vanlig.
 
 ## 4. **Brukerønsker fullført**
 

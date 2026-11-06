@@ -1,4 +1,4 @@
-# Journal des modifications 5 Catenda - Avril 2024
+# Journal des modifications 5 Catenda - avril 2024
 
 Bonjour à tous,
 
