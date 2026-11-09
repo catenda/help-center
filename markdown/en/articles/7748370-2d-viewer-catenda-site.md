@@ -20,7 +20,7 @@ Both storeys from the different IFC models in the project and storeys from build
 
 ### 1.2 **2D viewer appearance**
 
-With [markers enabled](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) any topics that have a specified location on the story of a an IFC or a configured building are displayed. Tap a marker to select it. This is what a selected marker can look like on Catenda Site.
+With [markers enabled](https://support.catenda.com/en/articles/4854537-2d-viewer#h_fe3772d975) any topics that have a specified location on the story of a an IFC or a configured building are displayed. Tap a marker to select it. This is what a selected marker can look like on Catenda Site.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
@@ -34,7 +34,7 @@ When selected the topic number and title are displayed. Tap on the arrow to open
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. Zoom to extents of the storey - Get an overview b. [3D query](#h_8a2c752641) - Load a section of the 2D view in 3D c. 2D viewer [settings](#h_63e1728758)
+a. Zoom to extents of the storey - Get an overview b. 3D query - Load a section of the 2D view in 3D c. 2D viewer settings
 
 **3D query** If you get an error when loading 3D models it is often because your mobile device cannot handle all the data from one or more models.
 

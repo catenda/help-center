@@ -1,6 +1,6 @@
 # Catenda Archicad plugin
 
-> **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-integrations).
+> **Note:** The install file for the plugin can be found in [this article](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations).
 
 The Catenda Archicad plugin is a plugin that can be installed for Nemetchek Archicad. With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project.
 
@@ -36,7 +36,7 @@ When you open up the Catenda palette, the first thing you will see is the sign i
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-If you do not have a Catenda account you can Sign up for free on the top right. If you already have a Catenda account you can input your email and password and click on sign in. After signing in you will be asked to grant access to your Catenda account. After granting this access the Archicad plugin will show up as an application on the [applications page](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) of your Catenda account. Here you can always revoke the access should you no longer wish to grant it.
+If you do not have a Catenda account you can Sign up for free on the top right. If you already have a Catenda account you can input your email and password and click on sign in. After signing in you will be asked to grant access to your Catenda account. After granting this access the Archicad plugin will show up as an application on the [applications page](https://support.catenda.com/en/articles/6880968-account-page#h_fd54e5a82e) of your Catenda account. Here you can always revoke the access should you no longer wish to grant it.
 
 ### 3.1 **Password reset**
 

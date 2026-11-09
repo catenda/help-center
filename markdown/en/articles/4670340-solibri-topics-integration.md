@@ -40,4 +40,4 @@ Go to Solibri Extensions and select BCF connector
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qv33595h/06-intro.png)
 
-To optimize your workflow with the BCF server [See here](https://support.bimsync.com/hc/en-us/articles/360011987619)
+To optimize your workflow with the BCF server [See here](https://support.catenda.com/en/collections/5313241-nemetcheck-solibri-office)

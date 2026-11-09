@@ -1,6 +1,6 @@
 # Actions in the Catenda Revit Plugin
 
-> **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-integrations).
+> **Note:** The install file for the plugin can be found in [this article](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations).
 
 The actions [Catenda Revit Plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin) can be found towards the top right of the plugin window within the Revit application.
 
@@ -58,7 +58,7 @@ Click on Upload to upload an IFC A comment has to be added to be able to upload.
 
 ## 3. **3. Settings**
 
-The settings page allows you to change how the plugin will create 3D view when using the [Zoom function](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin#h_36392f671a).
+The settings page allows you to change how the plugin will create 3D view when using the [Zoom function](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin#h_d21bb53772).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
