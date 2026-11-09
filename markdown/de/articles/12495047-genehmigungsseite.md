@@ -57,13 +57,13 @@ Die Sichtbarkeit von Anfragen ist rollenbasiert: Projektmitglieder können nur A
 
 ### 4.1 **Aktionen für ausgewählte Elemente**
 
-> **Hinweis:** „Bericht erstellen
+> **Hinweis:** „Bericht erstellen“ ist die einzige Aktion für ausgewählte Elemente auf der Seite Freigaben. Das Menü für ausgewählte Elemente ist daher nur in Projekten sichtbar, in denen die Seite Berichte aktiviert ist.
 
 Wenn Sie eine oder mehrere Genehmigungsanfragen in der Genehmigungsliste auswählen, werden die Aktionen für ausgewählte Elemente oben in der Liste angezeigt. Das Kontrollkästchen oben wählt alle Genehmigungsanfragen auf einmal aus. So kann das Menü für Aktionen bei ausgewählten Elementen aussehen:
 
-![Das Menü für Aktionen bei ausgewählten Elementen auf der Genehmigungsseite mit einer ausgewählten Genehmigungsanfrage und „Bericht erstellen
+![Das Menü für ausgewählte Elemente auf der Seite Freigaben, mit einer ausgewählten Freigabeanfrage und „Bericht erstellen“](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Bericht erstellen** Erstellt einen Bericht der ausgewählten Genehmigungsanfragen basierend auf einer Genehmigungsvorlage. Weitere Informationen finden Sie unter [Aktion „Bericht erstellen
+**Bericht erstellen** Erstellt einen Bericht der ausgewählten Freigabeanfragen auf Grundlage einer Freigabevorlage. Weitere Informationen dazu finden Sie unter [Aktion „Bericht erstellen“](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Berichtseditor)_.
 
 ## 5. **Dokumentrevisionsliste**
 
@@ -74,31 +74,31 @@ Der zweite Reiter ermöglicht es Ihnen, einen Überblick über alle Dokumente zu
 Die Tabelle zeigt:
 
 1. der Revisionsname
-2. die Revisionsnummer
-3. der aktuelle Überprüfungsschritt
-4. der aktuelle Zustand des Schritts
-5. das Fälligkeitsdatum für die Überprüfung des Schritts
-6. die Teams, die das Dokument noch überprüfen müssen
-7. der Name der Genehmigungsanfrage
-8. der Absender (Einzelperson und Team)
-9. das Einreichungsdatum
+1. die Revisionsnummer
+1. der aktuelle Überprüfungsschritt
+1. der aktuelle Zustand des Schritts
+1. das Fälligkeitsdatum für die Überprüfung des Schritts
+1. die Teams, die das Dokument noch überprüfen müssen
+1. der Name der Genehmigungsanfrage
+1. der Absender (Einzelperson und Team)
+1. das Einreichungsdatum
 
 ### 5.1 Filterung
 
 Das linke Filterpanel ermöglicht es Ihnen auch, die Dokumente nach folgenden Kriterien zu filtern:
 
 1. Zuweisung: alle Teams oder Ihr Team spezifisch
-2. Dokumentzustand: Ausstehend, Unter Überprüfung, Abgeschlossen
-3. Fälligkeitsdatum: alle, bevorstehend, überfällig
+1. Dokumentzustand: Ausstehend, Unter Überprüfung, Abgeschlossen
+1. Fälligkeitsdatum: alle, bevorstehend, überfällig
 
 ### 5.2 Sortierung
 
 Abschließend können Sie nach folgenden Kriterien sortieren:
 
 1. Revisionsname
-2. Status
-3. Fälligkeitsdatum
-4. Einreichungsdatum
+1. Status
+1. Fälligkeitsdatum
+1. Einreichungsdatum
 
 ### 5.3 Suchen
 

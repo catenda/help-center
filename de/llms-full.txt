@@ -4812,7 +4812,7 @@ Klicken Sie [hier](https://support.catenda.com/de/articles/4670288-dokumenttabel
 
 ### 3.2 **Zeileninhalt**
 
-**Zugriff** Zeilen auf der Seite „Berichte
+**Zugriff** Zeilen auf der Berichtsseite werden basierend auf dem Zugriff auf das Element angezeigt. _Erforderlicher Zugriff:_ Lesen
 
 **Ordnerzeile** Wenn Sie den Inhalt einer Ordnerzeile öffnen, wird die Tabelle so geändert, dass der Inhalt dieses Ordners in der Berichtstabelle angezeigt wird.
 
@@ -4824,7 +4824,7 @@ Wenn Sie den Inhalt einer Berichtszeile mit nur Entwurfsrevisionen öffnen, wird
 
 ### 3.4 **Zeileninhalt mit Status-Workflow - Arbeitsbereich-Registerkarte**
 
-**Zugriff** Zeilen auf der Seite „Berichte
+**Zugriff** Zeilen auf der Berichtsseite werden basierend auf dem Zugriff auf das Element angezeigt. Mit Zugriff auf die Anzeige geteilter revisions wird die neueste revision angezeigt. _Erforderlicher Zugriff:_ Zugriff auf die Anzeige geteilter revisions im Bericht
 
 Ohne Zugriff zum Anzeigen gemeinsamer Revisionen wird die neueste veröffentlichte revision angezeigt. Auch wenn es neuere gemeinsame Revisionen gibt. _Erforderlicher Zugriff:_ Lesezugriff auf den Bericht
 
@@ -4832,7 +4832,7 @@ Ohne Zugriff zum Anzeigen gemeinsamer Revisionen wird die neueste veröffentlich
 
 ### 3.5 **Zeileninhalt mit Status-Workflow -** Registerkarte „Veröffentlicht“
 
-**Zugriff** Zeilen auf der Seite „Berichte
+**Zugriff** Zeilen auf der Berichtsseite werden basierend auf dem Zugriff auf das Element angezeigt. Berichtszeilen mit mindestens einer veröffentlichten revision werden angezeigt. _Erforderlicher Zugriff:_ Lesen
 
 **Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Registerkarte „Veröffentlicht“ öffnen, wird die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen) der letzten veröffentlichten Revision des Berichts geöffnet, selbst wenn es neuere freigegebene Revisionen gibt.
 
@@ -8015,9 +8015,9 @@ Heften Sie es an einen Meilenstein an oder lassen Sie es leer. Dies kann helfen,
 
 ### 2.8 Verantwortung
 
-**Zugewiesen** Hier können Sie das Thema einem bestimmten Mitglied oder einem Team zuweisen. Es wird empfohlen, ein Mitglied als Verantwortliche Person anstelle eines Teams festzulegen, da gemeinsame Verantwortung dazu führt, dass sich keines der Teammitglieder persönlich verantwortlich fühlt. Wenn Sie andere Teammitglieder trotzdem wissen lassen möchten, dass ihr Team verantwortlich ist, können Sie member@team festlegen. Wenn ein Mitglied als Verantwortliche Person festgelegt ist, folgt es dem Thema automatisch. Wenn ein Team als Verantwortliche Person festgelegt ist, folgen die Teammitglieder dem Thema nicht automatisch.
+**Zugewiesen** Hier können Sie das Thema einem bestimmten Mitglied oder einem Team zuweisen. Es wird empfohlen, ein Mitglied statt eines Teams als Verantwortlichen festzulegen, da eine geteilte Verantwortung dazu führt, dass sich kein Teammitglied persönlich verantwortlich fühlt. Wenn Sie andere Teammitglieder trotzdem darüber informieren möchten, dass ihr Team verantwortlich ist, können Sie member@team festlegen. Wird ein Mitglied als Verantwortlicher festgelegt, folgt es automatisch dem [Thema](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema#h_a97f3b264e). Wird ein Team als Verantwortlicher festgelegt, folgen die Teammitglieder dem Thema nicht automatisch [folgen](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema#h_a97f3b264e).
 
-**Angefordert von** Hier können Sie das Mitglied oder Team festlegen, das das Thema anfordert. Sie werden standardmäßig als Anforderer festgelegt, können aber hier jedes beliebige Mitglied auswählen. Wenn ein Mitglied als Anforderer festgelegt ist, folgt es dem Thema automatisch. Wenn ein Team als Anforderer festgelegt ist, folgen die Teammitglieder dem Thema nicht automatisch.
+**Angefordert von** Hier können Sie das Mitglied oder Team festlegen, das das Thema angefordert hat. Standardmäßig werden Sie als Anfordernder festgelegt, Sie können hier jedoch ein beliebiges Mitglied auswählen. Wird ein Mitglied als Anfordernder festgelegt, folgt es automatisch dem [Thema](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema#h_a97f3b264e). Wird ein Team als Anfordernder festgelegt, folgen die Teammitglieder dem Thema nicht automatisch [folgen](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema#h_a97f3b264e).
 
 ### 2.9 Etiketten
 
@@ -10609,13 +10609,13 @@ Die Sichtbarkeit von Anfragen ist rollenbasiert: Projektmitglieder können nur A
 
 ### 4.1 **Aktionen für ausgewählte Elemente**
 
-> **Hinweis:** „Bericht erstellen
+> **Hinweis:** „Bericht erstellen“ ist die einzige Aktion für ausgewählte Elemente auf der Seite Freigaben. Das Menü für ausgewählte Elemente ist daher nur in Projekten sichtbar, in denen die Seite Berichte aktiviert ist.
 
 Wenn Sie eine oder mehrere Genehmigungsanfragen in der Genehmigungsliste auswählen, werden die Aktionen für ausgewählte Elemente oben in der Liste angezeigt. Das Kontrollkästchen oben wählt alle Genehmigungsanfragen auf einmal aus. So kann das Menü für Aktionen bei ausgewählten Elementen aussehen:
 
-![Das Menü für Aktionen bei ausgewählten Elementen auf der Genehmigungsseite mit einer ausgewählten Genehmigungsanfrage und „Bericht erstellen
+![Das Menü für ausgewählte Elemente auf der Seite Freigaben, mit einer ausgewählten Freigabeanfrage und „Bericht erstellen“](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Bericht erstellen** Erstellt einen Bericht der ausgewählten Genehmigungsanfragen basierend auf einer Genehmigungsvorlage. Weitere Informationen finden Sie unter [Aktion „Bericht erstellen
+**Bericht erstellen** Erstellt einen Bericht der ausgewählten Freigabeanfragen auf Grundlage einer Freigabevorlage. Weitere Informationen dazu finden Sie unter [Aktion „Bericht erstellen“](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Berichtseditor)_.
 
 ## 5. **Dokumentrevisionsliste**
 
@@ -10626,31 +10626,31 @@ Der zweite Reiter ermöglicht es Ihnen, einen Überblick über alle Dokumente zu
 Die Tabelle zeigt:
 
 1. der Revisionsname
-2. die Revisionsnummer
-3. der aktuelle Überprüfungsschritt
-4. der aktuelle Zustand des Schritts
-5. das Fälligkeitsdatum für die Überprüfung des Schritts
-6. die Teams, die das Dokument noch überprüfen müssen
-7. der Name der Genehmigungsanfrage
-8. der Absender (Einzelperson und Team)
-9. das Einreichungsdatum
+1. die Revisionsnummer
+1. der aktuelle Überprüfungsschritt
+1. der aktuelle Zustand des Schritts
+1. das Fälligkeitsdatum für die Überprüfung des Schritts
+1. die Teams, die das Dokument noch überprüfen müssen
+1. der Name der Genehmigungsanfrage
+1. der Absender (Einzelperson und Team)
+1. das Einreichungsdatum
 
 ### 5.1 Filterung
 
 Das linke Filterpanel ermöglicht es Ihnen auch, die Dokumente nach folgenden Kriterien zu filtern:
 
 1. Zuweisung: alle Teams oder Ihr Team spezifisch
-2. Dokumentzustand: Ausstehend, Unter Überprüfung, Abgeschlossen
-3. Fälligkeitsdatum: alle, bevorstehend, überfällig
+1. Dokumentzustand: Ausstehend, Unter Überprüfung, Abgeschlossen
+1. Fälligkeitsdatum: alle, bevorstehend, überfällig
 
 ### 5.2 Sortierung
 
 Abschließend können Sie nach folgenden Kriterien sortieren:
 
 1. Revisionsname
-2. Status
-3. Fälligkeitsdatum
-4. Einreichungsdatum
+1. Status
+1. Fälligkeitsdatum
+1. Einreichungsdatum
 
 ### 5.3 Suchen
 
@@ -11001,7 +11001,7 @@ Ein Dialog wird geöffnet und fragt Sie nach der hochgeladenen PDF-Datei.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/10-storey-configuration.png)
 
-Wenn Sie die gewünschte PDF ausgewählt haben, klicken Sie auf „Dieses Dokument hinzufügen.
+Wenn Sie das gewünschte PDF ausgewählt haben, klicken Sie auf „Dieses Dokument hinzufügen“. Dadurch gelangen Sie zum Ausrichtungsdialog.
 
 ## 4. **Ausrichtungsdialog**
 
@@ -14450,20 +14450,16 @@ Die Dokumentseite kann etwa so aussehen:
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
 1. Das [Dokumentbanner](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) erstreckt sich über die gesamte Breite der Dokumentseite
-1. Sie finden den Dokumentkopf unter dem Dokumentbanner und über der Dokumentvorschau.
-1. Unter dem Dokumentkopf finden Sie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen).
-1. Links neben dem Dokumentkopf und der Vorschau finden Sie die Dokumentliste
-1. _Dieser Artikel:_ Rechts neben dem Dokumentkopf und der Vorschau finden Sie das rechte Informationsmenü.
+2. Sie finden den Dokumentkopf unter dem Dokumentbanner und über der Dokumentvorschau.
+3. Unter dem Dokumentkopf finden Sie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen).
+4. Links neben dem Dokumentkopf und der Vorschau finden Sie die Dokumentliste
+5. _Dieser Artikel:_ Rechts neben dem Dokumentkopf und der Vorschau finden Sie das rechte Informationsmenü.
 
 Wenn Sie ein Dokument zum ersten Mal öffnen, kann sein rechtes Menü geschlossen sein. Sie können auf die Informationsschaltfläche unten rechts im [Dokumentbanner](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) klicken, um dieses Menü zu erweitern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/02-intro.png)
 
 Hier sehen Sie die folgenden Menüs:
-
-Die folgenden Themen werden in diesem Artikel beschrieben:
-
-,
 
 ## 1. **Registerkarten "Dateiinfo" und "Markups"**
 
@@ -16136,7 +16132,7 @@ Abgeschlossene Sammlungen sind für die Bearbeitung gesperrt. Abgeschlossene Sam
 
 Tabellenaktionen befinden sich oben rechts der Sammlungstabelle
 
-**Kollektion herunterladen** Klicken Sie auf „Kollektion herunterladen
+**Sammlung herunterladen** Klicken Sie auf „Sammlung herunterladen“, um eine ZIP-Datei mit allen Dokumenten in der Sammlung herunterzuladen. Die Namen der Dateien in der ZIP-Datei können durch die [Option „Dokument-Download-Titel“](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern.
 
 **Dokumente hinzufügen** Klicken Sie auf [Dokumente hinzufügen](https://support.catenda.com/de/articles/6344318-sammlungsseite#h_b94d108342), um Dokumente zu Ihrer Sammlung hinzuzufügen. Wenn Ihr Dokument als mit einem Virus infiziert befunden wurde, können Sie es nicht zur Sammlung hinzufügen.
 
@@ -19885,7 +19881,7 @@ Wählen Sie in der Spalte "Quelle" der Naming Convention eines der benutzerdefin
 
 ![Wählen Sie die zuvor erstellten benutzerdefinierten Felder im Quellenabschnitt bei der Bearbeitung eines benutzerdefinierten Feldes](https://raw.githubusercontent.com/catenda/help-center/main/images/s9hns6p2/03-select-a-pre-existing-custom-field-as-source.png)
 
-Es wird empfohlen, nur benutzerdefinierte Felder im Abschnitt „**Quelle**
+Es wird empfohlen, im Abschnitt "**Source**" nur benutzerdefinierte Felder zu verwenden. In diesem Beispiel sind alle diese benutzerdefinierten Felder vom Typ "**Dropdown-Liste**" oder für den Block "**Version**" vom Typ "**Integer**"
 
 ![Verwenden Sie nur benutzerdefinierte Felder im Quellenabschnitt](https://raw.githubusercontent.com/catenda/help-center/main/images/s9hns6p2/04-select-a-pre-existing-custom-field-as-source.png)
 

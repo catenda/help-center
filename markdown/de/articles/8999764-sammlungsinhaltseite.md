@@ -62,7 +62,7 @@ Abgeschlossene Sammlungen sind für die Bearbeitung gesperrt. Abgeschlossene Sam
 
 Tabellenaktionen befinden sich oben rechts der Sammlungstabelle
 
-**Kollektion herunterladen** Klicken Sie auf „Kollektion herunterladen
+**Sammlung herunterladen** Klicken Sie auf „Sammlung herunterladen“, um eine ZIP-Datei mit allen Dokumenten in der Sammlung herunterzuladen. Die Namen der Dateien in der ZIP-Datei können durch die [Option „Dokument-Download-Titel“](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern.
 
 **Dokumente hinzufügen** Klicken Sie auf [Dokumente hinzufügen](https://support.catenda.com/de/articles/6344318-sammlungsseite#h_b94d108342), um Dokumente zu Ihrer Sammlung hinzuzufügen. Wenn Ihr Dokument als mit einem Virus infiziert befunden wurde, können Sie es nicht zur Sammlung hinzufügen.
 

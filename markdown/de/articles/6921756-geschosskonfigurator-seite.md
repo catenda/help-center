@@ -66,7 +66,7 @@ Ein Dialog wird geöffnet und fragt Sie nach der hochgeladenen PDF-Datei.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/10-storey-configuration.png)
 
-Wenn Sie die gewünschte PDF ausgewählt haben, klicken Sie auf „Dieses Dokument hinzufügen.
+Wenn Sie das gewünschte PDF ausgewählt haben, klicken Sie auf „Dieses Dokument hinzufügen“. Dadurch gelangen Sie zum Ausrichtungsdialog.
 
 ## 4. **Ausrichtungsdialog**
 

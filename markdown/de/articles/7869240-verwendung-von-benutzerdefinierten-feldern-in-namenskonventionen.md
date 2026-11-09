@@ -22,7 +22,7 @@ Wählen Sie in der Spalte "Quelle" der Naming Convention eines der benutzerdefin
 
 ![Wählen Sie die zuvor erstellten benutzerdefinierten Felder im Quellenabschnitt bei der Bearbeitung eines benutzerdefinierten Feldes](https://raw.githubusercontent.com/catenda/help-center/main/images/s9hns6p2/03-select-a-pre-existing-custom-field-as-source.png)
 
-Es wird empfohlen, nur benutzerdefinierte Felder im Abschnitt „**Quelle**
+Es wird empfohlen, im Abschnitt "**Source**" nur benutzerdefinierte Felder zu verwenden. In diesem Beispiel sind alle diese benutzerdefinierten Felder vom Typ "**Dropdown-Liste**" oder für den Block "**Version**" vom Typ "**Integer**"
 
 ![Verwenden Sie nur benutzerdefinierte Felder im Quellenabschnitt](https://raw.githubusercontent.com/catenda/help-center/main/images/s9hns6p2/04-select-a-pre-existing-custom-field-as-source.png)
 
