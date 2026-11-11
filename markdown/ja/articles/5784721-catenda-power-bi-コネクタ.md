@@ -24,7 +24,7 @@ PowerBIからCatenda HUBデータベースへの接続を作成するには、�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/01-get-data-and-connect.png)
 
-「その他」の下のターゲットソースを選択し、「Catenda」を選択します。「_接続_」を使用してデータベースへの接続を確立します。Catendaへのサインインおよびサインインが失敗した場合の対処方法については、[Power BIからCatendaにサインイン](https://support.catenda.com/en/articles/17778878-sign-in-to-catenda-from-power-bi)を参照してください。
+「その他」の下のターゲットソースを選択し、「Catenda」を選択します。「_接続_」を使用してデータベースへの接続を確立します。Catendaへのサインインおよびサインインが失敗した場合の対処方法については、[Power BIからCatendaにサインイン](https://support.catenda.com/ja/articles/17778878-catenda-から-power-bi-にサインインする)を参照してください。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/02-get-data-and-connect.png)
 

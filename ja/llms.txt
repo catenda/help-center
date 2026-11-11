@@ -92,6 +92,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [Catenda SharePoint アプリケーション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396496-catenda-sharepoint-アプリケーション.md)
 - [Catenda Siteのオフラインモード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7325268-catenda-siteのオフラインモード.md)
 - [Catenda Tekla プラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6549656-catenda-tekla-プラグイン.md): Catenda Hub と Tekla を接続
+- [Catenda から Power BI にサインインする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778878-8jvrzkes.md): Catenda コネクタが Power BI から Catenda にサインインする方法と、サインインが失敗または期限切れになった場合の対処方法。
 - [Catenda の PDF 上の QR コード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9360508-catenda-の-pdf-上の-qr-コード.md)
 - [Catenda アーカイビング ポータルについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778812-p8xcwvy0.md): Catenda アーカイビング ポータルを使用すると、Catenda Hub から組織のアーカイブ システムに選択したドキュメントとトピックを転送できます。
 - [Catenda プラグイン & 統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396532-catendaプラグインと連携.md): Catenda をお気に入りのツールに接続
