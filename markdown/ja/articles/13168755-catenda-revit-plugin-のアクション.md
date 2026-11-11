@@ -1,6 +1,6 @@
 # Catenda Revit Plugin のアクション
 
-> **注意:** プラグインのインストールファイルは [この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合) で確認できます。
+> **注:** プラグインのインストールファイルは、[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)で確認できます。
 
 [Catenda Revit Plugin](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン) のアクションは、Revit アプリケーション内のプラグイン ウィンドウの右上に表示されます。
 
@@ -58,7 +58,7 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 ## 3. **3. 設定**
 
-設定ページでは、[ズーム機能](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン#h_36392f671a) を使用する際に、プラグインが 3D ビューをどのように作成するかを変更できます。
+設定ページでは、[ズーム機能](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン#h_d21bb53772)を使用する際に、プラグインが3Dビューを作成する方法を変更できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
@@ -68,11 +68,11 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 ### 3.2 **3.2 ナビゲーション**
 
-**3D ビューを正投影で保つ** このオプションは、対応するビューポイントが透視図で作成されている場合でも、Revit 3D ビューを正投影に強制します。
+**3D ビューを正投影で保つ**このオプションは、対応するビューポイントが透視図で作成されている場合でも、Revit 3D ビューを正投影に強制します。
 
-**トピックごとに新しいビューを作成** ズーム機能を使用するたびに同じ 3D ビューを再利用する代わりに、このオプションはズーム機能を使用するたびにトピックごとに新しい 3D ビューを作成します。
+**トピックごとに新しいビューを作成**ズーム機能を使用するたびに同じ 3D ビューを再利用する代わりに、このオプションはズーム機能を使用するたびにトピックごとに新しい 3D ビューを作成します。
 
-**3D ビュー名サフィックス** このテキストは、ズーム機能を使用して作成された 3D ビューの名前に追加されます。
+**3D ビュー名サフィックス**このテキストは、ズーム機能を使用して作成された 3D ビューの名前に追加されます。
 
 ### 3.3 **3.4 ビューポイント変換**
 
@@ -84,7 +84,7 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 **3.4.3 Z (Elev)** Z 方向の変換。正の値または負の値に応じた標高。単位: メートル
 
-**3.4.4 角度** 回転変換。正の値または負の値に応じた標高。単位: 度。カメラは同じ高さに留まり、モデル内のポイント周辺でカメラが回転します。
+**3.4.4 角度**回転変換。正の値または負の値に応じた標高。単位: 度。カメラは同じ高さに留まり、モデル内のポイント周辺でカメラが回転します。
 
 ## 4. **4. アカウント**
 

@@ -1,6 +1,6 @@
 # Application Catenda SharePoint
 
-> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-plugins-et-integrations-catenda).
+> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda).
 
 Si l'application Catenda SharePoint est ajoutée à un site SharePoint, les fichiers peuvent être publiés de SharePoint vers Catenda et la structure des documents Catenda peut être affichée dans SharePoint. Une fois configurée, l'application peut ressembler à ceci : <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Cet article contient des informations sur le fonctionnement de cette application Voir [ici](https://support.catenda.com/fr/articles/9419678-faq-catenda-sharepoint) pour plus d'informations sur la façon dont cette application peut être utile. Voir [ici](https://support.catenda.com/fr/articles/9453368-ajout-et-suppression-de-l-application-catendasp) pour savoir comment ajouter l'application SharePoint à un site.
 
@@ -32,7 +32,7 @@ Après avoir cliqué sur Publier vers Catenda, le menu suivant s'ouvre et peut r
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/04-publishing-the-file.png)
 
-Si vous n'avez pas accordé l'accès à SharePoint à votre compte Catenda, il vous sera demandé de l'autoriser. [Voir ci-dessous](#h_788fe15988) pour savoir comment autoriser votre compte.
+Si vous n'avez pas donné accès à SharePoint à votre compte Catenda, vous serez invité à l'autoriser. [Voir ci-dessous](#authorizing-your-catenda-account) pour savoir comment autoriser votre compte.
 
 **Sélection d'un dossier** Si vous avez accordé l'accès à votre compte Catenda, vous pouvez sélectionner le projet, la bibliothèque et le dossier de destination sur Catenda, puis publier.
 
@@ -74,4 +74,4 @@ En autorisant l'application à accéder à votre compte, vous pourrez publier de
 
 > **Remarque :** Catenda n'aura pas accès à vos documents SharePoint. Si vous publiez un document vers Catenda, Catenda le reçoit en une transaction unidirectionnelle.
 
-Si vous ne souhaitez plus donner à l'application l'accès à votre compte Catenda, vous pouvez toujours révoquer l'accès sur la [page des applications](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_40e031c49a) de votre compte Catenda.
+Si vous ne souhaitez plus donner à l'application accès à votre compte Catenda, vous pouvez toujours révoquer cet accès dans la [page des applications](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_fd54e5a82e) de votre compte Catenda.

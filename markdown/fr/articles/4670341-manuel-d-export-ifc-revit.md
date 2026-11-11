@@ -148,7 +148,7 @@ Voici à quoi peut ressembler le paramètre dans les propriétés
 
 ![Propriétés numéro OmniClass](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
 
-Si vous avez exporté votre ifc avec une classification et l'avez importé en tant que modèle dans Catenda, vous verrez sa classification suggérée comme une [bibliothèque suggérée](https://support.catenda.com/fr/articles/8065645-page-bibliotheques#h_c03d50a9ca) lors de la création d'une nouvelle bibliothèque sur la [page des bibliothèques](https://support.catenda.com/fr/articles/8065645-page-bibliotheques). Si une valeur dans la propriété que vous avez spécifiée correspond à une valeur dans la documentation fournie, elle sera trouvée et pourra être utilisée pour sélectionner les objets avec cette valeur via la bibliothèque de classification que vous avez créée.
+Si vous avez exporté votre IFC avec une classification et l'avez importé comme model dans Catenda, vous verrez sa classification proposée comme [bibliothèque suggérée](https://support.catenda.com/fr/articles/8065645-page-bibliotheques#h_04fc07e763) lors de la création d'une nouvelle bibliothèque sur la [page bibliothèques](https://support.catenda.com/fr/articles/8065645-page-bibliotheques). Si une valeur de la propriété que vous avez spécifiée correspond à une valeur de la documentation fournie, elle sera trouvée et pourra être utilisée pour sélectionner des objets portant cette valeur via la bibliothèque de classification que vous avez créée.
 
 ---
 

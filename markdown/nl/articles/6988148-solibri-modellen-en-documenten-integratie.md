@@ -24,14 +24,14 @@ Klik op Openen om Documenten of modellen die u in Catenda Hub kunt openen, te im
 
 Na het klikken op Openen wordt uw standaardbrowser geopend.
 
-- [Annuleer uw browsersessie](#h_e921d649ed) als u dit proces wilt annuleren en met Solibri wilt blijven werken
-- Indien u dit nog niet hebt gedaan, [verleen toegang tot uw account](#h_55ca1d4d10).
-- Selecteer een project op de [projectenpagina](#h_343870704c) als u nog geen project hebt geselecteerd.
-- Na het selecteren van een project, of als u eerder al een project hebt geselecteerd, kunt u de [documentenpagina](#h_b7ac757915) (_standaard_) of de [modellepagina](#h_617a3f8bf6) selecteren.
+- [Annuleer uw browsersessie](#cancel-browser-session) als u dit proces wilt annuleren en wilt doorgaan met werken in Solibri
+- Als u dit nog niet heeft gedaan, [geef toegang tot uw account](#granting-access-to-your-catenda-account).
+- Als u nog geen project heeft geselecteerd, selecteer dan een project op de [projectenpagina](#solibri-document-integration-projects-page).
+- Nadat u een project heeft geselecteerd, of als u eerder al een project heeft geselecteerd, kunt u de [documentenpagina](#solibri-document-integration-documents-page) (_standaard_) of de [modelpagina](#solibri-document-integration-models-page) selecteren.
 
 ## 3. **Solibri-sessie exporteren naar Catenda**
 
-U moet [uw Catenda-account hebben verbonden](#h_457cbf4e9d) en ten minste één bestand in uw Solibri-sessie hebben om de knop Model uploaden beschikbaar te maken. Klik op Model uploaden om uw Solibri-sessie te exporteren als onderdeel van uw Catenda-project waartoe u toegang hebt.
+Om de knop Upload model beschikbaar te maken, moet u uw Catenda-account [hebben verbonden](#connecting) en ten minste één bestand in uw Solibri-sessie hebben. Klik op Upload model om uw Solibri-sessie te exporteren naar een deel van uw Catenda-project waartoe u toegang heeft.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/05-exporting-solibri-session-to-catenda.png)
 
@@ -43,10 +43,10 @@ Het .smc-bestand dat is opgeslagen, kan nu als nieuwe revisie naar Catenda worde
 
 Na het klikken op Model uploaden wordt uw standaardbrowser geopend.
 
-- [Annuleer uw browsersessie](#h_e921d649ed) als u dit proces wilt annuleren en met Solibri wilt blijven werken
-- Indien u dit nog niet hebt gedaan, [verleen toegang tot uw account](#h_55ca1d4d10).
-- Selecteer een project op de [projectenpagina](#h_343870704c) als u nog geen project hebt geselecteerd.
-- Na het selecteren van een project, of als u eerder al een project hebt geselecteerd, wordt u weergegeven met de [documentenpagina](#h_b7ac757915).
+- [Annuleer uw browsersessie](#cancel-browser-session) als u dit proces wilt annuleren en wilt doorgaan met werken in Solibri
+- Als u dit nog niet heeft gedaan, [geef toegang tot uw account](#granting-access-to-your-catenda-account).
+- Als u nog geen project heeft geselecteerd, selecteer dan een project op de [projectenpagina](#solibri-document-integration-projects-page).
+- Nadat u een project heeft geselecteerd, of als u eerder al een project heeft geselecteerd, wordt de [documentenpagina](#solibri-document-integration-documents-page) weergegeven.
 
 ## 4. **Solibri-documentintegratie -** Projectenpagina
 

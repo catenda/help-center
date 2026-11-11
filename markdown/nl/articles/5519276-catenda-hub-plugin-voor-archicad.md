@@ -1,6 +1,6 @@
 # Catenda Archicad-plugin
 
-> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
+> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
 
 De Catenda Archicad-plugin is een plugin die kan worden geïnstalleerd voor Nemetschek Archicad. Met deze plugin kunt u samenwerken aan 3D-gezichtspunten, Topics en Documenten met andere Leden van het bouwproject.
 
@@ -36,7 +36,7 @@ Wanneer u de Catenda-palette opent, ziet u eerst de aanmeldingspagina. De aanmel
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-Als u geen Catenda-account hebt, kunt u zich gratis registreren in de rechterbovenhoek. Als u al een Catenda-account hebt, kunt u uw e-mailadres en wachtwoord invoeren en op aanmelden klikken. Na aanmelding wordt u gevraagd om toegang tot uw Catenda-account toe te kennen. Nadat u deze toegang hebt verleend, wordt de Archicad-plugin als toepassing weergegeven op de [applicatiespagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_40e031c49a) van uw Catenda-account. Hier kunt u de toegang altijd intrekken als u deze niet langer wilt verlenen.
+Als je geen Catenda-account hebt, kun je rechtsboven gratis een account registreren. Als je al een Catenda-account hebt, voer je je e-mailadres en wachtwoord in en klik je op Aanmelden. Na het aanmelden wordt je gevraagd om toegang te verlenen tot je Catenda-account. Nadat je deze toegang hebt verleend, verschijnt de Archicad-plugin als applicatie op de [applicatiepagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_fd54e5a82e) van je Catenda-account. Hier kun je de toegang altijd intrekken als je deze niet langer wilt verlenen.
 
 ### 3.1 **Wachtwoord opnieuw instellen**
 

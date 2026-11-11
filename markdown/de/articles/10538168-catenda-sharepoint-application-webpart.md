@@ -16,7 +16,7 @@ Wenn Sie Ihr Catenda-Konto noch nicht autorisiert haben, sieht das Webpart so au
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Wenn Sie eine Seite mit aktiviertem Catenda-Webpart öffnen und Ihr Konto noch nicht autorisiert haben, werden Sie aufgefordert, dies zu tun. Weitere Informationen zum Autorisieren Ihres Kontos finden Sie [hier](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-anwendung#h_788fe15988).
+Wenn Sie eine Seite mit aktiviertem Catenda-Webpart öffnen und Ihr Konto noch nicht autorisiert haben, werden Sie aufgefordert, dies zu tun. Weitere Informationen zur Autorisierung Ihres Kontos finden Sie [hier](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-anwendung#h_a607ff9d09).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 

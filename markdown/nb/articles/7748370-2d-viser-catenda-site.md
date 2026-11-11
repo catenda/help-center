@@ -20,7 +20,7 @@ Både etasjer fra ulike IFC-modeller i prosjektet og etasjer fra bygninger som e
 
 ### 1.2 **2D viser utseende**
 
-Med [markører aktivert](https://support.catenda.com/nb/articles/4854537-2d-viser#h_381a9d4098) vises alle saker som har en angitt plassering på etasjen i en IFC eller en konfigurert bygning. Trykk på en markør for å velge den. Slik kan en valgt markør se ut på Catenda Site.
+Med [aktiverte markører](https://support.catenda.com/nb/articles/4854537-2d-viser#h_fe3772d975) vises alle saker som har en angitt plassering på etasjen i en IFC-modell eller en konfigurert bygning. Trykk på en markør for å velge den. Slik kan en valgt markør se ut i Catenda Site.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
@@ -34,7 +34,7 @@ Når den er valgt, vises saksnummeret og tittelen. Trykk på pilen for å åpne 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. Zoom til utstrekningen av etasjen - Få en oversikt b. [3D-spørring](#h_8a2c752641) - Last inn en del av 2D-visningen i 3D c. 2D viser [innstillinger](#h_63e1728758)
+a. Zoom til utstrekning av etasjen - Få en oversikt b. 3D-spørring - Last inn en del av 2D-visningen i 3D c. 2D-viser-innstillinger
 
 **3D-spørring** Hvis du får en feil når du laster inn 3D-modeller, er det ofte fordi mobilenheten din ikke kan håndtere alle dataene fra en eller flere modeller.
 

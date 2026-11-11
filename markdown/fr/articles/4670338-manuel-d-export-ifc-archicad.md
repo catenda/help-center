@@ -44,7 +44,7 @@ La boîte de traducteurs IFC vous permet de consulter ou de modifier les paramè
 
 ## 3. **3. Différents paramètres de l'exportation**
 
-3.1 [Filtre de modèle](#h_138e653078) vous permet de filtrer ce que vous souhaitez exporter par différents paramètres prédéfinis. 3.2 [Mappage de type](#h_a34c1332a3) vous permet de choisir quel type d'IFC chaque élément est exporté. 3.3 [Conversion de géométrie](#h_db084b5d6b) vous permet de choisir quel type de géométrie vous souhaitez exporter. 3.4 [Mappage des propriétés](#h_d48644eb35) vous permet de définir des critères basés sur les types. 3.5 [Conversion de données](#h_7f1df4ecb9) vous permet de choisir quel type de données vous souhaitez exporter du modèle. 3.6 [Conversion d'unités](#h_36caead1cd) vous permet de choisir les unités de mesure que vous souhaitez exporter dans votre IFC.
+3.1 [Filtre model](#4-model-filter) vous permet de filtrer ce que vous souhaitez exporter selon différents préréglages. 3.2 [Mappage de types](#5-type-mapping) vous permet de choisir le type IFC sous lequel chaque élément est exporté. 3.3 [Conversion de géométrie](#6-geometry-conversion) vous permet de choisir le type de géométrie que vous souhaitez exporter. 3.4 [Mappage des propriétés](#10-property-mapping) vous permet de définir des critères basés sur les types. 3.5 [Conversion des données](#11-data-conversion) vous permet de choisir le type de données que vous souhaitez exporter depuis le model. 3.6 [Conversion d'unités](#12-unit-conversion) vous permet de choisir les unités de mesure que vous souhaitez exporter dans votre IFC.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 

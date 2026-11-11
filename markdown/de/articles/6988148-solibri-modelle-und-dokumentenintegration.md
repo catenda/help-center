@@ -24,14 +24,14 @@ Klicken Sie auf "Open", um Dokumente oder Modelle zu importieren, auf die Sie in
 
 Nach dem Klicken auf "Open" wird Ihr Standard-Browser geöffnet.
 
-- [Brechen Sie Ihre Browsersitzung ab](#h_e921d649ed), wenn Sie diesen Vorgang abbrechen und weiterhin mit Solibri arbeiten möchten.
-- Wenn Sie dies noch nicht getan haben, [gewähren Sie Zugriff auf Ihr Konto](#h_55ca1d4d10).
-- Wenn Sie noch kein Projekt ausgewählt haben, wählen Sie ein Projekt auf der [Projektseite](#h_343870704c).
-- Nach Auswahl eines Projekts oder wenn Sie bereits ein Projekt ausgewählt haben, können Sie die [Dokumentseite](#h_b7ac757915) (_Standard_) oder die [Modellseite](#h_617a3f8bf6) wählen.
+- [Browsersitzung abbrechen](#cancel-browser-session), wenn Sie diesen Vorgang abbrechen und mit Solibri weiterarbeiten möchten
+- Falls noch nicht geschehen, [gewähren Sie Zugriff auf Ihr Konto](#granting-access-to-your-catenda-account).
+- Falls noch nicht geschehen, wählen Sie ein Projekt auf der [Projektseite](#solibri-document-integration-projects-page) aus.
+- Nachdem Sie ein Projekt ausgewählt haben oder wenn Sie zuvor bereits ein Projekt ausgewählt haben, können Sie die [Dokumentseite](#solibri-document-integration-documents-page) (_Standard_) oder die [model-Seite](#solibri-document-integration-models-page) auswählen.
 
 ## 3. **Solibri-Sitzung zu Catenda exportieren**
 
-Damit die Schaltfläche "Modell hochladen" verfügbar wird, müssen Sie [Ihr Catenda-Konto verbunden](#h_457cbf4e9d) haben und mindestens eine Datei in Ihrer Solibri-Sitzung vorhanden sein. Klicken Sie auf "Modell hochladen", um Ihre Solibri-Sitzung als Teil Ihres Catenda-Projekts zu exportieren, auf das Sie Zugriff haben.
+Damit die Schaltfläche Upload model verfügbar wird, müssen Sie Ihr [Catenda-Konto verbunden](#connecting) haben und mindestens eine Datei in Ihrer Solibri-Sitzung geöffnet haben. Klicken Sie auf Upload model, um Ihre Solibri-Sitzung als Teil eines Catenda-Projekts, auf das Sie Zugriff haben, zu exportieren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/05-exporting-solibri-session-to-catenda.png)
 
@@ -43,10 +43,10 @@ Die gespeicherte .smc-Datei kann nun als neue Revision zu Catenda exportiert und
 
 Nach dem Klicken auf "Modell hochladen" wird Ihr Standard-Browser geöffnet.
 
-- [Brechen Sie Ihre Browsersitzung ab](#h_e921d649ed), wenn Sie diesen Vorgang abbrechen und weiterhin mit Solibri arbeiten möchten.
-- Wenn Sie dies noch nicht getan haben, [gewähren Sie Zugriff auf Ihr Konto](#h_55ca1d4d10).
-- Wenn Sie noch kein Projekt ausgewählt haben, wählen Sie ein Projekt auf der [Projektseite](#h_343870704c).
-- Nach Auswahl eines Projekts oder wenn Sie bereits ein Projekt ausgewählt haben, wird Ihnen die [Dokumentseite](#h_b7ac757915) angezeigt.
+- [Browsersitzung abbrechen](#cancel-browser-session), wenn Sie diesen Vorgang abbrechen und mit Solibri weiterarbeiten möchten
+- Falls noch nicht geschehen, [gewähren Sie Zugriff auf Ihr Konto](#granting-access-to-your-catenda-account).
+- Falls noch nicht geschehen, wählen Sie ein Projekt auf der [Projektseite](#solibri-document-integration-projects-page) aus.
+- Nachdem Sie ein Projekt ausgewählt haben oder wenn Sie zuvor bereits ein Projekt ausgewählt haben, werden Sie zur [Dokumentseite](#solibri-document-integration-documents-page) weitergeleitet.
 
 ## 4. **Solibri-Dokumentenintegration -** Projektseite
 

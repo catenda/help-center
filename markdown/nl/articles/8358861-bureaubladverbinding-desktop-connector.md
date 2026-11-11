@@ -56,7 +56,7 @@ Zoek Desktop Connector in de lijst en klik op het actiemenu aan de rechterkant o
 
 ## 4. **Inloggen**
 
-Wanneer de Desktop Connector voor het eerst wordt geopend, wordt een inloggingsverzoek weergegeven. Klik op de knop Inloggen om de standaardbrowser op het systeem op de inlogpagina van Catenda te openen. Nadat u zich hebt aangemeld of als u al bent aangemeld, klikt u op Toegang toestaan om toegang te verlenen tot het Catenda-account dat is aangemeld. Nadat u op Toegang toestaan hebt geklikt, vraagt de browser de gebruiker om de Desktop Connector-toepassing te openen. Het geven van toestemming voor het openen van de toepassing leidt terug naar de [startpagina](#h_097078145d) van de Desktop Connector.
+Wanneer de Desktop Connector voor het eerst wordt geopend, verschijnt een aanmeldingsverzoek. Klik op de knop Aanmelden om de standaardbrowser van het systeem te openen op de aanmeldingspagina van Catenda. Klik na het inloggen, of als u al bent ingelogd, op Toegang verlenen om toegang te verlenen tot het ingelogde Catenda-account. Nadat u op Toegang verlenen hebt geklikt, vraagt de browser de gebruiker om de Desktop Connector-toepassing te openen. Door toestemming te geven om de toepassing te openen, keert u terug naar de [startpagina](#home-page) van de Desktop Connector.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
@@ -120,7 +120,7 @@ De taak moet ten minste één dag geselecteerd hebben om te worden opgeslagen
 
 ### 7.3 **Projectlocatie**
 
-**Server** Klik op bladeren om de bestemming op de pagina Documenten in Catenda Hub te selecteren waar bestanden naartoe moeten worden gesynchroniseerd. Klik [hier](#h_4446f1b663) voor meer informatie over het selecteren van het mappad op de server
+**Server** Klik op Bladeren om de bestemming te selecteren op de pagina Documenten in Catenda Hub waarnaar bestanden gesynchroniseerd moeten worden. Klik [hier](#server-location) voor meer informatie over het selecteren van het pad naar de serverdirectory
 
 **Lokaal** Selecteer de locatie op het lokale systeem van waaruit bestanden moeten worden gesynchroniseerd.
 
@@ -144,7 +144,7 @@ De taak moet ten minste één dag geselecteerd hebben om te worden opgeslagen
 
 ### 8.3 **Projectlocatie**
 
-**Server** Selecteer de locatie op Catenda Hub van waaruit Documenten moeten worden gedownload. Klik [hier](#h_4446f1b663) voor meer informatie over het selecteren van het mappad op de server
+**Server** Selecteer de locatie op Catenda Hub waarvandaan documenten gedownload moeten worden. Klik [hier](#server-location) voor meer informatie over het selecteren van het pad naar de serverdirectory
 
 **Lokaal** Selecteer de bestemming op het lokale systeem waar bestanden naartoe moeten worden gedownload.
 
@@ -154,7 +154,7 @@ Een taak hoeft niet te worden opgeslagen om te beginnen met downloaden. Klik op 
 
 ### 8.5 Knop Terug
 
-Klik op de pijlknop om terug te gaan naar de [startpagina](#h_097078145d)
+Klik op de pijlknop om terug te gaan naar de [startpagina](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -216,7 +216,7 @@ De Status van deze taak.
 
 ### 10.5 **Knop Terug**
 
-Klik op deze knop om terug te gaan naar de [startpagina](#h_097078145d)
+Klik op deze knop om terug te gaan naar de [startpagina](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 

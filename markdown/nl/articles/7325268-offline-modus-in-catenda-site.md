@@ -49,22 +49,28 @@ Wanneer de verbinding met het netwerk is hersteld, worden deze onderwerpen niet 
 De volgende informatie kan aan een nieuw onderwerp worden toegevoegd dat zonder verbinding met het netwerk is gemaakt:
 
 - Een titel kan worden toegevoegd
-- Een onderwerpenbord kan voor het onderwerp worden geselecteerd
-- Status/type kan worden gewijzigd
-- Een mijlpaal kan worden toegevoegd
-- Labels kunnen worden toegevoegd
-- Een beschrijving kan worden geschreven
-- Opmerkingen kunnen worden toegevoegd.
-    - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
 
-        _Vereiste toegang:_ Volledige toegang tot het apparaat
+- Een onderwerpenbord kan voor het onderwerp worden geselecteerd
+
+- Status/type kan worden gewijzigd
+
+- Een mijlpaal kan worden toegevoegd
+
+- Labels kunnen worden toegevoegd
+
+- Een beschrijving kan worden geschreven
+
+- Opmerkingen kunnen worden toegevoegd.
+  - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
+
+    _Vereiste toegang:_ Volledige toegang tot het apparaat
 
 - Als modellen vóór het verbreken van de verbinding met het netwerk waren geladen, kan een locatie aan een onderwerp worden toegevoegd door een markering in de 2D-weergave van die modellen te plaatsen.
 
 **Nieuwe onderwerpen bewerken en indienen**
 
 - U weet dat u naar een nieuw offline-onderwerp kijkt als u de grijze balk bovenaan in het onderwerp ziet.
-- Het is mogelijk om onderwerpen in offline-modus te bewerken die nog niet via de [outbox](#h_ff2a47f221) zijn ingediend
+- Het is mogelijk om Topics in de offlinemodus te bewerken die nog niet via de [outbox](#outbox) zijn ingediend
 
 ### 1.5 **Outbox**
 

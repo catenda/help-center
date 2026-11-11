@@ -1,6 +1,6 @@
 # Catenda Revit-Plugin
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-integrationen).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen).
 
 Das Catenda Revit-Plugin ist ein Plugin, das für Autodesk Revit installiert werden kann. Mit diesem Plugin können Sie mit anderen Mitgliedern des Bauprojekts an 3D-Viewpoints, Themen und Dokumenten zusammenarbeiten
 
@@ -66,7 +66,7 @@ Klicken Sie auf "Zugriff zulassen", um dem Revit-Plugin für Bimsync Arena den Z
 
 ### 3.1 **Zugriff widerrufen**
 
-Der Zugriff auf Ihr Catenda Hub-Konto kann jederzeit widerrufen werden, indem Sie zur Catenda Hub-[Anwendungsseite](https://support.catenda.com/de/articles/6880968-kontoseite#h_40e031c49a) gehen und auf "Zugriff widerrufen" neben "Revit-Plugin für Bimsync Arena" klicken.
+Der Zugriff auf Ihr Catenda Hub-Konto kann jederzeit widerrufen werden, indem Sie zur [Anwendungsseite](https://support.catenda.com/de/articles/6880968-kontoseite#h_fd54e5a82e) Ihres Catenda Hub gehen und auf „Zugriff widerrufen“ neben „Revit plugin for Bimsync Arena“ klicken.
 
 ## 4. **Themenliste**
 
@@ -114,7 +114,7 @@ In der Themenliste finden Sie alle Hauptinformationen über ein Thema:
 1. Das Bild des ersten Kommentars im Thema
 1. Catenda Hub-Themennummer
 
-Sie können auf ein beliebiges Thema klicken, um zur [Themendetailseite](#h_445d3efa52) zu gehen.
+Sie können auf jedes Thema klicken, um zur [Themendetailseite](#topic-details) zu gelangen.
 
 ### 4.5 **Themen sortieren**
 
@@ -161,7 +161,7 @@ In dieser Ansicht können Sie ein bestimmtes Thema überprüfen und bearbeiten.
 
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
-1. Gehen Sie zurück zur [Themenliste](#h_642fa61854)
+1. Zurück zur [Themenliste](#topic-list)
 1. Aktualisieren Sie den Inhalt dieses Themas
 1. Navigieren Sie zwischen Themen
 1. Legen Sie den Themenstatus fest (Offen, Geschlossen, ...)
@@ -196,7 +196,7 @@ Alle Kommentare werden unter dem Thema angezeigt. Ein Kommentar kann Text, ein B
 
 1. Der Autor des Kommentars
 1. Wann der Kommentar erstellt wurde. Sie können den Mauszeiger über das Datum bewegen, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
-1. Die [Zoom-Schaltfläche](#h_d873968c27) (siehe Kapitel unten)
+1. Die [Zoomschaltfläche](#zoom) (siehe Kapitel unten)
 1. Das mit dem Kommentar verknüpfte Bild
 1. Der Text des Kommentars
 
@@ -210,7 +210,7 @@ Damit der Viewpoint relevant ist, müssen Sie das gleiche Modell geöffnet haben
 
 Wenn der Viewpoint aus einer Perspektivansicht erstellt wurde, wird die neue 3D-Ansicht den Projektionsmodus auf "Perspektive" gesetzt haben. Ansonsten wird der Projektionsmodus "Orthografisch" sein.
 
-Das Add-in erstellt nur eine Perspektivansicht und eine orthografische Ansicht. Nach ihrer Erstellung wird es sie für jeden nachfolgenden Einsatz der Zoomfunktion wiederverwenden. Sie können dies im [Einstellungsmenü](#h_b02502c589) ändern. Sie können auch das Einstellungsmenü verwenden, um den Namen dieser Ansicht zu ändern.
+Das Add-in erstellt nur eine perspektivische Ansicht und eine orthografische Ansicht. Nach deren Erstellung werden diese bei jeder weiteren Verwendung der Zoomfunktion wiederverwendet. Sie können dies im Einstellungsmenü ändern. Über das Einstellungsmenü können Sie außerdem den Namen dieser Ansichten ändern.
 
 ### 5.5 **Verwandte Elemente**
 

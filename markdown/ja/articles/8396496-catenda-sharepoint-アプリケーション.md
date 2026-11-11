@@ -1,6 +1,6 @@
 # Catenda SharePoint アプリケーション
 
-> **注:** プラグインのインストール ファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)にあります。
+> **注:** プラグインのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)に掲載されています。
 
 Catenda SharePoint アプリケーションが SharePoint サイトに追加されると、SharePoint から Catenda にファイルを公開でき、Catenda ドキュメント構造を SharePoint で表示できます。設定すると、アプリケーションは次のようになります: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>この記事には、このアプリケーションがどのように機能するかについての情報が含まれていますこのアプリケーションが有用な方法の詳細については、[こちら](https://support.catenda.com/ja/articles/9419678-catenda-sharepoint-faq)を参照してください。SharePoint アプリケーションをサイトに追加する方法については、[こちら](https://support.catenda.com/ja/articles/9453368-catendasp-アプリの追加と削除)を参照してください。
 
@@ -12,11 +12,11 @@ Catenda SharePoint アプリケーションが SharePoint サイトに追加さ�
 
 ### 1.1 **リストコマンドの検索**
 
-**1つのファイル** 単一のファイルをCatendaに公開したい場合、最も簡単な方法は、ファイルのハンバーガー メニューで「Catendaに公開」をクリックすることです。
+**1つのファイル**単一のファイルをCatendaに公開したい場合、最も簡単な方法は、ファイルのハンバーガー メニューで「Catendaに公開」をクリックすることです。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/01-finding-the-list-command.png)
 
-**複数のファイル** 複数のファイルをCatendaに公開したい場合は、公開したいファイルを選択する必要があります。SharePointでファイルを選択すると、ユーザーは「Catendaに公開」リストコマンドを表示できます。
+**複数のファイル**複数のファイルをCatendaに公開したい場合は、公開したいファイルを選択する必要があります。SharePointでファイルを選択すると、ユーザーは「Catendaに公開」リストコマンドを表示できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/02-finding-the-list-command.png)
 
@@ -32,7 +32,7 @@ Catenda SharePoint アプリケーションが SharePoint サイトに追加さ�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/04-publishing-the-file.png)
 
-SharePointにCatendaアカウントへのアクセスを許可していない場合、認可するよう求められます。アカウントの認可方法については、[以下](#h_788fe15988)を参照してください。
+Catenda アカウントに SharePoint へのアクセス権を付与していない場合、認可を求められます。アカウントの認可方法については[以下](#authorizing-your-catenda-account)をご覧ください。
 
 **フォルダの選択** Catendaアカウントへのアクセスを許可している場合は、Catendaでプロジェクト、ライブラリ、および宛先フォルダを選択して、公開できます。
 
@@ -74,4 +74,4 @@ _アクセス必須:_ アプリケーションをインストールするとき�
 
 > **注:** CatendaはSharePointドキュメントにアクセスできません。ドキュメントをCatendaに公開する場合、Catendaはそれを一方通行のトランザクションで受け取ります。
 
-アプリケーションにCatendaアカウントへのアクセスを許可したくない場合は、Catendaアカウントの[アプリケーション ページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_40e031c49a)でいつでもアクセスを取り消すことができます。
+このアプリによる Catenda アカウントへのアクセスが不要になった場合は、Catenda アカウントの[アプリケーションページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_fd54e5a82e)でいつでもアクセスを取り消すことができます。

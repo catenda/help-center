@@ -1,6 +1,6 @@
 # Laden Sie Ihre mobile App Catenda Site herunter 📲
 
-> **Hinweis:** Die Installationsdatei für die Anwendung finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-integrationen). Falls Google Play meldet, dass Catenda Site auf Ihrem Gerät nicht verfügbar ist, siehe [Catenda Site - Fehlerbehebung](https://support.catenda.com/de/articles/11926914-catenda-site-fehlerbehebung#not-available-for-your-device-in-google-play).
+> **Hinweis:** Die Installationsdatei für die Anwendung finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen). Falls Google Play meldet, dass Catenda Site für Ihr Gerät nicht verfügbar ist, lesen Sie [Catenda Site - Fehlerbehebung](https://support.catenda.com/de/articles/11926914-catenda-site-fehlerbehebung#not-available-for-your-device-in-google-play).
 
 [Demo buchen](https://catenda.com/get-started) auf unserer Website
 

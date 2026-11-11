@@ -49,22 +49,28 @@ Når tilkoblingen til nettverket er gjenopprettet, blir disse sakene ikke automa
 Følgende informasjon kan legges til en ny sak som opprettes uten tilkobling til nettverket:
 
 - En tittel kan legges til
-- En saksliste kan velges for saken
-- Status/type kan endres
-- En milepæl kan legges til
-- Merkelapper kan legges til
-- En beskrivelse kan skrives
-- Kommentarer kan legges til.
-    - Bilder fra kamera/bilder kan legges til kommentarer.
 
-        _Tilgang påkrevd:_ Full tilgang til enheten
+- En saksliste kan velges for saken
+
+- Status/type kan endres
+
+- En milepæl kan legges til
+
+- Merkelapper kan legges til
+
+- En beskrivelse kan skrives
+
+- Kommentarer kan legges til.
+  - Bilder fra kamera/bilder kan legges til kommentarer.
+
+    _Tilgang påkrevd:_ Full tilgang til enheten
 
 - Hvis modeller ble innlastet før tilkoblingen til nettverket var tapt, kan en plassering legges til en sak ved å plassere en markør i 2D-visningen av disse modellene.
 
-_Redigering og sending av nye saker_
+**Redigering og sending av nye saker**
 
 - Du vil vite at du ser på en ny frakoblet sak hvis du ser den grå linjen øverst i saken.
-- Det er mulig å redigere saker i frakoblet modus som ennå ikke er sendt gjennom [meldingsboksen](#h_ff2a47f221)
+- Det er mulig å redigere saker i frakoblet modus som ikke er sendt inn via [utboksen](#outbox) ennå
 
 ### 1.5 **Meldingsboks**
 

@@ -1,6 +1,6 @@
 # Catenda SharePoint-Anwendung
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-integrationen).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen).
 
 Wenn die Catenda SharePoint-Anwendung zu einer SharePoint-Website hinzugefügt wird, können Dateien von SharePoint zu Catenda veröffentlicht werden und die Catenda-Dokumentstruktur kann in SharePoint angezeigt werden. Bei entsprechender Konfiguration kann die Anwendung wie folgt aussehen: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Dieser Artikel enthält Informationen darüber, wie diese Anwendung funktioniert Weitere Informationen darüber, wie diese Anwendung nützlich sein kann, finden Sie [hier](https://support.catenda.com/de/articles/9419678-catenda-sharepoint-haufig-gestellte-fragen). Informationen zum Hinzufügen der SharePoint-Anwendung zu einer Website finden Sie [hier](https://support.catenda.com/de/articles/9453368-catendasp-app-hinzufugen-und-entfernen).
 
@@ -32,7 +32,7 @@ Nach dem Klicken auf "In Catenda veröffentlichen" wird das folgende Menü geöf
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/04-publishing-the-file.png)
 
-Wenn Sie SharePoint keinen Zugriff auf Ihr Catenda-Konto gewährt haben, werden Sie aufgefordert, dies zu autorisieren. [Siehe unten](#h_788fe15988) für Anweisungen zum Autorisieren Ihres Kontos.
+Wenn Sie SharePoint noch keinen Zugriff auf Ihr Catenda-Konto gewährt haben, werden Sie aufgefordert, diesen zu autorisieren. [Weiter unten](#authorizing-your-catenda-account) erfahren Sie, wie Sie Ihr Konto autorisieren.
 
 **Ordner auswählen** Wenn Sie SharePoint Zugriff auf Ihr Catenda-Konto gewährt haben, können Sie das Projekt, die Bibliothek und den Zielordner in Catenda auswählen und veröffentlichen.
 
@@ -74,4 +74,4 @@ Durch Gewährung des App-Zugriffs auf Ihr Konto können Sie Dokumente von ShareP
 
 > **Hinweis:** Catenda hat keinen Zugriff auf Ihre SharePoint-Dokumente. Wenn Sie ein Dokument in Catenda veröffentlichen, empfängt es Catenda in einer Einrichtung Transaktion.
 
-Wenn Sie der App keinen Zugriff mehr auf Ihr Catenda-Konto gewähren möchten, können Sie den Zugriff auf der [Anwendungsseite](https://support.catenda.com/de/articles/6880968-kontoseite#h_40e031c49a) Ihres Catenda-Kontos jederzeit widerrufen.
+Wenn Sie der App keinen Zugriff mehr auf Ihr Catenda-Konto gewähren möchten, können Sie den Zugriff jederzeit auf der [Seite „Anwendungen“](https://support.catenda.com/de/articles/6880968-kontoseite#h_fd54e5a82e) Ihres Catenda-Kontos widerrufen.

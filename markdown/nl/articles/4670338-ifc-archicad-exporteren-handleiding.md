@@ -44,7 +44,7 @@ Met het vak IFC-vertalers kunt u vertalersinstellingen weergeven of wijzigen, of
 
 ## 3. **3. Verschillende instellingen in de export**
 
-3.1 [Modelfilter](#h_138e653078) stelt u in staat uit te filteren wat u wilt exporteren via verschillende voorinstellingen. 3.2 [Typetoewijzing](#h_a34c1332a3) stelt u in staat te kiezen welk type IFC elk element wordt geëxporteerd als. 3.3 [Geometrieconversie](#h_db084b5d6b) stelt u in staat te kiezen wat voor soort geometrie u wilt exporteren. 3.4 [Eigenschappentoewijzing](#h_d48644eb35) stelt u in staat criteria in te stellen op basis van typen. 3.5 [Gegevensconversie](#h_7f1df4ecb9) stelt u in staat te kiezen wat voor soort gegevens u uit het model wilt exporteren. 3.6 [Eenheidsconversie](#h_36caead1cd) stelt u in staat te kiezen in welke meeteenheden u uw IFC wilt exporteren.
+3.1 Met [Model filter](#4-model-filter) kunt u met verschillende presets Filters instellen om te bepalen wat u wilt exporteren. 3.2 Met [Type mapping](#5-type-mapping) kunt u kiezen als welk IFC-type elk element wordt geëxporteerd. 3.3 Met [Geometry conversion](#6-geometry-conversion) kunt u kiezen welk type geometrie u wilt exporteren. 3.4 Met [Property mapping](#10-property-mapping) kunt u criteria instellen op basis van types. 3.5 Met [Data conversion](#11-data-conversion) kunt u kiezen welke gegevens u uit het model wilt exporteren. 3.6 Met [Unit conversion](#12-unit-conversion) kunt u kiezen welke meeteenheden u in uw IFC wilt exporteren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 

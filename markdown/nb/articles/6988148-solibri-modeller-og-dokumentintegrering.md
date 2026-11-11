@@ -24,14 +24,14 @@ Klikk på Åpne for å importere dokumenter eller modeller som du har tilgang ti
 
 Etter at du har klikket på åpne, åpnes standardnettleseren din.
 
-- [Avbryt nettleserøkten din](#h_e921d649ed) hvis du ønsker å avbryte denne prosessen og fortsette å arbeide med Solibri
-- Hvis du ikke allerede har gjort det, [gi tilgang til kontoen din](#h_55ca1d4d10).
-- Hvis du ennå ikke har valgt et prosjekt, velger du et prosjekt på [prosjektsiden](#h_343870704c).
-- Etter å ha valgt et prosjekt, eller hvis du tidligere har valgt et prosjekt, kan du velge [dokumentersiden](#h_b7ac757915) (_standard_) eller [modellsiden](#h_617a3f8bf6).
+- [Avbryt nettleserøkten](#cancel-browser-session) hvis du ønsker å avbryte denne prosessen og fortsette å jobbe med Solibri
+- Hvis du ikke allerede har gjort det, [gi tilgang til kontoen din](#granting-access-to-your-catenda-account).
+- Hvis du ikke har valgt et prosjekt ennå, velg et prosjekt på [prosjektsiden](#solibri-document-integration-projects-page).
+- Etter å ha valgt et prosjekt, eller hvis du har valgt et prosjekt tidligere, kan du velge [dokumentsiden](#solibri-document-integration-documents-page) (_standard_) eller [model-siden](#solibri-document-integration-models-page).
 
 ## 3. **Eksporterer Solibri-økt til Catenda**
 
-For at knappen Last opp modell skal bli tilgjengelig må du ha [koblet til Catenda-kontoen din](#h_457cbf4e9d) og har minst én fil i Solibri-økten din. Klikk på Last opp modell for å eksportere Solibri-økten din som en del av Catenda-prosjektet du har tilgang til.
+For at knappen Last opp model skal bli tilgjengelig, må du ha [koblet til Catenda-kontoen din](#connecting) og ha minst én fil i Solibri-økten din. Klikk på Last opp model for å eksportere Solibri-økten din som en del av Catenda-prosjektet ditt som du har tilgang til.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/05-exporting-solibri-session-to-catenda.png)
 
@@ -43,10 +43,10 @@ Den .smc-filen som har blitt lagret kan nå eksporteres som en ny revisjon til C
 
 Etter å ha klikket på Last opp modell, åpnes standardnettleseren din.
 
-- [Avbryt nettleserøkten din](#h_e921d649ed) hvis du ønsker å avbryte denne prosessen og fortsette å arbeide med Solibri
-- Hvis du ikke allerede har gjort det, [gi tilgang til kontoen din](#h_55ca1d4d10).
-- Hvis du ennå ikke har valgt et prosjekt, velger du et prosjekt på [prosjektsiden](#h_343870704c).
-- Etter å ha valgt et prosjekt, eller hvis du tidligere har valgt et prosjekt, presenteres du for [dokumentersiden](#h_b7ac757915).
+- [Avbryt nettleserøkten](#cancel-browser-session) hvis du ønsker å avbryte denne prosessen og fortsette å jobbe med Solibri
+- Hvis du ikke allerede har gjort det, [gi tilgang til kontoen din](#granting-access-to-your-catenda-account).
+- Hvis du ikke har valgt et prosjekt ennå, velg et prosjekt på [prosjektsiden](#solibri-document-integration-projects-page).
+- Etter å ha valgt et prosjekt, eller hvis du har valgt et prosjekt tidligere, vil du bli vist [dokumentsiden](#solibri-document-integration-documents-page).
 
 ## 4. **Solibri-dokumentintegrasjon -** Prosjektsiden
 

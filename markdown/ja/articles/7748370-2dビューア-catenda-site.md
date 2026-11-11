@@ -20,7 +20,7 @@ CatendaのCatenda 2Dビューアで、プロジェクトで利用可能な階を
 
 ### 1.2 **2Dビューアの外観**
 
-[マーカーが有効](https://support.catenda.com/ja/articles/4854537-2dビューア#h_381a9d4098)な場合、IFCまたは構成されたビルの階に指定された場所を持つトピックが表示されます。マーカーをタップして選択します。これは、Catenda Siteで選択されたマーカーがどのように見えるかを示しています。
+[マーカーを有効にすると](https://support.catenda.com/ja/articles/4854537-2dビューア#h_fe3772d975)、IFCモデルまたは設定済みの建物のフロアに指定された位置があるトピックがすべて表示されます。マーカーをタップして選択します。選択されたマーカーはCatenda Siteでは次のように表示されます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
@@ -34,7 +34,7 @@ CatendaのCatenda 2Dビューアで、プロジェクトで利用可能な階を
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. 階の全体を表示 - 概要を取得します b. [3Dクエリ](#h_8a2c752641) - 2Dビューの一部を3Dに読み込みます c. 2Dビューア[設定](#h_63e1728758)
+a. フロアの範囲にズーム - 全体像を確認 b. 3Dクエリ - 2Dビューの一部を3Dで読み込み c. 2Dビューア設定
 
 **3Dクエリ** 3Dモデルを読み込む際にエラーが発生した場合、モバイルデバイスが1つまたは複数のmodelからのすべてのデータを処理できないことが原因である可能性があります。
 

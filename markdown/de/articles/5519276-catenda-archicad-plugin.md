@@ -1,6 +1,6 @@
 # Catenda Archicad Plugin
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-integrationen).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen).
 
 Das Catenda Archicad Plugin ist ein Plugin, das für Nemetschek Archicad installiert werden kann. Mit diesem Plugin können Sie mit anderen Mitgliedern des Bauprojekts an 3D-Ansichtspunkten, Themen und Dokumenten zusammenarbeiten.
 
@@ -36,7 +36,7 @@ Wenn Sie die Catenda-Palette öffnen, sehen Sie zuerst die Anmeldeseite. Die Anm
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-Wenn Sie noch kein Catenda-Konto haben, können Sie sich oben rechts kostenlos anmelden. Wenn Sie bereits ein Catenda-Konto haben, können Sie Ihre E-Mail und Ihr Passwort eingeben und auf Anmelden klicken. Nach der Anmeldung werden Sie aufgefordert, Zugriff auf Ihr Catenda-Konto zu gewähren. Nach Gewährung dieses Zugriffs wird das Archicad Plugin auf der [Seite "Anwendungen"](https://support.catenda.com/de/articles/6880968-kontoseite#h_40e031c49a) Ihres Catenda-Kontos als Anwendung angezeigt. Hier können Sie den Zugriff jederzeit widerrufen, wenn Sie ihn nicht mehr gewähren möchten.
+Falls Sie noch kein Catenda-Konto haben, können Sie sich oben rechts kostenlos registrieren. Wenn Sie bereits ein Catenda-Konto haben, geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein und klicken Sie auf Anmelden. Nach der Anmeldung werden Sie aufgefordert, den Zugriff auf Ihr Catenda-Konto zu gewähren. Nachdem Sie diesen Zugriff gewährt haben, wird das Archicad-Plugin als Anwendung auf der [Anwendungsseite](https://support.catenda.com/de/articles/6880968-kontoseite#h_fd54e5a82e) Ihres Catenda-Kontos angezeigt. Dort können Sie den Zugriff jederzeit widerrufen, falls Sie ihn nicht mehr gewähren möchten.
 
 ### 3.1 **Passwort zurücksetzen**
 

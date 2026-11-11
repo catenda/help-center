@@ -20,7 +20,7 @@ Sowohl Geschosse aus verschiedenen IFC-Modellen im Projekt als auch Geschosse au
 
 ### 1.2 **2D-Viewer-Erscheinungsbild**
 
-Mit [aktivierten Markern](https://support.catenda.com/de/articles/4854537-2d-viewer#h_381a9d4098) werden alle Themen angezeigt, die einen angegebenen Ort auf dem Geschoss eines IFC oder eines konfigurierten Gebäudes haben. Tippen Sie auf einen Marker, um ihn auszuwählen. So kann ein ausgewählter Marker auf der Catenda Site aussehen.
+Wenn [Markierungen aktiviert sind](https://support.catenda.com/de/articles/4854537-2d-viewer#h_fe3772d975), werden alle Themen angezeigt, die einen angegebenen Standort auf einem Geschoss eines IFC-Modells oder eines konfigurierten Gebäudes haben. Tippen Sie auf eine Markierung, um sie auszuwählen. So kann eine ausgewählte Markierung in Catenda Site aussehen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
@@ -34,7 +34,7 @@ Wenn ausgewählt, werden die Themennummer und der Titel angezeigt. Tippen Sie au
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. Auf Extents des Geschosses zoomen - Übersicht erhalten b. [3D-Abfrage](#h_8a2c752641) - Laden Sie einen Abschnitt der 2D-Ansicht in 3D c. 2D-Viewer [Einstellungen](#h_63e1728758)
+a. Auf die Ausdehnung des Geschosses zoomen - Überblick erhalten b. 3D-Abfrage - Einen Abschnitt der 2D-Ansicht in 3D laden c. 2D-Viewer-Einstellungen
 
 **3D-Abfrage** Wenn beim Laden von 3D-Modellen ein Fehler auftritt, liegt dies häufig daran, dass Ihr Mobilgerät alle Daten aus einem oder mehreren Modellen nicht verarbeiten kann.
 

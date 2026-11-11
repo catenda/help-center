@@ -16,7 +16,7 @@ Als u uw Catenda-account nog niet hebt geautoriseerd, ziet de webpart er als vol
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Als u een pagina met de ingeschakelde Catenda-webpart opent en u heeft uw account nog niet geautoriseerd, wordt u gevraagd dit te doen. Lees meer over hoe u uw account kunt autoriseren [hier](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-toepassing#h_788fe15988).
+Als u een pagina opent waarop de Catenda-webpart is ingeschakeld en u uw account nog niet heeft geautoriseerd, wordt u gevraagd dit te doen. Lees meer over hoe u uw account kunt autoriseren [hier](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-toepassing#h_a607ff9d09).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 

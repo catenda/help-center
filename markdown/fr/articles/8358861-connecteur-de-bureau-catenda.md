@@ -56,7 +56,7 @@ Trouvez Desktop Connector dans la liste et cliquez sur le menu d'action sur le c
 
 ## 4. **Se connecter**
 
-Quand le Connecteur Desktop est ouvert pour la première fois, une demande de connexion s'affiche. Cliquez sur le bouton Se connecter pour ouvrir le navigateur par défaut du système sur la page de connexion Catenda. Après vous être connecté ou si vous êtes déjà connecté, cliquez sur autoriser l'accès pour accorder l'accès au compte Catenda qui est connecté. Après avoir cliqué sur autoriser l'accès, le navigateur demandera à l'utilisateur d'ouvrir l'application Connecteur Desktop. L'octroi de la permission d'ouverture de l'application redirige vers la [page d'accueil](#h_097078145d) du Connecteur Desktop.
+Lorsque le Desktop Connector est ouvert pour la première fois, une demande de connexion s'affiche. Cliquez sur le bouton Sign-in pour ouvrir le navigateur par défaut du système sur la page de connexion Catenda. Après vous être connecté, ou si vous l'êtes déjà, cliquez sur allow access pour autoriser l'accès au compte Catenda connecté. Après avoir cliqué sur allow access, le navigateur demandera à l'utilisateur d'ouvrir l'application Desktop Connector. En autorisant l'ouverture de l'application, vous revenez à la [page d'accueil](#home-page) du Desktop Connector.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
@@ -120,7 +120,7 @@ La tâche doit au moins avoir un jour sélectionné pour être enregistrée
 
 ### 7.3 **Emplacement du projet**
 
-**Serveur** Cliquez sur parcourir pour sélectionner la destination sur la page Documents dans Catenda Hub où les fichiers doivent être synchronisés. Cliquez [ici](#h_4446f1b663) pour en savoir plus sur la sélection du chemin d'accès du répertoire du serveur
+**Serveur** Cliquez sur Parcourir pour sélectionner la destination sur la page Documents de Catenda Hub vers laquelle les fichiers doivent être synchronisés. Cliquez [ici](#server-location) pour en savoir plus sur la sélection du chemin du répertoire serveur
 
 **Local** Sélectionnez l'emplacement sur le système local à partir duquel les fichiers doivent être synchronisés.
 
@@ -144,7 +144,7 @@ La tâche doit au moins avoir un jour sélectionné pour être enregistrée
 
 ### 8.3 **Emplacement du projet**
 
-**Serveur** Sélectionnez l'emplacement sur Catenda Hub à partir duquel les Documents doivent être téléchargés. Cliquez [ici](#h_4446f1b663) pour en savoir plus sur la sélection du chemin d'accès du répertoire du serveur
+**Serveur** Sélectionnez l'emplacement sur Catenda Hub à partir duquel les documents doivent être téléchargés. Cliquez [ici](#server-location) pour en savoir plus sur la sélection du chemin du répertoire serveur
 
 **Local** Sélectionnez la destination sur le système local où les fichiers doivent être téléchargés.
 
@@ -154,7 +154,7 @@ Une tâche n'a pas besoin d'être enregistrée pour commencer le téléchargemen
 
 ### 8.5 Bouton Retour
 
-Cliquez sur le bouton flèche pour revenir à la [page d'accueil](#h_097078145d)
+Cliquez sur le bouton fléché pour revenir à la [page d'accueil](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -216,7 +216,7 @@ Le Statut de cette tâche.
 
 ### 10.5 **Bouton Retour**
 
-Cliquez sur ce bouton pour revenir à la [page d'accueil](#h_097078145d)
+Cliquez sur ce bouton pour revenir à la [page d'accueil](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 

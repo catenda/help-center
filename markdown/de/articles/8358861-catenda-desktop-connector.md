@@ -56,7 +56,7 @@ Suchen Sie den Desktop Connector in der Liste und klicken Sie auf das Aktionsmen
 
 ## 4. **Anmelden**
 
-Wenn der Desktop Connector zum ersten Mal geöffnet wird, wird eine Anmeldeanfrage angezeigt. Klicken Sie auf die Schaltfläche "Anmelden", um den Standardbrowser des Systems auf der Catenda-Anmeldeseite zu öffnen. Melden Sie sich an oder klicken Sie, falls Sie bereits angemeldet sind, auf "Zugriff zulassen", um Zugriff auf das angemeldete Catenda-Konto zu gewähren. Nach dem Klicken auf "Zugriff zulassen" werden Sie vom Browser aufgefordert, die Desktop Connector-Anwendung zu öffnen. Wenn Sie dem Öffnen der Anwendung zustimmen, werden Sie zur [Startseite](#h_097078145d) des Desktop Connectors weitergeleitet.
+Wenn der Desktop Connector zum ersten Mal geöffnet wird, wird eine Anmeldeaufforderung angezeigt. Klicken Sie auf die Sign-in-Schaltfläche, um den Standardbrowser des Systems mit der Catenda-Anmeldeseite zu öffnen. Melden Sie sich nach der Anmeldung an bzw. falls Sie bereits angemeldet sind, klicken Sie auf Zugriff erlauben, um den Zugriff auf das angemeldete Catenda-Konto zu gewähren. Nachdem Sie auf Zugriff erlauben geklickt haben, fordert der Browser den Benutzer auf, die Desktop Connector-Anwendung zu öffnen. Nach der Erteilung der Berechtigung zum Öffnen der Anwendung wird zurück zur [Startseite](#home-page) des Desktop Connectors geleitet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
@@ -120,7 +120,7 @@ Die Aufgabe muss mindestens einen Tag ausgewählt haben, um gespeichert zu werde
 
 ### 7.3 **Projektstandort**
 
-**Server** Klicken Sie auf "Durchsuchen", um das Ziel auf der Seite "Dokumente" in Catenda Hub auszuwählen, wo Dateien synchronisiert werden sollen. Klicken Sie [hier](#h_4446f1b663), um mehr über die Auswahl des Serververzeichnispfads zu erfahren
+**Server** Klicken Sie auf Browse, um das Ziel auf der Seite Dokumente in Catenda Hub auszuwählen, in das Dateien synchronisiert werden sollen. Klicken Sie [hier](#server-location), um mehr über die Auswahl des Serververzeichnispfads zu erfahren
 
 **Lokal** Wählen Sie den Speicherort auf dem lokalen System aus, von dem Dateien synchronisiert werden sollen.
 
@@ -144,7 +144,7 @@ Die Aufgabe muss mindestens einen Tag ausgewählt haben, um gespeichert zu werde
 
 ### 8.3 **Projektstandort**
 
-**Server** Wählen Sie den Speicherort auf Catenda Hub aus, von dem Dokumente heruntergeladen werden sollen. Klicken Sie [hier](#h_4446f1b663), um mehr über die Auswahl des Serververzeichnispfads zu erfahren
+**Server** Wählen Sie den Speicherort auf Catenda Hub aus, von dem Dokumente heruntergeladen werden sollen. Klicken Sie [hier](#server-location), um mehr über die Auswahl des Serververzeichnispfads zu erfahren
 
 **Lokal** Wählen Sie das Ziel auf dem lokalen System aus, auf das Dateien heruntergeladen werden sollen.
 
@@ -154,7 +154,7 @@ Eine Aufgabe muss nicht gespeichert werden, um mit dem Herunterladen zu beginnen
 
 ### 8.5 Zurück-Schaltfläche
 
-Klicken Sie auf die Pfeiltaste, um zur [Startseite](#h_097078145d) zurückzukehren
+Klicken Sie auf die Pfeilschaltfläche, um zur [Startseite](#home-page) zurückzukehren
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -216,7 +216,7 @@ Der Status dieser Aufgabe.
 
 ### 10.5 **Zurück-Schaltfläche**
 
-Klicken Sie auf diese Schaltfläche, um zur [Startseite](#h_097078145d) zurückzukehren
+Klicken Sie auf diese Schaltfläche, um zur [Startseite](#home-page) zurückzukehren
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 

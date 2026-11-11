@@ -1,6 +1,6 @@
 # Catenda SharePoint-toepassing
 
-> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
+> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
 
 Als de Catenda SharePoint-toepassing aan een SharePoint-site is toegevoegd, kunnen bestanden van SharePoint naar Catenda worden gepubliceerd en kan de Catenda-documentstructuur in SharePoint worden weergegeven. Wanneer geconfigureerd, kan de toepassing er als volgt uitzien: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Dit artikel bevat informatie over hoe deze toepassing werkt Zie [hier](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-veelgestelde-vragen) voor meer informatie over hoe deze toepassing nuttig kan zijn. Zie [hier](https://support.catenda.com/nl/articles/9453368-de-catendasp-app-toevoegen-en-verwijderen) voor het toevoegen van de SharePoint-toepassing aan een site.
 
@@ -32,7 +32,7 @@ Na het klikken op Publiceren naar Catenda wordt het volgende menu geopend dat er
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/04-publishing-the-file.png)
 
-Als u SharePoint nog geen toegang tot uw Catenda-account hebt gegeven, wordt u gevraagd dit te autoriseren. [Zie hieronder](#h_788fe15988) voor hoe u uw account kunt autoriseren.
+Als u SharePoint nog geen toegang hebt gegeven tot uw Catenda-account, wordt u gevraagd deze te autoriseren. [Zie hieronder](#authorizing-your-catenda-account) voor het autoriseren van uw account.
 
 **Een map selecteren** Als u toegang tot uw Catenda-account hebt verleend, kunt u het project, de bibliotheek en de doelmap op Catenda selecteren en publiceren.
 
@@ -74,4 +74,4 @@ Door de app toegang tot uw account te geven, kunt u documenten van SharePoint na
 
 > **Opmerking:** Catenda heeft geen toegang tot uw SharePoint-documenten. Als u een document naar Catenda publiceert, ontvangt Catenda het in een eenrichtingstransactie.
 
-Als u de app niet langer toegang tot uw Catenda-account wilt geven, kunt u de toegang altijd intrekken op de [toepassingenpagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_40e031c49a) van uw Catenda-account.
+Als u de app geen toegang meer wilt geven tot uw Catenda-account, kunt u de toegang altijd intrekken op de [applicatiepagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_fd54e5a82e) van uw Catenda-account.

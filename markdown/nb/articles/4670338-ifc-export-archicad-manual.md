@@ -44,7 +44,7 @@ IFC-oversetter-boksen lar deg vise eller endre Oversetter-innstillinger, eller o
 
 ## 3. **3. Ulike innstillinger i eksporten**
 
-3.1 [Modelfilter](#h_138e653078) lar deg filtrere ut det du vil eksportere ved hjelp av ulike forhåndsinnstillinger. 3.2 [Typkartlegging](#h_a34c1332a3) lar deg velge hvilken type IFC hver element eksporteres som. 3.3 [Geometrikonvertering](#h_db084b5d6b) lar deg velge hvilken type geometri du vil eksportere. 3.4 [Egenskapskartlegging](#h_d48644eb35) lar deg sette opp kriterier basert på typer. 3.5 [Datakonvertering](#h_7f1df4ecb9) lar deg velge hvilken type data du vil eksportere fra modellen. 3.6 [Enhetkonvertering](#h_36caead1cd) lar deg velge hvilke måleenheter du vil eksportere i IFC-en din.
+3.1 [Filtre](#4-model-filter) lar deg filtrere ut det du vil eksportere etter ulike forhåndsinnstillinger. 3.2 [Typekartlegging](#5-type-mapping) lar deg velge hvilken IFC-type hvert element eksporteres som. 3.3 [Geometrikonvertering](#6-geometry-conversion) lar deg velge hvilken type geometri du vil eksportere. 3.4 [Egenskapskartlegging](#10-property-mapping) lar deg sette opp kriterier basert på typer. 3.5 [Datakonvertering](#11-data-conversion) lar deg velge hvilken type data du vil eksportere fra modellen. 3.6 [Enhetskonvertering](#12-unit-conversion) lar deg velge hvilke måleenheter du vil eksportere i IFC-filen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 

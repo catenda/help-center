@@ -1,6 +1,6 @@
 # Catenda Revit-plugin
 
-> **Merk:** Installasjonfilen for plugin-en finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
+> **Merk:** Installasjonsfilen for plugin-en finnes i [denne artikkelen](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner).
 
 Catenda Revit-plugin er en plugin som kan installeres for Autodesk Revit. Med denne plugin-en kan du samarbeide om 3D-visningspunkter, saker og dokumenter med andre medlemmer av byggprosjektet
 
@@ -22,19 +22,19 @@ Finn Catenda for Autodesk® Revit® i listen og klikk på handlingsmeny på høy
 
 Etter installasjon finner du Catenda-panelet i Add-ins-båndet. Avhengig av båndet dine innstillinger kan Catenda-panelet se slik ut:
 
-**Fullt bånd - Standard**
+_Fullt bånd - Standard_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/01-opening-the-plugin-window.png)
 
-**Panelknapper**
+_Panelknapper_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/02-opening-the-plugin-window.png)
 
-**Paneltitler**
+_Paneltitler_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/03-opening-the-plugin-window.png)
 
-**Minimer til faner**
+_Minimer til faner_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/04-opening-the-plugin-window.png)
 
@@ -66,7 +66,7 @@ Klikk på "Tillat tilgang" for å tillate Revit-plugin for Bimsync Arena å få 
 
 ### 3.1 **Opphev tilgang**
 
-Tilgang til Catenda Hub-kontoen din kan oppheves når som helst ved å gå til Catenda Hub [programside](https://support.catenda.com/nb/articles/6880968-kontosida#h_40e031c49a) og klikke på "Opphev tilgang" ved siden av "Revit-plugin for Bimsync Arena".
+Tilgangen til Catenda Hub-kontoen din kan når som helst oppheves ved å gå til [applikasjonssiden](https://support.catenda.com/nb/articles/6880968-kontosida#h_fd54e5a82e) i Catenda Hub og klikke på “Revoke access” ved siden av “Revit plugin for Bimsync Arena”.
 
 ## 4. **Saksliste**
 
@@ -77,12 +77,12 @@ Etter pålogging åpnes hovedvisningen av Catenda Hub-plugin. På denne siden fi
 ![Header.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/06-interface.png)
 
 1. Velg Catenda Hub-prosjektet ditt
-2. Velg en sakliste i dette prosjektet
-3. Opprett en ny sak i den valgte saklisten
-4. Sorter viste saker
-5. Åpne Catenda Hub-tillegg-menyen
-6. Søk og filtrer de viste sakene
-7. Listen over gjeldende filtrerte saker i saklisten
+1. Velg en sakliste i dette prosjektet
+1. Opprett en ny sak i den valgte saklisten
+1. Sorter viste saker
+1. Åpne Catenda Hub-tillegg-menyen
+1. Søk og filtrer de viste sakene
+1. Listen over gjeldende filtrerte saker i saklisten
 
 ### 4.2 **Prosjekt- og sakliste-valg**
 
@@ -105,16 +105,16 @@ I saklisten finner du all hovedinformasjonen om en sak:
 ![IssueInformation.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/09-topic-selection.png)
 
 1. Tittel på saken
-2. Dens status (Åpen, Lukket, …), dens type (Info, Feil, …) og etikettene
-3. Medlemmet som ber om saken
-4. Medlemmet som saken er tildelt til
-5. Fristen på saken
-6. Når saken sist ble oppdatert. Du kan holde musepekeren over datoen for å vise full dato og klokkeslett for oppdateringen.
-7. Antallet kommentarer i saken
-8. Bildet av den første kommentaren i saken
-9. Catenda Hub-saknummer
+1. Dens status (Åpen, Lukket, …), dens type (Info, Feil, …) og etikettene
+1. Medlemmet som ber om saken
+1. Medlemmet som saken er tildelt til
+1. Fristen på saken
+1. Når saken sist ble oppdatert. Du kan holde musepekeren over datoen for å vise full dato og klokkeslett for oppdateringen.
+1. Antallet kommentarer i saken
+1. Bildet av den første kommentaren i saken
+1. Catenda Hub-saknummer
 
-Du kan klikke på en sak for å gå til [saksdetaljsiden](#h_445d3efa52).
+Du kan klikke på en hvilken som helst sak for å gå til [detaljsiden for saken](#topic-details).
 
 ### 4.5 **Sorter saker**
 
@@ -123,11 +123,11 @@ Du kan sortere de viste sakene for å bringe de mest relevante først.
 ![sort.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/10-sort-topics.png)
 
 1. Bring den nyeste saken opprettet først
-2. Bring den eldste saken først
-3. Bring den nyeste oppdaterte saken først. Oppdatering av en sak kan innebære endring av noen av egenskapene, tittel, kommentarer, …
-4. Bring den minst nylig oppdaterte saken først
-5. Bring den seneste fristen først
-6. Bring den eldste fristen først
+1. Bring den eldste saken først
+1. Bring den nyeste oppdaterte saken først. Oppdatering av en sak kan innebære endring av noen av egenskapene, tittel, kommentarer, …
+1. Bring den minst nylig oppdaterte saken først
+1. Bring den seneste fristen først
+1. Bring den eldste fristen først
 
 ### 4.6 **Filtrer saker**
 
@@ -161,16 +161,16 @@ I denne visningen kan du vurdere og redigere en spesifikk sak.
 
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
-1. Gå tilbake til [Saklisten](#h_642fa61854)
-2. Oppdater innholdet i denne saken
-3. Naviger mellom saker
-4. Angi saksstatusen (Åpen, Lukket, …)
-5. Angi sakstypen (Feil, Advarsel, Info, …)
-6. Angi fristen på saken
-7. Angi medlemmet tildelt saken. Du kan tilordne en sak til en enkeltbruker eller et team.
-8. Angi medlemmet som ber om denne saken. Du kan angi en enkeltbruker eller et team.
-9. Rediger saketikettene
-10. Listen over kommentarer i saken
+1. Gå tilbake til [sakslisten](#topic-list)
+1. Oppdater innholdet i denne saken
+1. Naviger mellom saker
+1. Angi saksstatusen (Åpen, Lukket, …)
+1. Angi sakstypen (Feil, Advarsel, Info, …)
+1. Angi fristen på saken
+1. Angi medlemmet tildelt saken. Du kan tilordne en sak til en enkeltbruker eller et team.
+1. Angi medlemmet som ber om denne saken. Du kan angi en enkeltbruker eller et team.
+1. Rediger saketikettene
+1. Listen over kommentarer i saken
 
 ### 5.2 **Saksegenskaper**
 
@@ -195,10 +195,10 @@ Alle kommentarer vises under saken. En kommentar kan inneholde tekst, et bilde, 
 ![CommentDetail.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/17-comments.png)
 
 1. Forfatteren av kommentaren
-2. Når kommentaren ble opprettet. Du kan holde musepekeren over datoen for å vise full dato og klokkeslett for oppdateringen.
-3. [Zoom-knappen](#h_d873968c27) (se kapittel nedenfor)
-4. Bildet som er knyttet til kommentaren
-5. Teksten i kommentaren
+1. Når kommentaren ble opprettet. Du kan holde musepekeren over datoen for å vise full dato og klokkeslett for oppdateringen.
+1. [Zoomknappen](#zoom) (se kapittelet nedenfor)
+1. Bildet som er knyttet til kommentaren
+1. Teksten i kommentaren
 
 ### 5.4 **Zoom**
 
@@ -210,7 +210,7 @@ For at visningspunktet skal være relevant, må du ha åpnet samme modell som de
 
 Hvis visningspunktet ble opprettet fra en perspektivvisning, vil den nye 3D-visningen ha sin projeksjonsm odus satt til "Perspektiv". Ellers vil projeksjonsmodusen være "Ortografisk".
 
-Tillegget vil bare opprette en perspektivvisning og en ortografisk visning. Etter å ha opprettet dem, vil det gjenbruke dem for enhver påfølgende bruk av zoomfunksjonen. Du kan endre det i [innstillingsmenyen](#h_b02502c589). Du kan også bruke innstillingsmenyen til å endre navnet på disse visningene.
+Tillegget vil kun opprette ett perspektivbilde og ett ortografisk bilde. Etter at de er opprettet, vil det gjenbruke dem ved alle senere bruk av zoomfunksjonen. Du kan endre dette i innstillingsmenyen. Du kan også bruke innstillingsmenyen til å endre navnet på disse visningene.
 
 ### 5.5 **Relaterte elementer**
 

@@ -49,22 +49,28 @@ Wenn die Netzwerkverbindung wiederhergestellt ist, werden diese Themen nicht aut
 Die folgenden Informationen können zu einem neuen Thema hinzugefügt werden, das ohne Netzwerkverbindung erstellt wird:
 
 - Ein Titel kann hinzugefügt werden
-- Ein Themen-Board kann für das Thema ausgewählt werden
-- Status/Typ kann geändert werden
-- Ein Meilenstein kann hinzugefügt werden
-- Etiketten können hinzugefügt werden
-- Eine Beschreibung kann geschrieben werden
-- Kommentare können hinzugefügt werden.
-    - Bilder von Kamera/Fotos können zu Kommentaren hinzugefügt werden.
 
-        _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Gerät
+- Ein Themen-Board kann für das Thema ausgewählt werden
+
+- Status/Typ kann geändert werden
+
+- Ein Meilenstein kann hinzugefügt werden
+
+- Etiketten können hinzugefügt werden
+
+- Eine Beschreibung kann geschrieben werden
+
+- Kommentare können hinzugefügt werden.
+  - Bilder von Kamera/Fotos können zu Kommentaren hinzugefügt werden.
+
+    _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Gerät
 
 - Wenn Modelle vor dem Verlust der Netzwerkverbindung geladen wurden, kann einem Thema eine Position hinzugefügt werden, indem Sie einen Marker in der 2D-Ansicht dieser Modelle platzieren.
 
 **Bearbeiten und Absenden neuer Themen**
 
 - Sie wissen, dass Sie sich ein neues Offline-Thema ansehen, wenn Sie oben im Thema einen grauen Balken sehen.
-- Es ist möglich, Themen im Offline-Modus zu bearbeiten, die noch nicht über den [Postausgang](#h_ff2a47f221) übermittelt wurden
+- Im Offline-Modus ist es möglich, Themen zu bearbeiten, die noch nicht über die [Outbox](#outbox) übermittelt wurden
 
 ### 1.5 **Postausgang**
 

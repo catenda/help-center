@@ -20,7 +20,7 @@ Zowel verdiepingen uit de verschillende IFC-modellen in het project als verdiepi
 
 ### 1.2 **2D viewer uiterlijk**
 
-Met [markers ingeschakeld](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_381a9d4098) worden alle Topics die een opgegeven locatie op de verdieping van een IFC of een geconfigureerd gebouw hebben, weergegeven. Tik op een marker om deze te selecteren. Dit is hoe een geselecteerde marker op Catenda Site eruit kan zien.
+Met [ingeschakelde markeringen](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_fe3772d975) worden alle Topics met een opgegeven locatie op de verdieping van een IFC-model of een geconfigureerd gebouw weergegeven. Tik op een markering om deze te selecteren. Zo kan een geselecteerde markering eruitzien in Catenda Site.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
@@ -34,7 +34,7 @@ Wanneer geselecteerd, worden het onderwerpcijfer en de titel weergegeven. Tik op
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. In- en uitzoomen naar omvang van de verdieping - Een overzicht krijgen b. [3D query](#h_8a2c752641) - Laad een gedeelte van de 2D weergave in 3D c. 2D viewer [instellingen](#h_63e1728758)
+a. Zoomen naar de omvang van de verdieping - Krijg een overzicht b. 3D-query - Laad een deel van de 2D-weergave in 3D c. Instellingen 2D-viewer
 
 **3D query** Als u een fout krijgt bij het laden van 3D-modellen, is dit vaak omdat uw mobiele apparaat niet alle gegevens van een of meer modellen kan verwerken.
 

@@ -2894,7 +2894,7 @@ CatendaのCatenda 2Dビューアで、プロジェクトで利用可能な階を
 
 ### 1.2 **2Dビューアの外観**
 
-[マーカーが有効](https://support.catenda.com/ja/articles/4854537-2dビューア#h_381a9d4098)な場合、IFCまたは構成されたビルの階に指定された場所を持つトピックが表示されます。マーカーをタップして選択します。これは、Catenda Siteで選択されたマーカーがどのように見えるかを示しています。
+[マーカーを有効にすると](https://support.catenda.com/ja/articles/4854537-2dビューア#h_fe3772d975)、IFCモデルまたは設定済みの建物のフロアに指定された位置があるトピックがすべて表示されます。マーカーをタップして選択します。選択されたマーカーはCatenda Siteでは次のように表示されます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
@@ -2908,7 +2908,7 @@ CatendaのCatenda 2Dビューアで、プロジェクトで利用可能な階を
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. 階の全体を表示 - 概要を取得します b. [3Dクエリ](#h_8a2c752641) - 2Dビューの一部を3Dに読み込みます c. 2Dビューア[設定](#h_63e1728758)
+a. フロアの範囲にズーム - 全体像を確認 b. 3Dクエリ - 2Dビューの一部を3Dで読み込み c. 2Dビューア設定
 
 **3Dクエリ** 3Dモデルを読み込む際にエラーが発生した場合、モバイルデバイスが1つまたは複数のmodelからのすべてのデータを処理できないことが原因である可能性があります。
 
@@ -3965,7 +3965,7 @@ Catenda AI Connectの使用を開始するには、Catenda営業に問い合わ�
 
 # Catenda Archicadプラグイン
 
-> **注意:** プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)にあります。
+> **注:** プラグインのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)に掲載されています。
 
 Catenda ArchicadプラグインはNemetchek Archicadにインストール可能なプラグインです。このプラグインを使用すれば、建設プロジェクトの他のメンバーとともに3D viewpoint、トピック、ドキュメントについて協業できます。
 
@@ -4001,7 +4001,7 @@ Catendaパレットを開くと、最初に表示されるのはサインイン�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-Catendaアカウントがない場合は、右上の「無料でサインアップ」をクリックしてサインアップできます。既にCatendaアカウントをお持ちの場合は、メールアドレスとパスワードを入力し、サインインをクリックしてください。サインイン後、Catendaアカウントへのアクセスを許可するよう求められます。このアクセスを許可すると、ArchicadプラグインはCatendaアカウントの[アプリケーションページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_40e031c49a)に表示されます。必要に応じていつでもこのアクセスを取り消すことができます。
+Catendaアカウントをお持ちでない場合は、右上から無料で登録できます。すでにCatendaアカウントをお持ちの場合は、メールアドレスとパスワードを入力し、「サインイン」をクリックしてください。サインイン後、Catendaアカウントへのアクセスを許可するよう求められます。アクセスを許可すると、Archicadプラグインが Catendaアカウントの[アプリケーションページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_fd54e5a82e)にアプリケーションとして表示されます。アクセスを取り消したい場合は、いつでもこのページから取り消すことができます。
 
 ### 3.1 **パスワードのリセット**
 
@@ -4021,11 +4021,11 @@ Archicadプラグインを開くと、プロジェクトのリストが表示さ
 
 プロジェクトへの招待を受け入れると、プラグイン内のプロジェクトリストと[プロジェクトページ](https://support.catenda.com/ja/articles/8400797-プロジェクトページ)にプロジェクトが表示されます。
 
-**アクションメニュー** プロフィール画像の横にある3つのドットをクリックして、アクションメニュードロップダウンを開きます：
+**アクションメニュー**プロフィール画像の横にある3つのドットをクリックして、アクションメニュードロップダウンを開きます：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/04-project-list.png)
 
-**モデルとリビジョン** これはモデルとリビジョンページの例です。ここでは、Catendaプロジェクトでアクセス可能なすべてのモデルを確認できます。
+**モデルとリビジョン**これはモデルとリビジョンページの例です。ここでは、Catendaプロジェクトでアクセス可能なすべてのモデルを確認できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/05-project-list.png)
 
@@ -4033,19 +4033,19 @@ Archicadプラグインを開くと、プロジェクトのリストが表示さ
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/06-project-list.png)
 
-**IFCのアップロード** 現在のArchicadプロジェクトからIFCをアップロード IFCのアップロードページは以下のようになります：
+**IFCのアップロード**現在のArchicadプロジェクトからIFCをアップロード IFCのアップロードページは以下のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/07-project-list.png)
 
 デフォルトでは、ファイル名はArchicadプロジェクトの名前になります。これはCatendaのリビジョン名になります。ファイルをアップロードするモデルを選択してください。「設定」をクリックしてArchicad IFCエクスポート ダイアログを開きます。ここではIFCをCatendaにエクスポートするために使用する設定を構成できます。準備ができたら、アップロードボタンをクリックしてモデルをアップロードしてください。
 
-**座標** 座標オプションにマウスを合わせて座標メニューを展開します。座標メニューは以下のようになります：
+**座標**座標オプションにマウスを合わせて座標メニューを展開します。座標メニューは以下のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/08-project-list.png)
 
 座標メニューでは、座標を以下に相対的に選択できます: サーベイポイント - デフォルトプロジェクト原点
 
-**バージョン** プラグインのバージョン番号。
+**バージョン**プラグインのバージョン番号。
 
 **ログアウト** Catendaアカウントからログアウト
 
@@ -4071,23 +4071,23 @@ Archicadプラグインを開くと、プロジェクトのリストが表示さ
 
 トピックリストで構成された設定とトピックの送信に応じて、利用可能なさまざまなフィルターを指定できます：
 
-**自分のトピック** 私に割り当てられたリクエスト元 作成者
+**自分のトピック**私に割り当てられたリクエスト元 作成者
 
-**ステータス** トピックリストに含まれる異なるステータスが一覧表示されます
+**ステータス**トピックリストに含まれる異なるステータスが一覧表示されます
 
-**タイプ** トピックリストに含まれる異なるタイプが一覧表示されます
+**タイプ**トピックリストに含まれる異なるタイプが一覧表示されます
 
-**期日** 期限切れ 1日未満 1週間未満 2週間未満 1か月未満 期日を設定したすべての項目
+**期日**期限切れ 1日未満 1週間未満 2週間未満 1か月未満 期日を設定したすべての項目
 
 **担当者** `@`で始まるエントリは、最初にリストされた割り当てられたチームです。その後、割り当てられたプロジェクトメンバーが一覧表示されます。
 
 **依頼者** `@`で始まるエントリは、トピックを依頼するチームの最初に一覧表示されます。その後、トピックを依頼するプロジェクトメンバーが一覧表示されます。
 
-**マイルストーン** トピックに適用されたマイルストーンが一覧表示されます。
+**マイルストーン**トピックに適用されたマイルストーンが一覧表示されます。
 
-**ラベル** トピックに適用されたラベルが一覧表示されます。
+**ラベル**トピックに適用されたラベルが一覧表示されます。
 
-**フィルターメニューに記載されていないフィルター** テキスト検索 検索バーで入力してテキストを検索できます。
+**フィルターメニューに記載されていないフィルター**テキスト検索 検索バーで入力してテキストを検索できます。
 
 検索可能なコンテンツ トピックのタイトル トピックの説明 トピックのコメント
 
@@ -4103,11 +4103,11 @@ Archicadプラグインを開くと、プロジェクトのリストが表示さ
 
 オプションをクリックしてトピックリストを以下でソートします: _最新_ - デフォルト 最新の作成日を持つトピック
 
-**最も古い** 最も古い作成日を持つトピック
+**最も古い**最も古い作成日を持つトピック
 
-**最近更新** 最近更新されたトピック
+**最近更新**最近更新されたトピック
 
-**最近更新されていない** 最近更新されていないトピック
+**最近更新されていない**最近更新されていないトピック
 
 ## 6. **トピック**
 
@@ -4173,7 +4173,7 @@ Catenda Desktop ConnectorがWindowsにインストールされると、インス
 
 ## 4. **サインイン**
 
-Desktop Connectorが最初に開かれると、サインインリクエストが表示されます。[サインイン]ボタンをクリックして、システムのデフォルトブラウザをCatendaサインインページで開きます。ログインしたか、既にログインしている場合は、[アクセスを許可]をクリックしてログインしているCatendaアカウントへのアクセスを許可します。[アクセスを許可]をクリック後、ブラウザはユーザーにDesktop Connectorアプリケーションを開くように指示します。アプリケーション開放の許可を与えると、Desktop Connector[ホームページ](#h_097078145d)にリダイレクトされます。
+Desktop Connectorを初めて開くと、サインイン要求が表示されます。「Sign-in」ボタンをクリックすると、システムの既定のブラウザーでCatendaのサインインページが開きます。サインインした後、またはすでにサインインしている場合は、「allow access」をクリックして、サインイン中のCatendaアカウントへのアクセスを許可します。「allow access」をクリックすると、ブラウザーからDesktop Connectorアプリケーションを開くかどうかの確認が表示されます。アプリケーションを開くことを許可すると、Desktop Connectorの[ホームページ](#home-page)に戻ります。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
@@ -4237,7 +4237,7 @@ Desktop Connectorが最初に開かれると、サインインリクエストが
 
 ### 7.3 **プロジェクトの場所**
 
-**サーバー** [参照]をクリックしてCatenda HubのDocumentsページ上の宛先を選択し、ファイルが同期されるべき場所を選択します。サーバーディレクトリパスの選択について詳しくは、[こちら](#h_4446f1b663)をクリックしてください
+**サーバー** 「Browse」をクリックして、ファイルの同期先となるCatenda Hubの[ドキュメント](#documents)ページで保存先を選択します。サーバーディレクトリパスの選択について詳しくは[こちら](#server-location)をクリックしてください
 
 **ローカル** ファイルが同期されるべきローカルシステム上の場所を選択します。
 
@@ -4261,7 +4261,7 @@ Catenda Hubからローカルシステムへのファイルの定期的なダウ
 
 ### 8.3 **プロジェクトの場所**
 
-**サーバー** ドキュメントがダウンロードされるべきCatenda Hub上の場所を選択します。サーバーディレクトリパスの選択について詳しくは、[こちら](#h_4446f1b663)をクリックしてください
+**サーバー** Catenda Hub上で、ドキュメントをダウンロードする場所を選択します。サーバーディレクトリパスの選択について詳しくは[こちら](#server-location)をクリックしてください
 
 **ローカル** ファイルがダウンロードされるべきローカルシステム上の宛先を選択します。
 
@@ -4271,7 +4271,7 @@ Catenda Hubからローカルシステムへのファイルの定期的なダウ
 
 ### 8.5 戻るボタン
 
-矢印ボタンをクリックして[ホームページ](#h_097078145d)に戻ります
+矢印ボタンをクリックして[ホームページ](#home-page)に戻ります
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -4333,7 +4333,7 @@ Catenda Hubからローカルシステムへのファイルの定期的なダウ
 
 ### 10.5 **戻るボタン**
 
-このボタンをクリックして[ホームページ](#h_097078145d)に戻ります
+このボタンをクリックして[ホームページ](#home-page)に戻ります
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -4379,7 +4379,7 @@ Catenda for Power BI は Catenda Hub のプロジェクトと連携します。�
 
 これは、Solibri と Catenda Hub 間の BCF サーバーを使用する場合の最適なワークフローを説明するドキュメントです。
 
-1\. Catenda Hub プロジェクトへの接続から始めます。[( こちらを参照 )](https://intercom.help/bimsync-arena/ja/articles/4670340-solibri-topics統合) 2\. 接続後、Solibri で clash 検出を実行し、プレゼンテーションを作成します。Solibri でプレゼンテーションを作成する方法はいくつかありますが、Catenda Hub との通信に最適な方法について説明します。A. ルールセットでチェックを実行します。B. プレゼンテーションに追加する Solibri 問題を見つけます。C. コミュニケーションに移動してスライドをプレゼンテーションに追加する代わりに、チェック結果の問題を右クリックして「スライドを追加」ボタンを押します。この方法で実行すると、その問題内のすべてのオブジェクトは Catenda Hub の問題に自動的に含まれ、位置を特定しやすくなります。これを Catenda Hub の「他を非表示」や「他を半透明」と組み合わせることで、問題に含まれるオブジェクトを常に把握できる優れた方法となります。この方法でスライドを作成する場合でも、コミュニケーションと同じ種類の問題レイアウトが表示され、タイトルの追加、説明の追加、追加の写真とコメントの追加が可能です。問題への人員割り当ても同様です。
+1\. Catenda Hubプロジェクトへの接続から始めます。[( こちら )](https://support.catenda.com/ja/articles/4670340-solibri-topics統合) 2\. 接続が完了したら、まずSolibriでclash detectionを実行し、プレゼンテーションを作成します。Solibriでプレゼンテーションを作成する方法は複数ありますが、ここではCatenda Hubとのやり取りに最適なタイプを説明します。A. ルールセットを使ってチェックを実行します。B. プレゼンテーションに追加したいSolibriの問題を見つけます。C. コミュニケーションに移動してプレゼンテーションにスライドを追加する代わりに、チェック結果内の問題を右クリックし、“Add slide”ボタンを押します。この方法では、その問題に含まれるすべてのオブジェクトがCatenda Hubの対応する問題に自動的に含まれ、見つけやすくなります。これに「hide others」と、Catenda Hubで他のオブジェクトを半透明にする操作を組み合わせると、どのオブジェクトがどの問題に含まれているかを常に把握できるため効果的です。この方法でスライドを作成しても、コミュニケーションと同じ問題のレイアウトになり、タイトル、説明、追加の画像、コメントを追加できます。担当者を問題に割り当てる場合も同様です。
 
 ![Workflow_Solibri_-_Bimsync.png](https://raw.githubusercontent.com/catenda/help-center/main/images/9qp86602/01-intro.png)
 
@@ -4532,7 +4532,7 @@ _ポイントサイズ_ _アダプティブ_ -デフォルト ポイントがカ
 
 # Catenda Navisworksプラグイン
 
-> **注釈:** プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)にあります。
+> **注意:** プラグインのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)にあります。
 
 Catenda Navisworksプラグインは、Nemetchek Archicadにインストールできるプラグインです。このプラグインを使用すると、3Dビューポイント、トピック、およびドキュメントについて、プロジェクトの他のメンバーと協力できます。
 
@@ -4601,7 +4601,7 @@ Catendaタブの[Catendaプラグイン]メニューの[BCFプラグイン]ボ�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/03-bcf-plugin.png)
 
-**プラグインをドッキング** ウィンドウのタイトルバーをアプリケーションの任意の側にドラッグしてドッキングします。
+**プラグインをドッキング**ウィンドウのタイトルバーをアプリケーションの任意の側にドラッグしてドッキングします。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/04-bcf-plugin.png)
 
@@ -4625,11 +4625,11 @@ Catendaタブの[Catendaプラグイン]メニューの[BCFプラグイン]ボ�
 
 ### 6.1 **認証**
 
-**トークン** サインイン後のCatenda認証トークンがここに表示されます。
+**トークン**サインイン後のCatenda認証トークンがここに表示されます。
 
 ### 6.2 **IFCGuid**
 
-**カテゴリと属性** カテゴリのデフォルト: Element 属性のデフォルト: IfcGUID
+**カテゴリと属性**カテゴリのデフォルト: Element 属性のデフォルト: IfcGUID
 
 **プロパティマッピング** Catenda Navisworksプラグインは、IFC内のIfcProjectのGUIDに基づいて、オブジェクトをトピック内のビューポイントにアタッチします。Navisworksでは、このGUIDはオブジェクトのプロパティにあります。以下は、オブジェクトが選択された状態の例です：
 
@@ -4641,11 +4641,11 @@ IFCの内容によっては、IfcProject GUIDが他のプロパティまたは�
 
 ### 6.3 **パス**
 
-**ダウンロードパス** プラグインを通じてダウンロードされるモデルおよびドキュメントが最終的に保存されるファイルの場所。
+**ダウンロードパス**プラグインを通じてダウンロードされるモデルおよびドキュメントが最終的に保存されるファイルの場所。
 
 ### 6.4 **スナップショット**
 
-**配置** 右 - デフォルト スナップショットが右に表示されます
+**配置**右 - デフォルト スナップショットが右に表示されます
 
 下 スナップショットが下に表示されます
 
@@ -4709,23 +4709,23 @@ Catendaからトピック内の最新情報を読み込みます。
 
 `ホームタブ -> ツールメニュー -> Clash Detective`
 
-**テスト概要** 新しいテストを追加します。これはテスト概要の外観です：
+**テスト概要**新しいテストを追加します。これはテスト概要の外観です：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/13-running-a-clash-detective-test.png)
 
-**ルール** ルールを選択するか、新しいルールを作成します。
+**ルール**ルールを選択するか、新しいルールを作成します。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/14-running-a-clash-detective-test.png)
 
-**選択** クラッシュについて相互にチェックするモデルを選択し、テストを実行します。
+**選択**クラッシュについて相互にチェックするモデルを選択し、テストを実行します。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/15-running-a-clash-detective-test.png)
 
-**結果** 結果を確認して、クラッシュに名前を付けます。
+**結果**結果を確認して、クラッシュに名前を付けます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/16-running-a-clash-detective-test.png)
 
-**コンテキストメニュー** クラッシュ行を右クリックして、次のコンテキストメニューを開きます：
+**コンテキストメニュー**クラッシュ行を右クリックして、次のコンテキストメニューを開きます：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/17-running-a-clash-detective-test.png)
 
@@ -4747,7 +4747,7 @@ Catendaからトピック内の最新情報を読み込みます。
 
 アイテム ここで、選択されたクラッシュに関連するオブジェクトが表示されます。
 
-**レポート** これはレポートメニューの外観です：
+**レポート**これはレポートメニューの外観です：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/18-running-a-clash-detective-test.png)
 
@@ -4769,25 +4769,25 @@ Catendaからトピック内の最新情報を読み込みます。
 
 1つ以上のクラッシュを選択してトピックを作成し、トピックにタイトルを付けて、トピックを追加をクリックします。
 
-**トピックドロップダウンを追加** トピックは、次の方法で作成できます：
+**トピックドロップダウンを追加**トピックは、次の方法で作成できます：
 
 1つの統合トピックを作成
 
 - 選択したクラッシュから1つのトピックを作成
-  - Navisworks Clash Detectiveで選択された各クラッシュに対して、ビューポイントを持つトピックを作成します。
+    - Navisworks Clash Detectiveで選択された各クラッシュに対して、ビューポイントを持つトピックを作成します。
 - 選択したクラッシュから1つのトピックを作成（統合ビューポイント）
-  - Navisworks Clash Detectiveで選択されたすべてのクラッシュを含めるためにズームアウトされた単一のビューポイントを持つトピックを作成します。
+    - Navisworks Clash Detectiveで選択されたすべてのクラッシュを含めるためにズームアウトされた単一のビューポイントを持つトピックを作成します。
 
 複数のトピックを作成
 
 - 選択したクラッシュごとに1つのトピックを作成
-  - Catenda Navisworksプラグインで選択された各クラッシュに対して、トピックを作成します。
+    - Catenda Navisworksプラグインで選択された各クラッシュに対して、トピックを作成します。
 - クラッシュグループごとに1つのトピックを作成
-  - Catenda Navisworksプラグインで選択されたクラッシュグループごとに、クラッシュグループ内の各クラッシュに対してビューポイントを持つトピックを作成します。
+    - Catenda Navisworksプラグインで選択されたクラッシュグループごとに、クラッシュグループ内の各クラッシュに対してビューポイントを持つトピックを作成します。
 - クラッシュグループごとに1つのトピックを作成（統合ビューポイント）
-  - Catenda Navisworksプラグインで選択されたクラッシュグループごとに、選択されたすべてのクラッシュを含めるためにズームアウトされた単一のビューポイントを持つトピックを作成します。
+    - Catenda Navisworksプラグインで選択されたクラッシュグループごとに、選択されたすべてのクラッシュを含めるためにズームアウトされた単一のビューポイントを持つトピックを作成します。
 - グループ化されていない各クラッシュに対して1つのトピックを作成
-  - Catenda Navisworksプラグインで選択されたグループ化されていない各クラッシュに対して、トピックを作成します
+    - Catenda Navisworksプラグインで選択されたグループ化されていない各クラッシュに対して、トピックを作成します
 
 ### 9.4 **ステータスを変更**
 
@@ -4831,15 +4831,15 @@ Catendaドキュメントライブラリウィンドウを開きます。これ�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/21-catenda-document-library.png)
 
-**ナビゲーション矢印** フォルダ構造の上のレベルに移動します。
+**ナビゲーション矢印**フォルダ構造の上のレベルに移動します。
 
-**更新** ドキュメントライブラリ内のドキュメントを更新します。
+**更新**ドキュメントライブラリ内のドキュメントを更新します。
 
-**ダウンロード** 選択したCatendaドキュメントの最新リビジョンをローカルシステムにダウンロードします。
+**ダウンロード**選択したCatendaドキュメントの最新リビジョンをローカルシステムにダウンロードします。
 
-**アップロード** 選択したCatendaドキュメントの最新リビジョンをローカルシステムにアップロードします。
+**アップロード**選択したCatendaドキュメントの最新リビジョンをローカルシステムにアップロードします。
 
-**列** ナビゲーション フォルダの行のナビゲーション矢印または別の場所をダブルクリックしてそのフォルダを開きます。
+**列**ナビゲーション フォルダの行のナビゲーション矢印または別の場所をダブルクリックしてそのフォルダを開きます。
 
 名前 フォルダまたはドキュメントの名前
 
@@ -4851,21 +4851,21 @@ Catendaドキュメントライブラリウィンドウを開きます。これ�
 
 ### 10.7 **列**
 
-**選択ボックス** モデルの選択ボックス
+**選択ボックス**モデルの選択ボックス
 
-**モデルアイコン** モデルのアイコン
+**モデルアイコン**モデルのアイコン
 
-**名前** モデルの名前
+**名前**モデルの名前
 
 **リビジョンCatenda** Catendaプロジェクト内の最新リビジョン番号
 
 **リビジョンNavisworks**
 
-**ダウンロード** ダウンロードアイコンをクリックして、最新のモデルリビジョンをダウンロードします。リビジョン navisworks列にリビジョン番号が表示されると、モデルがダウンロードされます。
+**ダウンロード**ダウンロードアイコンをクリックして、最新のモデルリビジョンをダウンロードします。リビジョン navisworks列にリビジョン番号が表示されると、モデルがダウンロードされます。
 
 **開く** [開く]アイコンをクリックして、モデルを新しいNavisworksプロジェクトで開きます。
 
-**追加** 追加アイコンをクリックして、モデルを現在のNavisworksプロジェクトに追加します。
+**追加**追加アイコンをクリックして、モデルを現在のNavisworksプロジェクトに追加します。
 
 ### 10.8 **Catenda Hubからモデルをダウンロード**
 
@@ -4969,7 +4969,7 @@ PowerBIからCatenda HUBデータベースへの接続を作成するには、�
 
 # Catenda Revit Plugin のアクション
 
-> **注意:** プラグインのインストールファイルは [この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合) で確認できます。
+> **注:** プラグインのインストールファイルは、[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)で確認できます。
 
 [Catenda Revit Plugin](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン) のアクションは、Revit アプリケーション内のプラグイン ウィンドウの右上に表示されます。
 
@@ -5027,7 +5027,7 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 ## 3. **3. 設定**
 
-設定ページでは、[ズーム機能](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン#h_36392f671a) を使用する際に、プラグインが 3D ビューをどのように作成するかを変更できます。
+設定ページでは、[ズーム機能](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン#h_d21bb53772)を使用する際に、プラグインが3Dビューを作成する方法を変更できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
@@ -5037,11 +5037,11 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 ### 3.2 **3.2 ナビゲーション**
 
-**3D ビューを正投影で保つ** このオプションは、対応するビューポイントが透視図で作成されている場合でも、Revit 3D ビューを正投影に強制します。
+**3D ビューを正投影で保つ**このオプションは、対応するビューポイントが透視図で作成されている場合でも、Revit 3D ビューを正投影に強制します。
 
-**トピックごとに新しいビューを作成** ズーム機能を使用するたびに同じ 3D ビューを再利用する代わりに、このオプションはズーム機能を使用するたびにトピックごとに新しい 3D ビューを作成します。
+**トピックごとに新しいビューを作成**ズーム機能を使用するたびに同じ 3D ビューを再利用する代わりに、このオプションはズーム機能を使用するたびにトピックごとに新しい 3D ビューを作成します。
 
-**3D ビュー名サフィックス** このテキストは、ズーム機能を使用して作成された 3D ビューの名前に追加されます。
+**3D ビュー名サフィックス**このテキストは、ズーム機能を使用して作成された 3D ビューの名前に追加されます。
 
 ### 3.3 **3.4 ビューポイント変換**
 
@@ -5053,7 +5053,7 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 **3.4.3 Z (Elev)** Z 方向の変換。正の値または負の値に応じた標高。単位: メートル
 
-**3.4.4 角度** 回転変換。正の値または負の値に応じた標高。単位: 度。カメラは同じ高さに留まり、モデル内のポイント周辺でカメラが回転します。
+**3.4.4 角度**回転変換。正の値または負の値に応じた標高。単位: 度。カメラは同じ高さに留まり、モデル内のポイント周辺でカメラが回転します。
 
 ## 4. **4. アカウント**
 
@@ -5071,7 +5071,7 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 # Catenda Revitプラグイン
 
-> **注:** プラグインのインストールファイルは[このページ](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)にあります。
+> **注:** プラグインのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)にあります。
 
 Catenda Revitプラグインは、Autodesk Revitにインストールできるプラグインです。このプラグインを使用することで、建設プロジェクトの他のメンバーと3Dビューポイント、トピック、ドキュメントについて協力することができます
 
@@ -5137,7 +5137,7 @@ Catendaのメールアドレスとパスワードでログインしてくださ�
 
 ### 3.1 **アクセスを取り消す**
 
-Catenda Hubアカウントへのアクセスは、Catenda Hub[アプリケーションページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_40e031c49a)に移動して、「Bimsync Arena用Revitプラグイン」の近くにある「アクセスを取り消す」をクリックすることで、いつでも取り消すことができます。
+Catenda Hubアカウントへのアクセスは、いつでも取り消すことができます。Catenda Hubの[アプリケーションページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_fd54e5a82e)にアクセスし、「Revit plugin for Bimsync Arena」の近くにある“Revoke access”をクリックしてください。
 
 ## 4. **トピックリスト**
 
@@ -5148,12 +5148,12 @@ Catenda Hubアカウントへのアクセスは、Catenda Hub[アプリケーシ
 ![Header.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/06-interface.png)
 
 1. Catenda Hubプロジェクトを選択します
-2. このプロジェクト内のトピックリストを選択します
-3. 現在選択されているトピックリストに新しいトピックを作成します
-4. 現在表示されているトピックを並び替えます
-5. Catenda Hubアドイン メニューを開きます
-6. 表示されているトピックを検索およびフィルターします
-7. トピックリスト内の現在フィルタリングされたトピックのリスト
+1. このプロジェクト内のトピックリストを選択します
+1. 現在選択されているトピックリストに新しいトピックを作成します
+1. 現在表示されているトピックを並び替えます
+1. Catenda Hubアドイン メニューを開きます
+1. 表示されているトピックを検索およびフィルターします
+1. トピックリスト内の現在フィルタリングされたトピックのリスト
 
 ### 4.2 **プロジェクトおよびトピックリスト選択**
 
@@ -5176,16 +5176,16 @@ Catenda Hubプロジェクトを選択すると、このプロジェクト内の
 ![IssueInformation.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/09-topic-selection.png)
 
 1. トピックのタイトル
-2. そのステータス(オープン、クローズ...)、そのタイプ(情報、エラー...)、そのラベル
-3. トピックを要求したメンバー
-4. トピックが割り当てられているメンバー
-5. トピックの期日
-6. トピックが最後に更新された時刻。日付にカーソルを合わせると、更新の完全な日時が表示されます。
-7. トピック内のコメント数
-8. トピック内の最初のコメントの画像
-9. Catenda Hubトピック番号
+1. そのステータス(オープン、クローズ...)、そのタイプ(情報、エラー...)、そのラベル
+1. トピックを要求したメンバー
+1. トピックが割り当てられているメンバー
+1. トピックの期日
+1. トピックが最後に更新された時刻。日付にカーソルを合わせると、更新の完全な日時が表示されます。
+1. トピック内のコメント数
+1. トピック内の最初のコメントの画像
+1. Catenda Hubトピック番号
 
-任意のトピックをクリックして、[トピック詳細ページ](#h_445d3efa52)に移動できます。
+任意のトピックをクリックすると、[トピック詳細ページ](#topic-details)に移動します。
 
 ### 4.5 **トピック並び替え**
 
@@ -5194,11 +5194,11 @@ Catenda Hubプロジェクトを選択すると、このプロジェクト内の
 ![sort.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/10-sort-topics.png)
 
 1. 最も最近作成されたトピックを最初に表示します
-2. 最も古いトピックを最初に表示します
-3. 最も最近更新されたトピックを最初に表示します。トピックの更新には、タイトル、コメントなどのプロパティの変更が含まれる可能性があります…
-4. 最近更新されていないトピックを最初に表示します
-5. 最も最近の期日を最初に表示します
-6. 最も古い期日を最初に表示します
+1. 最も古いトピックを最初に表示します
+1. 最も最近更新されたトピックを最初に表示します。トピックの更新には、タイトル、コメントなどのプロパティの変更が含まれる可能性があります…
+1. 最近更新されていないトピックを最初に表示します
+1. 最も最近の期日を最初に表示します
+1. 最も古い期日を最初に表示します
 
 ### 4.6 **トピックをフィルター**
 
@@ -5232,16 +5232,16 @@ Catenda Hubプロジェクトを選択すると、このプロジェクト内の
 
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
-1. [トピックリスト](#h_642fa61854)に戻る
-2. このトピックのコンテンツを更新します
-3. トピック間を移動します
-4. トピックステータスを設定します(オープン、クローズなど)
-5. トピックタイプを設定します(エラー、警告、情報など)
-6. トピックの期日を設定します
-7. トピックに割り当てられたメンバーを設定します。トピックを個別ユーザーまたはチームに割り当てることができます。
-8. このトピックを要求したメンバーを設定します。個別ユーザーまたはチームを設定できます。
-9. トピックラベルを編集します
-10. トピック内のコメントのリスト
+1. [トピックリスト](#topic-list)に戻る
+1. このトピックのコンテンツを更新します
+1. トピック間を移動します
+1. トピックステータスを設定します(オープン、クローズなど)
+1. トピックタイプを設定します(エラー、警告、情報など)
+1. トピックの期日を設定します
+1. トピックに割り当てられたメンバーを設定します。トピックを個別ユーザーまたはチームに割り当てることができます。
+1. このトピックを要求したメンバーを設定します。個別ユーザーまたはチームを設定できます。
+1. トピックラベルを編集します
+1. トピック内のコメントのリスト
 
 ### 5.2 **トピックプロパティ**
 
@@ -5266,10 +5266,10 @@ Catenda Hubプロジェクトを選択すると、このプロジェクト内の
 ![CommentDetail.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/17-comments.png)
 
 1. コメントの作成者
-2. コメントが作成された時刻。日付にカーソルを合わせると、更新の完全な日時が表示されます。
-3. [ズームボタン](#h_d873968c27)(下のセクションを参照)
-4. コメントに関連付けられた画像
-5. コメントのテキスト
+1. コメントが作成された時刻。日付にカーソルを合わせると、更新の完全な日時が表示されます。
+1. [ズームボタン](#zoom)（下記の章を参照）
+1. コメントに関連付けられた画像
+1. コメントのテキスト
 
 ### 5.4 **ズーム**
 
@@ -5281,7 +5281,7 @@ Catenda Hubプロジェクトを選択すると、このプロジェクト内の
 
 ビューポイントが透視図ビューから作成された場合、新しい3Dビューは投影モードが「透視図」に設定されます。それ以外の場合は、投影モードが「正投影」に設定されます。
 
-アドインは、1つの透視図ビューと1つの正投影ビューのみを作成します。作成後、ズーム機能の後続の使用のために再利用します。[設定メニュー](#h_b02502c589)でこれを変更できます。設定メニューを使用して、これらのビューの名前を変更することもできます。
+アドインは、パースペクティブビューとオーソグラフィックビューをそれぞれ一つだけ作成します。作成後は、ズーム機能を今後使用する際にそれらを再利用します。設定メニューで変更することができます。また、設定メニューを使用して、これらのビューの名前を変更することもできます。
 
 ### 5.5 **関連要素**
 
@@ -5323,7 +5323,7 @@ SharePointで既存のページを編集するか、新しいページを作成�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Catenda webpartが有効になったページを開き、まだアカウントを認可していない場合は、認可するよう求められます。アカウントの認可方法について詳しくは、[こちら](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション#h_788fe15988)を参照してください。
+Catendaウェブパーツが有効になっているページを開き、まだアカウントの認証を行っていない場合は、認証を求められます。アカウントの認証方法の詳細は[こちら](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション#h_a607ff9d09)をご覧ください。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 
@@ -5429,7 +5429,7 @@ Webpartの左上に、以下のアクションがあります：
 
 # Catenda SharePoint アプリを有効にする
 
-> **注:** プラグインのインストール ファイルは[このアーティクル](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)で見つけることができます。
+> **注:** プラグインのインストールファイルは、[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)に記載されています。
 
 Catenda SharePoint アプリケーションは、システム管理者が SharePoint 環境に対して有効にすることができ、その後、サイト所有者がサイトに追加できます。このアプリを使用すると、SharePoint ユーザーは建設プロジェクトの他のメンバーと一緒に、Catenda 内のドキュメントを表示、管理、および共同作業することができます。
 
@@ -5487,7 +5487,7 @@ API アクセスがない場合、Catenda SharePoint アプリケーションを
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/09-api-access.png)
 
-**アクセスを承認** 保留中のリクエストのリストから Catenda を選択し、上部の承認をクリックします。Catenda アプリケーションが機能するには、次の権限が必要です: アクセス
+**アクセスを承認**保留中のリクエストのリストから Catenda を選択し、上部の承認をクリックします。Catenda アプリケーションが機能するには、次の権限が必要です: アクセス
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/10-api-access.png)
 
@@ -5517,7 +5517,7 @@ Catenda アプリケーションが有効になっている可能性がありま
 
 ## 4. **アプリを管理**
 
-アプリを有効にすると、SharePoint 管理者は、アプリ管理エリアでアプリを確認できます。 https://\<Tenant>.sharepoint.com/sites/appcatalog/AppCatalog/Forms/AllItems.aspx
+アプリを有効にすると、SharePoint 管理者は、アプリ管理エリアでアプリを確認できます。https://\<Tenant>.sharepoint.com/sites/appcatalog/AppCatalog/Forms/AllItems.aspx
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/13-manage-apps.png)
 
@@ -5547,7 +5547,7 @@ Catenda アプリケーションが有効になっている可能性がありま
 
 # Catenda SharePoint アプリケーション
 
-> **注:** プラグインのインストール ファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)にあります。
+> **注:** プラグインのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)に掲載されています。
 
 Catenda SharePoint アプリケーションが SharePoint サイトに追加されると、SharePoint から Catenda にファイルを公開でき、Catenda ドキュメント構造を SharePoint で表示できます。設定すると、アプリケーションは次のようになります: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>この記事には、このアプリケーションがどのように機能するかについての情報が含まれていますこのアプリケーションが有用な方法の詳細については、[こちら](https://support.catenda.com/ja/articles/9419678-catenda-sharepoint-faq)を参照してください。SharePoint アプリケーションをサイトに追加する方法については、[こちら](https://support.catenda.com/ja/articles/9453368-catendasp-アプリの追加と削除)を参照してください。
 
@@ -5559,11 +5559,11 @@ Catenda SharePoint アプリケーションが SharePoint サイトに追加さ�
 
 ### 1.1 **リストコマンドの検索**
 
-**1つのファイル** 単一のファイルをCatendaに公開したい場合、最も簡単な方法は、ファイルのハンバーガー メニューで「Catendaに公開」をクリックすることです。
+**1つのファイル**単一のファイルをCatendaに公開したい場合、最も簡単な方法は、ファイルのハンバーガー メニューで「Catendaに公開」をクリックすることです。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/01-finding-the-list-command.png)
 
-**複数のファイル** 複数のファイルをCatendaに公開したい場合は、公開したいファイルを選択する必要があります。SharePointでファイルを選択すると、ユーザーは「Catendaに公開」リストコマンドを表示できます。
+**複数のファイル**複数のファイルをCatendaに公開したい場合は、公開したいファイルを選択する必要があります。SharePointでファイルを選択すると、ユーザーは「Catendaに公開」リストコマンドを表示できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/02-finding-the-list-command.png)
 
@@ -5579,7 +5579,7 @@ Catenda SharePoint アプリケーションが SharePoint サイトに追加さ�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/04-publishing-the-file.png)
 
-SharePointにCatendaアカウントへのアクセスを許可していない場合、認可するよう求められます。アカウントの認可方法については、[以下](#h_788fe15988)を参照してください。
+Catenda アカウントに SharePoint へのアクセス権を付与していない場合、認可を求められます。アカウントの認可方法については[以下](#authorizing-your-catenda-account)をご覧ください。
 
 **フォルダの選択** Catendaアカウントへのアクセスを許可している場合は、Catendaでプロジェクト、ライブラリ、および宛先フォルダを選択して、公開できます。
 
@@ -5621,7 +5621,7 @@ _アクセス必須:_ アプリケーションをインストールするとき�
 
 > **注:** CatendaはSharePointドキュメントにアクセスできません。ドキュメントをCatendaに公開する場合、Catendaはそれを一方通行のトランザクションで受け取ります。
 
-アプリケーションにCatendaアカウントへのアクセスを許可したくない場合は、Catendaアカウントの[アプリケーション ページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_40e031c49a)でいつでもアクセスを取り消すことができます。
+このアプリによる Catenda アカウントへのアクセスが不要になった場合は、Catenda アカウントの[アプリケーションページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_fd54e5a82e)でいつでもアクセスを取り消すことができます。
 
 # Catenda Siteのオフラインモード
 
@@ -5695,7 +5695,7 @@ _アクセス必須:_ アプリケーションをインストールするとき�
 **新規トピックの編集と送信**
 
 - トピックの最上部に灰色のバーが表示されている場合、新しいオフライントピックを閲覧していることがわかります。
-- [アウトボックス](#h_ff2a47f221)を通じてまだ送信されていないオフラインモードのトピックを編集することができます
+- オフラインモードで、まだ[アウトボックス](#outbox)から送信されていないトピックは編集できます
 
 ### 1.5 **アウトボックス**
 
@@ -5733,7 +5733,7 @@ _アクセス必須:_ アプリケーションをインストールするとき�
 
 > Catenda Hub と Tekla を接続
 
-> **注意:** プラグインのインストール ファイルは、[このナレッジベース記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)で確認できます。
+> **注:** プラグインのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)でご確認いただけます。
 
 ## 1. **インストール**
 
@@ -5767,7 +5767,7 @@ Tekla には Catenda Hub 専用のビューがあり、このビューを使用�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/03-getting-started.png)
 
-Catenda Hub の Web アプリケーション上の Catenda Hub [アカウント ページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_40e031c49a)に移動することで、いつでも Catenda Hub アカウントへのアクセスを取り消すことができます。
+Catenda Hub Webアプリケーション上の Catenda Hub [アプリケーションページ](https://support.catenda.com/ja/articles/6880968-アカウントページ#h_fd54e5a82e)にアクセスすると、いつでも Catenda Hub アカウントへのアクセスを取り消すことができます。
 
 ## 4. **トピック一覧**
 
@@ -5778,13 +5778,13 @@ Catenda Hub の Web アプリケーション上の Catenda Hub [アカウント 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/04-interface.png)
 
 1. Catenda プロジェクトを選択
-2. このプロジェクト内の issue board を選択
-3. 現在選択されている issue board に新しいイシューを作成
-4. 現在表示されているイシューをソート
-5. Catenda Hub アドイン メニューを開く
-6. 表示されているイシューを検索およびフィルター
-7. Issue board 内で現在フィルター処理されているイシューのリスト
-8. イシューを更新
+1. このプロジェクト内の issue board を選択
+1. 現在選択されている issue board に新しいイシューを作成
+1. 現在表示されているイシューをソート
+1. Catenda Hub アドイン メニューを開く
+1. 表示されているイシューを検索およびフィルター
+1. Issue board 内で現在フィルター処理されているイシューのリスト
+1. イシューを更新
 
 ### 4.2 **プロジェクトと issue board の選択**
 
@@ -5795,9 +5795,9 @@ Catenda プロジェクトを選択すると、このプロジェクト内の is
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/05-catenda-hub-add-in-menu.png)
 
 1. モデルとリビジョンのリスト
-2. Catenda Hub への IFC アップロード用のエクスポート設定
-3. Catenda Hub プラグインのバージョン
-4. Catenda Hub アカウントをログアウト
+1. Catenda Hub への IFC アップロード用のエクスポート設定
+1. Catenda Hub プラグインのバージョン
+1. Catenda Hub アカウントをログアウト
 
 # Catenda の PDF 上の QR コード
 
@@ -5934,11 +5934,11 @@ Catenda アーカイビング ポータルを使用すると、Catenda Hub プ�
 
 以下のアプリケーションでは、ツール内から Catenda でログインできます。接続後、これらのアプリケーションが[アプリケーション ページ](https://hub.catenda.com/account/apps)に表示されます。
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/10741601-ホーム画面に追加">ホーム画面に追加</a></i></h3><p>コンピュータ、iPhone & iPad、Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ブラウザ エクスペリエンスと同じ </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda ヘルプ記事</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/10741601-ホーム画面に追加">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>iPhone &amp; iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード">記事</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://testflight.apple.com/join/xj6WppjQ">Catenda（早期アクセス）</a></i></h3><p>iPhone & iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>早期アクセス</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>TestFlight</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=com.catenda.apex">Catenda（早期アクセス）</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.1</p><p><i>早期アクセス</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play ストア</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5">​<i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Desktop Connector</a></i></h3><p>Windows</p><p>(ゴールデン イメージのベータ版)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Beta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection<br/>(ベータ版はリクエストのみ)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi ベータ版)</p><p>(.exe ベータ版)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7c41e0a9d2"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/17778695-catenda-ai-connectについて">Catenda AI Connect（アーリーアクセス）</a></i></h3><p>Claude、Microsoft Copilot、ChatGPT</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>アーリーアクセス</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda ヘルプ記事</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/17778695-catenda-ai-connectについて">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Revit プラグイン</a></i></h3><p>開始: Revit 2022 <br/>終了: Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Navisworks プラグイン</a></i></h3><p>Navisworks v.2027 まで</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/5085987-catenda-navisworksプラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Archicad プラグイン</a></i></h3><p>Windows バージョン、<br/>開始: Archicad 23<br/>終了: Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Archicad プラグイン</a></i></h3><p>macOS バージョン、<br/>開始: Archicad 23<br/>終了: Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/ja/articles/6988148-solibriモデルとドキュメント統合">Solibri 統合</a></i></h3><p>OpenCDE ドキュメント</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda ヘルプ記事</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6988148-solibriモデルとドキュメント統合">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/ja/articles/4670340-solibri-topics統合">Solibri 統合</a></i></h3><p>BCF Live Connector</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catendaヘルプ記事</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670340-solibri-topics統合">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Tekla プラグイン</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Tekla プラグイン</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Tekla プラグイン</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Tekla プラグイン</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Tekla プラグイン</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Tekla プラグイン</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Tekla プラグイン</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">PowerBI コネクタ</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">SharePoint アプリ</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft AppSource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>バージョン</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>リンク タイプ</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>ファイル タイプ</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>記事</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">SimpleBIM アドオン</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>SimpleBIM サポート ページ</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p><p>-&gt; .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_af2a42e407"><b>AnkerDB</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5bc6c766cb"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_57ebc2f0a8"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c53522ad00"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_657957a849"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_da06a3aa70"><a class="intercom-content-link" href="https://ankerdb.com/">AnkerDB</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>AnkerDBウェブサイト</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_a71ebd6fce"><b>Treegram</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_770450e792"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31225eee56"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f3615416c6"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_20b7886ed7"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_271e0bfa5b"><a class="intercom-content-link" href="https://www.treegram.fr/">Treegram</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Treegramウェブサイト</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>VREX 統合</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>リンク</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>ファイルタイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>12Build <br/>サポート ページ</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.12build.com/en/">記事</a></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>バージョン</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>リンクタイプ</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>ファイルタイプ</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>記事</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>NYK Systems<br/>サポート ページ</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">記事</a><br/>​</p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ccbdd3aae0"><b>Acos</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_67fc299f3a"><b>バージョン</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_515dacc105"><b>リンクタイプ</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_31f1ece2a4"><b>ファイルタイプ</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7cde189b1c"><b>記事</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c3475691f7"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/16968870-アーカイビングポータルのプロジェクトページ">WebSak+</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catendaヘルプ記事</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/16968870-アーカイビングポータルのプロジェクトページ">記事</a></i></p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/10741601-ホーム画面に追加">ホーム画面に追加</a></i></h3><p>コンピュータ、iPhone & iPad、Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ブラウザ エクスペリエンスと同じ </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda ヘルプ記事</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/10741601-ホーム画面に追加">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>iPhone &amp; iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード">記事</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://testflight.apple.com/join/xj6WppjQ">Catenda（早期アクセス）</a></i></h3><p>iPhone & iPad</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>早期アクセス</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>TestFlight</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=com.catenda.apex">Catenda（早期アクセス）</a></i></h3><p>Android</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.1</p><p><i>早期アクセス</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play ストア</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5">​<i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Desktop Connector</a></i></h3><p>Windows</p><p>(ゴールデン イメージのベータ版)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Beta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection<br/>(ベータ版はリクエストのみ)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi ベータ版)</p><p>(.exe ベータ版)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7c41e0a9d2"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/collections/19796965-catenda-ai-connect">Catenda AI Connect (早期アクセス)</a></i></h3><p>Claude、Microsoft Copilot、ChatGPT</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>アーリーアクセス</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda ヘルプ記事</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/collections/19796965-catenda-ai-connect">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Revit プラグイン</a></i></h3><p>開始: Revit 2022 <br/>終了: Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Navisworks プラグイン</a></i></h3><p>Navisworks v.2027 まで</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/5085987-catenda-navisworksプラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Archicad プラグイン</a></i></h3><p>Windows バージョン、<br/>開始: Archicad 23<br/>終了: Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Archicad プラグイン</a></i></h3><p>macOS バージョン、<br/>開始: Archicad 23<br/>終了: Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6988148-solibriモデルとドキュメント統合">Solibri連携</a></i></h3><p>OpenCDE ドキュメント</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda ヘルプ記事</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6988148-solibriモデルとドキュメント統合">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670340-solibri-topics統合">Solibri連携</a></i></h3><p>BCF Live Connector</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catendaヘルプ記事</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/4670340-solibri-topics統合">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Tekla プラグイン</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Tekla プラグイン</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Tekla プラグイン</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Tekla プラグイン</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Tekla プラグイン</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Tekla プラグイン</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Tekla プラグイン</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/6549656-catenda-tekla-プラグイン">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">PowerBI コネクタ</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda Collection</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i> <a class="intercom-content-link" href="https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ">記事</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">SharePoint アプリ</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft AppSource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i> <a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>バージョン</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>リンク タイプ</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>ファイル タイプ</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>記事</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://community.simplebim.com/hc/en-us/articles/21416821438236-Download-Catenda-HUB-Add-on">SimpleBIM アドオン</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>SimpleBIM サポート ページ</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p><p>-&gt; .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i> <a class="intercom-content-link" href="https://community.simplebim.com/hc/en-us/articles/21416821438236-Download-Catenda-HUB-Add-on">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_af2a42e407"><b>AnkerDB</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5bc6c766cb"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_57ebc2f0a8"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c53522ad00"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_657957a849"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_da06a3aa70"><a class="intercom-content-link" href="https://ankerdb.com/">AnkerDB</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>AnkerDBウェブサイト</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_a71ebd6fce"><b>Treegram</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_770450e792"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31225eee56"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f3615416c6"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_20b7886ed7"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_271e0bfa5b"><a class="intercom-content-link" href="https://www.treegram.fr/">Treegram</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Treegramウェブサイト</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>リンク タイプ</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>ファイル タイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>VREX 統合</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">記事</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>バージョン</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>リンク</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>ファイルタイプ</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>記事</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>12Build <br/>サポート ページ</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><a class="intercom-content-link" href="https://12build.com/en/knowledgebase/12build-integrations-catenda-hub">記事</a></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>バージョン</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>リンクタイプ</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>ファイルタイプ</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>記事</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>NYK Systems<br/>サポート ページ</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">記事</a><br/>​</p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ccbdd3aae0"><b>Acos</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_67fc299f3a"><b>バージョン</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_515dacc105"><b>リンクタイプ</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_31f1ece2a4"><b>ファイルタイプ</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7cde189b1c"><b>記事</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c3475691f7"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/16968870-アーカイビングポータルのプロジェクトページ">WebSak+</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catendaヘルプ記事</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ウェブページ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center"><i><a class="intercom-content-link" href="https://support.catenda.com/ja/articles/16968870-アーカイビングポータルのプロジェクトページ">記事</a></i></p></td></tr></tbody></table></div>
 
 # CatendaSP アプリの追加と削除
 
-> **注:** プラグインのインストール ファイルは、[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)で見つけることができます。
+> **注:** プラグインのインストールファイルは、[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)で確認できます。
 
 Catenda SharePoint アプリケーションは、SharePoint 管理者がテナントに対してアプリを有効にしている場合、サイト所有者が SharePoint 環境に追加できます。このアプリを使用すると、SharePoint ユーザーは Catenda 内のドキュメントを表示、管理し、建設プロジェクトの他のメンバーと一緒に協力することができます。
 
@@ -6179,7 +6179,7 @@ IFCトランスレーターボックスを使用すると、トランスレー�
 
 ## 3. **3. エクスポートの異なる設定**
 
-3.1 [モデルフィルター](#h_138e653078)では、異なるプリセットによってエクスポートするものをフィルターできます。3.2 [タイプマッピング](#h_a34c1332a3)では、各要素がエクスポートされるIFCタイプの種類を選択できます。3.3 [ジオメトリ変換](#h_db084b5d6b)では、エクスポートするジオメトリの種類を選択できます。3.4 [プロパティマッピング](#h_d48644eb35)では、タイプに基づいて基準を設定できます。3.5 [データ変換](#h_7f1df4ecb9)では、モデルからエクスポートするデータの種類を選択できます。3.6 [ユニット変換](#h_36caead1cd)では、IFCでエクスポートする測定ユニットを選択できます。
+3.1 [model フィルター](#4-model-filter) では、さまざまなプリセットを使用して、エクスポートする対象をフィルターできます。 3.2 [タイプマッピング](#5-type-mapping) では、各要素をエクスポート時にどの種類の IFC タイプとして出力するかを選択できます。 3.3 [ジオメトリ変換](#6-geometry-conversion) では、エクスポートするジオメトリの種類を選択できます。 3.4 [プロパティマッピング](#10-property-mapping) では、タイプに基づく条件を設定できます。 3.5 [データ変換](#11-data-conversion) では、model からエクスポートするデータの種類を選択できます。 3.6 [単位変換](#12-unit-conversion) では、IFC でエクスポートする計測単位を選択できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 
@@ -6778,7 +6778,7 @@ _ファイル ヘッダー情報... プロジェクト アドレス..._ これ�
 
 ![プロパティ OmniClass番号](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
 
-分類を使用してIFCをエクスポートし、Catendaにモデルとしてインポートした場合、分類は[提案されたライブラリ](https://support.catenda.com/ja/articles/8065645-ライブラリページ#h_c03d50a9ca)として表示されます。[ライブラリ ページ](https://support.catenda.com/ja/articles/8065645-ライブラリページ)で新しいライブラリを作成する場合。指定したプロパティ内の値が提供されたドキュメント内の値と一致する場合、その値が見つかり、作成した分類ライブラリを通じてこの値を持つオブジェクトを選択するために使用できます。
+IFCを分類付きでエクスポートし、Catendaにmodelとしてインポートした場合、[ライブラリページ](https://support.catenda.com/ja/articles/8065645-ライブラリページ)で新しいライブラリを作成すると、その分類が[推奨ライブラリ](https://support.catenda.com/ja/articles/8065645-ライブラリページ#h_04fc07e763)として提案されます。指定したプロパティの値が、提供されたドキュメント内の値と一致する場合、その値が見つかり、作成した分類ライブラリを通じて、この値を持つオブジェクトを選択するために使用できます。
 
 ---
 
@@ -7122,7 +7122,7 @@ Solibri Extensionsに移動してBCFコネクタを選択します
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qv33595h/06-intro.png)
 
-BCFサーバーでワークフローを最適化するには、[こちらをご覧ください](https://support.bimsync.com/hc/en-us/articles/360011987619)
+BCFサーバーでワークフローを最適化するには、[こちらをご覧ください](https://support.catenda.com/ja/collections/5313241-nemetcheck-solibri-office)
 
 # Solibriモデルとドキュメント統合
 
@@ -7150,14 +7150,14 @@ BCFサーバーでワークフローを最適化するには、[こちらをご�
 
 [開く]をクリック後、デフォルトブラウザが開きます。
 
-- このプロセスをキャンセルして Solibriの操作を続行する場合は、[ブラウザセッションをキャンセル](#h_e921d649ed)してください。
-- まだ実行していない場合は、[アカウントへのアクセス許可](#h_55ca1d4d10)を付与してください。
-- まだプロジェクトを選択していない場合は、[プロジェクトページ](#h_343870704c)でプロジェクトを選択してください。
-- プロジェクトを選択した後、またはプロジェクトを既に選択している場合は、[ドキュメントページ](#h_b7ac757915)(_デフォルト_)または[モデルページ](#h_617a3f8bf6)を選択できます。
+- このプロセスをキャンセルして Solibri での作業を続ける場合は、[ブラウザセッションをキャンセル](#cancel-browser-session)してください
+- まだの場合は、[アカウントへのアクセスを許可](#granting-access-to-your-catenda-account)してください。
+- まだプロジェクトを選択していない場合は、[プロジェクトページ](#solibri-document-integration-projects-page)でプロジェクトを選択してください。
+- プロジェクトを選択した後、または以前にプロジェクトを選択していた場合は、[ドキュメントページ](#solibri-document-integration-documents-page)（_デフォルト_）または[modelページ](#solibri-document-integration-models-page)を選択できます。
 
 ## 3. **Solibriセッションを Catendaにエクスポート**
 
-[モデルのアップロード]ボタンが利用可能になるには、[Catendaアカウントを接続](#h_457cbf4e9d)していて、Solibriセッションに少なくとも1つのファイルがある必要があります。[モデルのアップロード]をクリックして、Solibriセッションをアクセス可能な Catendaプロジェクトの一部としてエクスポートします。
+Upload modelボタンを利用するには、[Catendaアカウントを接続](#connecting)しており、Solibri セッションに少なくとも一つのファイルがある必要があります。Upload modelをクリックして、Solibri セッションを、アクセス権のある Catenda プロジェクトの一部としてエクスポートします。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/05-exporting-solibri-session-to-catenda.png)
 
@@ -7169,10 +7169,10 @@ Solibriセッションをまだ保存していないか、最後の保存以降�
 
 [モデルのアップロード]をクリック後、デフォルトブラウザが開きます。
 
-- このプロセスをキャンセルして Solibriの操作を続行する場合は、[ブラウザセッションをキャンセル](#h_e921d649ed)してください。
-- まだ実行していない場合は、[アカウントへのアクセス許可](#h_55ca1d4d10)を付与してください。
-- まだプロジェクトを選択していない場合は、[プロジェクトページ](#h_343870704c)でプロジェクトを選択してください。
-- プロジェクトを選択した後、またはプロジェクトを既に選択している場合は、[ドキュメントページ](#h_b7ac757915)が表示されます。
+- このプロセスをキャンセルして Solibri での作業を続ける場合は、[ブラウザセッションをキャンセル](#cancel-browser-session)してください
+- まだの場合は、[アカウントへのアクセスを許可](#granting-access-to-your-catenda-account)してください。
+- まだプロジェクトを選択していない場合は、[プロジェクトページ](#solibri-document-integration-projects-page)でプロジェクトを選択してください。
+- プロジェクトを選択した後、または以前にプロジェクトを選択していた場合は、[ドキュメントページ](#solibri-document-integration-documents-page)が表示されます。
 
 ## 4. **Solibriドキュメント統合 -** プロジェクトページ
 
@@ -15543,7 +15543,7 @@ _アクセス必須：_ プロジェクト設定でモデルの作成と削除�
 
 # モバイルアプリ Catenda Site をダウンロード 📲
 
-> **注意:** アプリケーションのインストールファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)に記載されています。Google Playで「Catenda Site」がお使いのデバイスで利用できないと表示される場合は、[Catenda Site - トラブルシューティング](https://support.catenda.com/ja/articles/11926914-catenda-site-トラブルシューティング#not-available-for-your-device-in-google-play)をご覧ください。
+> **注:** アプリのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)で確認できます。Google Play で Catenda Site がお使いのデバイスに対応していないと表示される場合は、[Catenda Site - トラブルシューティング](https://support.catenda.com/ja/articles/11926914-catenda-site-トラブルシューティング#not-available-for-your-device-in-google-play)をご覧ください。
 
 [デモをご予約](https://catenda.com/get-started)いただけます
 
@@ -24837,9 +24837,15 @@ _Catenda Site：_ [App Store](https://apps.apple.com/us/app/catenda-site/id14495
 
 # Catenda Archicad プラグイン変更履歴 - 1.0.1.17
 
-1.0.1.17 の新機能
+この変更履歴は、Catenda Archicad プラグインのバージョン 1.0.1.17 を対象としています。
 
-Archicad 29 対応 座標アクションメニューでサーベイポイントとプロジェクト原点を選択できるようになりました。viewpoint は座標アクションメニューで設定された座標設定に相対して再生されるようになりました。公開およびシェアされたメジャーおよびマイナー revision を備えた新しいステータスワークフローをサポートしています。
+## 1. **2026年十月: 翻訳を追加**
+
+プラグインのページが翻訳版で提供されるようになり、日本語版も含まれます。バージョン番号は変更されておらず、翻訳のみが追加されました。
+
+## 2. **2026年九月: 新機能**
+
+Archicad 29 のサポート。座標アクションメニューで測量点とプロジェクト原点のどちらかを選択できるようになりました。viewpoint は、座標アクションメニューで設定された座標設定を基準に配置されるようになりました。公開済みおよび共有済みの major revision と minor revision を備えた新しいステータスワークフローをサポートしました。
 
 # Catenda Hubの新機能は何ですか？
 

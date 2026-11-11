@@ -1,6 +1,6 @@
 # Acties in de Catenda Revit-invoegtoepassing
 
-> **Opmerking:** Het installatiebestand voor de invoegtoepassing is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
+> **Let op:** Het installatiebestand voor de plug-in is te vinden in [dit artikel](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
 
 De acties [Catenda Revit-invoegtoepassing](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin) zijn te vinden rechtsboven in het invoegtoepassing-venster in de Revit-toepassing.
 
@@ -58,7 +58,7 @@ Klik op Uploaden om een IFC te uploaden. Er moet een opmerking worden toegevoegd
 
 ## 3. **3. Instellingen**
 
-Op de pagina Instellingen kunt u wijzigen hoe de invoegtoepassing een 3D-weergave maakt wanneer u de [Zoomfunctie](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin#h_36392f671a) gebruikt.
+Op de instellingenpagina kunt u wijzigen hoe de plug-in een 3D-weergave maakt bij gebruik van de [Zoomfunctie](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin#h_d21bb53772).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 

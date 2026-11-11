@@ -1,6 +1,6 @@
 # Actions dans le plug-in Catenda Revit
 
-> **Remarque :** Le fichier d'installation du plug-in se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-plugins-et-integrations-catenda).
+> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda).
 
 Les actions [Plug-in Catenda Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit) se trouvent vers le coin supérieur droit de la fenêtre du plug-in dans l'application Revit.
 
@@ -58,7 +58,7 @@ Cliquez sur Télécharger pour télécharger un IFC. Un commentaire doit être a
 
 ## 3. **3. Paramètres**
 
-La page des paramètres vous permet de modifier la façon dont le plug-in créera une vue 3D lors de l'utilisation de la [fonction Zoom](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit#h_36392f671a).
+La page des paramètres vous permet de modifier la façon dont le plugin crée la vue 3D lors de l'utilisation de la [fonction Zoom](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit#h_d21bb53772).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 

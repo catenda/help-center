@@ -56,7 +56,7 @@ Finn Desktop Connector i listen og klikk på handlingsmenyen på høyre side for
 
 ## 4. **Logg inn**
 
-Når Desktop Connector åpnes for første gang, vises en innloggingsforespørsel. Klikk på Logg inn-knappen for å åpne standardnettleseren på systemet på Catenda-innloggingssiden. Etter innlogging, eller hvis du allerede er innlogget, klikk på Tillat tilgang for å gi tilgang til Catenda-kontoen som er innlogget. Etter å ha klikket på Tillat tilgang vil nettleseren be brukeren om å åpne Desktop Connector-programmet. Ved å gi tillatelse til å åpne programmet omdirigeres du tilbake til Desktop Connector [startside](#h_097078145d).
+Når Desktop Connector åpnes for første gang, vises en forespørsel om pålogging. Klikk på Sign-in-knappen for å åpne standardnettleseren på systemet på Catenda-påloggingssiden. Etter pålogging, eller hvis du allerede er logget inn, klikk på Tillat tilgang for å gi tilgang til Catenda-kontoen som er logget inn. Etter at du har klikket på Tillat tilgang, vil nettleseren be brukeren om å åpne Desktop Connector-applikasjonen. Når du gir tillatelse til å åpne applikasjonen, sendes du tilbake til Desktop Connector [startsiden](#home-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
@@ -120,9 +120,9 @@ Oppgaven må ha minst en dag valgt for å bli lagret
 
 ### 7.3 **Prosjektplassering**
 
-_Server_ Klikk på Bla gjennom for å velge destinasjonen på Dokumenter-siden i Catenda Hub hvor filer skal synkroniseres til. Klikk [her](#h_4446f1b663) for å lese mer om valg av serverkatalogsti
+**Server** Klikk på Bla gjennom for å velge målmappen på Dokumenter-siden i Catenda Hub der filene skal synkroniseres til. Klikk [her](#server-location) for å lese mer om valg av sti til serverkatalogen
 
-_Lokal_ Velg plasseringen på det lokale systemet der filene skal synkroniseres fra.
+**Lokal** Velg plasseringen på det lokale systemet der filene skal synkroniseres fra.
 
 ### 7.4 **Øyeblikkelig**
 
@@ -144,9 +144,9 @@ Oppgaven må ha minst en dag valgt for å bli lagret
 
 ### 8.3 **Prosjektplassering**
 
-_Server_ Velg plasseringen på Catenda Hub der dokumenter skal lastes ned fra. Klikk [her](#h_4446f1b663) for å lese mer om valg av serverkatalogsti
+**Server** Velg plasseringen på Catenda Hub der dokumentene skal lastes ned fra. Klikk [her](#server-location) for å lese mer om valg av sti til serverkatalogen
 
-_Lokal_ Velg destinasjonen på det lokale systemet der filer skal lastes ned til.
+**Lokal** Velg destinasjonen på det lokale systemet der filer skal lastes ned til.
 
 ### 8.4 **Øyeblikkelig**
 
@@ -154,7 +154,7 @@ En oppgave trenger ikke å bli lagret for å starte nedlastingen. Klikk på Last
 
 ### 8.5 Tilbake-knapp
 
-Klikk på pil-knappen for å gå tilbake til [startside](#h_097078145d)
+Klikk på pilknappen for å gå tilbake til [startsiden](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -216,7 +216,7 @@ Status for denne oppgaven.
 
 ### 10.5 **Tilbake-knapp**
 
-Klikk denne knappen for å gå tilbake til [startside](#h_097078145d)
+Klikk på denne knappen for å gå tilbake til [startsiden](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 

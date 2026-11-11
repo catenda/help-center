@@ -24,14 +24,14 @@ Cliquez sur Ouvrir pour importer des documents ou des modèles auxquels vous ave
 
 Après avoir cliqué sur Ouvrir, votre navigateur par défaut s'ouvrira.
 
-- [Annulez votre session de navigateur](#h_e921d649ed) si vous souhaitez annuler ce processus et continuer à travailler avec Solibri
-- Si vous ne l'avez pas déjà fait, [accordez l'accès à votre compte](#h_55ca1d4d10).
-- Si vous n'avez pas encore sélectionné de projet, sélectionnez un projet sur la [page des projets](#h_343870704c).
-- Après avoir sélectionné un projet, ou si vous avez précédemment sélectionné un projet, vous pouvez sélectionner la [page des documents](#h_b7ac757915) (_par défaut_) ou la [page des modèles](#h_617a3f8bf6).
+- [Annuler votre session de navigateur](#cancel-browser-session) si vous souhaitez annuler ce processus et continuer à travailler avec Solibri
+- Si vous ne l'avez pas encore fait, [accordez l'accès à votre compte](#granting-access-to-your-catenda-account).
+- Si vous n'avez pas encore sélectionné de projet, sélectionnez un projet sur la [page des projets](#solibri-document-integration-projects-page).
+- Après avoir sélectionné un projet, ou si vous avez déjà sélectionné un projet précédemment, vous pouvez sélectionner la [page Documents](#solibri-document-integration-documents-page) (_par défaut_) ou la [page model](#solibri-document-integration-models-page).
 
 ## 3. **Export de la session Solibri vers Catenda**
 
-Pour que le bouton Charger le modèle devienne disponible, vous devez avoir [connecté votre compte Catenda](#h_457cbf4e9d) et avoir au moins un fichier dans votre session Solibri. Cliquez sur Charger le modèle pour exporter votre session Solibri en tant que partie de votre projet Catenda auquel vous avez accès.
+Pour que le bouton Téléverser le model soit disponible, vous devez avoir [connecté votre compte Catenda](#connecting) et disposer d'au moins un fichier dans votre session Solibri. Cliquez sur Téléverser le model pour exporter votre session Solibri vers une partie de votre projet Catenda auquel vous avez accès.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/05-exporting-solibri-session-to-catenda.png)
 
@@ -43,10 +43,10 @@ Le .smc qui a été enregistré peut maintenant être exporté en tant que nouve
 
 Après avoir cliqué sur Charger le modèle, votre navigateur par défaut s'ouvrira.
 
-- [Annulez votre session de navigateur](#h_e921d649ed) si vous souhaitez annuler ce processus et continuer à travailler avec Solibri
-- Si vous ne l'avez pas déjà fait, [accordez l'accès à votre compte](#h_55ca1d4d10).
-- Si vous n'avez pas encore sélectionné de projet, sélectionnez un projet sur la [page des projets](#h_343870704c).
-- Après avoir sélectionné un projet, ou si vous avez précédemment sélectionné un projet, vous serez présenté avec la [page des documents](#h_b7ac757915).
+- [Annuler votre session de navigateur](#cancel-browser-session) si vous souhaitez annuler ce processus et continuer à travailler avec Solibri
+- Si vous ne l'avez pas encore fait, [accordez l'accès à votre compte](#granting-access-to-your-catenda-account).
+- Si vous n'avez pas encore sélectionné de projet, sélectionnez un projet sur la [page des projets](#solibri-document-integration-projects-page).
+- Après avoir sélectionné un projet, ou si vous avez déjà sélectionné un projet précédemment, vous serez redirigé vers la [page Documents](#solibri-document-integration-documents-page).
 
 ## 4. **Intégration des documents Solibri -** Page des projets
 

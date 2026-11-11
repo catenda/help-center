@@ -126,21 +126,21 @@ Typiske egenskaper som vises i egenskapsmenyen er: Begrensninger, Tverrsnittsdef
 
 Typiske egenskaper som vises i Identifikasjonsmenyen er: IFC-parametere Eksporter standard IFC-egenskaper. Eksporterer beregnede mengder av objekter. Eksportbatchlister Eksporter engangseiendomssett
 
-_Klassifikasjonsinnstillinger_ Her er et eksempel på hvordan klassifikasjonsinnstillinger kan se ut med omniclass.
+**Klassifikasjonsinnstillinger** Her er et eksempel på hvordan klassifikasjonsinnstillinger kan se ut med omniclass.
 
 ![Klassifikasjonsinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/13-property-sets.png)
 
-_Navn_ Navnet på klassifikasjonen
+**Navn** Navnet på klassifikasjonen
 
-_Kilde (utgiver)_ Utgiver av klassifikasjonen
+**Kilde (utgiver)** Utgiver av klassifikasjonen
 
-_Utgave_ Klassifikasjonsutgaven
+**Utgave** Klassifikasjonsutgaven
 
-_Utgavedato_ Datoen for klassifikasjonen
+**Utgavedato** Datoen for klassifikasjonen
 
-_Dokumentasjonsplassering_ Dette må være en gyldig dokumentasjonsplassering
+**Dokumentasjonsplassering** Dette må være en gyldig dokumentasjonsplassering
 
-_Klassifikasjonfeltname_ Klassifikasjonfeltnavnet er navnet på parameteren i objektene dine som skal inneholde klassifikasjonsverdien. Denne parameteren finnes ofte på familienivå. Rediger en familie for å se egenskapene
+**Klassifikasjonfeltname** Klassifikasjonfeltnavnet er navnet på parameteren i objektene dine som skal inneholde klassifikasjonsverdien. Denne parameteren finnes ofte på familienivå. Rediger en familie for å se egenskapene
 
 ![Rediger familie](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/14-property-sets.png)
 
@@ -148,7 +148,7 @@ Slik kan parameteren se ut i egenskapene
 
 ![Egenskaper OmniClass-nummer](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
 
-Hvis du har eksportert IFC-en din med en klassifikasjon og importert den som en modell til Catenda, vil du se klassifikasjonen foreslått som et [foreslått bibliotek](https://support.catenda.com/nb/articles/8065645-biblioteksside#h_c03d50a9ca) når du oppretter et nytt bibliotek på [biblioteksiden](https://support.catenda.com/nb/articles/8065645-biblioteksside). Hvis en verdi i egenskapen du har angitt stemmer overens med en verdi i dokumentasjonen som er gitt, blir den funnet og kan brukes til å velge objekter med denne verdien gjennom klassifikasjonsbiblioteket du opprettet.
+Hvis du har eksportert IFC-filen med en klassifikasjon og importert den som en model til Catenda, vil du se at klassifikasjonen blir foreslått som et [foreslått bibliotek](https://support.catenda.com/nb/articles/8065645-biblioteksside#h_04fc07e763) når du oppretter et nytt bibliotek på [biblioteksiden](https://support.catenda.com/nb/articles/8065645-biblioteksside). Hvis en verdi i egenskapen du spesifiserte samsvarer med en verdi i den medfølgende dokumentasjonen, vil den bli funnet og kan brukes til å velge objekter med denne verdien gjennom klassifikasjonsbiblioteket du opprettet.
 
 ---
 

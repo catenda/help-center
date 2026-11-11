@@ -1,6 +1,6 @@
 # Extension Catenda Revit
 
-> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-plugins-et-integrations-catenda).
+> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda).
 
 L'extension Catenda Revit est une extension qui peut être installée pour Autodesk Revit. Avec cette extension, vous pourrez collaborer sur des points de vue 3D, des sujets et des documents avec les autres membres du projet de construction
 
@@ -66,7 +66,7 @@ Cliquez sur « Autoriser l'accès » pour permettre à l'extension Revit pour Bi
 
 ### 3.1 **Révoquer l'accès**
 
-L'accès à votre compte Catenda Hub peut être révoqué à tout moment en accédant à votre [page d'application](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_40e031c49a) Catenda Hub et en cliquant sur « Révoquer l'accès » à côté de « Extension Revit pour Bimsync Arena ».
+Vous pouvez révoquer à tout moment l'accès à votre compte Catenda Hub en accédant à la [page d'application](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_fd54e5a82e) de votre compte Catenda Hub et en cliquant sur “Revoke access” à côté de “Revit plugin for Bimsync Arena”.
 
 ## 4. **Liste des sujets**
 
@@ -114,7 +114,7 @@ Dans la liste des sujets, vous trouverez toutes les informations principales sur
 1. L'image du premier commentaire du sujet
 1. Numéro de sujet Catenda Hub
 
-Vous pouvez cliquer sur n'importe quel sujet pour accéder à la [page de détails du sujet](#h_445d3efa52).
+Vous pouvez cliquer sur n'importe quel sujet pour accéder à la [page de détails du sujet](#topic-details).
 
 ### 4.5 **Trier les sujets**
 
@@ -161,7 +161,7 @@ Dans cette vue, vous pouvez examiner et modifier un sujet spécifique.
 
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
-1. Retourner à la [Liste des sujets](#h_642fa61854)
+1. Revenir à la [Liste des sujets](#topic-list)
 1. Actualiser le contenu de ce sujet
 1. Naviguer entre les sujets
 1. Définir le statut du sujet (Ouvert, Fermé, ...)
@@ -196,7 +196,7 @@ Tous les commentaires s'affichent sous le sujet. Un commentaire peut contenir du
 
 1. L'auteur du commentaire
 1. Quand le commentaire a été créé. Vous pouvez survoler la date pour afficher la date et l'heure complètes de la mise à jour.
-1. Le [bouton de zoom](#h_d873968c27) (voir le chapitre ci-dessous)
+1. Le [bouton zoom](#zoom) (voir le chapitre ci-dessous)
 1. L'image associée au commentaire
 1. Le texte du commentaire
 
@@ -210,7 +210,7 @@ Pour que le point de vue soit pertinent, vous devez avoir ouvert le même modèl
 
 Si le point de vue a été créé à partir d'une vue en perspective, la nouvelle vue 3D aura son mode de projection défini sur « Perspective ». Sinon, le mode de projection sera « Orthographique ».
 
-L'extension créera une seule vue en perspective et une seule vue orthographique. Après les avoir créées, elle les réutilisera pour tout usage ultérieur de la fonction de zoom. Vous pouvez modifier cela dans le [menu des paramètres](#h_b02502c589). Vous pouvez également utiliser le menu des paramètres pour modifier le nom de ces vues.
+Le module complémentaire ne créera qu'une seule vue en perspective et une seule vue orthographique. Une fois celles-ci créées, il les réutilisera pour toute utilisation ultérieure de la fonction zoom. Vous pouvez modifier ce comportement dans le menu des paramètres. Vous pouvez également utiliser le menu des paramètres pour modifier le nom de ces vues.
 
 ### 5.5 **Éléments associés**
 

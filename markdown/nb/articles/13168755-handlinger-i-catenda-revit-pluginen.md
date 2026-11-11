@@ -1,6 +1,6 @@
 # Handlinger i Catenda Revit-pluginen
 
-> **Merk:** Installasjonfilen for pluginen finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
+> **Merk:** Installasjonsfilen for plugin-en finner du i [denne artikkelen](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner).
 
 Handlingene [Catenda Revit-plugin](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin) finnes øverst til høyre i plugin-vinduet i Revit-appen.
 
@@ -58,7 +58,7 @@ Klikk på Last opp for å laste opp en IFC. En kommentar må legges til for å k
 
 ## 3. **3. Innstillinger**
 
-Siden Innstillinger lar deg endre hvordan pluginen skal opprette 3D-visning når du bruker [Zoom-funksjonen](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin#h_36392f671a).
+Innstillingssiden lar deg endre hvordan plugin-en oppretter 3D-visning når du bruker [Zoom-funksjonen](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin#h_d21bb53772).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 

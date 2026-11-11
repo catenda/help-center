@@ -1,6 +1,6 @@
 # Catenda Archicad-plugin
 
-> **Merk:** Installasjonfilen for programtillegget finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
+> **Merk:** Installasjonsfilen for plugin-en finnes i [denne artikkelen](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner).
 
 Catenda Archicad-plugin er et programtillegg som kan installeres for Nemetschek Archicad. Med dette programtillegget kan du samarbeide om 3D-synspunkter, saker og dokumenter med andre medlemmer av byggeprosjektet.
 
@@ -36,7 +36,7 @@ Når du åpner Catenda-paletten, er det første du ser, innloggingssiden. Innlog
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-Hvis du ikke har en Catenda-konto, kan du registrere deg gratis øverst til høyre. Hvis du allerede har en Catenda-konto, kan du skrive inn e-postadressen og passordet ditt og klikke på Logg inn. Etter innlogging blir du bedt om å gi tilgang til Catenda-kontoen din. Etter at du har gitt denne tilgangen, vises Archicad-programtillegget som en applikasjon på [applikasjoner-siden](https://support.catenda.com/nb/articles/6880968-kontosida#h_40e031c49a) for Catenda-kontoen din. Her kan du alltid tilbakekalle tilgangen hvis du ikke lenger ønsker å gi den.
+Hvis du ikke har en Catenda-konto, kan du registrere deg gratis øverst til høyre. Hvis du allerede har en Catenda-konto, kan du skrive inn e-postadressen og passordet ditt og klikke på logg inn. Etter innlogging blir du bedt om å gi tilgang til Catenda-kontoen din. Etter at du har gitt denne tilgangen, vises Archicad-plugin-en som et program på [applikasjonssiden](https://support.catenda.com/nb/articles/6880968-kontosida#h_fd54e5a82e) i Catenda-kontoen din. Her kan du når som helst trekke tilbake tilgangen dersom du ikke lenger ønsker å gi den.
 
 ### 3.1 **Tilbakestill passord**
 

@@ -20,7 +20,7 @@ Les étages provenant des différents modèles IFC du projet et les étages prov
 
 ### 1.2 **Apparence de la visionneuse 2D**
 
-Avec les [marqueurs activés](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_381a9d4098), tous les Sujets qui ont un emplacement spécifié sur l'étage d'un IFC ou d'un bâtiment configuré sont affichés. Appuyez sur un marqueur pour le sélectionner. Voici à quoi peut ressembler un marqueur sélectionné sur Catenda Site.
+Avec [marqueurs activés](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_fe3772d975), tous les Sujets ayant un emplacement défini à un étage d'un modèle IFC ou d'un bâtiment configuré sont affichés. Appuyez sur un marqueur pour le sélectionner. Voici à quoi peut ressembler un marqueur sélectionné dans Catenda Site.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
@@ -34,7 +34,7 @@ Une fois sélectionné, le numéro et le titre du Sujets sont affichés. Appuyez
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. Zoom sur l'étendue de l'étage - Obtenir un aperçu b. [Requête 3D](#h_8a2c752641) - Charger une section de la vue 2D en 3D c. [Paramètres](#h_63e1728758) de la visionneuse 2D
+a. Zoom sur l'étendue de l'étage - Obtenir une vue d'ensemble b. Requête 3D - Charger une section de la Visionneuse 2D en 3D c. Paramètres de la Visionneuse 2D
 
 **Requête 3D** Si vous recevez une erreur lors du chargement de modèles 3D, c'est souvent parce que votre appareil mobile ne peut pas gérer toutes les données d'un ou plusieurs modèles.
 

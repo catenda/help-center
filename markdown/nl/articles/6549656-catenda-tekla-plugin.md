@@ -2,7 +2,7 @@
 
 > Verbind Catenda Hub en Tekla
 
-> **Opmerking:** Het installatiebestand voor de plugin kunt u vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
+> **Opmerking:** Het installatiebestand voor de plug-in is te vinden in [dit artikel](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
 
 ## 1. **Installatie**
 
@@ -36,7 +36,7 @@ Klik op "Toegang toestaan" om de Tekla-plugin toegang tot uw Catenda Hub-account
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/03-getting-started.png)
 
-U kunt de toegang tot uw Catenda Hub-account op elk moment intrekken door naar uw Catenda Hub [toepassingspagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_40e031c49a) op de Catenda Hub-webtoepassing te gaan.
+U kunt de toegang tot uw Catenda Hub-account op elk moment intrekken door naar uw [applicatiepagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_fd54e5a82e) in de webapplicatie van Catenda Hub te gaan.
 
 ## 4. **Onderwerpenlijst**
 
@@ -47,13 +47,13 @@ Op deze pagina vindt u het hoofdmenu om in uw Catenda-project, issue boards en p
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/04-interface.png)
 
 1. Selecteer uw Catenda-project
-2. Selecteer een issue board in dit project
-3. Maak een nieuw probleem in de momenteel geselecteerde issue board
-4. Sorteer momenteel weergegeven problemen
-5. Open het Catenda Hub add-in-menu
-6. Zoek en filter de weergegeven problemen
-7. De lijst met momenteel gefilterde problemen in de issue board
-8. Vernieuw problemen
+1. Selecteer een issue board in dit project
+1. Maak een nieuw probleem in de momenteel geselecteerde issue board
+1. Sorteer momenteel weergegeven problemen
+1. Open het Catenda Hub add-in-menu
+1. Zoek en filter de weergegeven problemen
+1. De lijst met momenteel gefilterde problemen in de issue board
+1. Vernieuw problemen
 
 ### 4.2 **Project- en issue board-selectie**
 
@@ -64,6 +64,6 @@ Het selecteren van een Catenda-project geeft de lijst met issue boards in dit pr
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/05-catenda-hub-add-in-menu.png)
 
 1. Lijst met modellen en revisie
-2. Export-instellingen voor IFC-upload naar Catenda Hub
-3. Versie van Catenda Hub-plugin
-4. Meld u af uit uw Catenda Hub-account
+1. Export-instellingen voor IFC-upload naar Catenda Hub
+1. Versie van Catenda Hub-plugin
+1. Meld u af uit uw Catenda Hub-account

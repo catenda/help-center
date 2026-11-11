@@ -1,6 +1,6 @@
 # Plugin Catenda Navisworks
 
-> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-plugins-et-integrations-catenda).
+> **Remarque :** Le fichier d'installation du plug-in se trouve dans [cet article](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda).
 
 Le plugin Catenda Navisworks est un plugin qui peut être installé pour Nemetchek Archicad. Avec ce plugin, vous pourrez collaborer sur des viewpoints 3D, des sujets et des documents avec les autres membres du projet de construction.
 

@@ -16,7 +16,7 @@ SharePointで既存のページを編集するか、新しいページを作成�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Catenda webpartが有効になったページを開き、まだアカウントを認可していない場合は、認可するよう求められます。アカウントの認可方法について詳しくは、[こちら](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション#h_788fe15988)を参照してください。
+Catendaウェブパーツが有効になっているページを開き、まだアカウントの認証を行っていない場合は、認証を求められます。アカウントの認証方法の詳細は[こちら](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション#h_a607ff9d09)をご覧ください。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 

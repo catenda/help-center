@@ -49,22 +49,28 @@ Lorsque la connexion au réseau a été rétablie, ces sujets ne seront pas auto
 Les informations suivantes peuvent être ajoutées à un nouveau sujet créé sans connexion au réseau :
 
 - Un titre peut être ajouté
-- Une liste de sujets peut être sélectionnée pour le sujet
-- Le statut/type peut être modifié
-- Une étape clé peut être ajoutée
-- Les étiquettes peuvent être ajoutées
-- Une description peut être écrite
-- Des commentaires peuvent être ajoutés.
-    - Des images de l'appareil photo/photos peuvent être ajoutées aux commentaires.
 
-        _Accès requis :_ Accès complet à l'appareil
+- Une liste de sujets peut être sélectionnée pour le sujet
+
+- Le statut/type peut être modifié
+
+- Une étape clé peut être ajoutée
+
+- Les étiquettes peuvent être ajoutées
+
+- Une description peut être écrite
+
+- Des commentaires peuvent être ajoutés.
+  - Des images de l'appareil photo/photos peuvent être ajoutées aux commentaires.
+
+    _Accès requis :_ Accès complet à l'appareil
 
 - Si les modèles ont été chargés avant la perte de connexion au réseau, une localisation peut être ajoutée à un sujet en plaçant un marqueur dans la vue 2D de ces modèles.
 
 **Modification et soumission de nouveaux sujets**
 
 - Vous saurez que vous regardez un nouveau sujet hors ligne si vous voyez la barre grise en haut du sujet.
-- Il est possible de modifier les sujets en mode hors ligne qui n'ont pas encore été soumis via la [boîte d'envoi](#h_ff2a47f221)
+- Il est possible de modifier les sujets en mode hors ligne qui n'ont pas encore été soumis via la [outbox](#outbox)
 
 ### 1.5 **Boîte d'envoi**
 

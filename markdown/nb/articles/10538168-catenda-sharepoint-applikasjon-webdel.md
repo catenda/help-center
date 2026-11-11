@@ -16,7 +16,7 @@ Hvis du ikke allerede har godkjent Catenda-kontoen din, vil webdelen se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Hvis du åpner en side med Catenda-webdelen aktivert og du ikke ennå har godkjent kontoen din, blir du bedt om å gjøre det. Les mer om hvordan du godkjenner kontoen din [her](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-applikasjon#h_788fe15988).
+Hvis du åpner en side med Catenda-webdelen aktivert og du ennå ikke har autorisert kontoen din, vil du bli bedt om å gjøre det. Les mer om hvordan du autoriserer kontoen din [her](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-applikasjon#h_a607ff9d09).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 
