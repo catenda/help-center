@@ -1,8 +1,8 @@
 # Rechtermenu in een topic board
 
-Het rechtermenu op de [topics pagina](https://support.catenda.com/nl/articles/4670271-pagina-topics) kan worden geopend door op het informatiepictogram rechts van de zoekbalk onder de [topic banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) te klikken. Klik op het pictogram om een menu te openen dat informatie bevat over geselecteerde topics en topic boards.
+Het rechtermenu op de pagina [Topics](https://support.catenda.com/nl/articles/4670271-pagina-topics) vind je door te klikken op het infopictogram rechts van de zoekbalk, onder de [topicbanner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics). Klik op het pictogram om een menu te openen met informatie over geselecteerde topics en topic boards.
 
-Dit is hoe de [topic banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) eruit kan zien:
+Zo kan de [topicbanner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) eruitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/01-intro.png)
 
@@ -56,7 +56,7 @@ Dit is hoe het rechtermenu eruit kan zien wanneer een enkele topic is geselectee
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/07-3-1-update-selected-topic.png)
 
-**3.1.1 Topic header** Dit is hoe de [topic header](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp) eruit kan zien:
+**3.1.1 Topic header** Zo kan de [topicheader](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp) eruitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/08-3-1-update-selected-topic.png)
 

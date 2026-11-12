@@ -40,7 +40,7 @@ _[Documenten structureren](https://support.catenda.com/nl/articles/8542598-docum
 
 **Instellingen** [Labels pagina](https://support.catenda.com/nl/articles/4670265-pagina-labels) [Een team maken](https://support.catenda.com/nl/articles/4670264-een-team-aanmaken)
 
-**Plugins en integraties** [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) [Integratie Power BI](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) [IFC Archicad Handleiding](https://support.catenda.com/nl/articles/4670338-ifc-export-archicad-handboek) [Archicad-plugin](https://support.catenda.com/nl/articles/5519276-catenda-archicad-plugin) [Solibri Modellen als documenten integratie](https://support.catenda.com/nl/articles/6988148-solibri-modellen-en-documenten-integratie)
+**Plugins en integraties** [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) [Integratie Power BI](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) [IFC Archicad-handleiding](https://support.catenda.com/nl/articles/4670338-ifc-export-archicad-handboek) [Archicad-plugin](https://support.catenda.com/nl/articles/5519276-catenda-archicad-plugin) [Solibri Models as Documents-integratie](https://support.catenda.com/nl/articles/6988148-solibri-modellen-en-documenten-integratie)
 
 **Catenda Site** [Download je mobiele app Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site)
 
@@ -107,7 +107,7 @@ Het is nu mogelijk voor beheerders om opgeslagen views te verwijderen die door g
 
 ## 4. **Nieuwe releases** - Catenda Site, Plugins en integraties
 
-**Catenda Hub:** _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+**Catenda Hub:** _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
 **Tekla-plugin v1.1.2:** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
 

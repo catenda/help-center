@@ -16,11 +16,11 @@ De problemen die uit het filter op de gekozen issue board voortvloeien, zijn de 
 
 ### Bovenste helft
 
-In de bovenste helft van de 2D / 3D-pagina ziet u de [3D viewer](https://support.catenda.com/nl/articles/7744403-3d-viewer-catenda-site).
+Op de bovenste helft van de 2D / 3D-pagina ziet u de [3D viewer](https://support.catenda.com/nl/articles/7744403-3d-viewer-catenda-site).
 
 ### Onderste helft
 
-In de onderste helft van de 2D / 3D-pagina ziet u de [2D viewer](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site).
+Op de onderste helft van de 2D / 3D-pagina ziet u de [2D viewer](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site).
 
 ### Scheidingsbalk
 

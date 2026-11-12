@@ -8,7 +8,7 @@ Hvis Catenda SharePoint Application legges til på et SharePoint-nettsted, kan f
 
 Med listkommandoen er det mulig å publisere én eller flere filer til Catenda.
 
-> **Merknad:** Det er bare mulig å publisere filer. Mappestrukturer kan lastes ned fra SharePoint og lastes opp til Catenda via [zip-opplasting](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
+> **Merk:** Det er kun mulig å publisere filer. Mappestrukturer kan lastes ned fra SharePoint og lastes opp til Catenda via [zip-opplasting](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
 
 ### 1.1 **Finne listkommandoen**
 

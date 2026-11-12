@@ -15,7 +15,7 @@ Op apparaten met beperkte schermgrootte moeten knoppen groter zijn, zodat u ziet
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda) is onze mobile app in early access, beschikbaar voor iPhone en iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) en voor Android op [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Het dekt Topics, locaties, formulieren en Documenten, en in de loop der tijd zal het alle functies van Catenda Site krijgen. De app wordt samen met klanten in het Co-creation-programma ontwikkeld en is niet definitief, dus het kan nog aanzienlijk veranderen.
+[Catenda Mobile](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda) is onze mobiele app in vroege toegang, beschikbaar voor iPhone en iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) en voor Android via [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Deze app bevat topics, locaties, formulieren en documenten, en na verloop van tijd krijgt hij alle functies van Catenda Site. De app wordt samen met klanten in het Co-creation-programma ontwikkeld en is nog niet definitief, dus hij kan nog aanzienlijk veranderen.
 
 ## 2. **Startscherm / Dashboard / Dock -** Volledige functionaliteit
 

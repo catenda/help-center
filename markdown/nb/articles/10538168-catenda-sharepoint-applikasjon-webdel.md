@@ -74,7 +74,7 @@ Etter å ha klikket på dette åpnes en filnavigator, og du kan velge hvilke dok
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Merk:** Hvis du drar og slipper en mappe, blir den publisert som en zip-fil. Hvis du ønsker å laste opp en mappestruktur, må du laste den ned fra SharePoint og laste den opp til Catenda enten via [zip-opplastingen](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
+> **Merk:** Hvis du drar og slipper en mappe, lastes den opp som en zip-fil. Hvis du vil laste opp en mappestruktur, må du laste den ned fra SharePoint og laste den opp til Catenda enten via [zip-opplasting](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
 
 ### 4.3 **Last på nytt**
 

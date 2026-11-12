@@ -1,6 +1,6 @@
 # Rechtermenu in een topic
 
-Het rechtermenu in een topic kan worden geopend door op de informatieknop rechts in het [topic banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) bovenaan de pagina te klikken nadat je een topic hebt geopend.
+Het rechtermenu van een Topics is te vinden door na het openen van een Topics bovenaan de pagina op de informatieknop rechts in de [Topics-banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/01-intro.png)
 
@@ -54,7 +54,7 @@ Voor mappen worden de naam van de map weergegeven, samen met labels die aan de m
 - Grootte van de meest recente revisie
 - Maker van de meest recente revisie
 - Aantal 3D-objecten gekoppeld aan het gerelateerde document
-  - Klik op het objectaantal om het 3D-objectactiemenu te openen.
+    - Klik op het objectaantal om het 3D-objectactiemenu te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 

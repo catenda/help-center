@@ -2,7 +2,7 @@
 
 > **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen).
 
-Die Aktionen [Catenda Revit Plugin](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin) finden Sie oben rechts im Plugin-Fenster in der Revit-Anwendung.
+Die Aktionen [Catenda Revit Plugin](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin) befinden sich oben rechts im Plugin-Fenster innerhalb der Revit-Anwendung.
 
 So kann das Aktionsmenü aussehen:
 

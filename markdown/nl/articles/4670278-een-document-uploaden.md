@@ -44,19 +44,19 @@ Tot 100 bestanden kunnen worden gesleept en neergezet, [elk tot 7GB\*](#h_09bc8f
 
 ### 2.3 **Mappen**
 
-In dit menu kunnen alleen afzonderlijke Documenten worden geüpload. Als u een map wilt uploaden, moet deze in een zip-bestand worden geconverteerd en op een ander manier worden geüpload. Zie het artikel [Upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden).
+In dit menu kunnen alleen losse documenten worden geüpload. Om een map te uploaden, moet deze worden gezipt en op een andere manier worden geüpload. Zie het artikel [Upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden).
 
 ### 2.4 **Uploadlimiet**
 
 **Limieten voor afzonderlijke bestanden:** Tot 100 bestanden kunnen tegelijk worden geüpload Tot 7 GB per bestand kunnen tegelijk worden geüpload.
 
-**Limieten voor gecomprimeerde bestanden:** Als u meer bestanden tegelijk of grotere bestanden wilt uploaden, kunt u de functie '[upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden)' gebruiken.
+**Limieten voor zip-bestanden:** Om meer bestanden tegelijk of bestanden van grotere omvang te uploaden, gebruik de functie '[upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden)'.
 
 **Limieten voor puntenwolken:** Puntenwolken hebben vaak grote bestandsgroottes, dus hun limiet is verhoogd tot 25 GB Klik [hier](https://support.catenda.com/nl/articles/4670324-welke-bestandsgrootte-kan-ik-uploaden) voor meer informatie over groottelimieten.
 
 ## 3. **Desktopconnector**
 
-Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) kunnen de nieuwste versies van Documenten automatisch en periodiek van een lokaal systeem naar Catenda Hub worden geüpload. De Desktop Connector is sneller dan het normale uploadproces en minimaliseert het risico op fouten omdat deze Documenten bestand voor bestand uploadt in plaats van in één grote slepen en neerzetten of zip-uploadbatch.
+Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) kunnen de nieuwste versies van documenten automatisch en periodiek worden geüpload van een lokaal systeem naar Catenda Hub. De Desktop Connector is zowel sneller dan het reguliere uploadproces als minder gevoelig voor fouten, omdat documenten bestand voor bestand worden geüpload in plaats van in één grote batch via slepen en neerzetten of zip-upload.
 
 ## 4. **Documentvoorbeeld**
 

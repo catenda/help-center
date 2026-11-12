@@ -21,7 +21,7 @@ PC kann wie jedes andere Dokument im Dokumentbereich hochgeladen werden. Für di
 
 ### 1.1 **Hochladen von PC-Daten**
 
-Es wird empfohlen, den [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) zu verwenden oder Ihre PC-Datei in einen gezippten Ordner zu komprimieren und den [zip-Import](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) zum Hochladen Ihrer PC zu verwenden. Diese Methoden sparen Ihnen Zeit, da die Uploaddateigröße kleiner wird und das Risiko eines Netzwerkfehlers minimiert wird, da die Datei schneller hochgeladen wird
+Es wird empfohlen, den [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) zu verwenden oder Ihre PC-Datei in einen ZIP-Ordner zu komprimieren und den [Zip-Import](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) zu nutzen, um Ihre PC-Daten hochzuladen. Diese Methoden sparen Zeit, da die Upload-Dateigröße kleiner ist, und minimieren das Risiko eines Netzwerkfehlers, da die Datei schneller hochgeladen wird
 
 Nachdem Sie eine PC in den Dokumentbereich hochgeladen haben, wird die Dokumentvorschau verarbeitet. Während die Vorschau verarbeitet wird, sehen Sie einen grauen Balken am oberen Rand Ihrer Dokumentvorschau.
 

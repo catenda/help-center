@@ -16,7 +16,7 @@ Wanneer nieuwe functies uitkomen en bugs worden opgelost, worden artikelen bijge
 
 **Topics** [Topic board toegangsbeheer](https://support.catenda.com/nl/articles/4670296-toegangscontrole-topic-board) [Instellingen van Topic board](https://support.catenda.com/nl/articles/4670277-pagina-instellingen-topic-board)
 
-**Plugins en integraties** [Catenda SharePoint Application - WebPart](https://support.catenda.com/nl/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als een applicatie](https://support.catenda.com/nl/articles/10695677-toegang-met-beperkte-schermruimte) [Toevoegen aan startscherm](https://support.catenda.com/nl/articles/10741601-toevoegen-aan-startscherm) [Ondersteuning startscherm-systeembrowser](https://Home-screen%20system-browser%20support)
+**Plug-ins en integraties** [Catenda SharePoint Application - WebPart](https://support.catenda.com/nl/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als applicatie](https://support.catenda.com/nl/articles/10695677-toegang-met-beperkte-schermruimte) [Toevoegen aan startscherm](https://support.catenda.com/nl/articles/10741601-toevoegen-aan-startscherm) [Ondersteuning systeembrowser voor startscherm](https://Home-screen%20system-browser%20support)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -68,4 +68,4 @@ Dankzij uw waardevol commentaar hebben we veel Topics kunnen oplossen die je mis
 
 ## 3. **Nieuwe releases** - Catenda Site, Plugins en integraties
 
-_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Het is niet langer mogelijk om de inhoud van Topics die op Catenda Hub waren verwijderd te zien. Als u markers in de 2D-viewer had geladen, deze zijn nog steeds zichtbaar. Als u een verwijderde Topic probeert te openen via de Topic-lijst of marker, wordt de inhoud van de Topic niet langer weergegeven en wordt de marker uit de 2D-viewer verwijderd.
+_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Het is niet langer mogelijk de inhoud te zien van Topics die op Catenda Hub zijn verwijderd. Als je markers in de 2D-viewer had geladen, blijven deze zichtbaar. Wanneer geprobeerd wordt een verwijderde Topic te openen via de topiclijst of een marker, wordt de inhoud van de Topic niet langer getoond en wordt de marker uit de 2D-viewer verwijderd.

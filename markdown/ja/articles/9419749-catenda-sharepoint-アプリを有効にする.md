@@ -4,7 +4,7 @@
 
 Catenda SharePoint アプリケーションは、システム管理者が SharePoint 環境に対して有効にすることができ、その後、サイト所有者がサイトに追加できます。このアプリを使用すると、SharePoint ユーザーは建設プロジェクトの他のメンバーと一緒に、Catenda 内のドキュメントを表示、管理、および共同作業することができます。
 
-アプリをお使いの環境に対して有効にするには、ここでエントリを検索できます：[Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1)の外観は以下のようなものです：
+環境でこのアプリを有効にすると、[Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1) でそのエントリを見つけられます。表示は次のようになります:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 

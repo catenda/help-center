@@ -90,11 +90,11 @@ Bedriftskunder kan be om håndhevelse av MFA for brukere som deltar i prosjekten
 
 ### 5.2 **Interne SSO-brukere trenger ikke MFA**
 
-Bedriftskunder kan be om å sette opp [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on). Det er et gebyr forbundet med det da det tar tid for utviklerne våre å sette opp konfigurasjonen.
+Bedriftskunder kan be om å sette opp [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on). Det er et gebyr knyttet til dette, ettersom det tar våre utviklere en stund å sette opp konfigurasjonen.
 
 _Hva gjør denne regelen?_ Som standard behandles brukere som logger inn med SSO og brukere som logger inn normalt på samme måte. Hvis MFA håndheves for en organisasjon, må både vanlige brukere og SSO-brukere derfor skrive inn MFA-koden for å logge inn og få tilgang til prosjektet. Hvis dette alternativet er merket av for en organisasjon, trenger SSO-brukere ikke å bruke MFA for å få tilgang til prosjektet. Vanlige brukere måtte fortsatt skrive inn MFA-koden mens SSO-brukere kunne logge inn uten å måtte bruke koden.
 
-_Hva er SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) lar brukeren logge inn en gang og få tilgang til tjenester uten å skrive inn autentiseringsfaktorer på nytt. Med dette alternativet kan du gjøre det slik at brukere for organisasjonen din ikke trenger å sette opp MFA. Brukere fra andre organisasjoner som er del av organisasjonsprosjektene dine, må fortsatt ha MFA på hvis alternativet ovenfor er aktivert.
+_Hva er SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) gjør det mulig for brukeren å logge inn én gang og få tilgang til tjenester uten å måtte oppgi autentiseringsfaktorer på nytt. Med dette alternativet kan du gjøre det slik at brukere i organisasjonen din ikke må sette opp MFA. Brukere fra andre organisasjoner som er del av organisasjonens prosjekter må fortsatt ha MFA aktivert dersom alternativet ovenfor er aktivert.
 
 _Oppsett av SSO:_ Det er mulig å sette opp SSO med hvilken som helst SSO-leverandør da det er en standardisert prosess, vennligst finn noen av de vanligste SSO-leverandørene nedenfor:
 
@@ -102,11 +102,11 @@ _Microsoft Active Directory:_ For å konfigurere SSO med Microsoft Active Direct
 
 Når det er gjort, må systemadministratoren din komme tilbake til oss med App Federation Metadata URL og Federation Metadata XML for det nye programmet.
 
-_GSuite:_ Sett opp SSO som i [denne artikkelen](https://support.google.com/a/answer/12032922?hl=en)
+**GSuite:** Sett opp SSO som i [denne artikkelen](https://support.google.com/a/answer/12032922?hl=en)
 
-_Testbrukere:_ Når SSO-oppsettet er konfigurert, vennligst oppgi en liste over testbrukere som SSO kan aktiveres for først slik at du kan se hvordan SSO vil fungere for dem. Når testbrukerne har blitt testet, kan de resterende brukerne aktiveres.
+**Testbrukere:** Når SSO-oppsettet er konfigurert, vennligst oppgi en liste over testbrukere som SSO kan aktiveres for først slik at du kan se hvordan SSO vil fungere for dem. Når testbrukerne har blitt testet, kan de resterende brukerne aktiveres.
 
-_Blacklist og Whitelist:_ Det er også mulig å konfigurere en blacklist/whitelist: For eksempel: Alle brukere unntatt: X, Y og osv. skal være tillatt å logge inn med SSO, eller, Bare X, Y og osv. skal være tillatt å logge inn med SSO Denne informasjonen må leveres i tillegg til XML-filen som spesifisert ovenfor.
+**Blacklist og Whitelist:** Det er også mulig å konfigurere en blacklist/whitelist: For eksempel: Alle brukere unntatt: X, Y og osv. skal være tillatt å logge inn med SSO, eller, Bare X, Y og osv. skal være tillatt å logge inn med SSO Denne informasjonen må leveres i tillegg til XML-filen som spesifisert ovenfor.
 
 ### 5.3 **Deaktiver offentlig delingsfunksjon**
 

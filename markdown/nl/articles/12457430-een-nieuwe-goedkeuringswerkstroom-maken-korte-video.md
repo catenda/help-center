@@ -1,6 +1,6 @@
 # Een nieuwe goedkeuringswerkstroom maken - Korte video
 
-[Guidde video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
+[Guidde-video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
 
 Deze zelfstudie begeleidt u door het maken van een nieuw goedkeuringsverzoek in Catenda Hub. Als u dit nog niet hebt gedaan, bekijk alstublieft eerst de video "Een nieuwe goedkeuringswerkstroomsjabloon maken".
 

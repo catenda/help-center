@@ -20,7 +20,7 @@ Comme on peut le voir, seuls les murs d'une hauteur de 1 mètre et plus sont aff
 
 ### 1.2 **Ouvertures de portes**
 
-Les ouvertures de portes sont spécifiées dans le fichier IFC. Vous pouvez voir comment cela fonctionne dans les articles BuildingSMART suivants : [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Si aucune ouverture de porte n'est spécifiée, la porte s'ouvrira vers la droite.
+Le sens d'ouverture des portes est spécifié dans le fichier IFC. Vous pouvez voir comment cela fonctionne dans les articles BuildingSMART suivants : [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Si aucun sens d'ouverture n'est spécifié, la porte s'ouvre vers la droite.
 
 ## 2. **Dessin en arrière-plan**
 

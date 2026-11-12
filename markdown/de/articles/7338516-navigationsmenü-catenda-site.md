@@ -7,6 +7,6 @@ Sie können dieses Menü schließen, indem Sie auf den dunklen Bereich außerhal
 1. _[Projektseite](https://support.catenda.com/de/articles/7733978-projektseite-catenda-site)_ - Hier können Sie zwischen Projekten wechseln
 2. _[Dashboard](https://support.catenda.com/de/articles/7213817-dashboard-catenda-site)_ - Projekt-Dashboard.
 3. _[Probleme](https://support.catenda.com/de/articles/7734073-themen-menu-catenda-site)_ - das zuletzt geöffnete issue board
-4. _[2D / 3D](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site)_ - Der [2D Viewer](https://support.catenda.com/de/articles/7748370-2d-viewer-catenda-site) und der [3D Viewer](https://support.catenda.com/de/articles/7744403-3d-viewer-catenda-site)
+4. _[2D / 3D](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site)_ - Der [2D-Viewer](https://support.catenda.com/de/articles/7748370-2d-viewer-catenda-site) und der [3D-Viewer](https://support.catenda.com/de/articles/7744403-3d-viewer-catenda-site)
 5. [Dokumente](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) - Der Bereich Dokumente
 6. _[Einstellungen](https://support.catenda.com/de/articles/7733833-einstellungen-catenda-site)_ - Die Seite Einstellungen

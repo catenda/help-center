@@ -32,6 +32,6 @@
 - Localisez les objets clash dans Revit
 - Créer des sujets BCF (2D et 3D) dans Revit
 
-_Lectures complémentaires :_ [Catenda Connections](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda), [Bureau Connecteur](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop), [Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks), [Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit)
+_Pour en savoir plus :_ [Catenda Connections](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda), [Desktop Connector](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop), [Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks), [Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit)
 
 > **Remarque :** Trouvez la [première étape](https://support.catenda.com/fr/articles/9030303-etape-1-configuration-du-compte) dans [Démarrage](https://support.catenda.com/fr/collections/2657208-pour-commencer) sur le centre d'aide ou dans le menu d'aide.

@@ -4,7 +4,7 @@
 
 De Catenda SharePoint-toepassing kan door een systeembeheerder voor een SharePoint-omgeving worden ingeschakeld en vervolgens door een site-eigenaar aan een site worden toegevoegd. Met deze app kunnen SharePoint-gebruikers Documenten in Catenda samen met andere Leden van het bouwproject bekijken, beheren en hieraan samenwerken.
 
-Als u de app voor uw omgeving wilt inschakelen, kunt u deze hier vinden: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), wat er ongeveer zo uitziet:
+Om de app voor uw omgeving in te schakelen, vindt u de vermelding hier: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), die er ongeveer zo uit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 

@@ -99,4 +99,4 @@ Als subpagina's van de modellapagina vindt u de volgende pagina's:
 
 - [Opgeslagen views](https://support.catenda.com/nl/articles/4670281-pagina-opgeslagen-views)
 - [Objecten](https://support.catenda.com/nl/articles/12352750-objectenpagina)
-- [Storey Configurator](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina)
+- [Verdiepingsconfigurator](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina)

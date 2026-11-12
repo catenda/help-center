@@ -28,35 +28,35 @@ _Programtillegg og integrasjoner_ [Revit-endringslogg - 1.0.11](https://support.
 
 ### 1.2 **Artikler som har endret seg:**
 
-_Kom i gang_ [Lagring av filtre](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) [Maskinvareanbefalinger](https://support.catenda.com/nb/articles/6921941-maskinvareanbefalinger)
+**Kom i gang** [Lagring av filtre](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) [Maskinvareanbefalinger](https://support.catenda.com/nb/articles/6921941-maskinvareanbefalinger)
 
-_Vanlige spørsmål_ [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) [Hvordan kan jeg invitere et medlem?](https://support.catenda.com/nb/articles/4670319-hvordan-kan-jeg-invitere-et-medlem) [Sorteringsrekkefølge for lister](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) [Sider uten tilgang](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
+**Vanlige spørsmål** [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) [Hvordan kan jeg invitere et medlem?](https://support.catenda.com/nb/articles/4670319-hvordan-kan-jeg-invitere-et-medlem) [Sorteringsrekkefølge for lister](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) [Sider uten tilgang](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
 
-_Hovedside_ [Flerfaktorautentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering) [Varselsfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Prosjektsider](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Legge til brukere uten e-postinvitasjon](https://support.catenda.com/nb/articles/8434846-legge-til-brukere-uten-e-postinvitasjon) [Endre ditt foretrukne språk](https://support.catenda.com/nb/articles/4670248-endre-foretrukket-sprak)
+**Hovedside** [Flerfaktorautentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering) [Varselsfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Prosjektsider](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Legge til brukere uten e-postinvitasjon](https://support.catenda.com/nb/articles/8434846-legge-til-brukere-uten-e-postinvitasjon) [Endre ditt foretrukne språk](https://support.catenda.com/nb/articles/4670248-endre-foretrukket-sprak)
 
-_Dashbord_ [Dashbordside](https://support.catenda.com/nb/articles/8212646-dashbord-side)
+**Dashbord** [Dashbordside](https://support.catenda.com/nb/articles/8212646-dashbord-side)
 
-_Modeller_ [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Bokmerke](https://support.catenda.com/nb/articles/4670271-sakside)
+**Modeller** [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Bokmerke](https://support.catenda.com/nb/articles/4670271-sakside)
 
-_Saker_ [Høyremeny i en saksliste](https://support.catenda.com/nb/articles/6941224-hoyremeny-i-en-saksliste) [Sakssider](https://support.catenda.com/nb/articles/4670271-sakside) [Handlinger i en saksliste](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell) [Bytt saker](https://support.catenda.com/nb/articles/4670289-utveksle-saker) [Saksinnhold - Innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
+**Saker** [Høyremeny i en saksliste](https://support.catenda.com/nb/articles/6941224-hoyremeny-i-en-saksliste) [Sakssider](https://support.catenda.com/nb/articles/4670271-sakside) [Handlinger i en saksliste](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell) [Bytt saker](https://support.catenda.com/nb/articles/4670289-utveksle-saker) [Saksinnhold - Innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
 
-_Dokumenter_ [Forhåndsvisning av dokument og merknader](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) [Kolonner på dokumentsiden](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden) [Dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) [Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter) [QR-kode på PDF-filer i Catenda](https://support.catenda.com/nb/articles/9360508-qr-kode-pa-pdf-er-i-catenda) [Høyremeny på dokumentsiden](https://support.catenda.com/nb/articles/8345396-hoyremeny-pa-dokumentsiden) [Høyremeny for en revisjon](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) [Mapper og dokumenter ACL](https://support.catenda.com/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring) [Samlingside](https://support.catenda.com/nb/articles/8999764-samlinginnholdside)
+**Dokumenter** [Forhåndsvisning av dokument og merknader](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) [Kolonner på dokumentsiden](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden) [Dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) [Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter) [QR-kode på PDF-filer i Catenda](https://support.catenda.com/nb/articles/9360508-qr-kode-pa-pdf-er-i-catenda) [Høyremeny på dokumentsiden](https://support.catenda.com/nb/articles/8345396-hoyremeny-pa-dokumentsiden) [Høyremeny for en revisjon](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) [Mapper og dokumenter ACL](https://support.catenda.com/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring) [Samlingside](https://support.catenda.com/nb/articles/8999764-samlinginnholdside)
 
-_Biblioteker_ [Biblioteksside](https://support.catenda.com/nb/articles/8065645-biblioteksside) [Sharepoint-bibliotek](https://support.catenda.com/nb/articles/5744548-sharepoint-bibliotek)
+**Biblioteker** [Biblioteksside](https://support.catenda.com/nb/articles/8065645-biblioteksside) [Sharepoint-bibliotek](https://support.catenda.com/nb/articles/5744548-sharepoint-bibliotek)
 
-_Prosjektvarslinger_ [Prosjektvarselsinnstillinger](https://support.catenda.com/nb/articles/4670262-prosjektspesifikke-varselinnstillinger)
+**Prosjektvarslinger** [Prosjektvarselsinnstillinger](https://support.catenda.com/nb/articles/4670262-prosjektspesifikke-varselinnstillinger)
 
-_Prosjektinnstillinger_ [Side for å invitere medlemmer](https://support.catenda.com/nb/articles/4670263-inviter-medlemmer-side) [Prosjektinnstillingsside](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger)
+**Prosjektinnstillinger** [Side for å invitere medlemmer](https://support.catenda.com/nb/articles/4670263-inviter-medlemmer-side) [Prosjektinnstillingsside](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger)
 
-_2D og 3D-visere_ [Mengdeberegning (QTO)](https://support.catenda.com/nb/articles/6673929-mengdetaking-qto)
+**2D og 3D-visere** [Mengdeberegning (QTO)](https://support.catenda.com/nb/articles/6673929-mengdetaking-qto)
 
 _Informasjonspanel_ [Inspeksjonsmeny](https://support.catenda.com/nb/articles/4670285-inspeksjonsmeny) [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-informasjonspanel)
 
-_Innstillinger_
+**Innstillinger**
 
-_Programtillegg og integrasjoner_ [Revit IFC Export Manual](https://support.catenda.com/nb/articles/4670341-revit-ifc-eksportmanual) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)
+**Plugins og integrasjoner** [Revit IFC-eksportmanual](https://support.catenda.com/nb/articles/4670341-revit-ifc-eksportmanual) [IFC-eksport Archicad-manual](https://IFC%20Export%20Archicad%20Manual)
 
-_Catenda Site_ [Catenda Site Changelog - 3.5.0](https://support.catenda.com/nb/articles/9930034-catenda-site-endringslogg-3-5-0) [Dokumenter-meny - Catenda Site](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site) [Forhåndsvisning av filtyper på Catenda Site](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site)
+**Catenda Site** [Catenda Site-endringslogg - 3.5.0](https://support.catenda.com/nb/articles/9930034-catenda-site-endringslogg-3-5-0) [Dokumentmeny - Catenda Site](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site) [Forhåndsvisning av filtyper på Catenda Site](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site)
 
 ## 2. **Feil løst**
 
@@ -115,4 +115,4 @@ Takk for din verdifulle tilbakemelding har vi kunnet fikse mange saker som du ka
 
 ## 4. **Nye versjoner** - Catenda Site, programtillegg og integrasjoner
 
-_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Med den nye delte arbeidsflyten vil bare publiserte modeller og dokumenter være synlige.
+_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Med den nye arbeidsflyten vil bare publiserte modeller og dokumenter være synlige.

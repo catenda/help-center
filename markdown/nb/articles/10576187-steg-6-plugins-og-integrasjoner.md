@@ -32,6 +32,6 @@
 - Lokalisér clash-objekter i Revit
 - Opprett BCF-saker (2D og 3D) i Revit
 
-_Ytterligere lesning:_ [Catenda Connections](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner), [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin)
+_Mer å lese:_ [Catenda Connections](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner), [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin)
 
 > **Merknad:** Finn [første steg](https://support.catenda.com/nb/articles/9030303-trinn-1-kontokonfigurering) i [kom i gang](https://support.catenda.com/nb/collections/2657208-sette-i-gang) på hjelpesentralen eller i hjelpemenyen.

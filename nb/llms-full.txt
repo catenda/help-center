@@ -50,7 +50,7 @@ _Videre lesing:_ [Listevisning](https://support.catenda.com/nb/articles/6941232-
 - Lokalisér clash-objekter i Revit
 - Opprett BCF-saker (2D og 3D) i Revit
 
-_Ytterligere lesning:_ [Catenda Connections](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner), [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin)
+_Mer å lese:_ [Catenda Connections](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner), [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin)
 
 > **Merknad:** Finn [første steg](https://support.catenda.com/nb/articles/9030303-trinn-1-kontokonfigurering) i [kom i gang](https://support.catenda.com/nb/collections/2657208-sette-i-gang) på hjelpesentralen eller i hjelpemenyen.
 
@@ -1415,7 +1415,7 @@ Du kan lukke denne menyen ved å trykke på det mørke området utenfor menyen. 
 1. _[Prosjektsiden](https://support.catenda.com/nb/articles/7733978-prosjektsiden-catenda-site)_ - Her kan du bytte mellom prosjekter
 2. _[Dashbord](https://support.catenda.com/nb/articles/7213817-dashbord-catenda-site)_ - Prosjekt dashbord.
 3. _[Problemer](https://support.catenda.com/nb/articles/7734073-saksmeny-catenda-site)_ - det sist åpnede issue board
-4. _[2D / 3D](https://support.catenda.com/nb/articles/7734138-2d-3d-catenda-site)_ - [2D-viseren](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site) og [3D-viseren](https://support.catenda.com/nb/articles/7744403-3d-viser-catenda-site)
+4. _[2D / 3D](https://support.catenda.com/nb/articles/7734138-2d-3d-catenda-site)_ - Den [2D-viseren](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site) og [3D-viseren](https://support.catenda.com/nb/articles/7744403-3d-viser-catenda-site)
 5. [Dokumenter](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site) - Dokumentdelen
 6. _[Innstillinger](https://support.catenda.com/nb/articles/7733833-innstillinger-catenda-site)_ - Siden Innstillinger
 
@@ -1762,11 +1762,11 @@ Bedriftskunder kan be om håndhevelse av MFA for brukere som deltar i prosjekten
 
 ### 5.2 **Interne SSO-brukere trenger ikke MFA**
 
-Bedriftskunder kan be om å sette opp [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on). Det er et gebyr forbundet med det da det tar tid for utviklerne våre å sette opp konfigurasjonen.
+Bedriftskunder kan be om å sette opp [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on). Det er et gebyr knyttet til dette, ettersom det tar våre utviklere en stund å sette opp konfigurasjonen.
 
 _Hva gjør denne regelen?_ Som standard behandles brukere som logger inn med SSO og brukere som logger inn normalt på samme måte. Hvis MFA håndheves for en organisasjon, må både vanlige brukere og SSO-brukere derfor skrive inn MFA-koden for å logge inn og få tilgang til prosjektet. Hvis dette alternativet er merket av for en organisasjon, trenger SSO-brukere ikke å bruke MFA for å få tilgang til prosjektet. Vanlige brukere måtte fortsatt skrive inn MFA-koden mens SSO-brukere kunne logge inn uten å måtte bruke koden.
 
-_Hva er SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) lar brukeren logge inn en gang og få tilgang til tjenester uten å skrive inn autentiseringsfaktorer på nytt. Med dette alternativet kan du gjøre det slik at brukere for organisasjonen din ikke trenger å sette opp MFA. Brukere fra andre organisasjoner som er del av organisasjonsprosjektene dine, må fortsatt ha MFA på hvis alternativet ovenfor er aktivert.
+_Hva er SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) gjør det mulig for brukeren å logge inn én gang og få tilgang til tjenester uten å måtte oppgi autentiseringsfaktorer på nytt. Med dette alternativet kan du gjøre det slik at brukere i organisasjonen din ikke må sette opp MFA. Brukere fra andre organisasjoner som er del av organisasjonens prosjekter må fortsatt ha MFA aktivert dersom alternativet ovenfor er aktivert.
 
 _Oppsett av SSO:_ Det er mulig å sette opp SSO med hvilken som helst SSO-leverandør da det er en standardisert prosess, vennligst finn noen av de vanligste SSO-leverandørene nedenfor:
 
@@ -1774,11 +1774,11 @@ _Microsoft Active Directory:_ For å konfigurere SSO med Microsoft Active Direct
 
 Når det er gjort, må systemadministratoren din komme tilbake til oss med App Federation Metadata URL og Federation Metadata XML for det nye programmet.
 
-_GSuite:_ Sett opp SSO som i [denne artikkelen](https://support.google.com/a/answer/12032922?hl=en)
+**GSuite:** Sett opp SSO som i [denne artikkelen](https://support.google.com/a/answer/12032922?hl=en)
 
-_Testbrukere:_ Når SSO-oppsettet er konfigurert, vennligst oppgi en liste over testbrukere som SSO kan aktiveres for først slik at du kan se hvordan SSO vil fungere for dem. Når testbrukerne har blitt testet, kan de resterende brukerne aktiveres.
+**Testbrukere:** Når SSO-oppsettet er konfigurert, vennligst oppgi en liste over testbrukere som SSO kan aktiveres for først slik at du kan se hvordan SSO vil fungere for dem. Når testbrukerne har blitt testet, kan de resterende brukerne aktiveres.
 
-_Blacklist og Whitelist:_ Det er også mulig å konfigurere en blacklist/whitelist: For eksempel: Alle brukere unntatt: X, Y og osv. skal være tillatt å logge inn med SSO, eller, Bare X, Y og osv. skal være tillatt å logge inn med SSO Denne informasjonen må leveres i tillegg til XML-filen som spesifisert ovenfor.
+**Blacklist og Whitelist:** Det er også mulig å konfigurere en blacklist/whitelist: For eksempel: Alle brukere unntatt: X, Y og osv. skal være tillatt å logge inn med SSO, eller, Bare X, Y og osv. skal være tillatt å logge inn med SSO Denne informasjonen må leveres i tillegg til XML-filen som spesifisert ovenfor.
 
 ### 5.3 **Deaktiver offentlig delingsfunksjon**
 
@@ -2804,7 +2804,7 @@ Som man kan se, vises kun vegger som er 1 meter og høyere i 2D-viseren.
 
 ### 1.2 **Dørsving**
 
-Dørsvinger er spesifisert i IFC-filen. Du kan se hvordan dette fungerer i følgende BuildingSMART-artikler: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Hvis ingen dørsvinger er angitt, svinger døren åpen til høyre.
+Dørsvingene er angitt i IFC-filen. Du kan se hvordan dette fungerer i følgende artikler fra buildingSMART: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Hvis ingen dørsving er angitt, åpnes døren mot høyre.
 
 ## 2. **Tegning som underlag**
 
@@ -2866,7 +2866,7 @@ Dra disse to diagonale linjene for å endre størrelse på 2D-viseren på tvers 
 
 ### 2.2 **Tittel**
 
-Tittelen på topplinja vil være navnet på etasjen. Hvis en etasje i en [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side) bygning er valgt, vil tittelen inneholde navnet på bygningen og navnet på gjeldende etasje. Hvis etasjen i en ikke-konfigurert modell er valgt, vil tittelen inneholde modellens navn.
+Tittelen på den øverste linjen blir navnet på etasjen. Hvis en etasje i en bygning som er konfigurert i [etasjekonfiguratoren](https://support.catenda.com/nb/articles/6921756-storey-configurator-side) er valgt, inkluderer tittelen navnet på bygningen og navnet på gjeldende etasje. Hvis etasjen til en ikke-konfigurert modell er valgt, inkluderer tittelen navnet på modellen.
 
 ### 2.3 **Åpning og lukking av 2D-viseren**
 
@@ -2918,17 +2918,17 @@ Zoom ut for å vise alle synlige objekter på en gang
 
 Med rotasjonsknappen kan du rotere 2D-viseren.
 
-_Rotasjonsglider_ Den innledende rotasjonen kan konfigureres ved å angi en plassering med rotasjon i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
+**Rotasjonsglider** Den innledende rotasjonen kan konfigureres ved å angi en plassering med rotasjon i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
-_Gliderajustering_ Velg glideren ved å klikke på den og bruk pil høyre og venstre tastene for å gjøre justeringer på 0,1 grad. Dette kan være nyttig for å gjøre valg, utsnitt og spørringer. Rotasjon er lettere hvis du først velger et rom fordi det vil knipse seg til kantene av rommet når du roterer. Du kan også skrive graden av rotasjon i menyen under glideren.
+**Gliderajustering** Velg glideren ved å klikke på den og bruk pil høyre og venstre tastene for å gjøre justeringer på 0,1 grad. Dette kan være nyttig for å gjøre valg, utsnitt og spørringer. Rotasjon er lettere hvis du først velger et rom fordi det vil knipse seg til kantene av rommet når du roterer. Du kan også skrive graden av rotasjon i menyen under glideren.
 
-_True North_ Hvis ingen innledende rotasjon er konfigurert i prosjektinnstillinger, vil True North være det samme som tilbakestillingsknappen. Hvis en innledende rotasjon er konfigurert i prosjektinnstillinger, kan True North være i en vinkel i forhold til den innledende rotasjonen
+**True North** Hvis ingen innledende rotasjon er konfigurert i prosjektinnstillinger, vil True North være det samme som tilbakestillingsknappen. Hvis en innledende rotasjon er konfigurert i prosjektinnstillinger, kan True North være i en vinkel i forhold til den innledende rotasjonen
 
-_Tilbakestill_ Klikk Tilbakestill i øvre høyre hjørne for å tilbakestille glideren til den innledende rotasjonen.
+**Tilbakestill** Klikk Tilbakestill i øvre høyre hjørne for å tilbakestille glideren til den innledende rotasjonen.
 
-_Underliggende tegningsrotasjon_ Bygninger kan konfigureres i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Hver etasje i en bygning kan ha en tegning som underlag som roteres i forhold til modellene i prosjektet.
+**Rotasjon av underlagstegning** Bygninger kan konfigureres i [etasjekonfiguratoren](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Hver etasje i en bygning kan ha en tegning som underlag som er rotert i forhold til modellene i prosjektet.
 
 ### 4.3 **Lås kamera**
 
@@ -3000,13 +3000,13 @@ Med lagknappen kan du veksle mellom ulike lag i 2D-viseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/15-layer-menu.png)
 
-_Markører_ Med denne knappen kan markører slås av eller på.
+**Markører** Med denne knappen kan markører slås av eller på.
 
-_Modeller_ Med denne knappen kan modeller slås av eller på.
+**Modeller** Med denne knappen kan modeller slås av eller på.
 
-_Tegninger_ Du vil se denne knappen hvis en tegning har blitt justert som et underlag for en bygningsetasje i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Med denne knappen kan de justerte tegningene slås av eller på.
+**Tegninger** Du vil se denne knappen hvis en tegning er justert som underlag for en bygningsetasje i [etasjekonfiguratoren](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Med denne knappen kan de justerte tegningene slås av og på.
 
-_Kart_ Du vil se denne knappen hvis en plassering har blitt konfigurert i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger). Med denne knappen kan kartet slås av eller på.
+**Kart** Du vil se denne knappen hvis en plassering har blitt konfigurert i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger). Med denne knappen kan kartet slås av eller på.
 
 # 3D Viser-innstillinger
 
@@ -3820,7 +3820,7 @@ Et bokmerke må ha et øyeblikkbilde tilknyttet det og kan ikke slettes. For å 
 
 Catenda SharePoint-programmet kan aktiveres for et SharePoint-miljø av en systemadministrator og deretter legges til på et område av en områdenavtaler. Med denne appen vil SharePoint-brukere kunne vise, administrere og samarbeide om dokumenter i Catenda sammen med andre medlemmer av byggprosjektet.
 
-Hvis du vil aktivere appen for miljøet ditt, finner du oppføringen her: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), som kan se slik ut:
+For å aktivere appen for miljøet ditt, finner du oppføringen her: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), som kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 
@@ -5711,7 +5711,7 @@ Hvis Catenda SharePoint Application legges til på et SharePoint-nettsted, kan f
 
 Med listkommandoen er det mulig å publisere én eller flere filer til Catenda.
 
-> **Merknad:** Det er bare mulig å publisere filer. Mappestrukturer kan lastes ned fra SharePoint og lastes opp til Catenda via [zip-opplasting](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
+> **Merk:** Det er kun mulig å publisere filer. Mappestrukturer kan lastes ned fra SharePoint og lastes opp til Catenda via [zip-opplasting](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
 
 ### 1.1 **Finne listkommandoen**
 
@@ -5855,7 +5855,7 @@ Etter å ha klikket på dette åpnes en filnavigator, og du kan velge hvilke dok
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Merk:** Hvis du drar og slipper en mappe, blir den publisert som en zip-fil. Hvis du ønsker å laste opp en mappestruktur, må du laste den ned fra SharePoint og laste den opp til Catenda enten via [zip-opplastingen](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
+> **Merk:** Hvis du drar og slipper en mappe, lastes den opp som en zip-fil. Hvis du vil laste opp en mappestruktur, må du laste den ned fra SharePoint og laste den opp til Catenda enten via [zip-opplasting](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
 
 ### 4.3 **Last på nytt**
 
@@ -9297,7 +9297,7 @@ Endelig kommer vi til Catenda Topics. Topics har som mål å holde oversikt over
 - _<a class="intercom-content-link" target="_blank">Historikk</a> -_ Du kan finne datoen for når en topic ble registrert og endret.
 - _Søkbarhet_ - Tekst i topics [kan søkes i](https://support.catenda.com/nb/articles/8370693-filtrering-pa-sakssiden) og [merkelapper kan brukes](https://support.catenda.com/nb/articles/4670265-merkelappersiden) for å finne den vitale kommunikasjonen du lette etter
 - _Tilgjengelighet_ - Hvis prosjektet er satt opp riktig, [har de rette personene alltid tilgang](https://support.catenda.com/nb/articles/4670296-tilgangstyring-pa-saksliste) til riktig informasjon fra hvor som helst med internettforbindelse ([Selv uten!](https://support.catenda.com/nb/articles/7325268-frakoblet-modus-i-catenda-site))
-- _Oversikt_ - Topics kan deles opp i ulike [topic boards](https://support.catenda.com/nb/articles/6379614-saksliste-fra-en-eksisterende-saksliste) for å holde én samtaleflyt atskilt fra en annen.
+- _Oversikt_ - Saker kan deles inn i ulike [sakslister](https://support.catenda.com/nb/articles/6379614-saksliste-fra-en-eksisterende-saksliste) for å holde én samtaleflyt adskilt fra en annen.
 - _[Ansvar](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak#h_dec8c710f5)_ - Topics kan tildeles personer for å skape en følelse av hvem som er ansvarlig for å håndtere hver bit av samtalen
 - _Informasjonsflyt_ - Mens alle som har tilgang til topic vil bli varslet når den først blir opprettet, kan du sikre at riktig sett med mennesker [varsles om fremgang](https://support.catenda.com/nb/articles/7439223-siden-for-kontovarsler) på en topic.
 
@@ -11678,7 +11678,7 @@ Mens tillatelseskjermen vises, kan telefonen tilby å lagre påloggingsinformasj
 
 > **Merk:** Installasjonsfilen for appen finner du i [denne artikkelen](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner). Hvis Google Play melder at Catenda Site ikke er tilgjengelig for enheten din, se [Catenda Site - Feilsøking](https://support.catenda.com/nb/articles/11926914-catenda-site-feilsoking#not-available-for-your-device-in-google-play).
 
-[Book a demo](https://catenda.com/get-started) på våre nettsider
+[Bestill en demo](https://catenda.com/get-started) på nettsiden vår
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p552jtap/01-intro.png)
 
@@ -11824,7 +11824,7 @@ Slik kan høyremeny for zip-importsiden for en fullført zip-import se ut:
 
 ## 7. **Skrivebordskontakt**
 
-Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan du automatisk, med jevne mellomrom, laste opp de nyeste versjonene av dokumenter fra det lokale systemet ditt til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil ved å laste opp dokumenter fil for fil i stedet for i en stor drag-and-drop eller zip-opplastingsbatch.
+Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan du automatisk og med jevne mellomrom laste opp de nyeste versjonene av Dokumenter fra ditt lokale system til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil, fordi den laster opp dokumenter fil for fil i stedet for i én stor dra-og-slipp- eller zip-opplastingsbatch.
 
 # Laster opp et dokument
 
@@ -11884,7 +11884,7 @@ I denne menyen kan bare enkeltdokumenter lastes opp. For å laste opp en mappe, 
 
 ## 3. **Desktop-tilkobling**
 
-Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan de siste versjonene av dokumenter automatisk, med jevne mellomrom, lastes opp fra et lokalt system til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil ved å laste opp dokumenter fil-for-fil i stedet for i en stor dra og slip- eller zip-opplastingsbatch.
+Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan de nyeste versjonene av dokumenter automatisk og med jevne mellomrom lastes opp fra et lokalt system til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil, ettersom den laster opp dokumenter fil for fil i stedet for i én stor dra-og-slipp- eller zip-opplasting.
 
 ## 4. **Dokumentforhåndsvisning**
 
@@ -11967,7 +11967,7 @@ conda create -n pdal-env -c conda-forge pdal python=3.10
 Dette gjør tre ting:
 
 - Opprett et miljø kalt `pdal-env`
-- Installer PDAL fra **[conda-forge](https://anaconda.org/conda-forge/pdal)**-depotet (siste versjon)
+- Installer PDAL fra **[conda-forge](https://anaconda.org/conda-forge/pdal)**-repositoriet (nyeste versjon)
 - Installering av Python (nyttig hvis du også vil bruke PDAL i Python-skriptene dine)
 
 ### 2.3 Aktiver PDAL-miljøet
@@ -14344,7 +14344,7 @@ Arkiveringsportalen fungerer med prosjekter i Catenda Hub. For å bruke den, kon
 
 > En versjon av Catenda Desktop Connector for organisasjoner som installerer programvare i et operativsystemavbilde, som kan forespørres.
 
-Catenda Desktop Connector planlegger opplastinger og nedlastinger mellom Catenda Hub og en datamaskin, og er beskrevet i [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector). En versjon for organisasjoner som installerer programvare i et operativsystemavbilde kan forespørres.
+Catenda Desktop Connector planlegger opplastinger og nedlastinger mellom Catenda Hub og en datamaskin, og er beskrevet i [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector). En versjon for organisasjoner som installerer programvare i et operativsystembilde, kan rekvireres.
 
 ## 1. **Hva det er**
 
@@ -14360,7 +14360,7 @@ Catenda Desktop Connector fungerer med prosjekter i Catenda Hub. For å bruke de
 
 > Catenda for Power BI bringer Catenda Hub-prosjektdata til Power BI. En neste versjon, med visuelle elementer og en ferdigpreparet rapportmal, er tilgjengelig on demand.
 
-Catenda for Power BI bringer dataene fra et Catenda Hub-prosjekt til Microsoft Power BI, for rapporter om prosjektets modeller, dokumenter og saker. Den utgitte [Catenda Power BI Connector](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) er tilgjengelig for alle Catenda-kunder. En neste versjon er tilgjengelig on demand: den kan bes om før utgivelsen til alle.
+Catenda for Power BI gir data fra et Catenda Hub-prosjekt inn i Microsoft Power BI, til rapporter om prosjektets modeller, dokumenter og saker. Den utgitte [Catenda Power BI Connector](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) er tilgjengelig for alle Catenda-kunder. En neste versjon er tilgjengelig på forespørsel: den kan etterspørres før utgivelsen, av alle.
 
 ## 1. **Hva det er**
 
@@ -15835,7 +15835,7 @@ PC kan lastes opp som ethvert annet dokument i dokumentseksjonen. For disse to f
 
 ### 1.1 **Opplasting av PC-data**
 
-Det anbefales å bruke [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) eller komprimere PC-filen til en zippet mappe og bruke [zip-import](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) for å laste opp PC-en din. Disse metodene vil hjelpe deg å spare tid ettersom opplastingsfilstørrelsen vil være mindre og minimere risikoen for en nettverksfeil da filen lastes opp raskere
+Det anbefales å bruke [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) eller å komprimere PC-filen til en zippet mappe og bruke [zip-import](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) for å laste opp PC-en. Disse metodene sparer tid, da opplastingsfilen blir mindre, og de reduserer risikoen for nettverksfeil, ettersom filen lastes opp raskere
 
 Etter at du laster opp en PC til dokumentseksjonen, starter dokumentforhåndsvisningen å behandle. Mens forhåndsvisningen behandles, vil du se en grå stolpe øverst i dokumentforhåndsvisningen din.
 
@@ -18209,7 +18209,7 @@ Etter at du åpner et dokument, vil du kunne se saksmenyalternativet. Her vil du
 
 ## 7. **Tillatelser**
 
-Når dokumenter lastes opp fra et SharePoint-dokumentbibliotek til Catenda, brukes sharepoint rest-api (via [pnpjs](https://pnp.github.io/pnpjs/)-biblioteket). Siden disse tillatelsene er gitt til spfx-løsninger OOTB, er ingen tilleggstillatelse nødvendig. Følgende tillatelser vil være nødvendige for at appen skal få tilgang til Catenda-baksystemet. Bare delegerte tillatelser brukes med følgende område: _[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ Tilgangen ovenfor brukes bare til å godkjenne deling av dokumenter til brukerens Catenda-prosjekt.
+Når dokumenter lastes opp fra et SharePoint-dokumentbibliotek til Catenda, brukes SharePoint REST-API-et (via [pnpjs](https://pnp.github.io/pnpjs/)-biblioteket). Siden disse tillatelsene er gitt til SPFx-løsninger OOTB, trenger ingen ekstra tillatelse å gis. Følgende tillatelser vil være nødvendige for at appen skal få tilgang til Catenda-backend. Kun delegerte tillatelser brukes med følgende scopes: _[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ Tilgangen ovenfor brukes kun for å viderefør deling av dokumenter til brukerens Catenda-prosjekt.
 
 # Side for utkast til gjennomgangsforespørsel
 
@@ -19531,7 +19531,7 @@ På enheter med begrenset skjermstørrelse må knappene være større slik at du
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda) er vår mobilapp i tidlig tilgang, tilgjengelig for iPhone og iPad gjennom [TestFlight](https://testflight.apple.com/join/xj6WppjQ) og for Android på [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Den dekker Saker, lokasjoner, skjemaer og Dokumenter, og over tid vil den få alle funksjonene i Catenda Site. Appen er under utvikling sammen med kundene i Co-creation-programmet og er ikke ferdig, så den kan fortsatt endre seg betydelig.
+[Catenda Mobile](https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda) er vår mobilapp i tidlig tilgang, tilgjengelig for iPhone og iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) og for Android på [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Den dekker saker, lokasjoner, skjema og dokumenter, og etter hvert vil den få alle funksjonene i Catenda Site. Appen utvikles sammen med kundene i Co-creation-programmet og er ikke ferdig, så den kan fortsatt endre seg betydelig.
 
 ## 2. **Startskjerm / Dashbord / Dock –** Full funksjonalitet
 
@@ -20941,7 +20941,7 @@ Du kan lese mer om bokmerker på siden [bokmerker](https://support.catenda.com/n
 
 # Opprett en ny gjennomgangsmall for arbeidsflyt – Kort video
 
-[Guidde video](https://embed.app.guidde.com/playbooks/eu_fUBwAB5gUE7vhCJsnU1kGi)
+[Guidde-video](https://embed.app.guidde.com/playbooks/eu_fUBwAB5gUE7vhCJsnU1kGi)
 
 I denne opplæringen lærer du hvordan du oppretter en ny gjennomgangsmall for arbeidsflyt i Catenda Hub.
 
@@ -21175,7 +21175,7 @@ Du har nå opprettet en ny gjennomgangsmall for arbeidsflyt med flere vurderings
 
 # Opprette en ny gjennomgangsarbeidsflyt - Kort video
 
-[Guidde video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
+[Guidde-video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
 
 Denne veiledningen fører deg gjennom opprettelsen av en ny gjennomgangsforespørsel i Catenda Hub. Hvis du ikke allerede har gjort det, se videoen "Opprett en ny mal for gjennomgangsarbeidsflyt" før du ser denne.
 
@@ -21441,7 +21441,7 @@ Legg merke til at URL-en din endres når du klikker på de ulike videoene. Når 
 
 # SharePoint Library - Short video
 
-[YouTube video](https://www.youtube.com/embed/J86W3Am70Nc?rel=0)
+[YouTube-video](https://www.youtube.com/embed/J86W3Am70Nc?rel=0)
 
 Klikk [her](https://support.catenda.com/nb/articles/5744548-sharepoint-bibliotek) for å lese mer om SharePoint Bibliotek.
 
@@ -22731,7 +22731,7 @@ Noen firmaer tillater ikke sine ansatte å opprette alias for e-postene sine. Hv
 
 ### 2.3 **Eksterne brukere**
 
-Hvis du ikke er i stand til å opprette separate brukere for hver tilbudsgiver, kan du også bruke Catenda-prosjektet ditt som et sted å dele informasjonen din om anbudsinnbydelse fra uten å invitere tilbudsgiverne. Som vist i delen [tendering information base](#h_9ab97bdd71), kan [dokumentsamlinger](https://support.catenda.com/nb/articles/6344318-samlingside) og [3D-bokmerker](https://support.catenda.com/nb/articles/4670281-bokmerke-side) forberedes og deles med eksterne parter for å brukes som grunnlag for innlevering. På denne måten kan eksterne brukere få tilgang til Dokumenter og 3D-visninger i prosjektet uten å være en del av det selv. Siden brukerne ikke er en del av prosjektet, må dokumentlevering sendes inn andre steder. De innleverte dokumentene kan lastes opp til prosjektet av anbudsgiver etter at de er sendt inn.
+Hvis du ikke kan opprette separate brukere for hver anbudsgiver, kan du også bruke Catenda-prosjektet ditt som et sted for å dele anbudsinformasjonen din uten å invitere anbudsgiverne. Som vist i avsnittet [informasjonsgrunnlaget for anbud](#h_9ab97bdd71) kan [dokumentsamlinger](https://support.catenda.com/nb/articles/6344318-samlingside) og [3D-bokmerker](https://support.catenda.com/nb/articles/4670281-bokmerke-side) klargjøres og deles med eksterne parter som grunnlag for innlevering. På denne måten kan eksterne brukere få tilgang til dokumenter og 3D-visninger i prosjektet uten å være en del av det selv. Siden brukerne ikke er en del av prosjektet, må dokumentleveransen sendes inn et annet sted. De innsendte dokumentene kan lastes opp til prosjektet av anbudsgiveren etter at de er sendt inn.
 
 ## 3. **Informasjonsgrunnlag for anbudsinnhenting**
 
@@ -23136,13 +23136,13 @@ _Slettede filer_ Søk etter "slettet" i dokumentsøkelinjen for å finne og eksp
 
 ### 2.4 **Desktop connector (Automatisert lokal sikkerhetskopi)**
 
-[Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) gjør det mulig å bakgrunnssynkronisere for periodisk å laste ned nye dokumentrevisjoner direkte til en lokal stasjon. I motsetning til satseksporten, ankommer nedlastede dokumenter direkte på systemet ditt som rå, ukomprimerte filer uten at det kreves manuell arkivekstraksjon.
+[Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) muliggjør bakgrunnssynkronisering, slik at nye dokumentrevisjoner periodisk lastes ned direkte til en lokal stasjon. I motsetning til batchnedlastinger fra nettleseren kommer dokumentene direkte til systemet ditt som rå, upakkede filer, uten at manuell utpakking av arkiv er nødvendig.
 
-_Planlagte og øyeblikkelige sikkerhetskopier_ Oppgaver kan planlegges til å kjøre automatisk med regelmessige intervaller eller utføres on-demand, noe som sikrer at prosjektmedlemmer bevarer en oppdatert lokal kopi av dokumenter selv om prosjekttilgangen uventet tilbakekalles.
+**Planlagte og øyeblikkelige sikkerhetskopier** Oppgaver kan planlegges til å kjøre automatisk med regelmessige intervaller eller utføres on-demand, noe som sikrer at prosjektmedlemmer bevarer en oppdatert lokal kopi av dokumenter selv om prosjekttilgangen uventet tilbakekalles.
 
-_Direkte API-overføringer_ Overfører store datasett betydelig raskere enn weblesernedlastinger ved å utnytte direkte API-forbindelser uten leserbegrensninger eller overhead.
+**Direkte API-overføringer** Overfører store datasett betydelig raskere enn weblesernedlastinger ved å utnytte direkte API-forbindelser uten leserbegrensninger eller overhead.
 
-_Hierarkialternativer_ Laster ned valgte mappestrukturer med komplett hierarki intakt, eller trekker ut individuelt valgte filer direkte som en flat liste til den utpekte lokale mappen.
+**Hierarkialternativer** Laster ned valgte mappestrukturer med komplett hierarki intakt, eller trekker ut individuelt valgte filer direkte som en flat liste til den utpekte lokale mappen.
 
 ### 2.5 **Medlemtilgang og aktivitetslogger**
 
@@ -23181,7 +23181,7 @@ Hva som kan eksporteres, og i hvilke filformater, er beskrevet i [Eksportering a
 
 ## 3. **Catenda dataeksport**
 
-Catenda Data Export selges separat fra Catenda Hub. I motsetning til nedlastingene ovenfor, kopierer den prosjektdata automatisk direkte fra Catenda Hub til en organisasjons egen skytlagring i Amazon S3 eller Azure Blob-lagring. Det passer for organisasjoner som ønsker en sikkerhetskopi som holder tritt med prosjektene deres, eller prosjektposter som oppbevares i deres eget lager. Det er ikke bare for prosjekteiere. En prosjekteier kan eksportere en fullstendig sikkerhetskopi av prosjektene sine, og en prosjektdeltaker kan eksportere det den har tilgang til i prosjektene den deltar i. Mer om det finner du i [Om Catenda Data Export](https://support.catenda.com/nb/articles/17779020-om-catenda-data-export) _(for lesere som ikke er pålogget)_ og [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(bare for påloggede kunder)_. Kunder som har det, finner oppsettet i [Catenda Data Export](https://support.catenda.com/nb/articles/17779052-catenda-datakeksport) _(bare for Data Export-kunder)_.
+Catenda Data Export selges separat fra Catenda Hub. I motsetning til nedlastingene ovenfor kopierer den prosjektdata automatisk, direkte fra Catenda Hub til en organisasjons egen skylagring i Amazon S3 eller Azure Blob storage. Den passer for organisasjoner som ønsker en sikkerhetskopi som holder tritt med prosjektene deres, eller prosjektregistreringer lagret i egen lagring. Den er ikke kun for prosjekteiere. En prosjekteier kan eksportere en fullstendig sikkerhetskopi av sine prosjekter, og en prosjektdeltaker kan eksportere det vedkommende har tilgang til i prosjektene vedkommende deltar i. Mer om dette finnes i [Om Catenda Data Export](https://support.catenda.com/nb/articles/17779020-om-catenda-data-export) _(for lesere som ikke er logget inn)_ og [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(kun for innloggede kunder)_. Kunder som har tjenesten finner oppsettet i [Catenda Data Export](https://support.catenda.com/nb/articles/17779052-catenda-datakeksport) _(kun for Data Export-kunder)_.
 
 # Endring av størrelse på kolonner
 
@@ -23528,7 +23528,7 @@ På et nettbrett hjelper det å laste bare det du trenger for oppgaven du har fo
 
 Flere tips er beskrevet i [3D-viseroptimalisering](https://support.catenda.com/nb/articles/13927321-3d-viser-optimalisering).
 
-For arbeid på byggeplassen er Catenda Site mobilapp ofte et bedre valg, som beskrevet i [Access with limited screen space](https://support.catenda.com/nb/articles/10695677-tilgang-med-begrenset-skjermplass). Enhetsanbefalinger for Catenda Site er beskrevet i [Hardware recommendation - Catenda Site](https://support.catenda.com/nb/articles/17596478-maskinvareanbefalinger-catenda-site).
+For arbeid på byggeplassen er Catenda Site-mobilappen ofte et bedre valg, som beskrevet i [Tilgang med begrenset skjermplass](https://support.catenda.com/nb/articles/10695677-tilgang-med-begrenset-skjermplass). Maskinvareanbefalinger for Catenda Site er beskrevet i [Maskinvareanbefaling - Catenda Site](https://support.catenda.com/nb/articles/17596478-maskinvareanbefalinger-catenda-site).
 
 # Maskinvareanbefalinger - Catenda Site
 
@@ -23544,15 +23544,15 @@ Catenda Site er tilgjengelig for iPhone, Android-telefoner og nettbrett, iPad, i
 
 ### 1.1 **iOS: iPhone og iPod touch**
 
-På en iPhone eller iPod touch installeres Catenda Site fra [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site krever iOS 13.4 eller senere. iPadOS 16 og 17-problemet med 3D-viseren på iPad som er beskrevet nedenfor, påvirker ikke iPhone.
+På en iPhone eller iPod touch installeres Catenda Site fra [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site krever iOS 13.4 eller nyere. Problemet med 3D-Viser i iPadOS 16 og 17 på iPad, som beskrives nedenfor, påvirker ikke iPhone.
 
 ### 1.2 **Android: telefoner og nettbrett**
 
-På en Android-telefon eller et nettbrett installeres Catenda Site fra [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile). Catenda Site krever Android 7.0 eller senere. Hvis Google Play rapporterer at Catenda Site ikke er tilgjengelig for enheten din, er dette ikke en begrensning av enheten. Hvordan du installerer appen i så fall er beskrevet i [Catenda Site - Feilsøking](https://support.catenda.com/nb/articles/11926914-catenda-site-feilsoking#not-available-for-your-device-in-google-play).
+På en Android-telefon eller -nettbrett installeres Catenda Site fra [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile). Catenda Site krever Android 7.0 eller nyere. Hvis Google Play melder at Catenda Site ikke er tilgjengelig for enheten din, er dette ikke en begrensning ved enheten. Hvordan appen installeres i dette tilfellet, er beskrevet i [Catenda Site - feilsøking](https://support.catenda.com/nb/articles/11926914-catenda-site-feilsoking#not-available-for-your-device-in-google-play).
 
 ### 1.3 **iPadOS: iPad**
 
-På en iPad installeres Catenda Site fra [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site krever iPadOS 13.4 eller senere. 3D-viseren fungerer på iPadOS 15 og tidligere, og på iPadOS 18 og senere. På iPadOS 16 og 17 forhindrer en feil i iPadOS at appen viser 3D-modeller, så oppdater en iPad på en av disse versjonene til iPadOS 18 hvis en oppdatering er tilgjengelig. Følgende iPad-enheter kan ikke oppdateres forbi iPadOS 16 eller 17, så 3D-viseren i Catenda Site fungerer ikke på dem når de kjører en av disse versjonene:
+På en iPad installeres Catenda Site fra [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site krever iPadOS 13.4 eller nyere. 3D-Viser fungerer på iPadOS 15 og tidligere, og på iPadOS 18 og senere. På iPadOS 16 og 17 fører en feil i iPadOS til at appen ikke viser 3D-modeller, så oppdater en iPad med en av disse versjonene til iPadOS 18 hvis en oppdatering er tilgjengelig. Følgende iPader kan ikke oppdateres utover iPadOS 16 eller 17, så 3D-Viser i Catenda Site fungerer ikke på dem når de kjører en av disse versjonene:
 
 - iPad (5. og 6. generasjon)
 - iPad Pro 9,7 tommer
@@ -23563,7 +23563,7 @@ På disse iPad-enhetene kan modeller fortsatt vises i Catenda Hub i Safari. For 
 
 ### 1.4 **visionOS: Apple Vision**
 
-På Apple Vision installeres Catenda Site fra [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site krever visionOS 1.0 eller senere.
+På Apple Vision installeres Catenda Site fra [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site krever visionOS 1.0 eller nyere.
 
 ## 2. **Få mest mulig ut av 3D-viseren**
 
@@ -24952,35 +24952,35 @@ _Programtillegg og integrasjoner_ [Revit-endringslogg - 1.0.11](https://support.
 
 ### 1.2 **Artikler som har endret seg:**
 
-_Kom i gang_ [Lagring av filtre](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) [Maskinvareanbefalinger](https://support.catenda.com/nb/articles/6921941-maskinvareanbefalinger)
+**Kom i gang** [Lagring av filtre](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) [Maskinvareanbefalinger](https://support.catenda.com/nb/articles/6921941-maskinvareanbefalinger)
 
-_Vanlige spørsmål_ [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) [Hvordan kan jeg invitere et medlem?](https://support.catenda.com/nb/articles/4670319-hvordan-kan-jeg-invitere-et-medlem) [Sorteringsrekkefølge for lister](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) [Sider uten tilgang](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
+**Vanlige spørsmål** [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) [Hvordan kan jeg invitere et medlem?](https://support.catenda.com/nb/articles/4670319-hvordan-kan-jeg-invitere-et-medlem) [Sorteringsrekkefølge for lister](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) [Sider uten tilgang](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
 
-_Hovedside_ [Flerfaktorautentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering) [Varselsfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Prosjektsider](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Legge til brukere uten e-postinvitasjon](https://support.catenda.com/nb/articles/8434846-legge-til-brukere-uten-e-postinvitasjon) [Endre ditt foretrukne språk](https://support.catenda.com/nb/articles/4670248-endre-foretrukket-sprak)
+**Hovedside** [Flerfaktorautentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering) [Varselsfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Prosjektsider](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Legge til brukere uten e-postinvitasjon](https://support.catenda.com/nb/articles/8434846-legge-til-brukere-uten-e-postinvitasjon) [Endre ditt foretrukne språk](https://support.catenda.com/nb/articles/4670248-endre-foretrukket-sprak)
 
-_Dashbord_ [Dashbordside](https://support.catenda.com/nb/articles/8212646-dashbord-side)
+**Dashbord** [Dashbordside](https://support.catenda.com/nb/articles/8212646-dashbord-side)
 
-_Modeller_ [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Bokmerke](https://support.catenda.com/nb/articles/4670271-sakside)
+**Modeller** [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Bokmerke](https://support.catenda.com/nb/articles/4670271-sakside)
 
-_Saker_ [Høyremeny i en saksliste](https://support.catenda.com/nb/articles/6941224-hoyremeny-i-en-saksliste) [Sakssider](https://support.catenda.com/nb/articles/4670271-sakside) [Handlinger i en saksliste](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell) [Bytt saker](https://support.catenda.com/nb/articles/4670289-utveksle-saker) [Saksinnhold - Innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
+**Saker** [Høyremeny i en saksliste](https://support.catenda.com/nb/articles/6941224-hoyremeny-i-en-saksliste) [Sakssider](https://support.catenda.com/nb/articles/4670271-sakside) [Handlinger i en saksliste](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell) [Bytt saker](https://support.catenda.com/nb/articles/4670289-utveksle-saker) [Saksinnhold - Innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
 
-_Dokumenter_ [Forhåndsvisning av dokument og merknader](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) [Kolonner på dokumentsiden](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden) [Dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) [Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter) [QR-kode på PDF-filer i Catenda](https://support.catenda.com/nb/articles/9360508-qr-kode-pa-pdf-er-i-catenda) [Høyremeny på dokumentsiden](https://support.catenda.com/nb/articles/8345396-hoyremeny-pa-dokumentsiden) [Høyremeny for en revisjon](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) [Mapper og dokumenter ACL](https://support.catenda.com/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring) [Samlingside](https://support.catenda.com/nb/articles/8999764-samlinginnholdside)
+**Dokumenter** [Forhåndsvisning av dokument og merknader](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) [Kolonner på dokumentsiden](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden) [Dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) [Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter) [QR-kode på PDF-filer i Catenda](https://support.catenda.com/nb/articles/9360508-qr-kode-pa-pdf-er-i-catenda) [Høyremeny på dokumentsiden](https://support.catenda.com/nb/articles/8345396-hoyremeny-pa-dokumentsiden) [Høyremeny for en revisjon](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) [Mapper og dokumenter ACL](https://support.catenda.com/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring) [Samlingside](https://support.catenda.com/nb/articles/8999764-samlinginnholdside)
 
-_Biblioteker_ [Biblioteksside](https://support.catenda.com/nb/articles/8065645-biblioteksside) [Sharepoint-bibliotek](https://support.catenda.com/nb/articles/5744548-sharepoint-bibliotek)
+**Biblioteker** [Biblioteksside](https://support.catenda.com/nb/articles/8065645-biblioteksside) [Sharepoint-bibliotek](https://support.catenda.com/nb/articles/5744548-sharepoint-bibliotek)
 
-_Prosjektvarslinger_ [Prosjektvarselsinnstillinger](https://support.catenda.com/nb/articles/4670262-prosjektspesifikke-varselinnstillinger)
+**Prosjektvarslinger** [Prosjektvarselsinnstillinger](https://support.catenda.com/nb/articles/4670262-prosjektspesifikke-varselinnstillinger)
 
-_Prosjektinnstillinger_ [Side for å invitere medlemmer](https://support.catenda.com/nb/articles/4670263-inviter-medlemmer-side) [Prosjektinnstillingsside](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger)
+**Prosjektinnstillinger** [Side for å invitere medlemmer](https://support.catenda.com/nb/articles/4670263-inviter-medlemmer-side) [Prosjektinnstillingsside](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger)
 
-_2D og 3D-visere_ [Mengdeberegning (QTO)](https://support.catenda.com/nb/articles/6673929-mengdetaking-qto)
+**2D og 3D-visere** [Mengdeberegning (QTO)](https://support.catenda.com/nb/articles/6673929-mengdetaking-qto)
 
 _Informasjonspanel_ [Inspeksjonsmeny](https://support.catenda.com/nb/articles/4670285-inspeksjonsmeny) [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-informasjonspanel)
 
-_Innstillinger_
+**Innstillinger**
 
-_Programtillegg og integrasjoner_ [Revit IFC Export Manual](https://support.catenda.com/nb/articles/4670341-revit-ifc-eksportmanual) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)
+**Plugins og integrasjoner** [Revit IFC-eksportmanual](https://support.catenda.com/nb/articles/4670341-revit-ifc-eksportmanual) [IFC-eksport Archicad-manual](https://IFC%20Export%20Archicad%20Manual)
 
-_Catenda Site_ [Catenda Site Changelog - 3.5.0](https://support.catenda.com/nb/articles/9930034-catenda-site-endringslogg-3-5-0) [Dokumenter-meny - Catenda Site](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site) [Forhåndsvisning av filtyper på Catenda Site](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site)
+**Catenda Site** [Catenda Site-endringslogg - 3.5.0](https://support.catenda.com/nb/articles/9930034-catenda-site-endringslogg-3-5-0) [Dokumentmeny - Catenda Site](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site) [Forhåndsvisning av filtyper på Catenda Site](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site)
 
 ## 2. **Feil løst**
 
@@ -25039,7 +25039,7 @@ Takk for din verdifulle tilbakemelding har vi kunnet fikse mange saker som du ka
 
 ## 4. **Nye versjoner** - Catenda Site, programtillegg og integrasjoner
 
-_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Med den nye delte arbeidsflyten vil bare publiserte modeller og dokumenter være synlige.
+_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Med den nye arbeidsflyten vil bare publiserte modeller og dokumenter være synlige.
 
 # Datofilter 📆
 
@@ -25089,11 +25089,11 @@ Her er den nye funksjonen i Catenda, filer kan nå dras og slippes i dokumenter-
 
 ## 1. Artikler
 
-_Nye artikler:_
+**Nye artikler:**
 
 [Systemkrav og optimalisering](https://intercom.help/bimsync-arena/nb/articles/6921941-maskinvareanbefalinger)
 
-[Solibri Models and Documents Integration](https://intercom.help/bimsync-arena/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
+[Integrasjon av Solibri-modeller og Dokumenter](https://intercom.help/bimsync-arena/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
 
 [2D-overlegg](https://intercom.help/bimsync-arena/nb/articles/6921756-storey-configurator-side)
 
@@ -25106,7 +25106,7 @@ _Nye artikler:_
 
 [Listevisning i issue board](https://support.catenda.com/nb/articles/6941232-listevisning-i-en-saksliste)
 
-_Artikler som har endret seg:_
+**Artikler som har endret seg:**
 
 [3D Viser-innstillinger](https://intercom.help/bimsync-arena/nb/articles/5784718-3d-viser-innstillinger)
 
@@ -25250,7 +25250,7 @@ Ettersom nye funksjoner lanseres og feil rettes blir artiklene oppdatert med end
 - Catenda-programtillegg og integrasjoner
   - [3D-viser - Catenda Site](https://support.catenda.com/nb/articles/7744403-3d-viser-catenda-site)
   - [Catenda-programtillegg og integrasjoner](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner)
-  - [IFC export archicad manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual)
+  - [Manual for IFC-eksport i Archicad](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual)
   - [Aktivering av Catenda SharePoint-appen](https://support.catenda.com/nb/articles/9419749-aktivering-av-catenda-sharepoint-appen)
   - [Legge til og fjerne Catenda SP-appen](https://support.catenda.com/nb/articles/9453368-legge-til-og-fjerne-catendasp-appen)
 - Dokumenter - Eldre
@@ -25676,7 +25676,7 @@ _Tekla programtillegg v1.5.0_ Støtte for Tekla 2026
 
 ## 1. Artikler
 
-_Nye artikler:_ Catenda Hub [Bimsync er nå Catenda Hub](https://support.catenda.com/nb/articles/7890769-bimsync-er-na-catenda-hub) [Landingsside](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Sidepanel på et problemstyreboard](https://support.catenda.com/nb/articles/6941224-hoyremeny-i-en-saksliste) [Eksporter all prosjektdata](https://support.catenda.com/nb/articles/7946690-eksporterer-alle-prosjektdata) [Navngivningskonvensjoner-side](https://support.catenda.com/nb/articles/7832559-navnekonvensjonsside) [Enkleste navngivningskonvensjon](https://support.catenda.com/nb/articles/7845360-enkleste-navnekonvensjon) [Middels navngivningskonvensjon](https://support.catenda.com/nb/articles/7936943-navnekonvensjon-for-medium-niva) [Avansert navngivningskonvensjon](https://support.catenda.com/nb/articles/7936947-avansert-navnekonvensjon) Catenda Site [Last ned mobilappen Catenda Site 📲](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site) [Dokumenter - Catenda Site](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site) [Dashbord - Catenda Site](https://support.catenda.com/nb/articles/7213817-dashbord-catenda-site) [Navigasjonsmeny - Catenda Site](https://support.catenda.com/nb/articles/7338516-navigasjonsmeny-catenda-site) [Prosjekter-side - Catenda Site](https://support.catenda.com/nb/articles/7733978-prosjektsiden-catenda-site) [Innstillinger - Catenda Site](https://support.catenda.com/nb/articles/7733833-innstillinger-catenda-site) [Problemer-side - Catenda Site](https://support.catenda.com/nb/articles/7734073-saksmeny-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/nb/articles/7734138-2d-3d-catenda-site) [Frakoblet modus i Catenda Site](https://support.catenda.com/nb/articles/7325268-frakoblet-modus-i-catenda-site) [3D-viser - Catenda Site](https://support.catenda.com/nb/articles/7744403-3d-viser-catenda-site) [2D-viser - Catenda Site](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site) [Merkelappefilter - Catenda Site](https://support.catenda.com/nb/articles/7854138-merkelappfilter-catenda-site) _Artikler som har endret seg:_ [Prosjektinnstillinger-side](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger) [Systemkrav og optimisering](https://support.catenda.com/nb/articles/6921941-maskinvareanbefalinger) [Modeller-side](https://support.catenda.com/nb/articles/4670286-modellside) [Modell-side](https://support.catenda.com/nb/articles/4670270-modellinnholdsside)
+_Nye artikler:_ Catenda Hub [Bimsync er nå Catenda Hub](https://support.catenda.com/nb/articles/7890769-bimsync-er-na-catenda-hub) [Landingsside](https://support.catenda.com/nb/articles/8400797-prosjektsiden) [Sidepanel i en issue board](https://support.catenda.com/nb/articles/6941224-hoyremeny-i-en-saksliste) [Eksportere alle prosjektdata](https://support.catenda.com/nb/articles/7946690-eksporterer-alle-prosjektdata) [Side om navnekonvensjoner](https://support.catenda.com/nb/articles/7832559-navnekonvensjonsside) [Enkleste navnekonvensjon](https://support.catenda.com/nb/articles/7845360-enkleste-navnekonvensjon) [Middels navnekonvensjon](https://support.catenda.com/nb/articles/7936943-navnekonvensjon-for-medium-niva) [Avansert navnekonvensjon](https://support.catenda.com/nb/articles/7936947-avansert-navnekonvensjon) Catenda Site [Last ned mobilappen Catenda Site 📲](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site) [Dokumenter - Catenda Site](https://support.catenda.com/nb/articles/7774637-dokumentermeny-catenda-site) [Dashbord - Catenda Site](https://support.catenda.com/nb/articles/7213817-dashbord-catenda-site) [Navigasjonsmeny - Catenda Site](https://support.catenda.com/nb/articles/7338516-navigasjonsmeny-catenda-site) [Prosjektside - Catenda Site](https://support.catenda.com/nb/articles/7733978-prosjektsiden-catenda-site) [Innstillinger - Catenda Site](https://support.catenda.com/nb/articles/7733833-innstillinger-catenda-site) [Issues-side - Catenda Site](https://support.catenda.com/nb/articles/7734073-saksmeny-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/nb/articles/7734138-2d-3d-catenda-site) [Frakoblet modus i Catenda Site](https://support.catenda.com/nb/articles/7325268-frakoblet-modus-i-catenda-site) [3D-viser - Catenda Site](https://support.catenda.com/nb/articles/7744403-3d-viser-catenda-site) [2D-viser - Catenda Site](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site) [Filtre for merkelapper - Catenda Site](https://support.catenda.com/nb/articles/7854138-merkelappfilter-catenda-site) _Artikler som er endret:_ [Prosjektinnstillinger-siden](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger) [Systemkrav og optimalisering](https://support.catenda.com/nb/articles/6921941-maskinvareanbefalinger) [Modeller-siden](https://support.catenda.com/nb/articles/4670286-modellside) [Modell-siden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside)
 
 ## 2. Løste problemer
 
@@ -25963,7 +25963,7 @@ Takk for dine verdifulle tilbakemeldinger har vi kunnet rette mange saker som du
 - Modeller som dokumenter er nå blitt fullstendig utgitt.
 - Saker er blitt omdøpt til Saker.
 
-_Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+_Catenda Site:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
 **Ny versjon 3.3.1**
 
@@ -26013,25 +26013,25 @@ _Plugins og integrasjoner_ [Dokument - Catenda Site](https://support.catenda.com
 
 ### 1.2 **Artikler som har endret seg:**
 
-_Nylige oppdateringer_ [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)
+**Nylige oppdateringer** [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)
 
-_Hovedside_ [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
+**Hovedside** [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknapper) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
 
-_Saker_ [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) [Saksbrødtekst](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg)
+**Saker** [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) [Saksbrødtekst](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg)
 
-_Dokumenter_
+**Dokumenter**
 
 _[Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter)_ [Merknader på dokumenter](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) [Samlingsside](https://support.catenda.com/nb/articles/6344318-samlingside) [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/8551740-filtrering-pa-godkjenningssiden-eldre-versjon) [Filtrering i saksliste](https://support.catenda.com/nb/articles/8370693-filtrering-pa-sakssiden)
 
-_Modeller_ [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viser) [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Søk](https://support.catenda.com/nb/articles/4854514-sporringer)
+**Modeller** [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viser) [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Søk](https://support.catenda.com/nb/articles/4854514-sporringer)
 
-_Informasjonspanel_ [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-informasjonspanel)
+**Informasjonspanel** [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-informasjonspanel)
 
-_Innstillinger_ [Merkelappersde](https://support.catenda.com/nb/articles/4670265-merkelappersiden) [Opprett et team](https://support.catenda.com/nb/articles/4670264-opprette-et-team)
+**Innstillinger** [Merkelappersde](https://support.catenda.com/nb/articles/4670265-merkelappersiden) [Opprett et team](https://support.catenda.com/nb/articles/4670264-opprette-et-team)
 
-_Plugins og integrasjoner_ [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) [Integrasjon Power BI](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) [IFC Archicad Manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual) [Archicad plugin](https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin) [Solibri Modeller som dokumenter-integrering](https://support.catenda.com/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
+**Plugins og integrasjoner** [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) [Integrasjon Power BI](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) [IFC Archicad-manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual) [Archicad-plugin](https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin) [Solibri Models as Documents-integrasjon](https://support.catenda.com/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
 
-_Catenda Site_ [Last ned mobilappen Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site)
+**Catenda Site** [Last ned mobilappen Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site)
 
 ## 2. **Feil løst**
 
@@ -26096,9 +26096,9 @@ Det er nå mulig for administratorer å slette bokmerker laget av brukere. Dette
 
 ## 4. **Nye versjoner** - Catenda Site, plugins og integrasjoner
 
-_Catenda Hub:_ _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+**Catenda Hub:** _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
-_Tekla-programtillegg v1.1.2:_ [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
+**Tekla-programtillegg v1.1.2:** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
 
 Archicad-programtillegg v1.0.1.11: [Graphisoft Archicad-programtillegg - v1.0.1.11 - Windows](https://hub.catenda.com/share/collections/Zxu69mYiYBrU0ClC9MYFP2Rm6CdjUmlCWcDRTM8wdvUm) - Alle versjoner [Graphisoft Archicad-programtillegg - v1.0.1.11 - Mac](https://hub.catenda.com/share/collections/QlZGUafsOwX4LKF7eqwo15YLuhDkTeAfJjTYjqCmYgPp) - Alle versjoner
 
@@ -26254,7 +26254,7 @@ Takk for verdifulle tilbakemeldinger har vi vært i stand til å fikse mange sak
 
 ## 3. **Nye utgaver** - Catenda Site, Plugin-moduler og integrasjoner
 
-_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Det er ikke lenger mulig å se innholdet i saker som ble slettet på Catenda Hub. Hvis du hadde lastet inn markører i 2D-viseren, vil disse fortsatt være synlige. Hvis du prøver å åpne en slettet sak via saklisten eller markør, vil innholdet i saken ikke lenger vises, og markøren vil bli lastet ut fra 2D-viseren.
+_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Det er ikke lenger mulig å se innholdet i saker som ble slettet på Catenda Hub. Hvis du hadde lastet inn markører i 2D-viseren, vil disse fortsatt være synlige. Forsøk på å åpne en slettet sak via saksliste eller markør vil ikke lenger vise innholdet i saken, og markøren fjernes fra 2D-viseren.
 
 # Endringslogg 9 Catenda - juni 2025
 
@@ -26620,15 +26620,15 @@ Relaterte dokumenter kan nå lenkes til hverandre, både i dokumentområdet og i
 
 De nye valideringsflytene som ble frigitt i Q3 2025, fortjente litt mer kjærlighet. Følgende funksjoner har blitt lagt til som en oppfølgingsutgivelse til den nye gjennomgangsarbeidsflyten:
 
-**👁 [Synlighet på status for den enkelte gjennomgangsansvarlige (3:14):](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** få en rask oversikt over hvert medlems aktivitet innen et team tildelt et gjennomgangstrinn, så du kan fjerne blokkeringer raskt. **[Pt. 2 Video (3:26)](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** **📄 [Dokumenter på tvers av alle åpne gjennomganger i én visning (3:41):](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** se umiddelbart dokumentene som trenger din oppmerksomhet, uten å åpne individuelle gjennomgangsforespørsler. **🖱 [Tilgang med ett klikk til vurderingssiden (2:05):](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** hopp direkte til vurderingssiden og start med å vurdere. **✅ [Krev signering av alle teammedlemmer (3:20):](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** vær sikker på at hvert medlem av vurderingsteamet har vurdert dokumentet før det går videre.
+**👁 [Synlegheit på status for den enkelte gjennomgangsansvarleg (3:14):](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** få eit raskt oversyn over kvar medlems aktivitet innan eit team tildelt eit gjennomgangstrinn, så du kan fjerne blokkeringar raskt. **[Pt. 2 Video (3:26)](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** **📄 [Dokument på tvers av alle opne gjennomgangar i ein visning (3:41):](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** sjå omedelbart dokumenta som treng di merksemd, utan å opne individuelle gjennomgangsførespurnader. **🖱 [Tilgang med eitt klikk til vurderingssida (2:05):](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** hopp direkte til vurderingssida og start med å vurdere. **✅ [Krev signering av alle teammedlemmer (3:20):](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** vere sikker på at kvart medlem av vurderingsteamet har vurdert dokumentet før det går vidare.
 
-_Gjennomgang av flere dokumenter samtidig_ Flere dokumenter i en gjennomgang kan nå gjennomgås og viderefølges i en omgang i stedet for en etter en. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/acnYCKQCh1WTWzs2i1D2GQ?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+**Gjennomgang av flere dokumenter samtidig** Flere dokumenter i en gjennomgang kan nå gjennomgås og viderefølges i en omgang i stedet for en etter en. 📽️ **[Opplæringsvideo](https://eu.guidde.com/share/playbooks/acnYCKQCh1WTWzs2i1D2GQ?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
 
-_Redigering av en gjennomgangs tittel og beskrivelse_ Tittelen og beskrivelsen av en gjennomgang kan nå bli redigert etter at den har blitt sendt inn. Tidligere var begge fastsatt ved oppretting, så en stavefeil eller en tittel som ikke lenger passet omfanget av forespørselen, ville være noe man måtte leve med hele livet til gjennomgangen, eller avbryte og starte på nytt. Redigering er begrenset til personen som opprettet gjennomgangen, og til prosjektadministratorer. Å være medlem av et innsender-team er det som tillater at en gjennomgang kan opprettes, men det gir ikke retten til å redigere gjennomganger opprettet av andre medlemmer av samme team. Hvis en kollega opprettet den, er redigering ikke tilgjengelig, oppretteren eller en prosjektadministrator må gjøre endringen.
+**Redigering av en gjennomgangs tittel og beskrivelse** Tittelen og beskrivelsen av en gjennomgang kan nå bli redigert etter at den har blitt sendt inn. Tidligere var begge fastsatt ved oppretting, så en stavefeil eller en tittel som ikke lenger passet omfanget av forespørselen, ville være noe man måtte leve med hele livet til gjennomgangen, eller avbryte og starte på nytt. Redigering er begrenset til personen som opprettet gjennomgangen, og til prosjektadministratorer. Å være medlem av et innsender-team er det som tillater at en gjennomgang kan opprettes, men det gir ikke retten til å redigere gjennomganger opprettet av andre medlemmer av samme team. Hvis en kollega opprettet den, er redigering ikke tilgjengelig, oppretteren eller en prosjektadministrator må gjøre endringen.
 
-_Lange beskrivelser i gjennomgangsoversikten_ Lange gjennomgangsbeskrivelser håndteres bedre i gjennomgangsoversikten, slik at en lang beskrivelse ikke lenger skyver resten av informasjonen ut av sikten. En lang beskrivelse blir heller ikke avskåret lenger. Bruk Vis mer og Vis mindre for å utvide og skjule den.
+**Lange beskrivelser i gjennomgangsoversikten** Lange gjennomgangsbeskrivelser håndteres bedre i gjennomgangsoversikten, slik at en lang beskrivelse ikke lenger skyver resten av informasjonen ut av sikten. En lang beskrivelse blir heller ikke avskåret lenger. Bruk Vis mer og Vis mindre for å utvide og skjule den.
 
-_Teams-kolonne i dokumenter-på-tvers-av-gjennomganger-tabellen_ Teams-kolonnen i tabellen over dokumenter på tvers av alle åpne gjennomganger er forbedret, noe som gjør det lettere å se hvilket team som forventes å handle på hvert dokument. Når et dokument har flere gjennomgangsteams, vises hver teammerkelapp nå tydelig i dokumentlisten.
+**Teams-kolonne i dokumenter-på-tvers-av-gjennomganger-tabellen** Teams-kolonnen i tabellen over dokumenter på tvers av alle åpne gjennomganger er forbedret, noe som gjør det lettere å se hvilket team som forventes å handle på hvert dokument. Når et dokument har flere gjennomgangsteams, vises hver teammerkelapp nå tydelig i dokumentlisten.
 
 ### 2.2 **Dokumentsammenligning: sammenlign tekst, ikke bare piksler**
 
@@ -26768,7 +26768,7 @@ Kontaktpersonen for Catenda-lisensen din kan be om å bli medlem av Co-creation-
 
 ### 4.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda) er en ny mobilapp for telefoner og nettbrett, tilgjengelig i tidlig tilgang for iPhone og iPad via TestFlight og for Android på Google Play. Den dekker saker, steder, skjemaer og dokumenter, og over tid vil den få alle funksjonene til [Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site), og mer. Saker og dokumenter fungerer i alle prosjekter brukeren er medlem av. Skjemaer og steder kan bare brukes i prosjekter der de er slått på, og for nå er det bare prosjektene til kunder i Co-creation-programmet.
+[Catenda Mobile](https://support.catenda.com/nb/articles/17601630-last-ned-mobilappen-catenda) er en ny mobilapp for telefoner og nettbrett, tilgjengelig i tidlig tilgang for iPhone og iPad via TestFlight og for Android på Google Play. Den dekker saker, lokasjoner, skjemaer og dokumenter, og over tid vil den få alle funksjonene i [Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site), og mer. Saker og dokumenter fungerer i alle prosjekter brukeren er medlem av. Skjemaer og lokasjoner kan bare brukes i prosjekter der de er slått på, og foreløpig gjelder det bare prosjektene til kunder i co-creation-programmet.
 
 Appen er ikke endelig og kan fortsatt endres betydelig. Catenda Site kan fremdeles brukes ved siden av den, og forblir appen som skal brukes der en funksjon trengs som ikke er i Catenda Mobile ennå.
 
@@ -27495,7 +27495,7 @@ Appen installeres på telefonen eller nettbrettet neste gang den er tilkoblet in
 
 # Desktop Connector - ikke alle mapper lastet ned
 
-I denne artikkelen finner du informasjon om en spesifikk feil som oppstår når du bruker [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector). Se [her](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) for andre feilsøkingsproblemer med Desktop Connector.
+I denne artikkelen finnes informasjon om en spesifikk feil som kan oppstå ved bruk av [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector). Se [her](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) for andre feilsøkingsproblemer for Desktop Connector.
 
 I selve oppgaven kan du se følgende:
 
@@ -28083,7 +28083,7 @@ Det er viktig å merke seg at [Revit LT ikke støtter tredjepartstillegg eller p
 
 ### 3.2 **Versjonkompatibilitet**
 
-For å sikre samsvar med de nyeste programvareoppdateringene og ytelsesforbedringer, oppdateres integrasjonene regelmessig. For en omfattende liste over støttede årsversjoner for både Revit-tillegget og Dynamo-pakken, bør det refereres til [Plugins and Integrations](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner)-artikkelen.
+For å sikre samsvar med de nyeste programvareoppdateringene og ytelsesforbedringene oppdateres integrasjonene jevnlig. For en fullstendig liste over for øyeblikket støttede årsversjoner for både Revit-tillegget og Dynamo-pakken, **r**eferer til artikkelen [Plugins and Integrations](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner).
 
 ## 4. Catenda Hub Dynamo-pakke
 
@@ -28395,7 +28395,7 @@ OneDrive og SharePoint 400 Unicode-kodeenheter
 
 **Mindre zip-filer** Hvis zip-filen består av flere filer, kan zip-filen deles inn i mindre zip-filer. Hver separate zip-fil kan lastes opp individuelt, men det vil alltid være en risiko for nettverks- eller tilkoblingsfeil.
 
-**Individuelle filer** [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) er en sikrere måte å laste opp på, ettersom den laster opp dokumenter fil for fil. Dette er også raskere ettersom filene lastes opp direkte til vår backend i stedet for gjennom nettlesergrensesnittet. Selv om en av filene mislykkes, vil de som ble lastet opp til da allerede vises på Catenda. Resten av filene vil fortsette å lastes opp neste gang opplastingsoppgaven kjøres.
+**Individuelle filer** [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) er en tryggere måte å laste opp på, ettersom den laster opp dokumenter fil for fil. Dette er også raskere, da filene lastes opp direkte til vår backend i stedet for gjennom nettleserens grensesnitt. Selv om én av filene feiler, vil de som er lastet opp frem til da allerede vises i Catenda. Resten av filene vil fortsette å lastes opp neste gang opplastingsoppgaven kjøres.
 
 ## 2. **Zip-opplastinger med spesialtegn**
 
@@ -28888,7 +28888,7 @@ Hvis du trenger hjelp til å forstå hvordan funksjoner fungerer innen integreri
 
 ### 1.2 **For tekniske og funksjonelle problemer**
 
-Hvis du møter spesifikke feilmeldinger i Solibri-grensesnittet, hvis koblingen ikke svarer som forventet, eller hvis du ønsker en endring i hvordan koblingen fungerer, kontakt **[Solibri Support](https://www.solibri.com/support)** direkte. Som utviklere og eiere av koblingen er de de eneste som kan endre den underliggende koden, justere interne valideringsregler eller feilsøke programvarespecifikke feil.
+Hvis det oppstår spesifikke feilmeldinger i Solibri-grensesnittet, hvis konnektoren ikke reagerer som forventet, eller hvis det ønskes en endring i hvordan konnektoren fungerer, må du kontakte **[Solibri Support](https://www.solibri.com/support)** direkte. Som utviklere og eiere av konnektoren er de de eneste som kan endre den underliggende koden, justere interne valideringsregler eller feilsøke programvarespesifikke feil.
 
 ## 2. **Dupliseringsmodell**
 

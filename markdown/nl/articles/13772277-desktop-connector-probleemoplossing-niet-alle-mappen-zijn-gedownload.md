@@ -1,6 +1,6 @@
 # Desktop Connector - niet alle mappen gedownload
 
-In dit artikel vindt u informatie over een specifieke fout die optreedt bij het gebruik van de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector). Zie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) voor andere Desktop Connector-probleemoplossingen.
+Dit artikel bevat informatie over een specifieke fout die kan optreden bij het gebruik van de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector). Zie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) voor andere problemen met de Desktop Connector en hoe je deze oplost.
 
 In de taak zelf kunt u het volgende zien:
 
@@ -147,8 +147,8 @@ Wanneer op de gekoppelde map wordt dubbelgeklikt, wordt de volgende fout onmidde
 Handmatig de map opnieuw maken Als de map "vastgelopen" blijft zelfs na een herstart:
 
 1. Hernoem de problematische map (bijv. hernoem `ProjectData` naar `ProjectData_OLD`).
-2. Maak een gloednieuwe map met de originele naam (`ProjectData`).
-3. De Desktop Connector detecteert de verse, gezonde map en hervaart de normale werking zonder het `_restricted` achtervoegsel.
+1. Maak een gloednieuwe map met de originele naam (`ProjectData`).
+1. De Desktop Connector detecteert de verse, gezonde map en hervaart de normale werking zonder het `_restricted` achtervoegsel.
 
 **Verbind de hardware of het netwerk opnieuw** Ga naar "Deze pc" en zorg ervoor dat uw netwerkstations (zoals `Z:`) actief zijn. Controleer of externe USB-schijven of harde schijven correct zijn aangesloten. Als ze een rood X hebben, dubbelklikt u erop om opnieuw verbinding te maken. Als het netwerkstation niet actief is en u weet welk netwerk het station zich op bevindt, verbindt u opnieuw met het netwerk door een kabel aan te sluiten, via wifi in te schakelen of als u een VPN gebruikt, controleert u of de VPN actief is. Als het station niet meer beschikbaar is, selecteert u een ander doelmap in de Desktop Connector die beschikbaar is op de lokale computer of het netwerk.
 

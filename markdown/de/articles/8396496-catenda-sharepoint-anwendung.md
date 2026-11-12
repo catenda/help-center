@@ -8,7 +8,7 @@ Wenn die Catenda SharePoint-Anwendung zu einer SharePoint-Website hinzugefügt w
 
 Mit dem List-Befehl können Sie eine oder mehrere Dateien in Catenda veröffentlichen.
 
-> **Hinweis:** Es ist nur möglich, Dateien zu veröffentlichen. Ordnerstrukturen können von SharePoint heruntergeladen und über [ZIP-Upload](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) oder [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochgeladen werden.
+> **Hinweis:** Es können nur Dateien veröffentlicht werden. Ordnerstrukturen können aus SharePoint heruntergeladen und über [zip upload](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) oder [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochgeladen werden.
 
 ### 1.1 **Suchen des List-Befehls**
 

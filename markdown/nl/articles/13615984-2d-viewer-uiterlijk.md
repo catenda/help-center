@@ -20,7 +20,7 @@ Zoals te zien is, worden alleen de muren die 1 meter en hoger zijn, weergegeven 
 
 ### 1.2 **Draaiingen van deuren**
 
-Draaiingen van deuren worden gespecificeerd in het IFC-bestand. U kunt zien hoe dit werkt in de volgende BuildingSMART-artikelen: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Als geen draaiing van deuren is gespecificeerd, zwaait de deur naar rechts open.
+Draairichtingen van deuren worden opgegeven in het IFC-bestand. Je kunt zien hoe dit werkt in de volgende BuildingSMART-artikelen: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Als er geen draairichting van de deur is opgegeven, gaat de deur naar rechts open.
 
 ## 2. **Tekening als ondergrond**
 

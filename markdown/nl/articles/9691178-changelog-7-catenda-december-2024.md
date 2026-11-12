@@ -24,7 +24,7 @@ _Recente updates_ [Statuswerkstroom🖥️Gedeeld ->✔️Gepubliceerd](https://
 
 **Projectinstellingen** [Nieuwe labels maken](https://support.catenda.com/nl/articles/8626709-nieuwe-labels-maken)
 
-**Plugins en integraties** [Revit changelog - 1.0.11](https://support.catenda.com/nl/articles/9966204-revit-wijzigingenlogboek-1-0-11)
+**Plug-ins en integraties** [Revit-changelog - 1.0.11](https://support.catenda.com/nl/articles/9966204-revit-wijzigingenlogboek-1-0-11)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -54,9 +54,9 @@ _Informatiepaneel_ [Inspectmenu](https://support.catenda.com/nl/articles/4670285
 
 **Instellingen**
 
-**Plugins en integraties** [Revit IFC Export Manual](https://support.catenda.com/nl/articles/4670341-revit-ifc-export-handleiding) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)
+**Plug-ins en integraties** [Revit IFC Export-handleiding](https://support.catenda.com/nl/articles/4670341-revit-ifc-export-handleiding) [IFC Export Archicad-handleiding](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/nl/articles/9930034-catenda-site-changelog-3-5-0) [Documenten menu - Catenda Site](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site) [Previewing file types on Catenda Site](https://support.catenda.com/nl/articles/8975421-voorvertonen-van-bestandstypen-op-catenda-site)
+**Catenda Site** [Catenda Site-changelog - 3.5.0](https://support.catenda.com/nl/articles/9930034-catenda-site-changelog-3-5-0) [Menu Documenten - Catenda Site](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site) [Previews van bestandstypen op Catenda Site](https://support.catenda.com/nl/articles/8975421-voorvertonen-van-bestandstypen-op-catenda-site)
 
 ## 2. **Opgeloste bugs**
 
@@ -115,4 +115,4 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die je 
 
 ## 4. **Nieuwe releases** - Catenda Site, Plugins en integraties
 
-_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Met de nieuwe gedeelde werkstroom zijn alleen gepubliceerde modellen en documenten zichtbaar.
+_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Met de nieuwe gedeelde Workflow zijn alleen gepubliceerde models en Documenten zichtbaar.

@@ -12,15 +12,15 @@ Catenda SiteはiPhone、Androidスマートフォンとタブレット、iPad、
 
 ### 1.1 **iOS: iPhoneとiPod touch**
 
-iPhoneまたはiPod touchでは、Catenda Siteは[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)からインストールされます。Catenda SiteはiOS 13.4以降が必要です。以下で説明しているiPadOS 16および17の3Dビューアの問題はiPhoneに影響しません。
+iPhone または iPod touch には、[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)から Catenda Site をインストールします。Catenda Site には iOS 13.4 以降が必要です。下記の iPad における 3Dビューアの iPadOS 16 および 17 の問題は、iPhone には影響しません。
 
 ### 1.2 **Android:スマートフォンとタブレット**
 
-AndroidスマートフォンまたはタブレットでCatenda Siteは[Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)からインストールされます。Catenda SiteはAndroid 7.0以降が必要です。Google PlayがCatenda Siteがお使いのデバイスで利用できないと報告する場合、これはデバイスの制限ではありません。この場合のアプリのインストール方法については、[Catenda Site -トラブルシューティング](https://support.catenda.com/ja/articles/11926914-catenda-site-トラブルシューティング#not-available-for-your-device-in-google-play)を参照してください。
+Android のスマートフォンまたはタブレットには、[Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)から Catenda Site をインストールします。Catenda Site には Android 7.0 以降が必要です。Google Play でお使いのデバイスに Catenda Site が利用できないと表示される場合でも、これはデバイスの制限ではありません。その場合のアプリのインストール方法は、[Catenda Site - トラブルシューティング](https://support.catenda.com/ja/articles/11926914-catenda-site-トラブルシューティング#not-available-for-your-device-in-google-play)に記載されています。
 
 ### 1.3 **iPadOS: iPad**
 
-iPadでCatenda Siteは[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)からインストールされます。Catenda SiteはiPadOS 13.4以降が必要です。3Dビューアはいくつかですが、iPadOS 15以前およびiPadOS 18以降で動作します。iPadOS 16および17では、iPadOSの障害によってアプリが3Dモデルを表示できないため、利用可能な場合はこれらのバージョンのいずれかを実行しているiPadをiPadOS 18に更新してください。次のiPadはiPadOS 16または17を超えて更新できないため、これらのバージョンのいずれかを実行すると、Catenda Siteのビューアはそれらで機能しなくなります:
+iPad には、[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)から Catenda Site をインストールします。Catenda Site には iPadOS 13.4 以降が必要です。3Dビューアは iPadOS 15 以前および iPadOS 18 以降で動作します。iPadOS 16 および 17 では、iPadOS の不具合によりアプリで 3D model が表示されないため、これらのバージョンの iPad は、アップデートが利用可能な場合は iPadOS 18 にアップデートしてください。以下の iPad は iPadOS 16 または 17 を超えてアップデートすることができないため、これらのバージョンで動作している場合、Catenda Site の3Dビューアは動作しません：
 
 - iPad(第5および第6世代)
 - iPad Pro 9.7インチ
@@ -31,7 +31,7 @@ iPadでCatenda Siteは[App Store](https://apps.apple.com/us/app/catenda-site/id1
 
 ### 1.4 **visionOS: Apple Vision**
 
-Apple VisionではCatenda Siteは[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)からインストールされます。Catenda SiteはvisionOS 1.0以降が必要です。
+Apple Vision には、[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)から Catenda Site をインストールします。Catenda Site には visionOS 1.0 以降が必要です。
 
 ## 2. **3Dビューアを最大限に活用する**
 

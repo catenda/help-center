@@ -124,7 +124,7 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 - Modellen als documenten is nu volledig vrijgegeven.
 - Issues zijn hernoemd naar Topics.
 
-_Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+_Catenda Site:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
 **Nieuwe versie 3.3.1**
 

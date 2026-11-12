@@ -1,6 +1,6 @@
 # Opprette en ny gjennomgangsarbeidsflyt - Kort video
 
-[Guidde video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
+[Guidde-video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
 
 Denne veiledningen fører deg gjennom opprettelsen av en ny gjennomgangsforespørsel i Catenda Hub. Hvis du ikke allerede har gjort det, se videoen "Opprett en ny mal for gjennomgangsarbeidsflyt" før du ser denne.
 

@@ -1,6 +1,6 @@
 # Tabellenansicht in einem topic board
 
-Klicken Sie auf Tabellenansicht (**4**) oben rechts in der Topics-Tabelle auf der [topics page](https://support.catenda.com/de/articles/4670271-themen-seite). Standardmäßig wird die Listenansicht in der Tabelle angezeigt. Die Einstellung für die Tabellenansicht ist eine globale Einstellung. Sobald die bevorzugte Ansicht ausgewählt ist, werden topic-Tabellen in jedem topic board jedes Projekts für den Benutzer in dieser Ansicht angezeigt.
+Klicken Sie auf die Tabellenansicht (**4**) oben rechts in der Thementabelle auf der [Themen-Seite](https://support.catenda.com/de/articles/4670271-themen-seite). Standardmäßig wird in der Tabelle die Listenansicht angezeigt. Die Einstellung der Tabellenansicht für Themen ist eine globale Benutzereinstellung. Sobald die bevorzugte Ansicht ausgewählt ist, werden Thementabellen in allen Themen-Boards aller Projekte für den Benutzer in dieser Ansicht angezeigt.
 
 ## 1. **Topics-Tabelle**
 

@@ -40,7 +40,7 @@ _[Dokumente strukturieren](https://support.catenda.com/de/articles/8542598-dokum
 
 **Einstellungen** [Seite "Etiketten"](https://support.catenda.com/de/articles/4670265-etikettenseite) [Ein Team erstellen](https://support.catenda.com/de/articles/4670264-ein-team-erstellen)
 
-**Plugins und Integrationen** [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) [Power BI-Integration](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) [IFC Archicad-Anleitung](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch) [Archicad-Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin) [Solibri-Modelle als Dokumente-Integration](https://support.catenda.com/de/articles/6988148-solibri-modelle-und-dokumentenintegration)
+**Plugins und Integrationen** [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) [Integration Power BI](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) [IFC Archicad-Handbuch](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch) [Archicad-Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin) [Solibri Models as Documents Integration](https://support.catenda.com/de/articles/6988148-solibri-modelle-und-dokumentenintegration)
 
 **Catenda Site** [Laden Sie Ihre mobile App Catenda Site herunter](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter)
 

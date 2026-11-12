@@ -22,7 +22,7 @@ Dra disse to diagonale linjene for å endre størrelse på 2D-viseren på tvers 
 
 ### 2.2 **Tittel**
 
-Tittelen på topplinja vil være navnet på etasjen. Hvis en etasje i en [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side) bygning er valgt, vil tittelen inneholde navnet på bygningen og navnet på gjeldende etasje. Hvis etasjen i en ikke-konfigurert modell er valgt, vil tittelen inneholde modellens navn.
+Tittelen på den øverste linjen blir navnet på etasjen. Hvis en etasje i en bygning som er konfigurert i [etasjekonfiguratoren](https://support.catenda.com/nb/articles/6921756-storey-configurator-side) er valgt, inkluderer tittelen navnet på bygningen og navnet på gjeldende etasje. Hvis etasjen til en ikke-konfigurert modell er valgt, inkluderer tittelen navnet på modellen.
 
 ### 2.3 **Åpning og lukking av 2D-viseren**
 
@@ -74,17 +74,17 @@ Zoom ut for å vise alle synlige objekter på en gang
 
 Med rotasjonsknappen kan du rotere 2D-viseren.
 
-_Rotasjonsglider_ Den innledende rotasjonen kan konfigureres ved å angi en plassering med rotasjon i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
+**Rotasjonsglider** Den innledende rotasjonen kan konfigureres ved å angi en plassering med rotasjon i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
-_Gliderajustering_ Velg glideren ved å klikke på den og bruk pil høyre og venstre tastene for å gjøre justeringer på 0,1 grad. Dette kan være nyttig for å gjøre valg, utsnitt og spørringer. Rotasjon er lettere hvis du først velger et rom fordi det vil knipse seg til kantene av rommet når du roterer. Du kan også skrive graden av rotasjon i menyen under glideren.
+**Gliderajustering** Velg glideren ved å klikke på den og bruk pil høyre og venstre tastene for å gjøre justeringer på 0,1 grad. Dette kan være nyttig for å gjøre valg, utsnitt og spørringer. Rotasjon er lettere hvis du først velger et rom fordi det vil knipse seg til kantene av rommet når du roterer. Du kan også skrive graden av rotasjon i menyen under glideren.
 
-_True North_ Hvis ingen innledende rotasjon er konfigurert i prosjektinnstillinger, vil True North være det samme som tilbakestillingsknappen. Hvis en innledende rotasjon er konfigurert i prosjektinnstillinger, kan True North være i en vinkel i forhold til den innledende rotasjonen
+**True North** Hvis ingen innledende rotasjon er konfigurert i prosjektinnstillinger, vil True North være det samme som tilbakestillingsknappen. Hvis en innledende rotasjon er konfigurert i prosjektinnstillinger, kan True North være i en vinkel i forhold til den innledende rotasjonen
 
-_Tilbakestill_ Klikk Tilbakestill i øvre høyre hjørne for å tilbakestille glideren til den innledende rotasjonen.
+**Tilbakestill** Klikk Tilbakestill i øvre høyre hjørne for å tilbakestille glideren til den innledende rotasjonen.
 
-_Underliggende tegningsrotasjon_ Bygninger kan konfigureres i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Hver etasje i en bygning kan ha en tegning som underlag som roteres i forhold til modellene i prosjektet.
+**Rotasjon av underlagstegning** Bygninger kan konfigureres i [etasjekonfiguratoren](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Hver etasje i en bygning kan ha en tegning som underlag som er rotert i forhold til modellene i prosjektet.
 
 ### 4.3 **Lås kamera**
 
@@ -156,10 +156,10 @@ Med lagknappen kan du veksle mellom ulike lag i 2D-viseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/15-layer-menu.png)
 
-_Markører_ Med denne knappen kan markører slås av eller på.
+**Markører** Med denne knappen kan markører slås av eller på.
 
-_Modeller_ Med denne knappen kan modeller slås av eller på.
+**Modeller** Med denne knappen kan modeller slås av eller på.
 
-_Tegninger_ Du vil se denne knappen hvis en tegning har blitt justert som et underlag for en bygningsetasje i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Med denne knappen kan de justerte tegningene slås av eller på.
+**Tegninger** Du vil se denne knappen hvis en tegning er justert som underlag for en bygningsetasje i [etasjekonfiguratoren](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Med denne knappen kan de justerte tegningene slås av og på.
 
-_Kart_ Du vil se denne knappen hvis en plassering har blitt konfigurert i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger). Med denne knappen kan kartet slås av eller på.
+**Kart** Du vil se denne knappen hvis en plassering har blitt konfigurert i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger). Med denne knappen kan kartet slås av eller på.

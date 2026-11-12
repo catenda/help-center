@@ -2,7 +2,7 @@
 
 ### **Uitsnijden in het model vanuit 2D**
 
-Begin met het uitlijnen van uw 2D-plan op de gewenste manier met behulp van de [Rotate tool](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_c70412a63f). Kies vervolgens [Section: Create clipping planes](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_2265eef562) en sleep een rechthoek om de verticale uitsnijdingsvlakken aan te geven. Selecteer de hoogte van de huidige verdieping of de volledige hoogte. Klik op Clip region.
+Begin met het uitlijnen van je 2D-plan zoals je wilt door de [Rotate tool](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_c70412a63f) te gebruiken. Kies vervolgens de [Section: Create clipping planes](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_2265eef562) en sleep een rechthoek om de verticale snijvlakken aan te geven. Selecteer de hoogte van de huidige verdieping of de volledige hoogte. Klik op Clip region.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xyh08ptx/01-clipping-in-the-model-from-2d.png)
 
@@ -10,4 +10,4 @@ U kunt nu [de uitsnijdingsvlakken verplaatsen](https://support.catenda.com/nl/ar
 
 ### **Objecten selecteren vanuit 2D**
 
-[Section: Select objects](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_9ba868389c) werkt op vergelijkbare wijze en selecteert alles wat wordt aangeraakt door de "virtuele doos" die wordt gedefinieerd door de selectiechthoek en hoogte. Om terug te gaan naar normale selectie in 2D klikt u op [Select](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_6e9b382c42).
+[Section: Select objects](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_9ba868389c) werkt op een vergelijkbare manier en selecteert alles wat wordt geraakt door de "virtual box" die wordt bepaald door de selectierechthoek en hoogte. Klik op [Select](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_6e9b382c42) om terug te keren naar normale selectie in 2D.

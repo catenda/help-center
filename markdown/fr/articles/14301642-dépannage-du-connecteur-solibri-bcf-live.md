@@ -12,7 +12,7 @@ Si vous avez besoin d'aide pour comprendre le fonctionnement des fonctionnalité
 
 ### 1.2 **Pour les problèmes techniques et fonctionnels**
 
-Si des messages d'erreur spécifiques sont rencontrés dans l'interface Solibri, si le connecteur ne répond pas comme prévu, ou si une modification du fonctionnement du connecteur est souhaitée, veuillez contacter **[Solibri Support](https://www.solibri.com/support)** directement. En tant que développeurs et propriétaires du connecteur, ils sont les seuls à pouvoir modifier le code sous-jacent, ajuster les règles de validation internes, ou dépanner les bogues spécifiques au logiciel.
+Si des messages d'erreur spécifiques apparaissent dans l'interface de Solibri, si le connecteur ne répond pas comme prévu, ou si vous souhaitez modifier le fonctionnement du connecteur, veuillez contacter directement **[Solibri Support](https://www.solibri.com/support)**. En tant que développeurs et propriétaires du connecteur, ils sont les seuls à pouvoir modifier le code sous-jacent, ajuster les règles de validation internes ou résoudre les bogues propres au logiciel.
 
 ## 2. **Modèle dupliqué**
 

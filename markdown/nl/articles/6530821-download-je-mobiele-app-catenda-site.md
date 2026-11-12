@@ -1,6 +1,6 @@
 # Download je mobiele app Catenda Site 📲
 
-> **Opmerking:** Het installatiebestand voor de applicatie is te vinden in [dit artikel](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties). Als Google Play meldt dat Catenda Site niet beschikbaar is voor jouw apparaat, zie dan [Catenda Site - Troubleshooting](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
+> **Opmerking:** Het installatiebestand voor de applicatie is te vinden in [dit artikel](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties). Als Google Play meldt dat Catenda Site niet beschikbaar is voor uw apparaat, raadpleeg [Catenda Site - Probleemoplossing](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
 
 [Een demo boeken](https://catenda.com/get-started) op onze website
 

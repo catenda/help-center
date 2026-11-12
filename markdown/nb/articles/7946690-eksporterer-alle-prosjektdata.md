@@ -75,13 +75,13 @@ _Slettede filer_ Søk etter "slettet" i dokumentsøkelinjen for å finne og eksp
 
 ### 2.4 **Desktop connector (Automatisert lokal sikkerhetskopi)**
 
-[Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) gjør det mulig å bakgrunnssynkronisere for periodisk å laste ned nye dokumentrevisjoner direkte til en lokal stasjon. I motsetning til satseksporten, ankommer nedlastede dokumenter direkte på systemet ditt som rå, ukomprimerte filer uten at det kreves manuell arkivekstraksjon.
+[Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) muliggjør bakgrunnssynkronisering, slik at nye dokumentrevisjoner periodisk lastes ned direkte til en lokal stasjon. I motsetning til batchnedlastinger fra nettleseren kommer dokumentene direkte til systemet ditt som rå, upakkede filer, uten at manuell utpakking av arkiv er nødvendig.
 
-_Planlagte og øyeblikkelige sikkerhetskopier_ Oppgaver kan planlegges til å kjøre automatisk med regelmessige intervaller eller utføres on-demand, noe som sikrer at prosjektmedlemmer bevarer en oppdatert lokal kopi av dokumenter selv om prosjekttilgangen uventet tilbakekalles.
+**Planlagte og øyeblikkelige sikkerhetskopier** Oppgaver kan planlegges til å kjøre automatisk med regelmessige intervaller eller utføres on-demand, noe som sikrer at prosjektmedlemmer bevarer en oppdatert lokal kopi av dokumenter selv om prosjekttilgangen uventet tilbakekalles.
 
-_Direkte API-overføringer_ Overfører store datasett betydelig raskere enn weblesernedlastinger ved å utnytte direkte API-forbindelser uten leserbegrensninger eller overhead.
+**Direkte API-overføringer** Overfører store datasett betydelig raskere enn weblesernedlastinger ved å utnytte direkte API-forbindelser uten leserbegrensninger eller overhead.
 
-_Hierarkialternativer_ Laster ned valgte mappestrukturer med komplett hierarki intakt, eller trekker ut individuelt valgte filer direkte som en flat liste til den utpekte lokale mappen.
+**Hierarkialternativer** Laster ned valgte mappestrukturer med komplett hierarki intakt, eller trekker ut individuelt valgte filer direkte som en flat liste til den utpekte lokale mappen.
 
 ### 2.5 **Medlemtilgang og aktivitetslogger**
 
@@ -120,4 +120,4 @@ Hva som kan eksporteres, og i hvilke filformater, er beskrevet i [Eksportering a
 
 ## 3. **Catenda dataeksport**
 
-Catenda Data Export selges separat fra Catenda Hub. I motsetning til nedlastingene ovenfor, kopierer den prosjektdata automatisk direkte fra Catenda Hub til en organisasjons egen skytlagring i Amazon S3 eller Azure Blob-lagring. Det passer for organisasjoner som ønsker en sikkerhetskopi som holder tritt med prosjektene deres, eller prosjektposter som oppbevares i deres eget lager. Det er ikke bare for prosjekteiere. En prosjekteier kan eksportere en fullstendig sikkerhetskopi av prosjektene sine, og en prosjektdeltaker kan eksportere det den har tilgang til i prosjektene den deltar i. Mer om det finner du i [Om Catenda Data Export](https://support.catenda.com/nb/articles/17779020-om-catenda-data-export) _(for lesere som ikke er pålogget)_ og [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(bare for påloggede kunder)_. Kunder som har det, finner oppsettet i [Catenda Data Export](https://support.catenda.com/nb/articles/17779052-catenda-datakeksport) _(bare for Data Export-kunder)_.
+Catenda Data Export selges separat fra Catenda Hub. I motsetning til nedlastingene ovenfor kopierer den prosjektdata automatisk, direkte fra Catenda Hub til en organisasjons egen skylagring i Amazon S3 eller Azure Blob storage. Den passer for organisasjoner som ønsker en sikkerhetskopi som holder tritt med prosjektene deres, eller prosjektregistreringer lagret i egen lagring. Den er ikke kun for prosjekteiere. En prosjekteier kan eksportere en fullstendig sikkerhetskopi av sine prosjekter, og en prosjektdeltaker kan eksportere det vedkommende har tilgang til i prosjektene vedkommende deltar i. Mer om dette finnes i [Om Catenda Data Export](https://support.catenda.com/nb/articles/17779020-om-catenda-data-export) _(for lesere som ikke er logget inn)_ og [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(kun for innloggede kunder)_. Kunder som har tjenesten finner oppsettet i [Catenda Data Export](https://support.catenda.com/nb/articles/17779052-catenda-datakeksport) _(kun for Data Export-kunder)_.

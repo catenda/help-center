@@ -146,7 +146,7 @@ _参考資料:_ [リスト ビュー](https://support.catenda.com/ja/articles/69
 - Revit でクラッシュ オブジェクトを検索
 - Revit で BCF トピック (2D および 3D) を作成
 
-_参考資料:_ [Catenda Connections](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合), [Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/ja/articles/5085987-catenda-navisworksプラグイン), [Revit](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン)
+_関連情報:_ [Catenda Connections](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)、[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)、[Navisworks](https://support.catenda.com/ja/articles/5085987-catenda-navisworksプラグイン)、[Revit](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン)
 
 > **注:** [最初のステップ](https://support.catenda.com/ja/articles/9030303-ステップ-1-アカウント設定)を[はじめに](https://support.catenda.com/ja/collections/2657208-スタートガ-イド)でヘルプセンターまたはヘルプメニューから見つけます。
 
@@ -820,7 +820,7 @@ Catenda Siteに[ダウンロード、インストール、ログイン](https://
 
 # プロジェクトページ - Organization tool
 
-プロジェクトページは、[organizations profile page](https://support.catenda.com/ja/articles/8497478-組織プロフィールページ)のサブページとして見つけることができます。
+プロジェクトページは、[組織のプロフィールページ](https://support.catenda.com/ja/articles/8497478-組織プロフィールページ)のサブページとして表示されます。
 
 ここでは、このorganizationの一部であるすべてのプロジェクトの概要が表示されます。
 
@@ -2988,7 +2988,7 @@ a. フロアの範囲にズーム - 全体像を確認 b. 3Dクエリ - 2Dビュ
 
 ### 1.2 **ドアスイング**
 
-ドアスイングはIFCファイルで指定されています。以下のBuildingSMARTの記事でこの仕組みをご覧いただけます：[IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) ドアスイングが指定されていない場合、ドアは右に向かって開きます。
+ドアの開く方向は IFC ファイルで指定されます。その仕組みについては、以下の BuildingSMART の記事をご覧ください：[IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) ドアの開く方向が指定されていない場合、ドアは右側に開きます。
 
 ## 2. **アンダーレイとしての図面**
 
@@ -4347,7 +4347,7 @@ Catenda Hubからローカルシステムへのファイルの定期的なダウ
 
 > オペレーティングシステムイメージにソフトウェアをインストールする組織向けのCatenda Desktop Connectorのバージョンで、リクエストして取得できます。
 
-Catenda Desktop Connectorは、Catenda Hubとコンピュータ間のアップロードとダウンロードをスケジュール管理し、[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)に説明されています。オペレーティングシステムイメージにソフトウェアをインストールする組織向けのバージョンをリクエストできます。
+Catenda Desktop Connectorは、Catenda Hubとコンピューター間のアップロードとダウンロードをスケジュール設定するもので、[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)で説明されています。オペレーティングシステムイメージにソフトウェアをインストールする組織向けのバージョンは、リクエストできます。
 
 ## 1. **概要**
 
@@ -4363,7 +4363,7 @@ Catenda Desktop ConnectorはCatenda Hub内のプロジェクトで機能しま�
 
 > Catenda for Power BI は、Catenda Hub プロジェクトデータを Power BI に取り込みます。ビジュアルと既製のレポートテンプレート付きの次のバージョンがオンデマンドで利用可能です。
 
-Catenda for Power BI は、Catenda Hub プロジェクトのデータを Microsoft Power BI に取り込み、プロジェクトの model、ドキュメント、トピックに関するレポートを作成できます。リリース済みの [Catenda Power BI Connector](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ) はすべての Catenda ユーザーが利用可能です。次のバージョンはオンデマンドで利用可能です。リリース前にリクエストすることができます。
+Catenda for Power BI は、Catenda Hub プロジェクトのデータを Microsoft Power BI に取り込み、プロジェクトの model、ドキュメント、トピックに関するレポートを作成できるようにします。リリース済みの[Catenda Power BI Connector](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ)は、すべての Catenda のお客様にご利用いただけます。次のバージョンはオンデマンドで提供されており、一般公開に先立ち、どなたでもリクエストできます。
 
 ## 1. **それは何ですか**
 
@@ -4424,7 +4424,7 @@ PCはドキュメント領域内の他のドキュメントと同様にアップ
 
 ### 1.1 **PCデータのアップロード**
 
-[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)を使用するか、PCファイルを圧縮フォルダにして[zip import](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)を使用してPCをアップロードすることをお勧めします。これらの方法は、アップロードファイルサイズが小さくなり、ファイルがより速くアップロードされるため、ネットワークエラーのリスクを最小化しながら、時間を節約するのに役立ちます。
+[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)を使用するか、PCファイルをZIPフォルダーに圧縮して[zipインポート](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)を使用してPCをアップロードすることをお勧めします。これらの方法では、アップロードするファイルサイズが小さくなるため時間を節約できるほか、ファイルのアップロードが速くなるため、ネットワークエラーのリスクを最小限に抑えられます
 
 PCをドキュメント領域にアップロードすると、ドキュメントプレビューは処理を開始します。プレビューが処理中に、ドキュメントプレビューの上部に灰色のバーが表示されます。
 
@@ -4971,7 +4971,7 @@ PowerBIからCatenda HUBデータベースへの接続を作成するには、�
 
 > **注:** プラグインのインストールファイルは、[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)で確認できます。
 
-[Catenda Revit Plugin](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン) のアクションは、Revit アプリケーション内のプラグイン ウィンドウの右上に表示されます。
+[Catenda Revit Plugin](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン)のアクションは、Revitアプリケーション内のプラグインウィンドウの右上にあります。
 
 このアクション メニューは以下のように表示されます：
 
@@ -5381,7 +5381,7 @@ Webpartの左上に、以下のアクションがあります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **注:** フォルダをドラッグアンドドロップすると、zipファイルとして公開されます。フォルダ構造をアップロードする場合は、SharePointからダウンロードして、[zipアップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)経由でCatendaにアップロードする必要があります。
+> **注:** フォルダーをドラッグ&ドロップすると、zip ファイルとして SharePoint に公開されます。フォルダー構造をアップロードする場合は、SharePoint からダウンロードし、[zip アップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード) または [Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) を使用して Catenda にアップロードしてください。
 
 ### 4.3 **再読み込み**
 
@@ -5433,7 +5433,7 @@ Webpartの左上に、以下のアクションがあります：
 
 Catenda SharePoint アプリケーションは、システム管理者が SharePoint 環境に対して有効にすることができ、その後、サイト所有者がサイトに追加できます。このアプリを使用すると、SharePoint ユーザーは建設プロジェクトの他のメンバーと一緒に、Catenda 内のドキュメントを表示、管理、および共同作業することができます。
 
-アプリをお使いの環境に対して有効にするには、ここでエントリを検索できます：[Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1)の外観は以下のようなものです：
+環境でこのアプリを有効にすると、[Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1) でそのエントリを見つけられます。表示は次のようになります:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 
@@ -5555,7 +5555,7 @@ Catenda SharePoint アプリケーションが SharePoint サイトに追加さ�
 
 リストコマンドを使用すると、1つ以上のファイルをCatendaに公開できます。
 
-> **注:** ファイルのみ公開可能です。フォルダ構造はSharePointからダウンロードして、[zip アップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)経由でCatendaにアップロードできます。
+> **注:** ファイルのみ公開できます。フォルダー構造はSharePointからダウンロードし、[zipアップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)を使用してCatendaにアップロードできます。
 
 ### 1.1 **リストコマンドの検索**
 
@@ -5803,7 +5803,7 @@ Catenda プロジェクトを選択すると、このプロジェクト内の is
 
 > Catenda コネクタが Power BI から Catenda にサインインする方法と、サインインが失敗または期限切れになった場合の対処方法。
 
-Catenda 用の Power BI コネクタは、ユーザー自身の Catenda アカウントで Catenda にサインインします。これは、リリース済みの [Catenda Power BI Connector](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ) と [Catenda Power BI Connector (On Demand)](https://support.catenda.com/ja/articles/17778871-catenda-power-bi-コネクタ-オンデマンド) で同じ方法で機能します。
+Power BI 用 Catenda コネクタは、ユーザー自身の Catenda アカウントを使用して Catenda にサインインします。この動作は、リリース版の[Catenda Power BI Connector](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ)と、[Catenda Power BI Connector (On Demand)](https://support.catenda.com/ja/articles/17778871-catenda-power-bi-コネクタ-オンデマンド)のどちらでも同じです。
 
 ## 1. **初めてサインインする**
 
@@ -6135,7 +6135,7 @@ CatendaはまだApp Storeに登録されていません。iPhoneとiPadでは、
 
 ### 1.2 **Android スマートフォンとタブレット**
 
-Catendaは[Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex)からインストールされます。検索結果では、Google PlayはアプリをCatendaとして表示し、アプリ自体のページでのみCatenda（アーリーアクセス）として表示されます。
+Catendaは[Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex)からインストールします。検索結果では、Google PlayにアプリはCatendaと表示され、アプリ自身のページにのみCatenda (Early Access)と表示されます。
 
 > **重要:** 一部のAndroidスマートフォンとタブレットでは、Catenda SiteはGoogle Play検索に表示されないため、Catendaが表示される唯一のCatendaアプリである可能性があります。このようなデバイスにCatenda Siteをインストールするには、[Catenda Site - トラブルシューティング](https://support.catenda.com/ja/articles/11926914-catenda-site-トラブルシューティング#not-available-for-your-device-in-google-play)を参照してください
 
@@ -6363,7 +6363,7 @@ IFCベース量は、サイズ、面積、体積のパラメータを読み取�
 
 Catenda notification 設定で Microsoft チームワークフローを設定することにより、Catenda アカウントから Microsoft チームチャネルに直接リアルタイム通知を受け取ります。_必要なアクセス権限:_ チャネル作成および Microsoft チームワークフロー管理権限を持つ **Microsoft チーム** アカウント。
 
-Microsoft チーム通知タブは、[account notification settings ページ](https://support.catenda.com/ja/articles/8272435-アカウント通知設定)の上部近くに見つかります。このページは[account notifications page](https://support.catenda.com/ja/articles/7439223-アカウント通知ページ)のサブページです。
+Microsoft Teams の通知タブは、[アカウント通知設定ページ](https://support.catenda.com/ja/articles/8272435-アカウント通知設定)の上部にあり、これは[アカウント通知ページ](https://support.catenda.com/ja/articles/7439223-アカウント通知ページ)のサブページです:
 
 ![Catenda Hub 通知設定 Microsoft チーム通知 独自のチーム設定を持つプロジェクト](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
 
@@ -7116,7 +7116,7 @@ SharePointライブラリを作成するには、[ライブラリページ](http
 
 ## 7. **権限**
 
-SharePointドキュメントライブラリからCatendaにドキュメントがアップロードされると、SharePoint REST APIが使用されます([pnpjs](https://pnp.github.io/pnpjs/)ライブラリ経由)。これらの権限はspfx-solutionsに対してOOTBで付与されるため、追加の付与は必要ありません。Catendaバックエンドにアクセスするために、アプリに必要な付与は以下の通りです。委任権限のみが次のスコープで使用されます：_[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ 上記のアクセスは、ドキュメントのユーザーのCatendaプロジェクトへの共有の承認にのみ使用されます。
+SharePoint のドキュメントライブラリから Catenda にドキュメントをアップロードする際には、SharePoint REST API（[pnpjs](https://pnp.github.io/pnpjs/) ライブラリ経由）が使用されます。これらの権限は spfx ソリューションに標準で付与されているため、追加の許可は必要ありません。アプリが Catenda バックエンドにアクセスするには、以下の許可が必要になります。以下のスコープを持つ委任されたアクセス許可のみが使用されます：_[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ 上記のアクセスは、ユーザーの Catenda プロジェクトへのドキュメント共有を承認するためにのみ使用されます。
 
 # Solibri Topics統合
 
@@ -14541,7 +14541,7 @@ SafariはMacオペレーティングシステムで推奨されるブラウザ�
 
 # マークアップで注釈を追跡
 
-新しいMarkup機能により、ドキュメントの異なるページおよび複数のrevisionに配置される可能性のある注釈を再グループ化できます。注釈のセットは[topicのコメント](https://support.catenda.com/ja/articles/8053352-トピック本体-トピックのコンテンツ#h_f76b44d3ca)として見つけることができます。ドキュメントの右情報メニューの[markups tab](https://support.catenda.com/ja/articles/10205725-リビジョンの右メニュー-マークアップ)に、markupでグループ化された注釈のセットが表示されます。有効化すると、markupの注釈は[ドキュメント上でプレビュー](https://support.catenda.com/ja/articles/5001165-ドキュメントのプレビューと注釈)できます。
+新しいマークアップ機能では、ドキュメントの異なるページや複数のrevisionにまたがって配置されることがあるアノテーションをまとめることができます。アノテーションのセットは、[トピック上のコメント](https://support.catenda.com/ja/articles/8053352-トピック本体-トピックのコンテンツ#h_f76b44d3ca)として確認できます。ドキュメントの右側の情報メニューにある[マークアップタブ](https://support.catenda.com/ja/articles/10205725-リビジョンの右メニュー-マークアップ)には、マークアップとしてグループ化されたアノテーションのセットが表示されます。有効にすると、マークアップ内のアノテーションを[ドキュメント上でプレビュー](https://support.catenda.com/ja/articles/5001165-ドキュメントのプレビューと注釈)できます。
 
 以下の図は、注釈が異なるmarkups下でどのようにグループ化されるか、および[コメントとして保存](https://support.catenda.com/ja/articles/10209740-マークアップを保存)できる方法を新規または既存のtopicの下で示しています。
 
@@ -15551,7 +15551,7 @@ _アクセス必須:_ プロジェクト設定でモデルの作成と削除、�
 
 ### 2.4 **最新リビジョンのダウンロード**
 
-モデルをダウンロードするアクセス権がある場合は、ダウンロードボタンをクリックできます。これにより、モデルの最新revisionをifcファイルとしてダウンロードできます。ダウンロードされたファイルの名前は、[ドキュメントダウンロードタイトルオプション](https://support.catenda.com/ja/articles/8224886-組織オプション#h_5564d6602f)の影響を受ける場合があります。プロジェクト所有者は組織全体に対してこのオプションを構成するため、プロジェクトメンバーは自分でそれをリクエストまたは変更することはできません。このmodelの以前のrevisionを探している場合は、その[model page](https://support.catenda.com/ja/articles/4670270-モデルコンテンツページ)を参照してください。_必要なアクセス:_ modelsセクションで少なくとも1つのドキュメント-modelへのアクセス。
+modelをダウンロードする権限がある場合、ダウンロードボタンをクリックできます。これにより、modelの最新revisionをIFCファイルとしてダウンロードできます。ダウンロードされるファイルの名前は、[document download title option](https://support.catenda.com/ja/articles/8224886-組織オプション#h_5564d6602f)によって影響を受ける場合があります。このオプションは、プロジェクトオーナーが組織全体に対して設定するため、プロジェクトメンバーが自分で変更や要求を行うことはできません。このmodelの以前のrevisionをお探しの場合は、その[model page](https://support.catenda.com/ja/articles/4670270-モデルコンテンツページ)をご覧ください。_必要なアクセス権:_ modelsセクション内の少なくとも一つのdocument-modelへのアクセス。
 
 ### 2.5 **新規リビジョン**
 
@@ -20557,7 +20557,7 @@ conda create -n pdal-env -c conda-forge pdal python=3.10
 これは3つのことを行います。
 
 - `pdal-env`という名前の環境を作成します
-- **[conda-forge](https://anaconda.org/conda-forge/pdal)**リポジトリからPDALをインストール(最新バージョン)
+- **[conda-forge](https://anaconda.org/conda-forge/pdal)** リポジトリから PDAL（最新バージョン）をインストールする
 - Pythonをインストール(PythonスクリプトでもPDALを使用したい場合に便利です)
 
 ### 2.3 PDAL環境をアクティベート
@@ -20642,7 +20642,7 @@ pdal translate "C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.c
 
 ### 1.2 **Catendaモバイル**
 
-[Catenda Mobile](https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード)は、[TestFlight](https://testflight.apple.com/join/xj6WppjQ)を通じてiPhoneおよびiPadで、[Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex)を通じてAndroidで利用可能な、アーリーアクセス段階のモバイルアプリです。トピック、ロケーション、フォーム、ドキュメントをカバーしており、時間とともにCatenda Siteのすべての機能を備えるようになります。このアプリはCo-creationプログラムの顧客と共同で開発されており、最終版ではないため、今後大きく変わる可能性があります。
+[Catenda Mobile](https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード)は、早期アクセス版のモバイルアプリで、iPhoneおよびiPadでは[TestFlight](https://testflight.apple.com/join/xj6WppjQ)から、Androidでは[Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex)からご利用いただけます。トピック、ロケーション、フォーム、ドキュメントに対応しており、今後はCatenda Siteのすべての機能が順次追加されます。このアプリはCo-creation programのお客様と共同で開発されており、正式版ではないため、今後大幅に変更される可能性があります。
 
 ## 2. **ホーム画面 / ダッシュボード / ドック -** 全機能
 
@@ -21012,7 +21012,7 @@ _数量積み上げ機能の使い方について詳しくは<a class="intercom-
 
 # 新しい承認ワークフローの作成 - ショートビデオ
 
-[Guidde video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
+[Guidde動画](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
 
 このチュートリアルでは、Catenda Hubで新しい承認依頼を作成するプロセスをガイドします。まだご覧になっていない場合は、このビデオを視聴する前に「新しい承認ワークフローテンプレートの作成」ビデオをご覧ください。
 
@@ -23291,13 +23291,13 @@ Catenda内のすべてのモデルはドキュメントセクション内のド�
 
 ### 2.4 **Desktop connector (自動ローカルバックアップ)**
 
-[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)は、新しいドキュメントrevisionを定期的にダウンロードしてローカルドライブに直接保存するバックグラウンド同期を有効にします。バッチウェブエクスポートと異なり、ダウンロードされたドキュメントはシステムに直接未圧縮ファイルとして到着し、手動アーカイブ抽出を必要としません。
+[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) は、バックグラウンド同期により、新しい revision を定期的にローカルドライブへダウンロードできます。ブラウザーからの一括エクスポートとは異なり、ダウンロードされたドキュメントは手動でアーカイブを展開する必要がなく、解凍済みの未圧縮ファイルとしてシステムに直接保存されます。
 
-**スケジュール設定および即時バックアップ**タスクは定期的な間隔で自動実行されるようにスケジュール設定することも、オンデマンドで実行することもでき、プロジェクトメンバーがプロジェクトアクセスが予期せず取り消された場合でもドキュメントの最新ローカルコピーを保持することを確保します。
+**スケジュール設定および即時バックアップ** タスクは定期的な間隔で自動実行されるようにスケジュール設定することも、オンデマンドで実行することもでき、プロジェクトメンバーがプロジェクトアクセスが予期せず取り消された場合でもドキュメントの最新ローカルコピーを保持することを確保します。
 
-**直接API転送**ブラウザメモリの制限またはオーバーヘッドなしで直接API接続を活用することで、ウェブブラウザダウンロードより有意に大規模なデータセットをより高速に転送します。
+**直接API転送** ブラウザメモリの制限またはオーバーヘッドなしで直接API接続を活用することで、ウェブブラウザダウンロードより有意に大規模なデータセットをより高速に転送します。
 
-**階層オプション**完全な階層がそのまま保持された選定フォルダ構造をダウンロードするか、個別に選定されたファイルを指定されたローカルフォルダにフラットリストとして直接抽出します。
+**階層オプション** 完全な階層がそのまま保持された選定フォルダ構造をダウンロードするか、個別に選定されたファイルを指定されたローカルフォルダにフラットリストとして直接抽出します。
 
 ### 2.5 **メンバーアクセスおよびアクティビティログ**
 
@@ -23336,7 +23336,7 @@ Catenda内のすべてのモデルはドキュメントセクション内のド�
 
 ## 3. **Catenda Data Export**
 
-Catenda Data ExportはCatenda Hubとは別に販売されています。上記のダウンロードと異なり、プロジェクトデータをCatenda Hubから組織独自のクラウドストレージ(Amazon S3またはAzure Blob storage)に自動的にコピーします。プロジェクトに対応するバックアップを維持したい、または独自のストレージに保存されたプロジェクトレコードを保持したい組織に適しています。プロジェクト所有者だけが対象ではありません。プロジェクト所有者はプロジェクトの完全なバックアップをエクスポートでき、プロジェクト参加者は参加しているプロジェクトでアクセス可能な内容をエクスポートできます。詳細については、[Catenda Data Exportについて](https://support.catenda.com/ja/articles/17779020-catenda-data-exportについて) (サインインしていない読者向け)および[Catenda Data Exportの概要](https://support.catenda.com/ja/articles/17779027-catenda-data-export-の紹介) (サインイン顧客向け)を参照してください。Catenda Data Exportを所有しているお客様は[Catenda Data Export](https://support.catenda.com/ja/articles/17779052-catenda-data-export) (Data Exportのお客様のみ)でセットアップを見つけることができます。
+Catenda Data Export は Catenda Hub とは別途販売されるサービスです。上記のダウンロード方法とは異なり、プロジェクトデータを Catenda Hub から組織独自の Amazon S3 または Azure Blob storage のクラウドストレージへ自動的にコピーします。プロジェクトと同期して最新の状態を保つバックアップや、組織独自のストレージで管理するプロジェクト記録が必要な組織に適しています。プロジェクトオーナーだけを対象としたものではありません。プロジェクトオーナーはプロジェクトの完全なバックアップをエクスポートでき、プロジェクト参加者は参加しているプロジェクトのうち自身がアクセスできるデータをエクスポートできます。詳細は [About Catenda Data Export](https://support.catenda.com/ja/articles/17779020-catenda-data-exportについて) _(サインインしていない方向け)_ および [Introduction to Catenda Data Export](https://support.catenda.com/ja/articles/17779027-catenda-data-export-の紹介) _(サインイン済みのお客様のみ)_ をご覧ください。このサービスをご利用のお客様は、[Catenda Data Export](https://support.catenda.com/ja/articles/17779052-catenda-data-export) _(Data Export のお客様のみ)_ でセットアップ手順を確認できます。
 
 # どのmodelにオブジェクトが属しているかを見つけるには？
 
@@ -24067,15 +24067,15 @@ Catenda SiteはiPhone、Androidスマートフォンとタブレット、iPad、
 
 ### 1.1 **iOS: iPhoneとiPod touch**
 
-iPhoneまたはiPod touchでは、Catenda Siteは[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)からインストールされます。Catenda SiteはiOS 13.4以降が必要です。以下で説明しているiPadOS 16および17の3Dビューアの問題はiPhoneに影響しません。
+iPhone または iPod touch には、[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)から Catenda Site をインストールします。Catenda Site には iOS 13.4 以降が必要です。下記の iPad における 3Dビューアの iPadOS 16 および 17 の問題は、iPhone には影響しません。
 
 ### 1.2 **Android:スマートフォンとタブレット**
 
-AndroidスマートフォンまたはタブレットでCatenda Siteは[Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)からインストールされます。Catenda SiteはAndroid 7.0以降が必要です。Google PlayがCatenda Siteがお使いのデバイスで利用できないと報告する場合、これはデバイスの制限ではありません。この場合のアプリのインストール方法については、[Catenda Site -トラブルシューティング](https://support.catenda.com/ja/articles/11926914-catenda-site-トラブルシューティング#not-available-for-your-device-in-google-play)を参照してください。
+Android のスマートフォンまたはタブレットには、[Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)から Catenda Site をインストールします。Catenda Site には Android 7.0 以降が必要です。Google Play でお使いのデバイスに Catenda Site が利用できないと表示される場合でも、これはデバイスの制限ではありません。その場合のアプリのインストール方法は、[Catenda Site - トラブルシューティング](https://support.catenda.com/ja/articles/11926914-catenda-site-トラブルシューティング#not-available-for-your-device-in-google-play)に記載されています。
 
 ### 1.3 **iPadOS: iPad**
 
-iPadでCatenda Siteは[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)からインストールされます。Catenda SiteはiPadOS 13.4以降が必要です。3Dビューアはいくつかですが、iPadOS 15以前およびiPadOS 18以降で動作します。iPadOS 16および17では、iPadOSの障害によってアプリが3Dモデルを表示できないため、利用可能な場合はこれらのバージョンのいずれかを実行しているiPadをiPadOS 18に更新してください。次のiPadはiPadOS 16または17を超えて更新できないため、これらのバージョンのいずれかを実行すると、Catenda Siteのビューアはそれらで機能しなくなります:
+iPad には、[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)から Catenda Site をインストールします。Catenda Site には iPadOS 13.4 以降が必要です。3Dビューアは iPadOS 15 以前および iPadOS 18 以降で動作します。iPadOS 16 および 17 では、iPadOS の不具合によりアプリで 3D model が表示されないため、これらのバージョンの iPad は、アップデートが利用可能な場合は iPadOS 18 にアップデートしてください。以下の iPad は iPadOS 16 または 17 を超えてアップデートすることができないため、これらのバージョンで動作している場合、Catenda Site の3Dビューアは動作しません：
 
 - iPad(第5および第6世代)
 - iPad Pro 9.7インチ
@@ -24086,7 +24086,7 @@ iPadでCatenda Siteは[App Store](https://apps.apple.com/us/app/catenda-site/id1
 
 ### 1.4 **visionOS: Apple Vision**
 
-Apple VisionではCatenda Siteは[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)からインストールされます。Catenda SiteはvisionOS 1.0以降が必要です。
+Apple Vision には、[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790)から Catenda Site をインストールします。Catenda Site には visionOS 1.0 以降が必要です。
 
 ## 2. **3Dビューアを最大限に活用する**
 
@@ -25026,7 +25026,7 @@ ShareLink機能の使用方法については、以前のBimsync更新を確認�
 
 ## 1. 記事
 
-_新しい記事:_ Catenda Hub [BimsyncはCatenda Hubになりました](https://support.catenda.com/ja/articles/7890769-bimsyncは現在catenda-hubです) [ランディングページ](https://support.catenda.com/ja/articles/8400797-プロジェクトページ) [issue boardのサイドパネル](https://support.catenda.com/ja/articles/6941224-トピックリスト内の右メニュー) [すべてのプロジェクトデータをエクスポート](https://support.catenda.com/ja/articles/7946690-すべてのプロジェクトデータをエクスポートする) [命名規則ページ](https://support.catenda.com/ja/articles/7832559-命名規則ページ) [最も簡単な命名規則](https://support.catenda.com/ja/articles/7845360-最もシンプルな命名規則) [中程度の命名規則](https://support.catenda.com/ja/articles/7936943-中程度の命名規則) [高度な命名規則](https://support.catenda.com/ja/articles/7936947-高度な命名規則) Catenda Site [モバイルアプリCatenda Siteをダウンロード 📲](https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード) [ドキュメント - Catenda Site](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site) [ダッシュボード - Catenda Site](https://support.catenda.com/ja/articles/7213817-ダッシュボード-catenda-site) [ナビゲーションメニュー - Catenda Site](https://support.catenda.com/ja/articles/7338516-ナビゲーションメニュー-catenda-site) [プロジェクトページ - Catenda Site](https://support.catenda.com/ja/articles/7733978-プロジェクトページ-catenda-site) [設定 - Catenda Site](https://support.catenda.com/ja/articles/7733833-設定-catenda-site) [問題ページ - Catenda Site](https://support.catenda.com/ja/articles/7734073-トピックメニュー-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/ja/articles/7734138-2d-3d-catenda-site) [Catenda Siteのオフラインモード](https://support.catenda.com/ja/articles/7325268-catenda-siteのオフラインモード) [3Dビューア - Catenda Site](https://support.catenda.com/ja/articles/7744403-3d-ビューア-catenda-site) [2Dビューア - Catenda Site](https://support.catenda.com/ja/articles/7748370-2dビューア-catenda-site) [ラベルフィルター - Catenda Site](https://support.catenda.com/ja/articles/7854138-ラベル-フィルター-catenda-site) _変更された記事:_ [プロジェクト設定ページ](https://support.catenda.com/ja/articles/4670273-プロジェクト設定ページ) [システム要件と最適化](https://support.catenda.com/ja/articles/6921941-ハードウェア推奨仕様) [モデルページ](https://support.catenda.com/ja/articles/4670286-モデルページ) [モデルページ](https://support.catenda.com/ja/articles/4670270-モデルコンテンツページ)
+_新しい記事:_ Catenda Hub [Bimsyncは現在Catenda Hubです](https://support.catenda.com/ja/articles/7890769-bimsyncは現在catenda-hubです) [ランディングページ](https://support.catenda.com/ja/articles/8400797-プロジェクトページ) [issue boardのサイドパネル](https://support.catenda.com/ja/articles/6941224-トピックリスト内の右メニュー) [すべてのプロジェクトデータのエクスポート](https://support.catenda.com/ja/articles/7946690-すべてのプロジェクトデータをエクスポートする) [命名規則のページ](https://support.catenda.com/ja/articles/7832559-命名規則ページ) [最もシンプルな命名規則](https://support.catenda.com/ja/articles/7845360-最もシンプルな命名規則) [中程度の命名規則](https://support.catenda.com/ja/articles/7936943-中程度の命名規則) [高度な命名規則](https://support.catenda.com/ja/articles/7936947-高度な命名規則) Catenda Site [モバイルアプリCatenda Site 📲のダウンロード](https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード) [ドキュメント - Catenda Site](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site) [ダッシュボード - Catenda Site](https://support.catenda.com/ja/articles/7213817-ダッシュボード-catenda-site) [ナビゲーションメニュー - Catenda Site](https://support.catenda.com/ja/articles/7338516-ナビゲーションメニュー-catenda-site) [プロジェクトページ - Catenda Site](https://support.catenda.com/ja/articles/7733978-プロジェクトページ-catenda-site) [設定 - Catenda Site](https://support.catenda.com/ja/articles/7733833-設定-catenda-site) [課題ページ - Catenda Site](https://support.catenda.com/ja/articles/7734073-トピックメニュー-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/ja/articles/7734138-2d-3d-catenda-site) [Catenda Siteのオフラインモード](https://support.catenda.com/ja/articles/7325268-catenda-siteのオフラインモード) [3Dビューア - Catenda Site](https://support.catenda.com/ja/articles/7744403-3d-ビューア-catenda-site) [2Dビューア - Catenda Site](https://support.catenda.com/ja/articles/7748370-2dビューア-catenda-site) [ラベルフィルター - Catenda Site](https://support.catenda.com/ja/articles/7854138-ラベル-フィルター-catenda-site) _変更された記事:_ [プロジェクト設定ページ](https://support.catenda.com/ja/articles/4670273-プロジェクト設定ページ) [システム要件と最適化](https://support.catenda.com/ja/articles/6921941-ハードウェア推奨仕様) [モデルページ](https://support.catenda.com/ja/articles/4670286-モデルページ) [モデルページ](https://support.catenda.com/ja/articles/4670270-モデルコンテンツページ)
 
 ## 2. 解決された問題
 
@@ -25267,7 +25267,7 @@ _[Navisworksプラグイン](https://support.catenda.com/ja/articles/5085987-cat
 
 ### 1.1 **新規アーティクル:**
 
-**はじめにとFAQ** [Catenda SharePoint FAQ](https://support.catenda.com/ja/articles/9419678-catenda-sharepoint-faq) [命名規則のrevision](https://support.catenda.com/ja/articles/9496151-命名規則のリビジョン) [ドキュメントのカスタムフィールド](https://support.catenda.com/ja/articles/9531080-ドキュメントのカスタムフィールド) [別のメンバーが引き継ぐ](https://support.catenda.com/ja/articles/9520447-別のメンバーの引き継ぎ)
+**はじめに・FAQ** [Catenda SharePoint FAQ](https://support.catenda.com/ja/articles/9419678-catenda-sharepoint-faq) [命名規則のリビジョン](https://support.catenda.com/ja/articles/9496151-命名規則のリビジョン) [ドキュメントのカスタムフィールド](https://support.catenda.com/ja/articles/9531080-ドキュメントのカスタムフィールド) [別のメンバーからの引き継ぎ](https://support.catenda.com/ja/articles/9520447-別のメンバーの引き継ぎ)
 
 **model** [modelsページのアクション](https://support.catenda.com/ja/articles/9431936-モデルページアクション) [modelsページの右側メニュー](https://support.catenda.com/ja/articles/9673735-モデルページの右メニュー) [modelの概要ページのアクション](https://support.catenda.com/ja/articles/9674157-モデルコンテンツページアクション)
 
@@ -25336,11 +25336,11 @@ _[Navisworksプラグイン](https://support.catenda.com/ja/articles/5085987-cat
 
 ## 4. **新規リリース** - Catenda Site、プラグイン及び統合
 
-_Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+_Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
-**デスクトップコネクタ:** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)
+**デスクトップコネクター:** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)
 
-Navisworks: [Navisworks plugin v1.4.0](https://support.catenda.com/ja/articles/5085987-catenda-navisworksプラグイン)
+Navisworks: [Navisworks プラグイン v1.4.0](https://support.catenda.com/ja/articles/5085987-catenda-navisworksプラグイン)
 
 # Changelog 1 Catenda - April, 2023
 
@@ -25774,7 +25774,7 @@ _Revitプラグイン v1.0.15_
 - [アクセス制御展開のユースケース](https://support.catenda.com/ja/articles/15644249-アクセス制御デプロイメントのユースケース)
 - [ドキュメントライブラリアイテムに対する操作](https://support.catenda.com/ja/articles/15647394-ドキュメントライブラリアイテムの操作)
 - [新しいModel Exportの作成](https://support.catenda.com/ja/articles/15481038-新しいモデルエクスポートの作成)
-- [Model Export Content Page](https://support.catenda.com/ja/articles/15480883-モデルエクスポートコンテンツページ)
+- [model エクスポート コンテンツページ](https://support.catenda.com/ja/articles/15480883-モデルエクスポートコンテンツページ)
 
 **ユースケース**
 
@@ -25801,7 +25801,7 @@ _Revitプラグイン v1.0.15_
 - [トピック本文 - トピックの内容](https://support.catenda.com/ja/articles/8053352-トピック本体-トピックのコンテンツ)
 - [フォルダとドキュメントのアクセス制御](https://support.catenda.com/ja/articles/4670287-フォルダとドキュメントのアクセス権設定)
 - [ドキュメントプレビューツール](https://support.catenda.com/ja/articles/11384618-ドキュメントプレビューツール)
-- [Model Export Page](https://support.catenda.com/ja/articles/4670280-モデルエクスポートページ)
+- [model エクスポートページ](https://support.catenda.com/ja/articles/4670280-モデルエクスポートページ)
 - [トピックリストのアクセス制御](https://support.catenda.com/ja/articles/4670296-トピックリストのアクセス制御)
 - [カスタムフィールド内容ページ](https://support.catenda.com/ja/articles/8445588-カスタムフィールドコンテンツページ)
 - [スライディングプレーンへの測定](https://support.catenda.com/ja/articles/4670298-スライディング平面への測定)
@@ -26045,11 +26045,11 @@ _[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-�
 
 **モデル** [3Dビューア](https://support.catenda.com/ja/articles/8227211-3dビューア) [2Dビューア](https://support.catenda.com/ja/articles/4854537-2dビューア) [クエリ](https://support.catenda.com/ja/articles/4854514-クエリ)
 
-**情報パネル** [Information panel](https://support.catenda.com/ja/articles/8238584-情報パネル)
+**情報パネル** [情報パネル](https://support.catenda.com/ja/articles/8238584-情報パネル)
 
 **設定** [ラベルページ](https://support.catenda.com/ja/articles/4670265-ラベルページ) [チームを作成する](https://support.catenda.com/ja/articles/4670264-チームの作成)
 
-**プラグインおよび統合** [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) [Power BI統合](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ) [IFC Archicadマニュアル](https://support.catenda.com/ja/articles/4670338-ifcエクスポート-archicadマニュアル) [Archicadプラグイン](https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン) [Solibriドキュメント統合としてのモデル](https://support.catenda.com/ja/articles/6988148-solibriモデルとドキュメント統合)
+**プラグインとインテグレーション** [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) [Power BI インテグレーション](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ) [IFC Archicad マニュアル](https://support.catenda.com/ja/articles/4670338-ifcエクスポート-archicadマニュアル) [Archicad プラグイン](https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン) [Solibri Models as Documents インテグレーション](https://support.catenda.com/ja/articles/6988148-solibriモデルとドキュメント統合)
 
 **Catenda Site** [モバイルアプリCatenda Siteをダウンロード](https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード)
 
@@ -26116,7 +26116,7 @@ _[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-�
 
 ## 4. **新規リリース** - Catenda Site、プラグインおよび統合
 
-**Catenda Hub:** _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+**Catenda Hub:** _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
 **Teklaプラグイン v1.1.2:** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
 
@@ -26180,7 +26180,7 @@ _情報パネル_ [検査メニュー](https://support.catenda.com/ja/articles/4
 
 **プラグインと統合** [Revit IFC エクスポートマニュアル](https://support.catenda.com/ja/articles/4670341-revit-ifc-エクスポート-マニュアル) [IFC エクスポート Archicad マニュアル](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/ja/articles/9930034-catenda-site-changelog-3-5-0) [ドキュメント メニュー - Catenda Site](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site) [Catenda Site でのファイルタイプのプレビュー](https://support.catenda.com/ja/articles/8975421-catenda-siteのファイルタイプのプレビュー)
+**Catenda Site** [Catenda Site 変更履歴 - 3.5.0](https://support.catenda.com/ja/articles/9930034-catenda-site-changelog-3-5-0) [ドキュメントメニュー - Catenda Site](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site) [Catenda Site でのファイルタイプのプレビュー](https://support.catenda.com/ja/articles/8975421-catenda-siteのファイルタイプのプレビュー)
 
 ## 2. **解決されたバグ**
 
@@ -26239,7 +26239,7 @@ _情報パネル_ [検査メニュー](https://support.catenda.com/ja/articles/4
 
 ## 4. **新規リリース** - Catenda Site、プラグイン、統合
 
-_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) 新しい共有ワークフローでは、公開モデルとドキュメントのみが表示されます。
+_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) 新しい共有ワークフローにより、公開された model とドキュメントのみが表示されるようになります。
 
 # Changelog 9 Catenda - 2025年6月
 
@@ -26684,7 +26684,7 @@ Catenda ライセンスの連絡先は、コクリエーションプログラム
 
 ### 4.2 **Catenda モバイル**
 
-[Catenda Mobile](https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード) は、iPhone と iPad 用の TestFlight を通じて、Android 用は Google Play で利用可能な新しいモバイルアプリで、早期アクセスで提供されています。トピック、ロケーション、フォーム、ドキュメントを対象としており、時間の経過とともに [Catenda Site](https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード) のすべての機能、さらにそれ以上を提供します。トピックとドキュメントは、ユーザーがメンバーとなっているすべてのプロジェクトで動作します。フォームとロケーションは、機能がオンになっているプロジェクトでのみ使用でき、現在のところ、これはコクリエーションプログラムの顧客のプロジェクトのみです。
+[Catenda Mobile](https://support.catenda.com/ja/articles/17601630-catendaモバイルアプリをダウンロード)は、スマートフォンおよびタブレット向けの新しいモバイルアプリで、iPhoneおよびiPadではTestFlight経由、AndroidではGoogle Playから、早期アクセス版として提供されています。トピック、ロケーション、フォーム、ドキュメントを扱い、今後は[Catenda Site](https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード)のすべての機能に加え、さらに多くの機能が追加される予定です。トピックとドキュメントは、ユーザーがメンバーとして参加しているすべてのプロジェクトで利用できます。フォームとロケーションは、有効化されたプロジェクトでのみ利用でき、現時点では共同開発プログラムの顧客のプロジェクトに限られます。
 
 アプリはまだ最終版ではなく、かなり変更される可能性があります。Catenda Site は引き続き並行して使用でき、Catenda Mobile にまだない機能が必要な場合に使用するアプリです。
 
@@ -27555,7 +27555,7 @@ Catenda Site で行われた変更が他のセッションで表示されない�
 
 # Desktop Connector - すべてのフォルダがダウンロードされていません
 
-この記事では、[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)を使用する際に発生する特定のエラーについての情報を見つけることができます。その他の Desktop Connector トラブルシューティング問題については[こちら](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false)をご覧ください。
+この記事では、[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) の使用時に発生する特定のエラーに関する情報を確認できます。その他の Desktop Connector のトラブルシューティングについては、[こちら](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false)をご覧ください。
 
 タスク自体では、以下のような情報が表示されます:
 
@@ -27609,7 +27609,7 @@ Windowsで予約されている内容の詳細なリストについては、こ�
 
 標準的な Windows ショートカットは、別の場所のフォルダーを "指す" 小さなファイルです。これらは、独自のハード ドライブ上のフォルダーへのリンクでも、遠くのオフィス サーバー上のフォルダーへのリンクでもかまいません。
 
-**見分け方:** シンボリック リンクと同様に、フォルダーとドライブのショートカットの両方に、フォルダー アイコンの左下に小さな青い "ショートカット矢印" が表示されるか、ショートカットを右クリックして [プロパティ] を選択してください。
+**見分け方:**シンボリック リンクと同様に、フォルダーとドライブのショートカットの両方に、フォルダー アイコンの左下に小さな青い "ショートカット矢印" が表示されるか、ショートカットを右クリックして [プロパティ] を選択してください。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/05-3-the-broken-windows-shortcut-lnk-file.png)
 
@@ -27623,13 +27623,13 @@ _ネットワーク ショートカット_ ターゲットはサーバー パス
 
 ダブルクリック時の異なる動作 Windows は、"壊れた" ローカル ショートカットを "壊れた" ネットワーク ショートカットよりもはるかに高速に処理します。
 
-**ローカル ショートカット ("削除" エラー):** コンピューター上のフォルダーが削除された場合、Windows はすぐにそれを認識します。ショートカットをダブルクリックすると、次のエラーが即座に表示されます:
+**ローカル ショートカット ("削除" エラー):**コンピューター上のフォルダーが削除された場合、Windows はすぐにそれを認識します。ショートカットをダブルクリックすると、次のエラーが即座に表示されます:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/08-3-the-broken-windows-shortcut-lnk-file.png)
 
 **`このショートカットが参照している項目が変更、移動、または削除されています。`**
 
-**ネットワーク ショートカット ("ハング" エラー):** ショートカットがオフィス サーバーを指していて、オフラインになっている場合(または VPN から外れている場合)、Windows はすぐには目的地がないことを認識しません。最初にネットワーク上でサーバーを "検索" しようとします。マウス カーソルが読み込み中の円に変わり、ウィンドウが 30～60 秒間 "ハング" または一時停止した後、最後に次のように表示される可能性があります:
+**ネットワーク ショートカット ("ハング" エラー):**ショートカットがオフィス サーバーを指していて、オフラインになっている場合(または VPN から外れている場合)、Windows はすぐには目的地がないことを認識しません。最初にネットワーク上でサーバーを "検索" しようとします。マウス カーソルが読み込み中の円に変わり、ウィンドウが 30～60 秒間 "ハング" または一時停止した後、最後に次のように表示される可能性があります:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/09-3-the-broken-windows-shortcut-lnk-file.png)
 
@@ -27643,9 +27643,9 @@ Desktop Connector にこれらのショートカットの 1 つを使用する�
 
 **再接続または再選択** "ネットワーク パスが見つかりません" または "ドライブが利用不可" エラーが表示される場合は、ネットワーク パスまたはドライブへの接続を確認してください。"このPC" に移動し、ネットワーク ドライブ (例: `Z:`) がアクティブであることを確認してください。外部 USB ドライブまたはハード ドライブが正しく接続されているかどうかを確認してください。赤い X がある場合は、ダブルクリックして再接続してください。ネットワーク ドライブがアクティブでなく、そのドライブがあるネットワークがわかっている場合は、ケーブルをプラグインするか、wifi 経由で参加するか、VPN を使用している場合は、VPN がアクティブかどうかを確認してネットワークに再接続してください。ドライブが利用できなくなった場合は、Desktop Connector でローカル コンピューターまたはネットワーク上で利用可能な別の移動先フォルダーを選択してください。
 
-**削除/名前変更して再作成** ローカル フォルダーまたはショートカットが再起動後も "スタック" したままの場合: 問題のあるフォルダーまたはショートカット ファイルの名前を変更するか(例: `ProjectData` を `ProjectData_OLD` に名前変更)、削除します。同じ名前の新しい標準フォルダーを作成します。転送を再開してください。Desktop Connector が新しい状態の良いフォルダーを検出し、通常の操作を再開します。
+**削除/名前変更して再作成**ローカル フォルダーまたはショートカットが再起動後も "スタック" したままの場合: 問題のあるフォルダーまたはショートカット ファイルの名前を変更するか(例: `ProjectData` を `ProjectData_OLD` に名前変更)、削除します。同じ名前の新しい標準フォルダーを作成します。転送を再開してください。Desktop Connector が新しい状態の良いフォルダーを検出し、通常の操作を再開します。
 
-**欠落フォルダーの代わりに一時フォルダーが作成されなかった理由は何ですか?** 他の状況では、Desktop Connector は何か問題が発生したときに、名前に `_restricted` が付加されたフォルダーを作成します。ただし、Windows が "欠落" 場所を処理する方法には技術的な違いがあります:
+**欠落フォルダーの代わりに一時フォルダーが作成されなかった理由は何ですか?**他の状況では、Desktop Connector は何か問題が発生したときに、名前に `_restricted` が付加されたフォルダーを作成します。ただし、Windows が "欠落" 場所を処理する方法には技術的な違いがあります:
 
 `_restricted` フォルダーは、フォルダーが "物理的に" 存在しているが "ロック" されている場合(ボルトで固定された部屋への出入り口のように)にのみ作成されます。その場合、プログラムは扉を見て、その横に新しい1つ(`_restricted`)を構築することを決定します。
 
@@ -27693,7 +27693,7 @@ Windows はフォルダーの存在を "記憶" しますが、物理ドライ�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/13-missing-mount-point.png)
 
-**`場所を利用できません`** または
+**`場所を利用できません`**または
 
 **`ネットワーク パスが見つかりません`** `<Path> は利用できないようにリンクが壊れています`
 
@@ -27702,12 +27702,12 @@ Windows はフォルダーの存在を "記憶" しますが、物理ドライ�
 フォルダーを手動で再作成する フォルダーが再起動後も "スタック" したままの場合:
 
 1. 問題のあるフォルダーの名前を変更します(例: `ProjectData` を `ProjectData_OLD` に名前変更します)。
-2. 元の名前で新しいフォルダーを作成します(`ProjectData`)。
-3. Desktop Connector は新しい状態の良いフォルダーを検出し、`_restricted` サフィックスなしで通常の操作を再開します。
+1. 元の名前で新しいフォルダーを作成します(`ProjectData`)。
+1. Desktop Connector は新しい状態の良いフォルダーを検出し、`_restricted` サフィックスなしで通常の操作を再開します。
 
 **ハードウェアまたはネットワークを再接続する** "このPC" に移動し、ネットワーク ドライブ (例: `Z:`) がアクティブであることを確認してください。外部 USB ドライブまたはハード ドライブが正しく接続されているかどうかを確認してください。赤い X がある場合は、ダブルクリックして再接続してください。ネットワーク ドライブがアクティブでなく、そのドライブがあるネットワークがわかっている場合は、ケーブルをプラグインするか、wifi 経由で参加するか、VPN を使用している場合は、VPN がアクティブかどうかを確認してネットワークに再接続してください。ドライブが利用できなくなった場合は、Desktop Connector でローカル コンピューターまたはネットワーク上で利用可能な別の移動先フォルダーを選択してください。
 
-**削除/名前変更して再作成** ローカル フォルダーまたはショートカットが再起動後も "スタック" したままの場合: 問題のあるフォルダーまたはショートカット ファイルの名前を変更するか(例: `ProjectData` を `ProjectData_OLD` に名前変更)、削除します。元の名前で新しいフォルダーを作成します(`ProjectData`)。転送を再開してください。Desktop Connector が新しい状態の良いフォルダーを検出し、`_restricted` サフィックスなしで通常の操作を再開します。
+**削除/名前変更して再作成**ローカル フォルダーまたはショートカットが再起動後も "スタック" したままの場合: 問題のあるフォルダーまたはショートカット ファイルの名前を変更するか(例: `ProjectData` を `ProjectData_OLD` に名前変更)、削除します。元の名前で新しいフォルダーを作成します(`ProjectData`)。転送を再開してください。Desktop Connector が新しい状態の良いフォルダーを検出し、`_restricted` サフィックスなしで通常の操作を再開します。
 
 # Microsoft チーム通知トラブルシューティング
 
@@ -28043,7 +28043,7 @@ OneDrive と SharePoint 400 Unicode コード単位
 
 **小さいzip** zipが複数のファイルで構成されている場合、zipをより小さいzipに分割できます。各分割されたzipを個別にアップロードできますが、ネットワークまたは接続エラーのリスクは常にあります。
 
-**個別ファイル** [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)は、ドキュメントをファイルごとにアップロードするため、より安全なアップロード方法です。ブラウザインターフェースを経由するのではなく、ファイルが直接バックエンドにアップロードされるため、これはより高速でもあります。ファイルの1つが失敗した場合でも、その時点までアップロードされたファイルは既にCatendaに表示されます。残りのファイルは、アップロードタスクが次に実行されるときにアップロードが続行されます。
+**個別ファイル** [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) は、ドキュメントをファイルごとにアップロードするため、より安全なアップロード方法です。ファイルはブラウザインターフェースを経由せず、バックエンドに直接アップロードされるため、より高速です。いずれかのファイルのアップロードに失敗した場合でも、それまでにアップロードされたファイルはCatendaに表示されます。残りのファイルは、次回アップロードタスクが実行されたときにアップロードが続行されます。
 
 ## 2. **特殊文字を含むZipアップロード**
 

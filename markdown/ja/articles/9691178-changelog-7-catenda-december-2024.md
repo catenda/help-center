@@ -56,7 +56,7 @@ _情報パネル_ [検査メニュー](https://support.catenda.com/ja/articles/4
 
 **プラグインと統合** [Revit IFC エクスポートマニュアル](https://support.catenda.com/ja/articles/4670341-revit-ifc-エクスポート-マニュアル) [IFC エクスポート Archicad マニュアル](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/ja/articles/9930034-catenda-site-changelog-3-5-0) [ドキュメント メニュー - Catenda Site](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site) [Catenda Site でのファイルタイプのプレビュー](https://support.catenda.com/ja/articles/8975421-catenda-siteのファイルタイプのプレビュー)
+**Catenda Site** [Catenda Site 変更履歴 - 3.5.0](https://support.catenda.com/ja/articles/9930034-catenda-site-changelog-3-5-0) [ドキュメントメニュー - Catenda Site](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site) [Catenda Site でのファイルタイプのプレビュー](https://support.catenda.com/ja/articles/8975421-catenda-siteのファイルタイプのプレビュー)
 
 ## 2. **解決されたバグ**
 
@@ -115,4 +115,4 @@ _情報パネル_ [検査メニュー](https://support.catenda.com/ja/articles/4
 
 ## 4. **新規リリース** - Catenda Site、プラグイン、統合
 
-_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) 新しい共有ワークフローでは、公開モデルとドキュメントのみが表示されます。
+_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) 新しい共有ワークフローにより、公開された model とドキュメントのみが表示されるようになります。

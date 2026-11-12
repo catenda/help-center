@@ -74,8 +74,8 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux Sujets 
 
 ## 4. **Nouvelles versions** - Catenda Site, Plugins et intégrations
 
-_Catenda Site v3.4.2 :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+_Catenda Site v3.4.2 :_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
-**Connecteur Bureau Catenda :** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop)
+**Desktop Connector :** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop)
 
 Navisworks : [Plug-in Navisworks v1.4.0](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks)

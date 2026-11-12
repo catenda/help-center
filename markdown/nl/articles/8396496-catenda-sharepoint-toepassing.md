@@ -8,7 +8,7 @@ Als de Catenda SharePoint-toepassing aan een SharePoint-site is toegevoegd, kunn
 
 Met het lijstcommando is het mogelijk om een of meer bestanden naar Catenda te publiceren.
 
-> **Opmerking:** Het is alleen mogelijk om bestanden te publiceren. Mapstructuren kunnen worden gedownload van SharePoint en naar Catenda worden geüpload via [zip-upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
+> **Opmerking:** Alleen bestanden kunnen worden gepubliceerd. Mappenstructuren kunnen worden gedownload uit SharePoint en geüpload naar Catenda via [zip-upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
 
 ### 1.1 **Het lijstcommando zoeken**
 

@@ -21,7 +21,7 @@ PC kan lastes opp som ethvert annet dokument i dokumentseksjonen. For disse to f
 
 ### 1.1 **Opplasting av PC-data**
 
-Det anbefales å bruke [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) eller komprimere PC-filen til en zippet mappe og bruke [zip-import](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) for å laste opp PC-en din. Disse metodene vil hjelpe deg å spare tid ettersom opplastingsfilstørrelsen vil være mindre og minimere risikoen for en nettverksfeil da filen lastes opp raskere
+Det anbefales å bruke [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) eller å komprimere PC-filen til en zippet mappe og bruke [zip-import](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) for å laste opp PC-en. Disse metodene sparer tid, da opplastingsfilen blir mindre, og de reduserer risikoen for nettverksfeil, ettersom filen lastes opp raskere
 
 Etter at du laster opp en PC til dokumentseksjonen, starter dokumentforhåndsvisningen å behandle. Mens forhåndsvisningen behandles, vil du se en grå stolpe øverst i dokumentforhåndsvisningen din.
 

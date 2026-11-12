@@ -2,7 +2,7 @@
 
 > **注:** プラグインのインストールファイルは、[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)で確認できます。
 
-[Catenda Revit Plugin](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン) のアクションは、Revit アプリケーション内のプラグイン ウィンドウの右上に表示されます。
+[Catenda Revit Plugin](https://support.catenda.com/ja/articles/4670334-catenda-revitプラグイン)のアクションは、Revitアプリケーション内のプラグインウィンドウの右上にあります。
 
 このアクション メニューは以下のように表示されます：
 

@@ -4,7 +4,7 @@
 
 Catenda SharePoint-programmet kan aktiveres for et SharePoint-miljø av en systemadministrator og deretter legges til på et område av en områdenavtaler. Med denne appen vil SharePoint-brukere kunne vise, administrere og samarbeide om dokumenter i Catenda sammen med andre medlemmer av byggprosjektet.
 
-Hvis du vil aktivere appen for miljøet ditt, finner du oppføringen her: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), som kan se slik ut:
+For å aktivere appen for miljøet ditt, finner du oppføringen her: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), som kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 

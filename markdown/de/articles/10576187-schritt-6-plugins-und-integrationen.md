@@ -32,6 +32,6 @@
 - Lokalisieren Sie Clash-Objekte in Revit
 - Erstellen Sie BCF-Themen (2D und 3D) in Revit
 
-_Weitere Informationen:_ [Catenda Connections](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen), [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
+_Weiterführende Informationen:_ [Catenda Connections](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen), [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
 
 > **Hinweis:** Finden Sie [den ersten Schritt](https://support.catenda.com/de/articles/9030303-schritt-1-kontoeinrichtung) unter [Erste Schritte](https://support.catenda.com/de/collections/2657208-erste-schritte) im Hilfecenter oder im Hilfemenü.

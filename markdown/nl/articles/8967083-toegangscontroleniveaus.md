@@ -51,8 +51,8 @@ Documenttoegang kan snel ingewikkeld worden en u kunt het overzicht verliezen ov
 ### 5.1 **Ledentoegang**
 
 <a class="intercom-content-link" href="" target="_blank">Issue board ACL</a>
-[Document ACL](https://support.catenda.com/nl/articles/4670287-mappen-en-documenten-toegangscontrole) <a class="intercom-content-link" href="" target="_blank">Project setting ACL</a>
-[Models ACL](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten#h_c2ab781496) is dezelfde als Documenten ACL met modellen als documenten
+[Document ACL](https://support.catenda.com/nl/articles/4670287-mappen-en-documenten-toegangscontrole) <a class="intercom-content-link" href="" target="_blank">Projectinstelling ACL</a>
+[Models ACL](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten#h_c2ab781496) is hetzelfde als Documenten ACL met models als documenten
 
 ### 5.2 **Beheerderstoegang**
 

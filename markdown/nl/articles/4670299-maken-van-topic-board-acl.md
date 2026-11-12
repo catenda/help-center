@@ -1,6 +1,6 @@
 # Maken van Topic board ACL
 
-Beheerders kunnen configureren wie toegang heeft om topic boards te maken in het toegangscontrolesection van de [project settings page](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3).
+Beheerders kunnen instellen wie toegang heeft om Topic boards aan te maken in de sectie toegangsbeheer van de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3).
 
 1. Onder toegangscontrole op deze pagina hebt u "Create new topic board".
 

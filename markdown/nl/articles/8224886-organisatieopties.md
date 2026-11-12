@@ -90,11 +90,11 @@ Ondernemingsklanten kunnen de afdwinging van MFA voor gebruikers die aan hun pro
 
 ### 5.2 **Interne SSO-gebruikers vereisen geen MFA**
 
-Ondernemingsklanten kunnen aanvragen [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) in te stellen. Er is een vergoeding gemoeid mee omdat onze ontwikkelaars tijd nodig hebben om de configuratie in te stellen.
+Enterprise-klanten kunnen een verzoek indienen om [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) in te stellen. Hieraan zijn kosten verbonden, omdat onze ontwikkelaars enige tijd nodig hebben om de configuratie in te stellen.
 
 _Wat doet deze regel?_ Standaard worden gebruikers die zich aanmelden met SSO en gebruikers die zich normaal aanmelden op dezelfde manier behandeld. Als MFA voor een organisatie wordt afgedwongen, moeten zowel normale gebruikers als SSO-gebruikers de MFA-code invoeren om zich aan te melden en toegang te krijgen tot het project. Als deze optie voor een organisatie is ingeschakeld, hoeven SSO-gebruikers geen MFA te gebruiken voor toegang tot het project. Normale gebruikers zouden nog steeds de MFA-code moeten invoeren, terwijl SSO-gebruikers zich zonder de code zouden kunnen aanmelden.
 
-_Wat is SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) stelt de gebruiker in staat zich eenmaal aan te melden en services te openen zonder verificatiefactoren opnieuw in te voeren. Met deze optie kunt u ervoor zorgen dat gebruikers van uw organisatie geen MFA hoeven in te stellen. Gebruikers van verschillende organisaties die deel uitmaken van uw organisatieprojecten moeten nog steeds MFA hebben ingeschakeld als de bovenstaande optie is ingeschakeld.
+_Wat is SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) stelt de gebruiker in staat eenmaal in te loggen en toegang te krijgen tot diensten zonder opnieuw authenticatiefactoren in te voeren. Met deze optie kun je ervoor zorgen dat gebruikers van je organisatie geen MFA hoeven in te stellen. Gebruikers van andere organisaties die deel uitmaken van de projecten van je organisatie moeten nog steeds MFA hebben ingeschakeld als de bovenstaande optie is ingeschakeld.
 
 _SSO instellen:_ Het is mogelijk om SSO in te stellen met elke SSO-provider, aangezien het een gestandaardiseerd proces is. Hieronder vindt u enkele van de meest voorkomende SSO-providers:
 

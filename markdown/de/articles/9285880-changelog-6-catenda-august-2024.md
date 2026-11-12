@@ -10,7 +10,7 @@ Mit dem Rollout neuer Funktionen und der Behebung von Fehlern werden die Artikel
 
 ### 1.1 **Neue Artikel:**
 
-**Erste Schritte und häufig gestellte Fragen** [Catenda SharePoint FAQ](https://support.catenda.com/de/articles/9419678-catenda-sharepoint-haufig-gestellte-fragen) [Revisions in Namenskonvention](https://support.catenda.com/de/articles/9496151-revisionen-in-der-namenskonvention) [Benutzerdefinierte Felder in Dokumenten](https://support.catenda.com/de/articles/9531080-benutzerdefinierte-felder-in-dokumenten) [Übernahme für ein anderes Mitglied](https://support.catenda.com/de/articles/9520447-ubernahme-fur-ein-anderes-mitglied)
+**Erste Schritte und FAQ** [Catenda SharePoint FAQ](https://support.catenda.com/de/articles/9419678-catenda-sharepoint-haufig-gestellte-fragen) [Revisionen in der Namenskonvention](https://support.catenda.com/de/articles/9496151-revisionen-in-der-namenskonvention) [Benutzerdefinierte Felder für Dokumente](https://support.catenda.com/de/articles/9531080-benutzerdefinierte-felder-in-dokumenten) [Übernahme für ein anderes Mitglied](https://support.catenda.com/de/articles/9520447-ubernahme-fur-ein-anderes-mitglied)
 
 **Modelle** [Aktionen auf der Seite Modelle](https://support.catenda.com/de/articles/9431936-aktionen-auf-der-seite-modelle) [Rechtes Menü auf der Seite Modelle](https://support.catenda.com/de/articles/9673735-rechtes-menu-auf-der-modellseite) [Aktionen auf der Modellübersichtsseite](https://support.catenda.com/de/articles/9674157-aktionen-auf-der-seite-modellinhalte)
 
@@ -18,7 +18,7 @@ Mit dem Rollout neuer Funktionen und der Behebung von Fehlern werden die Artikel
 
 **Dokumente** [Aktionen in einem Dokument](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen)
 
-**Plugins und Integrationen** [Microsoft Teams-Benachrichtigungen](https://support.catenda.com/de/articles/9167392-microsoft-teams-benachrichtigungen) [Aktivieren der Catenda SharePoint-App](https://support.catenda.com/de/articles/9419749-aktivierung-der-catenda-sharepoint-app) [Hinzufügen und Entfernen der CatendaSP-App](https://support.catenda.com/de/articles/9453368-catendasp-app-hinzufugen-und-entfernen) [Navisworks Changelog - 1.4.0](https://support.catenda.com/de/articles/9440035-navisworks-changelog-1-4-0)
+**Plugins und Integrationen** [Benachrichtigungen in Microsoft Teams](https://support.catenda.com/de/articles/9167392-microsoft-teams-benachrichtigungen) [Aktivieren der Catenda SharePoint App](https://support.catenda.com/de/articles/9419749-aktivierung-der-catenda-sharepoint-app) [Hinzufügen und Entfernen der CatendaSP App](https://support.catenda.com/de/articles/9453368-catendasp-app-hinzufugen-und-entfernen) [Navisworks Changelog - 1.4.0](https://support.catenda.com/de/articles/9440035-navisworks-changelog-1-4-0)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 

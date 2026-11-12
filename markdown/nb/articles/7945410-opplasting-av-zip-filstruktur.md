@@ -108,4 +108,4 @@ Slik kan høyremeny for zip-importsiden for en fullført zip-import se ut:
 
 ## 7. **Skrivebordskontakt**
 
-Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan du automatisk, med jevne mellomrom, laste opp de nyeste versjonene av dokumenter fra det lokale systemet ditt til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil ved å laste opp dokumenter fil for fil i stedet for i en stor drag-and-drop eller zip-opplastingsbatch.
+Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan du automatisk og med jevne mellomrom laste opp de nyeste versjonene av Dokumenter fra ditt lokale system til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil, fordi den laster opp dokumenter fil for fil i stedet for i én stor dra-og-slipp- eller zip-opplastingsbatch.

@@ -1,6 +1,6 @@
 # プロジェクトページ - Organization tool
 
-プロジェクトページは、[organizations profile page](https://support.catenda.com/ja/articles/8497478-組織プロフィールページ)のサブページとして見つけることができます。
+プロジェクトページは、[組織のプロフィールページ](https://support.catenda.com/ja/articles/8497478-組織プロフィールページ)のサブページとして表示されます。
 
 ここでは、このorganizationの一部であるすべてのプロジェクトの概要が表示されます。
 

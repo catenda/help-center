@@ -114,7 +114,7 @@ Ettersom nye funksjoner lanseres og feil rettes blir artiklene oppdatert med end
 - Catenda-programtillegg og integrasjoner
   - [3D-viser - Catenda Site](https://support.catenda.com/nb/articles/7744403-3d-viser-catenda-site)
   - [Catenda-programtillegg og integrasjoner](https://support.catenda.com/nb/articles/8396532-catenda-plugins-og-integrasjoner)
-  - [IFC export archicad manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual)
+  - [Manual for IFC-eksport i Archicad](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual)
   - [Aktivering av Catenda SharePoint-appen](https://support.catenda.com/nb/articles/9419749-aktivering-av-catenda-sharepoint-appen)
   - [Legge til og fjerne Catenda SP-appen](https://support.catenda.com/nb/articles/9453368-legge-til-og-fjerne-catendasp-appen)
 - Dokumenter - Eldre

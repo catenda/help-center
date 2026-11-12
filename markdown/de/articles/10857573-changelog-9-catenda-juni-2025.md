@@ -22,7 +22,7 @@ Wenn neue Funktionen veröffentlicht werden und Fehler behoben werden, werden Ar
 
 **Tutorials und Leitfäden** [Guidde-Videos](https://support.catenda.com/de/articles/11055278-guidde-videos)
 
-**Häufig gestellte Fragen** [Einen Filter-Link speichern](https://support.catenda.com/de/articles/11401493-speichern-und-freigeben-eines-filterlinks) [Catenda Desktop Connector FAQ](https://support.catenda.com/de/articles/11582835-catenda-desktop-connector-faq)
+**Häufig gestellte Fragen** [Speichern eines Filter-Links](https://support.catenda.com/de/articles/11401493-speichern-und-freigeben-eines-filterlinks) [Catenda Desktop Connector FAQ](https://support.catenda.com/de/articles/11582835-catenda-desktop-connector-faq)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 

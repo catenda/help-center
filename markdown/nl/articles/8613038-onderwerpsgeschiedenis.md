@@ -1,6 +1,6 @@
 # Onderwerpsgeschiedenis
 
-U kunt de knop voor onderwerpsgeschiedenis bovenaan de [topic body](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp) vinden. Door op deze knop te klikken, kunt u de geschiedenis van alle wijzigingen die aan het onderwerp zijn aangebracht, uitvouwen.
+U vindt de knop voor de geschiedenis van de Topics bovenaan de [hoofdtekst van de Topics](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp). Door op deze knop te klikken, klapt u de geschiedenis uit van alle wijzigingen die zijn aangebracht terwijl de Topics in uw Catenda-project aanwezig waren.
 
 In de onderwerpsgeschiedenis kunt u informatie over de volgende onderwerpen vinden:
 

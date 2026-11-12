@@ -142,7 +142,7 @@ Prestatievermindering werd opgemerkt op 17-28 april. Dit, nadat we de maand ervo
     - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
     - [Catenda Hub - Classificatiebibliotheek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
   - Catenda-plugins en integraties
-    - [Catenda Sharepoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Sharepoint-app (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Gebruikersstemmen afgerond**
 

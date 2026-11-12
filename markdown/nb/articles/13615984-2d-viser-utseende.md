@@ -20,7 +20,7 @@ Som man kan se, vises kun vegger som er 1 meter og høyere i 2D-viseren.
 
 ### 1.2 **Dørsving**
 
-Dørsvinger er spesifisert i IFC-filen. Du kan se hvordan dette fungerer i følgende BuildingSMART-artikler: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Hvis ingen dørsvinger er angitt, svinger døren åpen til høyre.
+Dørsvingene er angitt i IFC-filen. Du kan se hvordan dette fungerer i følgende artikler fra buildingSMART: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Hvis ingen dørsving er angitt, åpnes døren mot høyre.
 
 ## 2. **Tegning som underlag**
 

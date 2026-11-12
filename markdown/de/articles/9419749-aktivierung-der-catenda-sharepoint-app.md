@@ -4,7 +4,7 @@
 
 Die Catenda SharePoint-Anwendung kann von einem Systemadministrator für eine SharePoint-Umgebung aktiviert und dann von einem Websitebesitzer zu einer Website hinzugefügt werden. Mit dieser App können SharePoint-Benutzer Dokumente in Catenda zusammen mit anderen Mitgliedern des Bauprojekts anzeigen, verwalten und daran zusammenarbeiten.
 
-Um die App für Ihre Umgebung zu aktivieren, finden Sie den entsprechenden Eintrag hier: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), der etwa so aussehen kann:
+Um die App für Ihre Umgebung zu aktivieren, finden Sie ihren Eintrag hier: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), der etwa so aussehen kann:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 

@@ -62,4 +62,4 @@ På et nettbrett hjelper det å laste bare det du trenger for oppgaven du har fo
 
 Flere tips er beskrevet i [3D-viseroptimalisering](https://support.catenda.com/nb/articles/13927321-3d-viser-optimalisering).
 
-For arbeid på byggeplassen er Catenda Site mobilapp ofte et bedre valg, som beskrevet i [Access with limited screen space](https://support.catenda.com/nb/articles/10695677-tilgang-med-begrenset-skjermplass). Enhetsanbefalinger for Catenda Site er beskrevet i [Hardware recommendation - Catenda Site](https://support.catenda.com/nb/articles/17596478-maskinvareanbefalinger-catenda-site).
+For arbeid på byggeplassen er Catenda Site-mobilappen ofte et bedre valg, som beskrevet i [Tilgang med begrenset skjermplass](https://support.catenda.com/nb/articles/10695677-tilgang-med-begrenset-skjermplass). Maskinvareanbefalinger for Catenda Site er beskrevet i [Maskinvareanbefaling - Catenda Site](https://support.catenda.com/nb/articles/17596478-maskinvareanbefalinger-catenda-site).

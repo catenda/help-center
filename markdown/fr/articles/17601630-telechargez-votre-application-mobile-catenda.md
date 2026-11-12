@@ -24,7 +24,7 @@ Catenda n'est pas encore dans l'App Store. Sur iPhone et iPad, il est installé 
 
 ### 1.2 **Téléphones et tablettes Android**
 
-Catenda est installé à partir de [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Dans les résultats de recherche, Google Play affiche l'application sous le nom Catenda, et seule la page propre de l'application l'affiche sous le nom Catenda (Accès anticipé).
+Catenda s'installe depuis [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Dans les résultats de recherche, Google Play affiche l'application sous le nom Catenda, et seule la page propre à l'application l'affiche sous le nom Catenda (Early Access).
 
 > **Important :** Sur certains téléphones et tablettes Android, Catenda Site n'apparaît pas dans une recherche Google Play, donc Catenda peut être la seule application Catenda qui s'affiche. Pour installer Catenda Site sur un tel appareil, consultez [Catenda Site - Dépannage](https://support.catenda.com/fr/articles/11926914-catenda-site-depannage#not-available-for-your-device-in-google-play)
 

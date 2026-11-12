@@ -74,7 +74,7 @@ Nadat u hierop klikt, wordt een bestandsbrowser geopend en kunt u selecteren wel
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Opmerking:** Als u een map sleept en neerzet, wordt deze als een zip-bestand gepubliceerd. Als u een mapstructuur wilt uploaden, moet u deze downloaden van SharePoint en uploaden naar Catenda via de [zip upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
+> **Let op:** Als u een map via slepen en neerzetten toevoegt, wordt deze als zipbestand geüpload. Als u een mappenstructuur wilt uploaden, moet u deze eerst van SharePoint downloaden en vervolgens naar Catenda uploaden via de [zip-upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
 
 ### 4.3 **Herladen**
 

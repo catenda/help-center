@@ -90,11 +90,11 @@ Enterprise-Kunden können die Erzwingung von MFA für Benutzer anfordern, die an
 
 ### 5.2 **Interne SSO-Benutzer benötigen kein MFA**
 
-Enterprise-Kunden können anfordern, [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) einzurichten. Es fallen Gebühren an, da es unsere Entwickler Zeit kostet, die Konfiguration einzurichten.
+Unternehmenskunden können die Einrichtung von [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) anfordern. Dafür fällt eine Gebühr an, da unsere Entwickler einige Zeit für die Einrichtung der Konfiguration benötigen.
 
 _Was macht diese Regel?_ Standardmäßig werden Benutzer, die sich mit SSO anmelden, und Benutzer, die sich normal anmelden, gleich behandelt. Wenn MFA für eine Organisation erzwungen wird, müssen sowohl normale Benutzer als auch SSO-Benutzer den MFA-Code eingeben, um sich anzumelden und auf das Projekt zuzugreifen. Wenn diese Option für eine Organisation aktiviert ist, müssen SSO-Benutzer MFA nicht verwenden, um auf das Projekt zuzugreifen. Normale Benutzer müssten immer noch den MFA-Code eingeben, während SSO-Benutzer sich ohne Verwendung des Codes anmelden könnten.
 
-_Was ist SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) ermöglicht es dem Benutzer, sich einmal anzumelden und auf Dienste zuzugreifen, ohne Authentifizierungsfaktoren erneut eingeben zu müssen. Mit dieser Option können Sie sicherstellen, dass Benutzer Ihrer Organisation MFA nicht einrichten müssen. Benutzer aus verschiedenen Organisationen, die Teil Ihrer Organisationsprojekte sind, müssen weiterhin MFA aktiviert haben, wenn die obige Option aktiviert ist.
+_Was ist SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) ermöglicht es Benutzern, sich einmal anzumelden und auf Dienste zuzugreifen, ohne Authentifizierungsfaktoren erneut eingeben zu müssen. Mit dieser Option können Sie festlegen, dass Benutzer Ihrer Organisation kein MFA einrichten müssen. Benutzer aus anderen Organisationen, die Teil Ihrer Organisationsprojekte sind, benötigen weiterhin MFA, wenn die oben genannte Option aktiviert ist.
 
 _SSO einrichten:_ Es ist möglich, SSO mit einem beliebigen SSO-Anbieter einzurichten, da es sich um einen standardisierten Prozess handelt. Bitte finden Sie unten einige der häufigsten SSO-Anbieter:
 

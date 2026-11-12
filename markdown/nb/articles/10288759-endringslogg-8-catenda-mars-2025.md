@@ -68,4 +68,4 @@ Takk for verdifulle tilbakemeldinger har vi vært i stand til å fikse mange sak
 
 ## 3. **Nye utgaver** - Catenda Site, Plugin-moduler og integrasjoner
 
-_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Det er ikke lenger mulig å se innholdet i saker som ble slettet på Catenda Hub. Hvis du hadde lastet inn markører i 2D-viseren, vil disse fortsatt være synlige. Hvis du prøver å åpne en slettet sak via saklisten eller markør, vil innholdet i saken ikke lenger vises, og markøren vil bli lastet ut fra 2D-viseren.
+_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Det er ikke lenger mulig å se innholdet i saker som ble slettet på Catenda Hub. Hvis du hadde lastet inn markører i 2D-viseren, vil disse fortsatt være synlige. Forsøk på å åpne en slettet sak via saksliste eller markør vil ikke lenger vise innholdet i saken, og markøren fjernes fra 2D-viseren.

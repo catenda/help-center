@@ -108,4 +108,4 @@ Dies ist ein Beispiel für das rechte Menü der Zip-Importseite eines abgeschlos
 
 ## 7. **Desktop Connector**
 
-Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können Sie automatisch und regelmäßig die neuesten Versionen von Dokumenten von Ihrem lokalen System zu Catenda Hub hochladen. Der Desktop Connector ist schneller als der reguläre Upload-Prozess und minimiert das Ausfallrisiko, da Dokumente dateiweise statt in einem großen Drag-and-Drop- oder Zip-Upload-Batch hochgeladen werden.
+Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können Sie die neuesten Versionen von Dokumenten automatisch und in regelmäßigen Abständen von Ihrem lokalen System in Catenda Hub hochladen. Der Desktop Connector ist sowohl schneller als der reguläre Upload-Vorgang als auch weniger anfällig für Fehler, da er Dokumente einzeln hochlädt, anstatt sie in einem großen Drag-and-Drop- oder Zip-Upload-Stapel zu übertragen.

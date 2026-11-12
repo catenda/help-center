@@ -56,7 +56,7 @@ In diesem Menü können nur einzelne Dokumente hochgeladen werden. Um einen Ordn
 
 ## 3. **Desktop Connector**
 
-Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können die neuesten Versionen von Dokumenten automatisch und regelmäßig von einem lokalen System zu Catenda Hub hochgeladen werden. Der Desktop Connector ist schneller als der reguläre Upload-Prozess und minimiert das Fehlerrisiko, da er Dokumente dateiweise statt in einem großen Drag-and-Drop- oder ZIP-Upload-Batch hochlädt.
+Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können die neuesten Versionen von Dokumenten automatisch und periodisch von einem lokalen System in Catenda Hub hochgeladen werden. Der Desktop Connector ist sowohl schneller als der reguläre Upload-Prozess als auch risikoärmer, da er Dokumente Datei für Datei statt in einem großen Drag-and-Drop- oder Zip-Upload-Stapel hochlädt.
 
 ## 4. **Dokumentvorschau**
 

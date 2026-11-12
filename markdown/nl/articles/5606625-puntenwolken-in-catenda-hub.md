@@ -21,7 +21,7 @@ PC kan net als elk ander document in het documentgebied worden geüpload. Voor d
 
 ### 1.1 **PC-gegevens uploaden**
 
-Het is raadzaam om de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) te gebruiken of uw PC-bestand in een gecomprimeerde map te comprimeren en de [zip-import](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) te gebruiken om uw PC te uploaden. Deze methoden helpen u tijd besparen omdat de uploadbestandsgrootte kleiner is en het risico op een netwerkfout wordt geminimaliseerd, omdat het bestand sneller wordt geüpload
+Het wordt aanbevolen om de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) te gebruiken of uw PC-bestand te comprimeren tot een gezipte map en de [zip-import](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) te gebruiken om uw PC te uploaden. Deze methoden helpen u tijd te besparen, omdat de grootte van het uploadbestand kleiner wordt, en minimaliseren het risico op een netwerkfout, omdat het bestand sneller wordt geüpload
 
 Nadat u een PC naar het documentgebied hebt geüpload, wordt de documentvoorbeeldverwerking gestart. Terwijl de voorbeeldverwerking plaatsvindt, ziet u een grijze balk aan de bovenkant van uw documentvoorbeeld.
 

@@ -12,7 +12,7 @@ Wenn Sie Hilfe beim Verständnis der Funktionsweise von Funktionen in der Integr
 
 ### 1.2 **Für technische und funktionale Probleme**
 
-Wenn bestimmte Fehlermeldungen in der Solibri-Oberfläche auftreten, der Connector nicht wie erwartet reagiert oder eine Änderung der Connector-Funktionalität gewünscht wird, kontaktieren Sie bitte direkt **[Solibri Support](https://www.solibri.com/support)**. Als Entwickler und Eigentümer des Connectors können nur sie den zugrunde liegenden Code ändern, interne Validierungsregeln anpassen oder softwarespezifische Fehler beheben.
+Wenn bestimmte Fehlermeldungen in der Solibri-Oberfläche auftreten, wenn der Connector nicht wie erwartet reagiert oder wenn eine Änderung der Funktionsweise des Connectors gewünscht wird, wenden Sie sich bitte direkt an **[Solibri Support](https://www.solibri.com/support)**. Als Entwickler und Eigentümer des Connectors sind sie die Einzigen, die den zugrunde liegenden Code ändern, interne Validierungsregeln anpassen oder softwarespezifische Fehler beheben können.
 
 ## 2. **Dupliziertes Modell**
 

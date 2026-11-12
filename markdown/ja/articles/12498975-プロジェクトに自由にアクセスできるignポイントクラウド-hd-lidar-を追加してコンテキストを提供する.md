@@ -43,7 +43,7 @@ conda create -n pdal-env -c conda-forge pdal python=3.10
 これは3つのことを行います。
 
 - `pdal-env`という名前の環境を作成します
-- **[conda-forge](https://anaconda.org/conda-forge/pdal)**リポジトリからPDALをインストール(最新バージョン)
+- **[conda-forge](https://anaconda.org/conda-forge/pdal)** リポジトリから PDAL（最新バージョン）をインストールする
 - Pythonをインストール(PythonスクリプトでもPDALを使用したい場合に便利です)
 
 ### 2.3 PDAL環境をアクティベート

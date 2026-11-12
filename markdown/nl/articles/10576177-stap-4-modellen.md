@@ -8,6 +8,6 @@ In het modellengebied krijgt u een lijst met alle modellen die voor u beschikbaa
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/chgdwm3p/01-intro.png)
 
-_Verder lezen:_ [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer), [Revision selector](https://support.catenda.com/nl/articles/4670279-revisiekiezer)
+_Verder lezen:_ [3D Viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer), [Revision selector](https://support.catenda.com/nl/articles/4670279-revisiekiezer)
 
 > **Opmerking:** Zoek [stap 5](https://support.catenda.com/nl/articles/10576182-stap-5-onderwerpen) in [aan de slag](https://support.catenda.com/nl/collections/2657208-aan-de-slag) in het helpcentrum of in het helpmenu.

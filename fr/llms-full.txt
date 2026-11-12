@@ -146,7 +146,7 @@ _Pour en savoir plus :_ [Affichage liste](https://support.catenda.com/fr/article
 - Localisez les objets clash dans Revit
 - Créer des sujets BCF (2D et 3D) dans Revit
 
-_Lectures complémentaires :_ [Catenda Connections](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda), [Bureau Connecteur](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop), [Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks), [Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit)
+_Pour en savoir plus :_ [Catenda Connections](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda), [Desktop Connector](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop), [Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks), [Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit)
 
 > **Remarque :** Trouvez la [première étape](https://support.catenda.com/fr/articles/9030303-etape-1-configuration-du-compte) dans [Démarrage](https://support.catenda.com/fr/collections/2657208-pour-commencer) sur le centre d'aide ou dans le menu d'aide.
 
@@ -2494,7 +2494,7 @@ Sur les appareils avec un écran de taille limitée, les boutons doivent être p
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda) est notre application mobile en accès anticipé, disponible pour iPhone et iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) et pour Android sur [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Elle couvre les Sujets, les emplacements, les formulaires et les Documents, et au fil du temps, elle obtiendra toutes les fonctionnalités de Catenda Site. L'application est développée conjointement avec les clients dans le programme de Co-création et n'est pas définitive, elle peut donc encore changer considérablement.
+[Catenda Mobile](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda) est notre application mobile en accès anticipé, disponible pour iPhone et iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) et pour Android sur [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Elle couvre les sujets, les emplacements, les formulaires et les documents, et elle recevra progressivement toutes les fonctionnalités de Catenda Site. L'application est développée conjointement avec les clients du programme Co-creation ; elle n'est pas définitive et peut donc encore changer considérablement.
 
 ## 2. **Écran d'accueil / Tableau de bord / Dock -** Fonctionnalité complète
 
@@ -3215,7 +3215,7 @@ Comme vous n'avez rien sélectionné, les actions d'élément sélectionné ne s
 
 L'application Catenda SharePoint peut être activée pour un environnement SharePoint par un administrateur système, puis ajoutée à un site par un propriétaire de site. Avec cette application, les utilisateurs SharePoint pourront afficher, gérer et collaborer sur les Documents dans Catenda avec les autres Membres du projet de construction.
 
-Pour activer l'application dans votre environnement, vous pouvez trouver son entrée ici : [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), qui peut ressembler à ceci :
+Pour activer l'application pour votre environnement, vous trouverez son entrée ici : [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), qui peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 
@@ -3639,7 +3639,7 @@ conda create -n pdal-env -c conda-forge pdal python=3.10
 Cela fait trois choses :
 
 - Créer un environnement appelé `pdal-env`
-- Installer PDAL à partir du dépôt **[conda-forge](https://anaconda.org/conda-forge/pdal)** (dernière version)
+- Installez PDAL depuis le dépôt **[conda-forge](https://anaconda.org/conda-forge/pdal)** (dernière version)
 - Installer Python (utile si vous souhaitez également utiliser PDAL dans vos scripts Python)
 
 ### 2.3 Activer l'environnement PDAL
@@ -4057,7 +4057,7 @@ Comme on peut le voir, seuls les murs d'une hauteur de 1 mètre et plus sont aff
 
 ### 1.2 **Ouvertures de portes**
 
-Les ouvertures de portes sont spécifiées dans le fichier IFC. Vous pouvez voir comment cela fonctionne dans les articles BuildingSMART suivants : [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Si aucune ouverture de porte n'est spécifiée, la porte s'ouvrira vers la droite.
+Le sens d'ouverture des portes est spécifié dans le fichier IFC. Vous pouvez voir comment cela fonctionne dans les articles BuildingSMART suivants : [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Si aucun sens d'ouverture n'est spécifié, la porte s'ouvre vers la droite.
 
 ## 2. **Dessin en arrière-plan**
 
@@ -4847,7 +4847,7 @@ Après avoir ouvert un Document, vous pourrez voir le menu des Sujets. Ici, vous
 
 ## 7. **Autorisations**
 
-Lorsque des Documents sont téléchargés à partir d'une bibliothèque de Documents SharePoint vers Catenda, l'API REST SharePoint est utilisée (via la [bibliothèque pnpjs](https://pnp.github.io/pnpjs/)). Puisque ces autorisations sont accordées aux solutions spfx OOTB, aucune subvention supplémentaire n'est nécessaire. Les subventions suivantes seront nécessaires pour que l'application accède au backend Catenda. Seules les autorisations déléguées sont utilisées avec les portées suivantes : _[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ L'accès ci-dessus est utilisé uniquement pour approuver le partage de Documents au projet Catenda de l'utilisateur.
+Lorsque des documents sont importés d'une bibliothèque de documents SharePoint vers Catenda, l'API REST de SharePoint est utilisée (via la bibliothèque [pnpjs](https://pnp.github.io/pnpjs/)). Étant donné que ces autorisations sont accordées par défaut aux solutions SPFx, aucune autorisation supplémentaire n'est nécessaire. Les autorisations suivantes seront nécessaires pour que l'application accède au backend de Catenda. Seules des autorisations déléguées sont utilisées, avec les étendues suivantes : _[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ L'accès ci-dessus est uniquement utilisé pour approuver le partage de documents avec le projet Catenda de l'utilisateur.
 
 # Blocs de révision dans les conventions de nommage
 
@@ -18793,7 +18793,7 @@ Enfin, nous arrivons aux Topics Catenda. Les topics visent à suivre toutes les 
 - _<a class="intercom-content-link" target="_blank">Historique</a> -_ Vous pouvez trouver la date d'enregistrement et de modification d'un topic.
 - _Recherchabilité_ - Le texte dans les topics [peut être recherché](https://support.catenda.com/fr/articles/8370693-filtrage-sur-la-page-des-sujets) et [des étiquettes peuvent être appliquées](https://support.catenda.com/fr/articles/4670265-page-etiquettes) pour trouver la pièce vitale de communication que vous cherchez
 - _Disponibilité_ - Si le projet est bien configuré, [les bonnes personnes ont toujours accès](https://support.catenda.com/fr/articles/4670296-controle-d-acces-a-la-liste-de-sujets) aux bonnes informations de n'importe où avec une connexion Internet ([Même sans!](https://support.catenda.com/fr/articles/7325268-mode-hors-ligne-dans-catenda-site))
-- _Aperçu_ - Les topics peuvent être divisés en différents [topic boards](https://support.catenda.com/fr/articles/6379614-liste-de-sujets-a-partir-d-une-liste-de-sujets-existante) pour garder un flux de conversation séparé d'un autre.
+- _Overview_ - Les sujets peuvent être répartis dans différentes [listes de sujets](https://support.catenda.com/fr/articles/6379614-liste-de-sujets-a-partir-d-une-liste-de-sujets-existante) afin de séparer un fil de conversation d'un autre.
 - _[Responsabilité](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet#h_dec8c710f5)_ - Les topics peuvent être assignés à des personnes pour créer un sens de qui est responsable de traiter chaque bit de conversation
 - _Flux d'informations_ - Bien que tout le monde ayant accès au topic soit notifié lors de sa création initiale, vous pouvez vous assurer que le bon ensemble de personnes [soit notifié des progrès](https://support.catenda.com/fr/articles/7439223-page-des-notifications-de-compte) sur un topic.
 
@@ -19901,7 +19901,7 @@ Catenda n'est pas encore dans l'App Store. Sur iPhone et iPad, il est installé 
 
 ### 1.2 **Téléphones et tablettes Android**
 
-Catenda est installé à partir de [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Dans les résultats de recherche, Google Play affiche l'application sous le nom Catenda, et seule la page propre de l'application l'affiche sous le nom Catenda (Accès anticipé).
+Catenda s'installe depuis [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Dans les résultats de recherche, Google Play affiche l'application sous le nom Catenda, et seule la page propre à l'application l'affiche sous le nom Catenda (Early Access).
 
 > **Important :** Sur certains téléphones et tablettes Android, Catenda Site n'apparaît pas dans une recherche Google Play, donc Catenda peut être la seule application Catenda qui s'affiche. Pour installer Catenda Site sur un tel appareil, consultez [Catenda Site - Dépannage](https://support.catenda.com/fr/articles/11926914-catenda-site-depannage#not-available-for-your-device-in-google-play)
 
@@ -20637,7 +20637,7 @@ Pour commencer à utiliser Catenda AI Connect, contactez les ventes de Catenda :
 
 > Une version de Catenda Desktop Connector pour les organisations qui installent des logiciels dans une image de système d'exploitation, qui peut être demandée.
 
-Catenda Desktop Connector planifie les téléchargements et les envois entre Catenda Hub et un ordinateur, et est décrit dans [Catenda Desktop Connector](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop). Une version pour les organisations qui installent des logiciels dans une image de système d'exploitation peut être demandée.
+Le Catenda Desktop Connector planifie les envois et les téléchargements entre Catenda Hub et un ordinateur, et est décrit dans [Catenda Desktop Connector](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop). Une version destinée aux organisations qui installent des logiciels dans une image de système d'exploitation peut être demandée.
 
 ## 1. **Ce qu'il est**
 
@@ -20647,7 +20647,7 @@ C'est la même application que Catenda Desktop Connector standard, packagée pou
 
 Catenda Desktop Connector fonctionne avec des projets dans Catenda Hub. Pour l'utiliser, contactez la vente Catenda pour commencer avec un premier projet : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Remarque :** Plus de contenu est disponible pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche alors plus de contenu pour les clients connectés, en commençant par [Introduction to Catenda Desktop Connector for System Images](https://support.catenda.com/fr/articles/17778688-introduction-au-connecteur-bureau-catenda-pour-images-systeme) _(clients connectés uniquement)_.
+> **Remarque :** Davantage de contenus sont disponibles pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou actualisez une page du Centre d'aide. Le Centre d'aide présente alors davantage de contenus aux clients connectés, à commencer par [Introduction to Catenda Desktop Connector for System Images](https://support.catenda.com/fr/articles/17778688-introduction-au-connecteur-bureau-catenda-pour-images-systeme) _(réservé aux clients connectés)_.
 
 # À propos de Catenda pour Power BI (On Demand)
 
@@ -20663,7 +20663,7 @@ La version suivante est dotée d'un nouveau connecteur qui apporte beaucoup plus
 
 Catenda pour Power BI fonctionne avec des projets dans Catenda Hub. Pour l'utiliser, contactez les ventes de Catenda pour commencer avec un premier projet : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Remarque :** Plus est disponible pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche alors plus aux clients connectés, en commençant par [Introduction to Catenda for Power BI (On Demand)](https://support.catenda.com/fr/articles/17778865-introduction-a-catenda-pour-power-bi-a-la-demande) _(clients connectés uniquement)_.
+> **Remarque :** Des contenus supplémentaires sont disponibles pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou actualisez une page du Centre d'aide. Le Centre d'aide affiche alors davantage de contenus aux clients connectés, à commencer par [Introduction to Catenda for Power BI (On Demand)](https://support.catenda.com/fr/articles/17778865-introduction-a-catenda-pour-power-bi-a-la-demande) _(réservé aux clients connectés)_.
 
 # À propos de l'éditeur de rapport
 
@@ -22622,7 +22622,7 @@ Les données des Sujets peuvent être extraites à l'aide de trois formats princ
 
 **Excel** Exporte les paramètres des Sujets dans un format de feuille de calcul pour le filtrage, le tri et la manipulation de données. Ce format fournit des lignes et des colonnes structurées qui sont idéales pour sélectionner et copier des données, et les fichiers Excel peuvent être facilement prévisualisés dans la plupart des plates-formes d'archivage. À des fins d'archivage, l'export PDF est généralement préféré à Excel car il inclut plus d'informations.
 
-**PDF** Génère un rapport récapitulatif clair et lisible au format PDF standard (v1.4) accessible sans logiciel spécialisé (voir [exporting topics to PDF](https://support.catenda.com/fr/articles/9784934-exporter-des-sujets-en-pdf)). Les exports PDF standard incluent un horodatage de téléchargement consolidé pour les rapports aux autorités officielles et l'archivage, fournissant plus d'informations qu'un export Excel. Bien que l'export de base génère un fichier PDF standard (v1.4), que de nombreux systèmes d'archivage convertissent automatiquement en PDF/A lors du téléchargement pour un aperçu à long terme, les projets avec la [reports page](https://support.catenda.com/fr/articles/12303098-page-rapports) optionnelle activée peuvent également exporter les sujets dans des formats d'archivage, tel que décrit dans [Exporting project data with reports](https://support.catenda.com/fr/articles/17779017-exportation-des-donnees-de-projet-avec-des-rapports) _(clients report editor uniquement)_.
+**PDF** Génère un rapport récapitulatif clair et lisible au format PDF standard (v1.4), accessible sans logiciel spécialisé (voir [exportation des sujets en PDF](https://support.catenda.com/fr/articles/9784934-exporter-des-sujets-en-pdf)). Les exportations PDF standard incluent un horodatage de téléchargement consolidé pour les rapports officiels et l'archivage, offrant davantage d'informations qu'une exportation Excel. Bien que l'exportation de base génère un fichier PDF standard (v1.4) que de nombreux systèmes d'archivage convertissent automatiquement au format PDF/A lors du téléversement pour une prévisualisation à long terme, les projets dont la [page Reports](https://support.catenda.com/fr/articles/12303098-page-rapports) est activée (fonctionnalité optionnelle) peuvent également exporter les sujets dans des formats d'archivage, comme décrit dans [Exportation des données de projet avec Reports](https://support.catenda.com/fr/articles/17779017-exportation-des-donnees-de-projet-avec-des-rapports) _(uniquement pour les clients utilisant l'éditeur de rapports)_.
 
 ### 2.3 **Export des Documents et des collections**
 
@@ -22639,7 +22639,7 @@ Les données des Sujets peuvent être extraites à l'aide de trois formats princ
 
 ### 2.4 **Connecteur de bureau (Sauvegarde locale automatisée)**
 
-Le [Catenda Desktop Connector](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop) permet la synchronisation en arrière-plan pour télécharger périodiquement les nouvelles révisions de Documents directement sur un lecteur local. Contrairement aux exports web par lots, les Documents téléchargés arrivent directement sur votre système en tant que fichiers bruts, décompressés, sans nécessiter l'extraction manuelle d'archives.
+Le [Catenda Desktop Connector](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop) permet une synchronisation en arrière-plan afin de télécharger périodiquement les nouvelles revisions de documents directement sur un disque local. Contrairement aux exportations web par lots, les documents téléchargés arrivent directement sur votre système sous forme de fichiers bruts non compressés, sans nécessiter d'extraction manuelle des archives.
 
 **Sauvegardes planifiées et instantanées** Les tâches peuvent être planifiées pour s'exécuter automatiquement à intervalles réguliers ou exécutées à la demande, garantissant que les Membres du projet conservent une copie locale à jour de Documents même si l'accès au projet est révoqué de manière inattendue.
 
@@ -22676,15 +22676,15 @@ Configurez un compte administratif dédié avec les [paramètres de notification
 
 ### 2.7 **Page Rapports (Fonctionnalité Opt-In)**
 
-La [reports page](https://support.catenda.com/fr/articles/12303098-page-rapports) est une fonctionnalité optionnelle qui peut être demandée pour les projets en cours. Les projets pour lesquels elle est activée peuvent également exporter les données de documents et sujets sous forme de rapports formatés, y compris les formats pour l'archivage à long terme.
+La [page Reports](https://support.catenda.com/fr/articles/12303098-page-rapports) est une fonctionnalité optionnelle qui peut être demandée pour les projets en cours. Les projets qui l'ont activée peuvent également exporter les données de Documents et de Sujets sous forme de rapports formatés, y compris des formats pour l'archivage à long terme.
 
-**Gestion basée sur des modèles** Lorsqu'elle est activée, les administrateurs de projet utilisent la [report templates page](https://support.catenda.com/fr/articles/12380837-page-des-gabarits-de-rapports) pour configurer leurs propres modèles de rapport et générer des exports formatés pour les documents ou sujets sélectionnés.
+**Gestion basée sur des modèles** Lorsqu'elle est activée, les administrateurs de projet utilisent la [page des modèles de rapport](https://support.catenda.com/fr/articles/12380837-page-des-gabarits-de-rapports) pour configurer leurs propres modèles de rapport et générer des exportations formatées pour les Documents ou Sujets sélectionnés.
 
-Ce qui peut être exporté et dans quels formats de fichier est décrit dans [Exporting project data with reports](https://support.catenda.com/fr/articles/17779017-exportation-des-donnees-de-projet-avec-des-rapports) _(clients report editor uniquement)_.
+Ce qui peut être exporté, et dans quels formats de fichiers, est décrit dans [Exportation des données de projet avec Reports](https://support.catenda.com/fr/articles/17779017-exportation-des-donnees-de-projet-avec-des-rapports) _(uniquement pour les clients utilisant l'éditeur de rapports)_.
 
 ## 3. **Export de données Catenda**
 
-Catenda Data Export est vendu séparément de Catenda Hub. Contrairement aux téléchargements ci-dessus, il copie les données du projet automatiquement, directement de Catenda Hub vers le stockage cloud propre d'une organisation sur Amazon S3 ou Azure Blob Storage. C'est approprié pour les organisations qui souhaitent une sauvegarde qui suit leurs projets, ou les dossiers de projet conservés dans leur propre stockage. Ce n'est pas seulement pour les propriétaires de projets. Un propriétaire de projet peut exporter une sauvegarde complète de ses projets, et un participant à un projet peut exporter ce qu'il a accès dans les projets auxquels il participe. Plus d'informations à ce sujet se trouvent dans [About Catenda Data Export](https://support.catenda.com/fr/articles/17779020-a-propos-de-catenda-data-export) _(pour les lecteurs qui ne sont pas connectés)_ et [Introduction to Catenda Data Export](https://support.catenda.com/fr/articles/17779027-introduction-a-catenda-data-export) _(clients connectés uniquement)_. Les clients qui l'ont trouvent la configuration dans [Catenda Data Export](https://support.catenda.com/fr/articles/17779052-export-de-donnees-catenda) _(clients Data Export uniquement)_.
+Catenda Data Export est vendu séparément de Catenda Hub. Contrairement aux téléchargements ci-dessus, il copie automatiquement les données de projet, directement depuis Catenda Hub vers l'espace de stockage cloud propre à une organisation, dans Amazon S3 ou Azure Blob storage. Il convient aux organisations qui souhaitent une sauvegarde qui suit leurs projets, ou des enregistrements de projet conservés dans leur propre stockage. Il ne s'adresse pas uniquement aux propriétaires de projet. Un propriétaire de projet peut exporter une sauvegarde complète de ses projets, et un participant au projet peut exporter les données auxquelles il a accès dans les projets auxquels il participe. Pour en savoir plus, consultez [À propos de Catenda Data Export](https://support.catenda.com/fr/articles/17779020-a-propos-de-catenda-data-export) _(pour les lecteurs non connectés)_ et [Introduction à Catenda Data Export](https://support.catenda.com/fr/articles/17779027-introduction-a-catenda-data-export) _(uniquement pour les clients connectés)_. Les clients qui disposent de ce service trouveront la configuration dans [Catenda Data Export](https://support.catenda.com/fr/articles/17779052-export-de-donnees-catenda) _(uniquement pour les clients Data Export)_.
 
 # FAQ Catenda Desktop Connector
 
@@ -23909,15 +23909,15 @@ Catenda Site est disponible pour iPhone, les téléphones et tablettes Android, 
 
 ### 1.1 **iOS : iPhone et iPod touch**
 
-Sur un iPhone ou iPod touch, Catenda Site est installé depuis l'[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site nécessite iOS 13.4 ou version ultérieure. Le problème d'iPadOS 16 et 17 avec la visionneuse 3D sur iPad décrit ci-dessous n'affecte pas l'iPhone.
+Sur un iPhone ou un iPod touch, Catenda Site s'installe depuis l'[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site nécessite iOS 13.4 ou version ultérieure. Le problème d'iPadOS 16 et 17 avec la Visionneuse 3D sur iPad décrit ci-dessous n'affecte pas l'iPhone.
 
 ### 1.2 **Android : téléphones et tablettes**
 
-Sur un téléphone ou une tablette Android, Catenda Site est installé depuis [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile). Catenda Site nécessite Android 7.0 ou version ultérieure. Si Google Play signale que Catenda Site n'est pas disponible pour votre appareil, cela ne limite pas l'appareil. Comment installer l'application dans ce cas est décrit dans [Catenda Site - Dépannage](https://support.catenda.com/fr/articles/11926914-catenda-site-depannage#not-available-for-your-device-in-google-play).
+Sur un téléphone ou une tablette Android, Catenda Site s'installe depuis [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile). Catenda Site nécessite Android 7.0 ou version ultérieure. Si Google Play indique que Catenda Site n'est pas disponible pour votre appareil, cela ne signifie pas que l'appareil n'est pas pris en charge. La procédure d'installation de l'application dans ce cas est décrite dans [Catenda Site - Troubleshooting](https://support.catenda.com/fr/articles/11926914-catenda-site-depannage#not-available-for-your-device-in-google-play).
 
 ### 1.3 **iPadOS : iPad**
 
-Sur un iPad, Catenda Site est installé depuis l'[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site nécessite iPadOS 13.4 ou version ultérieure. La visionneuse 3D fonctionne sur iPadOS 15 et versions antérieures, ainsi que sur iPadOS 18 et versions ultérieures. Sur iPadOS 16 et 17, un défaut d'iPadOS empêche l'application d'afficher les modèles 3D. Mettez à jour un iPad exécutant l'une de ces versions vers iPadOS 18 si une mise à jour est disponible. Les iPad suivants ne peuvent pas être mis à jour au-delà d'iPadOS 16 ou 17, la visionneuse 3D de Catenda Site ne fonctionne donc pas une fois qu'ils exécutent l'une de ces versions :
+Sur un iPad, Catenda Site s'installe depuis l'[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site nécessite iPadOS 13.4 ou version ultérieure. La Visionneuse 3D fonctionne sur iPadOS 15 et les versions antérieures, ainsi que sur iPadOS 18 et les versions ultérieures. Sur iPadOS 16 et 17, un bogue d'iPadOS empêche l'application d'afficher les models 3D ; mettez donc à jour un iPad fonctionnant avec l'une de ces versions vers iPadOS 18 si une mise à jour est disponible. Les iPad suivants ne peuvent pas être mis à jour au-delà d'iPadOS 16 ou 17, si bien que la Visionneuse 3D de Catenda Site ne fonctionne pas sur ces appareils une fois qu'ils exécutent l'une de ces versions :
 
 - iPad (5e et 6e génération)
 - iPad Pro 9,7 pouces
@@ -23928,7 +23928,7 @@ Sur ces iPad, les modèles peuvent toujours être visualisés dans Catenda Hub d
 
 ### 1.4 **visionOS : Apple Vision**
 
-Sur Apple Vision, Catenda Site est installé depuis l'[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site nécessite visionOS 1.0 ou version ultérieure.
+Sur Apple Vision, Catenda Site s'installe depuis l'[App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site nécessite visionOS 1.0 ou version ultérieure.
 
 ## 2. **Tirer le meilleur parti de la visionneuse 3D**
 
@@ -24608,7 +24608,7 @@ Le projet Catenda restera un projet interne. Cela signifie que nous ne pouvons p
 
 > Catenda Data Export copie les données des projets Catenda Hub vers le stockage cloud propre d'une organisation, automatiquement.
 
-Catenda Hub offre plusieurs façons de télécharger les données de projet, décrites dans [Exporting all project data](https://support.catenda.com/fr/articles/7946690-exporter-toutes-les-donnees-du-projet). Catenda Data Export est celui automatisé : il copie les données de projet directement vers le stockage cloud propre d'une organisation dans Amazon S3 ou Azure Blob storage. Il est vendu séparément de Catenda Hub.
+Catenda Hub propose plusieurs moyens de télécharger les données de projet, décrits dans [Exporter toutes les données de projet](https://support.catenda.com/fr/articles/7946690-exporter-toutes-les-donnees-du-projet). Catenda Data Export est la solution automatisée : elle copie les données de projet directement vers le stockage cloud propre à une organisation, dans Amazon S3 ou Azure Blob Storage. Elle est vendue séparément de Catenda Hub.
 
 ## 1. **Ce qu'il est**
 
@@ -24630,7 +24630,7 @@ Une organisation qui participe à des projets possédés par d'autres peut égal
 
 Pour l'utiliser, contactez les ventes Catenda pour commencer avec un premier projet : [https://catenda.com/get-started](https://catenda.com/get-started) ou [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Remarque :** Plus est disponible pour les clients Catenda. Connectez-vous à Catenda sur [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou rechargez une page du Centre d'aide. Le Centre d'aide affiche ensuite plus d'informations pour les clients connectés, en commençant par [Introduction to Catenda Data Export](https://support.catenda.com/fr/articles/17779027-introduction-a-catenda-data-export) _(clients connectés uniquement)_.
+> **Note :** Davantage de contenus sont disponibles pour les clients Catenda. Connectez-vous à Catenda à l'adresse [https://hub.catenda.com](https://hub.catenda.com), puis ouvrez ou actualisez une page du Centre d'aide. Le Centre d'aide affiche alors davantage de contenus aux clients connectés, à commencer par [Introduction à Catenda Data Export](https://support.catenda.com/fr/articles/17779027-introduction-a-catenda-data-export) _(réservé aux clients connectés)_.
 
 # Affichage en tableau dans la section Documents
 
@@ -25122,7 +25122,7 @@ Grâce à vos précieux commentaires, nous avons pu éliminer de nombreux sujets
 
 ## 3. **Nouvelles versions** - Catenda Site, Plugins et intégrations
 
-_Catenda Site v3.5.2 :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Il n'est plus possible de voir le contenu des sujets qui ont été supprimés sur Catenda Hub. Si vous aviez chargé des marqueurs dans la visionneuse 2D, ceux-ci resteront visibles. La tentative d'ouverture d'un sujet supprimé via la liste de sujets ou le marqueur n'affichera plus le contenu du sujet et déchargera le marqueur de la visionneuse 2D.
+_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Il n'est plus possible de voir le contenu des sujets supprimés sur Catenda Hub. Si vous aviez chargé des marqueurs dans la visionneuse 2D, ceux-ci resteront visibles. Lorsque vous tentez d'ouvrir un sujet supprimé via la liste des sujets ou un marqueur, le contenu du sujet ne s'affichera plus et le marqueur sera retiré de la visionneuse 2D.
 
 # Changelog 9 Catenda - Juin 2025
 
@@ -25829,7 +25829,7 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
 
 ## 1. Articles
 
-_Nouveaux articles :_ Catenda Hub [Bimsync est maintenant Catenda Hub](https://support.catenda.com/fr/articles/7890769-bimsync-est-maintenant-catenda-hub) [Page d'accueil](https://support.catenda.com/fr/articles/8400797-page-projets) [Panneau latéral dans un tableau de problèmes](https://support.catenda.com/fr/articles/6941224-menu-droit-dans-une-liste-de-sujets) [Exportation de toutes les données du projet](https://support.catenda.com/fr/articles/7946690-exporter-toutes-les-donnees-du-projet) [Page des conventions de nommage](https://support.catenda.com/fr/articles/7832559-page-des-conventions-de-nommage) [Convention de nommage la plus simple](https://support.catenda.com/fr/articles/7845360-convention-de-denomination-la-plus-simple) [Convention de nommage intermédiaire](https://support.catenda.com/fr/articles/7936943-convention-de-nommage-intermediaire) [Convention de nommage avancée](https://support.catenda.com/fr/articles/7936947-convention-de-nommage-avancee) Catenda Site [Téléchargez votre application mobile Catenda Site 📲](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site) [Documents - Catenda Site](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site) [Tableau de bord - Catenda Site](https://support.catenda.com/fr/articles/7213817-tableau-de-bord-catenda-site) [Menu de navigation - Catenda Site](https://support.catenda.com/fr/articles/7338516-menu-de-navigation-catenda-site) [Page des projets - Catenda Site](https://support.catenda.com/fr/articles/7733978-page-projets-catenda-site) [Paramètres - Catenda Site](https://support.catenda.com/fr/articles/7733833-parametres-catenda-site) [Page des problèmes - Catenda Site](https://support.catenda.com/fr/articles/7734073-menu-topics-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/fr/articles/7734138-2d-3d-catenda-site) [Mode hors ligne dans Catenda Site](https://support.catenda.com/fr/articles/7325268-mode-hors-ligne-dans-catenda-site) [Visionneuse 3D - Catenda Site](https://support.catenda.com/fr/articles/7744403-visionneuse-3d-catenda-site) [Visionneuse 2D - Catenda Site](https://support.catenda.com/fr/articles/7748370-visionneuse-2d-catenda-site) [Filtre des étiquettes - Catenda Site](https://support.catenda.com/fr/articles/7854138-filtre-d-etiquettes-catenda-site) _Articles qui ont changé :_ [Page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet) [Exigences système et optimisation](https://support.catenda.com/fr/articles/6921941-recommandation-materielle) [Page des modèles](https://support.catenda.com/fr/articles/4670286-page-modeles) [Page du modèle](https://support.catenda.com/fr/articles/4670270-page-de-contenu-du-model)
+_Nouveaux articles :_ Catenda Hub [Bimsync s'appelle désormais Catenda Hub](https://support.catenda.com/fr/articles/7890769-bimsync-est-maintenant-catenda-hub) [Page d'accueil](https://support.catenda.com/fr/articles/8400797-page-projets) [Panneau latéral dans un issue board](https://support.catenda.com/fr/articles/6941224-menu-droit-dans-une-liste-de-sujets) [Exportation de toutes les données du projet](https://support.catenda.com/fr/articles/7946690-exporter-toutes-les-donnees-du-projet) [Page sur les conventions de nommage](https://support.catenda.com/fr/articles/7832559-page-des-conventions-de-nommage) [Convention de nommage la plus simple](https://support.catenda.com/fr/articles/7845360-convention-de-denomination-la-plus-simple) [Convention de nommage moyenne](https://support.catenda.com/fr/articles/7936943-convention-de-nommage-intermediaire) [Convention de nommage avancée](https://support.catenda.com/fr/articles/7936947-convention-de-nommage-avancee) Catenda Site [Téléchargez votre application mobile Catenda Site 📲](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site) [Documents - Catenda Site](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site) [Tableau de bord - Catenda Site](https://support.catenda.com/fr/articles/7213817-tableau-de-bord-catenda-site) [Menu de navigation - Catenda Site](https://support.catenda.com/fr/articles/7338516-menu-de-navigation-catenda-site) [Page Projets - Catenda Site](https://support.catenda.com/fr/articles/7733978-page-projets-catenda-site) [Paramètres - Catenda Site](https://support.catenda.com/fr/articles/7733833-parametres-catenda-site) [Page Issues - Catenda Site](https://support.catenda.com/fr/articles/7734073-menu-topics-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/fr/articles/7734138-2d-3d-catenda-site) [Mode hors ligne dans Catenda Site](https://support.catenda.com/fr/articles/7325268-mode-hors-ligne-dans-catenda-site) [Visionneuse 3D - Catenda Site](https://support.catenda.com/fr/articles/7744403-visionneuse-3d-catenda-site) [Visionneuse 2D - Catenda Site](https://support.catenda.com/fr/articles/7748370-visionneuse-2d-catenda-site) [Filtre des étiquettes - Catenda Site](https://support.catenda.com/fr/articles/7854138-filtre-d-etiquettes-catenda-site) _Articles modifiés :_ [Page Paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet) [Configuration requise et optimisation](https://support.catenda.com/fr/articles/6921941-recommandation-materielle) [Page Models](https://support.catenda.com/fr/articles/4670286-page-modeles) [Page Model](https://support.catenda.com/fr/articles/4670270-page-de-contenu-du-model)
 
 ## 2. Problèmes résolus
 
@@ -25957,7 +25957,7 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 
 ## 3. **Nouvelles versions** - Catenda Site, Plugins et intégrations
 
-_Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Nouvelle version 3.2.0
+_Catenda Site :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Nouvelle version 3.2.0
 
 - Miniatures de liste de problèmes : Les captures de point de vue sont affichées sur la liste des problèmes.
 - Liste de contrôle d'accès pour la fermeture des problèmes : La permission de fermer les problèmes est basée sur le paramètre du projet.
@@ -26238,7 +26238,7 @@ Il est maintenant possible pour les administrateurs de supprimer les signets cr�
 
 ## 4. **Nouvelles versions** - Catenda Site, Plugins et intégrations
 
-**Catenda Hub :** _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+**Catenda Hub :** _Catenda Site v3.4.2 :_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
 **Plugin Tekla v1.1.2 :** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
 
@@ -26320,9 +26320,9 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux Sujets 
 
 ## 4. **Nouvelles versions** - Catenda Site, Plugins et intégrations
 
-_Catenda Site v3.4.2 :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+_Catenda Site v3.4.2 :_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
-**Connecteur Bureau Catenda :** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop)
+**Desktop Connector :** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop)
 
 Navisworks : [Plug-in Navisworks v1.4.0](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks)
 
@@ -26384,7 +26384,7 @@ _Panneau d'information_ [Menu Inspecter](https://support.catenda.com/fr/articles
 
 **Modules et intégrations** [Manuel d'exportation IFC Revit](https://support.catenda.com/fr/articles/4670341-manuel-d-exportation-ifc-revit) [Manuel d'exportation IFC Archicad](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/fr/articles/9930034-journal-des-modifications-de-catenda-site-3-5-0) [Documents menu - Catenda Site](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site) [Aperçu des types de fichiers sur Catenda Site](https://support.catenda.com/fr/articles/8975421-apercu-des-types-de-fichiers-sur-catenda-site)
+**Catenda Site** [Changelog Catenda Site - 3.5.0](https://support.catenda.com/fr/articles/9930034-journal-des-modifications-de-catenda-site-3-5-0) [Menu Documents - Catenda Site](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site) [Prévisualisation des types de fichiers sur Catenda Site](https://support.catenda.com/fr/articles/8975421-apercu-des-types-de-fichiers-sur-catenda-site)
 
 ## 2. **Bogues résolus**
 
@@ -26443,7 +26443,7 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 
 ## 4. **Nouvelles versions** - Site Catenda, Modules et intégrations
 
-_Site Catenda v3.5.1 :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Avec le nouveau flux partagé, seuls les modèles et documents publiés seront visibles.
+_Catenda Site v3.5.1 :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Avec le nouveau workflow partagé, seuls les modèles et documents publiés seront visibles.
 
 # Journal des modifications de Catenda Site - 3.5.0
 
@@ -27355,7 +27355,7 @@ La personne contact de votre licence Catenda peut demander à rejoindre le progr
 
 ### 4.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda) est une nouvelle application mobile pour les téléphones et les tablettes, disponible en accès anticipé pour iPhone et iPad via TestFlight et pour Android sur Google Play. Elle couvre les sujets, les emplacements, les formulaires et les documents, et au fil du temps, elle obtiendra toutes les fonctionnalités de [Catenda Site](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site), et bien d'autres. Les sujets et les documents fonctionnent dans tous les projets dont l'utilisateur est membre. Les formulaires et les emplacements ne peuvent être utilisés que dans les projets où ils ont été activés, et pour le moment, c'est uniquement les projets des clients du programme de co-création.
+[Catenda Mobile](https://support.catenda.com/fr/articles/17601630-telechargez-votre-application-mobile-catenda) est une nouvelle application mobile pour téléphones et tablettes, disponible en accès anticipé pour iPhone et iPad via TestFlight et pour Android sur Google Play. Elle couvre les Sujets, les emplacements, les formulaires et les Documents, et au fil du temps elle intégrera toutes les fonctionnalités de [Catenda Site](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site), et plus encore. Les Sujets et les Documents fonctionnent dans tous les projets dont l'utilisateur est membre. Les formulaires et les emplacements ne peuvent être utilisés que dans les projets où ils ont été activés, et pour le moment il s'agit uniquement des projets des clients du programme de co-création.
 
 L'application n'est pas définitive et peut encore changer considérablement. Catenda Site peut toujours être utilisée aux côtés de celle-ci, et reste l'application à utiliser lorsqu'une fonctionnalité est nécessaire qui ne figure pas encore dans Catenda Mobile.
 
@@ -28285,7 +28285,7 @@ Si vous avez besoin d'aide pour comprendre le fonctionnement des fonctionnalité
 
 ### 1.2 **Pour les problèmes techniques et fonctionnels**
 
-Si des messages d'erreur spécifiques sont rencontrés dans l'interface Solibri, si le connecteur ne répond pas comme prévu, ou si une modification du fonctionnement du connecteur est souhaitée, veuillez contacter **[Solibri Support](https://www.solibri.com/support)** directement. En tant que développeurs et propriétaires du connecteur, ils sont les seuls à pouvoir modifier le code sous-jacent, ajuster les règles de validation internes, ou dépanner les bogues spécifiques au logiciel.
+Si des messages d'erreur spécifiques apparaissent dans l'interface de Solibri, si le connecteur ne répond pas comme prévu, ou si vous souhaitez modifier le fonctionnement du connecteur, veuillez contacter directement **[Solibri Support](https://www.solibri.com/support)**. En tant que développeurs et propriétaires du connecteur, ils sont les seuls à pouvoir modifier le code sous-jacent, ajuster les règles de validation internes ou résoudre les bogues propres au logiciel.
 
 ## 2. **Modèle dupliqué**
 

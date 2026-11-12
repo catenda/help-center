@@ -74,7 +74,7 @@ Nach dem Klicken wird ein Dateinavigator geöffnet, und Sie können auswählen, 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Hinweis:** Wenn Sie einen Ordner ziehen und ablegen, wird dieser als ZIP-Datei veröffentlicht. Wenn Sie eine Ordnerstruktur hochladen möchten, müssen Sie diese von SharePoint herunterladen und über den [ZIP-Upload](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) oder den [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochladen.
+> **Hinweis:** Wenn Sie einen Ordner per Drag-and-drop ziehen, wird er als ZIP-Datei hochgeladen. Wenn Sie eine Ordnerstruktur hochladen möchten, müssen Sie diese zuerst von SharePoint herunterladen und dann entweder über den [ZIP-Upload](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) oder den [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochladen.
 
 ### 4.3 **Neu laden**
 

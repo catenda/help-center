@@ -4,7 +4,7 @@
 
 Catenda notification 設定で Microsoft チームワークフローを設定することにより、Catenda アカウントから Microsoft チームチャネルに直接リアルタイム通知を受け取ります。_必要なアクセス権限:_ チャネル作成および Microsoft チームワークフロー管理権限を持つ **Microsoft チーム** アカウント。
 
-Microsoft チーム通知タブは、[account notification settings ページ](https://support.catenda.com/ja/articles/8272435-アカウント通知設定)の上部近くに見つかります。このページは[account notifications page](https://support.catenda.com/ja/articles/7439223-アカウント通知ページ)のサブページです。
+Microsoft Teams の通知タブは、[アカウント通知設定ページ](https://support.catenda.com/ja/articles/8272435-アカウント通知設定)の上部にあり、これは[アカウント通知ページ](https://support.catenda.com/ja/articles/7439223-アカウント通知ページ)のサブページです:
 
 ![Catenda Hub 通知設定 Microsoft チーム通知 独自のチーム設定を持つプロジェクト](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
 

@@ -56,7 +56,7 @@ I denne menyen kan bare enkeltdokumenter lastes opp. For å laste opp en mappe, 
 
 ## 3. **Desktop-tilkobling**
 
-Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan de siste versjonene av dokumenter automatisk, med jevne mellomrom, lastes opp fra et lokalt system til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil ved å laste opp dokumenter fil-for-fil i stedet for i en stor dra og slip- eller zip-opplastingsbatch.
+Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan de nyeste versjonene av dokumenter automatisk og med jevne mellomrom lastes opp fra et lokalt system til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil, ettersom den laster opp dokumenter fil for fil i stedet for i én stor dra-og-slipp- eller zip-opplasting.
 
 ## 4. **Dokumentforhåndsvisning**
 

@@ -43,7 +43,7 @@ conda create -n pdal-env -c conda-forge pdal python=3.10
 Dies tut drei Dinge:
 
 - Erstellen Sie eine Umgebung namens `pdal-env`
-- Installieren Sie PDAL aus dem **[conda-forge](https://anaconda.org/conda-forge/pdal)** Repository (neueste Version)
+- Installiere PDAL aus dem Repository **[conda-forge](https://anaconda.org/conda-forge/pdal)** (neueste Version)
 - Installieren von Python (nützlich, wenn Sie PDAL auch in Ihren Python-Skripten verwenden möchten)
 
 ### 2.3 Aktivieren Sie die PDAL-Umgebung

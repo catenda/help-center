@@ -36,11 +36,11 @@ _[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-�
 
 **モデル** [3Dビューア](https://support.catenda.com/ja/articles/8227211-3dビューア) [2Dビューア](https://support.catenda.com/ja/articles/4854537-2dビューア) [クエリ](https://support.catenda.com/ja/articles/4854514-クエリ)
 
-**情報パネル** [Information panel](https://support.catenda.com/ja/articles/8238584-情報パネル)
+**情報パネル** [情報パネル](https://support.catenda.com/ja/articles/8238584-情報パネル)
 
 **設定** [ラベルページ](https://support.catenda.com/ja/articles/4670265-ラベルページ) [チームを作成する](https://support.catenda.com/ja/articles/4670264-チームの作成)
 
-**プラグインおよび統合** [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) [Power BI統合](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ) [IFC Archicadマニュアル](https://support.catenda.com/ja/articles/4670338-ifcエクスポート-archicadマニュアル) [Archicadプラグイン](https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン) [Solibriドキュメント統合としてのモデル](https://support.catenda.com/ja/articles/6988148-solibriモデルとドキュメント統合)
+**プラグインとインテグレーション** [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) [Power BI インテグレーション](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ) [IFC Archicad マニュアル](https://support.catenda.com/ja/articles/4670338-ifcエクスポート-archicadマニュアル) [Archicad プラグイン](https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン) [Solibri Models as Documents インテグレーション](https://support.catenda.com/ja/articles/6988148-solibriモデルとドキュメント統合)
 
 **Catenda Site** [モバイルアプリCatenda Siteをダウンロード](https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード)
 
@@ -107,7 +107,7 @@ _[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-�
 
 ## 4. **新規リリース** - Catenda Site、プラグインおよび統合
 
-**Catenda Hub:** _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+**Catenda Hub:** _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
 **Teklaプラグイン v1.1.2:** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
 

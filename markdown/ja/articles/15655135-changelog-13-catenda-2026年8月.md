@@ -22,7 +22,7 @@
 - [アクセス制御展開のユースケース](https://support.catenda.com/ja/articles/15644249-アクセス制御デプロイメントのユースケース)
 - [ドキュメントライブラリアイテムに対する操作](https://support.catenda.com/ja/articles/15647394-ドキュメントライブラリアイテムの操作)
 - [新しいModel Exportの作成](https://support.catenda.com/ja/articles/15481038-新しいモデルエクスポートの作成)
-- [Model Export Content Page](https://support.catenda.com/ja/articles/15480883-モデルエクスポートコンテンツページ)
+- [model エクスポート コンテンツページ](https://support.catenda.com/ja/articles/15480883-モデルエクスポートコンテンツページ)
 
 **ユースケース**
 
@@ -49,7 +49,7 @@
 - [トピック本文 - トピックの内容](https://support.catenda.com/ja/articles/8053352-トピック本体-トピックのコンテンツ)
 - [フォルダとドキュメントのアクセス制御](https://support.catenda.com/ja/articles/4670287-フォルダとドキュメントのアクセス権設定)
 - [ドキュメントプレビューツール](https://support.catenda.com/ja/articles/11384618-ドキュメントプレビューツール)
-- [Model Export Page](https://support.catenda.com/ja/articles/4670280-モデルエクスポートページ)
+- [model エクスポートページ](https://support.catenda.com/ja/articles/4670280-モデルエクスポートページ)
 - [トピックリストのアクセス制御](https://support.catenda.com/ja/articles/4670296-トピックリストのアクセス制御)
 - [カスタムフィールド内容ページ](https://support.catenda.com/ja/articles/8445588-カスタムフィールドコンテンツページ)
 - [スライディングプレーンへの測定](https://support.catenda.com/ja/articles/4670298-スライディング平面への測定)

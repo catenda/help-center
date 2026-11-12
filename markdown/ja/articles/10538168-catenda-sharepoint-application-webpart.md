@@ -74,7 +74,7 @@ Webpartの左上に、以下のアクションがあります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **注:** フォルダをドラッグアンドドロップすると、zipファイルとして公開されます。フォルダ構造をアップロードする場合は、SharePointからダウンロードして、[zipアップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)経由でCatendaにアップロードする必要があります。
+> **注:** フォルダーをドラッグ&ドロップすると、zip ファイルとして SharePoint に公開されます。フォルダー構造をアップロードする場合は、SharePoint からダウンロードし、[zip アップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード) または [Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) を使用して Catenda にアップロードしてください。
 
 ### 4.3 **再読み込み**
 

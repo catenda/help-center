@@ -8,7 +8,7 @@ Catenda SharePoint アプリケーションが SharePoint サイトに追加さ�
 
 リストコマンドを使用すると、1つ以上のファイルをCatendaに公開できます。
 
-> **注:** ファイルのみ公開可能です。フォルダ構造はSharePointからダウンロードして、[zip アップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)経由でCatendaにアップロードできます。
+> **注:** ファイルのみ公開できます。フォルダー構造はSharePointからダウンロードし、[zipアップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)を使用してCatendaにアップロードできます。
 
 ### 1.1 **リストコマンドの検索**
 

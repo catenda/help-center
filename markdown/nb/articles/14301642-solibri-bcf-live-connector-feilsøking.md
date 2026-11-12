@@ -12,7 +12,7 @@ Hvis du trenger hjelp til å forstå hvordan funksjoner fungerer innen integreri
 
 ### 1.2 **For tekniske og funksjonelle problemer**
 
-Hvis du møter spesifikke feilmeldinger i Solibri-grensesnittet, hvis koblingen ikke svarer som forventet, eller hvis du ønsker en endring i hvordan koblingen fungerer, kontakt **[Solibri Support](https://www.solibri.com/support)** direkte. Som utviklere og eiere av koblingen er de de eneste som kan endre den underliggende koden, justere interne valideringsregler eller feilsøke programvarespecifikke feil.
+Hvis det oppstår spesifikke feilmeldinger i Solibri-grensesnittet, hvis konnektoren ikke reagerer som forventet, eller hvis det ønskes en endring i hvordan konnektoren fungerer, må du kontakte **[Solibri Support](https://www.solibri.com/support)** direkte. Som utviklere og eiere av konnektoren er de de eneste som kan endre den underliggende koden, justere interne valideringsregler eller feilsøke programvarespesifikke feil.
 
 ## 2. **Dupliseringsmodell**
 

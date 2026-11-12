@@ -12,15 +12,15 @@ Catenda Site is beschikbaar voor iPhone, Android-telefoons en -tablets, iPad, iP
 
 ### 1.1 **iOS: iPhone en iPod touch**
 
-Op een iPhone of iPod touch wordt Catenda Site geïnstalleerd vanuit de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist iOS 13.4 of later. Het iPadOS 16 en 17-probleem met de 3D Viewer op iPad dat hieronder wordt beschreven, is niet van toepassing op iPhone.
+Op een iPhone of iPod touch wordt Catenda Site geïnstalleerd via de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist iOS 13.4 of later. Het probleem met de 3D-viewer op iPadOS 16 en 17, hieronder beschreven, heeft geen invloed op iPhone.
 
 ### 1.2 **Android: telefoons en tablets**
 
-Op een Android-telefoon of -tablet wordt Catenda Site geïnstalleerd vanuit [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile). Catenda Site vereist Android 7.0 of later. Als Google Play meldt dat Catenda Site niet beschikbaar is voor uw apparaat, is dit geen beperking van het apparaat. Hoe u de app in dat geval installeert, wordt beschreven in [Catenda Site - Troubleshooting](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
+Op een Android-telefoon of -tablet wordt Catenda Site geïnstalleerd via [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile). Catenda Site vereist Android 7.0 of later. Als Google Play meldt dat Catenda Site niet beschikbaar is voor jouw apparaat, betekent dit niet dat het apparaat niet wordt ondersteund. Hoe je de app in dat geval installeert, staat beschreven in [Catenda Site - Troubleshooting](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
 
 ### 1.3 **iPadOS: iPad**
 
-Op een iPad wordt Catenda Site geïnstalleerd vanuit de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist iPadOS 13.4 of later. De 3D Viewer werkt op iPadOS 15 en eerder, en op iPadOS 18 en later. Op iPadOS 16 en 17 voorkomt een fout in iPadOS dat de app 3D-modellen weergeeft, dus werk een iPad met een van deze versies bij naar iPadOS 18 als een update beschikbaar is. De volgende iPads kunnen niet verder worden bijgewerkt dan iPadOS 16 of 17, dus de 3D Viewer in Catenda Site werkt niet op deze apparaten zodra zij een van deze versies uitvoeren:
+Op een iPad wordt Catenda Site geïnstalleerd via de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist iPadOS 13.4 of later. De 3D-viewer werkt op iPadOS 15 en eerder, en op iPadOS 18 en later. Op iPadOS 16 en 17 zorgt een fout in iPadOS ervoor dat de app geen 3D-modellen kan weergeven. Werk een iPad met een van deze versies daarom bij naar iPadOS 18 als er een update beschikbaar is. De volgende iPads kunnen niet verder worden bijgewerkt dan iPadOS 16 of 17, waardoor de 3D-viewer in Catenda Site op deze apparaten niet werkt zodra ze een van deze versies draaien:
 
 - iPad (5e en 6e generatie)
 - iPad Pro 9,7-inch
@@ -31,7 +31,7 @@ Op deze iPads kunnen modellen nog steeds worden bekeken in Catenda Hub in Safari
 
 ### 1.4 **visionOS: Apple Vision**
 
-Op Apple Vision wordt Catenda Site geïnstalleerd vanuit de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist visionOS 1.0 of later.
+Op Apple Vision wordt Catenda Site geïnstalleerd via de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist visionOS 1.0 of later.
 
 ## 2. **Het meeste uit de 3D Viewer halen**
 

@@ -2,11 +2,11 @@
 
 ## 1. Artikler
 
-_Nye artikler:_
+**Nye artikler:**
 
 [Systemkrav og optimalisering](https://intercom.help/bimsync-arena/nb/articles/6921941-maskinvareanbefalinger)
 
-[Solibri Models and Documents Integration](https://intercom.help/bimsync-arena/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
+[Integrasjon av Solibri-modeller og Dokumenter](https://intercom.help/bimsync-arena/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
 
 [2D-overlegg](https://intercom.help/bimsync-arena/nb/articles/6921756-storey-configurator-side)
 
@@ -19,7 +19,7 @@ _Nye artikler:_
 
 [Listevisning i issue board](https://support.catenda.com/nb/articles/6941232-listevisning-i-en-saksliste)
 
-_Artikler som har endret seg:_
+**Artikler som har endret seg:**
 
 [3D Viser-innstillinger](https://intercom.help/bimsync-arena/nb/articles/5784718-3d-viser-innstillinger)
 

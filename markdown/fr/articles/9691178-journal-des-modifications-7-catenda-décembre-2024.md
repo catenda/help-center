@@ -56,7 +56,7 @@ _Panneau d'information_ [Menu Inspecter](https://support.catenda.com/fr/articles
 
 **Modules et intégrations** [Manuel d'exportation IFC Revit](https://support.catenda.com/fr/articles/4670341-manuel-d-exportation-ifc-revit) [Manuel d'exportation IFC Archicad](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/fr/articles/9930034-journal-des-modifications-de-catenda-site-3-5-0) [Documents menu - Catenda Site](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site) [Aperçu des types de fichiers sur Catenda Site](https://support.catenda.com/fr/articles/8975421-apercu-des-types-de-fichiers-sur-catenda-site)
+**Catenda Site** [Changelog Catenda Site - 3.5.0](https://support.catenda.com/fr/articles/9930034-journal-des-modifications-de-catenda-site-3-5-0) [Menu Documents - Catenda Site](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site) [Prévisualisation des types de fichiers sur Catenda Site](https://support.catenda.com/fr/articles/8975421-apercu-des-types-de-fichiers-sur-catenda-site)
 
 ## 2. **Bogues résolus**
 
@@ -115,4 +115,4 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 
 ## 4. **Nouvelles versions** - Site Catenda, Modules et intégrations
 
-_Site Catenda v3.5.1 :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Avec le nouveau flux partagé, seuls les modèles et documents publiés seront visibles.
+_Catenda Site v3.5.1 :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Avec le nouveau workflow partagé, seuls les modèles et documents publiés seront visibles.

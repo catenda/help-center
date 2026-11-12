@@ -1,5 +1,5 @@
 # SharePoint Bibliotheek - Korte video
 
-[YouTube video](https://www.youtube.com/embed/J86W3Am70Nc?rel=0)
+[YouTube-video](https://www.youtube.com/embed/J86W3Am70Nc?rel=0)
 
 Klik [hier](https://support.catenda.com/nl/articles/5744548-sharepoint-bibliotheek) om meer informatie over de SharePoint Bibliotheek te lezen.

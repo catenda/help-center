@@ -10,7 +10,7 @@ Naarmate nieuwe functies worden uitgerold en fouten worden opgelost, worden arti
 
 ### 1.1 **Nieuwe artikelen:**
 
-**Aan de slag en Veelgestelde vragen** [Catenda SharePoint FAQ](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-veelgestelde-vragen) [Revisies in naamconventie](https://support.catenda.com/nl/articles/9496151-revisies-in-naamgevingsafspraak) [Aangepaste velden op Documenten](https://support.catenda.com/nl/articles/9531080-aangepaste-velden-op-documenten) [Overnemen van een ander lid](https://support.catenda.com/nl/articles/9520447-overnemen-voor-een-ander-lid)
+**Aan de slag en FAQ** [Catenda SharePoint FAQ](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-veelgestelde-vragen) [Revisies in naamgevingsconventie](https://support.catenda.com/nl/articles/9496151-revisies-in-naamgevingsafspraak) [Aangepaste velden op documenten](https://support.catenda.com/nl/articles/9531080-aangepaste-velden-op-documenten) [Overnemen van een ander lid](https://support.catenda.com/nl/articles/9520447-overnemen-voor-een-ander-lid)
 
 **Modellen** [Acties op de modellapagina](https://support.catenda.com/nl/articles/9431936-acties-op-de-pagina-modellen) [Rechtermenu op de modellapagina](https://support.catenda.com/nl/articles/9673735-rechtermenu-op-de-modellenpagina) [Acties op de overzichtspagina van het model](https://support.catenda.com/nl/articles/9674157-acties-op-pagina-met-modelinhoud)
 
@@ -81,6 +81,6 @@ Dankzij jullie waardevolle feedback hebben we veel Topics kunnen aanpakken die j
 
 _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
-**Bureaublad-connector:** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector)
+**Desktop Connector:** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector)
 
 Navisworks: [Navisworks-plugin v1.4.0](https://support.catenda.com/nl/articles/5085987-catenda-navisworks-plugin)

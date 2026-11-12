@@ -146,7 +146,7 @@ _Weitere Informationen:_ [Listenansicht](https://support.catenda.com/de/articles
 - Lokalisieren Sie Clash-Objekte in Revit
 - Erstellen Sie BCF-Themen (2D und 3D) in Revit
 
-_Weitere Informationen:_ [Catenda Connections](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen), [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
+_Weiterführende Informationen:_ [Catenda Connections](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen), [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
 
 > **Hinweis:** Finden Sie [den ersten Schritt](https://support.catenda.com/de/articles/9030303-schritt-1-kontoeinrichtung) unter [Erste Schritte](https://support.catenda.com/de/collections/2657208-erste-schritte) im Hilfecenter oder im Hilfemenü.
 
@@ -1550,7 +1550,7 @@ Sie können dieses Menü schließen, indem Sie auf den dunklen Bereich außerhal
 1. _[Projektseite](https://support.catenda.com/de/articles/7733978-projektseite-catenda-site)_ - Hier können Sie zwischen Projekten wechseln
 2. _[Dashboard](https://support.catenda.com/de/articles/7213817-dashboard-catenda-site)_ - Projekt-Dashboard.
 3. _[Probleme](https://support.catenda.com/de/articles/7734073-themen-menu-catenda-site)_ - das zuletzt geöffnete issue board
-4. _[2D / 3D](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site)_ - Der [2D Viewer](https://support.catenda.com/de/articles/7748370-2d-viewer-catenda-site) und der [3D Viewer](https://support.catenda.com/de/articles/7744403-3d-viewer-catenda-site)
+4. _[2D / 3D](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site)_ - Der [2D-Viewer](https://support.catenda.com/de/articles/7748370-2d-viewer-catenda-site) und der [3D-Viewer](https://support.catenda.com/de/articles/7744403-3d-viewer-catenda-site)
 5. [Dokumente](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) - Der Bereich Dokumente
 6. _[Einstellungen](https://support.catenda.com/de/articles/7733833-einstellungen-catenda-site)_ - Die Seite Einstellungen
 
@@ -1744,11 +1744,11 @@ Enterprise-Kunden können die Erzwingung von MFA für Benutzer anfordern, die an
 
 ### 5.2 **Interne SSO-Benutzer benötigen kein MFA**
 
-Enterprise-Kunden können anfordern, [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) einzurichten. Es fallen Gebühren an, da es unsere Entwickler Zeit kostet, die Konfiguration einzurichten.
+Unternehmenskunden können die Einrichtung von [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) anfordern. Dafür fällt eine Gebühr an, da unsere Entwickler einige Zeit für die Einrichtung der Konfiguration benötigen.
 
 _Was macht diese Regel?_ Standardmäßig werden Benutzer, die sich mit SSO anmelden, und Benutzer, die sich normal anmelden, gleich behandelt. Wenn MFA für eine Organisation erzwungen wird, müssen sowohl normale Benutzer als auch SSO-Benutzer den MFA-Code eingeben, um sich anzumelden und auf das Projekt zuzugreifen. Wenn diese Option für eine Organisation aktiviert ist, müssen SSO-Benutzer MFA nicht verwenden, um auf das Projekt zuzugreifen. Normale Benutzer müssten immer noch den MFA-Code eingeben, während SSO-Benutzer sich ohne Verwendung des Codes anmelden könnten.
 
-_Was ist SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) ermöglicht es dem Benutzer, sich einmal anzumelden und auf Dienste zuzugreifen, ohne Authentifizierungsfaktoren erneut eingeben zu müssen. Mit dieser Option können Sie sicherstellen, dass Benutzer Ihrer Organisation MFA nicht einrichten müssen. Benutzer aus verschiedenen Organisationen, die Teil Ihrer Organisationsprojekte sind, müssen weiterhin MFA aktiviert haben, wenn die obige Option aktiviert ist.
+_Was ist SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) ermöglicht es Benutzern, sich einmal anzumelden und auf Dienste zuzugreifen, ohne Authentifizierungsfaktoren erneut eingeben zu müssen. Mit dieser Option können Sie festlegen, dass Benutzer Ihrer Organisation kein MFA einrichten müssen. Benutzer aus anderen Organisationen, die Teil Ihrer Organisationsprojekte sind, benötigen weiterhin MFA, wenn die oben genannte Option aktiviert ist.
 
 _SSO einrichten:_ Es ist möglich, SSO mit einem beliebigen SSO-Anbieter einzurichten, da es sich um einen standardisierten Prozess handelt. Bitte finden Sie unten einige der häufigsten SSO-Anbieter:
 
@@ -4035,7 +4035,7 @@ Um das Gebäude zu speichern, klicken Sie am unteren Rand der Seite auf "Konfigu
 
 > **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen).
 
-Die Aktionen [Catenda Revit Plugin](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin) finden Sie oben rechts im Plugin-Fenster in der Revit-Anwendung.
+Die Aktionen [Catenda Revit Plugin](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin) befinden sich oben rechts im Plugin-Fenster innerhalb der Revit-Anwendung.
 
 So kann das Aktionsmenü aussehen:
 
@@ -4254,7 +4254,7 @@ _Bearbeitung oder Löschung verhindern_ Erstellen Sie einen PDF-Export eines The
 
 Die Catenda SharePoint-Anwendung kann von einem Systemadministrator für eine SharePoint-Umgebung aktiviert und dann von einem Websitebesitzer zu einer Website hinzugefügt werden. Mit dieser App können SharePoint-Benutzer Dokumente in Catenda zusammen mit anderen Mitgliedern des Bauprojekts anzeigen, verwalten und daran zusammenarbeiten.
 
-Um die App für Ihre Umgebung zu aktivieren, finden Sie den entsprechenden Eintrag hier: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), der etwa so aussehen kann:
+Um die App für Ihre Umgebung zu aktivieren, finden Sie ihren Eintrag hier: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), der etwa so aussehen kann:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 
@@ -4458,15 +4458,15 @@ So kann das Topic aussehen, wenn Sie mehrere Markups in demselben Topic speicher
 
 ### **Clipping im Modell aus 2D**
 
-Beginnen Sie, indem Sie Ihren 2D-Plan wie gewünscht ausrichten, indem Sie das [Rotate tool](https://support.catenda.com/de/articles/4854537-2d-viewer#h_c70412a63f) verwenden. Wählen Sie als nächstes [Section: Create clipping planes](https://support.catenda.com/de/articles/4854537-2d-viewer#h_2265eef562) und ziehen Sie ein Rechteck, um die vertikalen Clipping-Ebenen anzugeben. Wählen Sie die Höhe der aktuellen Ebene/des aktuellen Geschosses oder die volle Höhe. Klicken Sie auf Clip region.
+Richten Sie Ihren 2D-Plan zunächst wie gewünscht aus, indem Sie das [Rotate-Werkzeug](https://support.catenda.com/de/articles/4854537-2d-viewer#h_c70412a63f) verwenden. Wählen Sie anschließend [Section: Create clipping planes](https://support.catenda.com/de/articles/4854537-2d-viewer#h_2265eef562) und ziehen Sie ein Rechteck, um die vertikalen Schnittebenen festzulegen. Wählen Sie die Höhe des aktuellen Geschosses bzw. Stockwerks oder die volle Höhe. Klicken Sie auf „Clip region“.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xyh08ptx/01-clipping-in-the-model-from-2d.png)
 
-Sie können nun [move the clipping planes](https://support.catenda.com/de/articles/4670253-schnittebenen#moving-the-clipping-plane) normal verschieben, indem Sie die relevante Ebene im Clipping-Widget (unten links) auswählen oder "Shift" drücken und auf die Ebene im Viewer klicken. Ebenen können [removed](https://support.catenda.com/de/articles/4670253-schnittebenen#remove-clipping-planes) einzeln entfernt werden, indem Sie eine Ebene auswählen und "Del" drücken, oder alle auf einmal, indem Sie im 3D-Viewer mit der rechten Maustaste klicken und "Remove clipping planes" auswählen
+Sie können nun die [Clipping-Ebenen verschieben](https://support.catenda.com/de/articles/4670253-schnittebenen#moving-the-clipping-plane) wie gewohnt, indem Sie die entsprechende Ebene im Clipping-Widget (unten links) auswählen oder indem Sie „Umschalt“ gedrückt halten und auf die Ebene im Viewer klicken. Ebenen können [einzeln entfernt](https://support.catenda.com/de/articles/4670253-schnittebenen#remove-clipping-planes) werden, indem Sie eine Ebene auswählen und „Entf“ drücken, oder alle auf einmal, indem Sie mit der rechten Maustaste irgendwo im 3D-Viewer klicken und „Clipping-Ebenen entfernen“ auswählen
 
 ### **Auswahl von Objekten aus 2D**
 
-[Section: Select objects](https://support.catenda.com/de/articles/4854537-2d-viewer#h_9ba868389c) funktioniert auf ähnliche Weise und wählt alles aus, das von der "virtuellen Box" berührt wird, die durch das Auswahlrechteck und die Höhe definiert ist. Um zur normalen Auswahl in 2D zurückzukehren, klicken Sie auf [Select](https://support.catenda.com/de/articles/4854537-2d-viewer#h_6e9b382c42).
+[Section: Select objects](https://support.catenda.com/de/articles/4854537-2d-viewer#h_9ba868389c) funktioniert ähnlich und wählt alle Objekte aus, die vom „virtuellen Quader“ berührt werden, der durch das Auswahlrechteck und die Höhe definiert wird. Um zur normalen Auswahl in 2D zurückzukehren, klicken Sie auf [Select](https://support.catenda.com/de/articles/4854537-2d-viewer#h_6e9b382c42).
 
 # BCF-Arbeitsablauf mit Markup-Tool in Archicad
 
@@ -4592,7 +4592,7 @@ Die in Revit erstellte BCF wurde zu Bimsync hinzugefügt. Dieser Workflow funkti
 
 > Wie sich der Catenda-Connector für Power BI bei Catenda anmeldet und was zu tun ist, wenn die Anmeldung fehlschlägt oder abläuft.
 
-Der Catenda-Connector für Power BI meldet sich bei Catenda mit dem eigenen Catenda-Konto des Benutzers an. Dies funktioniert auf die gleiche Weise im veröffentlichten [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) und im [Catenda Power BI Connector (On Demand)](https://support.catenda.com/de/articles/17778871-catenda-power-bi-connector-on-demand).
+Der Catenda-Connector für Power BI meldet sich mit dem eigenen Catenda-Konto des Benutzers bei Catenda an. Dies funktioniert auf die gleiche Weise im veröffentlichten [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) und im [Catenda Power BI Connector (On Demand)](https://support.catenda.com/de/articles/17778871-catenda-power-bi-connector-on-demand).
 
 ## 1. **Erstmalige Anmeldung**
 
@@ -6069,7 +6069,7 @@ Nach dem Klicken wird ein Dateinavigator geöffnet, und Sie können auswählen, 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Hinweis:** Wenn Sie einen Ordner ziehen und ablegen, wird dieser als ZIP-Datei veröffentlicht. Wenn Sie eine Ordnerstruktur hochladen möchten, müssen Sie diese von SharePoint herunterladen und über den [ZIP-Upload](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) oder den [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochladen.
+> **Hinweis:** Wenn Sie einen Ordner per Drag-and-drop ziehen, wird er als ZIP-Datei hochgeladen. Wenn Sie eine Ordnerstruktur hochladen möchten, müssen Sie diese zuerst von SharePoint herunterladen und dann entweder über den [ZIP-Upload](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) oder den [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochladen.
 
 ### 4.3 **Neu laden**
 
@@ -6125,7 +6125,7 @@ Wenn die Catenda SharePoint-Anwendung zu einer SharePoint-Website hinzugefügt w
 
 Mit dem List-Befehl können Sie eine oder mehrere Dateien in Catenda veröffentlichen.
 
-> **Hinweis:** Es ist nur möglich, Dateien zu veröffentlichen. Ordnerstrukturen können von SharePoint heruntergeladen und über [ZIP-Upload](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) oder [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochgeladen werden.
+> **Hinweis:** Es können nur Dateien veröffentlicht werden. Ordnerstrukturen können aus SharePoint heruntergeladen und über [zip upload](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) oder [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochgeladen werden.
 
 ### 1.1 **Suchen des List-Befehls**
 
@@ -7807,7 +7807,7 @@ In diesem Menü können nur einzelne Dokumente hochgeladen werden. Um einen Ordn
 
 ## 3. **Desktop Connector**
 
-Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können die neuesten Versionen von Dokumenten automatisch und regelmäßig von einem lokalen System zu Catenda Hub hochgeladen werden. Der Desktop Connector ist schneller als der reguläre Upload-Prozess und minimiert das Fehlerrisiko, da er Dokumente dateiweise statt in einem großen Drag-and-Drop- oder ZIP-Upload-Batch hochlädt.
+Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können die neuesten Versionen von Dokumenten automatisch und periodisch von einem lokalen System in Catenda Hub hochgeladen werden. Der Desktop Connector ist sowohl schneller als der reguläre Upload-Prozess als auch risikoärmer, da er Dokumente Datei für Datei statt in einem großen Drag-and-Drop- oder Zip-Upload-Stapel hochlädt.
 
 ## 4. **Dokumentvorschau**
 
@@ -8519,7 +8519,7 @@ Wie zu sehen ist, werden im 2D-Viewer nur Wände angezeigt, die 1 Meter und dar�
 
 ### 1.2 **Türöffnungen**
 
-Türöffnungen werden in der IFC-Datei angegeben. Sie können sehen, wie dies in den folgenden BuildingSMART-Artikeln funktioniert: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Wenn keine Türöffnung angegeben ist, öffnet sich die Tür nach rechts.
+Die Türöffnungsrichtung wird in der IFC-Datei angegeben. Wie das funktioniert, zeigen die folgenden BuildingSMART-Artikel: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Wenn keine Türöffnungsrichtung angegeben ist, öffnet sich die Tür nach rechts.
 
 ## 2. **Zeichnung als Untergrund**
 
@@ -11614,7 +11614,7 @@ conda create -n pdal-env -c conda-forge pdal python=3.10
 Dies tut drei Dinge:
 
 - Erstellen Sie eine Umgebung namens `pdal-env`
-- Installieren Sie PDAL aus dem **[conda-forge](https://anaconda.org/conda-forge/pdal)** Repository (neueste Version)
+- Installiere PDAL aus dem Repository **[conda-forge](https://anaconda.org/conda-forge/pdal)** (neueste Version)
 - Installieren von Python (nützlich, wenn Sie PDAL auch in Ihren Python-Skripten verwenden möchten)
 
 ### 2.3 Aktivieren Sie die PDAL-Umgebung
@@ -12852,7 +12852,7 @@ Als Unterseiten zur Modellseite finden Sie die folgenden Seiten:
 
 - [Lesezeichen](https://support.catenda.com/de/articles/4670281-lesezeichen-seite)
 - [Objekte](https://support.catenda.com/de/articles/12352750-objektseite)
-- [Storey Configurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite)
+- [Geschosskonfigurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite)
 
 # Neue Dokumentenrevision hochladen
 
@@ -13840,7 +13840,7 @@ PC kann wie jedes andere Dokument im Dokumentbereich hochgeladen werden. Für di
 
 ### 1.1 **Hochladen von PC-Daten**
 
-Es wird empfohlen, den [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) zu verwenden oder Ihre PC-Datei in einen gezippten Ordner zu komprimieren und den [zip-Import](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) zum Hochladen Ihrer PC zu verwenden. Diese Methoden sparen Ihnen Zeit, da die Uploaddateigröße kleiner wird und das Risiko eines Netzwerkfehlers minimiert wird, da die Datei schneller hochgeladen wird
+Es wird empfohlen, den [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) zu verwenden oder Ihre PC-Datei in einen ZIP-Ordner zu komprimieren und den [Zip-Import](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen) zu nutzen, um Ihre PC-Daten hochzuladen. Diese Methoden sparen Zeit, da die Upload-Dateigröße kleiner ist, und minimieren das Risiko eines Netzwerkfehlers, da die Datei schneller hochgeladen wird
 
 Nachdem Sie eine PC in den Dokumentbereich hochgeladen haben, wird die Dokumentvorschau verarbeitet. Während die Vorschau verarbeitet wird, sehen Sie einen grauen Balken am oberen Rand Ihrer Dokumentvorschau.
 
@@ -17502,7 +17502,7 @@ Nach dem Öffnen eines Dokuments können Sie das Menü Themen sehen. Hier könne
 
 ## 7. **Berechtigungen**
 
-Wenn Dokumente aus einer SharePoint-Dokumentbibliothek zu Catenda hochgeladen werden, wird die SharePoint-REST-API verwendet (über die [pnpjs](https://pnp.github.io/pnpjs/)-Bibliothek). Da diese Berechtigungen standardmäßig für spfx-Lösungen erteilt werden, ist keine zusätzliche Genehmigung erforderlich. Die folgenden Genehmigungen sind erforderlich, damit die App auf das Catenda-Backend zugreifen kann. Es werden nur delegierte Berechtigungen mit den folgenden Bereichen verwendet: _[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ Der oben genannte Zugriff wird nur verwendet, um die Freigabe von Dokumenten für das Catenda-Projekt des Benutzers zu genehmigen.
+Wenn Dokumente aus einer SharePoint-Dokumentenbibliothek in Catenda hochgeladen werden, wird die SharePoint-REST-API verwendet (über die [pnpjs](https://pnp.github.io/pnpjs/)-Bibliothek). Da diese Berechtigungen für SPFx-Lösungen standardmäßig gewährt werden, muss keine zusätzliche Freigabe erteilt werden. Die folgenden Freigaben sind erforderlich, damit die App auf das Catenda-Backend zugreifen kann. Es werden nur delegierte Berechtigungen mit folgenden Bereichen verwendet: _[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ Die oben genannten Zugriffe werden nur verwendet, um die Freigabe von Dokumenten für das Catenda-Projekt des Benutzers zu genehmigen.
 
 # Solibri Topics-Integration
 
@@ -18196,7 +18196,7 @@ Wenn das Kontrollkästchen "Als Entwurf hochladen" deaktiviert ist, werden Infor
 
 # Tabellenansicht in einem topic board
 
-Klicken Sie auf Tabellenansicht (**4**) oben rechts in der Topics-Tabelle auf der [topics page](https://support.catenda.com/de/articles/4670271-themen-seite). Standardmäßig wird die Listenansicht in der Tabelle angezeigt. Die Einstellung für die Tabellenansicht ist eine globale Einstellung. Sobald die bevorzugte Ansicht ausgewählt ist, werden topic-Tabellen in jedem topic board jedes Projekts für den Benutzer in dieser Ansicht angezeigt.
+Klicken Sie auf die Tabellenansicht (**4**) oben rechts in der Thementabelle auf der [Themen-Seite](https://support.catenda.com/de/articles/4670271-themen-seite). Standardmäßig wird in der Tabelle die Listenansicht angezeigt. Die Einstellung der Tabellenansicht für Themen ist eine globale Benutzereinstellung. Sobald die bevorzugte Ansicht ausgewählt ist, werden Thementabellen in allen Themen-Boards aller Projekte für den Benutzer in dieser Ansicht angezeigt.
 
 ## 1. **Topics-Tabelle**
 
@@ -19942,7 +19942,7 @@ Schließlich sind wir bei Catenda Topics angekommen. Topics sollen alle Kommunik
 - _<a class="intercom-content-link" target="_blank">Historie</a> -_ Du kannst das Datum finden, an dem ein topic aufgezeichnet und geändert wurde.
 - _Suchbarkeit_ - Text in topics [kann gesucht werden](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen) und [Etiketten können angewendet werden](https://support.catenda.com/de/articles/4670265-etikettenseite), um die wichtige Kommunikation zu finden, nach der du suchst
 - _Verfügbarkeit_ - Wenn das Projekt richtig eingerichtet ist, [haben die richtigen Personen immer Zugriff](https://support.catenda.com/de/articles/4670296-zugriffskontrolle-fur-themen-board) auf die richtigen Informationen von überall mit Internetverbindung ([Auch ohne eine!](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site))
-- _Übersicht_ - Topics können in verschiedene [topic boards](https://support.catenda.com/de/articles/6379614-topic-board-aus-einem-vorhandenen-topic-board) aufgeteilt werden, um einen Gesprächsfluss vom anderen zu trennen.
+- _Overview_ - Themen können in verschiedene [Themen-Boards](https://support.catenda.com/de/articles/6379614-topic-board-aus-einem-vorhandenen-topic-board) unterteilt werden, um einen Gesprächsverlauf getrennt von anderen zu halten.
 - _[Verantwortung](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas#h_dec8c710f5)_ - Topics können Personen zugewiesen werden, um ein Gefühl dafür zu schaffen, wer verantwortlich ist, um jedes Gesprächsstück zu bewältigen
 - _Informationsfluss_ - Während alle, die Zugriff auf das topic haben, benachrichtigt werden, wenn es zum ersten Mal erstellt wird, kannst du sicherstellen, dass die richtige Personengruppe [über Fortschritte](https://support.catenda.com/de/articles/7439223-seite-kontobenachrichtigungen) bei einem topic benachrichtigt wird.
 
@@ -20180,7 +20180,7 @@ Dies ist ein Beispiel für das rechte Menü der Zip-Importseite eines abgeschlos
 
 ## 7. **Desktop Connector**
 
-Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können Sie automatisch und regelmäßig die neuesten Versionen von Dokumenten von Ihrem lokalen System zu Catenda Hub hochladen. Der Desktop Connector ist schneller als der reguläre Upload-Prozess und minimiert das Ausfallrisiko, da Dokumente dateiweise statt in einem großen Drag-and-Drop- oder Zip-Upload-Batch hochgeladen werden.
+Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können Sie die neuesten Versionen von Dokumenten automatisch und in regelmäßigen Abständen von Ihrem lokalen System in Catenda Hub hochladen. Der Desktop Connector ist sowohl schneller als der reguläre Upload-Vorgang als auch weniger anfällig für Fehler, da er Dokumente einzeln hochlädt, anstatt sie in einem großen Drag-and-Drop- oder Zip-Upload-Stapel zu übertragen.
 
 # Zugriff mit begrenztem Bildschirmplatz
 
@@ -20199,7 +20199,7 @@ Auf Geräten mit begrenzter Bildschirmgröße müssen Schaltflächen größer se
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist unsere mobile App im Early-Access, erhältlich für iPhone und iPad über [TestFlight](https://testflight.apple.com/join/xj6WppjQ) und für Android im [Google Play Store](https://play.google.com/store/apps/details?id=com.catenda.apex). Sie behandelt Themen, Standorte, Formulare und Dokumente und wird im Laufe der Zeit alle Funktionen von Catenda Site erhalten. Die App wird zusammen mit den Kunden im Co-Creation-Programm entwickelt und ist noch nicht final, daher kann sie sich noch erheblich ändern.
+[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist unsere mobile App in der Early-Access-Phase, verfügbar für iPhone und iPad über [TestFlight](https://testflight.apple.com/join/xj6WppjQ) sowie für Android über [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Sie umfasst Themen, Standorte, Formulare und Dokumente und wird im Laufe der Zeit alle Funktionen von Catenda Site erhalten. Die App wird gemeinsam mit den Kunden im Co-Creation-Programm entwickelt und ist noch nicht final, daher kann sie sich noch erheblich ändern.
 
 ## 2. **Startbildschirm / Dashboard / Dock -** Vollständige Funktionalität
 
@@ -20711,7 +20711,7 @@ Um mit der Verwendung von Catenda AI Connect zu beginnen, wenden Sie sich an den
 
 > Eine Version des Catenda Desktop Connector für Organisationen, die Software in einem Betriebssystem-Image installieren, die angefordert werden kann.
 
-Der Catenda Desktop Connector plant Uploads und Downloads zwischen Catenda Hub und einem Computer ein und wird in [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) beschrieben. Eine Version für Organisationen, die Software in einem Betriebssystem-Image installieren, kann angefordert werden.
+Der Catenda Desktop Connector plant Uploads und Downloads zwischen Catenda Hub und einem Computer und wird in [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) beschrieben. Eine Version für Organisationen, die Software in ein Betriebssystem-Image installieren, kann angefordert werden.
 
 ## 1. **Was es ist**
 
@@ -20727,7 +20727,7 @@ Der Catenda Desktop Connector funktioniert mit Projekten in Catenda Hub. Um ihn 
 
 > Catenda für Power BI bringt Catenda Hub-Projektdaten in Power BI. Eine nächste Version mit Visuals und einer vorgefertigten Berichtsvorlage ist auf Anfrage verfügbar.
 
-Catenda für Power BI bringt die Daten eines Catenda Hub-Projekts in Microsoft Power BI, für Berichte zu den Modellen, Dokumenten und Themen des Projekts. Der freigegebene [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) ist für jeden Catenda-Kunden verfügbar. Eine nächste Version ist auf Anfrage verfügbar: Sie kann vor ihrer Freigabe für alle angefordert werden.
+Catenda for Power BI bringt die Daten eines Catenda Hub-Projekts in Microsoft Power BI, für Berichte zu den Modellen, Dokumenten und Themen des Projekts. Der veröffentlichte [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) steht allen Catenda-Kunden zur Verfügung. Eine nächste Version ist auf Anfrage verfügbar: Sie kann allen bereits vor ihrer allgemeinen Veröffentlichung angefordert werden.
 
 ## 1. **Was ist das**
 
@@ -22281,12 +22281,12 @@ Clash-Gruppierung ermöglicht Batch-Topic-Erstellung, Filterung ermöglicht foku
 ## 5. **Quellen**
 
 - [Clash-Koordination im großen Maßstab verwalten](https://support.catenda.com/de/articles/13845605-verwaltung-der-clash-koordination-im-grossen-massstab)
-- [Catenda Navisworks Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
+- [Catenda Navisworks-Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
 
 ## 6. **Weitere Informationen**
 
 - [Clash-Koordination im großen Maßstab verwalten](https://support.catenda.com/de/articles/13845605-verwaltung-der-clash-koordination-im-grossen-massstab)
-- [Catenda Navisworks Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
+- [Catenda Navisworks-Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
 
 ## 7. Eingabeaufforderung
 
@@ -23120,7 +23120,7 @@ Themendaten können über [Exchange Topics](https://support.catenda.com/de/artic
 
 ### 2.4 **Desktop Connector (Automatisierte lokale Sicherung)**
 
-Der [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) ermöglicht eine Hintergrundsynchronisierung, um regelmäßig neue Dokumentüberarbeitungen direkt auf ein lokales Laufwerk herunterzuladen. Im Gegensatz zu Batch-Web-Exporten werden heruntergeladene Dokumente direkt auf Ihrem System als rohe, entpackte Dateien ohne manuelle Archivextraktion angezeigt.
+Der [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) ermöglicht eine Hintergrundsynchronisierung, um neue revisions von Dokumenten regelmäßig direkt auf ein lokales Laufwerk herunterzuladen. Anders als Batch-Exporte im Web kommen die heruntergeladenen Dokumente direkt als unkomprimierte Rohdateien auf Ihrem System an, ohne dass ein manuelles Entpacken von Archiven erforderlich ist.
 
 **Geplante & sofortige Sicherungen** Aufgaben können so geplant werden, dass sie automatisch in regelmäßigen Abständen ausgeführt werden, oder bei Bedarf ausgeführt werden, um sicherzustellen, dass Projektmitglieder eine aktuelle lokale Kopie von Dokumenten speichern, auch wenn der Projektaccess unerwartet widerrufen wird.
 
@@ -23165,7 +23165,7 @@ Was exportiert werden kann und in welchen Dateiformaten, wird in [Projektdaten m
 
 ## 3. **Catenda Data Export**
 
-Catenda Data Export wird separat von Catenda Hub verkauft. Anders als bei den oben genannten Downloads kopiert es Projektdaten automatisch direkt von Catenda Hub zum Cloud-Speicher einer Organisation in Amazon S3 oder Azure Blob Storage. Es eignet sich für Organisationen, die ein Backup möchten, das mit ihren Projekten Schritt hält, oder Projektdatensätze, die in ihrem eigenen Speicher aufbewahrt werden. Es ist nicht nur für Projektinhaber. Ein Projektinhaber kann ein vollständiges Backup seiner Projekte exportieren, und ein Projektteilnehmer kann exportieren, auf das er in den Projekten, an denen er teilnimmt, Zugriff hat. Mehr dazu finden Sie in [Über Catenda Data Export](https://support.catenda.com/de/articles/17779020-uber-catenda-data-export) _(für Leser, die nicht angemeldet sind)_ und [Einführung in Catenda Data Export](https://support.catenda.com/de/articles/17779027-einfuhrung-in-catenda-data-export) _(nur für angemeldete Kunden)_. Kunden, die es haben, finden die Einrichtung unter [Catenda Data Export](https://support.catenda.com/de/articles/17779052-catenda-datenexport) _(nur für Data-Export-Kunden)_.
+Catenda Data Export wird separat von Catenda Hub verkauft. Anders als bei den oben genannten Downloads kopiert es Projektdaten automatisch direkt von Catenda Hub in den eigenen Cloud-Speicher einer Organisation bei Amazon S3 oder Azure Blob Storage. Es eignet sich für Organisationen, die ein Backup wünschen, das mit ihren Projekten Schritt hält, oder Projektunterlagen in ihrem eigenen Speicher aufbewahren möchten. Es ist nicht nur für Projektinhaber gedacht. Ein Projektinhaber kann ein vollständiges Backup seiner Projekte exportieren, und ein Projektteilnehmer kann alles exportieren, worauf er in den Projekten, an denen er teilnimmt, Zugriff hat. Mehr dazu finden Sie unter [Über Catenda Data Export](https://support.catenda.com/de/articles/17779020-uber-catenda-data-export) _(für Leser, die nicht angemeldet sind)_ und [Einführung in Catenda Data Export](https://support.catenda.com/de/articles/17779027-einfuhrung-in-catenda-data-export) _(nur für angemeldete Kunden)_. Kunden, die es haben, finden die Einrichtung unter [Catenda Data Export](https://support.catenda.com/de/articles/17779052-catenda-datenexport) _(nur für Data-Export-Kunden)_.
 
 # Filterergebnisse begrenzen
 
@@ -23331,26 +23331,26 @@ Catenda Site ist für iPhone, Android-Telefone und Tablets, iPad, iPod touch und
 
 ### 1.1 **iOS: iPhone und iPod touch**
 
-Auf einem iPhone oder iPod touch wird Catenda Site aus dem [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) installiert. Catenda Site erfordert iOS 13.4 oder später. Das iPadOS 16- und 17-Problem mit dem 3D-Viewer auf iPad, das unten beschrieben wird, betrifft das iPhone nicht.
+Auf einem iPhone oder iPod touch wird Catenda Site aus dem [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) installiert. Catenda Site erfordert iOS 13.4 oder höher. Das Problem mit dem 3D-Viewer unter iPadOS 16 und 17 auf einem iPad, das unten beschrieben wird, betrifft das iPhone nicht.
 
 ### 1.2 **Android: Telefone und Tablets**
 
-Auf einem Android-Telefon oder Tablet wird Catenda Site von [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) installiert. Catenda Site erfordert Android 7.0 oder später. Wenn Google Play meldet, dass Catenda Site für Ihr Gerät nicht verfügbar ist, ist dies keine Einschränkung des Geräts. Wie Sie die App in diesem Fall installieren, wird unter [Catenda Site - Fehlerbehebung](https://support.catenda.com/de/articles/11926914-catenda-site-fehlerbehebung#not-available-for-your-device-in-google-play) beschrieben.
+Auf einem Android-Smartphone oder -Tablet wird Catenda Site über [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) installiert. Catenda Site erfordert Android 7.0 oder höher. Wenn Google Play meldet, dass Catenda Site für Ihr Gerät nicht verfügbar ist, liegt das nicht an einer Einschränkung des Geräts. Wie die App in diesem Fall installiert wird, ist unter [Catenda Site - Fehlerbehebung](https://support.catenda.com/de/articles/11926914-catenda-site-fehlerbehebung#not-available-for-your-device-in-google-play) beschrieben.
 
 ### 1.3 **iPadOS: iPad**
 
-Auf einem iPad wird Catenda Site aus dem [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) installiert. Catenda Site erfordert iPadOS 13.4 oder später. Der 3D-Viewer funktioniert auf iPadOS 15 und früher sowie auf iPadOS 18 und später. Bei iPadOS 16 und 17 verhindert ein Fehler in iPadOS, dass die App 3D-Modelle anzeigt. Aktualisieren Sie daher ein iPad mit einer dieser Versionen auf iPadOS 18, falls ein Update verfügbar ist. Die folgenden iPads können nicht über iPadOS 16 oder 17 hinaus aktualisiert werden, daher funktioniert der 3D-Viewer in Catenda Site nicht auf ihnen, sobald sie eine dieser Versionen ausführen:
+Auf einem iPad wird Catenda Site aus dem [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) installiert. Catenda Site erfordert iPadOS 13.4 oder höher. Der 3D-Viewer funktioniert unter iPadOS 15 und früher sowie unter iPadOS 18 und höher. Unter iPadOS 16 und 17 verhindert ein Fehler in iPadOS, dass die App 3D-Modelle anzeigt. Wenn ein Update verfügbar ist, aktualisieren Sie ein iPad mit einer dieser Versionen daher auf iPadOS 18. Die folgenden iPads lassen sich nicht über iPadOS 16 oder 17 hinaus aktualisieren. Daher funktioniert der 3D-Viewer in Catenda Site auf ihnen nicht, sobald sie eine dieser Versionen verwenden:
 
 - iPad (5. und 6. Generation)
 - iPad Pro 9,7 Zoll
 - iPad Pro 10,5 Zoll
 - iPad Pro 12,9 Zoll (1. und 2. Generation)
 
-Auf diesen iPads können Modelle weiterhin in Catenda Hub in Safari angezeigt werden. Um zu erfahren, welches Modell ein iPad ist, siehe [Identify your iPad model](https://support.apple.com/en-us/108043) auf der Apple-Website.
+Auf diesen iPads können Modelle weiterhin in Catenda Hub in Safari angezeigt werden. Um herauszufinden, welches iPad-Modell Sie haben, lesen Sie [iPad-Modell ermitteln](https://support.apple.com/en-us/108043) auf der Website von Apple.
 
 ### 1.4 **visionOS: Apple Vision**
 
-Auf Apple Vision wird Catenda Site aus dem [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) installiert. Catenda Site erfordert visionOS 1.0 oder später.
+Auf Apple Vision wird Catenda Site aus dem [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) installiert. Catenda Site erfordert visionOS 1.0 oder höher.
 
 ## 2. **Maximale Nutzung des 3D-Viewers**
 
@@ -25042,52 +25042,52 @@ Wenn neue Funktionen veröffentlicht werden und Fehler behoben werden, werden Ar
 **Kontoverwaltung**
 
 - Kontoeinstellungen
-    - [Benachrichtigungsfilterung und -funktionalität](https://support.catenda.com/de/articles/8304417-filterung-auf-der-benachrichtigungsseite)
-    - [Kontoseite](https://support.catenda.com/de/articles/6880968-kontoseite)
+  - [Benachrichtigungsfilterung und -funktionalität](https://support.catenda.com/de/articles/8304417-filterung-auf-der-benachrichtigungsseite)
+  - [Kontoseite](https://support.catenda.com/de/articles/6880968-kontoseite)
 
 **Produktfunktionen**
 
 - Dashboard
-    - [Dashboard-Seite](https://support.catenda.com/de/articles/8212646-dashboard-seite)
+  - [Dashboard-Seite](https://support.catenda.com/de/articles/8212646-dashboard-seite)
 - Themen
-    - [Filterung auf der Seite "Themen"](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen)
-    - [Aktionen in der Themenliste](https://support.catenda.com/de/articles/4670284-aktionen-in-der-thementabelle)
-    - [Themen als PDF exportieren](https://support.catenda.com/de/articles/9784934-themen-in-pdf-exportieren)
-    - [Themenkopfzeile - Das Thema eines Themas](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas)
-    - [Themen austauschen](https://support.catenda.com/de/articles/4670289-themen-austausch)
+  - [Filterung auf der Seite "Themen"](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen)
+  - [Aktionen in der Themenliste](https://support.catenda.com/de/articles/4670284-aktionen-in-der-thementabelle)
+  - [Themen als PDF exportieren](https://support.catenda.com/de/articles/9784934-themen-in-pdf-exportieren)
+  - [Themenkopfzeile - Das Thema eines Themas](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas)
+  - [Themen austauschen](https://support.catenda.com/de/articles/4670289-themen-austausch)
 - Modelle
-    - [Revisions-Selector](https://support.catenda.com/de/articles/4670279-revisions-selector)
-    - [Filterung auf der Objektseite](https://support.catenda.com/de/articles/12353642-filterung-auf-der-objektseite)
-    - [Filterung auf der Seite "Modelle"](https://support.catenda.com/de/articles/12129622-filterung-auf-der-modellseite)
-    - [Rechtes Menü auf der Seite "Modelle"](https://support.catenda.com/de/articles/9673735-rechtes-menu-auf-der-modellseite)
-    - [Gleitende Ebenen-Dropdown](https://support.catenda.com/de/articles/4670327-schiebeflachen-dropdown)
-    - [Lesezeichen Inhaltsseite](https://support.catenda.com/de/articles/8471481-lesezeichen-inhaltsseite)
+  - [Revisions-Selector](https://support.catenda.com/de/articles/4670279-revisions-selector)
+  - [Filterung auf der Objektseite](https://support.catenda.com/de/articles/12353642-filterung-auf-der-objektseite)
+  - [Filterung auf der Seite "Modelle"](https://support.catenda.com/de/articles/12129622-filterung-auf-der-modellseite)
+  - [Rechtes Menü auf der Seite "Modelle"](https://support.catenda.com/de/articles/9673735-rechtes-menu-auf-der-modellseite)
+  - [Gleitende Ebenen-Dropdown](https://support.catenda.com/de/articles/4670327-schiebeflachen-dropdown)
+  - [Lesezeichen Inhaltsseite](https://support.catenda.com/de/articles/8471481-lesezeichen-inhaltsseite)
 - Dokumente
-    - [Übersichtsseite zum Dokumentzugriff](https://support.catenda.com/de/articles/6660820-seite-zugriffsubersicht-fur-dokumente)
-    - [Filterung auf der Dokumentseite](https://support.catenda.com/de/articles/4670283-filterung-auf-der-dokumentseite)
-    - [Zugriffskontrolle für Ordner und Dokumente](https://support.catenda.com/de/articles/4670287-ordnerverwaltung-und-dokumentenzugriffskontrolle)
-    - [Neuen Workflow erstellen](https://support.catenda.com/de/articles/12313251-erstellen-eines-neuen-workflows)
-    - [Workflow-Seite - Dokumenteinstellungen](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen)
-    - [Dokumentvorschau-Tools](https://support.catenda.com/de/articles/11384618-dokumentvorschau-tools)
-    - [ZIP-Datei/Dateistruktur hochladen](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen)
-    - [Filterung auf der Seite "Sammlungen"](https://support.catenda.com/de/articles/8999945-filterung-auf-der-sammlungsseite)
-    - [Filterung auf der Genehmigungsseite](https://support.catenda.com/de/articles/12495060-filterung-auf-der-genehmigungsseite)
-    - [Filterung auf der Genehmigungsseite - Legacy](https://support.catenda.com/de/articles/8551740-filterung-auf-der-genehmigungsseite-erbschaft)
+  - [Übersichtsseite zum Dokumentzugriff](https://support.catenda.com/de/articles/6660820-seite-zugriffsubersicht-fur-dokumente)
+  - [Filterung auf der Dokumentseite](https://support.catenda.com/de/articles/4670283-filterung-auf-der-dokumentseite)
+  - [Zugriffskontrolle für Ordner und Dokumente](https://support.catenda.com/de/articles/4670287-ordnerverwaltung-und-dokumentenzugriffskontrolle)
+  - [Neuen Workflow erstellen](https://support.catenda.com/de/articles/12313251-erstellen-eines-neuen-workflows)
+  - [Workflow-Seite - Dokumenteinstellungen](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen)
+  - [Dokumentvorschau-Tools](https://support.catenda.com/de/articles/11384618-dokumentvorschau-tools)
+  - [ZIP-Datei/Dateistruktur hochladen](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen)
+  - [Filterung auf der Seite "Sammlungen"](https://support.catenda.com/de/articles/8999945-filterung-auf-der-sammlungsseite)
+  - [Filterung auf der Genehmigungsseite](https://support.catenda.com/de/articles/12495060-filterung-auf-der-genehmigungsseite)
+  - [Filterung auf der Genehmigungsseite - Legacy](https://support.catenda.com/de/articles/8551740-filterung-auf-der-genehmigungsseite-erbschaft)
 - Einstellungen
-    - [Filterung auf der Seite "Mitglieder und Teams"](https://support.catenda.com/de/articles/11744242-filterung-auf-der-seite-mitglieder-und-teams)
+  - [Filterung auf der Seite "Mitglieder und Teams"](https://support.catenda.com/de/articles/11744242-filterung-auf-der-seite-mitglieder-und-teams)
 - 2D & 3D-Viewer
-    - [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer)
-    - [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer)
+  - [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer)
+  - [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer)
 - Catenda Plugins & Integrationen
-    - [Revit IFC Export Handbuch](https://support.catenda.com/de/articles/4670341-revit-ifc-export-handbuch)
-    - [IFC Export Archicad Handbuch](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch)
-    - [Catenda Navisworks Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
-    - [Catenda Archicad Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin)
-    - [Catenda Revit Plugin](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
-    - [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector)
-    - [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector)
-    - [Catenda Tekla Plugin](https://support.catenda.com/de/articles/6549656-catenda-tekla-plugin)
-    - [Desktop Connector Fehlerbehebung](https://support.catenda.com/de/articles/11019637-fehlerbehebung-fur-desktop-connector)
+  - [Revit IFC Export Handbuch](https://support.catenda.com/de/articles/4670341-revit-ifc-export-handbuch)
+  - [IFC Export Archicad Handbuch](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch)
+  - [Catenda Navisworks-Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
+  - [Catenda Archicad-Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin)
+  - [Catenda Revit-Plugin](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
+  - [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector)
+  - [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector)
+  - [Catenda Tekla-Plugin](https://support.catenda.com/de/articles/6549656-catenda-tekla-plugin)
+  - [Desktop Connector Fehlerbehebung](https://support.catenda.com/de/articles/11019637-fehlerbehebung-fur-desktop-connector)
 
 **Fehlerbehebung**
 
@@ -25096,10 +25096,10 @@ Wenn neue Funktionen veröffentlicht werden und Fehler behoben werden, werden Ar
 **Anwendungsfälle**
 
 - Genehmigungen
-    - [Dokumentprüfung im Genehmigungsablauf](https://support.catenda.com/de/articles/12628468-dokumentprufung-im-genehmigungsworkflow)
-    - [Genehmigungen einreichen und verwalten: Leitfaden für Verfasser](https://support.catenda.com/de/articles/12627979-genehmigungen-einreichen-und-verwalten-leitfaden-fur-verfasser)
-    - [Endgültige Genehmigungsentscheidungen leicht gemacht](https://support.catenda.com/de/articles/12629484-endgultige-freigabeentscheidungen-leicht-gemacht)
-    - [Genehmigungen als Administrator verwalten](https://support.catenda.com/de/articles/12620829-genehmigungen-als-administrator-verwalten)
+  - [Dokumentprüfung im Genehmigungsablauf](https://support.catenda.com/de/articles/12628468-dokumentprufung-im-genehmigungsworkflow)
+  - [Genehmigungen einreichen und verwalten: Leitfaden für Verfasser](https://support.catenda.com/de/articles/12627979-genehmigungen-einreichen-und-verwalten-leitfaden-fur-verfasser)
+  - [Endgültige Genehmigungsentscheidungen leicht gemacht](https://support.catenda.com/de/articles/12629484-endgultige-freigabeentscheidungen-leicht-gemacht)
+  - [Genehmigungen als Administrator verwalten](https://support.catenda.com/de/articles/12620829-genehmigungen-als-administrator-verwalten)
 
 **Häufig gestellte Fragen**
 
@@ -25498,7 +25498,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 
 ## 1. Artikel
 
-_Neue Artikel:_ Catenda Hub [Bimsync ist jetzt Catenda Hub](https://support.catenda.com/de/articles/7890769-bimsync-ist-jetzt-catenda-hub) [Landingpage](https://support.catenda.com/de/articles/8400797-projektseite) [Seitenpanel in einem Issue Board](https://support.catenda.com/de/articles/6941224-rechtes-menu-in-einem-themen-board) [Alle Projektdaten exportieren](https://support.catenda.com/de/articles/7946690-exportieren-aller-projektdaten) [Namenskonventionen-Seite](https://support.catenda.com/de/articles/7832559-seite-namenskonventionen) [Einfachste Namenskonvention](https://support.catenda.com/de/articles/7845360-einfachste-namenskonvention) [Mittlere Namenskonvention](https://support.catenda.com/de/articles/7936943-mittlere-namenskonvention) [Erweiterte Namenskonvention](https://support.catenda.com/de/articles/7936947-erweiterte-namenskonvention) Catenda Site [Mobile App Catenda Site herunterladen 📲](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) [Dokumente - Catenda Site](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) [Dashboard - Catenda Site](https://support.catenda.com/de/articles/7213817-dashboard-catenda-site) [Navigationsmenü - Catenda Site](https://support.catenda.com/de/articles/7338516-navigationsmenu-catenda-site) [Seite "Projekte" - Catenda Site](https://support.catenda.com/de/articles/7733978-projektseite-catenda-site) [Einstellungen - Catenda Site](https://support.catenda.com/de/articles/7733833-einstellungen-catenda-site) [Seite "Probleme" - Catenda Site](https://support.catenda.com/de/articles/7734073-themen-menu-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site) [Offline-Modus in Catenda Site](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site) [3D-Viewer - Catenda Site](https://support.catenda.com/de/articles/7744403-3d-viewer-catenda-site) [2D-Viewer - Catenda Site](https://support.catenda.com/de/articles/7748370-2d-viewer-catenda-site) [Etikettfilter - Catenda Site](https://support.catenda.com/de/articles/7854138-etiketten-filter-catenda-site) _Artikel, die sich geändert haben:_ [Seite "Projekteinstellungen"](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) [Systemanforderungen und Optimierung](https://support.catenda.com/de/articles/6921941-hardwareempfehlung) [Seite "Modelle"](https://support.catenda.com/de/articles/4670286-modellseite) [Modellseite](https://support.catenda.com/de/articles/4670270-modellinhaltseite)
+_Neue Artikel:_ Catenda Hub [Bimsync heißt jetzt Catenda Hub](https://support.catenda.com/de/articles/7890769-bimsync-ist-jetzt-catenda-hub) [Landingpage](https://support.catenda.com/de/articles/8400797-projektseite) [Seitenpanel in einem issue board](https://support.catenda.com/de/articles/6941224-rechtes-menu-in-einem-themen-board) [Export aller Projektdaten](https://support.catenda.com/de/articles/7946690-exportieren-aller-projektdaten) [Seite zu Benennungskonventionen](https://support.catenda.com/de/articles/7832559-seite-namenskonventionen) [Einfachste Benennungskonvention](https://support.catenda.com/de/articles/7845360-einfachste-namenskonvention) [Mittlere Benennungskonvention](https://support.catenda.com/de/articles/7936943-mittlere-namenskonvention) [Erweiterte Benennungskonvention](https://support.catenda.com/de/articles/7936947-erweiterte-namenskonvention) Catenda Site [Lade deine mobile App Catenda Site herunter 📲](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) [Dokumente - Catenda Site](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) [Dashboard - Catenda Site](https://support.catenda.com/de/articles/7213817-dashboard-catenda-site) [Navigationsmenü - Catenda Site](https://support.catenda.com/de/articles/7338516-navigationsmenu-catenda-site) [Seite Projekte - Catenda Site](https://support.catenda.com/de/articles/7733978-projektseite-catenda-site) [Einstellungen - Catenda Site](https://support.catenda.com/de/articles/7733833-einstellungen-catenda-site) [Issues-Seite - Catenda Site](https://support.catenda.com/de/articles/7734073-themen-menu-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site) [Offline-Modus in Catenda Site](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site) [3D-Viewer - Catenda Site](https://support.catenda.com/de/articles/7744403-3d-viewer-catenda-site) [2D-Viewer - Catenda Site](https://support.catenda.com/de/articles/7748370-2d-viewer-catenda-site) [Etikettenfilter - Catenda Site](https://support.catenda.com/de/articles/7854138-etiketten-filter-catenda-site) _Geänderte Artikel:_ [Seite Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) [Systemanforderungen und Optimierung](https://support.catenda.com/de/articles/6921941-hardwareempfehlung) [Seite Models](https://support.catenda.com/de/articles/4670286-modellseite) [Seite Model](https://support.catenda.com/de/articles/4670270-modellinhaltseite)
 
 ## 2. Behobene Probleme
 
@@ -25840,7 +25840,7 @@ _[Dokumente strukturieren](https://support.catenda.com/de/articles/8542598-dokum
 
 **Einstellungen** [Seite "Etiketten"](https://support.catenda.com/de/articles/4670265-etikettenseite) [Ein Team erstellen](https://support.catenda.com/de/articles/4670264-ein-team-erstellen)
 
-**Plugins und Integrationen** [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) [Power BI-Integration](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) [IFC Archicad-Anleitung](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch) [Archicad-Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin) [Solibri-Modelle als Dokumente-Integration](https://support.catenda.com/de/articles/6988148-solibri-modelle-und-dokumentenintegration)
+**Plugins und Integrationen** [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) [Integration Power BI](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) [IFC Archicad-Handbuch](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch) [Archicad-Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin) [Solibri Models as Documents Integration](https://support.catenda.com/de/articles/6988148-solibri-modelle-und-dokumentenintegration)
 
 **Catenda Site** [Laden Sie Ihre mobile App Catenda Site herunter](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter)
 
@@ -25925,7 +25925,7 @@ Mit dem Rollout neuer Funktionen und der Behebung von Fehlern werden die Artikel
 
 ### 1.1 **Neue Artikel:**
 
-**Erste Schritte und häufig gestellte Fragen** [Catenda SharePoint FAQ](https://support.catenda.com/de/articles/9419678-catenda-sharepoint-haufig-gestellte-fragen) [Revisions in Namenskonvention](https://support.catenda.com/de/articles/9496151-revisionen-in-der-namenskonvention) [Benutzerdefinierte Felder in Dokumenten](https://support.catenda.com/de/articles/9531080-benutzerdefinierte-felder-in-dokumenten) [Übernahme für ein anderes Mitglied](https://support.catenda.com/de/articles/9520447-ubernahme-fur-ein-anderes-mitglied)
+**Erste Schritte und FAQ** [Catenda SharePoint FAQ](https://support.catenda.com/de/articles/9419678-catenda-sharepoint-haufig-gestellte-fragen) [Revisionen in der Namenskonvention](https://support.catenda.com/de/articles/9496151-revisionen-in-der-namenskonvention) [Benutzerdefinierte Felder für Dokumente](https://support.catenda.com/de/articles/9531080-benutzerdefinierte-felder-in-dokumenten) [Übernahme für ein anderes Mitglied](https://support.catenda.com/de/articles/9520447-ubernahme-fur-ein-anderes-mitglied)
 
 **Modelle** [Aktionen auf der Seite Modelle](https://support.catenda.com/de/articles/9431936-aktionen-auf-der-seite-modelle) [Rechtes Menü auf der Seite Modelle](https://support.catenda.com/de/articles/9673735-rechtes-menu-auf-der-modellseite) [Aktionen auf der Modellübersichtsseite](https://support.catenda.com/de/articles/9674157-aktionen-auf-der-seite-modellinhalte)
 
@@ -25933,7 +25933,7 @@ Mit dem Rollout neuer Funktionen und der Behebung von Fehlern werden die Artikel
 
 **Dokumente** [Aktionen in einem Dokument](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen)
 
-**Plugins und Integrationen** [Microsoft Teams-Benachrichtigungen](https://support.catenda.com/de/articles/9167392-microsoft-teams-benachrichtigungen) [Aktivieren der Catenda SharePoint-App](https://support.catenda.com/de/articles/9419749-aktivierung-der-catenda-sharepoint-app) [Hinzufügen und Entfernen der CatendaSP-App](https://support.catenda.com/de/articles/9453368-catendasp-app-hinzufugen-und-entfernen) [Navisworks Changelog - 1.4.0](https://support.catenda.com/de/articles/9440035-navisworks-changelog-1-4-0)
+**Plugins und Integrationen** [Benachrichtigungen in Microsoft Teams](https://support.catenda.com/de/articles/9167392-microsoft-teams-benachrichtigungen) [Aktivieren der Catenda SharePoint App](https://support.catenda.com/de/articles/9419749-aktivierung-der-catenda-sharepoint-app) [Hinzufügen und Entfernen der CatendaSP App](https://support.catenda.com/de/articles/9453368-catendasp-app-hinzufugen-und-entfernen) [Navisworks Changelog - 1.4.0](https://support.catenda.com/de/articles/9440035-navisworks-changelog-1-4-0)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 
@@ -26053,7 +26053,7 @@ _Informationspanel_ [Inspektionsmenü](https://support.catenda.com/de/articles/4
 
 **Plugins und Integrationen** [Revit-IFC-Exporthandbuch](https://support.catenda.com/de/articles/4670341-revit-ifc-export-handbuch) [IFC-Exporthandbuch für Archicad](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/de/articles/9930034-catenda-site-changelog-3-5-0) [Dokumente-Menü - Catenda Site](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) [Vorschau von Dateitypen auf Catenda Site](https://support.catenda.com/de/articles/8975421-dateitypen-auf-catenda-site-in-der-vorschau-anzeigen)
+**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/de/articles/9930034-catenda-site-changelog-3-5-0) [Menü Dokumente - Catenda Site](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) [Vorschau von Dateitypen in Catenda Site](https://support.catenda.com/de/articles/8975421-dateitypen-auf-catenda-site-in-der-vorschau-anzeigen)
 
 ## 2. **Behobene Fehler**
 
@@ -26210,7 +26210,7 @@ Wenn neue Funktionen veröffentlicht werden und Fehler behoben werden, werden Ar
 
 **Tutorials und Leitfäden** [Guidde-Videos](https://support.catenda.com/de/articles/11055278-guidde-videos)
 
-**Häufig gestellte Fragen** [Einen Filter-Link speichern](https://support.catenda.com/de/articles/11401493-speichern-und-freigeben-eines-filterlinks) [Catenda Desktop Connector FAQ](https://support.catenda.com/de/articles/11582835-catenda-desktop-connector-faq)
+**Häufig gestellte Fragen** [Speichern eines Filter-Links](https://support.catenda.com/de/articles/11401493-speichern-und-freigeben-eines-filterlinks) [Catenda Desktop Connector FAQ](https://support.catenda.com/de/articles/11582835-catenda-desktop-connector-faq)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 
@@ -26567,7 +26567,7 @@ Die Kontaktperson für Ihre Catenda-Lizenz kann darum bitten, dem Co-Creation-Pr
 
 ### 4.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist eine neue mobile App für Telefone und Tablets, verfügbar im Frühen Zugriff für iPhone und iPad über TestFlight und für Android auf Google Play. Sie umfasst Themen, Standorte, Formulare und Dokumente, und im Laufe der Zeit wird sie alle Funktionen von [Catenda Site](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) und mehr erhalten. Themen und Dokumente funktionieren in jedem Projekt, bei dem der Benutzer ein Mitglied ist. Formulare und Standorte können nur in Projekten verwendet werden, in denen sie aktiviert wurden, und bis jetzt ist das nur bei Projekten von Kunden im Co-Creation-Programm der Fall.
+[Catenda Mobile](https://support.catenda.com/de/articles/17601630-deine-mobile-catenda-app-herunterladen) ist eine neue mobile App für Smartphones und Tablets, die in einer frühen Zugangsphase für iPhone und iPad über TestFlight sowie für Android über Google Play verfügbar ist. Sie deckt Themen, Standorte, Formulare und Dokumente ab und wird mit der Zeit alle Funktionen von [Catenda Site](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter) sowie weitere bieten. Themen und Dokumente funktionieren in jedem Projekt, dessen Mitglied der Benutzer ist. Formulare und Standorte können nur in Projekten verwendet werden, in denen sie aktiviert wurden, und derzeit sind das nur die Projekte von Kunden des Co-creation-Programms.
 
 Die App ist nicht endgültig und kann sich noch erheblich ändern. Catenda Site kann weiterhin parallel dazu verwendet werden und bleibt die App, die verwendet werden kann, wenn eine Funktion benötigt wird, die noch nicht in Catenda Mobile vorhanden ist.
 
@@ -28088,7 +28088,7 @@ Wenn Sie Hilfe beim Verständnis der Funktionsweise von Funktionen in der Integr
 
 ### 1.2 **Für technische und funktionale Probleme**
 
-Wenn bestimmte Fehlermeldungen in der Solibri-Oberfläche auftreten, der Connector nicht wie erwartet reagiert oder eine Änderung der Connector-Funktionalität gewünscht wird, kontaktieren Sie bitte direkt **[Solibri Support](https://www.solibri.com/support)**. Als Entwickler und Eigentümer des Connectors können nur sie den zugrunde liegenden Code ändern, interne Validierungsregeln anpassen oder softwarespezifische Fehler beheben.
+Wenn bestimmte Fehlermeldungen in der Solibri-Oberfläche auftreten, wenn der Connector nicht wie erwartet reagiert oder wenn eine Änderung der Funktionsweise des Connectors gewünscht wird, wenden Sie sich bitte direkt an **[Solibri Support](https://www.solibri.com/support)**. Als Entwickler und Eigentümer des Connectors sind sie die Einzigen, die den zugrunde liegenden Code ändern, interne Validierungsregeln anpassen oder softwarespezifische Fehler beheben können.
 
 ## 2. **Dupliziertes Modell**
 
@@ -28200,7 +28200,7 @@ OneDrive und SharePoint 400 Unicode-Codeeinheiten
 
 **Kleinere Zips** Wenn die Zip-Datei aus mehreren Dateien besteht, kann die Zip-Datei in kleinere Zips aufgeteilt werden. Jede separate Zip-Datei kann einzeln hochgeladen werden, aber es wird immer ein Risiko für einen Netzwerk- oder Verbindungsfehler geben.
 
-**Einzelne Dateien** Der [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) ist eine sicherere Methode zum Hochladen, da er Dokumente Datei für Datei hochlädt. Dies ist auch schneller, da die Dateien direkt zu unserem Backend hochgeladen werden, anstatt über die Browseroberfläche. Selbst wenn eine der Dateien fehlschlägt, werden die bis dahin hochgeladenen bereits in Catenda angezeigt. Die restlichen Dateien werden beim nächsten Ausführen der Upload-Aufgabe weiterhin hochgeladen.
+**Einzelne Dateien** Der [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) ist eine sicherere Methode zum Hochladen, da Dokumente Datei für Datei hochgeladen werden. Dies ist außerdem schneller, da die Dateien direkt an unser Backend hochgeladen werden und nicht über die Browseroberfläche. Selbst wenn eine der Dateien fehlschlägt, werden die bis dahin hochgeladenen Dateien bereits in Catenda angezeigt. Die übrigen Dateien werden beim nächsten Ausführen der Upload-Aufgabe weiter hochgeladen.
 
 ## 2. **Zip-Uploads mit Sonderzeichen**
 

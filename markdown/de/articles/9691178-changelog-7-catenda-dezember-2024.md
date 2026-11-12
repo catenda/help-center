@@ -56,7 +56,7 @@ _Informationspanel_ [Inspektionsmenü](https://support.catenda.com/de/articles/4
 
 **Plugins und Integrationen** [Revit-IFC-Exporthandbuch](https://support.catenda.com/de/articles/4670341-revit-ifc-export-handbuch) [IFC-Exporthandbuch für Archicad](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/de/articles/9930034-catenda-site-changelog-3-5-0) [Dokumente-Menü - Catenda Site](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) [Vorschau von Dateitypen auf Catenda Site](https://support.catenda.com/de/articles/8975421-dateitypen-auf-catenda-site-in-der-vorschau-anzeigen)
+**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/de/articles/9930034-catenda-site-changelog-3-5-0) [Menü Dokumente - Catenda Site](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) [Vorschau von Dateitypen in Catenda Site](https://support.catenda.com/de/articles/8975421-dateitypen-auf-catenda-site-in-der-vorschau-anzeigen)
 
 ## 2. **Behobene Fehler**
 

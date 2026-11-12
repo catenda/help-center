@@ -91,7 +91,7 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 
 ## 3. **Nouvelles versions** - Catenda Site, Plugins et intégrations
 
-_Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Nouvelle version 3.2.0
+_Catenda Site :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Nouvelle version 3.2.0
 
 - Miniatures de liste de problèmes : Les captures de point de vue sont affichées sur la liste des problèmes.
 - Liste de contrôle d'accès pour la fermeture des problèmes : La permission de fermer les problèmes est basée sur le paramètre du projet.

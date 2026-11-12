@@ -2,7 +2,7 @@
 
 > Beschrijft de 3D viewer tools in Catenda Hub
 
-Na het laden van een 3D model in de [3D viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer), kan de [tool dropdown button](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_003a4c0a62) rechtsboven worden gevonden.
+Na het laden van een 3D-model in de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) is de [dropdownknop voor tools](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_003a4c0a62) rechtsboven te vinden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/01-intro.png)
 
@@ -18,7 +18,7 @@ Met dit gereedschap kunt u op objecten klikken om ze te selecteren. De [toetscom
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/03-object-picker-default.png)
 
-Na het selecteren van een object, houdt u Ctrl ingedrukt om meerdere objecten te selecteren. Objecten kunnen ook worden geselecteerd met rechthoekige selectie in de [2D viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_042dc145fa).
+Na het selecteren van een object houdt u Control ingedrukt om meerdere objecten te selecteren. Objecten kunnen ook worden geselecteerd met rechthoekige selectie in de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_042dc145fa).
 
 ## 2. **Doorsnedes**
 

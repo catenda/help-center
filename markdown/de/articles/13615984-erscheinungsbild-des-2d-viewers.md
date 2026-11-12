@@ -20,7 +20,7 @@ Wie zu sehen ist, werden im 2D-Viewer nur Wände angezeigt, die 1 Meter und dar�
 
 ### 1.2 **Türöffnungen**
 
-Türöffnungen werden in der IFC-Datei angegeben. Sie können sehen, wie dies in den folgenden BuildingSMART-Artikeln funktioniert: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Wenn keine Türöffnung angegeben ist, öffnet sich die Tür nach rechts.
+Die Türöffnungsrichtung wird in der IFC-Datei angegeben. Wie das funktioniert, zeigen die folgenden BuildingSMART-Artikel: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Wenn keine Türöffnungsrichtung angegeben ist, öffnet sich die Tür nach rechts.
 
 ## 2. **Zeichnung als Untergrund**
 

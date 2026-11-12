@@ -94,7 +94,7 @@ In het modellengebied krijgt u een lijst met alle modellen die voor u beschikbaa
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/chgdwm3p/01-intro.png)
 
-_Verder lezen:_ [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer), [Revision selector](https://support.catenda.com/nl/articles/4670279-revisiekiezer)
+_Verder lezen:_ [3D Viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer), [Revision selector](https://support.catenda.com/nl/articles/4670279-revisiekiezer)
 
 > **Opmerking:** Zoek [stap 5](https://support.catenda.com/nl/articles/10576182-stap-5-onderwerpen) in [aan de slag](https://support.catenda.com/nl/collections/2657208-aan-de-slag) in het helpcentrum of in het helpmenu.
 
@@ -629,7 +629,7 @@ De approval workflows van het templateproject worden gekopieerd, zodat leden goe
 
 Om een project te binnengaan, moet een van de beheerders van het project u uitnodigen. U ontvangt een uitnodiging en kunt het project binnengaan. Als dit uw eerste Catenda Hub-project is, kiest u uw wachtwoord de eerste keer dat u zich aanmeldt.
 
-[YouTube video](https://www.youtube.com/embed/YqVuSg880Yo?rel=0)
+[YouTube-video](https://www.youtube.com/embed/YqVuSg880Yo?rel=0)
 
 # Een team aanmaken
 
@@ -1546,7 +1546,7 @@ U kunt dit menu sluiten door op het donkere gebied buiten het menu te tikken. U 
 
 # Nieuwe leden uitnodigen voor het project
 
-[YouTube video](https://www.youtube.com/embed/yd6R0FUEj-4?rel=0)
+[YouTube-video](https://www.youtube.com/embed/yd6R0FUEj-4?rel=0)
 
 Als u een beheerder bent in een project, kunt u nieuwe leden toevoegen. Als lid van een project kunt u standaard geen nieuwe leden toevoegen, maar een beheerder kan u toegang geven om leden uit te nodigen.
 
@@ -1734,11 +1734,11 @@ Ondernemingsklanten kunnen de afdwinging van MFA voor gebruikers die aan hun pro
 
 ### 5.2 **Interne SSO-gebruikers vereisen geen MFA**
 
-Ondernemingsklanten kunnen aanvragen [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) in te stellen. Er is een vergoeding gemoeid mee omdat onze ontwikkelaars tijd nodig hebben om de configuratie in te stellen.
+Enterprise-klanten kunnen een verzoek indienen om [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) in te stellen. Hieraan zijn kosten verbonden, omdat onze ontwikkelaars enige tijd nodig hebben om de configuratie in te stellen.
 
 _Wat doet deze regel?_ Standaard worden gebruikers die zich aanmelden met SSO en gebruikers die zich normaal aanmelden op dezelfde manier behandeld. Als MFA voor een organisatie wordt afgedwongen, moeten zowel normale gebruikers als SSO-gebruikers de MFA-code invoeren om zich aan te melden en toegang te krijgen tot het project. Als deze optie voor een organisatie is ingeschakeld, hoeven SSO-gebruikers geen MFA te gebruiken voor toegang tot het project. Normale gebruikers zouden nog steeds de MFA-code moeten invoeren, terwijl SSO-gebruikers zich zonder de code zouden kunnen aanmelden.
 
-_Wat is SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) stelt de gebruiker in staat zich eenmaal aan te melden en services te openen zonder verificatiefactoren opnieuw in te voeren. Met deze optie kunt u ervoor zorgen dat gebruikers van uw organisatie geen MFA hoeven in te stellen. Gebruikers van verschillende organisaties die deel uitmaken van uw organisatieprojecten moeten nog steeds MFA hebben ingeschakeld als de bovenstaande optie is ingeschakeld.
+_Wat is SSO?_ [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on) stelt de gebruiker in staat eenmaal in te loggen en toegang te krijgen tot diensten zonder opnieuw authenticatiefactoren in te voeren. Met deze optie kun je ervoor zorgen dat gebruikers van je organisatie geen MFA hoeven in te stellen. Gebruikers van andere organisaties die deel uitmaken van de projecten van je organisatie moeten nog steeds MFA hebben ingeschakeld als de bovenstaande optie is ingeschakeld.
 
 _SSO instellen:_ Het is mogelijk om SSO in te stellen met elke SSO-provider, aangezien het een gestandaardiseerd proces is. Hieronder vindt u enkele van de meest voorkomende SSO-providers:
 
@@ -2463,11 +2463,11 @@ De problemen die uit het filter op de gekozen issue board voortvloeien, zijn de 
 
 ### Bovenste helft
 
-In de bovenste helft van de 2D / 3D-pagina ziet u de [3D viewer](https://support.catenda.com/nl/articles/7744403-3d-viewer-catenda-site).
+Op de bovenste helft van de 2D / 3D-pagina ziet u de [3D viewer](https://support.catenda.com/nl/articles/7744403-3d-viewer-catenda-site).
 
 ### Onderste helft
 
-In de onderste helft van de 2D / 3D-pagina ziet u de [2D viewer](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site).
+Op de onderste helft van de 2D / 3D-pagina ziet u de [2D viewer](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site).
 
 ### Scheidingsbalk
 
@@ -2972,7 +2972,7 @@ Zoals te zien is, worden alleen de muren die 1 meter en hoger zijn, weergegeven 
 
 ### 1.2 **Draaiingen van deuren**
 
-Draaiingen van deuren worden gespecificeerd in het IFC-bestand. U kunt zien hoe dit werkt in de volgende BuildingSMART-artikelen: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Als geen draaiing van deuren is gespecificeerd, zwaait de deur naar rechts open.
+Draairichtingen van deuren worden opgegeven in het IFC-bestand. Je kunt zien hoe dit werkt in de volgende BuildingSMART-artikelen: [IFC 2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/ifcsharedbldgelements/lexical/ifcdoorstyle.html) [IFC 4](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcdoortypeoperationenum.htm) Als er geen draairichting van de deur is opgegeven, gaat de deur naar rechts open.
 
 ## 2. **Tekening als ondergrond**
 
@@ -3690,7 +3690,7 @@ Tik op de knop Informatie om de informatieve pagina voor het getikte object te o
 
 > Beschrijft de 3D viewer tools in Catenda Hub
 
-Na het laden van een 3D model in de [3D viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer), kan de [tool dropdown button](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_003a4c0a62) rechtsboven worden gevonden.
+Na het laden van een 3D-model in de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) is de [dropdownknop voor tools](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_003a4c0a62) rechtsboven te vinden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/01-intro.png)
 
@@ -3706,7 +3706,7 @@ Met dit gereedschap kunt u op objecten klikken om ze te selecteren. De [toetscom
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/03-object-picker-default.png)
 
-Na het selecteren van een object, houdt u Ctrl ingedrukt om meerdere objecten te selecteren. Objecten kunnen ook worden geselecteerd met rechthoekige selectie in de [2D viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_042dc145fa).
+Na het selecteren van een object houdt u Control ingedrukt om meerdere objecten te selecteren. Objecten kunnen ook worden geselecteerd met rechthoekige selectie in de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_042dc145fa).
 
 ## 2. **Doorsnedes**
 
@@ -3926,7 +3926,7 @@ Ga als volgt te werk om door gebruikers gedefinieerde velden op documenten toe t
 
 > Hoe de Catenda-connector voor Power BI zich aanmeldt bij Catenda en wat u moet doen als de aanmelding mislukt of vervalt.
 
-De Catenda-connector voor Power BI meldt zich aan bij Catenda met het eigen Catenda-account van de gebruiker. Dit werkt op dezelfde manier in de uitgebrachte [Catenda Power BI Connector](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) en in de [Catenda Power BI Connector (On Demand)](https://support.catenda.com/nl/articles/17778871-catenda-power-bi-connector-on-demand).
+De Catenda-connector voor Power BI meldt zich aan bij Catenda met het eigen Catenda-account van de gebruiker. Dit werkt op dezelfde manier in de vrijgegeven [Catenda Power BI Connector](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) en in de [Catenda Power BI Connector (On Demand)](https://support.catenda.com/nl/articles/17778871-catenda-power-bi-connector-on-demand).
 
 ## 1. **Aanmelden voor het eerst**
 
@@ -6261,7 +6261,7 @@ Nadat u hierop klikt, wordt een bestandsbrowser geopend en kunt u selecteren wel
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Opmerking:** Als u een map sleept en neerzet, wordt deze als een zip-bestand gepubliceerd. Als u een mapstructuur wilt uploaden, moet u deze downloaden van SharePoint en uploaden naar Catenda via de [zip upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
+> **Let op:** Als u een map via slepen en neerzetten toevoegt, wordt deze als zipbestand geüpload. Als u een mappenstructuur wilt uploaden, moet u deze eerst van SharePoint downloaden en vervolgens naar Catenda uploaden via de [zip-upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
 
 ### 4.3 **Herladen**
 
@@ -6317,7 +6317,7 @@ Als de Catenda SharePoint-toepassing aan een SharePoint-site is toegevoegd, kunn
 
 Met het lijstcommando is het mogelijk om een of meer bestanden naar Catenda te publiceren.
 
-> **Opmerking:** Het is alleen mogelijk om bestanden te publiceren. Mapstructuren kunnen worden gedownload van SharePoint en naar Catenda worden geüpload via [zip-upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
+> **Opmerking:** Alleen bestanden kunnen worden gepubliceerd. Mappenstructuren kunnen worden gedownload uit SharePoint en geüpload naar Catenda via [zip-upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
 
 ### 1.1 **Het lijstcommando zoeken**
 
@@ -6737,7 +6737,7 @@ Zie de 5 meest recente [bundels](https://support.catenda.com/nl/articles/6344318
 
 De Catenda SharePoint-toepassing kan door een systeembeheerder voor een SharePoint-omgeving worden ingeschakeld en vervolgens door een site-eigenaar aan een site worden toegevoegd. Met deze app kunnen SharePoint-gebruikers Documenten in Catenda samen met andere Leden van het bouwproject bekijken, beheren en hieraan samenwerken.
 
-Als u de app voor uw omgeving wilt inschakelen, kunt u deze hier vinden: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), wat er ongeveer zo uitziet:
+Om de app voor uw omgeving in te schakelen, vindt u de vermelding hier: [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Catenda&page=1), die er ongeveer zo uit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/01-intro.png)
 
@@ -7267,7 +7267,7 @@ De onderstaande afbeelding beschrijft de stappen die nodig zijn om het proces in
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xan46xhc/01-intro.png)
 
-1. Activeer de [Status workflow](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_e6f3ffdbff) in uw [Documentbibliotheek-instellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen)
+1. Activeer de [Status workflow](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_e6f3ffdbff) in je [instellingen van de Documentenbibliotheek](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen)
 1. [Bewerk](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_c580374cfc) de beschikbare statussen naar uw wensen
 1. U kunt nu Documenten als Concepten uploaden
 1. Wanneer het project Concepten bevat, kunt u deze selecteren en een nieuwe Goedkeuring maken
@@ -7275,10 +7275,10 @@ De onderstaande afbeelding beschrijft de stappen die nodig zijn om het proces in
 ## 1. Goedkeuringsinstellingen
 
 1. Een belangrijke stap is het aanpassen van de [goedkeuringsinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3) op de [pagina met projectinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen).
-2. Een goedkeuringsverzoek benoemt een Uitgever (persoon die verantwoordelijk is voor het nemen van de uiteindelijke beslissing over de publicatie) en een of meer Revisoren, die verantwoordelijk zijn voor validatie (of niet) van de set concepten
-3. Elke revisor beslist of het concept Goedgekeurd, Goedgekeurd met opmerking of Afgewezen is
-4. Aan het einde van de beoordeling kiest de Uitgever het resultaat van de goedkeuring door de documenten te selecteren die gepubliceerd moeten worden.
-5. Vanuit de goedkeuringsinstellingen kunnen Problemen met betrekking tot de documenten worden aangemaakt om het proces later bij te houden
+1. Een goedkeuringsverzoek benoemt een Uitgever (persoon die verantwoordelijk is voor het nemen van de uiteindelijke beslissing over de publicatie) en een of meer Revisoren, die verantwoordelijk zijn voor validatie (of niet) van de set concepten
+1. Elke revisor beslist of het concept Goedgekeurd, Goedgekeurd met opmerking of Afgewezen is
+1. Aan het einde van de beoordeling kiest de Uitgever het resultaat van de goedkeuring door de documenten te selecteren die gepubliceerd moeten worden.
+1. Vanuit de goedkeuringsinstellingen kunnen Problemen met betrekking tot de documenten worden aangemaakt om het proces later bij te houden
 
 Een gedetailleerde demonstratie van deze stappen wordt weergegeven in de volgende zelfstudie:
 
@@ -7462,7 +7462,7 @@ Deze creatie maakt een snijplan boven het geselecteerde object (de muur) en een 
 
 # Download je mobiele app Catenda Site 📲
 
-> **Opmerking:** Het installatiebestand voor de applicatie is te vinden in [dit artikel](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties). Als Google Play meldt dat Catenda Site niet beschikbaar is voor jouw apparaat, zie dan [Catenda Site - Troubleshooting](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
+> **Opmerking:** Het installatiebestand voor de applicatie is te vinden in [dit artikel](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties). Als Google Play meldt dat Catenda Site niet beschikbaar is voor uw apparaat, raadpleeg [Catenda Site - Probleemoplossing](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
 
 [Een demo boeken](https://catenda.com/get-started) op onze website
 
@@ -7526,7 +7526,7 @@ Catenda staat nog niet in de App Store. Op iPhone en iPad wordt het geïnstallee
 
 ### 1.2 **Android-telefoons en tablets**
 
-Catenda wordt geïnstalleerd via [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). In de zoekresultaten toont Google Play de app als Catenda, en alleen op de eigen pagina van de app wordt deze weergegeven als Catenda (Early Access).
+Catenda wordt geïnstalleerd via [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). In de zoekresultaten toont Google Play de app als Catenda, en alleen de eigen pagina van de app toont deze als Catenda (Early Access).
 
 > **Belangrijk:** Op sommige Android-telefoons en tablets verschijnt Catenda Site niet in een Google Play-zoekopdracht, dus Catenda kan de enige Catenda-app zijn die wordt weergegeven. Om Catenda Site op zo'n apparaat te installeren, zie [Catenda Site - Probleemoplossing](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play)
 
@@ -7646,19 +7646,19 @@ Tot 100 bestanden kunnen worden gesleept en neergezet, [elk tot 7GB\*](#h_09bc8f
 
 ### 2.3 **Mappen**
 
-In dit menu kunnen alleen afzonderlijke Documenten worden geüpload. Als u een map wilt uploaden, moet deze in een zip-bestand worden geconverteerd en op een ander manier worden geüpload. Zie het artikel [Upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden).
+In dit menu kunnen alleen losse documenten worden geüpload. Om een map te uploaden, moet deze worden gezipt en op een andere manier worden geüpload. Zie het artikel [Upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden).
 
 ### 2.4 **Uploadlimiet**
 
 **Limieten voor afzonderlijke bestanden:** Tot 100 bestanden kunnen tegelijk worden geüpload Tot 7 GB per bestand kunnen tegelijk worden geüpload.
 
-**Limieten voor gecomprimeerde bestanden:** Als u meer bestanden tegelijk of grotere bestanden wilt uploaden, kunt u de functie '[upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden)' gebruiken.
+**Limieten voor zip-bestanden:** Om meer bestanden tegelijk of bestanden van grotere omvang te uploaden, gebruik de functie '[upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden)'.
 
 **Limieten voor puntenwolken:** Puntenwolken hebben vaak grote bestandsgroottes, dus hun limiet is verhoogd tot 25 GB Klik [hier](https://support.catenda.com/nl/articles/4670324-welke-bestandsgrootte-kan-ik-uploaden) voor meer informatie over groottelimieten.
 
 ## 3. **Desktopconnector**
 
-Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) kunnen de nieuwste versies van Documenten automatisch en periodiek van een lokaal systeem naar Catenda Hub worden geüpload. De Desktop Connector is sneller dan het normale uploadproces en minimaliseert het risico op fouten omdat deze Documenten bestand voor bestand uploadt in plaats van in één grote slepen en neerzetten of zip-uploadbatch.
+Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) kunnen de nieuwste versies van documenten automatisch en periodiek worden geüpload van een lokaal systeem naar Catenda Hub. De Desktop Connector is zowel sneller dan het reguliere uploadproces als minder gevoelig voor fouten, omdat documenten bestand voor bestand worden geüpload in plaats van in één grote batch via slepen en neerzetten of zip-upload.
 
 ## 4. **Documentvoorbeeld**
 
@@ -8739,7 +8739,7 @@ Dit is hoe het rechtermenu van de zip-importpagina van een voltooide zip-import 
 
 ## 7. **Desktopconnector**
 
-Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) kunt u automatisch en periodiek de nieuwste versies van Documenten van uw lokale systeem naar Catenda Hub uploaden. De Desktop Connector is sneller dan het normale uploadproces en minimaliseert het risico op fouten doordat deze Documenten bestand-voor-bestand uploadt in plaats van in één groot drag-and-drop of zip-uploadbatch.
+Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) kun je de nieuwste versies van documenten vanuit je lokale systeem automatisch en periodiek uploaden naar Catenda Hub. De Desktop Connector is zowel sneller dan het reguliere uploadproces als minder gevoelig voor fouten, omdat documenten bestand voor bestand worden geüpload in plaats van in één grote drag-and-drop- of zip-uploadbatch.
 
 # Eenvoudigste naamgevingsafspraak
 
@@ -10188,7 +10188,7 @@ conda create -n pdal-env -c conda-forge pdal python=3.10
 Dit doet drie dingen:
 
 - Maak een omgeving met de naam `pdal-env`
-- Installeer PDAL vanuit de **[conda-forge](https://anaconda.org/conda-forge/pdal)**-opslagplaats (meest recente versie)
+- Installeer PDAL uit de **[conda-forge](https://anaconda.org/conda-forge/pdal)**-repository (nieuwste versie)
 - Python installeren (nuttig als u PDAL ook in uw Python-scripts wilt gebruiken)
 
 ### 2.3 Activeer de PDAL-omgeving
@@ -10831,7 +10831,7 @@ Met het vak IFC-vertalers kunt u vertalersinstellingen weergeven of wijzigen, of
 
 ## 3. **3. Verschillende instellingen in de export**
 
-3.1 Met [Model filter](#4-model-filter) kunt u met verschillende presets Filters instellen om te bepalen wat u wilt exporteren. 3.2 Met [Type mapping](#5-type-mapping) kunt u kiezen als welk IFC-type elk element wordt geëxporteerd. 3.3 Met [Geometry conversion](#6-geometry-conversion) kunt u kiezen welk type geometrie u wilt exporteren. 3.4 Met [Property mapping](#10-property-mapping) kunt u criteria instellen op basis van types. 3.5 Met [Data conversion](#11-data-conversion) kunt u kiezen welke gegevens u uit het model wilt exporteren. 3.6 Met [Unit conversion](#12-unit-conversion) kunt u kiezen welke meeteenheden u in uw IFC wilt exporteren.
+3.1 [Modelfilter](#4-model-filter) laat je filteren welke onderdelen je wilt exporteren via verschillende voorinstellingen. 3.2 [Type mapping](#5-type-mapping) laat je kiezen als welk IFC-type elk element wordt geëxporteerd. 3.3 [Geometry conversion](#6-geometry-conversion) laat je kiezen welk type geometrie je wilt exporteren. 3.4 [Property mapping](#10-property-mapping) laat je criteria instellen op basis van typen. 3.5 [Data conversion](#11-data-conversion) laat je kiezen welke soort gegevens je uit het model wilt exporteren. 3.6 [Unit conversion](#12-unit-conversion) laat je kiezen welke meeteenheden je in je IFC wilt exporteren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 
@@ -11718,7 +11718,7 @@ Als u op een locatie tikt, wordt de plattegrond met alle pinnen weergegeven, die
 
 # Maken van Topic board ACL
 
-Beheerders kunnen configureren wie toegang heeft om topic boards te maken in het toegangscontrolesection van de [project settings page](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3).
+Beheerders kunnen instellen wie toegang heeft om Topic boards aan te maken in de sectie toegangsbeheer van de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3).
 
 1. Onder toegangscontrole op deze pagina hebt u "Create new topic board".
 
@@ -11981,7 +11981,7 @@ Teams voor definitieve beoordeling voeren het definitieve resultaat van een goed
 
 # Meetvlak
 
-U kunt het gereedschap voor het maken van een meetvlak vinden in de 3D viewer [tool dropdown](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_003a4c0a62), de derde knop rechtsboven in de [3D viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer).
+Je vindt de tool voor het maken van een meetvlak in de 3D-Viewer via de [tooldropdown](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_003a4c0a62), die de derde knop rechtsboven in de [3D-Viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) is.
 
 ## 1. **Meetvlak maken**
 
@@ -12417,7 +12417,7 @@ Als subpagina's van de modellapagina vindt u de volgende pagina's:
 
 - [Opgeslagen views](https://support.catenda.com/nl/articles/4670281-pagina-opgeslagen-views)
 - [Objecten](https://support.catenda.com/nl/articles/12352750-objectenpagina)
-- [Storey Configurator](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina)
+- [Verdiepingsconfigurator](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina)
 
 # Naamgeving middenniveau
 
@@ -13400,7 +13400,7 @@ Dit is hoe een concept van een nieuwe opmerking er uit kan zien voor het indiene
 
 # Onderwerpsgeschiedenis
 
-U kunt de knop voor onderwerpsgeschiedenis bovenaan de [topic body](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp) vinden. Door op deze knop te klikken, kunt u de geschiedenis van alle wijzigingen die aan het onderwerp zijn aangebracht, uitvouwen.
+U vindt de knop voor de geschiedenis van de Topics bovenaan de [hoofdtekst van de Topics](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp). Door op deze knop te klikken, klapt u de geschiedenis uit van alle wijzigingen die zijn aangebracht terwijl de Topics in uw Catenda-project aanwezig waren.
 
 In de onderwerpsgeschiedenis kunt u informatie over de volgende onderwerpen vinden:
 
@@ -13786,7 +13786,7 @@ Neem contact op met de Catenda-verkoop om Catenda AI Connect te gaan gebruiken: 
 
 > Een versie van de Catenda Desktop Connector voor organisaties die software installeren in een besturingssysteemafbeelding, die kan worden aangevraagd.
 
-De Catenda Desktop Connector plant uploads en downloads in tussen Catenda Hub en een computer, en wordt beschreven in [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector). Een versie voor organisaties die software in een besturingssysteemafbeelding installeren, kan worden aangevraagd.
+De Catenda Desktop Connector plant uploads en downloads tussen Catenda Hub en een computer en wordt beschreven in [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector). Een versie voor organisaties die software installeren in een besturingssysteemimage kan worden aangevraagd.
 
 ## 1. **Wat het is**
 
@@ -13802,7 +13802,7 @@ De Catenda Desktop Connector werkt met projecten in Catenda Hub. Neem contact op
 
 > Catenda voor Power BI brengt Catenda Hub-projectgegevens in Power BI. Een volgende versie, met visuele elementen en een kant-en-klaar rapportTemplate, is beschikbaar op aanvraag.
 
-Catenda voor Power BI brengt de gegevens van een Catenda Hub-project in Microsoft Power BI, voor rapporten over de modellen, Documenten en Topics van het project. De uitgebrachte [Catenda Power BI Connector](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) is beschikbaar voor elke Catenda-klant. Een volgende versie is beschikbaar op aanvraag: deze kan vóór de release aan iedereen worden aangevraagd.
+Catenda for Power BI brengt de gegevens van een Catenda Hub-project naar Microsoft Power BI, voor rapporten over de modellen, Documenten en Topics van het project. De vrijgegeven [Catenda Power BI Connector](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) is beschikbaar voor elke Catenda-klant. Een volgende versie is op aanvraag beschikbaar: die kan vóór de release aan iedereen worden aangevraagd.
 
 ## 1. **Wat het is**
 
@@ -16111,7 +16111,7 @@ PC kan net als elk ander document in het documentgebied worden geüpload. Voor d
 
 ### 1.1 **PC-gegevens uploaden**
 
-Het is raadzaam om de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) te gebruiken of uw PC-bestand in een gecomprimeerde map te comprimeren en de [zip-import](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) te gebruiken om uw PC te uploaden. Deze methoden helpen u tijd besparen omdat de uploadbestandsgrootte kleiner is en het risico op een netwerkfout wordt geminimaliseerd, omdat het bestand sneller wordt geüpload
+Het wordt aanbevolen om de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) te gebruiken of uw PC-bestand te comprimeren tot een gezipte map en de [zip-import](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) te gebruiken om uw PC te uploaden. Deze methoden helpen u tijd te besparen, omdat de grootte van het uploadbestand kleiner wordt, en minimaliseren het risico op een netwerkfout, omdat het bestand sneller wordt geüpload
 
 Nadat u een PC naar het documentgebied hebt geüpload, wordt de documentvoorbeeldverwerking gestart. Terwijl de voorbeeldverwerking plaatsvindt, ziet u een grijze balk aan de bovenkant van uw documentvoorbeeld.
 
@@ -16344,11 +16344,11 @@ Ook al kan het voorkomen dat u ondervindt dat uw prestaties beperkt zijn. Dit ka
 
 ## 2. **Een query maken**
 
-Query's kunnen worden gemaakt vanuit de [2D viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) of vanuit een eigenschappenbibliotheek. Met de [2D viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) kunt u eenvoudig een gebied in het project selecteren dat u wilt laden. Met een eigenschappenbibliotheek kunt u eenvoudig objecten met een specifieke eigenschap selecteren die u wilt laden.
+Queries kunnen worden gemaakt vanuit de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) of vanuit een eigenschappenbibliotheek. Met de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) kunt u eenvoudig een gebied in het project selecteren dat u wilt laden. Met een eigenschappenbibliotheek kunt u eenvoudig objecten met een specifieke eigenschap selecteren die u wilt laden.
 
 ## 3. **2D viewer-query**
 
-Als u een query wilt maken vanuit de [2D viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer), opent u de 2D-weergave van een model:
+Om een query vanuit de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) te maken, opent u de 2D-weergave van een model:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/01-2d-viewer-query.png)
 
@@ -16359,7 +16359,7 @@ Dit helpt u begrijpen vanaf welke locatie in het project uw objecten worden gese
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/02-intersecting-space-query.png)
 
 1. Klik met de rechtermuisknop op een ruimte
-2. Selecteer _Kruisende ruimte_
+1. Selecteer _Kruisende ruimte_
 
 Dit laadt alle geometrie die de as-uitgelijnde begrenzingsvak van de ruimte kruist.
 
@@ -16370,7 +16370,7 @@ Dit laadt alle geometrie die de as-uitgelijnde begrenzingsvak van de ruimte krui
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/04-intersecting-storey-query.png)
 
 1. Klik met de rechtermuisknop in de viewer
-2. Selecteer _Kruisende verdieping_
+1. Selecteer _Kruisende verdieping_
 
 Dit laadt alle geometrie binnen de boven- en ondervlakken van de verdieping.
 
@@ -16381,18 +16381,18 @@ Dit laadt alle geometrie binnen de boven- en ondervlakken van de verdieping.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/06-rectangle-selection.png)
 
 1. Klik op de queryrecthoekknop.
-2. Klik, sleep en laat los om een rechthoek te tekenen.
-3. Geef de modellen op die u wilt laden in de query-popover.
+1. Klik, sleep en laat los om een rechthoek te tekenen.
+1. Geef de modellen op die u wilt laden in de query-popover.
 
 **Query-popover**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/07-rectangle-selection.png)
 
 1. Selecteer huidige verdieping of volledige hoogte.
-2. Selecteer Elk, Extern of Intern.
-3. Schakel alle modellen in of uit.
-4. Selecteer welke modellen in de query moeten worden opgenomen.
-5. Maak een query.
+1. Selecteer Elk, Extern of Intern.
+1. Schakel alle modellen in of uit.
+1. Selecteer welke modellen in de query moeten worden opgenomen.
+1. Maak een query.
 
 ## 4. **Eigenschappenbibliotheek-query**
 
@@ -16510,7 +16510,7 @@ De volgende pagina's zijn te vinden als subpagina's op de rapportenpagina:
 
 # Rechtermenu in een topic
 
-Het rechtermenu in een topic kan worden geopend door op de informatieknop rechts in het [topic banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) bovenaan de pagina te klikken nadat je een topic hebt geopend.
+Het rechtermenu van een Topics is te vinden door na het openen van een Topics bovenaan de pagina op de informatieknop rechts in de [Topics-banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/01-intro.png)
 
@@ -16564,7 +16564,7 @@ Voor mappen worden de naam van de map weergegeven, samen met labels die aan de m
 - Grootte van de meest recente revisie
 - Maker van de meest recente revisie
 - Aantal 3D-objecten gekoppeld aan het gerelateerde document
-  - Klik op het objectaantal om het 3D-objectactiemenu te openen.
+    - Klik op het objectaantal om het 3D-objectactiemenu te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 
@@ -16640,9 +16640,9 @@ Alle topics kunnen worden geselecteerd door op het vak bovenaan te klikken, of d
 
 # Rechtermenu in een topic board
 
-Het rechtermenu op de [topics pagina](https://support.catenda.com/nl/articles/4670271-pagina-topics) kan worden geopend door op het informatiepictogram rechts van de zoekbalk onder de [topic banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) te klikken. Klik op het pictogram om een menu te openen dat informatie bevat over geselecteerde topics en topic boards.
+Het rechtermenu op de pagina [Topics](https://support.catenda.com/nl/articles/4670271-pagina-topics) vind je door te klikken op het infopictogram rechts van de zoekbalk, onder de [topicbanner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics). Klik op het pictogram om een menu te openen met informatie over geselecteerde topics en topic boards.
 
-Dit is hoe de [topic banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) eruit kan zien:
+Zo kan de [topicbanner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) eruitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/01-intro.png)
 
@@ -16696,7 +16696,7 @@ Dit is hoe het rechtermenu eruit kan zien wanneer een enkele topic is geselectee
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/07-3-1-update-selected-topic.png)
 
-**3.1.1 Topic header** Dit is hoe de [topic header](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp) eruit kan zien:
+**3.1.1 Topic header** Zo kan de [topicheader](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp) eruitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/08-3-1-update-selected-topic.png)
 
@@ -18439,7 +18439,7 @@ _Chrome_ [https://support.google.com/chrome/answer/157179?hl=en&sjid=78951287671
 
 ### **Uitsnijden in het model vanuit 2D**
 
-Begin met het uitlijnen van uw 2D-plan op de gewenste manier met behulp van de [Rotate tool](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_c70412a63f). Kies vervolgens [Section: Create clipping planes](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_2265eef562) en sleep een rechthoek om de verticale uitsnijdingsvlakken aan te geven. Selecteer de hoogte van de huidige verdieping of de volledige hoogte. Klik op Clip region.
+Begin met het uitlijnen van je 2D-plan zoals je wilt door de [Rotate tool](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_c70412a63f) te gebruiken. Kies vervolgens de [Section: Create clipping planes](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_2265eef562) en sleep een rechthoek om de verticale snijvlakken aan te geven. Selecteer de hoogte van de huidige verdieping of de volledige hoogte. Klik op Clip region.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xyh08ptx/01-clipping-in-the-model-from-2d.png)
 
@@ -18447,7 +18447,7 @@ U kunt nu [de uitsnijdingsvlakken verplaatsen](https://support.catenda.com/nl/ar
 
 ### **Objecten selecteren vanuit 2D**
 
-[Section: Select objects](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_9ba868389c) werkt op vergelijkbare wijze en selecteert alles wat wordt aangeraakt door de "virtuele doos" die wordt gedefinieerd door de selectiechthoek en hoogte. Om terug te gaan naar normale selectie in 2D klikt u op [Select](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_6e9b382c42).
+[Section: Select objects](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_9ba868389c) werkt op een vergelijkbare manier en selecteert alles wat wordt geraakt door de "virtual box" die wordt bepaald door de selectierechthoek en hoogte. Klik op [Select](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_6e9b382c42) om terug te keren naar normale selectie in 2D.
 
 # Sharepoint bibliotheek
 
@@ -18565,7 +18565,7 @@ Nadat u een document hebt geopend, ziet u het menu Onderwerpen. Hier kunt u uw S
 
 ## 7. **Machtigingen**
 
-Wanneer documenten van een SharePoint-documentbibliotheek naar Catenda worden geüpload, wordt de sharepoint rest-api gebruikt (via de [pnpjs](https://pnp.github.io/pnpjs/) bibliotheek). Aangezien deze machtigingen standaard aan spfx-oplossingen worden verleend, hoeft er geen aanvullende machtiging te worden verleend. De volgende machtigingen zijn nodig zodat de app toegang heeft tot de Catenda-backend. Alleen gedelegeerde machtigingen worden gebruikt met de volgende bereiken: _[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ De bovenstaande toegang wordt alleen gebruikt om het delen van documenten met het Catenda-project van gebruikers goed te keuren.
+Wanneer documenten worden geüpload van een SharePoint-documentbibliotheek naar Catenda, wordt de SharePoint REST-API gebruikt (via de [pnpjs](https://pnp.github.io/pnpjs/)-bibliotheek). Omdat deze rechten standaard aan spfx-oplossingen worden verleend, hoeft er geen aanvullende toekenning te worden gedaan. De volgende toekenningen zijn nodig zodat de app toegang krijgt tot de Catenda-backend. Er worden alleen gedelegeerde rechten gebruikt met de volgende scopes: _[User.Read](https://graphpermissions.merill.net/permission/User.Read) [offline\_access](https://graphpermissions.merill.net/permission/offline_access) [Files.Read](https://graphpermissions.merill.net/permission/Files.Read)_ _[Sites.Read.All](https://graphpermissions.merill.net/permission/Sites.Read.All)_ De bovenstaande toegang wordt alleen gebruikt om het delen van documenten met het Catenda-project van de gebruiker goed te keuren.
 
 # Solibri Topics-integratie
 
@@ -19425,7 +19425,7 @@ Op apparaten met beperkte schermgrootte moeten knoppen groter zijn, zodat u ziet
 
 ### 1.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda) is onze mobile app in early access, beschikbaar voor iPhone en iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) en voor Android op [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Het dekt Topics, locaties, formulieren en Documenten, en in de loop der tijd zal het alle functies van Catenda Site krijgen. De app wordt samen met klanten in het Co-creation-programma ontwikkeld en is niet definitief, dus het kan nog aanzienlijk veranderen.
+[Catenda Mobile](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda) is onze mobiele app in vroege toegang, beschikbaar voor iPhone en iPad via [TestFlight](https://testflight.apple.com/join/xj6WppjQ) en voor Android via [Google Play](https://play.google.com/store/apps/details?id=com.catenda.apex). Deze app bevat topics, locaties, formulieren en documenten, en na verloop van tijd krijgt hij alle functies van Catenda Site. De app wordt samen met klanten in het Co-creation-programma ontwikkeld en is nog niet definitief, dus hij kan nog aanzienlijk veranderen.
 
 ## 2. **Startscherm / Dashboard / Dock -** Volledige functionaliteit
 
@@ -19588,8 +19588,8 @@ Documenttoegang kan snel ingewikkeld worden en u kunt het overzicht verliezen ov
 ### 5.1 **Ledentoegang**
 
 <a class="intercom-content-link" href="" target="_blank">Issue board ACL</a>
-[Document ACL](https://support.catenda.com/nl/articles/4670287-mappen-en-documenten-toegangscontrole) <a class="intercom-content-link" href="" target="_blank">Project setting ACL</a>
-[Models ACL](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten#h_c2ab781496) is dezelfde als Documenten ACL met modellen als documenten
+[Document ACL](https://support.catenda.com/nl/articles/4670287-mappen-en-documenten-toegangscontrole) <a class="intercom-content-link" href="" target="_blank">Projectinstelling ACL</a>
+[Models ACL](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten#h_c2ab781496) is hetzelfde als Documenten ACL met models als documenten
 
 ### 5.2 **Beheerderstoegang**
 
@@ -20296,7 +20296,7 @@ Eindelijk komen we bij Catenda Topics aan. Topics zijn erop gericht alle communi
 - _<a class="intercom-content-link" target="_blank">Geschiedenis</a> -_ Je kunt de datum zien van wanneer een topic is geregistreerd en gewijzigd.
 - _Zoekmogelijkheden_ - Tekst in topics kan [worden doorzocht](https://support.catenda.com/nl/articles/8370693-filteren-op-de-onderwerppagina) en [labels kunnen worden toegepast](https://support.catenda.com/nl/articles/4670265-pagina-labels) om de vitale communicatie te vinden die je zoekt
 - _Beschikbaarheid_ - Als het project goed is ingesteld, [hebben de juiste personen altijd toegang](https://support.catenda.com/nl/articles/4670296-toegangscontrole-topic-board) tot de juiste informatie van overal met een internetverbinding ([Zelfs zonder!](https://support.catenda.com/nl/articles/7325268-offline-modus-in-catenda-site))
-- _Overzicht_ - Topics kunnen in verschillende [topic boards](https://support.catenda.com/nl/articles/6379614-topic-board-van-een-bestaand-topic-board) worden verdeeld om één gespreksstroom gescheiden te houden van een ander.
+- _Overzicht_ - Topics kunnen worden onderverdeeld in verschillende [topic boards](https://support.catenda.com/nl/articles/6379614-topic-board-van-een-bestaand-topic-board) om de ene gespreksstroom gescheiden te houden van de andere.
 - _[Verantwoordelijkheid](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp#h_dec8c710f5)_ - Topics kunnen aan personen worden toegewezen om duidelijk te maken wie verantwoordelijk is voor elk stukje gesprek
 - _Informatiestroom_ - Hoewel iedereen die toegang heeft tot het topic wordt genotificeerd wanneer het voor het eerst wordt gemaakt, kunt u ervoor zorgen dat de juiste groep personen [op de hoogte wordt gesteld over de voortgang](https://support.catenda.com/nl/articles/7439223-pagina-accountnotificaties) van een topic.
 
@@ -20852,7 +20852,7 @@ _Meer informatie over documentenverzameling <a class="intercom-content-link" hre
 
 # Een nieuwe goedkeuringswerkstroom maken - Korte video
 
-[Guidde video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
+[Guidde-video](https://embed.app.guidde.com/playbooks/eu_pVvhvQyjEqKxAf7HrqeSVv)
 
 Deze zelfstudie begeleidt u door het maken van een nieuw goedkeuringsverzoek in Catenda Hub. Als u dit nog niet hebt gedaan, bekijk alstublieft eerst de video "Een nieuwe goedkeuringswerkstroomsjabloon maken".
 
@@ -21162,7 +21162,7 @@ _Meer informatie over het gebruik van de functie voor hoeveelheid uittellen <a c
 
 # IFC's exporteren - Korte video
 
-[YouTube video](https://www.youtube.com/embed/kVA0QqXNlUw?rel=0)
+[YouTube-video](https://www.youtube.com/embed/kVA0QqXNlUw?rel=0)
 
 Revit IFC Export
 
@@ -21204,7 +21204,7 @@ Merk op dat uw URL verandert wanneer u op de verschillende video's klikt. Wannee
 
 # Maak een nieuwe goedkeuringswerkstroomsjabloon - Korte video
 
-[Guidde video](https://embed.app.guidde.com/playbooks/eu_fUBwAB5gUE7vhCJsnU1kGi)
+[Guidde-video](https://embed.app.guidde.com/playbooks/eu_fUBwAB5gUE7vhCJsnU1kGi)
 
 In deze zelfstudie leert u hoe u een nieuwe goedkeuringswerkstroomsjabloon in Catenda Hub kunt maken.
 
@@ -21446,7 +21446,7 @@ U kunt meer informatie over opgeslagen views vinden op de [pagina opgeslagen vie
 
 Deze korte tutorial laat je zien hoe je de revision selector kunt gebruiken om modellen in 2D en 3D te openen. Je kunt ook zien hoe je twee modellen kunt vergelijken.
 
-[YouTube video](https://www.youtube.com/embed/1oRdrlQwiBA?rel=0)
+[YouTube-video](https://www.youtube.com/embed/1oRdrlQwiBA?rel=0)
 
 # Sharelink - Korte video
 
@@ -21454,7 +21454,7 @@ Deze korte tutorial laat je zien hoe je de revision selector kunt gebruiken om m
 
 # SharePoint Bibliotheek - Korte video
 
-[YouTube video](https://www.youtube.com/embed/J86W3Am70Nc?rel=0)
+[YouTube-video](https://www.youtube.com/embed/J86W3Am70Nc?rel=0)
 
 Klik [hier](https://support.catenda.com/nl/articles/5744548-sharepoint-bibliotheek) om meer informatie over de SharePoint Bibliotheek te lezen.
 
@@ -22359,7 +22359,7 @@ Uw succes wordt gemeten door het verstrekken van een "clash-vrij" statusrapport 
 
 # 2D locatie van topics - Catenda Site
 
-Locatie kan worden toegepast op topics door een markering te plaatsen op een x, y, z coördinaat in de [2D viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer). Gekleurde stippen markeren de locatie van topics in de 2D viewer, wat een onmiddellijk visueel begrip geeft van waar topics zich bevinden, evenals hun status en type. Door topic-locaties te gebruiken kan uw project aanzienlijk verbeterde controle over de plaatsing van topics bereiken. Deze functie completeert de functionaliteit van onze browsertoepassing, [Catenda Hub](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site). Met markeringen kunnen projecten gebruikmaken van naadloos creëren, monitoren en beheren van topics die in het veld zijn gemaakt, terug achter het bureau.
+Locatie kan aan Topics worden toegekend door een markering te plaatsen op een x-, y-, z-coördinaat in de [2D Viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer). Gekleurde stippen markeren de locatie van Topics in de 2D Viewer, wat direct visueel inzicht geeft in waar Topics zich bevinden, evenals hun Status en type. Met topiclocaties kan uw project een aanzienlijk verbeterde controle over de plaatsing van Topics krijgen. Deze functie vult de functionaliteit van onze browsertoepassing aan, [Catenda Hub](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site). Met markeringen krijgen projecten de mogelijkheid tot naadloze creatie, monitoring en beheer van Topics die in het veld worden aangemaakt en later achter het bureau worden verwerkt.
 
 Dit is hoe markeringen er uit kunnen zien in de 2D viewer op Catenda Site:
 
@@ -22877,7 +22877,7 @@ Topicgegevens kunnen in drie primaire formaten worden geëxtraheerd via [topics 
 
 ### 2.4 **Desktop Connector (geautomatiseerde lokale back-up)**
 
-De [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) maakt achtergrondynchronisatie mogelijk om periodiek nieuwe documentrevisies rechtstreeks naar een lokaal station te downloaden. In tegenstelling tot batchwebexports arriveren gedownloade documenten rechtstreeks op uw systeem als ongecomprimeerde bestanden zonder dat u handmatig archief hoeft uit te pakken.
+Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) kunt u op de achtergrond synchroniseren, zodat nieuwe revisions van documenten periodiek rechtstreeks naar een lokale schijf worden gedownload. Anders dan bij batchgewijze webexports komen gedownloade documenten direct op uw systeem terecht als ruwe, niet-gezipte bestanden, zonder dat ze handmatig uit een archief hoeven te worden uitgepakt.
 
 **Geplande en instant back-ups** Taken kunnen zodanig worden gepland dat ze automatisch met regelmatige intervallen worden uitgevoerd of op aanvraag, zodat projectleden een actuele lokale kopie van documenten behouden, zelfs als projecttoegang onverwacht wordt ingetrokken.
 
@@ -22922,7 +22922,7 @@ Wat kan worden geëxporteerd en in welke bestandsindelingen wordt beschreven in 
 
 ## 3. **Catenda Data Export**
 
-Catenda Data Export wordt apart verkocht van Catenda Hub. In tegenstelling tot de bovenstaande downloads kopieert het automatisch projectgegevens rechtstreeks van Catenda Hub naar de eigen cloudopslag van een organisatie in Amazon S3 of Azure Blob Storage. Het is geschikt voor organisaties die een back-up willen die meegaat met hun projecten, of projectrecords die in hun eigen opslag worden bewaard. Het is niet alleen voor projecteigenaren. Een projecteigenaar kan een volledige back-up van zijn projecten exporteren, en een projectdeelnemer kan wat hij toegang tot heeft in de projecten waarin hij deelneemt exporteren. Meer informatie hierover vindt u in [Over Catenda Data Export](https://support.catenda.com/nl/articles/17779020-over-catenda-data-export) _(voor lezers die niet zijn aangemeld)_ en [Inleiding tot Catenda Data Export](https://support.catenda.com/nl/articles/17779027-inleiding-tot-catenda-data-export) _(alleen aangemelde klanten)_. Klanten die dit hebben, vinden de instelling in [Catenda Data Export](https://support.catenda.com/nl/articles/17779052-catenda-data-export) _(alleen Data Export-klanten)_.
+Catenda Data Export wordt los van Catenda Hub verkocht. Anders dan bij de hierboven genoemde downloads kopieert deze service projectgegevens automatisch, rechtstreeks van Catenda Hub naar de eigen cloudopslag van een organisatie in Amazon S3 of Azure Blob storage. Het is geschikt voor organisaties die een back-up willen die gelijke tred houdt met hun projecten, of voor projectregistraties die in hun eigen opslag moeten worden bewaard. Het is niet alleen bedoeld voor projecteigenaren. Een projecteigenaar kan een volledige back-up van zijn projecten exporteren, en een projectdeelnemer kan exporteren wat hij binnen de projecten waaraan hij deelneemt, kan inzien. Meer informatie vindt u in [Over Catenda Data Export](https://support.catenda.com/nl/articles/17779020-over-catenda-data-export) _(voor lezers die niet zijn aangemeld)_ en [Introductie van Catenda Data Export](https://support.catenda.com/nl/articles/17779027-inleiding-tot-catenda-data-export) _(alleen voor aangemelde klanten)_. Klanten die deze service hebben, vinden de installatie in [Catenda Data Export](https://support.catenda.com/nl/articles/17779052-catenda-data-export) _(alleen voor Data Export-klanten)_.
 
 # Bestandstypen bekijken op Catenda Hub
 
@@ -23504,15 +23504,15 @@ Catenda Site is beschikbaar voor iPhone, Android-telefoons en -tablets, iPad, iP
 
 ### 1.1 **iOS: iPhone en iPod touch**
 
-Op een iPhone of iPod touch wordt Catenda Site geïnstalleerd vanuit de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist iOS 13.4 of later. Het iPadOS 16 en 17-probleem met de 3D Viewer op iPad dat hieronder wordt beschreven, is niet van toepassing op iPhone.
+Op een iPhone of iPod touch wordt Catenda Site geïnstalleerd via de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist iOS 13.4 of later. Het probleem met de 3D-viewer op iPadOS 16 en 17, hieronder beschreven, heeft geen invloed op iPhone.
 
 ### 1.2 **Android: telefoons en tablets**
 
-Op een Android-telefoon of -tablet wordt Catenda Site geïnstalleerd vanuit [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile). Catenda Site vereist Android 7.0 of later. Als Google Play meldt dat Catenda Site niet beschikbaar is voor uw apparaat, is dit geen beperking van het apparaat. Hoe u de app in dat geval installeert, wordt beschreven in [Catenda Site - Troubleshooting](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
+Op een Android-telefoon of -tablet wordt Catenda Site geïnstalleerd via [Google Play](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile). Catenda Site vereist Android 7.0 of later. Als Google Play meldt dat Catenda Site niet beschikbaar is voor jouw apparaat, betekent dit niet dat het apparaat niet wordt ondersteund. Hoe je de app in dat geval installeert, staat beschreven in [Catenda Site - Troubleshooting](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing#not-available-for-your-device-in-google-play).
 
 ### 1.3 **iPadOS: iPad**
 
-Op een iPad wordt Catenda Site geïnstalleerd vanuit de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist iPadOS 13.4 of later. De 3D Viewer werkt op iPadOS 15 en eerder, en op iPadOS 18 en later. Op iPadOS 16 en 17 voorkomt een fout in iPadOS dat de app 3D-modellen weergeeft, dus werk een iPad met een van deze versies bij naar iPadOS 18 als een update beschikbaar is. De volgende iPads kunnen niet verder worden bijgewerkt dan iPadOS 16 of 17, dus de 3D Viewer in Catenda Site werkt niet op deze apparaten zodra zij een van deze versies uitvoeren:
+Op een iPad wordt Catenda Site geïnstalleerd via de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist iPadOS 13.4 of later. De 3D-viewer werkt op iPadOS 15 en eerder, en op iPadOS 18 en later. Op iPadOS 16 en 17 zorgt een fout in iPadOS ervoor dat de app geen 3D-modellen kan weergeven. Werk een iPad met een van deze versies daarom bij naar iPadOS 18 als er een update beschikbaar is. De volgende iPads kunnen niet verder worden bijgewerkt dan iPadOS 16 of 17, waardoor de 3D-viewer in Catenda Site op deze apparaten niet werkt zodra ze een van deze versies draaien:
 
 - iPad (5e en 6e generatie)
 - iPad Pro 9,7-inch
@@ -23523,7 +23523,7 @@ Op deze iPads kunnen modellen nog steeds worden bekeken in Catenda Hub in Safari
 
 ### 1.4 **visionOS: Apple Vision**
 
-Op Apple Vision wordt Catenda Site geïnstalleerd vanuit de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist visionOS 1.0 of later.
+Op Apple Vision wordt Catenda Site geïnstalleerd via de [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790). Catenda Site vereist visionOS 1.0 of later.
 
 ## 2. **Het meeste uit de 3D Viewer halen**
 
@@ -25530,7 +25530,7 @@ Dankzij jullie waardevol feedback hebben we veel onderwerpen kunnen oplossen die
 
 ## 1. Artikelen
 
-_Nieuwe artikelen:_ Catenda Hub [Bimsync is nu Catenda Hub](https://support.catenda.com/nl/articles/7890769-bimsync-is-nu-catenda-hub) [Landingspagina](https://support.catenda.com/nl/articles/8400797-projectenpagina) [Zijpaneel in een issue board](https://support.catenda.com/nl/articles/6941224-rechtermenu-in-een-topic-board) [Alle projectgegevens exporteren](https://support.catenda.com/nl/articles/7946690-alles-projectgegevens-exporteren) [Naamconventie-pagina](https://support.catenda.com/nl/articles/7832559-pagina-naamgevingsafspraken) [Eenvoudigste naamconventie](https://support.catenda.com/nl/articles/7845360-eenvoudigste-naamgevingsafspraak) [Gemiddelde naamconventie](https://support.catenda.com/nl/articles/7936943-naamgeving-middenniveau) [Geavanceerde naamconventie](https://support.catenda.com/nl/articles/7936947-geavanceerde-naamgevingsconventie) Catenda Site [Download uw mobiele app Catenda Site 📲](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site) [Documenten - Catenda Site](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site) [Dashboard - Catenda Site](https://support.catenda.com/nl/articles/7213817-dashboard-catenda-site) [Navigatiemenu - Catenda Site](https://support.catenda.com/nl/articles/7338516-navigatiemenu-catenda-site) [Projectenpagina - Catenda Site](https://support.catenda.com/nl/articles/7733978-projectenpagina-catenda-site) [Instellingen - Catenda Site](https://support.catenda.com/nl/articles/7733833-instellingen-catenda-site) [Issuepagina - Catenda Site](https://support.catenda.com/nl/articles/7734073-onderwerpen-menu-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/nl/articles/7734138-2d-3d-catenda-site) [Offlinemodus in Catenda Site](https://support.catenda.com/nl/articles/7325268-offline-modus-in-catenda-site) [3D-viewer - Catenda Site](https://support.catenda.com/nl/articles/7744403-3d-viewer-catenda-site) [2D-viewer - Catenda Site](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site) [Labelfilter - Catenda Site](https://support.catenda.com/nl/articles/7854138-labelfilter-catenda-site) _Artikelen die zijn gewijzigd:_ [Projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen) [Systeemvereisten en optimalisatie](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling) [Modelenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina) [Modelpagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud)
+_Nieuwe artikelen:_ Catenda Hub [Bimsync is nu Catenda Hub](https://support.catenda.com/nl/articles/7890769-bimsync-is-nu-catenda-hub) [Landingspagina](https://support.catenda.com/nl/articles/8400797-projectenpagina) [Zijpaneel in een issue board](https://support.catenda.com/nl/articles/6941224-rechtermenu-in-een-topic-board) [Alle projectgegevens exporteren](https://support.catenda.com/nl/articles/7946690-alles-projectgegevens-exporteren) [Pagina over naamgevingsafspraken](https://support.catenda.com/nl/articles/7832559-pagina-naamgevingsafspraken) [Eenvoudigste naamgevingsafspraak](https://support.catenda.com/nl/articles/7845360-eenvoudigste-naamgevingsafspraak) [Gemiddelde naamgevingsafspraak](https://support.catenda.com/nl/articles/7936943-naamgeving-middenniveau) [Geavanceerde naamgevingsafspraak](https://support.catenda.com/nl/articles/7936947-geavanceerde-naamgevingsconventie) Catenda Site [Download je mobiele app Catenda Site 📲](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site) [Documenten - Catenda Site](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site) [Dashboard - Catenda Site](https://support.catenda.com/nl/articles/7213817-dashboard-catenda-site) [Navigatiemenu - Catenda Site](https://support.catenda.com/nl/articles/7338516-navigatiemenu-catenda-site) [Projectenpagina - Catenda Site](https://support.catenda.com/nl/articles/7733978-projectenpagina-catenda-site) [Instellingen - Catenda Site](https://support.catenda.com/nl/articles/7733833-instellingen-catenda-site) [Issues-pagina - Catenda Site](https://support.catenda.com/nl/articles/7734073-onderwerpen-menu-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/nl/articles/7734138-2d-3d-catenda-site) [Offlinemodus in Catenda Site](https://support.catenda.com/nl/articles/7325268-offline-modus-in-catenda-site) [3D-viewer - Catenda Site](https://support.catenda.com/nl/articles/7744403-3d-viewer-catenda-site) [2D-viewer - Catenda Site](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site) [Labels filter - Catenda Site](https://support.catenda.com/nl/articles/7854138-labelfilter-catenda-site) _Gewijzigde artikelen:_ [Pagina projectinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen) [Systeemvereisten en optimalisatie](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling) [Modellenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina) [Modelpagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud)
 
 ## 2. Opgeloste problemen
 
@@ -25558,17 +25558,17 @@ _Nieuwe artikelen:_ Catenda Hub [Bimsync is nu Catenda Hub](https://support.cate
 
 ## 3. Plugins en integraties
 
-_[Revit plugin](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin)_ Versie 1.0.8 van de Revit-plugin bevat:
+_[Revit plugin](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin)_ Versie 1.0.8 van de Revit-plugin zal het volgende bevatten:
 
 - Teams filteren
 - Aangepaste exportopties werken opnieuw
 - Rebrandingupdate
 
-_[Archicad plugin](https://support.catenda.com/nl/articles/5519276-catenda-archicad-plugin)_ Versie 1.1.9 nu beschikbaar voor Windows en Mac Rebrandingupdate
+_[Archicad plugin](https://support.catenda.com/nl/articles/5519276-catenda-archicad-plugin)_ Versie 1.1.9 nu beschikbaar voor Windows en Mac Rebranding-update
 
-_[Tekla plugin](https://support.catenda.com/nl/articles/6549656-catenda-tekla-plugin)_ Versie 1.1.1 nu beschikbaar voor: Tekla 2022 Tekla 2021 Tekla 2020 Rebrandingupdate
+_[Tekla plugin](https://support.catenda.com/nl/articles/6549656-catenda-tekla-plugin)_ Versie 1.1.1 nu beschikbaar voor: Tekla 2022 Tekla 2021 Tekla 2020 Rebranding-update
 
-_[Navisworks plugin](https://support.catenda.com/nl/articles/5085987-catenda-navisworks-plugin)_ Versie 1.3.0 nu beschikbaar. Rebrandingupdate
+_[Navisworks plugin](https://support.catenda.com/nl/articles/5085987-catenda-navisworks-plugin)_ Versie 1.3.0 nu beschikbaar. Rebranding-update
 
 **Desktopconnector** Versie 1.0.0.0 nu beschikbaar op aanvraag
 
@@ -25813,7 +25813,7 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 - Modellen als documenten is nu volledig vrijgegeven.
 - Issues zijn hernoemd naar Topics.
 
-_Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+_Catenda Site:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
 **Nieuwe versie 3.3.1**
 
@@ -25879,7 +25879,7 @@ _[Documenten structureren](https://support.catenda.com/nl/articles/8542598-docum
 
 **Instellingen** [Labels pagina](https://support.catenda.com/nl/articles/4670265-pagina-labels) [Een team maken](https://support.catenda.com/nl/articles/4670264-een-team-aanmaken)
 
-**Plugins en integraties** [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) [Integratie Power BI](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) [IFC Archicad Handleiding](https://support.catenda.com/nl/articles/4670338-ifc-export-archicad-handboek) [Archicad-plugin](https://support.catenda.com/nl/articles/5519276-catenda-archicad-plugin) [Solibri Modellen als documenten integratie](https://support.catenda.com/nl/articles/6988148-solibri-modellen-en-documenten-integratie)
+**Plugins en integraties** [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) [Integratie Power BI](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) [IFC Archicad-handleiding](https://support.catenda.com/nl/articles/4670338-ifc-export-archicad-handboek) [Archicad-plugin](https://support.catenda.com/nl/articles/5519276-catenda-archicad-plugin) [Solibri Models as Documents-integratie](https://support.catenda.com/nl/articles/6988148-solibri-modellen-en-documenten-integratie)
 
 **Catenda Site** [Download je mobiele app Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site)
 
@@ -25946,7 +25946,7 @@ Het is nu mogelijk voor beheerders om opgeslagen views te verwijderen die door g
 
 ## 4. **Nieuwe releases** - Catenda Site, Plugins en integraties
 
-**Catenda Hub:** _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+**Catenda Hub:** _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
 **Tekla-plugin v1.1.2:** [Tekla 2023](https://hub.catenda.com/share/collections/9f0Kkozjylg9MLecxP47FsJIzHOzT9fhAA351KHi5mJq) [Tekla 2022](https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd) [Tekla 2021](https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL) [Tekla 2020](https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy)
 
@@ -25978,7 +25978,7 @@ _Recente updates_ [Statuswerkstroom🖥️Gedeeld ->✔️Gepubliceerd](https://
 
 **Projectinstellingen** [Nieuwe labels maken](https://support.catenda.com/nl/articles/8626709-nieuwe-labels-maken)
 
-**Plugins en integraties** [Revit changelog - 1.0.11](https://support.catenda.com/nl/articles/9966204-revit-wijzigingenlogboek-1-0-11)
+**Plug-ins en integraties** [Revit-changelog - 1.0.11](https://support.catenda.com/nl/articles/9966204-revit-wijzigingenlogboek-1-0-11)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -26008,9 +26008,9 @@ _Informatiepaneel_ [Inspectmenu](https://support.catenda.com/nl/articles/4670285
 
 **Instellingen**
 
-**Plugins en integraties** [Revit IFC Export Manual](https://support.catenda.com/nl/articles/4670341-revit-ifc-export-handleiding) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)
+**Plug-ins en integraties** [Revit IFC Export-handleiding](https://support.catenda.com/nl/articles/4670341-revit-ifc-export-handleiding) [IFC Export Archicad-handleiding](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/nl/articles/9930034-catenda-site-changelog-3-5-0) [Documenten menu - Catenda Site](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site) [Previewing file types on Catenda Site](https://support.catenda.com/nl/articles/8975421-voorvertonen-van-bestandstypen-op-catenda-site)
+**Catenda Site** [Catenda Site-changelog - 3.5.0](https://support.catenda.com/nl/articles/9930034-catenda-site-changelog-3-5-0) [Menu Documenten - Catenda Site](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site) [Previews van bestandstypen op Catenda Site](https://support.catenda.com/nl/articles/8975421-voorvertonen-van-bestandstypen-op-catenda-site)
 
 ## 2. **Opgeloste bugs**
 
@@ -26069,7 +26069,7 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die je 
 
 ## 4. **Nieuwe releases** - Catenda Site, Plugins en integraties
 
-_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Met de nieuwe gedeelde werkstroom zijn alleen gepubliceerde modellen en documenten zichtbaar.
+_Catenda Site v3.5.1:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Met de nieuwe gedeelde Workflow zijn alleen gepubliceerde models en Documenten zichtbaar.
 
 # Changelog 9 Catenda - Juni 2025
 
@@ -26215,7 +26215,7 @@ Prestatievermindering werd opgemerkt op 17-28 april. Dit, nadat we de maand ervo
     - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
     - [Catenda Hub - Classificatiebibliotheek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
   - Catenda-plugins en integraties
-    - [Catenda Sharepoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Sharepoint-app (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Gebruikersstemmen afgerond**
 
@@ -26425,7 +26425,7 @@ Sommige functies kunnen door de contactpersoon voor uw Catenda-licentie worden a
 
 ### 3.2 **Rapporteditor**
 
-Maak rapportsjablonen voor onderwerpen en documenten zodat projectleden onderwerpen of documenten uit de tabel kunnen selecteren en de rapportactie kunnen gebruiken om een rapport te genereren. De rapportenpagina is een on-demand functie die kan worden aangevraagd om in te schakelen voor lopende projecten. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waarvoor deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Aparte sjablonen kunnen worden gemaakt voor onderwerpen en documenten. Rapporten kunnen ook worden gemaakt vanuit goedkeuringen met de [create report action](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen rapporteditor-klanten)_. Wanneer een sjabloon beschikbaar is in een project, kan de rapportactie worden gebruikt met geselecteerde onderwerpen en documenten om een rapport te genereren op basis van de geselecteerde sjabloon. Catenda biedt ondersteuning voor hoe verschillende waarden op de pagina kunnen worden weergegeven. Als u een aangepast rapport wilt dat is afgestemd op uw bedrijf, kunnen we u in contact brengen met een consultant die kan helpen. Voorbeeldrapporten voor onderwerpen, documenten en goedkeuringen zijn nu beschikbaar in [Kant-en-klare rapportsjablonen](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(alleen rapporteditor-klanten)_. Hoe de rapporteditor werkt, wordt beschreven in [Rapporteditor](https://support.catenda.com/nl/articles/17778656-rapporteditor) _(alleen rapporteditor-klanten)_.
+Maak report Templates voor Topics en Documenten aan, zodat leden van het project Topics of Documenten uit de tabel kunnen selecteren en via de rapportactie een rapport kunnen genereren. De rapportenpagina is een on-demand functie die voor lopende projecten kan worden aangevraagd. Nieuwe projecten die zijn gemaakt op basis van een Template-project waarin deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Afzonderlijke Templates kunnen worden gemaakt voor Topics en Documenten. Rapporten kunnen ook worden gemaakt vanuit goedkeuringen met de [rapport maken-actie](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van de report editor)_. Wanneer een Template beschikbaar is in een project, kan de rapportactie worden gebruikt met geselecteerde Topics en Documenten om een rapport te genereren op basis van het geselecteerde Template. Catenda biedt ondersteuning voor de manier waarop verschillende waarden op de pagina kunnen worden weergegeven. Als u een op maat gemaakt rapport voor uw bedrijf wilt, kunnen we u in contact brengen met een consultant die hierbij kan helpen. Voorbeeldrapporten voor Topics, Documenten en goedkeuringen zijn nu beschikbaar in [Kant-en-klare rapporttemplates](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(alleen voor klanten van de report editor)_. Hoe de report editor werkt, wordt beschreven in [Report editor](https://support.catenda.com/nl/articles/17778656-rapporteditor) _(alleen voor klanten van de report editor)_.
 
 ### 3.3 **Catenda voor Power BI (On Demand)**
 
@@ -26447,7 +26447,7 @@ De contactpersoon voor uw Catenda-licentie kan vragen om deel te nemen aan het C
 
 ### 4.2 **Catenda Mobile**
 
-[Catenda Mobile](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda) is een nieuwe mobiele app voor telefoons en tablets, beschikbaar in vroege toegang voor iPhone en iPad via TestFlight en voor Android op Google Play. Het omvat onderwerpen, locaties, formulieren en documenten, en in de loop van de tijd zal het alle functies van [Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site) en meer krijgen. Onderwerpen en documenten werken in elk project waarvan de gebruiker lid is. Formulieren en locaties kunnen alleen worden gebruikt in projecten waar ze zijn ingeschakeld, en voorlopig geldt dit alleen voor projecten van klanten in het Co-creatieprogramma.
+[Catenda Mobile](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda) is een nieuwe mobiele app voor telefoons en tablets, beschikbaar in early access voor iPhone en iPad via TestFlight en voor Android via Google Play. De app ondersteunt Topics, locaties, formulieren en Documenten, en op termijn krijgt hij alle functies van [Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site) en meer. Topics en Documenten werken in elk project waarvan de gebruiker lid is. Formulieren en locaties kunnen alleen worden gebruikt in projecten waarin ze zijn ingeschakeld, en momenteel is dat alleen het geval voor projecten van klanten in het Co-creation-programma.
 
 De app is niet definitief en kan nog aanzienlijk veranderen. Catenda Site kan er naast worden gebruikt en blijft de app waarnaar je moet gaan voor functies die nog niet in Catenda Mobile beschikbaar zijn.
 
@@ -26834,7 +26834,7 @@ Ondersteuning voor Navisworks 2025
 
 Ontdek alle details in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/5606625-puntenwolken-in-catenda-hub). Leer hoe u het kunt gebruiken in deze tutorial:
 
-[YouTube video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)
+[YouTube-video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)
 
 # Nieuwe functie: IFC-bestanden bekijken in het gedeelte Documenten.
 
@@ -27294,7 +27294,7 @@ Wanneer nieuwe functies uitkomen en bugs worden opgelost, worden artikelen bijge
 
 **Topics** [Topic board toegangsbeheer](https://support.catenda.com/nl/articles/4670296-toegangscontrole-topic-board) [Instellingen van Topic board](https://support.catenda.com/nl/articles/4670277-pagina-instellingen-topic-board)
 
-**Plugins en integraties** [Catenda SharePoint Application - WebPart](https://support.catenda.com/nl/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als een applicatie](https://support.catenda.com/nl/articles/10695677-toegang-met-beperkte-schermruimte) [Toevoegen aan startscherm](https://support.catenda.com/nl/articles/10741601-toevoegen-aan-startscherm) [Ondersteuning startscherm-systeembrowser](https://Home-screen%20system-browser%20support)
+**Plug-ins en integraties** [Catenda SharePoint Application - WebPart](https://support.catenda.com/nl/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als applicatie](https://support.catenda.com/nl/articles/10695677-toegang-met-beperkte-schermruimte) [Toevoegen aan startscherm](https://support.catenda.com/nl/articles/10741601-toevoegen-aan-startscherm) [Ondersteuning systeembrowser voor startscherm](https://Home-screen%20system-browser%20support)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -27346,7 +27346,7 @@ Dankzij uw waardevol commentaar hebben we veel Topics kunnen oplossen die je mis
 
 ## 3. **Nieuwe releases** - Catenda Site, Plugins en integraties
 
-_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Het is niet langer mogelijk om de inhoud van Topics die op Catenda Hub waren verwijderd te zien. Als u markers in de 2D-viewer had geladen, deze zijn nog steeds zichtbaar. Als u een verwijderde Topic probeert te openen via de Topic-lijst of marker, wordt de inhoud van de Topic niet langer weergegeven en wordt de marker uit de 2D-viewer verwijderd.
+_Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Het is niet langer mogelijk de inhoud te zien van Topics die op Catenda Hub zijn verwijderd. Als je markers in de 2D-viewer had geladen, blijven deze zichtbaar. Wanneer geprobeerd wordt een verwijderde Topic te openen via de topiclijst of een marker, wordt de inhoud van de Topic niet langer getoond en wordt de marker uit de 2D-viewer verwijderd.
 
 # Wijzigingslogboek 6 Catenda - augustus 2024
 
@@ -27360,7 +27360,7 @@ Naarmate nieuwe functies worden uitgerold en fouten worden opgelost, worden arti
 
 ### 1.1 **Nieuwe artikelen:**
 
-**Aan de slag en Veelgestelde vragen** [Catenda SharePoint FAQ](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-veelgestelde-vragen) [Revisies in naamconventie](https://support.catenda.com/nl/articles/9496151-revisies-in-naamgevingsafspraak) [Aangepaste velden op Documenten](https://support.catenda.com/nl/articles/9531080-aangepaste-velden-op-documenten) [Overnemen van een ander lid](https://support.catenda.com/nl/articles/9520447-overnemen-voor-een-ander-lid)
+**Aan de slag en FAQ** [Catenda SharePoint FAQ](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-veelgestelde-vragen) [Revisies in naamgevingsconventie](https://support.catenda.com/nl/articles/9496151-revisies-in-naamgevingsafspraak) [Aangepaste velden op documenten](https://support.catenda.com/nl/articles/9531080-aangepaste-velden-op-documenten) [Overnemen van een ander lid](https://support.catenda.com/nl/articles/9520447-overnemen-voor-een-ander-lid)
 
 **Modellen** [Acties op de modellapagina](https://support.catenda.com/nl/articles/9431936-acties-op-de-pagina-modellen) [Rechtermenu op de modellapagina](https://support.catenda.com/nl/articles/9673735-rechtermenu-op-de-modellenpagina) [Acties op de overzichtspagina van het model](https://support.catenda.com/nl/articles/9674157-acties-op-pagina-met-modelinhoud)
 
@@ -27431,7 +27431,7 @@ Dankzij jullie waardevolle feedback hebben we veel Topics kunnen aanpakken die j
 
 _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
-**Bureaublad-connector:** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector)
+**Desktop Connector:** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector)
 
 Navisworks: [Navisworks-plugin v1.4.0](https://support.catenda.com/nl/articles/5085987-catenda-navisworks-plugin)
 
@@ -27557,20 +27557,20 @@ Op sommige Android-telefoons en tablets kan Catenda Site niet worden gevonden do
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8pwddg4t/03-not-available-for-your-device-in-google-play.png)
 
-Dit is geen probleem met het apparaat: het apparaat kan Catenda Site uitvoeren, maar Google Play biedt het daar niet langer aan in de zoekresultaten. Dit kan gebeuren op een apparaat waarop Catenda Site eerder was geïnstalleerd en dat sindsdien is bijgewerkt naar een nieuwere versie van Android. Op zo'n apparaat kan een Google Play-zoekopdracht alleen Catenda (Early Access) weergeven, wat een ander app is: zie [Download your mobile app Catenda](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda).
+Dit is geen probleem met het apparaat: het apparaat kan Catenda Site uitvoeren, maar Google Play biedt het daar niet langer aan in de zoekfunctie. Dit kan gebeuren op een apparaat waarop Catenda Site eerder was geïnstalleerd en dat daarna is bijgewerkt naar een nieuwere versie van Android. Op zo'n apparaat kan een zoekopdracht in Google Play alleen Catenda (Early Access) tonen, wat een andere app is: zie [Download je mobiele app Catenda](https://support.catenda.com/nl/articles/17601630-download-je-mobiele-app-catenda).
 
 Installeer Catenda Site op het apparaat via de Google Play-website:
 
 1. Open op een computer of ander apparaat [Catenda Site op de Google Play-website](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile).
-1. Meld u aan met dezelfde Google-account die op de telefoon of tablet wordt gebruikt.
-1. Selecteer **Installeren**.
-1. Kies de telefoon of tablet in de lijst met apparaten en selecteer **Installeren** opnieuw.
+2. Meld u aan met dezelfde Google-account die op de telefoon of tablet wordt gebruikt.
+3. Selecteer **Installeren**.
+4. Kies de telefoon of tablet in de lijst met apparaten en selecteer **Installeren** opnieuw.
 
 De app wordt op de telefoon of tablet geïnstalleerd wanneer deze de volgende keer verbinding heeft met internet. Daarna kan Catenda Site via Google Play op het apparaat zelf worden bijgewerkt, verwijderd en opnieuw geïnstalleerd. Als de telefoon of tablet niet in de lijst met apparaten voorkomt, neemt u contact op met ondersteuning op [support@catenda.com](mailto:support@catenda.com).
 
 # Desktop Connector - niet alle mappen gedownload
 
-In dit artikel vindt u informatie over een specifieke fout die optreedt bij het gebruik van de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector). Zie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) voor andere Desktop Connector-probleemoplossingen.
+Dit artikel bevat informatie over een specifieke fout die kan optreden bij het gebruik van de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector). Zie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) voor andere problemen met de Desktop Connector en hoe je deze oplost.
 
 In de taak zelf kunt u het volgende zien:
 
@@ -27717,8 +27717,8 @@ Wanneer op de gekoppelde map wordt dubbelgeklikt, wordt de volgende fout onmidde
 Handmatig de map opnieuw maken Als de map "vastgelopen" blijft zelfs na een herstart:
 
 1. Hernoem de problematische map (bijv. hernoem `ProjectData` naar `ProjectData_OLD`).
-2. Maak een gloednieuwe map met de originele naam (`ProjectData`).
-3. De Desktop Connector detecteert de verse, gezonde map en hervaart de normale werking zonder het `_restricted` achtervoegsel.
+1. Maak een gloednieuwe map met de originele naam (`ProjectData`).
+1. De Desktop Connector detecteert de verse, gezonde map en hervaart de normale werking zonder het `_restricted` achtervoegsel.
 
 **Verbind de hardware of het netwerk opnieuw** Ga naar "Deze pc" en zorg ervoor dat uw netwerkstations (zoals `Z:`) actief zijn. Controleer of externe USB-schijven of harde schijven correct zijn aangesloten. Als ze een rood X hebben, dubbelklikt u erop om opnieuw verbinding te maken. Als het netwerkstation niet actief is en u weet welk netwerk het station zich op bevindt, verbindt u opnieuw met het netwerk door een kabel aan te sluiten, via wifi in te schakelen of als u een VPN gebruikt, controleert u of de VPN actief is. Als het station niet meer beschikbaar is, selecteert u een ander doelmap in de Desktop Connector die beschikbaar is op de lokale computer of het netwerk.
 
@@ -28628,7 +28628,7 @@ OneDrive en SharePoint 400 Unicode-codeunits
 
 **Kleinere zip-bestanden** Als het zip-bestand uit meerdere bestanden bestaat, kan het zip-bestand in kleinere zip-bestanden worden gesplitst. Elk afzonderlijk zip-bestand kan afzonderlijk worden geüpload, maar er zal altijd een risico op een netwerk- of verbindingsfout zijn.
 
-**Afzonderlijke bestanden** De [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) is een veiliger manier om te uploaden omdat documenten bestand voor bestand worden geüpload. Dit is ook sneller omdat de bestanden rechtstreeks naar onze backend worden geüpload in plaats van via de browserinterface. Zelfs als een van de bestanden mislukt, worden de bestanden die tot nu toe zijn geüpload, al weergegeven in Catenda. De resterende bestanden gaan de volgende keer uploaden wanneer de uploadtaak wordt uitgevoerd.
+**Individuele bestanden** De [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) is een veiligere manier om te uploaden, omdat documenten bestand voor bestand worden geüpload. Dit is ook sneller, omdat de bestanden rechtstreeks naar onze backend worden geüpload in plaats van via de browserinterface. Zelfs als een van de bestanden mislukt, verschijnen de bestanden die tot dan toe zijn geüpload al op Catenda. De overige bestanden worden de volgende keer dat de uploadtaak wordt uitgevoerd verder geüpload.
 
 ## 2. **Zip-uploads met speciale tekens**
 
@@ -28737,7 +28737,7 @@ Als u hulp nodig hebt om te begrijpen hoe functies binnen de integratie werken, 
 
 ### 1.2 **Voor technische problemen en functionele problemen**
 
-Als u specifieke foutmeldingen in de Solibri-interface tegenkomt, als de connector niet naar behoren reageert, of als u een wijziging in de werking van de connector wilt, neem dan rechtstreeks contact op met **[Solibri Support](https://www.solibri.com/support)**. Als de ontwikkelaars en eigenaren van de connector, zijn zij de enigen die de onderliggende code kunnen wijzigen, interne validatieregels kunnen aanpassen of softwarespecifieke fouten kunnen oplossen.
+Als er specifieke foutmeldingen in de Solibri-interface optreden, als de connector niet reageert zoals verwacht, of als u een wijziging wilt in de werking van de connector, neem dan rechtstreeks contact op met **[Solibri Support](https://www.solibri.com/support)**. Als ontwikkelaars en eigenaars van de connector zijn zij de enigen die de onderliggende code kunnen aanpassen, interne validatieregels kunnen wijzigen of softwarespecifieke bugs kunnen oplossen.
 
 ## 2. **Dubbel model**
 

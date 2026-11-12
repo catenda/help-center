@@ -1,6 +1,6 @@
 # Nieuwe leden uitnodigen voor het project
 
-[YouTube video](https://www.youtube.com/embed/yd6R0FUEj-4?rel=0)
+[YouTube-video](https://www.youtube.com/embed/yd6R0FUEj-4?rel=0)
 
 Als u een beheerder bent in een project, kunt u nieuwe leden toevoegen. Als lid van een project kunt u standaard geen nieuwe leden toevoegen, maar een beheerder kan u toegang geven om leden uit te nodigen.
 

@@ -1,6 +1,6 @@
 # Opprett en ny gjennomgangsmall for arbeidsflyt – Kort video
 
-[Guidde video](https://embed.app.guidde.com/playbooks/eu_fUBwAB5gUE7vhCJsnU1kGi)
+[Guidde-video](https://embed.app.guidde.com/playbooks/eu_fUBwAB5gUE7vhCJsnU1kGi)
 
 I denne opplæringen lærer du hvordan du oppretter en ny gjennomgangsmall for arbeidsflyt i Catenda Hub.
 

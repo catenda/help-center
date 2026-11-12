@@ -12,7 +12,7 @@ Als u hulp nodig hebt om te begrijpen hoe functies binnen de integratie werken, 
 
 ### 1.2 **Voor technische problemen en functionele problemen**
 
-Als u specifieke foutmeldingen in de Solibri-interface tegenkomt, als de connector niet naar behoren reageert, of als u een wijziging in de werking van de connector wilt, neem dan rechtstreeks contact op met **[Solibri Support](https://www.solibri.com/support)**. Als de ontwikkelaars en eigenaren van de connector, zijn zij de enigen die de onderliggende code kunnen wijzigen, interne validatieregels kunnen aanpassen of softwarespecifieke fouten kunnen oplossen.
+Als er specifieke foutmeldingen in de Solibri-interface optreden, als de connector niet reageert zoals verwacht, of als u een wijziging wilt in de werking van de connector, neem dan rechtstreeks contact op met **[Solibri Support](https://www.solibri.com/support)**. Als ontwikkelaars en eigenaars van de connector zijn zij de enigen die de onderliggende code kunnen aanpassen, interne validatieregels kunnen wijzigen of softwarespecifieke bugs kunnen oplossen.
 
 ## 2. **Dubbel model**
 
