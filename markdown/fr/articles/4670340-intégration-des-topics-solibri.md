@@ -40,4 +40,4 @@ Allez à Solibri Extensions et sélectionnez le connecteur BCF
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qv33595h/06-intro.png)
 
-Pour optimiser votre flux de travail avec le serveur BCF [Voir ici](https://support.catenda.com/fr/collections/5313241-nemetcheck-solibri-office)
+Pour optimiser votre flux de travail avec le serveur BCF [Voir ici](https://support.catenda.com/fr/collections/5313241-nemetschek-solibri-office)

@@ -40,4 +40,4 @@ Solibri Extensionsに移動してBCFコネクタを選択します
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qv33595h/06-intro.png)
 
-BCFサーバーでワークフローを最適化するには、[こちらをご覧ください](https://support.catenda.com/ja/collections/5313241-nemetcheck-solibri-office)
+BCFサーバーでワークフローを最適化するには、[こちらをご覧ください](https://support.catenda.com/ja/collections/5313241-nemetschek-solibri-office)
