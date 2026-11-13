@@ -2,7 +2,7 @@
 
 > **Note:** The install file for the plugin can be found in [this article](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations).
 
-The Catenda Navisworks plugin is a plugin that can be installed for Nemetschek Archicad. With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project.
+The Catenda Navisworks plugin is a plugin that can be installed for Autodesk Navisworks. With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project.
 
 ## 1. **About the plugin**
 
