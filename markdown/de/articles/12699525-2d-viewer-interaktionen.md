@@ -22,7 +22,7 @@ Ziehen Sie diese beiden diagonalen Linien, um die Größe des 2D-Viewers über e
 
 ### 2.2 **Titel**
 
-Der Titel der oberen Leiste ist der Name des Geschosses. Wenn ein Geschoss eines [Geschoss-Konfigurators](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite) Gebäudes ausgewählt ist, enthält der Titel den Namen des Gebäudes und den Namen des aktuellen Geschosses. Wenn das Geschoss eines nicht konfigurierten Modells ausgewählt ist, enthält der Titel den Namen des Modells.
+Der Titel der Titelleiste ist der Name des Geschosses. Wenn ein Geschoss eines [Storey-Konfigurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite)-Gebäudes ausgewählt ist, enthält der Titel den Namen des Gebäudes und den Namen des aktuellen Geschosses. Wenn das Geschoss eines nicht konfigurierten model ausgewählt ist, enthält der Titel den Namen des model.
 
 ### 2.3 **Öffnen und Schließen des 2D-Viewers**
 
@@ -47,8 +47,8 @@ _Linksklick_ Wenn sich Räume im Geschoss der 2D-Ansicht befinden, die für ein 
 - _Marker hinzufügen_<br>Einen neuen Marker hinzufügen. Wenn ein Thema im Inhaltsbereich offen ist, können Sie den ausgewählten Marker zuweisen. Dieser Marker wird erst gespeichert und für andere sichtbar, wenn er einem Problem hinzugefügt wird.
 - _Neues Thema mit Marker erstellen_<br>Ein neues Thema mit Marker erstellen. Dieser Marker wird erst gespeichert und für andere sichtbar, wenn das Thema eingereicht wird.
 - _Abfrage erstellen_
-    - Raum schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/de/articles/4854514-abfragen) aller Objekte, die den ausgewählten Raum schneiden
-    - Geschoss schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/de/articles/4854514-abfragen) aller Objekte, die dieses Geschoss schneiden
+    - Intersect space - Erstellt eine [Abfrage](https://support.catenda.com/de/articles/4854514-abfragen) aller Objekte, die sich mit dem ausgewählten Raum überschneiden
+    - Intersect storey - Erstellt eine [Abfrage](https://support.catenda.com/de/articles/4854514-abfragen) aller Objekte, die sich mit diesem Geschoss überschneiden
 
 ### 3.2 **Maustaste halten**
 
@@ -74,7 +74,7 @@ Zoomen Sie aus, um alle sichtbaren Objekte auf einmal anzuzeigen
 
 Mit der Rotationsschaltfläche können Sie den 2D-Viewer drehen.
 
-**Rotationsschieber** Die anfängliche Rotation kann durch Festlegen eines Standorts mit Rotation in den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) konfiguriert werden.
+**Rotationsschieber** Die anfängliche Drehung kann konfiguriert werden, indem ein Standort mit einer Drehung in den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) festgelegt wird.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
@@ -84,7 +84,7 @@ Mit der Rotationsschaltfläche können Sie den 2D-Viewer drehen.
 
 **Zurücksetzen** Klicken Sie oben rechts auf "Zurücksetzen", um den Schieberegler auf die anfängliche Rotation zurückzusetzen.
 
-**Unterliegende Zeichnungsrotation** Gebäude können im [Geschoss-Konfigurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite) konfiguriert werden. Jedes Geschoss in einem Gebäude kann eine Zeichnung als Untergrund haben, die relativ zu den Modellen im Projekt gedreht ist.
+**Drehung der unterlegten Zeichnung** Gebäude können im [Geschosskonfigurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite) konfiguriert werden. Jedes Geschoss eines Gebäudes kann eine Zeichnung als Unterlage haben, die relativ zum model im Projekt gedreht ist.
 
 ### 4.3 **Kamera sperren**
 
@@ -92,7 +92,7 @@ Wenn ein Modell im 3D-Viewer geladen ist, können Sie die Kamera auf die 3D-View
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/09-lock-camera.png)
 
-Wenn diese Funktion aktiviert ist, bleibt der Ansichtspunkt-Indikator auf der Leinwand zentriert, auch wenn die Kamera im 3D-Viewer bewegt wird. Dies ist nützlich in Kombination mit dem [Gehmodus](https://support.catenda.com/de/articles/5784718-3d-viewer-einstellungen#h_1c05dca226).
+Wenn diese Funktion aktiviert ist, bleibt der Viewpoint-Indikator auch dann in der Mitte der Zeichenfläche, wenn die Kamera im 3D-Viewer bewegt wird. Dies ist in Kombination mit dem [Gehmodus](https://support.catenda.com/de/articles/5784718-3d-viewer-einstellungen#h_1c05dca226) nützlich.
 
 ## 5. **Auswahlwerkzeuge und Einstellungen**
 
@@ -100,7 +100,7 @@ Die Auswahlwerkzeuge und Einstellungen befinden sich oben rechts auf der Leinwan
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/10-selection-tools-and-settings.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8035360-auswahl-und-clipping-aus-2d), um eine detaillierte Erklärung zur Verwendung von Schnittwerkzeugen im 2D-Viewer zu erhalten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8035360-auswahl-und-clipping-aus-2d) für eine ausführliche Erklärung zur Verwendung der Schnittwerkzeuge im 2D-Viewer.
 
 ### 5.1 **Auswählen**
 
@@ -118,7 +118,7 @@ Erstellen Sie 4 bis 6 Schnittebenen, indem Sie ein Rechteck über die 2D-Leinwan
 
 ### 5.4 **Abschnitt: Abfrage erstellen**
 
-Erstellen Sie eine [Abfrage](https://support.catenda.com/de/articles/4854514-abfragen), indem Sie ein Rechteck über die 2D-Leinwand ziehen und die Höhe auswählen.
+Erstellen Sie eine [Abfrage](https://support.catenda.com/de/articles/4854514-abfragen), indem Sie ein Rechteck über die 2D-Zeichenfläche ziehen und die Höhe auswählen.
 
 ### 5.5 **Schaltfläche verschieben**
 
@@ -160,6 +160,6 @@ Mit der Ebenen-Schaltfläche können Sie verschiedene Ebenen im 2D-Viewer umscha
 
 **Modelle** Mit dieser Schaltfläche können Modelle ein- oder ausgeschaltet werden.
 
-**Zeichnungen** Sie sehen diese Schaltfläche, wenn eine Zeichnung als Untergrund für ein Gebäudegeschoss im [Geschoss-Konfigurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite) ausgerichtet wurde. Mit dieser Schaltfläche können die ausgerichteten Zeichnungen ein- oder ausgeschaltet werden.
+**Zeichnungen** Diese Schaltfläche wird angezeigt, wenn eine Zeichnung als Unterlage für ein Gebäudegeschoss im [Geschosskonfigurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite) ausgerichtet wurde. Mit dieser Schaltfläche können die ausgerichteten Zeichnungen ein- oder ausgeblendet werden.
 
-**Karte** Sie sehen diese Schaltfläche, wenn ein Standort in den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) konfiguriert wurde. Mit dieser Schaltfläche kann die Karte ein- oder ausgeschaltet werden.
+**Karte** Diese Schaltfläche wird angezeigt, wenn ein Standort in den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) konfiguriert wurde. Mit dieser Schaltfläche kann die Karte ein- oder ausgeblendet werden.

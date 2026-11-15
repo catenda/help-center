@@ -2,7 +2,7 @@
 
 > **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen).
 
-Das Catenda Archicad Plugin ist ein Plugin, das für Nemetschek Archicad installiert werden kann. Mit diesem Plugin können Sie mit anderen Mitgliedern des Bauprojekts an 3D-Ansichtspunkten, Themen und Dokumenten zusammenarbeiten.
+Das Catenda Archicad-Plugin ist ein Plugin, das für Nemetschek Archicad installiert werden kann. Mit diesem Plugin können Sie gemeinsam mit anderen Mitgliedern des Bauprojekts an 3D-viewpoints, Themen und Dokumenten zusammenarbeiten.
 
 ## 1. **Installation**
 

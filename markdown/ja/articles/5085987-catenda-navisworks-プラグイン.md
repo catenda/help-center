@@ -2,7 +2,7 @@
 
 > **注意:** プラグインのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)にあります。
 
-Catenda Navisworksプラグインは、Nemetchek Archicadにインストールできるプラグインです。このプラグインを使用すると、3Dビューポイント、トピック、およびドキュメントについて、プロジェクトの他のメンバーと協力できます。
+Catenda Navisworks プラグインは、Autodesk Navisworks にインストールできるプラグインです。このプラグインを使用すると、建設プロジェクトの他のメンバーと、3D viewpoint、トピック、ドキュメントを使ってコラボレーションできます。
 
 ## 1. **プラグインについて**
 

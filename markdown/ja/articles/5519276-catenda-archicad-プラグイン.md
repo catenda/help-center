@@ -2,7 +2,7 @@
 
 > **注:** プラグインのインストールファイルは[こちらの記事](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)に掲載されています。
 
-Catenda ArchicadプラグインはNemetchek Archicadにインストール可能なプラグインです。このプラグインを使用すれば、建設プロジェクトの他のメンバーとともに3D viewpoint、トピック、ドキュメントについて協業できます。
+Catenda Archicadプラグインは、Nemetschek Archicadにインストールできるプラグインです。このプラグインを使用すると、建設プロジェクトの他のメンバーと、3D viewpoint、トピック、ドキュメントの共同作業を行えるようになります。
 
 ## 1. **インストール**
 
