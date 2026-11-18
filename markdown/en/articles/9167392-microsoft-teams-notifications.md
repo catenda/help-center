@@ -12,9 +12,9 @@ This is what Catenda notifications can look like in Microsoft Teams after a Micr
 
 ![Microsoft Teams channel Posts REady for review created a new topic a new revision was imported in model](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
 
----
+Catenda AI Connect can also bring an agent with the Catenda connector into Microsoft Teams, as described in the [Microsoft - Copilot](https://support.catenda.com/en/collections/19796964-microsoft-copilot) collection.
 
-### Step 1: Prepare a dedicated channel
+## 1. **Prepare a dedicated channel**
 
 Users can organize their project updates by creating a specific space for Catenda notifications. 1\. In **Microsoft Teams**, select the **Teams** or **Chat** tab. 2\. Use an existing team (skip this step) or **create a team**.
 
@@ -43,11 +43,9 @@ After clicking on Create channel the Create a channel dialogue appears:
 
 6\. Click **Create**.
 
----
+## 2. **Create the webhook URL**
 
-### Step 2: Generate your Teams Webhook URL
-
-In the past Catenda Teams Notifications were configured through a Webhook Connector application that was configured for the channel. The Webhook Connector application has since been discontinued. The current way to create a webhook URL is by creating a Microsoft Teams workflow.
+In the past Catenda Teams Notifications were configured through a Webhook Connector application that was configured for the channel. The Webhook Connector application has since been discontinued. The current way to create a webhook URL is by creating a Microsoft Teams workflow. A Microsoft Teams workflow is a Power Automate flow that appears in Teams. It is created in the organization's default Power Platform environment and can also be opened in Power Automate. The webhook needs no connector.
 
 Follow these steps to create a new Microsoft Teams **Workflow** webhook. 1\. Open **Microsoft Teams** 2\. Hover over the desired team and click on the three dots or click on the three dots on the top right after having opened the channel. 3\. Select Microsoft Teams **Workflows** from the action menu
 
@@ -63,9 +61,7 @@ Follow these steps to create a new Microsoft Teams **Workflow** webhook. 1\. Ope
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
 
----
-
-### Step 3: Connect to Catenda Hub
+## 3. **Add the webhook to Catenda Hub**
 
 Follow these steps to configure the webhook link in Catenda. This way Catenda knows where to send the project notifications.
 
@@ -81,9 +77,7 @@ Follow these steps to configure the webhook link in Catenda. This way Catenda kn
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 
----
-
-### Step 4: Customize Your Alerts
+## 4. **Choose the notifications**
 
 Tailor the information you receive to avoid notification fatigue. 1\. In the same **Notifications Settings** menu, scroll through the list of notification types. **2. Check the boxes** for the specific updates you want to receive in your Teams channel. This is what the Microsoft Teams notifications menu can look like:
 
@@ -91,9 +85,7 @@ Tailor the information you receive to avoid notification fatigue. 1\. In the sam
 
 Grayed out notifications boxes are disabled for Microsoft teams and are only available for other notification methods. Notification boxes for approvals become available if Shared revisions are enabled in [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page) of a project.
 
----
-
-### Step 5: Verification
+## 5. **Check the connection**
 
 Make sure a notification is sent to your account that is also sent to Microsoft teams.
 
