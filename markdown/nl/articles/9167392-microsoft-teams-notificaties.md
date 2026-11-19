@@ -12,9 +12,9 @@ Zo kunnen Catenda-notificaties eruit zien in Microsoft Teams nadat een Microsoft
 
 ![Microsoft Teams channel Posts REady for review created a new topic a new revision was imported in model](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
 
----
+Catenda AI Connect kan ook een agent met de Catenda-connector in Microsoft Teams brengen, zoals beschreven in de [Microsoft - Copilot](https://support.catenda.com/nl/collections/19796964-microsoft-copilot)-verzameling.
 
-### Stap 1: Een toegewezen kanaal voorbereiden
+## 1. **Een apart kanaal voorbereiden**
 
 Gebruikers kunnen hun projectupdates organiseren door een specifieke ruimte voor Catenda-notificaties te maken. 1\. Selecteer in **Microsoft Teams** het tabblad **Teams** of **Chat**. 2\. Gebruik een bestaand team (sla deze stap over) of **maak een team**.
 
@@ -43,11 +43,9 @@ Nadat u op 'Kanaal maken' hebt geklikt, verschijnt het dialoogvenster 'Kanaal ma
 
 6\. Klik op **Maken**.
 
----
+## 2. **De webhook-URL maken**
 
-### Stap 2: Uw Teams Webhook-URL genereren
-
-In het verleden werden Catenda Teams-notificaties geconfigureerd via een Webhook Connector-toepassing die voor het kanaal was geconfigureerd. De Webhook Connector-toepassing is inmiddels beëindigd. De huidige manier om een webhook-URL te maken is door een Microsoft Teams-workflow te maken.
+Vroeger werden Catenda Teams-notificaties geconfigureerd via een Webhook Connector-applicatie die voor het kanaal was ingesteld. De Webhook Connector-applicatie is inmiddels stopgezet. De huidige manier om een webhook-URL te maken, is door een Teams-workflow aan te maken. Een Teams-workflow is een Power Automate-flow die in Teams verschijnt. Deze wordt aangemaakt in de standaard Power Platform-omgeving van de organisatie en kan ook worden geopend in Power Automate. De webhook heeft geen connector nodig.
 
 Volg deze stappen om een nieuwe Microsoft Teams **Workflow**-webhook te maken. 1\. Open **Microsoft Teams** 2\. Beweeg over het gewenste team en klik op de drie puntjes of klik op de drie puntjes rechtsboven nadat u het kanaal hebt geopend. 3\. Selecteer Microsoft Teams **Workflows** uit het actiemenu
 
@@ -63,41 +61,31 @@ Volg deze stappen om een nieuwe Microsoft Teams **Workflow**-webhook te maken. 1
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
 
----
-
-### Stap 3: Verbinden met Catenda Hub
+## 3. **De webhook toevoegen aan Catenda Hub**
 
 Volg deze stappen om de webhook-koppeling in Catenda te configureren. Op deze manier weet Catenda waar de projectmeldingen naartoe moeten worden verzonden.
 
 1. Log in op **Catenda Hub**.
-
-2. Navigeer naar uw **Notificaties>Instellingen** (Account- of projectniveau).
-
-3. Selecteer het tabblad "Microsoft Teams" en scroll helemaal naar beneden.
-
-4. Plak uw gekopieerde URL in het veld **Webhook-URL**.
-
-5. Klik op **Opslaan**.
+1. Navigeer naar uw **Notificaties>Instellingen** (Account- of projectniveau).
+1. Selecteer het tabblad "Microsoft Teams" en scroll helemaal naar beneden.
+1. Plak uw gekopieerde URL in het veld **Webhook-URL**.
+1. Klik op **Opslaan**.
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-6. **Notificaties inschakelen**: Zorg ervoor dat de schakelaar bovenaan de pagina is ingesteld op **Aan**.<br>
+1. **Notificaties inschakelen**: Zorg ervoor dat de schakelaar bovenaan de pagina is ingesteld op **Aan**.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 
----
-
-### Stap 4: Uw meldingen aanpassen
+## 4. **De notificaties kiezen**
 
 Pas de informatie die u ontvangt aan om meldingsoversaturation te voorkomen. 1\. Blader in hetzelfde menu **Notificatie-instellingen** door de lijst met notificatietypen. **2. Vink de vakjes aan** voor de specifieke updates die u in uw Teams-kanaal wilt ontvangen. Dit is hoe het Microsoft Teams-notificatiemenu eruit kan zien:
 
 ![Choose which notificaitons you would like to receive Catenda Hub Email Microsoft Teams notifications Tropics Documents Approvals Collections Models Users A new topic is created aA topic is assigned to me A topic is mentioning me or my Teams New comment in a topic assigned to me mentioned by me followed by me Status changed in a topic Type changed in a topics I am set as the publisher in an approval request A team I am member of is set as the publisher in an approval request An approval request is closed A member of the submitter team A new approval request has been submitted A document has been discarded An approval request is closed A new approval request has been submitted A new approval request has been assigned to my team A new approval request is ready for review by my team All reviews have been submitted by my team aA document has been discarded An approval request is closed As member of the review team for the final approval A new approval requesthas been submitted A new approval request has been assigned to my team A new approval reqeust is ready for review by my team All reviews have been submitted by my team All reviews have been submitted by my team A review step has been completed A document has been discarded An approval request is closed A new models is created A new revision is imported.](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
 
-Grijze notificatievakken zijn uitgeschakeld voor Microsoft Teams en zijn alleen beschikbaar voor andere notificatiemethoden. Notificatievakken voor goedkeuringen worden beschikbaar als Gedeelde revisies zijn ingeschakeld in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) van een project.
+Notificatievakjes die grijs zijn weergegeven, zijn uitgeschakeld voor Teams en zijn alleen beschikbaar voor andere notificatiemethoden. Notificatievakjes voor goedkeuringen worden beschikbaar als gedeelde revisies zijn ingeschakeld in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) van een project.
 
----
-
-### Stap 5: Verificatie
+## 5. **De verbinding controleren**
 
 Controleer of een melding naar uw account wordt verzonden die ook naar Microsoft Teams wordt verzonden.
 

@@ -74,8 +74,9 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [3Dビューア](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8227211-3dビューア.md)
 - [3Dビューアツールメニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670294-3dビューアツールメニュー.md): Catenda Hubの3Dビューアツールについて説明します
 - [Archicadのマークアップツールを使用したBCFワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670335-archicadのマークアップツールを使用したbcfワークフロー.md)
+- [Catenda AI Connect for Gemini について](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/18485789-qcm4t9m5.md): Catenda AI Connect を使うと、Catenda Hub のプロジェクトデータを Gemini で利用できます。チームでの用途、組織が開始前に必要なこと、利用開始方法を説明します。
 - [Catenda AI Connectとプロジェクトアクセス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778745-q7kwqj4b.md): Catenda AI Connectは、各ユーザーがCatenda Hubで既に開くことができるものだけで機能します。プロジェクトを実行している組織は、そのプロジェクトでCatenda AI Connectを使用できるかどうかを決定でき、一部またはすべてのプロジェクトに対して制限をリクエストできます。
-- [Catenda AI Connectについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778695-3abb6spn.md): Catenda AI Connectは、組織が既に使用しているClaude、Microsoft Copilot、ChatGPTなどのAIを、Catenda Hubプロジェクトに接続します。それが何であるか、どのように機能するか、そして始める方法を説明します。
+- [Catenda AI Connectについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778695-3abb6spn.md): Catenda AI Connectは、組織がすでに利用しているClaude、Microsoft Copilot、ChatGPT、GeminiなどのAIを、参加しているCatenda Hubのプロジェクトに接続します。製品の概要、仕組み、利用開始方法について説明します。
 - [Catenda Archicadプラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5519276-catenda-archicad-プラグイン.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8358861-catenda-desktop-connector-デスクトップ-コネクタ.md)
 - [Catenda Desktop Connector for System Imagesについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17778686-v0ka4j3n.md): オペレーティングシステムイメージにソフトウェアをインストールする組織向けのCatenda Desktop Connectorのバージョンで、リクエストして取得できます。
@@ -99,7 +100,10 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [CatendaSP アプリの追加と削除](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9453368-catendasp-アプリの追加と削除.md)
 - [Catendaのトピックとは？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8979789-catendaのトピックとは.md)
 - [Catendaモバイルアプリをダウンロード 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/17601630-catendaモバイルアプリをダウンロード.md): Catendaモバイルアプリをダウンロードします。アーリーアクセスで利用可能で、Catendaアカウントでサインインします。
+- [ChatGPT 向け Catenda AI Connect について](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/18485787-gmt6wpsx.md): Catenda AI Connect は、Catenda Hub のプロジェクトデータを ChatGPT に取り込みます。チームによる活用方法、組織が導入前に確認すべき事項、利用の開始方法を説明します。
+- [Claude向けのCatenda AI Connectについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/18485792-zbsbf5va.md): Catenda AI Connect for Claudeを使うと、チームはClaudeにCatenda Hubのプロジェクトについて質問したり、プロジェクトデータを確認したり、定型作業を引き継いだりできます。本記事では、製品の概要、組織での準備内容、利用開始方法を説明します。
 - [IFCエクスポート Archicadマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670338-archicadからのifcエクスポート.md)
+- [Microsoft Copilot向けCatenda AI Connectについて](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/18485785-dvhm7pka.md): Catenda AI Connectは、エージェントを通じてCatenda Hubのプロジェクトデータを Microsoft 365 Copilot と Teams に取り込みます。チームでの活用方法、組織での設定、利用の開始方法を説明します。
 - [Microsoft チームの通知](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9167392-microsoft-チームの通知.md): タブを切り替えることなく情報を得られます。Catenda Hub を Microsoft チームに接続して、リアルタイム通知を優先チャネルで直接受け取ります。
 - [Model設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8300623-model設定.md)
 - [Naviate for Revit を使用した BCF ワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670337-naviate-for-revit-を使用した-bcf-ワークフロー.md)

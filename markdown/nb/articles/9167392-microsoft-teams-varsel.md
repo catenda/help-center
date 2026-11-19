@@ -12,9 +12,9 @@ Slik kan Catenda-varsel se ut i Microsoft Teams etter at en Microsoft Teams-arbe
 
 ![Microsoft Teams-kanal Innlegg Klart til vurdering opprettet en ny sak en ny revision ble importert i model](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
 
----
+Catenda AI Connect kan også ta en agent med Catenda-koblingen inn i Microsoft Teams, som beskrevet i samlingen [Microsoft - Copilot](https://support.catenda.com/nb/collections/19796964-microsoft-copilot).
 
-### Trinn 1: Forbered en dedikert kanal
+## 1. **Forbered en egen kanal**
 
 Brukere kan organisere prosjektoppdateringene sine ved å opprette et spesifikt område for Catenda-varsel. 1\. I **Microsoft Teams**, velg **Teams**- eller **Chat**-fanen. 2\. Bruk et eksisterende team (hopp over dette trinnet) eller **opprett et team**.
 
@@ -43,11 +43,9 @@ Etter at du klikker på Opprett kanal, vises dialogboksen Opprett en kanal:
 
 6\. Klikk **Opprett**.
 
----
+## 2. **Opprett webhook-URL-en**
 
-### Trinn 2: Generer Teams-webhook-URL-en din
-
-Tidligere ble Catenda Teams-varsel konfigurert via en Webhook Connector-applikasjon som ble konfigurert for kanalen. Webhook Connector-applikasjonen har siden blitt avviklet. Den nåværende måten å opprette en webhook-URL på er ved å opprette en Microsoft Teams-arbeidsflyt.
+Tidligere ble Catenda-varsler i Teams konfigurert gjennom et Webhook Connector-program som ble satt opp for kanalen. Webhook Connector-programmet er nå avviklet. Den nåværende måten å opprette en webhook-URL på er å lage en Microsoft Teams-arbeidsflyt. En Microsoft Teams-arbeidsflyt er en Power Automate-flyt som vises i Teams. Den opprettes i organisasjonens standard Power Platform-miljø, og kan også åpnes i Power Automate. Webhooken krever ingen kobling.
 
 Følg disse trinnene for å opprette en ny Microsoft Teams **Workflow** webhook. 1\. Åpne **Microsoft Teams** 2\. Hold markøren over ønsket team og klikk på de tre prikkene, eller klikk på de tre prikkene øverst til høyre etter at du har åpnet kanalen. 3\. Velg Microsoft Teams **Workflows** fra handlingsmenyen
 
@@ -63,41 +61,31 @@ Følg disse trinnene for å opprette en ny Microsoft Teams **Workflow** webhook.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
 
----
-
-### Trinn 3: Koble til Catenda Hub
+## 3. **Legg til webhooken i Catenda Hub**
 
 Følg disse trinnene for å konfigurere webhook-lenken i Catenda. På denne måten vet Catenda hvor prosjektvarslene skal sendes.
 
 1. Logg inn på **Catenda Hub**.
-
-2. Naviger til **Varsel>Innstillinger** (på konto- eller prosjektnivå).
-
-3. Velg "Microsoft Teams"-fanen og scroll helt ned.
-
-4. Lim inn den kopierte URL-en i feltet **Webhook URL**.
-
-5. Klikk **Lagre**.
+1. Naviger til **Varsel>Innstillinger** (på konto- eller prosjektnivå).
+1. Velg "Microsoft Teams"-fanen og scroll helt ned.
+1. Lim inn den kopierte URL-en i feltet **Webhook URL**.
+1. Klikk **Lagre**.
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-6. **Aktiver varsel**: Kontroller at vekslingen øverst på siden er satt til **På**.<br>
+1. **Aktiver varsel**: Kontroller at vekslingen øverst på siden er satt til **På**.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 
----
-
-### Trinn 4: Tilpass varslene dine
+## 4. **Velg varslene**
 
 Skreddersy informasjonen du mottar for å unngå varslettmøtting. 1\. I samme **Varselinnstillinger**-meny, scroll gjennom listen over varseltyper. **2. Merk av i boksene** for de spesifikke oppdateringene du ønsker å motta i Teams-kanalen din. Slik kan Microsoft Teams-varselmenyen se ut:
 
 ![Velg hvilke varsel du ønsker å motta Catenda Hub E-post Microsoft Teams-varsel Saker Dokumenter Gjennomganger Samlinger Modeller Brukere En ny sak er opprettet En sak er tildelt til meg En sak nevner meg eller Teams mitt Ny kommentar i en sak tildelt meg nevnt av meg fulgt av meg Status endret i en sak Type endret i saker Jeg er angitt som utgiver i en gjennomgangsforespørsel Et team jeg er medlem av er angitt som utgiver i en gjennomgangsforespørsel En gjennomgangsforespørsel er lukket Et medlem av innsenderlaget En ny gjennomgangsforespørsel er blitt sendt inn Et dokument er kassert En gjennomgangsforespørsel er lukket En ny gjennomgangsforespørsel er blitt sendt inn En ny gjennomgangsforespørsel er tildelt teamet mitt En ny gjennomgangsforespørsel er klar til vurdering av teamet mitt Alle vurderinger er sendt inn av teamet mitt Et dokument er kassert En gjennomgangsforespørsel er lukket Som medlem av vurderingsteamet for den endelige gjennomgangen En ny gjennomgangsforespørsel er blitt sendt inn En ny gjennomgangsforespørsel er tildelt teamet mitt En ny gjennomgangsforespørsel er klar til vurdering av teamet mitt Alle vurderinger er sendt inn av teamet mitt Alle vurderinger er sendt inn av teamet mitt Et vurderingstrinn er fullført Et dokument er kassert En gjennomgangsforespørsel er lukket En ny model er opprettet En ny revision er importert.](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
 
-Nedtonede varselsbokser er deaktivert for Microsoft Teams og er bare tilgjengelige for andre varselmethoder. Varselsbokser for gjennomganger blir tilgjengelige hvis Delte revisjoner er aktivert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) for et prosjekt.
+Gråtonede varselbokser er deaktivert for Microsoft Teams og er bare tilgjengelige for andre varselmetoder. Varselbokser for gjennomganger blir tilgjengelige hvis Shared revisions er aktivert i [dokumentinnstillingene](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) for et prosjekt.
 
----
-
-### Trinn 5: Verifisering
+## 5. **Kontroller tilkoblingen**
 
 Kontroller at et varsel sendes til kontoen din som også sendes til Microsoft Teams.
 

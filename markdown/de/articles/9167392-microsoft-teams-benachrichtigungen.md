@@ -12,9 +12,9 @@ So können Catenda-Benachrichtigungen in Microsoft Teams aussehen, nachdem ein M
 
 ![Microsoft Teams Kanal Beiträge Bereit zur Überprüfung neues Thema neue Revision wurde in Modell importiert](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
 
----
+Catenda AI Connect kann außerdem einen Agenten mit dem Catenda-Connector in Microsoft Teams bereitstellen, wie in der [Microsoft - Copilot](https://support.catenda.com/de/collections/19796964-microsoft-copilot)-Sammlung beschrieben.
 
-### Schritt 1: Dedizierter Kanal vorbereiten
+## 1. **Einen dedizierten Kanal vorbereiten**
 
 Benutzer können ihre Projektupdates organisieren, indem sie einen speziellen Bereich für Catenda-Benachrichtigungen erstellen. 1\. Wählen Sie in **Microsoft Teams** die Registerkarte **Teams** oder **Chat** aus. 2\. Verwenden Sie ein vorhandenes Team (überspringen Sie diesen Schritt) oder **erstellen Sie ein Team**.
 
@@ -43,11 +43,9 @@ Nach dem Klicken auf "Kanal erstellen" wird das Dialogfeld "Kanal erstellen" ang
 
 6\. Klicken Sie auf **Erstellen**.
 
----
+## 2. **Webhook-URL erstellen**
 
-### Schritt 2: Teams-Webhook-URL generieren
-
-In der Vergangenheit wurden Catenda Teams-Benachrichtigungen über eine Webhook-Connector-Anwendung konfiguriert, die für den Kanal konfiguriert wurde. Die Webhook-Connector-Anwendung wurde inzwischen eingestellt. Die aktuelle Methode zum Erstellen einer Webhook-URL ist die Erstellung eines Microsoft Teams-Workflows.
+Früher wurden Catenda-Teams-Benachrichtigungen über eine Webhook-Connector-Anwendung konfiguriert, die für den Kanal eingerichtet wurde. Die Webhook-Connector-Anwendung wurde inzwischen eingestellt. Die aktuelle Methode zum Erstellen einer Webhook-URL ist die Erstellung eines Microsoft Teams Workflows. Ein Microsoft Teams Workflow ist ein Power-Automate-Flow, der in Teams angezeigt wird. Er wird in der Standard-Power-Platform-Umgebung der Organisation erstellt und kann auch in Power Automate geöffnet werden. Der Webhook benötigt keinen Connector.
 
 Führen Sie diese Schritte aus, um einen neuen Microsoft Teams-**Workflow**-Webhook zu erstellen. 1\. Öffnen Sie **Microsoft Teams** 2\. Bewegen Sie den Mauszeiger über das gewünschte Team und klicken Sie auf die drei Punkte, oder klicken Sie auf die drei Punkte oben rechts, nachdem Sie den Kanal geöffnet haben. 3\. Wählen Sie Microsoft Teams-**Workflows** im Aktionsmenü
 
@@ -63,41 +61,31 @@ Führen Sie diese Schritte aus, um einen neuen Microsoft Teams-**Workflow**-Webh
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
 
----
-
-### Schritt 3: Mit Catenda Hub verbinden
+## 3. **Webhook zu Catenda Hub hinzufügen**
 
 Führen Sie diese Schritte aus, um den Webhook-Link in Catenda zu konfigurieren. Auf diese Weise weiß Catenda, wohin die Projektbenachrichtigungen gesendet werden sollen.
 
 1. Melden Sie sich bei **Catenda Hub** an.
-
-2. Navigieren Sie zu **Benachrichtigungen > Einstellungen** (Kontoebene oder Projektebene).
-
-3. Wählen Sie die Registerkarte "Microsoft Teams" und scrollen Sie bis ganz nach unten.
-
-4. Fügen Sie Ihre kopierte URL in das Feld **Webhook-URL** ein.
-
-5. Klicken Sie auf **Speichern**.
+1. Navigieren Sie zu **Benachrichtigungen > Einstellungen** (Kontoebene oder Projektebene).
+1. Wählen Sie die Registerkarte "Microsoft Teams" und scrollen Sie bis ganz nach unten.
+1. Fügen Sie Ihre kopierte URL in das Feld **Webhook-URL** ein.
+1. Klicken Sie auf **Speichern**.
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-6. **Benachrichtigungen aktivieren**: Stellen Sie sicher, dass der Schalter oben auf der Seite auf **Ein** gestellt ist.<br>
+1. **Benachrichtigungen aktivieren**: Stellen Sie sicher, dass der Schalter oben auf der Seite auf **Ein** gestellt ist.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 
----
-
-### Schritt 4: Warnungen anpassen
+## 4. **Benachrichtigungen auswählen**
 
 Passen Sie die Informationen, die Sie erhalten, an, um Benachrichtigungsmüdigkeit zu vermeiden. 1\. Scrollen Sie im selben Menü **Benachrichtigungseinstellungen** durch die Liste der Benachrichtigungstypen. **2. Aktivieren Sie die Kontrollkästchen** für die spezifischen Updates, die Sie in Ihrem Teams-Kanal erhalten möchten. So kann das Menü "Microsoft Teams-Benachrichtigungen" aussehen:
 
 ![Wählen Sie aus, welche Benachrichtigungen Sie erhalten möchten Catenda Hub E-Mail Microsoft Teams Benachrichtigungen Themen Dokumente Genehmigungen Sammlungen Modelle Benutzer Ein neues Thema wird erstellt Ein Thema wird mir zugewiesen Ein Thema erwähnt mich oder mein Team Neuer Kommentar in einem mir zugewiesenen Thema von mir erwähnt mir gefolgt Thema Thema Status wurde in einem Thema geändert Typ wurde in Themen geändert Ich bin als Herausgeber in einer Genehmigungsanforderung festgelegt Ein Team, dessen Mitglied ich bin, ist als Herausgeber in einer Genehmigungsanforderung festgelegt Eine Genehmigungsanforderung wurde geschlossen Ein Mitglied des Absendeteams Eine neue Genehmigungsanforderung wurde eingereicht Ein Dokument wurde verworfen Eine Genehmigungsanforderung wurde geschlossen Eine neue Genehmigungsanforderung wurde eingereicht Eine neue Genehmigungsanforderung wurde meinem Team zugewiesen Eine neue Genehmigungsanforderung ist bereit zur Überprüfung durch mein Team Alle Überprüfungen wurden von meinem Team eingereicht Ein Dokument wurde verworfen Eine Genehmigungsanforderung wurde geschlossen Als Mitglied des Überprüfungsteams für die abschließende Genehmigung Eine neue Genehmigungsanforderung wurde eingereicht Eine neue Genehmigungsanforderung wurde meinem Team zugewiesen Eine neue Genehmigungsanforderung ist bereit zur Überprüfung durch mein Team Alle Überprüfungen wurden von meinem Team eingereicht Alle Überprüfungen wurden von meinem Team eingereicht Ein Überprüfungsschritt wurde abgeschlossen Ein Dokument wurde verworfen Eine Genehmigungsanforderung wurde geschlossen Ein neues Modell wird erstellt Eine neue Revision wurde importiert](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
 
-Ausgegraute Benachrichtigungsfelder sind für Microsoft Teams deaktiviert und stehen nur für andere Benachrichtigungsmethoden zur Verfügung. Benachrichtigungsfelder für Genehmigungen sind verfügbar, wenn "Gemeinsame Revisionen" in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) eines Projekts aktiviert sind.
+Ausgegraute Benachrichtigungsfelder sind für Microsoft Teams deaktiviert und nur für andere Benachrichtigungsmethoden verfügbar. Benachrichtigungsfelder für Genehmigungen werden verfügbar, wenn Shared revisions in den [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) eines Projekts aktiviert sind.
 
----
-
-### Schritt 5: Überprüfung
+## 5. **Verbindung prüfen**
 
 Stellen Sie sicher, dass eine Benachrichtigung an Ihr Konto gesendet wird, die auch an Microsoft Teams gesendet wird.
 

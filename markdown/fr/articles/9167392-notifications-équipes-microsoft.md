@@ -12,9 +12,9 @@ Voici ce que les Notifications Catenda peuvent ressembler dans Microsoft Équipe
 
 ![Canal Microsoft Équipes Publications Prêt pour examen topic créé une nouvelle révision a été importée dans le modèle](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
 
----
+Catenda AI Connect peut également intégrer un agent avec le connecteur Catenda dans Microsoft Teams, comme décrit dans la collection [Microsoft - Copilot](https://support.catenda.com/fr/collections/19796964-microsoft-copilot).
 
-### Étape 1 : Préparer un canal dédié
+## 1. **Préparer un canal dédié**
 
 Les utilisateurs peuvent organiser les mises à jour de leur projet en créant un espace spécifique pour les Notifications Catenda. 1\. Dans **Microsoft Équipes**, sélectionnez l'onglet **Équipes** ou **Conversation**. 2\. Utilisez une équipe existante (ignorez cette étape) ou **créez une équipe**.
 
@@ -43,11 +43,9 @@ Après avoir cliqué sur Créer un canal, la boîte de dialogue Créer un canal 
 
 6\. Cliquez sur **Créer**.
 
----
+## 2. **Créer l'URL du webhook**
 
-### Étape 2 : Générer votre URL Webhook Équipes
-
-Par le passé, les Notifications Catenda Équipes étaient configurées via une application Webhook Connector qui était configurée pour le canal. L'application Webhook Connector a depuis été abandonnée. Le moyen actuel de créer une URL webhook est de créer un flux de travail Microsoft Équipes.
+Auparavant, les notifications Catenda Teams étaient configurées à l'aide d'une application Webhook Connector configurée pour le canal. L'application Webhook Connector a depuis été abandonnée. La méthode actuelle pour créer une URL de webhook consiste à créer un workflow Microsoft Teams. Un workflow Microsoft Teams est un flux Power Automate qui apparaît dans Équipes. Il est créé dans l'environnement Power Platform par défaut de l'organisation et peut également être ouvert dans Power Automate. Le webhook ne nécessite aucun connecteur.
 
 Suivez ces étapes pour créer un nouveau webhook **Flux de travail** Microsoft Équipes. 1\. Ouvrez **Microsoft Équipes** 2\. Pointez sur l'équipe désirée et cliquez sur les trois points ou cliquez sur les trois points en haut à droite après avoir ouvert le canal. 3\. Sélectionnez **Flux de travail** Microsoft Équipes dans le menu d'action
 
@@ -63,41 +61,31 @@ Suivez ces étapes pour créer un nouveau webhook **Flux de travail** Microsoft 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
 
----
-
-### Étape 3 : Se connecter à Catenda Hub
+## 3. **Ajouter le webhook à Catenda Hub**
 
 Suivez ces étapes pour configurer le Lien webhook dans Catenda. De cette façon, Catenda sait où envoyer les Notifications du projet.
 
 1. Connectez-vous à **Catenda Hub**.
-
-2. Accédez à vos **Notifications > Paramètres** (au niveau du compte ou au niveau du projet).
-
-3. Sélectionnez l'onglet "Microsoft Équipes" et faites défiler jusqu'au bas.
-
-4. Collez votre URL copiée dans le champ **URL du Webhook**.
-
-5. Cliquez sur **Enregistrer**.
+1. Accédez à vos **Notifications > Paramètres** (au niveau du compte ou au niveau du projet).
+1. Sélectionnez l'onglet "Microsoft Équipes" et faites défiler jusqu'au bas.
+1. Collez votre URL copiée dans le champ **URL du Webhook**.
+1. Cliquez sur **Enregistrer**.
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-6. **Activer les notifications** : Assurez-vous que le bouton bascule en haut de la page est défini sur **Activé**.<br>
+1. **Activer les notifications** : Assurez-vous que le bouton bascule en haut de la page est défini sur **Activé**.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 
----
-
-### Étape 4 : Personnaliser vos alertes
+## 4. **Choisir les notifications**
 
 Adaptez les informations que vous recevez pour éviter la fatigue de notification. 1\. Dans le même menu **Paramètres des Notifications**, parcourez la liste des types de Notifications. **2. Cochez les cases** pour les mises à jour spécifiques que vous souhaitez recevoir dans votre canal Équipes. Voici ce que le menu des Notifications Microsoft Équipes peut ressembler :
 
 ![Choisir les Notifications que vous souhaitez recevoir Catenda Hub Email Notifications Microsoft Équipes Sujets Documents Approbations Collections Modèles Utilisateurs Un nouveau topic est créé Un topic m'est assigné Un topic me mentionne ou mentionne mes Équipes Nouveau commentaire dans un topic qui m'est assigné mentionné par moi suivi par moi Statut modifié dans un topic Type modifié dans un topic Je suis défini comme l'éditeur dans une demande d'approbation Une équipe dont je suis membre est définie comme l'éditeur dans une demande d'approbation Une demande d'approbation est fermée Un membre de l'équipe de soumission Une nouvelle demande d'approbation a été soumise Un document a été rejeté Une demande d'approbation est fermée Une nouvelle demande d'approbation a été soumise Une nouvelle demande d'approbation m'a été assignée Une nouvelle demande d'approbation est prête à être examinée par mon équipe Tous les examens ont été soumis par mon équipe Un document a été rejeté Une demande d'approbation est fermée En tant que membre de l'équipe d'examen pour l'approbation finale Une nouvelle demande d'approbation a été soumise Une nouvelle demande d'approbation a été assignée à mon équipe Une nouvelle demande d'approbation est prête à être examinée par mon équipe Tous les examens ont été soumis par mon équipe Tous les examens ont été soumis par mon équipe Une étape d'examen a été complétée Un document a été rejeté Une demande d'approbation est fermée Un nouveau modèle est créé Une nouvelle révision est importée.](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
 
-Les cases de Notifications grisées sont désactivées pour les Équipes Microsoft et sont uniquement disponibles pour d'autres méthodes de Notifications. Les cases de Notifications pour les approbations deviennent disponibles si les révisions partagées sont activées dans les [paramètres du document](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) d'un projet.
+Les cases de notification grisées sont désactivées pour Microsoft Teams et ne sont disponibles que pour les autres méthodes de notification. Les cases de notification pour les approbations deviennent disponibles si Shared revisions est activé dans les [paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) d'un projet.
 
----
-
-### Étape 5 : Vérification
+## 5. **Vérifier la connexion**
 
 Assurez-vous qu'une Notification est envoyée à votre compte et également envoyée aux Équipes Microsoft.
 
