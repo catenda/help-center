@@ -62,6 +62,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 
 - [2D / 3D - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7734138-2d-3d-catenda-site.md)
 - [2D and 3D Viewpoints](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9184555-2d-and-3d-viewpoints.md)
+- [2D drawings in the 3D viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/18552923-8qn3dfyk.md): How to align PDF drawings and display them together with the models in the 3D viewer
 - [2D Viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4854537-2d-viewer.md): Describes the different tools in the 2D toolbar
 - [2D viewer - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7748370-2d-viewer-catenda-site.md)
 - [2D viewer appearance](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13615984-2d-viewer-appearance.md)
