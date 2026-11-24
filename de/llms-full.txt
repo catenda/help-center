@@ -4762,9 +4762,10 @@ Diese Matrix bestimmt den Zugriff für den Ersteller oder Uploader eines Element
 
 # Berichterstattungsseite
 
-> **Hinweis 1:** Die Berichterstattungsseite ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann. **Hinweis 2:** Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
+> **Hinweis 1:** Die Berichtseite ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann.
+> **Hinweis 2:** Neue Projekte, die auf einem Vorlagenprojekt basieren, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
 
-Die Berichterstattungsseite befindet sich als sechstes Element im Navigationsmenü. Diese Seite ist Teil des Inhaltsbereichs. Mit der Berichterstattungsseite können Vorlagenberichte in einem Bericht-Editor erstellt werden. Für Themen und Dokumente können separate Vorlagen erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht basierend auf der ausgewählten Vorlage zu erstellen.
+Die Berichtsseite finden Sie als sechstes Element im Navigationsmenü. Diese Seite ist Teil des Inhaltsbereichs. Mit der Berichtsseite können Vorlagenberichte in einem [Report-Editor](https://support.catenda.com/de/articles/17778656-berichts-editor) erstellt werden _(nur für Report-Editor-Kunden)_. Separate Vorlagen können für Themen und Dokumente erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht basierend auf der ausgewählten Vorlage zu generieren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
@@ -4902,9 +4903,9 @@ Wenn Sie unten in der Liste auf "Archivierte anzeigen" klicken, können Sie arch
 
 # Catenda AI Connect und Projektzugriff
 
-> Catenda AI Connect nutzt nur, was jeder Benutzer in Catenda Hub bereits öffnen kann. Die Organisation, die ein Projekt verwaltet, entscheidet, ob Catenda AI Connect dort zulässig ist, und kann eine Beschränkung für einige oder alle Projekte anfordern.
+> Catenda AI Connect nutzt nur, was jeder Benutzer in Catenda Hub bereits öffnen kann. Die Organisation, die ein Projekt verwaltet, entscheidet, ob Catenda AI Connect dort erlaubt ist, und kann eine Beschränkung für einige oder alle Projekte anfordern.
 
-> **Wichtig:** Catenda AI Connect befindet sich in einem frühen Zugriffsstadium. Funktionen und Einrichtungsschritte ändern sich häufig; dieser Artikel beschreibt die aktuelle Version.
+> **Wichtig:** Catenda AI Connect befindet sich in der Early-Access-Phase. Funktionen und Einrichtungsschritte ändern sich häufig, daher kann das, was auf dem Bildschirm angezeigt wird, von diesem Artikel abweichen.
 
 Catenda AI Connect erreicht nur das, was jeder Benutzer bereits in Catenda Hub öffnen kann, und agiert als dieser Benutzer.
 
@@ -14444,10 +14445,10 @@ Die Dokumentseite kann etwa so aussehen:
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
 1. Das [Dokumentbanner](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) erstreckt sich über die gesamte Breite der Dokumentseite
-2. Sie finden den Dokumentkopf unter dem Dokumentbanner und über der Dokumentvorschau.
-3. Unter dem Dokumentkopf finden Sie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen).
-4. Links neben dem Dokumentkopf und der Vorschau finden Sie die Dokumentliste
-5. _Dieser Artikel:_ Rechts neben dem Dokumentkopf und der Vorschau finden Sie das rechte Informationsmenü.
+1. Sie finden den Dokumentkopf unter dem Dokumentbanner und über der Dokumentvorschau.
+1. Unter dem Dokumentkopf finden Sie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen).
+1. Links neben dem Dokumentkopf und der Vorschau finden Sie die Dokumentliste
+1. _Dieser Artikel:_ Rechts neben dem Dokumentkopf und der Vorschau finden Sie das rechte Informationsmenü.
 
 Wenn Sie ein Dokument zum ersten Mal öffnen, kann sein rechtes Menü geschlossen sein. Sie können auf die Informationsschaltfläche unten rechts im [Dokumentbanner](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) klicken, um dieses Menü zu erweitern.
 
@@ -14485,6 +14486,8 @@ Wenn sich ein Dokument nicht in einem Ordner mit Namenskonvention befindet, kön
 
 _Erforderlicher Zugriff:_ Schreibzugriff auf das Dokument.
 
+> **Hinweis:** Dokumentnamen darf keine der folgenden Zeichen enthalten: `< > : " / \ | ? *` Wenn der neue Name eines dieser Zeichen enthält, kann er nicht gespeichert werden.
+
 ### 2.3 **Felder ausfüllen**
 
 So können die Felder aussehen, die für das gesamte Dokument ausgefüllt werden können:
@@ -14509,7 +14512,7 @@ Wenn mehrere PDF-Revisionen in einem Dokument vorhanden sind, wird die Aktion [P
 
 ### 3.2 **Herunterladen**
 
-Klicken Sie auf das Download-Symbol oben rechts im Revisionsmenü oder auf "Herunterladen" im Hamburger-Menü neben dem Download-Symbol, um die aktuelle Revision herunterzuladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
+Klicken Sie auf das Download-Symbol oben rechts im Revisions-Menü oder auf "Herunterladen" im Hamburger-Menü neben dem Download-Symbol, um die aktuelle Revision herunterzuladen. Der Name der heruntergeladenen Datei kann durch die [Option zum Herunterladen von Dokumenten](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht anfordern oder ändern. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
 
 ### 3.3 **Revision zurückziehen**
 
@@ -14543,7 +14546,7 @@ Es wird nicht empfohlen, eine infizierte Dokumentrevision herunterzuladen. Sie k
 
 ### 4.3 **Revisionsname**
 
-Der Revisionsname ist der Name, den die Datei im System beim ersten Hochladen hatte. Dieser Name kann nicht geändert werden.
+Der [Revisionsname](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_01e7f2d654) der Revision.
 
 ### 4.4 **Veröffentlicht von**
 
@@ -14591,7 +14594,7 @@ Wenn der neue Status-Workflow mit gemeinsam genutzten Revisionen statt Draft-Rev
 
 ### 6.1 **Herunterladen**
 
-Verwenden Sie die Download-Aktion, um die aktuelle Revision herunterzuladen. Unabhängig vom Revisionstyp können Revisionen auch über das unten aufgeführte Revisionsmenü heruntergeladen werden. In der [Arbeitsbereich-Registerkarte](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte gemeinsam genutzte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. In der [Veröffentlicht-Registerkarte](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte veröffentlichte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument und das Kontrollkästchen "Gemeinsam genutzte Revisionen anzeigen" ist aktiviert.
+Verwenden Sie die Download-Aktion, um die aktuelle Revision herunterzuladen. Der Name der heruntergeladenen Datei kann durch die [Option zum Herunterladen von Dokumenten](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht anfordern oder ändern. Unabhängig vom Revisionstyp können Revisionen auch über das Revisions-Menü unten heruntergeladen werden. In der [Registerkarte "Arbeitsbereich"](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte gemeinsame Revision im Dokument über die vorhandene Element-Aktion heruntergeladen. In der [Registerkarte "Veröffentlicht"](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte veröffentlichte Revision im Dokument über die vorhandene Element-Aktion heruntergeladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument und das Kontrollkästchen "Gemeinsame Revisionen anzeigen" aktiviert.
 
 ### 6.2 **Veröffentlichen**
 

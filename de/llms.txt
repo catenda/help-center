@@ -89,7 +89,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Berechnung der Zugriffsstufen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/15644094-berechnung-der-zugriffsstufen.md)
 - [Berichterstattungsseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12303098-berichterstattungsseite.md)
 - [Boards-Seite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9413644-boards-seite.md)
-- [Catenda AI Connect und Projektzugriff](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778745-q7kwqj4b.md): Catenda AI Connect nutzt nur, was jeder Benutzer in Catenda Hub bereits öffnen kann. Die Organisation, die ein Projekt verwaltet, entscheidet, ob Catenda AI Connect dort zulässig ist, und kann eine Beschränkung für einige oder alle Projekte anfordern.
+- [Catenda AI Connect und Projektzugriff](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/17778745-q7kwqj4b.md): Catenda AI Connect nutzt nur, was jeder Benutzer in Catenda Hub bereits öffnen kann. Die Organisation, die ein Projekt verwaltet, entscheidet, ob Catenda AI Connect dort erlaubt ist, und kann eine Beschränkung für einige oder alle Projekte anfordern.
 - [Catenda Archicad Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5519276-catenda-archicad-plugin.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8358861-catenda-desktop-connector.md)
 - [Catenda Navisworks-Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5085987-catenda-hub-navisworks-plugin.md)

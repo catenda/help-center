@@ -1,8 +1,9 @@
 # Berichterstattungsseite
 
-> **Hinweis 1:** Die Berichterstattungsseite ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann. **Hinweis 2:** Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
+> **Hinweis 1:** Die Berichtseite ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann.
+> **Hinweis 2:** Neue Projekte, die auf einem Vorlagenprojekt basieren, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
 
-Die Berichterstattungsseite befindet sich als sechstes Element im Navigationsmenü. Diese Seite ist Teil des Inhaltsbereichs. Mit der Berichterstattungsseite können Vorlagenberichte in einem Bericht-Editor erstellt werden. Für Themen und Dokumente können separate Vorlagen erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht basierend auf der ausgewählten Vorlage zu erstellen.
+Die Berichtsseite finden Sie als sechstes Element im Navigationsmenü. Diese Seite ist Teil des Inhaltsbereichs. Mit der Berichtsseite können Vorlagenberichte in einem [Report-Editor](https://support.catenda.com/de/articles/17778656-berichts-editor) erstellt werden _(nur für Report-Editor-Kunden)_. Separate Vorlagen können für Themen und Dokumente erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht basierend auf der ausgewählten Vorlage zu generieren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
