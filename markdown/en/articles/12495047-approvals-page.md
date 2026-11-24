@@ -52,8 +52,8 @@ Activity that occurs in the approval is displayed with amounts and icons on the 
 
 Request visibility is role-based: project members can view only requests they personally submitted, active requests assigned to a reviewer or final reviewer team of which they are a member, or all project requests in the case of project administrators. _Access required:_ Project member, or project administrator to see all requests
 
-- For detailed operational procedures on submitting revisions, adding review markups, and processing step validations or final decisions, read more [here](https://www.google.com/search?q=).
-- For administrative guidance on configuring approval templates, managing locked parameters, and resolving broken dependencies, read more [here](https://www.google.com/search?q=).
+- For detailed operational procedures on submitting revisions, adding review markups, and processing step validations or final decisions, see [Approval Operations and Actions Matrix](https://support.catenda.com/en/articles/16195101-approval-operations-and-actions-matrix).
+- For administrative guidance on configuring approval templates, managing locked parameters, and resolving broken dependencies, see [Approval Workflows: Admin Rules](https://support.catenda.com/en/articles/16238073-approval-workflows-admin-rules).
 
 ### 4.1 **Selected item actions**
 
