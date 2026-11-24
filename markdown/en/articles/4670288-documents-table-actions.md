@@ -122,11 +122,15 @@ If you have selected one document you will be able to upload a new revision by c
 
 When the model-link is removed, the model will disappear from the models section while the document remains in the document section. A model-link can later be created from the same document again. _Access required:_ Write access to [create and remove models](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) in project settings
 
-### 2.10 **Copy link**
+### 2.10 **Create drawing**
+
+A selected PDF document can be turned into a drawing that is shown in the 3D viewer together with the models. The create drawing action first asks for the elevation of the drawing. The drawing is then aligned with the **A** and **B** markers, against the storey configurator, the models, known coordinates or an existing drawing of the same floor. Once the drawing is created, the PDF shows a **3D** button that opens it in the 3D viewer. The steps are described in [2D drawings in the 3D viewer](https://support.catenda.com/en/articles/18552923-2d-drawings-in-the-3d-viewer). _Access required:_ Write access to the selected document
+
+### 2.11 **Copy link**
 
 With the copy link action a link that displayes only the selected table rows can be copied. Click [here](https://support.catenda.com/en/articles/14323982-copy-link-action) to learn more about copying links.
 
-### 2.11 **Deleting and restoring**
+### 2.12 **Deleting and restoring**
 
 Use the delete action on a selected element to delete it. A window will appear asking for confirmation to delete the element(s). _Access required:_ Full access to the selected document(s) Full access to the selected folder(s) and their contents Deleted elements can be recovered. Filter on deleted, select the element and use the restore action. _Access required:_ Administrator
 
