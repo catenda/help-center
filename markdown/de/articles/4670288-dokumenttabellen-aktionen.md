@@ -46,7 +46,7 @@ Mit der Aktion "Herunterladen" können ausgewählte Elemente und deren Inhalte h
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Erhalten Sie ein einzelnes Dokument, wenn eine Dokumentzeile ausgewählt ist. Erhalten Sie eine ZIP-Datei, die den Inhalt der Auswahl enthält, wenn eine Ordnerzeile oder mehrere Zeilen ausgewählt sind. Die Namen der heruntergeladenen Dateien können durch die [Option Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für seine gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern. _Erforderlicher Zugriff:_ Vollzugriff auf das/die ausgewählte(n) Dokument(e) und/oder Ordner
+Bei Auswahl einer einzelnen Dokumentzeile wird ein einzelnes Dokument heruntergeladen. Bei Auswahl einer Ordnerzeile oder mehrerer Zeilen wird eine ZIP-Datei mit dem Inhalt der Auswahl heruntergeladen. Die Namen der heruntergeladenen Dateien können durch die Option [Dokument-Download-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern. _Erforderlicher Zugriff:_ Vollzugriff auf die ausgewählten Dokumente und/oder Ordner
 
 **Dokumente erkennen** Wenn die Download-Schaltfläche gedrückt wird, öffnet sich ein Dialogfeld unten links auf der Seite. Zunächst beginnt das System, die verschiedenen Dateien im Download zu erkennen. Das Dialogfeld "Herunterladen vorbereiten" kann etwa so aussehen:
 
@@ -88,21 +88,21 @@ Mit der Berichtsaktion können Sie einen Bericht über Ihre ausgewählten Dokume
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Berichts-Editor-Kunden)_ um mehr über die Berichtsaktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
+Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Report-Editor)_, um mehr über die Berichtsaktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
 
 ### 2.5 **Veröffentlichen**
 
-Mit aktivierter [Versionsverwaltung](https://support.catenda.com/de/articles/9874698-neuer-status-workflow-iso-19650) können die Registerkarten Arbeitsbereich und Veröffentlicht oben auf der Modellseite angezeigt werden.
+Wenn [Revisionsveröffentlichung](https://support.catenda.com/de/articles/9874698-neuer-status-workflow-iso-19650) aktiviert ist, sind die Tabs Arbeitsbereich und Veröffentlicht oben auf der Modellseite sichtbar.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/12-publish.png)
 
-Auf der Registerkarte "Arbeitsbereich" können freigegebene Versionen angezeigt werden. Sie können freigegebene Versionen von veröffentlichten Versionen durch das Symbol in der Versionsspalte und die Tatsache unterscheiden, dass sie eine Nebenversionsnummer (0,1, 0,2, 1,1 usw.) haben. _Erforderlicher Zugriff:_ Freigegebene Versionen in den Zugriffseinstellungen für Dokument-Modelle anzeigen. Nach Aktivierung des Status-Workflows beginnt jede neue Version in einem Dokument als freigegebene Version, die veröffentlicht werden kann. Wählen Sie ein oder mehrere Dokumente aus, bei denen die neueste Version eine freigegebene Version ist, um die Aktion "Veröffentlichen" im Aktionsmenü anzuzeigen. _Erforderlicher Zugriff:_ Kann in den Dokumentzugriffseinstellungen veröffentlicht werden. Mit der Aktion "Veröffentlichen" können Sie die neueste freigegebene Version veröffentlichen. Wenn Sie eine frühere freigegebene Version veröffentlichen möchten, können Sie diese aus der [Versionsvorschau](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen) veröffentlichen.
+Im Tab Arbeitsbereich sind geteilte Revisionen zu sehen. Sie erkennen geteilte Revisionen von veröffentlichten Revisionen an dem Symbol in der Spalte Revision und daran, dass sie eine Nebenrevisionsnummer haben (0.1, 0.2, 1.1 usw.). _Erforderlicher Zugriff:_ Geteilte Revisionen in den Zugriffseinstellungen für Dokument-Modell anzeigen. Nach Aktivierung des Status-Workflows beginnt jede neue Revision eines Dokuments als geteilte Revision, die veröffentlicht werden kann. Wählen Sie ein oder mehrere Dokumente aus, bei denen die neueste Revision eine geteilte Revision ist, um die Aktion Veröffentlichen im Aktionsmenü zu sehen. _Erforderlicher Zugriff:_ „Kann veröffentlichen“ in den Zugriffseinstellungen für Dokumente. Mit der Aktion Veröffentlichen können Sie die neueste geteilte Revision veröffentlichen. Wenn Sie eine frühere geteilte Revision veröffentlichen möchten, können Sie dies über die [Revisionsvorschau](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen) tun.
 
 ### 2.6 **Vorschau**
 
 Um eine Vorschau der ausgewählten Dokument(e) anzuzeigen, können Sie entweder auf die Schaltfläche "Vorschau" im Hamburger-Menü klicken oder auf das Symbol des Dokuments in der Dokumentenliste klicken. Sie erhalten dann ein Vorschaudialogfeld, mit dem Sie die verschiedenen Dokumente einfach in der Vorschau anzeigen können, ohne die Seite jedes Dokuments öffnen zu müssen. Dies ist besonders schön, wenn Sie versuchen, viele Bilder in der Vorschau anzuzeigen, kann aber auch nützlich sein, wenn Sie zwei Dokumente nebeneinander sehen müssen, da Sie die Vorschau anheften können, damit sie offen bleibt. _Erforderlicher Zugriff:_ Lesezugriff
 
-> **Hinweis:** Ordner und Entwurfsdokumente können nicht im Vorschaudialogfeld in der Vorschau angezeigt werden. Entwurfsdokumente können auf ihrer [Dokumentseite](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) immer noch in der Vorschau angezeigt werden.
+> **Hinweis:** Ordner und Dokumentenentwürfe können im Vorschaudialog nicht angezeigt werden. Dokumentenentwürfe können weiterhin auf ihrer [Dokumentseite](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) angezeigt werden.
 
 ### 2.7 **3D-Modelle**
 
@@ -114,19 +114,23 @@ Wenn Sie ein Dokument ausgewählt haben, können Sie eine neue Version hochladen
 
 ### 2.9 **Modell erstellen und entfernen**
 
-**Modell erstellen** Ein ausgewähltes Dokument mit der Erweiterung `.ifc` oder `.ifczip` kann mit der Aktion "Modell erstellen" mit einem Modell im Modellabschnitt verknüpft werden. Wenn zum ersten Mal eine Modellverknüpfung für ein Dokument erstellt wird, hat das Modell, das auf der Modellseite angezeigt wird, denselben Namen wie das Dokument, aus dem es erstellt wurde. Sowohl der Name des Modells auf der Modellseite als auch der Name des Dokuments können später geändert werden. Ein Dokument, das zuvor eine Modellverknüpfung hatte, merkt sich, welchen Namen dieses Modell hatte, und wendet den vorherigen Namen des entfernten Modells an, wenn eine neue Modellverknüpfung erstellt wird, auch wenn der aktuelle Dokumentname unterschiedlich ist. _Erforderlicher Zugriff:_ Schreibzugriff zum [Erstellen und Entfernen von Modellen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) in den Projekteinstellungen
+**Modell erstellen** Ein ausgewähltes Dokument mit der Erweiterung `.ifc` oder `.ifczip` kann mit der Aktion Modell erstellen mit einem Modell im Bereich Modelle verknüpft werden. Beim ersten Erstellen einer Modellverknüpfung für ein Dokument hat das Modell auf der Modellseite denselben Namen wie das Dokument, aus dem es erstellt wurde. Sowohl der Name des Modells auf der Modellseite als auch der Name des Dokuments können später geändert werden. Ein Dokument, das zuvor eine Modellverknüpfung hatte, merkt sich den Namen dieses Modells und verwendet beim Erstellen einer neuen Modellverknüpfung den früheren Namen des entfernten Modells, auch wenn der aktuelle Dokumentname abweicht. _Erforderlicher Zugriff:_ Schreibzugriff auf [Modelle erstellen und entfernen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) in den Projekteinstellungen
 
 **Modell entfernen** Die Verknüpfung eines Dokuments, das mit einem Modell verknüpft ist, kann mit der Aktion "Modell entfernen" entfernt werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/13-create-and-remove-model.png)
 
-Wenn die Modellverknüpfung entfernt wird, verschwindet das Modell aus dem Modellabschnitt, während das Dokument im Dokumentenbereich verbleibt. Eine Modellverknüpfung kann später erneut aus demselben Dokument erstellt werden. _Erforderlicher Zugriff:_ Schreibzugriff zum [Erstellen und Entfernen von Modellen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) in den Projekteinstellungen
+Wenn die Modellverknüpfung entfernt wird, verschwindet das Modell aus dem Bereich Modelle, während das Dokument im Bereich Dokumente erhalten bleibt. Später kann aus demselben Dokument erneut eine Modellverknüpfung erstellt werden. _Erforderlicher Zugriff:_ Schreibzugriff auf [Modelle erstellen und entfernen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) in den Projekteinstellungen
 
-### 2.10 **Link kopieren**
+### 2.10 **Zeichnung erstellen**
 
-Mit der Aktion "Link kopieren" kann ein Link, der nur die ausgewählten Tabellenzeilen anzeigt, kopiert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren), um mehr über das Kopieren von Links zu erfahren.
+Ein ausgewähltes PDF-Dokument kann in eine Zeichnung umgewandelt werden, die zusammen mit den Modellen im 3D-Viewer angezeigt wird. Bei der Aktion Zeichnung erstellen wird zuerst die Höhe der Zeichnung abgefragt. Die Zeichnung wird dann an den Markierungen **A** und **B** ausgerichtet, und zwar am Geschoss-Konfigurator, an den Modellen, an bekannten Koordinaten oder an einer vorhandenen Zeichnung derselben Etage. Sobald die Zeichnung erstellt ist, zeigt das PDF eine Schaltfläche **3D** an, die sie im 3D-Viewer öffnet. Die Schritte werden unter [2D-Zeichnungen im 3D-Viewer](https://support.catenda.com/de/articles/18552923-2d-zeichnungen-im-3d-viewer) beschrieben. _Erforderlicher Zugriff:_ Schreibzugriff auf das ausgewählte Dokument
 
-### 2.11 **Löschen und Wiederherstellen**
+### 2.11 **Link kopieren**
+
+Mit der Aktion Link kopieren kann ein Link kopiert werden, der nur die ausgewählten Tabellenzeilen anzeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren), um mehr über das Kopieren von Links zu erfahren.
+
+### 2.12 **Löschen und Wiederherstellen**
 
 Verwenden Sie die Aktion "Löschen" für ein ausgewähltes Element, um es zu löschen. Ein Fenster wird angezeigt, in dem Sie aufgefordert werden, das Löschen des/der Element(e) zu bestätigen. _Erforderlicher Zugriff:_ Vollzugriff auf das/die ausgewählte(n) Dokument(e) Vollzugriff auf die ausgewählten Ordner und deren Inhalte. Gelöschte Elemente können wiederhergestellt werden. Filtern Sie nach gelöschten Elementen, wählen Sie das Element aus und verwenden Sie die Aktion "Wiederherstellen". _Erforderlicher Zugriff:_ Administrator
 
@@ -140,10 +144,10 @@ _Objektbeziehungen_ Ein gelöschtes Dokument, das mit einem Objekt verknüpft wa
 
 ## 3. **Aktionen des aktuellen Ordners**
 
-Wenn Sie einen Ordner geöffnet haben, aber nichts ausgewählt haben, wird das [Menü "Rechte Informationen"](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) Aktionen für den Ordner anzeigen, in dem Sie sich befinden. Das Menü "Rechte Informationen" kann geschlossen sein und Sie müssen möglicherweise auf den Pfeil auf der rechten Seite klicken, um ihn zu öffnen. Diese Aktionen können etwa so aussehen:
+Wenn Sie einen Ordner geöffnet, aber nichts ausgewählt haben, zeigt das [rechte Informationsmenü](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) Aktionen für den aktuellen Ordner an. Das rechte Informationsmenü ist möglicherweise geschlossen; in diesem Fall klicken Sie auf den Pfeil auf der rechten Seite, um es zu öffnen. Diese Aktionen können etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/14-current-folder-actions.png)
 
-Da Sie nichts ausgewählt haben, werden die ausgewählten Elementaktionen nicht oben in der Dokumententabelle angezeigt. Stattdessen können Sie Aktionen für den Ordner, in dem Sie sich befinden, mit den Symbolen und dem Hamburger-Menü im [Menü "Rechte Informationen"](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) ausführen.
+Da nichts ausgewählt ist, werden die Aktionen für ausgewählte Elemente nicht oben in der Dokumententabelle angezeigt. Stattdessen können Sie Aktionen für den aktuellen Ordner über die Symbole und das Hamburger-Menü im [rechten Informationsmenü](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) ausführen.
 
 **Erforderlicher Zugriff:** Herunterladen: Lesezugriff auf den aktuellen Ordner. Verschieben: Vollzugriff auf den aktuellen Ordner und Schreibzugriff auf den Ort, an den Sie den Ordner verschieben. Löschen: Vollzugriff auf den aktuellen Ordner und seinen Inhalt.

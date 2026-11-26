@@ -52,8 +52,8 @@ Aktivitet som oppstår i gjennomgangen vises med mengder og ikoner på gjennomga
 
 Synligheten for forespørsler er rollebasert: prosjektmedlemmer kan bare se forespørsler de selv har sendt inn, aktive forespørsler tildelt et vurderingsteam eller siste vurderingsteam som de er medlem av, eller alle prosjektforespørsler i tilfelle prosjektadministratorer. _Påkrevd tilgang:_ Prosjektmedlem, eller prosjektadministrator for å se alle forespørsler
 
-- For detaljerte operasjonelle prosedyrer for innsending av revisjoner, tillegg av vurderingsmerknader og behandling av trinnvalidering eller endelige beslutninger, les mer [her](https://www.google.com/search?q=).
-- For administrativ veiledning om konfigurering av gjennomgangsmaler, styring av låste parametere og løsing av brutte avhengigheter, les mer [her](https://www.google.com/search?q=).
+- For detaljerte operasjonelle prosedyrer for innsending av revisjoner, legging til av vurderingsmerknader og behandling av trinnvalideringer eller endelige avgjørelser, se [Gjennomgangsoperasjoner og handlingsmatrise](https://support.catenda.com/nb/articles/16195101-matrise-for-gjennomgangsoperasjoner-og-handlinger).
+- For administrativ veiledning om konfigurering av gjennomgangsmaler, administrering av låste parametere og løsing av brutte avhengigheter, se [Gjennomgangsarbeidsflyter: Admin-regler](https://support.catenda.com/nb/articles/16238073-gjennomgangsarbeidsflyter-adminregler).
 
 ### 4.1 **Handlinger for valgte elementer**
 

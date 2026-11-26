@@ -52,8 +52,8 @@ Activiteit die in de goedkeuring plaatsvindt, wordt met aantallen en pictogramme
 
 Zichtbaarheid van aanvraag is op rollen gebaseerd: projectleden kunnen alleen aanvragen zien die zij persoonlijk hebben ingediend, actieve aanvragen toegewezen aan een beoordelaars- of eindbeoordelaars-team waarvan zij lid zijn, of alle projectaanvragen in het geval van projectbeheerders. _Vereiste toegang:_ Projectlid of projectbeheerder om alle aanvragen te zien
 
-- Voor gedetailleerde operationele procedures voor het indienen van revisies, het toevoegen van beoordelingsmarkeringen en het verwerken van stapvalidaties of eindbesluiten, leest u meer [hier](https://www.google.com/search?q=).
-- Voor administratieve richtlijnen over het configureren van goedkeuringssjablonen, het beheren van vergrendelde parameters en het oplossen van verbroken afhankelijkheden, leest u meer [hier](https://www.google.com/search?q=).
+- Voor gedetailleerde bedieningsprocedures over het indienen van revisions, het toevoegen van beoordelings-markups en het verwerken van stapvalidaties of eindbeslissingen, zie [Goedkeuringsbewerkingen en actiematrix](https://support.catenda.com/nl/articles/16195101-matrix-voor-goedkeuringsbewerkingen-en-acties).
+- Voor administratieve richtlijnen over het configureren van goedkeuringstemplates, het beheren van vergrendelde parameters en het oplossen van defecte afhankelijkheden, zie [Goedkeuringsworkflows: beheerregels](https://support.catenda.com/nl/articles/16238073-goedkeuringswerkstromen-beheersregels).
 
 ### 4.1 **Geselecteerde itemacties**
 

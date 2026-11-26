@@ -66,6 +66,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [2D-Viewer - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7748370-2d-viewer-catenda-site.md)
 - [2D-Viewer Gebäude und Geschosse](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/10901703-2d-viewer-gebäude-und-geschosse.md)
 - [2D-Viewer-Interaktionen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12699525-2d-viewer-interaktionen.md): Interaktion mit dem 2D-Viewer
+- [2D-Zeichnungen im 3D-Viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/18552923-8qn3dfyk.md): So richten Sie PDF-Zeichnungen aus und zeigen sie zusammen mit den Modellen im 3D-Viewer an
 - [3D Viewer-Einstellungen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5784718-3d-viewer-einstellungen.md)
 - [3D-Schnappschüsse](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/10345863-3d-schnappschüsse.md)
 - [3D-Viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8227211-3d-viewer.md)

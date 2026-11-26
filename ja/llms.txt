@@ -72,6 +72,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [3D ビューア - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7744403-3d-ビューア-catenda-site.md)
 - [3D ビューア設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5784718-3d-ビューア設定.md)
 - [3Dビューア](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8227211-3dビューア.md)
+- [3Dビューアの2D図面](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/18552923-8qn3dfyk.md): PDF図面を位置合わせして、3Dビューアでモデルと一緒に表示する方法
 - [3Dビューアツールメニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670294-3dビューアツールメニュー.md): Catenda Hubの3Dビューアツールについて説明します
 - [Archicadのマークアップツールを使用したBCFワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670335-archicadのマークアップツールを使用したbcfワークフロー.md)
 - [Catenda AI Connect for Gemini について](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/18485789-qcm4t9m5.md): Catenda AI Connect を使うと、Catenda Hub のプロジェクトデータを Gemini で利用できます。チームでの用途、組織が開始前に必要なこと、利用開始方法を説明します。

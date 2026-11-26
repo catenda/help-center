@@ -52,8 +52,8 @@ Aktivität, die in der Genehmigung auftritt, wird mit Mengen und Symbolen auf de
 
 Die Sichtbarkeit von Anfragen ist rollenbasiert: Projektmitglieder können nur Anfragen einsehen, die sie selbst eingereicht haben, aktive Anfragen, die einem Review- oder Final-Review-Team zugewiesen sind, dessen Mitglied sie sind, oder alle Projektanfragen im Falle von Projektadministratoren. _Erforderlicher Zugriff:_ Projektmitglied oder Projektadministrator zum Anzeigen aller Anfragen
 
-- Weitere Informationen zu detaillierten operativen Verfahren zum Einreichen von Überarbeitungen, zum Hinzufügen von Überarbeitungsmarkierungen und zum Verarbeiten von Schrittvalidierungen oder endgültigen Entscheidungen finden Sie [hier](https://www.google.com/search?q=).
-- Weitere Informationen zu Verwaltungsanleitungen zum Konfigurieren von Genehmigungsvorlagen, zum Verwalten gesperrter Parameter und zum Beheben fehlerhafter Abhängigkeiten finden Sie [hier](https://www.google.com/search?q=).
+- Ausführliche Anleitungen zum Einreichen von Revisionen, zum Hinzufügen von Prüfungsmarkups sowie zur Bearbeitung von Schrittvalidierungen oder endgültigen Entscheidungen finden Sie unter [Approval Operations and Actions Matrix](https://support.catenda.com/de/articles/16195101-matrix-fur-genehmigungsvorgange-und-massnahmen).
+- Administrative Hinweise zur Konfiguration von Genehmigungsvorlagen, zur Verwaltung gesperrter Parameter und zur Behebung fehlerhafter Abhängigkeiten finden Sie unter [Approval Workflows: Admin Rules](https://support.catenda.com/de/articles/16238073-genehmigungsworkflows-administratorregeln).
 
 ### 4.1 **Aktionen für ausgewählte Elemente**
 

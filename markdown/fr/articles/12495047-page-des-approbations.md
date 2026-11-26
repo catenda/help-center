@@ -52,8 +52,8 @@ L'activité qui se produit dans l'approbation s'affiche avec des quantités et d
 
 La visibilité des demandes est basée sur les rôles : les membres du projet ne peuvent voir que les demandes qu'ils ont personnellement soumises, les demandes actives assignées à une équipe de réviseur ou de réviseur final dont ils sont membre, ou toutes les demandes du projet dans le cas des administrateurs de projet. _Accès requis :_ Membre du projet, ou administrateur du projet pour voir toutes les demandes
 
-- Pour les procédures opérationnelles détaillées concernant la soumission de révisions, l'ajout de marques de révision et le traitement des validations d'étapes ou des décisions finales, lisez [ici](https://www.google.com/search?q=).
-- Pour les conseils d'administration sur la configuration des modèles d'approbation, la gestion des paramètres verrouillés et la résolution des dépendances cassées, lisez [ici](https://www.google.com/search?q=).
+- Pour des procédures opérationnelles détaillées concernant la soumission de revision, l'ajout d'annotations de revue et le traitement des validations d'étapes ou des décisions finales, voir [Opérations d'approbation et matrice des actions](https://support.catenda.com/fr/articles/16195101-matrice-des-operations-et-actions-d-approbation).
+- Pour des instructions administratives sur la configuration des modèles d'approbation, la gestion des paramètres verrouillés et la résolution des dépendances défectueuses, voir [Flux de travail d'approbation : règles d'administration](https://support.catenda.com/fr/articles/16238073-flux-d-approbation-regles-d-administration).
 
 ### 4.1 **Actions sur les éléments sélectionnés**
 

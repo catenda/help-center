@@ -63,6 +63,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [2D / 3D - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7734138-2d-3d-catenda-site.md)
 - [2D og 3D-visninger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9184555-2d-og-3d-visninger.md)
 - [2D viser - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7748370-2d-viser-catenda-site.md)
+- [2D-tegninger i 3D-viseren](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/18552923-8qn3dfyk.md): Slik plasserer du PDF-tegninger og viser dem sammen med modellene i 3D-viseren
 - [2D-viser](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4854537-2d-viser.md): Beskriver de ulike verktøyene i 2D-verktøylinjen
 - [2D-viser bygninger og etasjer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10901703-2d-viser-bygninger-og-etasjer.md)
 - [2D-viser utseende](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13615984-2d-viser-utseende.md)

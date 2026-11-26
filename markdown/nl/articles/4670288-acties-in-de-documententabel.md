@@ -46,7 +46,7 @@ Met de downloadactie kunnen geselecteerde items en hun inhoud worden gedownload 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Ontvang een enkel document met één documentrij geselecteerd. Ontvang een zipbestand dat de inhoud van de selectie bevat wanneer een maprij of meerdere rijen zijn geselecteerd. De namen van de gedownloade bestanden kunnen worden beïnvloed door de [optie documentdownloadtitel](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen. _Vereiste toegang:_ volledige toegang tot uw geselecteerde document(en) en/of map(pen)
+Je ontvangt één document wanneer één documentrij is geselecteerd. Je ontvangt een zipbestand met de inhoud van de selectie wanneer een maprij of meerdere rijen zijn geselecteerd. De namen van de gedownloade bestanden kunnen worden beïnvloed door de [optie documenttitel voor download](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f). De projecteigenaar configureert deze optie voor de hele organisatie, dus projectleden kunnen deze zelf niet aanvragen of wijzigen. _Vereiste toegang:_ volledige toegang tot je geselecteerde document(en) en/of map(pen)
 
 **Documenten ontdekken** Zodra de downloadknop is ingedrukt, wordt een dialoog geopend in de linkeronderhoek van de pagina. Eerst zal het systeem beginnen de verschillende bestanden in de download te ontdekken. Dit is hoe de dialoog voor downloadvoorbereiding eruit kan zien:
 
@@ -88,21 +88,21 @@ Met de rapportactie kunt u een rapport maken van uw geselecteerde documenten. De
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen klanten van report editor)_ voor meer informatie over de rapportactie. _Vereiste toegang:_ Leestoegang tot het document
+Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen klanten met de rapporteditor)_ om meer te lezen over de rapportageactie. _Vereiste toegang:_ leesrechten voor het document
 
 ### 2.5 **Publiceren**
 
-Met [revisie-publicatie](https://support.catenda.com/nl/articles/9874698-nieuwe-statusworkflow-iso-19650) ingeschakeld, kunnen de tabbladen werkruimte en gepubliceerd bovenaan de modelpagina worden weergegeven.
+Wanneer [revision publishing](https://support.catenda.com/nl/articles/9874698-nieuwe-statusworkflow-iso-19650) is ingeschakeld, zijn de tabbladen werkruimte en gepubliceerd bovenaan de pagina modellen te zien.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/12-publish.png)
 
-Op het tabblad werkruimte kunnen gedeelde revisies worden weergegeven. U kunt gedeelde revisies onderscheiden van gepubliceerde revisies aan de hand van het pictogram in de revisiekolom en het feit dat ze een onderversienummer hebben (0.1, 0.2, 1.1, enz...) _Vereiste toegang:_ Gedeelde revisies weergeven in document-model-toegangsinstellingen Nadat u de statuswerkstroom hebt ingeschakeld, begint elke nieuwe revisie in een Document als een gedeelde revisie die kan worden gepubliceerd. Selecteer één of meer Documenten waarbij de laatste revisie een gedeelde revisie is om de publicatieactie in het actiemenu te zien. _Vereiste toegang:_ Kan publiceren in Document-toegangsinstellingen Met de publicatieactie kunt u de meest recente gedeelde revisie publiceren. Als u een vorige gedeelde revisie wilt publiceren, kunt u deze publiceren vanuit het [revisievoorbeeld](https://support.catenda.com/nl/articles/9323521-acties-voor-documentrevision).
+Op het tabblad werkruimte zijn gedeelde revisions te zien. Je herkent gedeelde revisions aan het pictogram in de revisiekolom en aan het feit dat ze een klein revisienummer hebben (0.1, 0.2, 1.1, enz.). _Vereiste toegang:_ gedeelde revisions bekijken in de toegangsinstellingen van document-model. Na het inschakelen van de status-workflow begint elke nieuwe revision in een document als gedeelde revision die kan worden gepubliceerd. Selecteer een of meer documenten waarvan de laatste revision een gedeelde revision is om de actie publiceren in het actiemenu te zien. _Vereiste toegang:_ kan publiceren in de toegangsinstellingen van het document. Met de actie publiceren kun je de laatste gedeelde revision publiceren. Als je een eerdere gedeelde revision wilt publiceren, kun je dat doen via de [revisiepreview](https://support.catenda.com/nl/articles/9323521-acties-voor-documentrevision).
 
 ### 2.6 **Voorbeeld**
 
 Om een voorbeeld van uw geselecteerde document(en) te bekijken, kunt u op de knop voorbeeldactie in het hamburgermenu klikken of op het pictogram van het document in de Documenten-lijst klikken. U ziet dan een voorbeelddialoog die u kunt gebruiken om eenvoudig een voorbeeld van de verschillende Documenten te bekijken zonder elke documentpagina afzonderlijk te hoeven openen. Dit is vooral handig als u veel afbeeldingen wilt bekijken, maar kan ook nuttig zijn als u twee Documenten naast elkaar wilt zien, omdat u het voorbeeld kunt vastmaken zodat het open blijft. _Vereiste toegang:_ Leestoegang
 
-> **Opmerking:** Mappen en conceptDocumenten kunnen niet in de voorbeelddialoog worden weergegeven. Concept-Documenten kunnen nog steeds worden weergegeven op hun [Documentenpagina](https://support.catenda.com/nl/articles/8461918-documentbanner-navigatie).
+> **Let op:** Mappen en conceptdocumenten kunnen niet worden weergegeven in het voorbeelddialoogvenster. Conceptdocumenten kunnen nog steeds worden bekeken op hun [documentpagina](https://support.catenda.com/nl/articles/8461918-documentbanner-navigatie).
 
 ### 2.7 **3D-modellen**
 
@@ -114,19 +114,23 @@ Als u één document hebt geselecteerd, kunt u een nieuwe revisie uploaden door 
 
 ### 2.9 **Model maken en verwijderen**
 
-**Model maken** Een geselecteerd document met de extensie `.ifc` of `.ifczip` kan worden gekoppeld aan een model in de modellensectie met de actie model maken. De eerste keer dat een model-link voor een Document wordt gemaakt, heeft het model dat op de modelpagina verschijnt dezelfde naam als het Document waarvan het is gemaakt. Zowel de naam van het model op de modelpagina als de naam van het Document kunnen later worden gewijzigd. Een Document dat eerder een model-link had, onthoudt welke naam dat model had en past de vorige naam toe die het verwijderde model had wanneer een nieuwe model-link wordt gemaakt, zelfs als de huidige Documentnaam anders is. _Vereiste toegang:_ Schrijftoegang tot [modellen maken en verwijderen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3) in projectinstellingen
+**Model maken** Een geselecteerd document met de extensie `.ifc` of `.ifczip` kan via de actie model maken worden gekoppeld aan een model in de modellensectie. De eerste keer dat een model-link voor een document wordt gemaakt, heeft het model dat op de modellenpagina verschijnt dezelfde naam als het document waaruit het is gemaakt. Zowel de naam van het model op de modellenpagina als de naam van het document kunnen later worden gewijzigd. Een document dat eerder een model-link had, onthoudt welke naam dat model had en past die eerdere naam toe wanneer een nieuwe model-link wordt gemaakt, ook als de huidige documentnaam anders is. _Vereiste toegang:_ schrijfrechten voor [model maken en verwijderen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3) in de projectinstellingen
 
 **Model verwijderen** De link van een Document dat aan een model is gekoppeld, kan worden verwijderd met de actie model verwijderen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/13-create-and-remove-model.png)
 
-Wanneer de model-link wordt verwijderd, verdwijnt het model uit de modellensectie terwijl het Document in de Documentensectie blijft. Een model-link kan later opnieuw vanuit hetzelfde Document worden gemaakt. _Vereiste toegang:_ Schrijftoegang tot [modellen maken en verwijderen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3) in projectinstellingen
+Wanneer de model-link wordt verwijderd, verdwijnt het model uit de modellensectie terwijl het document in de documentensectie blijft. Later kan opnieuw een model-link worden gemaakt vanuit hetzelfde document. _Vereiste toegang:_ schrijfrechten voor [model maken en verwijderen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3) in de projectinstellingen
 
-### 2.10 **Koppeling kopiëren**
+### 2.10 **Tekening maken**
 
-Met de actie koppeling kopiëren kan een koppeling die alleen de geselecteerde tabelrijen weergeeft, worden gekopieerd. Klik [hier](https://support.catenda.com/nl/articles/14323982-koppelingen-actie) voor meer informatie over het kopiëren van koppelingen.
+Een geselecteerd PDF-document kan worden omgezet in een tekening die samen met de modellen in de 3D-viewer wordt getoond. De actie tekening maken vraagt eerst om de hoogte van de tekening. De tekening wordt vervolgens uitgelijnd met de markeringen **A** en **B**, ten opzichte van de verdiepingsconfigurator, de modellen, bekende coördinaten of een bestaande tekening van dezelfde verdieping. Zodra de tekening is gemaakt, toont de PDF een **3D**-knop die de tekening in de 3D-viewer opent. De stappen worden beschreven in [2D-tekeningen in de 3D-viewer](https://support.catenda.com/nl/articles/18552923-2d-tekeningen-in-de-3d-viewer). _Vereiste toegang:_ schrijfrechten voor het geselecteerde document
 
-### 2.11 **Verwijderen en herstellen**
+### 2.11 **Koppeling kopiëren**
+
+Met de actie koppeling kopiëren kan een koppeling worden gekopieerd die alleen de geselecteerde tabelrijen toont. Klik [hier](https://support.catenda.com/nl/articles/14323982-koppelingen-actie) om meer te lezen over het kopiëren van koppelingen.
+
+### 2.12 **Verwijderen en herstellen**
 
 Gebruik de verwijderactie op een geselecteerd element om het te verwijderen. Er verschijnt een venster met een verzoek om bevestiging om het/de element(en) te verwijderen. _Vereiste toegang:_ Volledige toegang tot het/de geselecteerde document(en) Volledige toegang tot de/de geselecteerde map(pen) en hun inhoud Verwijderde elementen kunnen worden hersteld. Filter op verwijderd, selecteer het element en gebruik de herstelactie. _Vereiste toegang:_ Beheerder
 
@@ -140,10 +144,10 @@ _Objectrelaties_ Een verwijderd Document dat aan een object was gekoppeld, wordt
 
 ## 3. **Huidige mapaacties**
 
-Als u een map hebt geopend, maar niets hebt geselecteerd, wordt in het [rechtsinformatiemenu](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie) acties voor de map waarin u zich bevindt weergegeven. Het rechtsinformatiemenu is mogelijk gesloten en u moet mogelijk op de pijl aan de rechterkant klikken om het te openen. Deze acties kunnen er ongeveer zo uitzien:
+Als je een map hebt geopend maar niets hebt geselecteerd, toont het [rechter informatiemenu](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie) acties voor de map waarin je je bevindt. Het rechter informatiemenu is mogelijk gesloten; klik dan op de pijl aan de rechterkant om het te openen. Deze acties kunnen er ongeveer zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/14-current-folder-actions.png)
 
-Omdat u niets hebt geselecteerd, worden de acties voor geselecteerde items niet bovenaan de Documententabel weergegeven. In plaats daarvan kunt u acties uitvoeren op de map waarin u zich bevindt met behulp van de pictogrammen en het hamburgermenu in het [rechtsinformatiemenu](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie).
+Omdat je niets hebt geselecteerd, worden de acties voor geselecteerde items niet bovenaan de documententabel weergegeven. In plaats daarvan kun je acties uitvoeren op de map waarin je je bevindt, via de pictogrammen en het hamburgermenu in het [rechter informatiemenu](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie).
 
 **Vereiste toegang:** Downloaden: Leestoegang tot de huidige map Verplaatsen: Volledige toegang tot de huidige map en schrijftoegang tot de locatie waarheen u de map verplaatst. Verwijderen: Volledige toegang tot de huidige map en de inhoud ervan.

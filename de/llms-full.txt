@@ -2948,6 +2948,95 @@ Mit der Ebenen-Schaltfläche können Sie verschiedene Ebenen im 2D-Viewer umscha
 
 **Karte** Diese Schaltfläche wird angezeigt, wenn ein Standort in den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) konfiguriert wurde. Mit dieser Schaltfläche kann die Karte ein- oder ausgeblendet werden.
 
+# 2D-Zeichnungen im 3D-Viewer
+
+> So richten Sie PDF-Zeichnungen aus und zeigen sie zusammen mit den Modellen im 3D-Viewer an
+
+2D-Zeichnungen sind ein wesentlicher Bestandteil jedes Bauprojekts. Auch wenn Zeichnungen häufig aus den 3D-Modellen erstellt werden, enthalten sie Details, die ergänzen, was die Modelle zeigen. Die Anzeige von 2D-Zeichnungen im 3D-Viewer bietet gleichzeitig den zwei- und dreidimensionalen Kontext. _Erforderliche Zugriffsrechte:_ Schreibzugriff auf das PDF-Dokument, um eine Zeichnung zu erstellen
+
+[Sehen Sie sich das Video an: 2D-Zeichnungen im 3D-Viewer](https://eu.guidde.com/share/playbooks/jLcBnpr2UYKWMpgP2gK9jv)
+
+## 1. **1. Kalibrierte und nicht kalibrierte Zeichnungen**
+
+Gehen Sie zu den Dokumenten und navigieren Sie zu der PDF-Datei, die die 2D-Zeichnung enthält.
+
+### 1.1 **Kalibrierte Zeichnungen**
+
+PDF-Zeichnungen, die bereits ausgerichtet wurden, zeigen eine **3D**-Schaltfläche an. Klicken Sie darauf, um die Zeichnung zusammen mit den Modellen im 3D-Viewer anzuzeigen.
+
+### 1.2 **Nicht kalibrierte Zeichnungen**
+
+PDF-Zeichnungen, die noch nicht ausgerichtet wurden, müssen zuerst ausgerichtet werden, wie im nächsten Abschnitt beschrieben.
+
+![3D-Schaltfläche für kalibrierte Zeichnungen](https://raw.githubusercontent.com/catenda/help-center/main/images/8qn3dfyk/01-3d-button.png)
+
+## 2. **2. Ausrichten einer Zeichnung**
+
+### 2.1 **2.1 Zeichnung erstellen**
+
+1. Wählen Sie die PDF-Zeichnung zum Ausrichten aus, indem Sie das zugehörige Kontrollkästchen aktivieren (zum Beispiel das dritte Geschoss der Tragwerkszeichnungen).
+1. Öffnen Sie das [Aktionsmenü](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) (**…**).
+1. Wählen Sie **Zeichnung erstellen** aus.
+
+![Zeichnung erstellen im Kontextmenü](https://raw.githubusercontent.com/catenda/help-center/main/images/8qn3dfyk/02-create-drawing.png)
+
+### 2.2 **2.2 Auswahl der Höhe**
+
+Im ersten Schritt wird die Höhe abgefragt, auf der die Zeichnung platziert wird.
+
+- Wenn die Höhe bekannt ist, geben Sie den Wert direkt ein.
+- Andernfalls wählen Sie eine Höhe aus einem der IFC-models aus, die im Projekt hochgeladen wurden.
+
+Klicken Sie anschließend auf **Weiter: Ausrichtungspunkte setzen**.
+
+![Auswahl der Höhe](https://raw.githubusercontent.com/catenda/help-center/main/images/8qn3dfyk/03-elevation.png)
+
+### 2.3 **2.3 Ausrichtungsmethoden**
+
+Die Zeichnung muss ausgerichtet werden, damit sie an der richtigen Position liegt. Es stehen vier Ausrichtungsmethoden zur Verfügung.
+
+**Storey configurator** Wenn Elemente im [storey configurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite) konfiguriert sind, wird die Zeichnung anhand der 2D-Generierung aus den models ausgerichtet.
+
+**Models** Die Zeichnung wird an den models selbst ausgerichtet, zum Beispiel am architektonischen und am Tragwerks-model der jeweiligen Etage.
+
+**Coordinates** Sind die Koordinaten bekannt, werden die Markierungen **A** und **B** diesen zugeordnet.
+
+**Copy an existing alignment** Eine ausgerichtete Zeichnung derselben Etage kann für die neue Zeichnung wiederverwendet werden. Fügen Sie dieses Dokument hinzu und kopieren Sie dessen Ausrichtung, zum Beispiel von der architektonischen dritten Etage auf die statische dritte Etage.
+
+Wenn Sie an Punkten ausrichten, etwa an Rasterlinienschnittpunkten, platzieren Sie die Markierungen **A** und **B** in beiden Zeichnungen an denselben Schnittpunkten. Zoomen Sie für mehr Genauigkeit hinein. Die Markierungen rasten an den Punkten ein.
+
+Wenn die Zeichnung ausgerichtet ist, klicken Sie auf **Weiter: Ergebnis bestätigen**.
+
+![Ausrichtungsmethoden und Ausrichtungsmarkierungen](https://raw.githubusercontent.com/catenda/help-center/main/images/8qn3dfyk/04-alignment-methods.png)
+
+### 2.4 **2.4 Bestätigung der Ausrichtung**
+
+1. Bestätigen Sie das Ergebnis und prüfen Sie, ob die Zeichnung korrekt ausgerichtet ist.
+1. Klicken Sie auf **Erstellen**.
+
+Die Zeichnung kann jetzt im 3D-Viewer eingeschaltet werden.
+
+![Ergebnis bestätigen und Zeichnung erstellen](https://raw.githubusercontent.com/catenda/help-center/main/images/8qn3dfyk/05-confirm-and-create.png)
+
+## 3. **3. Anzeige von Zeichnungen im 3D-Viewer**
+
+1. Schalten Sie die Zeichnung ein. Sie wird automatisch im 3D-Viewer angezeigt.
+1. Die Zeichnung ist auch im Picker verfügbar. Eine falsche Höhe kann dort geändert werden.
+1. Passen Sie bei Bedarf die **Deckkraft** der Zeichnung an.
+1. Schalten Sie die models ein, damit sie zusammen mit der Zeichnung angezeigt werden, zum Beispiel das architektonische und das Tragwerks-model.
+
+![Zeichnungseinstellungen im 3D-Viewer](https://raw.githubusercontent.com/catenda/help-center/main/images/8qn3dfyk/06-drawing-in-3d-viewer.png)
+
+![Zeichnung und models im Picker](https://raw.githubusercontent.com/catenda/help-center/main/images/8qn3dfyk/07-picker.png)
+
+> **Tipp:** Eine Schnittebene auf der Höhe der Zeichnung schneidet durch die models, sodass die 2D-Zeichnung zusammen mit den BIM models angezeigt wird, zum Beispiel die Tragwerkszeichnung mit dem Tragwerks-model.
+
+Die Kombination von 2D-Zeichnungen mit BIM models schafft eine kohärente, kontextbezogene Sicht auf das Projekt und unterstützt das Verständnis und die Entscheidungsfindung im gesamten Projekt.
+
+## 4. **Weiterführende Literatur**
+
+[3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) - [Darstellung des 2D-Viewers](https://support.catenda.com/de/articles/13615984-erscheinungsbild-des-2d-viewers) - [Storey configurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite) - [Aktionen in der Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen)
+
 # 3D Viewer-Einstellungen
 
 Die 3D Viewer-Einstellungen finden Sie oben rechts im [3D Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer).
@@ -7202,7 +7291,7 @@ Mit der Aktion "Herunterladen" können ausgewählte Elemente und deren Inhalte h
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Erhalten Sie ein einzelnes Dokument, wenn eine Dokumentzeile ausgewählt ist. Erhalten Sie eine ZIP-Datei, die den Inhalt der Auswahl enthält, wenn eine Ordnerzeile oder mehrere Zeilen ausgewählt sind. Die Namen der heruntergeladenen Dateien können durch die [Option Dokumentdownload-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für seine gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern. _Erforderlicher Zugriff:_ Vollzugriff auf das/die ausgewählte(n) Dokument(e) und/oder Ordner
+Bei Auswahl einer einzelnen Dokumentzeile wird ein einzelnes Dokument heruntergeladen. Bei Auswahl einer Ordnerzeile oder mehrerer Zeilen wird eine ZIP-Datei mit dem Inhalt der Auswahl heruntergeladen. Die Namen der heruntergeladenen Dateien können durch die Option [Dokument-Download-Titel](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_5564d6602f) beeinflusst werden. Der Projektinhaber konfiguriert diese Option für die gesamte Organisation, daher können Projektmitglieder sie nicht selbst anfordern oder ändern. _Erforderlicher Zugriff:_ Vollzugriff auf die ausgewählten Dokumente und/oder Ordner
 
 **Dokumente erkennen** Wenn die Download-Schaltfläche gedrückt wird, öffnet sich ein Dialogfeld unten links auf der Seite. Zunächst beginnt das System, die verschiedenen Dateien im Download zu erkennen. Das Dialogfeld "Herunterladen vorbereiten" kann etwa so aussehen:
 
@@ -7244,21 +7333,21 @@ Mit der Berichtsaktion können Sie einen Bericht über Ihre ausgewählten Dokume
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Berichts-Editor-Kunden)_ um mehr über die Berichtsaktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
+Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Report-Editor)_, um mehr über die Berichtsaktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
 
 ### 2.5 **Veröffentlichen**
 
-Mit aktivierter [Versionsverwaltung](https://support.catenda.com/de/articles/9874698-neuer-status-workflow-iso-19650) können die Registerkarten Arbeitsbereich und Veröffentlicht oben auf der Modellseite angezeigt werden.
+Wenn [Revisionsveröffentlichung](https://support.catenda.com/de/articles/9874698-neuer-status-workflow-iso-19650) aktiviert ist, sind die Tabs Arbeitsbereich und Veröffentlicht oben auf der Modellseite sichtbar.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/12-publish.png)
 
-Auf der Registerkarte "Arbeitsbereich" können freigegebene Versionen angezeigt werden. Sie können freigegebene Versionen von veröffentlichten Versionen durch das Symbol in der Versionsspalte und die Tatsache unterscheiden, dass sie eine Nebenversionsnummer (0,1, 0,2, 1,1 usw.) haben. _Erforderlicher Zugriff:_ Freigegebene Versionen in den Zugriffseinstellungen für Dokument-Modelle anzeigen. Nach Aktivierung des Status-Workflows beginnt jede neue Version in einem Dokument als freigegebene Version, die veröffentlicht werden kann. Wählen Sie ein oder mehrere Dokumente aus, bei denen die neueste Version eine freigegebene Version ist, um die Aktion "Veröffentlichen" im Aktionsmenü anzuzeigen. _Erforderlicher Zugriff:_ Kann in den Dokumentzugriffseinstellungen veröffentlicht werden. Mit der Aktion "Veröffentlichen" können Sie die neueste freigegebene Version veröffentlichen. Wenn Sie eine frühere freigegebene Version veröffentlichen möchten, können Sie diese aus der [Versionsvorschau](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen) veröffentlichen.
+Im Tab Arbeitsbereich sind geteilte Revisionen zu sehen. Sie erkennen geteilte Revisionen von veröffentlichten Revisionen an dem Symbol in der Spalte Revision und daran, dass sie eine Nebenrevisionsnummer haben (0.1, 0.2, 1.1 usw.). _Erforderlicher Zugriff:_ Geteilte Revisionen in den Zugriffseinstellungen für Dokument-Modell anzeigen. Nach Aktivierung des Status-Workflows beginnt jede neue Revision eines Dokuments als geteilte Revision, die veröffentlicht werden kann. Wählen Sie ein oder mehrere Dokumente aus, bei denen die neueste Revision eine geteilte Revision ist, um die Aktion Veröffentlichen im Aktionsmenü zu sehen. _Erforderlicher Zugriff:_ „Kann veröffentlichen“ in den Zugriffseinstellungen für Dokumente. Mit der Aktion Veröffentlichen können Sie die neueste geteilte Revision veröffentlichen. Wenn Sie eine frühere geteilte Revision veröffentlichen möchten, können Sie dies über die [Revisionsvorschau](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen) tun.
 
 ### 2.6 **Vorschau**
 
 Um eine Vorschau der ausgewählten Dokument(e) anzuzeigen, können Sie entweder auf die Schaltfläche "Vorschau" im Hamburger-Menü klicken oder auf das Symbol des Dokuments in der Dokumentenliste klicken. Sie erhalten dann ein Vorschaudialogfeld, mit dem Sie die verschiedenen Dokumente einfach in der Vorschau anzeigen können, ohne die Seite jedes Dokuments öffnen zu müssen. Dies ist besonders schön, wenn Sie versuchen, viele Bilder in der Vorschau anzuzeigen, kann aber auch nützlich sein, wenn Sie zwei Dokumente nebeneinander sehen müssen, da Sie die Vorschau anheften können, damit sie offen bleibt. _Erforderlicher Zugriff:_ Lesezugriff
 
-> **Hinweis:** Ordner und Entwurfsdokumente können nicht im Vorschaudialogfeld in der Vorschau angezeigt werden. Entwurfsdokumente können auf ihrer [Dokumentseite](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) immer noch in der Vorschau angezeigt werden.
+> **Hinweis:** Ordner und Dokumentenentwürfe können im Vorschaudialog nicht angezeigt werden. Dokumentenentwürfe können weiterhin auf ihrer [Dokumentseite](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) angezeigt werden.
 
 ### 2.7 **3D-Modelle**
 
@@ -7270,19 +7359,23 @@ Wenn Sie ein Dokument ausgewählt haben, können Sie eine neue Version hochladen
 
 ### 2.9 **Modell erstellen und entfernen**
 
-**Modell erstellen** Ein ausgewähltes Dokument mit der Erweiterung `.ifc` oder `.ifczip` kann mit der Aktion "Modell erstellen" mit einem Modell im Modellabschnitt verknüpft werden. Wenn zum ersten Mal eine Modellverknüpfung für ein Dokument erstellt wird, hat das Modell, das auf der Modellseite angezeigt wird, denselben Namen wie das Dokument, aus dem es erstellt wurde. Sowohl der Name des Modells auf der Modellseite als auch der Name des Dokuments können später geändert werden. Ein Dokument, das zuvor eine Modellverknüpfung hatte, merkt sich, welchen Namen dieses Modell hatte, und wendet den vorherigen Namen des entfernten Modells an, wenn eine neue Modellverknüpfung erstellt wird, auch wenn der aktuelle Dokumentname unterschiedlich ist. _Erforderlicher Zugriff:_ Schreibzugriff zum [Erstellen und Entfernen von Modellen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) in den Projekteinstellungen
+**Modell erstellen** Ein ausgewähltes Dokument mit der Erweiterung `.ifc` oder `.ifczip` kann mit der Aktion Modell erstellen mit einem Modell im Bereich Modelle verknüpft werden. Beim ersten Erstellen einer Modellverknüpfung für ein Dokument hat das Modell auf der Modellseite denselben Namen wie das Dokument, aus dem es erstellt wurde. Sowohl der Name des Modells auf der Modellseite als auch der Name des Dokuments können später geändert werden. Ein Dokument, das zuvor eine Modellverknüpfung hatte, merkt sich den Namen dieses Modells und verwendet beim Erstellen einer neuen Modellverknüpfung den früheren Namen des entfernten Modells, auch wenn der aktuelle Dokumentname abweicht. _Erforderlicher Zugriff:_ Schreibzugriff auf [Modelle erstellen und entfernen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) in den Projekteinstellungen
 
 **Modell entfernen** Die Verknüpfung eines Dokuments, das mit einem Modell verknüpft ist, kann mit der Aktion "Modell entfernen" entfernt werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/13-create-and-remove-model.png)
 
-Wenn die Modellverknüpfung entfernt wird, verschwindet das Modell aus dem Modellabschnitt, während das Dokument im Dokumentenbereich verbleibt. Eine Modellverknüpfung kann später erneut aus demselben Dokument erstellt werden. _Erforderlicher Zugriff:_ Schreibzugriff zum [Erstellen und Entfernen von Modellen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) in den Projekteinstellungen
+Wenn die Modellverknüpfung entfernt wird, verschwindet das Modell aus dem Bereich Modelle, während das Dokument im Bereich Dokumente erhalten bleibt. Später kann aus demselben Dokument erneut eine Modellverknüpfung erstellt werden. _Erforderlicher Zugriff:_ Schreibzugriff auf [Modelle erstellen und entfernen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3) in den Projekteinstellungen
 
-### 2.10 **Link kopieren**
+### 2.10 **Zeichnung erstellen**
 
-Mit der Aktion "Link kopieren" kann ein Link, der nur die ausgewählten Tabellenzeilen anzeigt, kopiert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren), um mehr über das Kopieren von Links zu erfahren.
+Ein ausgewähltes PDF-Dokument kann in eine Zeichnung umgewandelt werden, die zusammen mit den Modellen im 3D-Viewer angezeigt wird. Bei der Aktion Zeichnung erstellen wird zuerst die Höhe der Zeichnung abgefragt. Die Zeichnung wird dann an den Markierungen **A** und **B** ausgerichtet, und zwar am Geschoss-Konfigurator, an den Modellen, an bekannten Koordinaten oder an einer vorhandenen Zeichnung derselben Etage. Sobald die Zeichnung erstellt ist, zeigt das PDF eine Schaltfläche **3D** an, die sie im 3D-Viewer öffnet. Die Schritte werden unter [2D-Zeichnungen im 3D-Viewer](https://support.catenda.com/de/articles/18552923-2d-zeichnungen-im-3d-viewer) beschrieben. _Erforderlicher Zugriff:_ Schreibzugriff auf das ausgewählte Dokument
 
-### 2.11 **Löschen und Wiederherstellen**
+### 2.11 **Link kopieren**
+
+Mit der Aktion Link kopieren kann ein Link kopiert werden, der nur die ausgewählten Tabellenzeilen anzeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren), um mehr über das Kopieren von Links zu erfahren.
+
+### 2.12 **Löschen und Wiederherstellen**
 
 Verwenden Sie die Aktion "Löschen" für ein ausgewähltes Element, um es zu löschen. Ein Fenster wird angezeigt, in dem Sie aufgefordert werden, das Löschen des/der Element(e) zu bestätigen. _Erforderlicher Zugriff:_ Vollzugriff auf das/die ausgewählte(n) Dokument(e) Vollzugriff auf die ausgewählten Ordner und deren Inhalte. Gelöschte Elemente können wiederhergestellt werden. Filtern Sie nach gelöschten Elementen, wählen Sie das Element aus und verwenden Sie die Aktion "Wiederherstellen". _Erforderlicher Zugriff:_ Administrator
 
@@ -7296,11 +7389,11 @@ _Objektbeziehungen_ Ein gelöschtes Dokument, das mit einem Objekt verknüpft wa
 
 ## 3. **Aktionen des aktuellen Ordners**
 
-Wenn Sie einen Ordner geöffnet haben, aber nichts ausgewählt haben, wird das [Menü "Rechte Informationen"](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) Aktionen für den Ordner anzeigen, in dem Sie sich befinden. Das Menü "Rechte Informationen" kann geschlossen sein und Sie müssen möglicherweise auf den Pfeil auf der rechten Seite klicken, um ihn zu öffnen. Diese Aktionen können etwa so aussehen:
+Wenn Sie einen Ordner geöffnet, aber nichts ausgewählt haben, zeigt das [rechte Informationsmenü](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) Aktionen für den aktuellen Ordner an. Das rechte Informationsmenü ist möglicherweise geschlossen; in diesem Fall klicken Sie auf den Pfeil auf der rechten Seite, um es zu öffnen. Diese Aktionen können etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/14-current-folder-actions.png)
 
-Da Sie nichts ausgewählt haben, werden die ausgewählten Elementaktionen nicht oben in der Dokumententabelle angezeigt. Stattdessen können Sie Aktionen für den Ordner, in dem Sie sich befinden, mit den Symbolen und dem Hamburger-Menü im [Menü "Rechte Informationen"](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) ausführen.
+Da nichts ausgewählt ist, werden die Aktionen für ausgewählte Elemente nicht oben in der Dokumententabelle angezeigt. Stattdessen können Sie Aktionen für den aktuellen Ordner über die Symbole und das Hamburger-Menü im [rechten Informationsmenü](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) ausführen.
 
 **Erforderlicher Zugriff:** Herunterladen: Lesezugriff auf den aktuellen Ordner. Verschieben: Vollzugriff auf den aktuellen Ordner und Schreibzugriff auf den Ort, an den Sie den Ordner verschieben. Löschen: Vollzugriff auf den aktuellen Ordner und seinen Inhalt.
 
@@ -10605,8 +10698,8 @@ Aktivität, die in der Genehmigung auftritt, wird mit Mengen und Symbolen auf de
 
 Die Sichtbarkeit von Anfragen ist rollenbasiert: Projektmitglieder können nur Anfragen einsehen, die sie selbst eingereicht haben, aktive Anfragen, die einem Review- oder Final-Review-Team zugewiesen sind, dessen Mitglied sie sind, oder alle Projektanfragen im Falle von Projektadministratoren. _Erforderlicher Zugriff:_ Projektmitglied oder Projektadministrator zum Anzeigen aller Anfragen
 
-- Weitere Informationen zu detaillierten operativen Verfahren zum Einreichen von Überarbeitungen, zum Hinzufügen von Überarbeitungsmarkierungen und zum Verarbeiten von Schrittvalidierungen oder endgültigen Entscheidungen finden Sie [hier](https://www.google.com/search?q=).
-- Weitere Informationen zu Verwaltungsanleitungen zum Konfigurieren von Genehmigungsvorlagen, zum Verwalten gesperrter Parameter und zum Beheben fehlerhafter Abhängigkeiten finden Sie [hier](https://www.google.com/search?q=).
+- Ausführliche Anleitungen zum Einreichen von Revisionen, zum Hinzufügen von Prüfungsmarkups sowie zur Bearbeitung von Schrittvalidierungen oder endgültigen Entscheidungen finden Sie unter [Approval Operations and Actions Matrix](https://support.catenda.com/de/articles/16195101-matrix-fur-genehmigungsvorgange-und-massnahmen).
+- Administrative Hinweise zur Konfiguration von Genehmigungsvorlagen, zur Verwaltung gesperrter Parameter und zur Behebung fehlerhafter Abhängigkeiten finden Sie unter [Approval Workflows: Admin Rules](https://support.catenda.com/de/articles/16238073-genehmigungsworkflows-administratorregeln).
 
 ### 4.1 **Aktionen für ausgewählte Elemente**
 

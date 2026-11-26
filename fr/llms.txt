@@ -124,6 +124,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Créer un nouvel export de modèle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15481038-créer-un-nouvel-export-de-modèle.md)
 - [Créer une miniature pour votre modèle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670257-créer-une-miniature-pour-votre-modèle.md)
 - [Créer une nouvelle demande d'approbation - Hérité](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12360159-créer-une-nouvelle-demande-d-approbation-hérité.md)
+- [Dessins 2D dans la visionneuse 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/18552923-8qn3dfyk.md): Comment aligner des dessins PDF et les afficher avec les models dans la visionneuse 3D
 - [Dissociation du document de l'objet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670301-dissociation-du-document-de-l-objet.md)
 - [Déplacer un document](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670251-déplacer-un-document.md)
 - [En-tête de sujet - L'objet d'un sujet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8400566-en-tête-de-sujet-l-objet-d-un-sujet.md)

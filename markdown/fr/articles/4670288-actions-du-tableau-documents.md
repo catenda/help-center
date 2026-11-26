@@ -46,7 +46,7 @@ Avec l'action de téléchargement, les éléments sélectionnés et leur contenu
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
 
-Recevoir un seul document avec une seule ligne de document sélectionnée. Recevoir un fichier zip contenant le contenu de la sélection lorsqu'une ligne de dossier ou plusieurs lignes sont sélectionnées. Les noms des fichiers téléchargés peuvent être affectés par l'[option de titre de téléchargement de document](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f). Le propriétaire du projet configure cette option pour toute son organisation, de sorte que les Membres du projet ne peuvent pas la demander ou la modifier eux-mêmes. _Accès requis :_ accès complet à votre ou vos document(s) et/ou dossier(s) sélectionné(s)
+Obtenir un seul document lorsqu'une seule ligne de document est sélectionnée. Obtenir un fichier zip contenant le contenu de la sélection lorsqu'une ligne de dossier ou plusieurs lignes sont sélectionnées. Les noms des fichiers téléchargés peuvent être affectés par l'option [titre de téléchargement du document](https://support.catenda.com/fr/articles/8224886-options-d-organisation#h_5564d6602f). Le propriétaire du projet configure cette option pour l'ensemble de son organisation, donc les Membres du projet ne peuvent pas la demander ni la modifier eux-mêmes. _Accès requis :_ accès complet au(x) document(s) et/ou dossier(s) sélectionné(s)
 
 **Découverte de documents** Une fois que le bouton de téléchargement est enfoncé, une boîte de dialogue s'ouvre vers le bas à gauche de la page. Tout d'abord, le système commencera à découvrir les différents fichiers du téléchargement. Voici à quoi peut ressembler la boîte de dialogue de préparation du téléchargement:
 
@@ -88,21 +88,21 @@ Avec l'action de rapport, vous pourrez créer un rapport de vos Documents sélec
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients éditeur de rapport uniquement)_ pour en savoir plus sur l'action de rapport. _Accès requis :_ Accès en lecture au Document
+Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_ pour en savoir plus sur l'action Rapport. _Accès requis :_ accès en lecture au document
 
 ### 2.5 **Publier**
 
-Avec la [publication de révision](https://support.catenda.com/fr/articles/9874698-nouveau-workflow-de-statut-iso-19650) activée, les onglets d'espace de travail et publiés peuvent être vus vers le haut de la page des modèles.
+Avec la [publication des révisions](https://support.catenda.com/fr/articles/9874698-nouveau-workflow-de-statut-iso-19650) activée, les onglets Espace de travail et Publié sont visibles en haut de la page des models.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/12-publish.png)
 
-Dans l'onglet d'espace de travail, les révisions partagées peuvent être vues. Vous pourrez distinguer les révisions partagées des révisions publiées par l'icône dans la colonne de révision et le fait qu'elles ont un numéro de révision mineure (0.1, 0.2, 1.1, etc.). _Accès requis :_ Afficher les révisions partagées dans les paramètres d'accès au modèle de document. Après activation du workflow de statut, chaque nouvelle révision d'un document commencera comme une révision partagée qui peut être publiée. Sélectionnez un ou plusieurs documents où la dernière révision est une révision partagée pour voir l'action de publication dans le menu d'action. _Accès requis :_ Peut publier dans les paramètres d'accès aux documents. Avec l'action de publication, vous pourrez publier la dernière révision partagée. Si vous souhaitez publier une révision partagée précédente, vous pouvez la publier à partir de l'[aperçu de révision](https://support.catenda.com/fr/articles/9323521-actions-de-revision-de-document).
+Dans l'onglet Espace de travail, les révisions partagées sont visibles. Vous pourrez distinguer les révisions partagées des révisions publiées grâce à l'icône dans la colonne révision et au fait qu'elles possèdent un numéro de révision mineure (0.1, 0.2, 1.1, etc.). _Accès requis :_ Voir les révisions partagées dans les paramètres d'accès document-model. Après l'activation du workflow de statut, chaque nouvelle révision d'un document commencera comme révision partagée, qui peut être publiée. Sélectionnez un ou plusieurs documents dont la dernière révision est une révision partagée pour voir l'action Publier dans le menu d'actions. _Accès requis :_ Peut publier dans les paramètres d'accès aux documents. Avec l'action Publier, vous pourrez publier la dernière révision partagée. Si vous souhaitez publier une révision partagée précédente, vous pouvez la publier depuis l'[aperçu de la révision](https://support.catenda.com/fr/articles/9323521-actions-de-revision-de-document).
 
 ### 2.6 **Aperçu**
 
 Pour prévisualiser votre/vos document(s) sélectionné(s), vous pouvez soit cliquer sur le bouton d'action d'aperçu dans le menu hamburger, soit cliquer sur l'icône du document dans la liste des documents. Vous recevrez alors une boîte de dialogue d'aperçu que vous pouvez utiliser pour prévisualiser facilement les différents documents sans avoir à ouvrir la page de chaque document. C'est particulièrement agréable si vous essayez de prévisualiser de nombreuses images, mais c'est aussi utile si vous avez besoin de voir deux documents côte à côte car vous pouvez épingler l'aperçu pour qu'il reste ouvert. _Accès requis :_ Accès en lecture
 
-> **Remarque:** Les dossiers et les documents brouillon ne peuvent pas être prévisualisés dans la boîte de dialogue d'aperçu. Les documents brouillon peuvent toujours être prévisualisés sur leur [page de document](https://support.catenda.com/fr/articles/8461918-banniere-de-documents-navigation).
+> **Remarque :** Les dossiers et les documents en brouillon ne peuvent pas être prévisualisés dans la boîte de dialogue d'aperçu. Les documents en brouillon peuvent toujours être prévisualisés sur leur [page de document](https://support.catenda.com/fr/articles/8461918-banniere-de-documents-navigation).
 
 ### 2.7 **Modèles 3D**
 
@@ -114,19 +114,23 @@ Si vous avez sélectionné un document, vous pourrez télécharger une nouvelle 
 
 ### 2.9 **Créer et supprimer un modèle**
 
-**Créer un modèle** Un document sélectionné avec l'extension `.ifc` ou `.ifczip` peut être lié à un modèle dans la section des modèles avec l'action de création de modèle. La première fois qu'un lien de modèle est créé pour un document, le modèle qui apparaît sur la page des modèles aura le même nom que le document dont il a été créé. Le nom du modèle sur la page des modèles et le nom du document peuvent tous deux être modifiés ultérieurement. Un document qui a précédemment eu un lien de modèle se souviendra du nom de ce modèle et appliquera le nom précédent du modèle supprimé lorsqu'un nouveau lien de modèle est créé, même si le nom du document actuel est différent. _Accès requis:_ Accès en écriture pour [créer et supprimer des modèles](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet#h_f82a1850f3) dans les paramètres du projet
+**Créer un model** Un document sélectionné portant l'extension `.ifc` ou `.ifczip` peut être lié à un model dans la section des models grâce à l'action Créer un model. La première fois qu'un lien de model est créé pour un document, le model qui apparaît sur la page des models portera le même nom que le document à partir duquel il a été créé. Le nom du model sur la page des models et le nom du document pourront être modifiés par la suite. Un document qui a déjà eu un lien de model conserve le nom que ce model avait et applique l'ancien nom du model supprimé lorsqu'un nouveau lien de model est créé, même si le nom actuel du document est différent. _Accès requis :_ accès en écriture à [créer et supprimer des models](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet#h_f82a1850f3) dans les paramètres du projet
 
 **Supprimer un modèle** Le lien d'un document qui est lié à un modèle peut être supprimé avec l'action de suppression du modèle.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/13-create-and-remove-model.png)
 
-Lorsque le lien du modèle est supprimé, le modèle disparaîtra de la section des modèles tandis que le document reste dans la section des documents. Un lien de modèle peut être créé ultérieurement à partir du même document. _Accès requis:_ Accès en écriture pour [créer et supprimer des modèles](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet#h_f82a1850f3) dans les paramètres du projet
+Lorsque le lien de model est supprimé, le model disparaît de la section des models tandis que le document reste dans la section des Documents. Un lien de model peut être créé ultérieurement à partir du même document. _Accès requis :_ accès en écriture à [créer et supprimer des models](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet#h_f82a1850f3) dans les paramètres du projet
 
-### 2.10 **Copier le lien**
+### 2.10 **Créer un dessin**
 
-Avec l'action de copie de lien, un lien qui affiche uniquement les lignes du tableau sélectionnées peut être copié. Cliquez [ici](https://support.catenda.com/fr/articles/14323982-action-de-copie-de-liens) pour en savoir plus sur la copie de liens.
+Un document PDF sélectionné peut être transformé en dessin affiché dans la Visionneuse 3D avec les models. L'action Créer un dessin demande d'abord l'élévation du dessin. Le dessin est ensuite aligné sur les marqueurs **A** et **B**, par rapport au configurateur d'étages, aux models, aux coordonnées connues ou à un dessin existant du même étage. Une fois le dessin créé, le PDF affiche un bouton **3D** qui l'ouvre dans la Visionneuse 3D. Les étapes sont décrites dans [Dessins 2D dans la visionneuse 3D](https://support.catenda.com/fr/articles/18552923-dessins-2d-dans-la-visionneuse-3d). _Accès requis :_ accès en écriture au document sélectionné
 
-### 2.11 **Suppression et restauration**
+### 2.11 **Copier le lien**
+
+Avec l'action Copier le lien, un lien n'affichant que les lignes sélectionnées du tableau peut être copié. Cliquez [ici](https://support.catenda.com/fr/articles/14323982-action-de-copie-de-liens) pour en savoir plus sur la copie de liens.
+
+### 2.12 **Suppression et restauration**
 
 Utilisez l'action de suppression sur un élément sélectionné pour le supprimer. Une fenêtre s'affichera vous demandant de confirmer la suppression de l'élément ou des éléments. _Accès requis :_ Accès complet au(x) document(s) sélectionné(s). Accès complet au(x) dossier(s) sélectionné(s) et à leur contenu. Les éléments supprimés peuvent être récupérés. Filtrez sur supprimé, sélectionnez l'élément et utilisez l'action de restauration. _Accès requis :_ Administrateur
 
@@ -140,10 +144,10 @@ _Relations d'objet_ Un document supprimé qui était lié à un objet est déli�
 
 ## 3. **Actions du dossier courant**
 
-Si vous avez ouvert un dossier, mais n'avez rien sélectionné, le [menu d'information de droite](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision) affichera les actions du dossier dans lequel vous vous trouvez. Le menu d'information de droite peut être fermé et vous devrez peut-être cliquer sur la flèche du côté droit pour l'ouvrir. Ces actions peuvent ressembler à ceci:
+Si vous avez ouvert un dossier sans rien sélectionner, le [menu d'informations de droite](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision) affichera les actions pour le dossier dans lequel vous vous trouvez. Le menu d'informations de droite peut être fermé et vous devrez peut-être cliquer sur la flèche à droite pour l'ouvrir. Ces actions peuvent ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/14-current-folder-actions.png)
 
-Comme vous n'avez rien sélectionné, les actions d'élément sélectionné ne s'afficheront pas vers le haut du tableau des documents. Au lieu de cela, vous pourrez effectuer des actions sur le dossier dans lequel vous vous trouvez avec les icônes et le menu hamburger du [menu d'information de droite](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision).
+Comme vous n'avez rien sélectionné, les actions sur les éléments sélectionnés ne s'affichent pas en haut du tableau des Documents. Vous pourrez plutôt effectuer des actions sur le dossier dans lequel vous vous trouvez, à l'aide des icônes et du menu hamburger du [menu d'informations de droite](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision).
 
 **Accès requis:** Télécharger: Accès en lecture au dossier courant. Déplacer: Accès complet au dossier courant et accès en écriture à l'emplacement vers lequel vous déplacez le dossier. Supprimer: Accès complet au dossier courant et à son contenu.
