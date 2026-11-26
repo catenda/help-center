@@ -3911,6 +3911,8 @@ In the measurement menu you can either click on clear measures towards the top o
 
 > **Important:** Catenda AI Connect is in early access. Features and setup steps change often, so what appears on screen can differ from this article.
 
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
+
 The profit on a construction project lives somewhere between what was contracted, what was designed, what was built, and what was said and written along the way. Keeping those in line means review meetings, checking deliveries and digging through comments and old email threads.
 
 This product connects the AI an organization already uses and trusts directly to the models, documents and topics in Catenda Hub. Questions about a project are asked in plain language and answered from the live project data, ready to become reports and evidence. Where the organization allows its AI app to make changes, the findings also become topics in Catenda Hub.
@@ -3969,13 +3971,15 @@ Catenda AI Connect is not only for organizations that own projects in Catenda Hu
 
 To start using Catenda AI Connect, contact Catenda sales: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to Catenda AI Connect](https://support.catenda.com/en/articles/17778901-introduction-to-catenda-ai-connect) _(signed-in customers only)_.
+> **Note:** Catenda AI Connect is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/17778901) _(for signed-in customers exploring AI Connect)_: what it is for. [Details](https://support.catenda.com/en/articles/17778710) _(for AI Connect customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # About Catenda AI Connect for ChatGPT
 
 > Catenda AI Connect brings Catenda Hub project data into ChatGPT. What teams use it for, what an organization looks into before it starts, and how to get started.
 
 > **Important:** Catenda AI Connect is in early access. Features and setup steps change often, so what appears on screen can differ from this article.
+
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
 
 Catenda AI Connect connects ChatGPT to the models, documents and topics in Catenda Hub. Questions about a project are asked in plain language in ChatGPT and answered from the live project data. Where the organization allows ChatGPT to make changes, the findings also become topics in Catenda Hub.
 
@@ -4055,13 +4059,15 @@ Catenda AI Connect is not only for organizations that own projects in Catenda Hu
 
 To start using Catenda AI Connect in ChatGPT, contact Catenda sales: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to Catenda AI Connect for ChatGPT](https://support.catenda.com/en/articles/18485791-introduction-to-catenda-ai-connect-for-chatgpt) _(signed-in customers only)_.
+> **Note:** Catenda AI Connect for ChatGPT is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/18485791) _(for signed-in customers exploring AI Connect)_: what it is for. [Details](https://support.catenda.com/en/articles/17778881) _(for AI Connect customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # About Catenda AI Connect for Claude
 
 > Catenda AI Connect for Claude lets a team ask Claude about its Catenda Hub projects, check project data and hand over routine work. What it is, what an organization prepares and how to get started.
 
 > **Important:** Catenda AI Connect is in early access. Features and setup steps change often, so what appears on screen can differ from this article.
+
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
 
 Many teams already use Claude, the AI app made by Anthropic, for writing, research and analysis. Catenda AI Connect brings their Catenda Hub projects into that same Claude. Questions about a project are asked in plain language and answered from the live models, documents and topics. Where the organization allows Claude to make changes, the findings also become topics in Catenda Hub.
 
@@ -4145,13 +4151,15 @@ Catenda AI Connect also works with other AI apps, as described in [About Catenda
 
 To start using Catenda AI Connect, contact Catenda sales: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to Catenda AI Connect for Claude](https://support.catenda.com/en/articles/18485783-introduction-to-catenda-ai-connect-for-claude) _(signed-in customers only)_.
+> **Note:** Catenda AI Connect for Claude is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/18485783) _(for signed-in customers exploring AI Connect)_: what it is for. [Details](https://support.catenda.com/en/articles/17778825) _(for AI Connect customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # About Catenda AI Connect for Gemini
 
 > Catenda AI Connect brings Catenda Hub project data into Gemini. What teams use it for, what the organization needs before it starts, and how to get started.
 
 > **Important:** Catenda AI Connect is in early access. Features and setup steps change often, so what appears on screen can differ from this article.
+
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
 
 Catenda AI Connect connects Gemini to the models, documents and topics in Catenda Hub. Questions about a project are asked in plain language in Gemini and answered from the live project data. Where the organization allows Gemini to make changes, the findings also become topics in Catenda Hub.
 
@@ -4217,13 +4225,15 @@ Catenda AI Connect is not only for organizations that own projects in Catenda Hu
 
 To start using Catenda AI Connect in Gemini, contact Catenda sales: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to Catenda AI Connect for Gemini](https://support.catenda.com/en/articles/18485781-introduction-to-catenda-ai-connect-for-gemini) _(signed-in customers only)_.
+> **Note:** Catenda AI Connect for Gemini is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/18485781) _(for signed-in customers exploring AI Connect)_: what it is for. [Details](https://support.catenda.com/en/articles/18485784) _(for AI Connect customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # About Catenda AI Connect for Microsoft Copilot
 
 > Catenda AI Connect brings Catenda Hub project data into Microsoft 365 Copilot and Teams through an agent. What teams use it for, what an organization sets up and how to get started.
 
 > **Important:** Catenda AI Connect is in early access. Features and setup steps change often, so what appears on screen can differ from this article.
+
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
 
 Many project teams already work in Microsoft 365, with Copilot and Teams open all day. Catenda AI Connect brings the models, documents and topics in Catenda Hub into that same place. Questions about a project are asked in plain language in Microsoft 365 Copilot or Teams, and answered from the live project data.
 
@@ -4297,11 +4307,13 @@ Catenda AI Connect is not only for organizations that own projects in Catenda Hu
 
 To start using Catenda AI Connect, contact Catenda sales: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to Catenda AI Connect for Microsoft Copilot](https://support.catenda.com/en/articles/18485782-introduction-to-catenda-ai-connect-for-microsoft-copilot) _(signed-in customers only)_.
+> **Note:** Catenda AI Connect for Microsoft Copilot is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/18485782) _(for signed-in customers exploring AI Connect)_: what it is for. [Details](https://support.catenda.com/en/articles/17778842) _(for AI Connect customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # About Catenda Desktop Connector for System Images
 
 > A version of the Catenda Desktop Connector for organizations that install software in an operating system image, which can be requested.
+
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
 
 The Catenda Desktop Connector schedules uploads and downloads between Catenda Hub and a computer, and is described in [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector). A version for organizations that install software in an operating system image can be requested.
 
@@ -4313,11 +4325,13 @@ It is the same application as the regular Desktop Connector, packaged so that it
 
 The Catenda Desktop Connector works with projects in Catenda Hub. To use it, contact Catenda sales about getting started with a first project: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to Catenda Desktop Connector for System Images](https://support.catenda.com/en/articles/17778688-introduction-to-catenda-desktop-connector-for-system-images) _(signed-in customers only)_.
+> **Note:** Catenda Desktop Connector for System Images is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/17778688) _(for signed-in customers exploring the system image package)_: what it is for. [Details](https://support.catenda.com/en/articles/17778690) _(for people given the system image package)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # About Catenda for Power BI (On Demand)
 
 > Catenda for Power BI brings Catenda Hub project data into Power BI. A next version, with visuals and a ready-made report template, is available on demand.
+
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
 
 Catenda for Power BI brings the data of a Catenda Hub project into Microsoft Power BI, for reports on the project's models, documents and topics. The released [Catenda Power BI Connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector) is available to every Catenda customer. A next version is available on demand: it can be requested ahead of its release to everyone.
 
@@ -4329,11 +4343,13 @@ The next version comes with a new connector that brings far more of a project's 
 
 Catenda for Power BI works with projects in Catenda Hub. To use it, contact Catenda sales about getting started with a first project: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to Catenda for Power BI (On Demand)](https://support.catenda.com/en/articles/17778865-introduction-to-catenda-for-power-bi-on-demand) _(signed-in customers only)_.
+> **Note:** Catenda for Power BI (On Demand) is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/17778865) _(for signed-in customers exploring Power BI On Demand)_: what it is for. [Details](https://support.catenda.com/en/articles/17778868) _(for Power BI On Demand companies)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # About the Catenda Archiving Portal
 
 > The Catenda Archiving Portal lets people transfer the documents and topics they choose from Catenda Hub to their organization's archive system.
+
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
 
 The Catenda Archiving Portal lets people transfer the documents and topics they choose from Catenda Hub projects to their organization's own archive system, so the project's records end up where the organization keeps them. It is a separate product next to Catenda Hub.
 
@@ -4345,11 +4361,13 @@ Archiving runs in one direction, from Catenda Hub out to the archive system. The
 
 The Archiving Portal works with projects in Catenda Hub. To use it, contact Catenda sales about getting started with a first project: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to the Catenda Archiving Portal](https://support.catenda.com/en/articles/17778822-introduction-to-the-catenda-archiving-portal) _(signed-in customers only)_.
+> **Note:** The Catenda Archiving Portal is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/17778822) _(for signed-in customers exploring the Archiving Portal)_: what it is for. [Details](https://support.catenda.com/en/articles/16968870) _(for Archiving Portal customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # About the report editor
 
 > Catenda Hub creates reports from a project's topics, documents and approvals. With the report editor, a project can have report templates of its own.
+
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
 
 On the [reports page](https://support.catenda.com/en/articles/12303098-reports-page), Catenda Hub creates reports from the topics, documents and approval requests of a project, ready to save and share as a document. Every report is built from a report template, which decides what the report looks like and which project information it shows. The report editor, where report templates are designed, can be requested for the projects that need it.
 
@@ -4361,7 +4379,7 @@ The report editor gives a project report templates of its own, from the title bl
 
 The report editor works with projects in Catenda Hub. To use it, contact Catenda sales about getting started with a first project: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to the report editor](https://support.catenda.com/en/articles/17778684-introduction-to-the-report-editor) _(signed-in customers only)_.
+> **Note:** The report editor is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/17778684) _(for signed-in customers exploring the report editor)_: what it is for. [Details](https://support.catenda.com/en/articles/17778656) _(for report editor customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # Access Control Deployment Use-Cases
 
@@ -5724,7 +5742,7 @@ Selecting one or more approval requests in the approvals list shows the selected
 
 ![The selected item actions menu on the approvals page, with one approval request selected and Create report](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Create report** Creates a report of the selected approval requests, based on an approval template. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_.
+**Create report** Creates a report of the selected approval requests, based on an approval template. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_.
 
 ## 5. **Document revisions list**
 
@@ -6231,6 +6249,8 @@ When you mouse over the image you will see a play button appear. If you click an
 
 > **Important:** Catenda AI Connect is in early access. Features and setup steps change often, so what appears on screen can differ from this article.
 
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
+
 Catenda AI Connect only reaches what each user can already open in Catenda Hub, and it acts as that user.
 
 ## 1. **Who can use it on a project**
@@ -6255,7 +6275,7 @@ The organization's own AI app has admin settings of its own. They decide which A
 
 To start using Catenda AI Connect, or to ask about other arrangements, contact Catenda sales: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Access to projects with Catenda AI Connect](https://support.catenda.com/en/articles/17778906-access-to-projects-with-catenda-ai-connect) _(signed-in customers only)_.
+> **Note:** Project access with Catenda AI Connect is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/17778906) _(for signed-in customers exploring AI Connect)_: what it is for. [Details](https://support.catenda.com/en/articles/17778731) _(for AI Connect customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # Catenda Archicad plugin
 
@@ -10198,7 +10218,7 @@ After selecting an element row selected item actions appear towards the top of t
 
 Click [here](https://support.catenda.com/en/articles/4670288-documents-table-actions) to read more about the selected item actions on the documents page.
 
-On projects with the reports page enabled, the selected item actions menu has one more option when only documents are selected: **Create report**. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_.
+On projects with the reports page enabled, the selected item actions menu has one more option when only documents are selected: **Create report**. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_.
 
 ### 4.2 **Row content**
 
@@ -10440,7 +10460,7 @@ With the report action you will be able to create a report of your selected docu
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_ to read more about the report action. _Access required:_ Read access to the document
+Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_ to read more about the report action. _Access required:_ Read access to the document
 
 ### 2.5 **Publish**
 
@@ -15982,7 +16002,7 @@ The report templates page actions can be found by clicking on the action menu on
 
 ![The action menu of the report templates page, with New topic template, New document template and New approval template](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-These actions create a completely new template, starting from an empty page. It is recommended to start from one of the ready-made report templates instead, and adapt it to the project. They can be downloaded from [Ready-made report templates](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(report editor customers only)_.
+These actions create a completely new template, starting from an empty page. It is recommended to start from one of the ready-made report templates instead, and adapt it to the project. They can be downloaded from [Ready-made report templates](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(for report editor customers)_.
 
 ### 1.1 **New topic template**
 
@@ -16043,7 +16063,7 @@ Delete Use the delete action to delete the selected report template.
 > **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects.
 > **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
 
-The reports page can be found as the sixth item in the navigation menu. This page is part of the content panel. With the reports page template reports can be created in a [report editor](https://support.catenda.com/en/articles/17778656-report-editor) _(report editor customers only)_. Separate templates can be created for topics and documents. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template.
+The reports page can be found as the sixth item in the navigation menu. This page is part of the content panel. With the reports page template reports can be created in a [report editor](https://support.catenda.com/en/articles/17778656-report-editor) _(for report editor customers)_. Separate templates can be created for topics and documents. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
@@ -20555,7 +20575,7 @@ The reporting tool can be requested to be activated on a per project basis. With
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-This option is available when topics from multiple boards are selected. Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_ to read more about creating reports.
+This option is available when topics from multiple boards are selected. Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_ to read more about creating reports.
 
 ### 2.4 **Follow**
 
@@ -23033,6 +23053,8 @@ Make sure the zoom scale of your browser is set correctly as a large zoom scale 
 
 > Catenda Data Export copies the data of Catenda Hub projects to an organization's own cloud storage, automatically.
 
+> **Note:** This article is for signed-out readers. Links to all three levels of this topic are at the end of this article.
+
 Catenda Hub has several ways to download project data, described in [Exporting all project data](https://support.catenda.com/en/articles/7946690-exporting-all-project-data). Catenda Data Export is the automated one: it copies project data straight to an organization's own cloud storage in Amazon S3 or Azure Blob storage. It is sold separately from Catenda Hub.
 
 ## 1. **What it is**
@@ -23055,7 +23077,7 @@ An organization that takes part in projects owned by others can get Catenda Data
 
 To use it, contact Catenda sales about getting started with a first project: [https://catenda.com/get-started](https://catenda.com/get-started) or [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Note:** More is available to Catenda customers. Sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center. The Help Center then shows more to signed-in customers, starting with [Introduction to Catenda Data Export](https://support.catenda.com/en/articles/17779027-introduction-to-catenda-data-export) _(signed-in customers only)_.
+> **Note:** Catenda Data Export is described at three levels. About: this article, for signed-out readers. [Introduction](https://support.catenda.com/en/articles/17779027) _(for signed-in customers exploring Data Export)_: what it is for. [Details](https://support.catenda.com/en/articles/17779052) _(for Data Export customers)_: how to set it up and use it. To open the Introduction, sign in to Catenda at [https://hub.catenda.com](https://hub.catenda.com), then open or reload a page of the Help Center.
 
 # Application software recommendation
 
@@ -23401,7 +23423,7 @@ Topic data can be extracted using three primary formats via [exchange topics](ht
 
 **Excel** Exports topic parameters into a spreadsheet format for filtering, sorting, and data manipulation. This format provides structured rows and columns that are ideal for selecting and copying data, and Excel files can be easily previewed within most archiving platforms. For archiving purposes, the PDF export is generally preferred over Excel because it includes more information.
 
-**PDF** Generates a clean, readable summary report in standard PDF format (v1.4) accessible without specialized software (see [exporting topics to PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)). Standard PDF exports include a consolidated download timestamp for formal authority reporting and archiving, providing more information than an Excel export. While the base export generates a standard PDF (v1.4) file, which many archiving systems automatically convert to PDF/A upon upload for long-term previewing, projects with the opt-in [reports page](https://support.catenda.com/en/articles/12303098-reports-page) enabled can also export topics in archiving formats, as described in [Exporting project data with reports](https://support.catenda.com/en/articles/17779017-exporting-project-data-with-reports) _(report editor customers only)_.
+**PDF** Generates a clean, readable summary report in standard PDF format (v1.4) accessible without specialized software (see [exporting topics to PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)). Standard PDF exports include a consolidated download timestamp for formal authority reporting and archiving, providing more information than an Excel export. While the base export generates a standard PDF (v1.4) file, which many archiving systems automatically convert to PDF/A upon upload for long-term previewing, projects with the opt-in [reports page](https://support.catenda.com/en/articles/12303098-reports-page) enabled can also export topics in archiving formats, as described in [Exporting project data with reports](https://support.catenda.com/en/articles/17779017-exporting-project-data-with-reports) _(for report editor customers)_.
 
 ### 2.3 **Exporting documents and collections**
 
@@ -23459,11 +23481,11 @@ The [reports page](https://support.catenda.com/en/articles/12303098-reports-page
 
 **Template-based management** When it is enabled, project administrators use the [report templates page](https://support.catenda.com/en/articles/12380837-report-templates-page) to set up report templates of their own, and generate formatted exports for selected documents or topics.
 
-What can be exported, and in which file formats, is described in [Exporting project data with reports](https://support.catenda.com/en/articles/17779017-exporting-project-data-with-reports) _(report editor customers only)_.
+What can be exported, and in which file formats, is described in [Exporting project data with reports](https://support.catenda.com/en/articles/17779017-exporting-project-data-with-reports) _(for report editor customers)_.
 
 ## 3. **Catenda Data Export**
 
-Catenda Data Export is sold separately from Catenda Hub. Unlike the downloads above, it copies project data automatically, straight from Catenda Hub to an organization's own cloud storage in Amazon S3 or Azure Blob storage. It suits organizations that want a backup that keeps up with their projects, or project records kept in their own storage. It is not only for project owners. A project owner can export a full backup of its projects, and a project participant can export what it has access to in the projects it takes part in. More about it is in [About Catenda Data Export](https://support.catenda.com/en/articles/17779020-about-catenda-data-export) _(for readers who are not signed in)_ and [Introduction to Catenda Data Export](https://support.catenda.com/en/articles/17779027-introduction-to-catenda-data-export) _(signed-in customers only)_. Customers who have it find the setup in [Catenda Data Export](https://support.catenda.com/en/articles/17779052-catenda-data-export) _(Data Export customers only)_.
+Catenda Data Export is sold separately from Catenda Hub. Unlike the downloads above, it copies project data automatically, straight from Catenda Hub to an organization's own cloud storage in Amazon S3 or Azure Blob storage. It suits organizations that want a backup that keeps up with their projects, or project records kept in their own storage. It is not only for project owners. A project owner can export a full backup of its projects, and a project participant can export what it has access to in the projects it takes part in. More about it is in [About Catenda Data Export](https://support.catenda.com/en/articles/17779020-about-catenda-data-export) _(for signed-out readers)_ and [Introduction to Catenda Data Export](https://support.catenda.com/en/articles/17779027-introduction-to-catenda-data-export) _(for signed-in customers exploring Data Export)_. Customers who have it find the setup in [Catenda Data Export](https://support.catenda.com/en/articles/17779052-catenda-data-export) _(for Data Export customers)_.
 
 # Giving a user access to a single folder
 
@@ -25599,7 +25621,7 @@ As new features roll out and bugs are fixed articles are updated with the change
     - [Apply a document topic template when creating a markup from a document](https://support.catenda.com/en/articles/14078352-using-topic-templates-when-saving-markup-topics)
     - [Apply an approval topic template to an approval workflow template](https://support.catenda.com/en/articles/14078683-using-topic-templates-with-approvals)
 - Cross-category
-    - [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_
+    - [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_
     - [Copy-link action](https://support.catenda.com/en/articles/14323982-copy-link-action)
 - Catenda plugins and intergrations
     - [Catenda Revit plugin changelog - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
@@ -27087,7 +27109,7 @@ PDF drawings can now be shown in the [3D viewer](https://support.catenda.com/en/
 
 ### 2.3 **Catenda AI Connect**
 
-Catenda AI Connect has been updated, and the changes are listed in the [Catenda AI Connect changelog](https://support.catenda.com/en/articles/17778717-catenda-ai-connect-changelog) _(AI Connect customers only)_.
+Catenda AI Connect has been updated, and the changes are listed in the [Catenda AI Connect changelog](https://support.catenda.com/en/articles/17778717-catenda-ai-connect-changelog) _(for AI Connect customers)_.
 
 ### 2.4 **3D viewer**
 
@@ -27115,15 +27137,15 @@ Some features can be requested to be enabled for existing projects by the contac
 
 ### 3.2 **Report editor**
 
-Create report templates for topics and documents so project members can select topics or documents from the table and use the report action to generate a report. The reports page is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where this feature is enabled do not have this feature enabled. Separate templates can be created for topics and documents. Reports can also be created from approvals with the [create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template. Support for how different values can be displayed on the page is offered by Catenda. If you would like a custom report tailored to your company we can get you in contact with a consultant that can help with this. Sample reports for topics, documents and approvals are now available in [Ready-made report templates](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(report editor customers only)_. How the report editor works is described in [Report editor](https://support.catenda.com/en/articles/17778656-report-editor) _(report editor customers only)_.
+Create report templates for topics and documents so project members can select topics or documents from the table and use the report action to generate a report. The reports page is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where this feature is enabled do not have this feature enabled. Separate templates can be created for topics and documents. Reports can also be created from approvals with the [create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template. Support for how different values can be displayed on the page is offered by Catenda. If you would like a custom report tailored to your company we can get you in contact with a consultant that can help with this. Sample reports for topics, documents and approvals are now available in [Ready-made report templates](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(for report editor customers)_. How the report editor works is described in [Report editor](https://support.catenda.com/en/articles/17778656-report-editor) _(for report editor customers)_.
 
 ### 3.3 **Catenda for Power BI (On Demand)**
 
-An on-demand version of Catenda for Power BI is now available. It can be requested in the same way as the other on-demand features. What it is for is described in [Introduction to Catenda for Power BI (On Demand)](https://support.catenda.com/en/articles/17778865-introduction-to-catenda-for-power-bi-on-demand) _(signed-in customers only)_. Setting it up is described in [Catenda for Power BI (On Demand)](https://support.catenda.com/en/articles/17778868-catenda-for-power-bi-on-demand) _(on request only)_.
+An on-demand version of Catenda for Power BI is now available. It can be requested in the same way as the other on-demand features. What it is for is described in [Introduction to Catenda for Power BI (On Demand)](https://support.catenda.com/en/articles/17778865-introduction-to-catenda-for-power-bi-on-demand) _(for signed-in customers exploring Power BI On Demand)_. Setting it up is described in [Catenda for Power BI (On Demand)](https://support.catenda.com/en/articles/17778868-catenda-for-power-bi-on-demand) _(for Power BI On Demand companies)_.
 
 ### 3.4 **Catenda Desktop Connector for System Images (On Demand)**
 
-An on-demand version of the Catenda Desktop Connector for System Images is now available. It can be requested in the same way as the other on-demand features. What it is for is described in [Introduction to Catenda Desktop Connector for System Images](https://support.catenda.com/en/articles/17778688-introduction-to-catenda-desktop-connector-for-system-images) _(signed-in customers only)_. Setting it up is described in [Catenda Desktop Connector for System Images (On Demand)](https://support.catenda.com/en/articles/17778690-catenda-desktop-connector-for-system-images-on-demand) _(on request only)_.
+An on-demand version of the Catenda Desktop Connector for System Images is now available. It can be requested in the same way as the other on-demand features. What it is for is described in [Introduction to Catenda Desktop Connector for System Images](https://support.catenda.com/en/articles/17778688-introduction-to-catenda-desktop-connector-for-system-images) _(for signed-in customers exploring the system image package)_. Setting it up is described in [Catenda Desktop Connector for System Images (On Demand)](https://support.catenda.com/en/articles/17778690-catenda-desktop-connector-for-system-images-on-demand) _(for people given the system image package)_.
 
 ## 4. **Co-creation program**
 

@@ -54,7 +54,7 @@ The reporting tool can be requested to be activated on a per project basis. With
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-This option is available when topics from multiple boards are selected. Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_ to read more about creating reports.
+This option is available when topics from multiple boards are selected. Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_ to read more about creating reports.
 
 ### 2.4 **Follow**
 

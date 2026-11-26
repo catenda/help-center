@@ -88,7 +88,7 @@ With the report action you will be able to create a report of your selected docu
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_ to read more about the report action. _Access required:_ Read access to the document
+Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_ to read more about the report action. _Access required:_ Read access to the document
 
 ### 2.5 **Publish**
 

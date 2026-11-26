@@ -63,7 +63,7 @@ Selecting one or more approval requests in the approvals list shows the selected
 
 ![The selected item actions menu on the approvals page, with one approval request selected and Create report](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Create report** Creates a report of the selected approval requests, based on an approval template. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_.
+**Create report** Creates a report of the selected approval requests, based on an approval template. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_.
 
 ## 5. **Document revisions list**
 

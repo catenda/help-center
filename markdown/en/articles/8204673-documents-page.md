@@ -52,7 +52,7 @@ After selecting an element row selected item actions appear towards the top of t
 
 Click [here](https://support.catenda.com/en/articles/4670288-documents-table-actions) to read more about the selected item actions on the documents page.
 
-On projects with the reports page enabled, the selected item actions menu has one more option when only documents are selected: **Create report**. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(report editor customers only)_.
+On projects with the reports page enabled, the selected item actions menu has one more option when only documents are selected: **Create report**. Read more about it in [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action) _(for report editor customers)_.
 
 ### 4.2 **Row content**
 

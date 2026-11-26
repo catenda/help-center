@@ -15,7 +15,7 @@ The report templates page actions can be found by clicking on the action menu on
 
 ![The action menu of the report templates page, with New topic template, New document template and New approval template](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-These actions create a completely new template, starting from an empty page. It is recommended to start from one of the ready-made report templates instead, and adapt it to the project. They can be downloaded from [Ready-made report templates](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(report editor customers only)_.
+These actions create a completely new template, starting from an empty page. It is recommended to start from one of the ready-made report templates instead, and adapt it to the project. They can be downloaded from [Ready-made report templates](https://support.catenda.com/en/articles/17778911-ready-made-report-templates) _(for report editor customers)_.
 
 ### 1.1 **New topic template**
 
