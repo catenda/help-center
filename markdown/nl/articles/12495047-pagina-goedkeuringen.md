@@ -63,7 +63,7 @@ Wanneer u een of meer goedkeuringsaanvragen in de goedkeuringslijst selecteert, 
 
 ![Het menu geselecteerde itemacties op de goedkeuringspagina, met één geselecteerde goedkeuringsaanvraag en Rapport maken](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Rapport maken** Maakt een rapport van de geselecteerde goedkeuringsaanvragen, op basis van een goedkeuringssjabloon. Lees er meer over in [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor rapporteditorklanten)_.
+**Rapport aanmaken** Maakt een rapport aan van de geselecteerde goedkeuringsverzoeken, op basis van een Template voor goedkeuring. Lees meer hierover in [Actie Rapport aanmaken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten met rapporteditor)_.
 
 ## 5. **Documentrevisieslijst**
 

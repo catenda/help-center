@@ -88,7 +88,7 @@ Med rapporthandlingen kan du lage en rapport over dine valgte dokumenter. Denne 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun for kunder med rapporteditor)_ for å lese mer om rapporthandlingen. _Tilgang kreves:_ Lesetilgang til dokumentet
+Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder som bruker rapporteditor)_ for å lese mer om rapporthandlingen. _Tilgang som kreves:_ Lesetilgang til dokumentet
 
 ### 2.5 **Publiser**
 

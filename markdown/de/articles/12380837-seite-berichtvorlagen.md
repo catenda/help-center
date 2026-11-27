@@ -15,7 +15,7 @@ Die Aktionen auf der Seite Berichtvorlagen können Sie finden, indem Sie oben re
 
 ![Das Aktionsmenü der Berichtsvorlagenseite mit Neue Themenvorlage, Neue Dokumentvorlage und Neue Genehmigungsvorlage](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Diese Aktionen erstellen eine völlig neue Vorlage, beginnend mit einer leeren Seite. Es wird empfohlen, stattdessen mit einer der vorgefertigten Berichtvorlagen zu beginnen und diese an das Projekt anzupassen. Sie können von [Vorgefertigte Berichtvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) heruntergeladen werden _(nur für Berichteditor-Kunden)_.
+Diese Aktionen erstellen eine völlig neue Vorlage, ausgehend von einer leeren Seite. Es wird empfohlen, stattdessen von einer der fertigen Berichtsvorlagen auszugehen und sie an das Projekt anzupassen. Sie können über [Fertige Berichtsvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) _(für Kunden des Berichtseditors)_ heruntergeladen werden.
 
 ### 1.1 **Neue Themenvorlage**
 

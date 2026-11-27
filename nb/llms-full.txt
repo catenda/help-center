@@ -4703,6 +4703,8 @@ Opprett en ny saksmal på siden for ny arbeidsflytt.
 
 > **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og oppsettstrinn endres ofte, så det som vises på skjermen kan avvike fra denne artikkelen.
 
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene av denne saken finnes til slutt i artikkelen.
+
 Catenda AI Connect når bare det hver bruker allerede kan åpne i Catenda Hub, og den fungerer som den brukeren.
 
 ## 1. **Hvem kan bruke det på et prosjekt**
@@ -4727,7 +4729,7 @@ Organisasjonens egen KI-app har egne administratoinnstillinger. De bestemmer hvi
 
 For å begynne å bruke Catenda AI Connect, eller for å spørre om andre ordninger, kontakt Catenda-salg: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merk:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret. Hjelpesenteret viser da mer til innloggede kunder, startende med [Tilgang til prosjekter med Catenda AI Connect](https://support.catenda.com/nb/articles/17778906-tilgang-til-prosjekter-med-catenda-ai-connect) _(bare innloggede kunder)_.
+> **Merk:** Prosjekttilgang med Catenda AI Connect beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/17778906) _(for kunder som er logget inn og utforsker Catenda AI Connect)_: hva det er til for. [Detaljer](https://support.catenda.com/nb/articles/17778731) _(for kunder av Catenda AI Connect)_: hvordan det settes opp og brukes. For å åpne introduksjonen, logg inn i Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenteret på nytt.
 
 # Catenda Archicad-plugin
 
@@ -6434,7 +6436,7 @@ Etter at du velger en elementrad, vises valgte elementhandlinger mot toppen av d
 
 Klikk [her](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) for å lese mer om valgte elementhandlinger på dokumenter-siden.
 
-På prosjekter der rapportsiden er aktivert, har menyen for valgte element-handlinger ett ekstra alternativ når bare dokumenter er valgt: **Opprett rapport**. Les mer om det i [Opprett rapport-handling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun for rapportredigerings-kunder)_.
+I prosjekter med rapportsiden aktivert har menyen for handlinger på valgte elementer ett alternativ til når bare dokumenter er valgt: **Opprett rapport**. Les mer om dette i [Handlingen Opprett rapport](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_.
 
 ### 4.2 **Radinnhold**
 
@@ -8725,7 +8727,7 @@ Hvis du velger en eller flere gjennomgangsforespørsler i gjennomgangslisten, vi
 
 ![Menyen for valgte elementhandlinger på gjennomgangssiden, med en gjennomgangsforespørsel valgt og Opprett rapport](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-_Opprett rapport_ Oppretter en rapport over de valgte gjennomgangsforespørslene, basert på en gjennomgangsmal. Les mer om det i [Opprett rapport-handling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun rapporteditor-kunder)_.
+**Lag rapport** Lager en rapport over de valgte gjennomgangsforespørslene, basert på en mal for gjennomganger. Les mer om det i [Handlingen Lag rapport](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_.
 
 ## 5. **Dokumentrevisjoner-liste**
 
@@ -9106,7 +9108,7 @@ Med rapporthandlingen kan du lage en rapport over dine valgte dokumenter. Denne 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun for kunder med rapporteditor)_ for å lese mer om rapporthandlingen. _Tilgang kreves:_ Lesetilgang til dokumentet
+Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder som bruker rapporteditor)_ for å lese mer om rapporthandlingen. _Tilgang som kreves:_ Lesetilgang til dokumentet
 
 ### 2.5 **Publiser**
 
@@ -9226,7 +9228,7 @@ Rapporteringsverktøyet kan monteres på basis per prosjekt. Med handlingen Lag 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun rapporteditor-kunder)_ for å lese mer om å lage rapporter.
+Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_ for å lese mer om å lage rapporter.
 
 ### 2.4 **Følg**
 
@@ -14345,6 +14347,8 @@ Kolonnepreferanser lagres ikke mellom øktene. Kolonner kan ikke endres rekkefø
 
 > **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og oppsettstrinn endres ofte, så det som vises på skjermen, kan avvike fra denne artikkelen.
 
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene for denne saken finnes nederst i artikkelen.
+
 Fortjenesten på et byggeprosjekt ligger et sted mellom det som ble kontraktfestet, hva som ble designet, hva som ble bygget, og hva som ble sagt og skrevet underveis. Å holde det på linje betyr vurderingsmøter, kontroll av leveranser og gjennomgang av kommentarer og gamle e-posttråder.
 
 Dette produktet kobler KI-verktøyene som organisasjonen allerede bruker og stoler på, direkte til modellene, dokumentene og sakene i Catenda Hub. Spørsmål om et prosjekt stilles på vanlig språk og besvares fra live prosjektdata, klar til å bli rapporter og bevis. Der organisasjonen tillater at KI-appen gjør endringer, blir funnene også til saker i Catenda Hub.
@@ -14403,13 +14407,15 @@ Catenda AI Connect er ikke bare for organisasjoner som eier prosjekter i Catenda
 
 For å begynne å bruke Catenda AI Connect, kontakt Catenda-salget: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg på Catenda på [https://hub.catenda.com](https://hub.catenda.com), åpne eller last inn en side i Hjelpesenteret på nytt. Hjelpesenteret viser deretter mer til påloggede kunder, med start på [Introduksjon til Catenda AI Connect](https://support.catenda.com/nb/articles/17778901-introduksjon-til-catenda-ai-connect) _(bare påloggede kunder)_.
+> **Merk:** Catenda AI Connect beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/17778901) _(for innloggede kunder som utforsker AI Connect)_: hva den er til for. [Detaljer](https://support.catenda.com/nb/articles/17778710) _(for AI Connect-kunder)_: hvordan den settes opp og brukes. For å åpne introduksjonen, logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenteret på nytt.
 
 # Om Catenda AI Connect for ChatGPT
 
 > Catenda AI Connect bringer prosjektdata fra Catenda Hub inn i ChatGPT. Hva Teams bruker det til, hva en organisasjon undersøker før den starter, og hvordan man kommer i gang.
 
 > **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og oppsettstrinn endres ofte, så det som vises på skjermen, kan avvike fra denne artikkelen.
+
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene av denne saken finnes nederst i artikkelen.
 
 Catenda AI Connect kobler ChatGPT til modellene, dokumentene og sakene i Catenda Hub. Spørsmål om et prosjekt stilles på vanlig språk i ChatGPT og besvares direkte fra prosjektdataene i sanntid. Der organisasjonen tillater at ChatGPT gjør endringer, blir funnene også til saker i Catenda Hub.
 
@@ -14489,13 +14495,15 @@ Catenda AI Connect er ikke bare for organisasjoner som eier prosjekter i Catenda
 
 For å begynne å bruke Catenda AI Connect i ChatGPT, kontakt Catenda salg: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merk:** Mer er tilgjengelig for Catenda-kunder. Logg på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret. Hjelpesenteret viser da mer til påloggede kunder, begynnende med [Introduction to Catenda AI Connect for ChatGPT](https://support.catenda.com/nb/articles/18485791-introduksjon-til-catenda-ai-connect-for-chatgpt) _(kun for påloggede kunder)_.
+> **Merk:** Catenda AI Connect for ChatGPT beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/18485791) _(for innloggede kunder som utforsker Catenda AI Connect)_: hva det er til for. [Detaljer](https://support.catenda.com/nb/articles/17778881) _(for kunder med Catenda AI Connect)_: hvordan det settes opp og brukes. For å åpne introduksjonen logger du inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpner eller laster deretter en side i hjelpesenteret på nytt.
 
 # Om Catenda AI Connect for Claude
 
 > Catenda AI Connect for Claude lar et team stille Claude spørsmål om sine Catenda Hub-prosjekter, kontrollere prosjektdata og overlate rutinearbeid. Hva det er, hva en organisasjon forbereder og hvordan du kommer i gang.
 
 > **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og oppsettstrinn endres ofte, så det som vises på skjermen, kan avvike fra denne artikkelen.
+
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene av denne saken finner du på slutten av artikkelen.
 
 Mange Teams bruker allerede Claude, KI-appen laget av Anthropic, til skriving, forskning og analyse. Catenda AI Connect tar deres Catenda Hub-prosjekter inn i den samme Claude. Spørsmål om et prosjekt stilles på vanlig språk og besvares fra de levende modellene, dokumentene og sakene. Der organisasjonen tillater at Claude gjør endringer, blir funnene også til saker i Catenda Hub.
 
@@ -14579,13 +14587,15 @@ Catenda AI Connect fungerer også med andre KI-apper, som beskrevet i [Om Catend
 
 For å begynne å bruke Catenda AI Connect, kontakt Catenda salg: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merk:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenteret på nytt. Hjelpesenteret viser da mer til innloggede kunder, begynnende med [Introduksjon til Catenda AI Connect for Claude](https://support.catenda.com/nb/articles/18485783-introduksjon-til-catenda-ai-connect-for-claude) _(kun for innloggede kunder)_.
+> **Merk:** Catenda AI Connect for Claude beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/18485783) _(for innloggede kunder som utforsker AI Connect)_: hva den er til for. [Detaljer](https://support.catenda.com/nb/articles/17778825) _(for AI Connect-kunder)_: hvordan den settes opp og brukes. For å åpne introduksjonen, logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret på nytt.
 
 # Om Catenda AI Connect for Gemini
 
 > Catenda AI Connect bringer prosjektdata fra Catenda Hub inn i Gemini. Hva Teams bruker den til, hva organisasjonen trenger før oppstart, og hvordan man kommer i gang.
 
 > **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og oppsettstrinn endres ofte, så det som vises på skjermen, kan avvike fra denne artikkelen.
+
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene av dette emnet står til slutt i denne artikkelen.
 
 Catenda AI Connect kobler Gemini til modeller, dokumenter og saker i Catenda Hub. Spørsmål om et prosjekt stilles på vanlig språk i Gemini og besvares ut fra prosjektdataene i sanntid. Der organisasjonen tillater at Gemini gjør endringer, blir funnene også til saker i Catenda Hub.
 
@@ -14651,13 +14661,15 @@ Catenda AI Connect er ikke bare for organisasjoner som eier prosjekter i Catenda
 
 For å begynne å bruke Catenda AI Connect i Gemini, kontakt Catenda salg: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merk:** Mer er tilgjengelig for Catenda-kunder. Logg inn i Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenteret på nytt. Hjelpesenteret viser da mer til innloggede kunder, først med [Introduksjon til Catenda AI Connect for Gemini](https://support.catenda.com/nb/articles/18485781-introduksjon-til-catenda-ai-connect-for-gemini) _(kun for innloggede kunder)_.
+> **Merk:** Catenda AI Connect for Gemini beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/18485781) _(for kunder som er logget inn og utforsker AI Connect)_: hva den er til for. [Detaljer](https://support.catenda.com/nb/articles/18485784) _(for AI Connect-kunder)_: hvordan den settes opp og brukes. For å åpne introduksjonen logger du inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpner eller laster deretter en side i Hjelpesenteret på nytt.
 
 # Om Catenda AI Connect for Microsoft Copilot
 
 > Catenda AI Connect bringer prosjektdata fra Catenda Hub inn i Microsoft 365 Copilot og Teams gjennom en agent. Hva teamene bruker det til, hva en organisasjon setter opp og hvordan man kommer i gang.
 
 > **Viktig:** Catenda AI Connect er i tidlig tilgang. Funksjoner og oppsettstrinn endres ofte, så det som vises på skjermen, kan avvike fra denne artikkelen.
+
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene for denne saken finnes på slutten av artikkelen.
 
 Mange prosjektteam jobber allerede i Microsoft 365, med Copilot og Teams åpent hele dagen. Catenda AI Connect bringer modellene, dokumentene og sakene i Catenda Hub inn på samme sted. Spørsmål om et prosjekt stilles med vanlig språk i Microsoft 365 Copilot eller Teams, og besvares ut fra de oppdaterte prosjektdataene.
 
@@ -14731,11 +14743,13 @@ Catenda AI Connect er ikke bare for organisasjoner som eier prosjekter i Catenda
 
 For å begynne å bruke Catenda AI Connect, kontakt Catenda salg: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merk:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenteret på nytt. Hjelpesenteret viser da mer til innloggede kunder, først og fremst [Introduksjon til Catenda AI Connect for Microsoft Copilot](https://support.catenda.com/nb/articles/18485782-introduksjon-til-catenda-ai-connect-for-microsoft-copilot) _(kun for innloggede kunder)_.
+> **Merk:** Catenda AI Connect for Microsoft Copilot beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/18485782) _(for innloggede kunder som utforsker AI Connect)_: hva den er til for. [Detaljer](https://support.catenda.com/nb/articles/17778842) _(for AI Connect-kunder)_: hvordan den settes opp og brukes. For å åpne introduksjonen, logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenteret på nytt.
 
 # Om Catenda Archiving Portal
 
 > Catenda Archiving Portal lar folk overføre dokumenter og saker de velger fra Catenda Hub til organisasjonens arkivsystem.
+
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene for denne saken finnes på slutten av artikkelen.
 
 Catenda Archiving Portal lar folk overføre dokumenter og saker de velger fra Catenda Hub-prosjekter til organisasjonens eget arkivsystem, slik at prosjektets journaler ender opp der organisasjonen lagrer dem. Det er et eget produkt ved siden av Catenda Hub.
 
@@ -14747,11 +14761,13 @@ Arkivering kjører i én retning, fra Catenda Hub ut til arkivsystemet. Portalen
 
 Arkiveringsportalen fungerer med prosjekter i Catenda Hub. For å bruke den, kontakt Catenda-salg om hvordan du kommer i gang med ditt første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), deretter åpner eller laster du inn på nytt en side fra Hjelpesenteret. Hjelpesenteret viser da mer til påloggede kunder, med start i [Introduksjon til Catenda Archiving Portal](https://support.catenda.com/nb/articles/17778822-introduksjon-til-catenda-arkiveringsportal) _(bare for påloggede kunder)_.
+> **Merk:** Catenda Archiving Portal beskrives på tre nivåer. Denne artikkelen er en generell oversikt for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/17778822) _(for innloggede kunder som utforsker Archiving Portal)_: hva den er til for. [Detaljer](https://support.catenda.com/nb/articles/16968870) _(for kunder av Archiving Portal)_: hvordan den settes opp og brukes. For å åpne introduksjonen, logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret på nytt.
 
 # Om Catenda Desktop Connector for System Images
 
 > En versjon av Catenda Desktop Connector for organisasjoner som installerer programvare i et operativsystemavbilde, som kan forespørres.
+
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene av denne saken finnes på slutten av artikkelen.
 
 Catenda Desktop Connector planlegger opplastinger og nedlastinger mellom Catenda Hub og en datamaskin, og er beskrevet i [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector). En versjon for organisasjoner som installerer programvare i et operativsystembilde, kan rekvireres.
 
@@ -14763,11 +14779,13 @@ Det er det samme programmet som den vanlige Desktop Connector-en, pakket slik at
 
 Catenda Desktop Connector fungerer med prosjekter i Catenda Hub. For å bruke den, kontakter du Catenda-salg om å komme i gang med ditt første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenter. Hjelpesenteret viser deretter mer for innloggede kunder, med start på [Introduksjon til Catenda Desktop Connector for System Images](https://support.catenda.com/nb/articles/17778688-introduksjon-til-catenda-desktop-connector-for-systemavbilder) _(bare innloggede kunder)_.
+> **Merk:** Catenda Desktop Connector for System Images beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/17778688) _(for kunder som er logget inn og utforsker systembildepakken)_: hva den er til for. [Detaljer](https://support.catenda.com/nb/articles/17778690) _(for personer som har fått systembildepakken)_: hvordan den settes opp og brukes. For å åpne introduksjonen, logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenteret på nytt.
 
 # Om Catenda for Power BI (On Demand)
 
 > Catenda for Power BI bringer Catenda Hub-prosjektdata til Power BI. En neste versjon, med visuelle elementer og en ferdigpreparet rapportmal, er tilgjengelig on demand.
+
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene for denne saken finnes på slutten av denne artikkelen.
 
 Catenda for Power BI gir data fra et Catenda Hub-prosjekt inn i Microsoft Power BI, til rapporter om prosjektets modeller, dokumenter og saker. Den utgitte [Catenda Power BI Connector](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) er tilgjengelig for alle Catenda-kunder. En neste versjon er tilgjengelig på forespørsel: den kan etterspørres før utgivelsen, av alle.
 
@@ -14779,11 +14797,13 @@ Neste versjon kommer med en ny connector som bringer langt mer av et prosjekts d
 
 Catenda for Power BI fungerer med prosjekter i Catenda Hub. For å bruke det, kontakt Catenda-salg om å komme i gang med et første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret på nytt. Hjelpesenteret viser da mer for innloggede kunder, med start på [Introduksjon til Catenda for Power BI (On Demand)](https://support.catenda.com/nb/articles/17778865-introduksjon-til-catenda-for-power-bi-on-demand) _(bare for innloggede kunder)_.
+> **Merk:** Catenda for Power BI (On Demand) beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/17778865) _(for innloggede kunder som utforsker Power BI On Demand)_: hva den er til for. [Detaljer](https://support.catenda.com/nb/articles/17778868) _(for selskaper med Power BI On Demand)_: hvordan den settes opp og brukes. For å åpne introduksjonen, logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret.
 
 # Om rapportverktøyet
 
 > Catenda Hub genererer rapporter fra en prosjekts saker, dokumenter og gjennomganger. Med rapportverktøyet kan et prosjekt ha sine egne rapportmaler.
+
+> **Merk:** Denne artikkelen er for lesere som er logget ut. Lenker til alle tre nivåene av denne saken finnes nederst i artikkelen.
 
 På [rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside) genererer Catenda Hub rapporter fra sakene, dokumentene og gjennomgangsforespørslene i et prosjekt, klare til å lagre og dele som et dokument. Hver rapport er bygget fra en rapportmal, som bestemmer hvordan rapporten ser ut og hvilken prosjektinformasjon den viser. Rapportverktøyet, der rapportmaler utformes, kan bestilles for prosjekter som trenger det.
 
@@ -14795,7 +14815,7 @@ Rapportverktøyet gir et prosjekt sine egne rapportmaler, fra tittelblokken til 
 
 Rapportverktøyet fungerer med prosjekter i Catenda Hub. For å bruke det, kontakt Catenda-salg for å komme i gang med ditt første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merknad:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Hjelpesenteret. Hjelpesenteret viser deretter mer til innloggede kunder, med [Introduksjon til rapportverktøyet](https://support.catenda.com/nb/articles/17778684-introduksjon-til-rapportredigeringen) _(bare for innloggede kunder)_ som startpunkt.
+> **Merk:** Rapportredigeringsverktøyet beskrives på tre nivåer. Om: denne artikkelen, for lesere som er logget ut. [Introduksjon](https://support.catenda.com/nb/articles/17778684) _(for kunder som er logget inn og utforsker rapportredigeringsverktøyet)_: hva det er til for. [Detaljer](https://support.catenda.com/nb/articles/17778656) _(for kunder som bruker rapportredigeringsverktøyet)_: hvordan det settes opp og brukes. For å åpne introduksjonen, logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i hjelpesenteret på nytt.
 
 # Operasjoner på dokumentbibliotekselementer
 
@@ -16480,7 +16500,7 @@ Handlingene på rapportmalsiden finner du ved å klikke på handlingsmenyen øve
 
 ![Handlingsmenyen på siden for rapportmaler, med Ny mal for sak, Ny dokumentmal og Ny mal for gjennomgang](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdige rapportmalene i stedet, og tilpasse den til prosjektet. De kan lastes ned fra [Ferdige rapportmaler](https://support.catenda.com/nb/articles/17778911-ferdige-rapportmaler) _(kun for report editor-kunder)_.
+Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdiglagde rapportmalene i stedet, og tilpasse den til prosjektet. Disse kan lastes ned fra [Ferdiglagde rapportmaler](https://support.catenda.com/nb/articles/17778911-ferdige-rapportmaler) _(for kunder med rapporteditor)_.
 
 ### 1.1 **Ny saksmal**
 
@@ -16541,7 +16561,7 @@ Slett Bruk slett-handlingen for å slette den valgte rapportmalen.
 > **Merknad 1:** Rapportsiden er en opt-in-funksjon som kan aktiveres for pågående prosjekter.
 > **Merknad 2:** Nye prosjekter som er opprettet basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
 
-Rapportsiden kan finnes som sjette element i navigasjonsmenyen. Denne siden er del av innholdspanelet. Med rapportssidmalen kan rapporter opprettes i en [rapportredaktør](https://support.catenda.com/nb/articles/17778656-rapportredigerer) _(kun for rapportredaktørkunder)_. Separate maler kan opprettes for Saker og Dokumenter. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen brukes med valgte Saker og Dokumenter for å generere en rapport basert på den valgte malen.
+Rapportsiden finnes som det sjette elementet i navigasjonsmenyen. Denne siden er en del av innholdspanelet. Med rapportsidemalen kan rapporter opprettes i en [rapporteditor](https://support.catenda.com/nb/articles/17778656-rapportredigerer) _(for kunder med rapporteditor)_. Separate maler kan opprettes for saker og dokumenter. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen brukes med valgte saker og dokumenter for å generere en rapport basert på den valgte malen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
@@ -23525,11 +23545,11 @@ _Avansert modelleksport_ Få tilgang til [modeleksportsiden](https://support.cat
 
 Sakdata kan utvinnes ved hjelp av tre primære formater via [utvekslingssaker](https://support.catenda.com/nb/articles/4670289-utveksle-saker), avhengig av hvordan informasjonen blir sett, analysert eller lagret:
 
-_BCF (BIM Collaboration Format)_ En åpen standard utformet for å fange og overføre saksinformasjon som strengt overholder den offisielle BCF-spesifikasjonen, inkludert individuelle saksopprettelsestidsstempler. Dette formatet garanterer bred plattformfellesdrift, noe som gjør det ideelt for å åpne på nytt, redigere eller utveksle saksdata smidig med annen BCF-kompatibel programvare. For generelle langsiktige dokumentoppbevaringsplasser der direkte filforhåndsvisninger trengs, er PDF- eller Excel-formater vanligvis foretrukket.
+**BCF (BIM Collaboration Format)** En åpen standard utformet for å fange og overføre saksinformasjon som strengt overholder den offisielle BCF-spesifikasjonen, inkludert individuelle saksopprettelsestidsstempler. Dette formatet garanterer bred plattformfellesdrift, noe som gjør det ideelt for å åpne på nytt, redigere eller utveksle saksdata smidig med annen BCF-kompatibel programvare. For generelle langsiktige dokumentoppbevaringsplasser der direkte filforhåndsvisninger trengs, er PDF- eller Excel-formater vanligvis foretrukket.
 
-_Excel_ Eksporterer sakparametere til et regnearkformat for filtrering, sortering og datamanipulering. Dette formatet gir strukturerte rader og kolonner som er ideelle for valg og kopiering av data, og Excel-filer kan lett forhåndsvises innenfor de fleste arkiveringsplattformer. For arkiveringsformål foretrekkes PDF-eksporten generelt fremfor Excel fordi den inneholder mer informasjon.
+**Excel** Eksporterer sakparametere til et regnearkformat for filtrering, sortering og datamanipulering. Dette formatet gir strukturerte rader og kolonner som er ideelle for valg og kopiering av data, og Excel-filer kan lett forhåndsvises innenfor de fleste arkiveringsplattformer. For arkiveringsformål foretrekkes PDF-eksporten generelt fremfor Excel fordi den inneholder mer informasjon.
 
-_PDF_ Genererer en ren, lesbar sammendragsrapport i standard PDF-format (v1.4) som er tilgjengelig uten spesialisert programvare (se [eksportering av saker til PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf)). Standard PDF-eksporter inkluderer et konsolidert nedlastingstidsstempel for offisiell rapportering og arkivering, noe som gir mer informasjon enn en Excel-eksport. Mens grunneksorten genererer en standard PDF-fil (v1.4), som mange arkiveringssystemer automatisk konverterer til PDF/A ved opplasting for langsiktig visning, kan prosjekter med den innbygde [rapportsidefunksjonen](https://support.catenda.com/nb/articles/12303098-rapportsside) aktivert også eksportere saker i arkiveringsformater, som beskrevet i [Eksportering av prosjektdata med rapporter](https://support.catenda.com/nb/articles/17779017-eksportere-prosjektdata-med-rapporter) _(kun rapportredigerer-kunder)_.
+**PDF** Genererer et rent, lesbart sammendrag i standard PDF-format (v1.4) som kan åpnes uten spesialisert programvare (se [eksportere saker til PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf)). Standard PDF-eksporter inkluderer et samlet nedlastingstidsstempel for formell rapportering til myndigheter og arkivering, og gir mer informasjon enn en Excel-eksport. Mens grunneksporten genererer en standard PDF (v1.4)-fil, som mange arkiveringssystemer automatisk konverterer til PDF/A ved opplasting for langtidsforhåndsvisning, kan prosjekter med den valgfrie [Reports Page](https://support.catenda.com/nb/articles/12303098-rapportsside) aktivert også eksportere saker i arkiveringsformater, som beskrevet i [Eksportere prosjektdata med rapporter](https://support.catenda.com/nb/articles/17779017-eksportere-prosjektdata-med-rapporter) _(for kunder med rapporteditor)_.
 
 ### 2.3 **Eksporterer dokumenter og samlinger**
 
@@ -23585,13 +23605,13 @@ Konfigurer en dedikert administratorkonto med [prosjektspesifikke varslingsinnst
 
 [Rapportsiden](https://support.catenda.com/nb/articles/12303098-rapportsside) er en frivillig funksjon som kan forespørres for pågående prosjekter. Prosjekter som har den aktivert kan også eksportere Dokumenter- og Sak-data som formaterte rapporter, inkludert formater for langsiktig arkivering.
 
-_Malbasert administrasjon_ Når den er aktivert, bruker prosjektadministratorer [rapportmalsiden](https://support.catenda.com/nb/articles/12380837-rapportmalsider) til å konfigurere rapportmaler etter eget valg og generere formaterte eksporter for valgte Dokumenter eller Saker.
+**Malbasert administrasjon** Når den er aktivert, bruker prosjektadministratorer [rapportmalsiden](https://support.catenda.com/nb/articles/12380837-rapportmalsider) til å konfigurere rapportmaler etter eget valg og generere formaterte eksporter for valgte Dokumenter eller Saker.
 
-Hva som kan eksporteres, og i hvilke filformater, er beskrevet i [Eksportering av prosjektdata med rapporter](https://support.catenda.com/nb/articles/17779017-eksportere-prosjektdata-med-rapporter) _(kun rapportredigerer-kunder)_.
+Hva som kan eksporteres, og i hvilke filformater, er beskrevet i [Eksportere prosjektdata med rapporter](https://support.catenda.com/nb/articles/17779017-eksportere-prosjektdata-med-rapporter) _(for kunder med rapporteditor)_.
 
 ## 3. **Catenda dataeksport**
 
-Catenda Data Export selges separat fra Catenda Hub. I motsetning til nedlastingene ovenfor kopierer den prosjektdata automatisk, direkte fra Catenda Hub til en organisasjons egen skylagring i Amazon S3 eller Azure Blob storage. Den passer for organisasjoner som ønsker en sikkerhetskopi som holder tritt med prosjektene deres, eller prosjektregistreringer lagret i egen lagring. Den er ikke kun for prosjekteiere. En prosjekteier kan eksportere en fullstendig sikkerhetskopi av sine prosjekter, og en prosjektdeltaker kan eksportere det vedkommende har tilgang til i prosjektene vedkommende deltar i. Mer om dette finnes i [Om Catenda Data Export](https://support.catenda.com/nb/articles/17779020-om-catenda-data-export) _(for lesere som ikke er logget inn)_ og [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(kun for innloggede kunder)_. Kunder som har tjenesten finner oppsettet i [Catenda Data Export](https://support.catenda.com/nb/articles/17779052-catenda-datakeksport) _(kun for Data Export-kunder)_.
+Catenda Data Export er et separat produkt som selges adskilt fra Catenda Hub. I motsetning til nedlastingene over kopierer det prosjektdata automatisk, direkte fra Catenda Hub til en organisasjons egen skylagring i Amazon S3 eller Azure Blob storage. Det passer for organisasjoner som ønsker en sikkerhetskopi som holder tritt med prosjektene deres, eller prosjektarkiver lagret i egen lagring. Det er ikke kun for prosjekteiere. En prosjekteier kan eksportere en fullstendig sikkerhetskopi av sine prosjekter, og en prosjektdeltaker kan eksportere det den har tilgang til i prosjektene den deltar i. Mer om dette finnes i [Om Catenda Data Export](https://support.catenda.com/nb/articles/17779020-om-catenda-data-export) _(for utloggede lesere)_ og [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(for innloggede kunder som utforsker Data Export)_. Kunder som har tjenesten finner oppsettet i [Catenda Data Export](https://support.catenda.com/nb/articles/17779052-catenda-datakeksport) _(for Data Export-kunder)_.
 
 # Endring av størrelse på kolonner
 
@@ -24128,6 +24148,8 @@ Egendefinerte felt på dokumenter er bare tilgjengelig med rapporthandlingen. N�
 
 > Catenda Data Export kopierer data fra Catenda Hub-prosjekter til organisasjonens eget skylagring, automatisk.
 
+> **Merk:** Denne artikkelen er for lesere som ikke er logget inn. Lenker til alle tre nivåene av denne saken finnes på slutten av denne artikkelen.
+
 Catenda Hub har flere måter å laste ned prosjektdata på, beskrevet i [Eksportere all prosjektdata](https://support.catenda.com/nb/articles/7946690-eksporterer-alle-prosjektdata). Catenda Data Export er den automatiserte: den kopierer prosjektdata direkte til organisasjonens eget skylagring i Amazon S3 eller Azure Blob storage. Det selges separat fra Catenda Hub.
 
 ## 1. **Hva det er**
@@ -24150,7 +24172,7 @@ En organisasjon som deltar i prosjekter eid av andre, kan også få Catenda Data
 
 For å bruke det, kontakter du Catenda sales om å komme i gang med ditt første prosjekt: [https://catenda.com/get-started](https://catenda.com/get-started) eller [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Merk:** Mer er tilgjengelig for Catenda-kunder. Logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Help Center. Help Center viser da mer til påloggede kunder, med start [Introduksjon til Catenda Data Export](https://support.catenda.com/nb/articles/17779027-introduksjon-til-catenda-data-export) _(kun for påloggede kunder)_.
+> **Merk:** Catenda Data Export beskrives på tre nivåer. Om: denne artikkelen, for lesere som ikke er logget inn. [Introduksjon](https://support.catenda.com/nb/articles/17779027) _(for innloggede kunder som utforsker Data Export)_: hva det er til for. [Detaljer](https://support.catenda.com/nb/articles/17779052) _(for kunder av Data Export)_: hvordan det settes opp og brukes. For å åpne introduksjonen, logg inn på Catenda på [https://hub.catenda.com](https://hub.catenda.com), og åpne eller last inn en side i Help Center på nytt.
 
 # Organisasjonsverktøy FAQ
 
@@ -25765,29 +25787,29 @@ Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringen
 
 ### 1.1 **Nye artikler:**
 
-_Kontoadministrasjon_
+**Kontoadministrasjon**
 
 - Organisasjoner
-    - [Organisasjonskonfigurasjon](https://support.catenda.com/nb/articles/13653794-organisasjonskonfigurasjon)
-    - [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
-    - [Organisasjon og prosjektkonfigurasjon](https://support.catenda.com/nb/articles/13653804-organisering-og-prosjektoppsett)
+  - [Organisasjonskonfigurasjon](https://support.catenda.com/nb/articles/13653794-organisasjonskonfigurasjon)
+  - [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
+  - [Organisasjon og prosjektkonfigurasjon](https://support.catenda.com/nb/articles/13653804-organisering-og-prosjektoppsett)
 
-_Produktfunksjoner_
+**Produktfunksjoner**
 
 - Saker
-    - [Sakmalsettingsside](https://support.catenda.com/nb/articles/14076010-innstillinger-for-saksmal)
+  - [Sakmalsettingsside](https://support.catenda.com/nb/articles/14076010-innstillinger-for-saksmal)
 - Sakmaler
-    - [Anvend en generell sakmal ved saksoppretting](https://support.catenda.com/nb/articles/14075921-bruk-av-saksmaler-i-en-saksliste)
-    - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/nb/articles/14078352-bruk-av-malvinkler-nar-du-lagrer-merknadsaker)
-    - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/nb/articles/14078683-bruke-saksmaler-med-gjennomganger)
+  - [Anvend en generell sakmal ved saksoppretting](https://support.catenda.com/nb/articles/14075921-bruk-av-saksmaler-i-en-saksliste)
+  - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/nb/articles/14078352-bruk-av-malvinkler-nar-du-lagrer-merknadsaker)
+  - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/nb/articles/14078683-bruke-saksmaler-med-gjennomganger)
 - Kategorioverskridende
-    - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(bare for rapportredigerkunder)_
-    - [Kopier-lenkehandling](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp)
+  - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_
+  - [Kopier-lenkehandling](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp)
 - Catenda-programtillegg og integrasjoner
-    - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15)
-    - [Catenda Archicad-programtillegg endringslogg - 1.0.1.17](https://support.catenda.com/nb/articles/13449075-catenda-archicad-plugin-endringslogg-1-0-1-17)
+  - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15)
+  - [Catenda Archicad-programtillegg endringslogg - 1.0.1.17](https://support.catenda.com/nb/articles/13449075-catenda-archicad-plugin-endringslogg-1-0-1-17)
 
-_Feilsøking_
+**Feilsøking**
 
 - [Feilsøking for zip-nedlasting](https://support.catenda.com/nb/articles/13399638-feilsoking-av-zip-nedlasting)
 - [Desktop Connector - ikke alle mapper lastet ned](https://support.catenda.com/nb/articles/13772277-desktop-connector-ikke-alle-mapper-lastet-ned)
@@ -25797,12 +25819,12 @@ Nylige oppdateringer
 
 - [Funksjonstilstander Q1 2026](https://support.catenda.com/nb/articles/13905428-funksjonsstatuser-q1-2026)
 
-_Ofte stilte spørsmål_
+**Ofte stilte spørsmål**
 
 - Saker - OSS
-    - [2D-plassering av saker - Catenda-nettsted](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
+  - [2D-plassering av saker - Catenda-nettsted](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
 - Prosjekt - OSS
-    - [Egendefinerte felt - OSS](https://support.catenda.com/nb/articles/11384331-ofte-stilte-sporsmal-om-egendefinerte-felt)
+  - [Egendefinerte felt - OSS](https://support.catenda.com/nb/articles/11384331-ofte-stilte-sporsmal-om-egendefinerte-felt)
 
 ### 1.2 **Artikler som har endret seg:**
 
@@ -27128,7 +27150,7 @@ _Lukkede eldre gjennomganger etter bytte_ Prosjekter som byttet fra eldre gjenno
 
 ### 2.3 **Catenda AI Connect**
 
-Catenda AI Connect har blitt oppdatert, og endringene er oppført i [Catenda AI Connect-endringsloggen](https://support.catenda.com/nb/articles/17778717-catenda-ai-connect-endringslogg) _(bare Catenda AI Connect-kunder)_.
+Catenda AI Connect er oppdatert, og endringene er listet i [Catenda AI Connect-endringslogg](https://support.catenda.com/nb/articles/17778717-catenda-ai-connect-endringslogg) _(for AI Connect-kunder)_.
 
 ### 2.4 **3D-viser**
 
@@ -27156,15 +27178,15 @@ Noen funksjoner kan forespørres aktivert for eksisterende prosjekter av kontakt
 
 ### 3.2 **Rapporteditor**
 
-Opprett rapportmaler for saker og dokumenter slik at prosjektmedlemmer kan velge saker eller dokumenter fra tabellen og bruke rapporthandlingen for å generere en rapport. Rapportsiden er en funksjon på etterspørsel som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Separate maler kan opprettes for saker og dokumenter. Rapporter kan også opprettes fra gjennomganger med [opprett rapporthandlingen](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun rapporteditorkunder)_. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen brukes med valgte saker og dokumenter for å generere en rapport basert på den valgte malen. Støtte for hvordan ulike verdier kan vises på siden tilbys av Catenda. Hvis du ønsker en egendefinert rapport tilpasset bedriften din, kan vi få deg i kontakt med en konsulent som kan hjelpe til. Eksempelrapporter for saker, dokumenter og gjennomganger er nå tilgjengelige i [Klare rapportmaler](https://support.catenda.com/nb/articles/17778911-ferdige-rapportmaler) _(kun rapporteditorkunder)_. Hvordan rapporteditoren fungerer er beskrevet i [Rapporteditor](https://support.catenda.com/nb/articles/17778656-rapportredigerer) _(kun rapporteditorkunder)_.
+Opprett rapportmaler for saker og dokumenter, slik at prosjektmedlemmer kan velge saker eller dokumenter fra tabellen og bruke rapporthandlingen for å generere en rapport. Rapportsiden er en funksjon på forespørsel som kan bes om å bli aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Egne maler kan opprettes for saker og dokumenter. Rapporter kan også opprettes fra gjennomganger med [opprett rapport-handlingen](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen brukes med valgte saker og dokumenter for å generere en rapport basert på den valgte malen. Catenda tilbyr støtte for hvordan ulike verdier kan vises på siden. Hvis du ønsker en egendefinert rapport tilpasset firmaet ditt, kan vi sette deg i kontakt med en konsulent som kan hjelpe til med det. Eksempelrapporter for saker, dokumenter og gjennomganger er nå tilgjengelige i [Ferdige rapportmaler](https://support.catenda.com/nb/articles/17778911-ferdige-rapportmaler) _(for kunder med rapporteditor)_. Hvordan rapporteditoren fungerer, er beskrevet i [Rapporteditor](https://support.catenda.com/nb/articles/17778656-rapportredigerer) _(for kunder med rapporteditor)_.
 
 ### 3.3 **Catenda for Power BI (på etterspørsel)**
 
-En versjon av Catenda for Power BI på etterspørsel er nå tilgjengelig. Det kan forespørres på samme måte som de andre funksjonene på etterspørsel. Hva det er til for er beskrevet i [Introduksjon til Catenda for Power BI (på etterspørsel)](https://support.catenda.com/nb/articles/17778865-introduksjon-til-catenda-for-power-bi-on-demand) _(kun innloggede kunder)_. Oppsett er beskrevet i [Catenda for Power BI (på etterspørsel)](https://support.catenda.com/nb/articles/17778868-catenda-for-power-bi-on-demand) _(bare på forespørsel)_.
+En versjon på forespørsel av Catenda for Power BI er nå tilgjengelig. Den kan bes om på samme måte som de andre funksjonene på forespørsel. Hva den er til for, er beskrevet i [Introduksjon til Catenda for Power BI (On Demand)](https://support.catenda.com/nb/articles/17778865-introduksjon-til-catenda-for-power-bi-on-demand) _(for innloggede kunder som utforsker Power BI On Demand)_. Oppsett er beskrevet i [Catenda for Power BI (On Demand)](https://support.catenda.com/nb/articles/17778868-catenda-for-power-bi-on-demand) _(for selskaper med Power BI On Demand)_.
 
 ### 3.4 **Catenda Desktop Connector for systembilder (på etterspørsel)**
 
-En versjon av Catenda Desktop Connector for systembilder på etterspørsel er nå tilgjengelig. Det kan forespørres på samme måte som de andre funksjonene på etterspørsel. Hva det er til for er beskrevet i [Introduksjon til Catenda Desktop Connector for systembilder](https://support.catenda.com/nb/articles/17778688-introduksjon-til-catenda-desktop-connector-for-systemavbilder) _(kun innloggede kunder)_. Oppsett er beskrevet i [Catenda Desktop Connector for systembilder (på etterspørsel)](https://support.catenda.com/nb/articles/17778690-catenda-desktop-connector-for-system-images-on-demand) _(bare på forespørsel)_.
+En versjon på forespørsel av Catenda Desktop Connector for System Images er nå tilgjengelig. Den kan bes om på samme måte som de andre funksjonene på forespørsel. Hva den er til for, er beskrevet i [Introduksjon til Catenda Desktop Connector for System Images](https://support.catenda.com/nb/articles/17778688-introduksjon-til-catenda-desktop-connector-for-systemavbilder) _(for innloggede kunder som utforsker systembildepakken)_. Oppsett er beskrevet i [Catenda Desktop Connector for System Images (On Demand)](https://support.catenda.com/nb/articles/17778690-catenda-desktop-connector-for-system-images-on-demand) _(for personer som har fått systembildepakken)_.
 
 ## 4. **Co-creation-program**
 

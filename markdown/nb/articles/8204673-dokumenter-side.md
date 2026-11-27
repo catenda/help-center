@@ -52,7 +52,7 @@ Etter at du velger en elementrad, vises valgte elementhandlinger mot toppen av d
 
 Klikk [her](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) for å lese mer om valgte elementhandlinger på dokumenter-siden.
 
-På prosjekter der rapportsiden er aktivert, har menyen for valgte element-handlinger ett ekstra alternativ når bare dokumenter er valgt: **Opprett rapport**. Les mer om det i [Opprett rapport-handling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun for rapportredigerings-kunder)_.
+I prosjekter med rapportsiden aktivert har menyen for handlinger på valgte elementer ett alternativ til når bare dokumenter er valgt: **Opprett rapport**. Les mer om dette i [Handlingen Opprett rapport](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_.
 
 ### 4.2 **Radinnhold**
 

@@ -10,29 +10,29 @@ Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringen
 
 ### 1.1 **Nye artikler:**
 
-_Kontoadministrasjon_
+**Kontoadministrasjon**
 
 - Organisasjoner
-    - [Organisasjonskonfigurasjon](https://support.catenda.com/nb/articles/13653794-organisasjonskonfigurasjon)
-    - [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
-    - [Organisasjon og prosjektkonfigurasjon](https://support.catenda.com/nb/articles/13653804-organisering-og-prosjektoppsett)
+  - [Organisasjonskonfigurasjon](https://support.catenda.com/nb/articles/13653794-organisasjonskonfigurasjon)
+  - [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
+  - [Organisasjon og prosjektkonfigurasjon](https://support.catenda.com/nb/articles/13653804-organisering-og-prosjektoppsett)
 
-_Produktfunksjoner_
+**Produktfunksjoner**
 
 - Saker
-    - [Sakmalsettingsside](https://support.catenda.com/nb/articles/14076010-innstillinger-for-saksmal)
+  - [Sakmalsettingsside](https://support.catenda.com/nb/articles/14076010-innstillinger-for-saksmal)
 - Sakmaler
-    - [Anvend en generell sakmal ved saksoppretting](https://support.catenda.com/nb/articles/14075921-bruk-av-saksmaler-i-en-saksliste)
-    - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/nb/articles/14078352-bruk-av-malvinkler-nar-du-lagrer-merknadsaker)
-    - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/nb/articles/14078683-bruke-saksmaler-med-gjennomganger)
+  - [Anvend en generell sakmal ved saksoppretting](https://support.catenda.com/nb/articles/14075921-bruk-av-saksmaler-i-en-saksliste)
+  - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/nb/articles/14078352-bruk-av-malvinkler-nar-du-lagrer-merknadsaker)
+  - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/nb/articles/14078683-bruke-saksmaler-med-gjennomganger)
 - Kategorioverskridende
-    - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(bare for rapportredigerkunder)_
-    - [Kopier-lenkehandling](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp)
+  - [Opprett rapporthandling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_
+  - [Kopier-lenkehandling](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp)
 - Catenda-programtillegg og integrasjoner
-    - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15)
-    - [Catenda Archicad-programtillegg endringslogg - 1.0.1.17](https://support.catenda.com/nb/articles/13449075-catenda-archicad-plugin-endringslogg-1-0-1-17)
+  - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15)
+  - [Catenda Archicad-programtillegg endringslogg - 1.0.1.17](https://support.catenda.com/nb/articles/13449075-catenda-archicad-plugin-endringslogg-1-0-1-17)
 
-_Feilsøking_
+**Feilsøking**
 
 - [Feilsøking for zip-nedlasting](https://support.catenda.com/nb/articles/13399638-feilsoking-av-zip-nedlasting)
 - [Desktop Connector - ikke alle mapper lastet ned](https://support.catenda.com/nb/articles/13772277-desktop-connector-ikke-alle-mapper-lastet-ned)
@@ -42,12 +42,12 @@ Nylige oppdateringer
 
 - [Funksjonstilstander Q1 2026](https://support.catenda.com/nb/articles/13905428-funksjonsstatuser-q1-2026)
 
-_Ofte stilte spørsmål_
+**Ofte stilte spørsmål**
 
 - Saker - OSS
-    - [2D-plassering av saker - Catenda-nettsted](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
+  - [2D-plassering av saker - Catenda-nettsted](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
 - Prosjekt - OSS
-    - [Egendefinerte felt - OSS](https://support.catenda.com/nb/articles/11384331-ofte-stilte-sporsmal-om-egendefinerte-felt)
+  - [Egendefinerte felt - OSS](https://support.catenda.com/nb/articles/11384331-ofte-stilte-sporsmal-om-egendefinerte-felt)
 
 ### 1.2 **Artikler som har endret seg:**
 

@@ -63,7 +63,7 @@ Wenn Sie eine oder mehrere Genehmigungsanfragen in der Genehmigungsliste auswäh
 
 ![Das Menü für ausgewählte Elemente auf der Seite Freigaben, mit einer ausgewählten Freigabeanfrage und „Bericht erstellen“](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Bericht erstellen** Erstellt einen Bericht der ausgewählten Freigabeanfragen auf Grundlage einer Freigabevorlage. Weitere Informationen dazu finden Sie unter [Aktion „Bericht erstellen“](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Berichtseditor)_.
+**Bericht erstellen** Erstellt einen Bericht der ausgewählten Freigabeanfragen auf Grundlage einer Freigabevorlage. Weitere Informationen finden Sie unter [Aktion „Bericht erstellen“](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden mit Berichtseditor)_.
 
 ## 5. **Dokumentrevisionsliste**
 

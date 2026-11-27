@@ -63,7 +63,7 @@ La sélection d'une ou plusieurs demandes d'approbation dans la liste des approb
 
 ![Le menu des actions sur les éléments sélectionnés sur la page des approbations, avec une demande d'approbation sélectionnée et Créer un rapport](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Créer un rapport** Crée un rapport des demandes d'approbation sélectionnées, basé sur un modèle d'approbation. Lisez-en plus sur [Action Créer un rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_.
+**Créer un rapport** Crée un rapport des demandes d'approbation sélectionnées, à partir d'un modèle d'approbation. Pour en savoir plus, consultez [l'action Créer un rapport](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(pour les clients de l'éditeur de rapports)_.
 
 ## 5. **Liste des révisions de documents**
 

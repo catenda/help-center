@@ -15,7 +15,7 @@ De acties op de pagina met rapportsjablonen kunt u vinden door op het actiemenu 
 
 ![Het actiemenu van de rapportagesjablonenpagina met Nieuw Topics-sjabloon, Nieuw documentsjabloon en Nieuw goedkeuringssjabloon](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Deze acties maken een volledig nieuw sjabloon aan, beginnend met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapportagessjablonen en deze aan het project aan te passen. Deze kunnen worden gedownload van [Kant-en-klare rapportagessjablonen](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(alleen voor klanten met rapportage-editor)_.
+Deze acties maken een volledig nieuw Template aan, te beginnen met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapporttemplates en deze aan te passen aan het project. Ze kunnen worden gedownload via [Kant-en-klare rapporttemplates](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(voor klanten van de rapporteditor)_.
 
 ### 1.1 **Nieuw onderwerpsjabloon**
 

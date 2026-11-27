@@ -54,7 +54,7 @@ Rapporteringsverktøyet kan monteres på basis per prosjekt. Med handlingen Lag 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun rapporteditor-kunder)_ for å lese mer om å lage rapporter.
+Dette alternativet er tilgjengelig når saker fra flere sakslister er valgt. Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_ for å lese mer om å lage rapporter.
 
 ### 2.4 **Følg**
 

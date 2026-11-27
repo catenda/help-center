@@ -54,7 +54,7 @@ Das Reporting-Tool kann auf Projektbasis aktiviert werden. Mit der Aktion "Beric
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Diese Option ist verfügbar, wenn Themen aus mehreren Boards ausgewählt werden. Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Report-Editor-Kunden)_, um mehr über die Erstellung von Berichten zu erfahren.
+Diese Option ist verfügbar, wenn Themen aus mehreren Boards ausgewählt sind. Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden des Report-Editors)_, um mehr über das Erstellen von Berichten zu erfahren.
 
 ### 2.4 **Folgen**
 

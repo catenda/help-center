@@ -88,7 +88,7 @@ Met de rapportactie kunt u een rapport maken van uw geselecteerde documenten. De
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen klanten met de rapporteditor)_ om meer te lezen over de rapportageactie. _Vereiste toegang:_ leesrechten voor het document
+Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de rapporteditor)_ om meer te lezen over de rapportactie. _Vereiste toegang:_ Leestoegang tot het document
 
 ### 2.5 **Publiceren**
 

@@ -15,7 +15,7 @@ Handlingene på rapportmalsiden finner du ved å klikke på handlingsmenyen øve
 
 ![Handlingsmenyen på siden for rapportmaler, med Ny mal for sak, Ny dokumentmal og Ny mal for gjennomgang](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdige rapportmalene i stedet, og tilpasse den til prosjektet. De kan lastes ned fra [Ferdige rapportmaler](https://support.catenda.com/nb/articles/17778911-ferdige-rapportmaler) _(kun for report editor-kunder)_.
+Disse handlingene oppretter en helt ny mal, med utgangspunkt i en tom side. Det anbefales å starte fra en av de ferdiglagde rapportmalene i stedet, og tilpasse den til prosjektet. Disse kan lastes ned fra [Ferdiglagde rapportmaler](https://support.catenda.com/nb/articles/17778911-ferdige-rapportmaler) _(for kunder med rapporteditor)_.
 
 ### 1.1 **Ny saksmal**
 

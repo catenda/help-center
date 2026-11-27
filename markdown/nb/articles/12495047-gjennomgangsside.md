@@ -63,7 +63,7 @@ Hvis du velger en eller flere gjennomgangsforespørsler i gjennomgangslisten, vi
 
 ![Menyen for valgte elementhandlinger på gjennomgangssiden, med en gjennomgangsforespørsel valgt og Opprett rapport](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-_Opprett rapport_ Oppretter en rapport over de valgte gjennomgangsforespørslene, basert på en gjennomgangsmal. Les mer om det i [Opprett rapport-handling](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(kun rapporteditor-kunder)_.
+**Lag rapport** Lager en rapport over de valgte gjennomgangsforespørslene, basert på en mal for gjennomganger. Les mer om det i [Handlingen Lag rapport](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) _(for kunder med rapporteditor)_.
 
 ## 5. **Dokumentrevisjoner-liste**
 

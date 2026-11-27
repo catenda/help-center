@@ -3,7 +3,7 @@
 > **Remarque 1 :** La page des rapports est une fonctionnalité optionnelle qui peut être demandée pour être activée pour les projets en cours.
 > **Remarque 2 :** Les nouveaux projets créés à partir d'un projet modèle pour lequel cette fonctionnalité est activée n'ont pas cette fonctionnalité activée.
 
-La page des rapports se trouve comme le sixième élément du menu de navigation. Cette page fait partie du panneau de contenu. Avec la page des rapports, des rapports de modèle peuvent être créés dans un [éditeur de rapport](https://support.catenda.com/fr/articles/17778656-editeur-de-rapport) _(clients éditeur de rapport uniquement)_. Des modèles séparés peuvent être créés pour les Sujets et les Documents. Lorsqu'un modèle est disponible dans un projet, l'action de rapport peut être utilisée avec les Sujets et Documents sélectionnés pour générer un rapport basé sur le modèle sélectionné.
+La page Rapports se trouve en sixième position dans le menu de navigation. Cette page fait partie du panneau de contenu. Grâce au modèle de la page Rapports, des rapports peuvent être créés dans un [éditeur de rapports](https://support.catenda.com/fr/articles/17778656-editeur-de-rapport) _(pour les clients de l'éditeur de rapports)_. Des modèles distincts peuvent être créés pour les Sujets et les Documents. Lorsqu'un modèle est disponible dans un projet, l'action Rapport peut être utilisée avec les Sujets et Documents sélectionnés pour générer un rapport basé sur le modèle sélectionné.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 

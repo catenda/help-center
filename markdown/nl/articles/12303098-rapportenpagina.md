@@ -3,7 +3,7 @@
 > **Opmerking 1:** De rapportenpagina is een opt-in-functie die kan worden aangevraagd voor lopende projecten.
 > **Opmerking 2:** Nieuwe projecten die zijn gebaseerd op een sjabloonproject waarvan deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
 
-De rapportenpagina kunt u vinden als het zesde item in het navigatiemenu. Deze pagina maakt deel uit van het inhoudspaneel. Met de rapportenpagina kunnen sjabloonrapporten worden gemaakt in een [rapporteditor](https://support.catenda.com/nl/articles/17778656-rapporteditor) _(alleen voor klanten met rapporteditor)_. Afzonderlijke sjablonen kunnen worden gemaakt voor Topics en Documenten. Wanneer een sjabloon beschikbaar is in een project, kan de rapportactie worden gebruikt met geselecteerde Topics en Documenten om een rapport op basis van het geselecteerde sjabloon te genereren.
+De rapportagepagina bevindt zich als zesde item in het navigatiemenu. Deze pagina maakt deel uit van het inhoudspaneel. Met een Template voor de rapportagepagina kunnen rapporten worden gemaakt in een [rapporteditor](https://support.catenda.com/nl/articles/17778656-rapporteditor) _(voor klanten met een rapporteditor)_. Er kunnen afzonderlijke Templates worden gemaakt voor Topics en Documenten. Wanneer een Template beschikbaar is in een project, kan de rapportageactie worden gebruikt met geselecteerde Topics en Documenten om een rapport te genereren op basis van de geselecteerde Template.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 

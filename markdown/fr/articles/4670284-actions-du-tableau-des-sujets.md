@@ -54,7 +54,7 @@ L'outil de reporting peut être demandé pour être activé sur la base d'un pro
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Cette option est disponible lorsque des Sujets provenant de plusieurs listes sont sélectionnés. Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_ pour en savoir plus sur la création de rapports.
+Cette option est disponible lorsque des Sujets de plusieurs tableaux sont sélectionnés. Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(pour les clients de l'éditeur de rapports)_ pour en savoir plus sur la création de rapports.
 
 ### 2.4 **Suivre**
 

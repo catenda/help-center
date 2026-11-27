@@ -54,7 +54,7 @@ Het rapportinginstrument kan per project worden geactiveerd. Met de actie rappor
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Deze optie is beschikbaar wanneer Topics van meerdere boards zijn geselecteerd. Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor rapporteditor-klanten)_ voor meer informatie over het maken van rapporten.
+Deze optie is beschikbaar wanneer topics uit meerdere boards zijn geselecteerd. Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de report editor)_ om meer te lezen over het maken van rapporten.
 
 ### 2.4 **Volgen**
 

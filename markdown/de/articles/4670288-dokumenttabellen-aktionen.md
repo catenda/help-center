@@ -88,7 +88,7 @@ Mit der Berichtsaktion können Sie einen Bericht über Ihre ausgewählten Dokume
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Report-Editor)_, um mehr über die Berichtsaktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
+Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden des Report-Editors)_, um mehr über die Report-Aktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
 
 ### 2.5 **Veröffentlichen**
 

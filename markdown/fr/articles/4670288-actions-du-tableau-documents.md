@@ -88,7 +88,7 @@ Avec l'action de rapport, vous pourrez créer un rapport de vos Documents sélec
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(clients de l'éditeur de rapports uniquement)_ pour en savoir plus sur l'action Rapport. _Accès requis :_ accès en lecture au document
+Cliquez [ici](https://support.catenda.com/fr/articles/13973721-action-creer-un-rapport) _(pour les clients de l'éditeur de rapports)_ pour en savoir plus sur l'action de rapport. _Accès requis :_ accès en lecture au document
 
 ### 2.5 **Publier**
 

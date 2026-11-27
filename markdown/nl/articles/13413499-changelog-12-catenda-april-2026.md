@@ -13,24 +13,24 @@ Naarmate nieuwe functies uitrollen en bugs worden opgelost, worden artikelen bij
 **Accountbeheer**
 
 - Organisaties
-    - [Organisatieconfiguratie](https://support.catenda.com/nl/articles/13653794-organisatieconfiguratie)
-    - [Organisatietypen](https://support.catenda.com/nl/articles/13653807-organisatietypen)
-    - [Organisatie- en projectopstelling](https://support.catenda.com/nl/articles/13653804-organisatie-en-projectinstellingen)
+  - [Organisatieconfiguratie](https://support.catenda.com/nl/articles/13653794-organisatieconfiguratie)
+  - [Organisatietypen](https://support.catenda.com/nl/articles/13653807-organisatietypen)
+  - [Organisatie- en projectopstelling](https://support.catenda.com/nl/articles/13653804-organisatie-en-projectinstellingen)
 
 **Productfuncties**
 
 - Onderwerpen
-    - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/nl/articles/14076010-pagina-topic-template-instellingen)
+  - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/nl/articles/14076010-pagina-topic-template-instellingen)
 - Onderwerpsjablonen
-    - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/nl/articles/14075921-onderwerpssjablonen-in-een-onderwerpsboard-gebruiken)
-    - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen)
-    - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen)
+  - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/nl/articles/14075921-onderwerpssjablonen-in-een-onderwerpsboard-gebruiken)
+  - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen)
+  - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen)
 - Categorieoverschrijdend
-    - [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van de rapporteditor)_
-    - [Koppelingsactie kopiëren](https://support.catenda.com/nl/articles/14323982-koppelingen-actie)
+  - [Actie Rapport aanmaken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de rapporteditor)_
+  - [Koppelingsactie kopiëren](https://support.catenda.com/nl/articles/14323982-koppelingen-actie)
 - Catenda-plugins en integraties
-    - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/nl/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
-    - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/nl/articles/13449075-changelog-catenda-archicad-plugin-1-0-1-17)
+  - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/nl/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
+  - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/nl/articles/13449075-changelog-catenda-archicad-plugin-1-0-1-17)
 
 **Probleemoplossing**
 
@@ -45,9 +45,9 @@ Recente updates
 **Veelgestelde vragen**
 
 - Veelgestelde vragen over onderwerpen
-    - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/nl/articles/13616245-2d-locatie-van-topics-catenda-site)
+  - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/nl/articles/13616245-2d-locatie-van-topics-catenda-site)
 - Projectveelgestelde vragen
-    - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/nl/articles/11384331-veelgestelde-vragen-over-aangepaste-velden)
+  - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/nl/articles/11384331-veelgestelde-vragen-over-aangepaste-velden)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 

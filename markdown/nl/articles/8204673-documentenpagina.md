@@ -52,7 +52,7 @@ Na het selecteren van een elementrij verschijnen geselecteerde itemacties boven 
 
 Klik [hier](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) voor meer informatie over de geselecteerde itemacties op de documentenpagina.
 
-Bij projecten met de rapportenpagina ingeschakeld, heeft het menu voor geselecteerde itemaacties één extra optie wanneer alleen documenten zijn geselecteerd: **Rapport maken**. Lees er meer over in [Rapport maken-actie](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van rapporteditor)_.
+Op projecten met de rapportenpagina ingeschakeld heeft het menu met acties voor geselecteerde items één extra optie wanneer alleen **Documenten** zijn geselecteerd: **Rapport maken**. Lees meer hierover in [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de rapporteditor)_.
 
 ### 4.2 **Rijinhoud**
 

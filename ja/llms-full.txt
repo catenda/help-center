@@ -3958,6 +3958,8 @@ Archicadのマークアップツールに移動し、マークアップエント
 
 > **重要:** Catenda AI Connect は早期アクセス版です。機能や設定手順は頻繁に変更されるため、画面に表示される内容がこの記事と異なる場合があります。
 
+> **注:** この記事はサインアウトしている読者向けです。このトピックの三つのレベルすべてへのリンクは、この記事の末尾にあります。
+
 Catenda AI Connect は、Gemini を Catenda Hub 内の model、ドキュメント、トピックに接続します。プロジェクトに関する質問は Gemini に平易な言葉で入力すると、ライブのプロジェクトデータから回答されます。組織が Gemini による変更を許可している場合、検出された内容は Catenda Hub のトピックとしても作成されます。
 
 この記事では、チームでの活用方法と、開始前に組織が必要とするものについて説明します。
@@ -4022,13 +4024,15 @@ Catenda AI Connect は、Catenda Hub でプロジェクトを所有する組織�
 
 Gemini で Catenda AI Connect の利用を開始するには、Catenda の営業担当にお問い合わせください: [https://catenda.com/get-started](https://catenda.com/get-started) または [sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** Catenda のお客様には、さらに多くの情報がご利用いただけます。[https://hub.catenda.com](https://hub.catenda.com) で Catenda にサインインしてから、ヘルプセンターのページを開くか再読み込みしてください。その後、ヘルプセンターにはサインイン済みのお客様向けの追加コンテンツが表示され、最初に [Catenda AI Connect for Gemini の紹介](https://support.catenda.com/ja/articles/18485781-gemini-向け-catenda-ai-connect-の概要) _(サインイン済みのお客様のみ)_ が表示されます。
+> **注:** Gemini 向けの Catenda AI Connect は三つのレベルで説明されています。概要: この記事(サインアウトしている読者向け)。[はじめに](https://support.catenda.com/ja/articles/18485781) _(AI Connect を検討しているサインイン済みのお客様向け)_: 用途について。[詳細](https://support.catenda.com/ja/articles/18485784) _(AI Connect のお客様向け)_: セットアップと使用方法について。はじめにを開くには、[https://hub.catenda.com](https://hub.catenda.com) で Catenda にサインインし、ヘルプセンターのページを開くか再読み込みしてください。
 
 # Catenda AI Connectとプロジェクトアクセス
 
 > Catenda AI Connectは、各ユーザーがCatenda Hubで既に開くことができるものだけで機能します。プロジェクトを実行している組織は、そのプロジェクトでCatenda AI Connectを使用できるかどうかを決定でき、一部またはすべてのプロジェクトに対して制限をリクエストできます。
 
 > **重要:** Catenda AI Connect は早期アクセス版です。機能やセットアップ手順は頻繁に変更されるため、画面に表示される内容がこの記事と異なる場合があります。
+
+> **注:** この記事はサインアウトした読者向けです。このトピックの三つのレベルすべてへのリンクは、この記事の末尾にあります。
 
 Catenda AI Connectは、各ユーザーがCatenda Hubで既に開くことができるものだけにアクセスでき、そのユーザーとして動作します。
 
@@ -4054,13 +4058,15 @@ Catenda AI Connectの制限は、Catenda Hubまたはそれ以上のCatenda API�
 
 Catenda AI Connectの使用を開始するか、他の取り決めについて質問するには、Catendaセールスにお問い合わせください:[https://catenda.com/get-started](https://catenda.com/get-started)または[sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** より多くの情報がCatendaカスタマーが利用できます。[https://hub.catenda.com](https://hub.catenda.com)でCatendaにサインインしてから、ヘルプセンターのページを開くか再度読み込みます。ヘルプセンターは、[Catenda AI Connectを使用したプロジェクトへのアクセス](https://support.catenda.com/ja/articles/17778906-catenda-ai-connectでプロジェクトにアクセスする)で始まる、サインインしたカスタマーに対してさらに多くを表示します_(サインインしたカスタマーのみ)_。
+> **注:** Catenda AI Connectでのプロジェクトアクセスは、三つのレベルで説明されています。概要: この記事は、サインアウトした読者向けです。[はじめに](https://support.catenda.com/ja/articles/17778906) _(AI Connectを探索しているサインイン済みのお客様向け)_: その目的について。[詳細](https://support.catenda.com/ja/articles/17778731) _(AI Connectのお客様向け)_: 設定方法と使用方法について。はじめにを開くには、[https://hub.catenda.com](https://hub.catenda.com) でCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。
 
 # Catenda AI Connectについて
 
 > Catenda AI Connectは、組織がすでに利用しているClaude、Microsoft Copilot、ChatGPT、GeminiなどのAIを、参加しているCatenda Hubのプロジェクトに接続します。製品の概要、仕組み、利用開始方法について説明します。
 
 > **重要:** Catenda AI Connectは早期アクセス版です。機能やセットアップ手順は頻繁に変更されるため、画面に表示される内容がこの記事と異なる場合があります。
+
+> **注:** この記事はサインアウトしている読者向けです。このトピックの三つのレベルすべてへのリンクは、この記事の末尾にあります。
 
 建設プロジェクトの利益は、契約内容、設計内容、実際の施工内容、そして途中でのやり取りと書かれた内容のどこかに存在します。これらを一致させることは、レビュー会議、納品物の確認、コメントと古いメールスレッドの検索を意味します。
 
@@ -4120,7 +4126,7 @@ Catenda AI Connectは、Catenda Hubでプロジェクトを所有している組
 
 Catenda AI Connectの使用を開始するには、Catenda営業に問い合わせてください: [https://catenda.com/get-started](https://catenda.com/get-started)または[sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** Catendaの顧客は、より多くの情報が利用可能です。[https://hub.catenda.com](https://hub.catenda.com)のCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。ヘルプセンターは、サインインした顧客にさらに多くの情報を表示し、[Catenda AI Connectの概要](https://support.catenda.com/ja/articles/17778901-catenda-ai-connectの概要)_(サインインした顧客のみ)_から始まります。
+> **注:** Catenda AI Connect は三つのレベルで説明されています。概要: この記事(サインアウトしている読者向け)。[紹介](https://support.catenda.com/ja/articles/17778901) _(AI Connect を検討中のサインイン済みのお客様向け)_: 製品の用途。[詳細](https://support.catenda.com/ja/articles/17778710) _(AI Connect のお客様向け)_: 設定方法と使用方法。紹介を開くには、[https://hub.catenda.com](https://hub.catenda.com) にサインインしてから、ヘルプセンターのページを開くか再読み込みしてください。
 
 # Catenda Archicadプラグイン
 
@@ -4506,6 +4512,8 @@ Catenda Hubからローカルシステムへのファイルの定期的なダウ
 
 > オペレーティングシステムイメージにソフトウェアをインストールする組織向けのCatenda Desktop Connectorのバージョンで、リクエストして取得できます。
 
+> **注:** この記事はサインアウトした読者向けです。このトピックの三つのレベルすべてへのリンクは、この記事の末尾にあります。
+
 Catenda Desktop Connectorは、Catenda Hubとコンピューター間のアップロードとダウンロードをスケジュール設定するもので、[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)で説明されています。オペレーティングシステムイメージにソフトウェアをインストールする組織向けのバージョンは、リクエストできます。
 
 ## 1. **概要**
@@ -4516,11 +4524,13 @@ Catenda Desktop Connectorは、Catenda Hubとコンピューター間のアッ�
 
 Catenda Desktop ConnectorはCatenda Hub内のプロジェクトで機能します。使用するには、最初のプロジェクトで開始する方法についてCatenda営業に問い合わせてください: [https://catenda.com/get-started](https://catenda.com/get-started)または[sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** Catendaの顧客向けに詳細情報が利用可能です。[https://hub.catenda.com](https://hub.catenda.com)でCatendaにサインインしてから、ヘルプセンターのページを開くか再読み込みしてください。ヘルプセンターは、[Catenda Desktop Connector for System Imagesの概要](https://support.catenda.com/ja/articles/17778688-catenda-desktop-connector-for-system-images-の概要)から始まるサインイン済みの顧客に詳細情報を表示します_(サインイン済みの顧客のみ)_。
+> **注:** Catenda Desktop Connector for System Imagesは三つのレベルで説明されています。概要: この記事（サインアウトした読者向け）。[はじめに](https://support.catenda.com/ja/articles/17778688) _(システムイメージパッケージを調べているサインイン済みのお客様向け)_: 用途について。[詳細](https://support.catenda.com/ja/articles/17778690) _(システムイメージパッケージを提供されたユーザー向け)_: 設定方法と使用方法。はじめにを開くには、[https://hub.catenda.com](https://hub.catenda.com)でCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。
 
 # Catenda for Power BI (On Demand) について
 
 > Catenda for Power BI は、Catenda Hub プロジェクトデータを Power BI に取り込みます。ビジュアルと既製のレポートテンプレート付きの次のバージョンがオンデマンドで利用可能です。
+
+> **注:** この記事はサインアウトした読者向けです。このトピックの三つのレベルすべてへのリンクは、この記事の末尾にあります。
 
 Catenda for Power BI は、Catenda Hub プロジェクトのデータを Microsoft Power BI に取り込み、プロジェクトの model、ドキュメント、トピックに関するレポートを作成できるようにします。リリース済みの[Catenda Power BI Connector](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ)は、すべての Catenda のお客様にご利用いただけます。次のバージョンはオンデマンドで提供されており、一般公開に先立ち、どなたでもリクエストできます。
 
@@ -4532,7 +4542,7 @@ Catenda for Power BI は、Catenda Hub プロジェクトのデータを Microso
 
 Catenda for Power BI は Catenda Hub のプロジェクトと連携します。これを使用するには、Catenda セールスに最初のプロジェクトで開始することについてお問い合わせください: [https://catenda.com/get-started](https://catenda.com/get-started) または [sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** Catenda ユーザーには、より多くの情報が利用可能です。[https://hub.catenda.com](https://hub.catenda.com) で Catenda にサインインし、ヘルプセンターのページを開くか再度読み込んでください。ヘルプセンターは、サインイン済みのユーザーにより多くの情報を表示します。[Catenda for Power BI (On Demand) の概要](https://support.catenda.com/ja/articles/17778865-catenda-for-power-bi-on-demand-の紹介)（サインイン済みユーザーのみ）から始まります。
+> **注:** Catenda for Power BI (On Demand)は三つのレベルで説明されています。概要:サインアウトした読者向けのこの記事。[はじめに](https://support.catenda.com/ja/articles/17778865) _(Power BI On Demandを確認中のサインイン済みのお客様向け)_:その目的について。[詳細](https://support.catenda.com/ja/articles/17778868) _(Power BI On Demandを導入している企業向け)_:設定方法と使用方法。はじめにを開くには、[https://hub.catenda.com](https://hub.catenda.com)でCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。
 
 # Catenda Hub - Solibri ワークフロー
 
@@ -6113,6 +6123,8 @@ _BlueBeam Revu_ BlueBeam Revu にプレースホルダーを配置してドキ�
 
 > Catenda アーカイビング ポータルを使用すると、Catenda Hub から組織のアーカイブ システムに選択したドキュメントとトピックを転送できます。
 
+> **注:** この記事はサインアウトしている読者向けです。このトピックの三つのレベルすべてへのリンクは、この記事の末尾にあります。
+
 Catenda アーカイビング ポータルを使用すると、Catenda Hub プロジェクトから選択したドキュメントとトピックを組織独自のアーカイブ システムに転送でき、プロジェクトの記録が組織が保管している場所に保存されます。これは Catenda Hub の隣にある別の製品です。
 
 ## 1. **それが何であるか**
@@ -6123,7 +6135,7 @@ Catenda アーカイビング ポータルを使用すると、Catenda Hub プ�
 
 アーカイビング ポータルは Catenda Hub のプロジェクトで機能します。これを使用するには、最初のプロジェクトの開始について Catenda セールスに問い合わせてください: [https://catenda.com/get-started](https://catenda.com/get-started) または [sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** Catenda のお客様はさらに多くの情報をご利用いただけます。[https://hub.catenda.com](https://hub.catenda.com) で Catenda にサインインし、ヘルプ センターのページを開くか再度読み込みます。ヘルプ センターは、サインインしたお客様にさらに多くの情報を表示し、[Catenda アーカイビング ポータルの概要](https://support.catenda.com/ja/articles/17778822-catendaアーカイブポータルの概要)_(サインインしたお客様のみ)_ から始まります。
+> **注:** Catenda Archiving Portalは三つのレベルで説明されています。概要：サインアウトしている読者向けのこの記事。[はじめに](https://support.catenda.com/ja/articles/17778822) _（Archiving Portalを確認しているサインイン済みのお客様向け）_：その目的。[詳細](https://support.catenda.com/ja/articles/16968870) _（Archiving Portalのお客様向け）_：設定方法と使い方。「はじめに」を開くには、[https://hub.catenda.com](https://hub.catenda.com) でCatendaにサインインしてから、Help Centerのページを開くか再読み込みします。
 
 # Catenda プラグイン & 統合
 
@@ -6336,6 +6348,8 @@ Catendaはカウントへのアクセス許可を求めます。**アクセス�
 
 > **重要:** Catenda AI Connect は早期アクセス版です。機能やセットアップの手順は頻繁に変わるため、画面に表示される内容はこの記事と異なる場合があります。
 
+> **注:** この記事はサインアウトしているユーザー向けです。このトピックのすべてのレベルへのリンクは、この記事の末尾にあります。
+
 Catenda AI Connect は、ChatGPT を Catenda Hub 内の models、ドキュメント、トピックに接続します。プロジェクトに関する質問は ChatGPT に平易な言葉で入力でき、回答はライブのプロジェクトデータから得られます。組織が ChatGPT による変更を許可している場合、分析結果も Catenda Hub のトピックになります。
 
 この記事では、チームによる活用方法と、組織が導入前に確認すべき事項について説明します。
@@ -6414,13 +6428,15 @@ Catenda AI Connect は、Catenda Hub でプロジェクトを所有する組織�
 
 ChatGPT で Catenda AI Connect の利用を開始するには、Catenda の営業担当にお問い合わせください: [https://catenda.com/get-started](https://catenda.com/get-started) または [sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** Catenda のお客様には、より多くの情報をご覧いただけます。[https://hub.catenda.com](https://hub.catenda.com) で Catenda にサインインし、ヘルプセンターのページを開くか再読み込みしてください。その後、ヘルプセンターにサインイン済みのお客様向けの追加情報が表示されます。まずは[ChatGPT 向け Catenda AI Connect の紹介](https://support.catenda.com/ja/articles/18485791-chatgpt向けcatenda-ai-connectの概要) _(サインイン済みのお客様のみ)_ をご覧ください。
+> **注:** Catenda AI Connect for ChatGPTは以下のレベルで説明されています。概要: サインアウトしている読者向けのこの記事。[はじめに](https://support.catenda.com/ja/articles/18485791) _(AI Connectを検討中のサインイン済みのお客様向け)_: 用途。[詳細](https://support.catenda.com/ja/articles/17778881) _(AI Connectのお客様向け)_: 設定方法と使い方。はじめにを開くには、[https://hub.catenda.com](https://hub.catenda.com)でCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。
 
 # Claude向けのCatenda AI Connectについて
 
 > Catenda AI Connect for Claudeを使うと、チームはClaudeにCatenda Hubのプロジェクトについて質問したり、プロジェクトデータを確認したり、定型作業を引き継いだりできます。本記事では、製品の概要、組織での準備内容、利用開始方法を説明します。
 
 > **重要:** Catenda AI Connectは早期アクセス版です。機能や設定手順は頻繁に変更されるため、画面に表示される内容が本記事と異なる場合があります。
+
+> **注:** この記事はサインアウトしている読者向けです。このトピックのすべてのレベルへのリンクは、この記事の末尾にあります。
 
 多くのチームは、執筆、調査、分析のために、Anthropic製のAIアプリであるClaudeをすでに利用しています。Catenda AI Connectを使うと、Catenda Hubのプロジェクトを同じClaudeで利用できます。プロジェクトに関する質問は平易な言葉で行え、ライブのmodel、ドキュメント、トピックのデータに基づいて回答されます。組織がClaudeに変更を加えることを許可している場合、そこで得られた所見はCatenda Hubのトピックにもなります。
 
@@ -6504,7 +6520,7 @@ Catenda AI Connectは、他のAIアプリでも利用できます。詳細は[Cl
 
 Catenda AI Connectの利用を開始するには、Catendaの営業担当にお問い合わせください: [https://catenda.com/get-started](https://catenda.com/get-started) または [sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** さらに多くの内容がCatendaのお客様向けに提供されています。[https://hub.catenda.com](https://hub.catenda.com) でCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。するとヘルプセンターには、サインインしたお客様向けの内容がさらに表示され、最初に[Claude向けCatenda AI Connectの紹介](https://support.catenda.com/ja/articles/18485783-claude-向け-catenda-ai-connect-の紹介) _(サインインしたお客様のみ)_ が表示されます。
+> **注:** Catenda AI Connect for Claude は三つのレベルで説明されています。概要: この記事（サインアウトしている読者向け）。[Introduction](https://support.catenda.com/ja/articles/18485783) _（AI Connect を検討しているサインイン済みのお客様向け）_: 本製品の目的について。[Details](https://support.catenda.com/ja/articles/17778825) _（AI Connect のお客様向け）_: 設定方法と使い方について。Introduction を開くには、[https://hub.catenda.com](https://hub.catenda.com) にて Catenda にサインインし、Help Center のページを開くか再読み込みしてください。
 
 # IFCエクスポート Archicadマニュアル
 
@@ -6698,6 +6714,8 @@ IFCベース量は、サイズ、面積、体積のパラメータを読み取�
 
 > **重要:** Catenda AI Connectは早期アクセス版です。機能や設定手順は頻繁に変更されるため、画面に表示される内容がこの記事と異なる場合があります。
 
+> **注:** この記事はサインアウトした読者向けです。このトピックのすべてのレベルへのリンクは、この記事の末尾にあります。
+
 多くのプロジェクトチームは、Copilot と Teams を一日中開いたまま、すでに Microsoft 365 で作業しています。Catenda AI Connectは、Catenda Hubのmodel、ドキュメント、トピックを同じ場所に持ち込みます。プロジェクトに関する質問は、Microsoft 365 Copilot または Teams で自然な言葉で入力すると、ライブのプロジェクトデータから回答が得られます。
 
 ## 1. **概要**
@@ -6770,7 +6788,7 @@ Catenda AI Connectは、Catenda Hubでプロジェクトを所有する組織だ
 
 Catenda AI Connectを利用開始するには、Catendaの営業担当者にお問い合わせください：[https://catenda.com/get-started](https://catenda.com/get-started) または [sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注記:** Catendaのお客様には、さらに多くの情報があります。[https://hub.catenda.com](https://hub.catenda.com) でCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。サインインしたお客様には、ヘルプセンターにさらに多くの内容が表示され、その最初の記事は[Microsoft Copilot向けCatenda AI Connectの紹介](https://support.catenda.com/ja/articles/18485782-microsoft-copilot-向け-catenda-ai-connect-の紹介) _(サインイン済みのお客様限定)_ です。
+> **注:** Catenda AI Connect for Microsoft Copilot は複数のレベルで説明されています。概要: この記事(サインアウトした読者向け)。[はじめに](https://support.catenda.com/ja/articles/18485782) _(AI Connect を確認中のサインイン済みのお客様向け)_: 用途について。[詳細](https://support.catenda.com/ja/articles/17778842) _(AI Connect のお客様向け)_: 設定と使用方法について。はじめにを開くには、[https://hub.catenda.com](https://hub.catenda.com) で Catenda にサインインし、ヘルプセンターのページを開くか再読み込みしてください。
 
 # Microsoft チームの通知
 
@@ -10639,7 +10657,7 @@ _アーカイブ_ - `status=archived` トピック生成プロセスで使用ま
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-このオプションは、複数のボード内のトピックが選択されている場合に利用できます。レポート作成の詳細については、[こちら](https://support.catenda.com/ja/articles/13973721-レポート作成アクション) _(レポートエディタの顧客のみ)_ をクリックしてください。
+このオプションは、複数のボードからトピックが選択されている場合に利用できます。レポートの作成について詳しくは、[こちら](https://support.catenda.com/ja/articles/13973721-レポート作成アクション) _(レポートエディターをご利用のお客様向け)_ をクリックしてください。
 
 ### 2.4 **フォロー**
 
@@ -12199,7 +12217,7 @@ Zip の準備が完了すると、Zip ダウンロードの準備ができたと
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-レポートアクションの詳細は[こちら](https://support.catenda.com/ja/articles/13973721-レポート作成アクション)をクリックしてご確認ください_(レポートエディターのお客様のみ)_。_必要なアクセス権:_ ドキュメントへの読み取りアクセス
+[こちら](https://support.catenda.com/ja/articles/13973721-レポート作成アクション)をクリックすると、レポート機能の詳細を確認できます _(レポートエディターをご利用のお客様向け)_。_必要なアクセス権:_ ドキュメントへの読み取りアクセス
 
 ### 2.5 **公開**
 
@@ -13029,7 +13047,7 @@ Catendaのテーブルの操作方法については、[ここ](https://support.
 
 ドキュメントページの選択した項目のアクションについて詳しくは、[ここ](https://support.catenda.com/ja/articles/4670288-ドキュメント-テーブル-アクション)をクリックしてください。
 
-レポートページが有効になっているプロジェクトでは、ドキュメントのみが選択されている場合、選択項目アクションメニューにもう1つのオプション「**レポートを作成**」が表示されます。詳細については、[レポートを作成アクション](https://support.catenda.com/ja/articles/13973721-レポート作成アクション)を参照してください _(レポートエディタ顧客のみ)_。
+レポートページが有効になっているプロジェクトでは、ドキュメントのみを選択した場合に、選択項目のアクションメニューにオプションがもう一つ追加されます：**レポートを作成**。詳細は[レポート作成アクション](https://support.catenda.com/ja/articles/13973721-レポート作成アクション)をご覧ください _(レポートエディターのお客様向け)_。
 
 ### 4.2 **行のコンテンツ**
 
@@ -17115,6 +17133,8 @@ _チェックボックス_ - リンクを選択できるようにしてから、
 
 > Catenda Hubはプロジェクトのトピック、ドキュメント、承認からレポートを作成します。レポートエディタを使用すると、プロジェクトが独自のレポートテンプレートを持つことができます。
 
+> **注:** この記事はサインアウトした読者向けです。このトピックの三つのレベルすべてへのリンクは、この記事の末尾にあります。
+
 [レポートページ](https://support.catenda.com/ja/articles/12303098-レポートページ)では、Catenda Hubはプロジェクトのトピック、ドキュメント、承認リクエストからレポートを作成し、ドキュメントとして保存および共有する準備ができています。すべてのレポートはレポートテンプレートから構築され、レポートの見た目とどのプロジェクト情報を表示するかを決定します。レポートテンプレートが設計されるレポートエディタは、それが必要なプロジェクトに対してリクエストできます。
 
 ## 1. **概要**
@@ -17125,7 +17145,7 @@ _チェックボックス_ - リンクを選択できるようにしてから、
 
 レポートエディタはCatenda Hubのプロジェクトと連携します。使用するには、最初のプロジェクトで始めるためにCatendaセールスに連絡してください: [https://catenda.com/get-started](https://catenda.com/get-started)または[sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:**Catendaのお客様にはさらに多くの機能が提供されています。[https://hub.catenda.com](https://hub.catenda.com)でCatendaにサインインし、ヘルプセンターのページを開くか再度読み込んでください。ヘルプセンターはサインイン済みのお客様に対して、[レポートエディタの概要](https://support.catenda.com/ja/articles/17778684-レポートエディタの概要)から始まる詳細情報を表示します_(サインイン済みのお客様のみ)_。
+> **注:** レポートエディターは三つのレベルで説明されています。概要: この記事(サインアウトした読者向け)。[はじめに](https://support.catenda.com/ja/articles/17778684) _(レポートエディターを調べているサインイン済みのお客様向け)_: その目的について。[詳細](https://support.catenda.com/ja/articles/17778656) _(レポートエディターのお客様向け)_: 設定方法と使用方法。はじめにを開くには、[https://hub.catenda.com](https://hub.catenda.com) でCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。
 
 # レポートテンプレートページ
 
@@ -17204,7 +17224,7 @@ _作成者_ - _デフォルト_ レポートテンプレートの作成者
 > **注1:** レポートページはオプトイン機能であり、進行中のプロジェクトに対して有効にするようリクエストできます。
 > **注2:** この機能が有効になっているテンプレートプロジェクトに基づいて作成された新しいプロジェクトには、この機能は有効になっていません。
 
-レポートページはナビゲーションメニューの6番目の項目にあります。このページはコンテンツパネルの一部です。レポートページを使用すると、[レポートエディター](https://support.catenda.com/ja/articles/17778656-レポートエディター) _(レポートエディターのお客様のみ)_ でテンプレートレポートを作成できます。トピックとドキュメント用に個別のテンプレートを作成できます。プロジェクトでテンプレートが利用可能な場合、選択したトピックとドキュメントでレポートアクションを使用して、選択したテンプレートに基づいてレポートを生成できます。
+レポートページは、ナビゲーションメニューの六番目の項目にあります。このページはコンテンツパネルの一部です。レポートページのテンプレートを使用して、[レポートエディター](https://support.catenda.com/ja/articles/17778656-レポートエディター) _(レポートエディターのお客様向け)_ でレポートを作成できます。トピックとドキュメントには、それぞれ別のテンプレートを作成できます。プロジェクトでテンプレートが利用可能な場合、選択したトピックとドキュメントに対してレポートアクションを使用し、選択したテンプレートに基づいてレポートを生成できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
@@ -17869,7 +17889,7 @@ _必須アクセス権:_ 設定されたワークフローの送信チームの�
 
 ![承認ページの選択されたアイテムアクションメニュー（承認リクエストが選択され、レポート作成）](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**レポート作成**承認テンプレートに基づいて、選択された承認リクエストのレポートを作成します。詳細については、[レポート作成アクション](https://support.catenda.com/ja/articles/13973721-レポート作成アクション)で参照してください。_(レポートエディターのお客様のみ)_。
+**レポートを作成** 選択した承認リクエストに基づき、承認テンプレートからレポートを作成します。詳細は[「レポートを作成」アクション](https://support.catenda.com/ja/articles/13973721-レポート作成アクション)をご覧ください。 _(レポートエディターのお客様向け)_。
 
 ## 5. **ドキュメント改訂リスト**
 
@@ -22949,6 +22969,8 @@ Catenda Hubでワークフローを最適化するために使用できるいく
 
 > Catenda Data Exportは、Catenda Hubプロジェクトのデータを組織独自のクラウドストレージに自動的にコピーします。
 
+> **注:** この記事はサインアウトしている読者向けです。このトピックの三つのレベルすべてへのリンクは、この記事の末尾にあります。
+
 Catenda Hubにはプロジェクトデータをダウンロードするいくつかの方法があり、[すべてのプロジェクトデータをエクスポート](https://support.catenda.com/ja/articles/7946690-すべてのプロジェクトデータをエクスポートする)に説明されています。Catenda Data Exportは自動化されたものです。プロジェクトデータを組織独自のクラウドストレージ、Amazon S3またはAzure Blob storageに直接コピーします。これはCatenda Hubとは別に販売されています。
 
 ## 1. **概要**
@@ -22971,7 +22993,7 @@ Catenda Data Exportは、Catenda Hubでプロジェクトを所有する組織�
 
 使用するには、最初のプロジェクトを開始するためにCatendaセールスに問い合わせてください: [https://catenda.com/get-started](https://catenda.com/get-started) または [sales@catenda.com](mailto:sales@catenda.com)。
 
-> **注:** Catendaカスタマーはさらに利用できます。[https://hub.catenda.com](https://hub.catenda.com)でCatendaにサインインしてから、ヘルプセンターのページを開くか再度読み込んでください。ヘルプセンターは、サインイン済みのカスタマーに対してさらに表示され、[Catenda Data Exportの概要](https://support.catenda.com/ja/articles/17779027-catenda-data-export-の紹介)から始まります _(サインイン済みのカスタマーのみ)_。
+> **注:** Catenda Data Exportは三つのレベルで説明されています。概要: この記事(サインアウトしている読者向け)。[はじめに](https://support.catenda.com/ja/articles/17779027) _(Data Exportを確認しているサインイン済みのお客様向け)_: 用途について説明します。[詳細](https://support.catenda.com/ja/articles/17779052) _(Data Exportのお客様向け)_: 設定方法と使用方法について説明します。はじめにを開くには、[https://hub.catenda.com](https://hub.catenda.com)でCatendaにサインインし、ヘルプセンターのページを開くか再読み込みしてください。
 
 # Catenda Desktop Connector FAQ
 
@@ -23678,11 +23700,11 @@ Catenda内のすべてのモデルはドキュメントセクション内のド�
 
 トピックデータは、情報がどのように表示、分析、または保存されるかに応じて、[トピックの交換](https://support.catenda.com/ja/articles/4670289-トピックの交換)を介して3つの主要フォーマットを使用して抽出できます：
 
-**BCF (BIM Collaboration Format)**トピック作成タイムスタンプを含め、公式BCF仕様に厳格に準拠するトピック情報をキャプチャおよび転送するために設計されたオープンスタンダード。このフォーマットは、幅広いクロスプラットフォーム相互運用性を保証し、他のBCF互換ソフトウェアでシームレスにトピックデータを再度開く、編集、または交換するのに理想的です。直接ファイルプレビューが必要な一般的な長期ドキュメントリポジトリの場合、通常PDFまたはExcelフォーマットが推奨されます。
+**BCF (BIM Collaboration Format)** トピック作成タイムスタンプを含め、公式BCF仕様に厳格に準拠するトピック情報をキャプチャおよび転送するために設計されたオープンスタンダード。このフォーマットは、幅広いクロスプラットフォーム相互運用性を保証し、他のBCF互換ソフトウェアでシームレスにトピックデータを再度開く、編集、または交換するのに理想的です。直接ファイルプレビューが必要な一般的な長期ドキュメントリポジトリの場合、通常PDFまたはExcelフォーマットが推奨されます。
 
-**Excel**トピックパラメータをスプレッドシートフォーマットにエクスポートして、フィルタリング、ソート、およびデータ操作を行います。このフォーマットは、データの選定およびコピーに理想的な構造化された行と列を提供し、Excelファイルはほとんどのアーカイブプラットフォーム内で簡単にプレビューできます。アーカイブ目的では、より多くの情報が含まれているため、一般的にPDFエクスポートがExcelより推奨されます。
+**Excel** トピックパラメータをスプレッドシートフォーマットにエクスポートして、フィルタリング、ソート、およびデータ操作を行います。このフォーマットは、データの選定およびコピーに理想的な構造化された行と列を提供し、Excelファイルはほとんどのアーカイブプラットフォーム内で簡単にプレビューできます。アーカイブ目的では、より多くの情報が含まれているため、一般的にPDFエクスポートがExcelより推奨されます。
 
-**PDF**標準PDFフォーマット(v1.4)で、専門的なソフトウェアなしでアクセス可能なクリーンで読みやすいサマリーレポートを生成します([トピックをPDFにエクスポート](https://support.catenda.com/ja/articles/9784934-トピックをpdfにエクスポート)を参照)。標準PDFエクスポートには、公式機関への報告とアーカイブのための統合ダウンロードタイムスタンプが含まれ、Excelエクスポートより多くの情報を提供します。基本エクスポートは標準PDF(v1.4)ファイルを生成しますが、多くのアーカイブシステムはアップロード時にPDF/Aに自動変換して長期プレビューを可能にします。オプトインの[レポートページ](https://support.catenda.com/ja/articles/12303098-レポートページ)を有効にしたプロジェクトは、[レポートでプロジェクトデータをエクスポート](https://support.catenda.com/ja/articles/17779017-レポートでプロジェクトデータをエクスポート)で説明されているようにアーカイブ形式でトピックをエクスポートすることもできます_(レポートエディタ顧客のみ)_。
+**PDF** 専用ソフトウェアがなくても閲覧できる、標準のPDF形式（v1.4）の見やすい概要レポートを生成します（[トピックをPDFにエクスポートする](https://support.catenda.com/ja/articles/9784934-トピックをpdfにエクスポート)を参照）。標準のPDFエクスポートには、正式な当局への報告やアーカイブに使用できる統合されたダウンロードタイムスタンプが含まれ、Excelエクスポートより多くの情報を提供します。基本のエクスポートでは標準PDF（v1.4）ファイルが生成されますが、多くのアーカイブシステムはアップロード時に長期プレビュー用にPDF/Aへ自動変換します。オプトインの[レポートページ](https://support.catenda.com/ja/articles/12303098-レポートページ)が有効なプロジェクトでは、[レポートでプロジェクトデータをエクスポートする](https://support.catenda.com/ja/articles/17779017-レポートでプロジェクトデータをエクスポート)に記載されているとおり、トピックをアーカイブ形式でもエクスポートできます _(レポートエディターのお客様向け)_。
 
 ### 2.3 **ドキュメントおよびコレクションのエクスポート**
 
@@ -23738,13 +23760,13 @@ Catenda内のすべてのモデルはドキュメントセクション内のド�
 
 [レポートページ](https://support.catenda.com/ja/articles/12303098-レポートページ)はオプトイン機能で、進行中のプロジェクトでリクエストできます。有効にされたプロジェクトは、ドキュメントとトピックデータを書式付きレポートとしてエクスポートすることもでき、長期アーカイブ用の形式を含みます。
 
-**テンプレートベースの管理**有効にすると、プロジェクト管理者は[レポートテンプレートページ](https://support.catenda.com/ja/articles/12380837-レポートテンプレートページ)を使用して独自のレポートテンプレートを設定し、選択されたドキュメントまたはトピックの書式付きエクスポートを生成します。
+**テンプレートベースの管理** 有効にすると、プロジェクト管理者は[レポートテンプレートページ](https://support.catenda.com/ja/articles/12380837-レポートテンプレートページ)を使用して独自のレポートテンプレートを設定し、選択されたドキュメントまたはトピックの書式付きエクスポートを生成します。
 
-エクスポート可能な内容と対応するファイル形式については、[レポートでプロジェクトデータをエクスポート](https://support.catenda.com/ja/articles/17779017-レポートでプロジェクトデータをエクスポート)で説明されています_(レポートエディタ顧客のみ)_。
+エクスポート可能な内容およびファイル形式については、[レポートでプロジェクトデータをエクスポートする](https://support.catenda.com/ja/articles/17779017-レポートでプロジェクトデータをエクスポート) _(レポートエディターのお客様向け)_をご覧ください。
 
 ## 3. **Catenda Data Export**
 
-Catenda Data Export は Catenda Hub とは別途販売されるサービスです。上記のダウンロード方法とは異なり、プロジェクトデータを Catenda Hub から組織独自の Amazon S3 または Azure Blob storage のクラウドストレージへ自動的にコピーします。プロジェクトと同期して最新の状態を保つバックアップや、組織独自のストレージで管理するプロジェクト記録が必要な組織に適しています。プロジェクトオーナーだけを対象としたものではありません。プロジェクトオーナーはプロジェクトの完全なバックアップをエクスポートでき、プロジェクト参加者は参加しているプロジェクトのうち自身がアクセスできるデータをエクスポートできます。詳細は [About Catenda Data Export](https://support.catenda.com/ja/articles/17779020-catenda-data-exportについて) _(サインインしていない方向け)_ および [Introduction to Catenda Data Export](https://support.catenda.com/ja/articles/17779027-catenda-data-export-の紹介) _(サインイン済みのお客様のみ)_ をご覧ください。このサービスをご利用のお客様は、[Catenda Data Export](https://support.catenda.com/ja/articles/17779052-catenda-data-export) _(Data Export のお客様のみ)_ でセットアップ手順を確認できます。
+Catenda Data Exportは、Catenda Hubとは別に販売されています。上記のダウンロードとは異なり、Catenda Hubから組織自身のAmazon S3またはAzure Blob storageのクラウドストレージへ、プロジェクトデータを自動的にコピーします。プロジェクトの進行に合わせて常に最新の状態を保つバックアップや、組織独自のストレージでのプロジェクト記録の保管に適しています。プロジェクトオーナーだけのものではありません。プロジェクトオーナーはプロジェクトの完全バックアップをエクスポートでき、プロジェクト参加者は参加しているプロジェクトの中で自身がアクセスできるデータをエクスポートできます。詳細は、[Catenda Data Exportについて](https://support.catenda.com/ja/articles/17779020-catenda-data-exportについて) _(サインアウト中の閲覧者向け)_および[Catenda Data Exportの紹介](https://support.catenda.com/ja/articles/17779027-catenda-data-export-の紹介) _(Data Exportを検討中のサインイン済みのお客様向け)_をご覧ください。Data Exportをご利用のお客様は、[Catenda Data Export](https://support.catenda.com/ja/articles/17779052-catenda-data-export) _(Data Exportのお客様向け)_でセットアップ方法を確認できます。
 
 # どのmodelにオブジェクトが属しているかを見つけるには？
 
@@ -25491,24 +25513,24 @@ _[Navisworksプラグイン](https://support.catenda.com/ja/articles/5085987-cat
 **アカウント管理**
 
 - 組織
-    - [組織構成](https://support.catenda.com/ja/articles/13653794-組織設定)
-    - [組織タイプ](https://support.catenda.com/ja/articles/13653807-組織タイプ)
-    - [組織とプロジェクトのセットアップ](https://support.catenda.com/ja/articles/13653804-組織とプロジェクトのセットアップ)
+  - [組織構成](https://support.catenda.com/ja/articles/13653794-組織設定)
+  - [組織タイプ](https://support.catenda.com/ja/articles/13653807-組織タイプ)
+  - [組織とプロジェクトのセットアップ](https://support.catenda.com/ja/articles/13653804-組織とプロジェクトのセットアップ)
 
 **製品の機能**
 
 - トピック
-    - [トピックテンプレート設定ページ](https://support.catenda.com/ja/articles/14076010-トピックテンプレート設定ページ)
+  - [トピックテンプレート設定ページ](https://support.catenda.com/ja/articles/14076010-トピックテンプレート設定ページ)
 - トピックテンプレート
-    - [トピック作成時に一般的なトピックテンプレートを適用する](https://support.catenda.com/ja/articles/14075921-トピックリストでトピックテンプレートを使用する)
-    - [ドキュメントからマークアップを作成する際にドキュメントトピックテンプレートを適用する](https://support.catenda.com/ja/articles/14078352-マークアップトピックを保存する際のトピックテンプレートの使用)
-    - [承認ワークフローテンプレートに承認トピックテンプレートを適用する](https://support.catenda.com/ja/articles/14078683-トピックテンプレートを承認で使用する)
+  - [トピック作成時に一般的なトピックテンプレートを適用する](https://support.catenda.com/ja/articles/14075921-トピックリストでトピックテンプレートを使用する)
+  - [ドキュメントからマークアップを作成する際にドキュメントトピックテンプレートを適用する](https://support.catenda.com/ja/articles/14078352-マークアップトピックを保存する際のトピックテンプレートの使用)
+  - [承認ワークフローテンプレートに承認トピックテンプレートを適用する](https://support.catenda.com/ja/articles/14078683-トピックテンプレートを承認で使用する)
 - クロスカテゴリー
-    - [レポートアクション作成](https://support.catenda.com/ja/articles/13973721-レポート作成アクション) _(レポートエディターのお客様のみ)_
-    - [リンクコピーアクション](https://support.catenda.com/ja/articles/14323982-リンクコピーアクション)
+  - [レポート作成アクション](https://support.catenda.com/ja/articles/13973721-レポート作成アクション) _(レポートエディターのお客様向け)_
+  - [リンクコピーアクション](https://support.catenda.com/ja/articles/14323982-リンクコピーアクション)
 - Catendaプラグインと統合
-    - [Catenda Revitプラグイン チェンジログ - 1.0.15](https://support.catenda.com/ja/articles/13449051-catenda-revitプラグイン変更ログ-1-0-15)
-    - [Catenda Archicadプラグイン チェンジログ - 1.0.1.17](https://support.catenda.com/ja/articles/13449075-catenda-archicad-プラグイン変更履歴-1-0-1-17)
+  - [Catenda Revitプラグイン チェンジログ - 1.0.15](https://support.catenda.com/ja/articles/13449051-catenda-revitプラグイン変更ログ-1-0-15)
+  - [Catenda Archicadプラグイン チェンジログ - 1.0.1.17](https://support.catenda.com/ja/articles/13449075-catenda-archicad-プラグイン変更履歴-1-0-1-17)
 
 **トラブルシューティング**
 
@@ -25523,9 +25545,9 @@ _[Navisworksプラグイン](https://support.catenda.com/ja/articles/5085987-cat
 **よくある質問**
 
 - トピックFAQ
-    - [トピックの2D位置 - Catendaサイト](https://support.catenda.com/ja/articles/13616245-2dトピック位置-catenda-site)
+  - [トピックの2D位置 - Catendaサイト](https://support.catenda.com/ja/articles/13616245-2dトピック位置-catenda-site)
 - プロジェクトFAQ
-    - [カスタムフィールドFAQ](https://support.catenda.com/ja/articles/11384331-カスタムフィールドfaq)
+  - [カスタムフィールドFAQ](https://support.catenda.com/ja/articles/11384331-カスタムフィールドfaq)
 
 ### 1.2 **変更された記事:**
 
@@ -27042,7 +27064,7 @@ PDF 図面をモデルとともに [3D ビューア](https://support.catenda.com
 
 ### 2.3 **Catenda AI Connect**
 
-Catenda AI Connect が更新され、変更は [Catenda AI Connect チェンジログ](https://support.catenda.com/ja/articles/17778717-catenda-ai-connect-チェンジログ) に記載されています _(AI Connect 顧客のみ)_。
+Catenda AI Connectが更新されました。変更内容は[Catenda AI Connect変更履歴](https://support.catenda.com/ja/articles/17778717-catenda-ai-connect-チェンジログ) _(AI Connectのお客様向け)_ に記載されています。
 
 ### 2.4 **3D ビューア**
 
@@ -27070,15 +27092,15 @@ Catenda AI Connect が更新され、変更は [Catenda AI Connect チェンジ�
 
 ### 3.2 **レポートエディター**
 
-プロジェクトメンバーがテーブルからトピックまたはドキュメントを選択し、レポートアクションを使用してレポートを生成できるように、トピックとドキュメント用のレポートテンプレートを作成します。レポートページはオンデマンド機能で、進行中のプロジェクトに対して有効化することをリクエストできます。この機能が有効になっているテンプレートプロジェクトに基づいて作成された新しいプロジェクトには、この機能は有効になっていません。トピックとドキュメント用に個別のテンプレートを作成できます。[レポート作成アクション](https://support.catenda.com/ja/articles/13973721-レポート作成アクション)を使用して、承認からもレポートを作成できます _(レポートエディターの顧客のみ)_。プロジェクトでテンプレートが利用可能な場合、レポートアクションを選択されたトピックとドキュメントで使用して、選択したテンプレートに基づいてレポートを生成できます。ページにさまざまな値を表示する方法に関するサポートは、Catenda によって提供されます。会社に合わせてカスタマイズされたカスタムレポートが必要な場合、これを支援するコンサルタントとの連絡をとることができます。トピック、ドキュメント、承認のサンプルレポートが[既製レポートテンプレート](https://support.catenda.com/ja/articles/17778911-既製のレポートテンプレート)で利用できるようになりました _(レポートエディターの顧客のみ)_。レポートエディターの動作方法は、[レポートエディター](https://support.catenda.com/ja/articles/17778656-レポートエディター)で説明されています _(レポートエディターの顧客のみ)_。
+トピックとドキュメントのレポートテンプレートを作成すると、プロジェクトメンバーはテーブルからトピックまたはドキュメントを選択し、レポートアクションを使用してレポートを生成できます。レポートページは、進行中のプロジェクトで有効化をリクエストできるオンデマンド機能です。この機能が有効になっているテンプレートプロジェクトをもとに作成された新規プロジェクトでは、この機能は有効になっていません。トピックとドキュメントには、それぞれ別々のテンプレートを作成できます。承認からも、[レポート作成アクション](https://support.catenda.com/ja/articles/13973721-レポート作成アクション) _(レポートエディターのお客様向け)_ を使用してレポートを作成できます。プロジェクトでテンプレートが利用可能な場合、選択したトピックやドキュメントに対してレポートアクションを使用し、選択したテンプレートに基づいてレポートを生成できます。ページ上で異なる値をどのように表示するかについては、Catendaがサポートを提供しています。会社向けにカスタマイズしたレポートが必要な場合は、コンサルタントをご紹介し、支援を受けられるようにいたします。トピック、ドキュメント、承認のサンプルレポートが、[既製のレポートテンプレート](https://support.catenda.com/ja/articles/17778911-既製のレポートテンプレート) _(レポートエディターのお客様向け)_ で利用可能になりました。レポートエディターの仕組みについては、[レポートエディター](https://support.catenda.com/ja/articles/17778656-レポートエディター) _(レポートエディターのお客様向け)_ をご覧ください。
 
 ### 3.3 **Catenda for Power BI（オンデマンド）**
 
-Catenda for Power BI のオンデマンド版が利用可能になりました。他のオンデマンド機能と同じ方法でリクエストできます。その詳細は、[Catenda for Power BI（オンデマンド）の紹介](https://support.catenda.com/ja/articles/17778865-catenda-for-power-bi-on-demand-の紹介)で説明されています _(ログイン済み顧客のみ)_。設定方法は、[Catenda for Power BI（オンデマンド）](https://support.catenda.com/ja/articles/17778868-catenda-for-power-bi-オンデマンド)で説明されています _(リクエストに応じのみ)_。
+Catenda for Power BIのオンデマンド版が利用可能になりました。他のオンデマンド機能と同じ方法でリクエストできます。その目的については、[Catenda for Power BI (オンデマンド)の紹介](https://support.catenda.com/ja/articles/17778865-catenda-for-power-bi-on-demand-の紹介) _(Power BI オンデマンドを検討中のサインイン済みのお客様向け)_ に記載されています。セットアップ方法については、[Catenda for Power BI (オンデマンド)](https://support.catenda.com/ja/articles/17778868-catenda-for-power-bi-オンデマンド) _(Power BI オンデマンドをご利用の企業向け)_ に記載されています。
 
 ### 3.4 **Catenda Desktop Connector for System Images（オンデマンド）**
 
-Catenda Desktop Connector for System Images のオンデマンド版が利用可能になりました。他のオンデマンド機能と同じ方法でリクエストできます。その詳細は、[Catenda Desktop Connector for System Images の紹介](https://support.catenda.com/ja/articles/17778688-catenda-desktop-connector-for-system-images-の概要)で説明されています _(ログイン済み顧客のみ)_。設定方法は、[Catenda Desktop Connector for System Images（オンデマンド）](https://support.catenda.com/ja/articles/17778690-システムイメージ用-catenda-desktop-connector-オンデマンド)で説明されています _(リクエストに応じのみ)_。
+Catenda Desktop Connector for System Imagesのオンデマンド版が利用可能になりました。他のオンデマンド機能と同じ方法でリクエストできます。その目的については、[Catenda Desktop Connector for System Imagesの紹介](https://support.catenda.com/ja/articles/17778688-catenda-desktop-connector-for-system-images-の概要) _(システムイメージパッケージを検討中のサインイン済みのお客様向け)_ に記載されています。セットアップ方法については、[Catenda Desktop Connector for System Images (オンデマンド)](https://support.catenda.com/ja/articles/17778690-システムイメージ用-catenda-desktop-connector-オンデマンド) _(システムイメージパッケージを提供されたユーザー向け)_ に記載されています。
 
 ## 4. **コクリエーションプログラム**
 

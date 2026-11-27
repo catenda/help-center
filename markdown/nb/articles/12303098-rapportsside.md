@@ -3,7 +3,7 @@
 > **Merknad 1:** Rapportsiden er en opt-in-funksjon som kan aktiveres for pågående prosjekter.
 > **Merknad 2:** Nye prosjekter som er opprettet basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
 
-Rapportsiden kan finnes som sjette element i navigasjonsmenyen. Denne siden er del av innholdspanelet. Med rapportssidmalen kan rapporter opprettes i en [rapportredaktør](https://support.catenda.com/nb/articles/17778656-rapportredigerer) _(kun for rapportredaktørkunder)_. Separate maler kan opprettes for Saker og Dokumenter. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen brukes med valgte Saker og Dokumenter for å generere en rapport basert på den valgte malen.
+Rapportsiden finnes som det sjette elementet i navigasjonsmenyen. Denne siden er en del av innholdspanelet. Med rapportsidemalen kan rapporter opprettes i en [rapporteditor](https://support.catenda.com/nb/articles/17778656-rapportredigerer) _(for kunder med rapporteditor)_. Separate maler kan opprettes for saker og dokumenter. Når en mal er tilgjengelig i et prosjekt, kan rapporthandlingen brukes med valgte saker og dokumenter for å generere en rapport basert på den valgte malen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 

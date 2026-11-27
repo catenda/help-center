@@ -4278,7 +4278,7 @@ Das Reporting-Tool kann auf Projektbasis aktiviert werden. Mit der Aktion "Beric
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Diese Option ist verfügbar, wenn Themen aus mehreren Boards ausgewählt werden. Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Report-Editor-Kunden)_, um mehr über die Erstellung von Berichten zu erfahren.
+Diese Option ist verfügbar, wenn Themen aus mehreren Boards ausgewählt sind. Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden des Report-Editors)_, um mehr über das Erstellen von Berichten zu erfahren.
 
 ### 2.4 **Folgen**
 
@@ -4854,7 +4854,7 @@ Diese Matrix bestimmt den Zugriff für den Ersteller oder Uploader eines Element
 > **Hinweis 1:** Die Berichtseite ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann.
 > **Hinweis 2:** Neue Projekte, die auf einem Vorlagenprojekt basieren, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
 
-Die Berichtsseite finden Sie als sechstes Element im Navigationsmenü. Diese Seite ist Teil des Inhaltsbereichs. Mit der Berichtsseite können Vorlagenberichte in einem [Report-Editor](https://support.catenda.com/de/articles/17778656-berichts-editor) erstellt werden _(nur für Report-Editor-Kunden)_. Separate Vorlagen können für Themen und Dokumente erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht basierend auf der ausgewählten Vorlage zu generieren.
+Die Berichtsseite ist das sechste Element im Navigationsmenü. Diese Seite ist Teil des Inhaltsbereichs. Mit der Vorlage für die Berichtsseite können Berichte in einem [Berichtseditor](https://support.catenda.com/de/articles/17778656-berichts-editor) _(für Kunden des Berichtseditors)_ erstellt werden. Separate Vorlagen können für Themen und Dokumente erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht auf Basis der ausgewählten Vorlage zu erzeugen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
@@ -4996,6 +4996,8 @@ Wenn Sie unten in der Liste auf "Archivierte anzeigen" klicken, können Sie arch
 
 > **Wichtig:** Catenda AI Connect befindet sich in der Early-Access-Phase. Funktionen und Einrichtungsschritte ändern sich häufig, daher kann das, was auf dem Bildschirm angezeigt wird, von diesem Artikel abweichen.
 
+> **Hinweis:** Dieser Artikel richtet sich an nicht angemeldete Leser. Die Links zu allen drei Ebenen der Themen befinden sich am Ende dieses Artikels.
+
 Catenda AI Connect erreicht nur das, was jeder Benutzer bereits in Catenda Hub öffnen kann, und agiert als dieser Benutzer.
 
 ## 1. **Wer kann es in einem Projekt verwenden**
@@ -5020,7 +5022,7 @@ Die KI-App der Organisation hat eigene Admin-Einstellungen. Sie bestimmen, welch
 
 Um mit der Verwendung von Catenda AI Connect zu beginnen oder um andere Arrangements zu besprechen, wenden Sie sich an den Catenda-Vertrieb: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Mehr ist für Catenda-Kunden verfügbar. Melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an, öffnen oder laden Sie dann eine Seite des Hilfecenters neu. Das Hilfecenter zeigt dann mehr für angemeldete Kunden an, beginnend mit [Zugriff auf Projekte mit Catenda AI Connect](https://support.catenda.com/de/articles/17778906-zugriff-auf-projekte-mit-catenda-ai-connect) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Der Projektzugriff mit Catenda AI Connect wird auf drei Ebenen beschrieben. Info: dieser Artikel für nicht angemeldete Leser. [Einführung](https://support.catenda.com/de/articles/17778906) _(für angemeldete Kunden, die AI Connect erkunden)_: wofür es gedacht ist. [Details](https://support.catenda.com/de/articles/17778731) _(für AI-Connect-Kunden)_: wie es eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Help Centers neu.
 
 # Catenda Archicad Plugin
 
@@ -7013,7 +7015,7 @@ Nach der Auswahl einer Elementzeile werden ausgewählte Elementaktionen oben in 
 
 Klicken Sie [hier](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen), um mehr über die ausgewählten Elementaktionen auf der Dokumentenseite zu erfahren.
 
-Bei Projekten mit aktivierter Berichtsseite hat das Menü für ausgewählte Elementaktionen eine weitere Option, wenn nur Dokumente ausgewählt sind: **Bericht erstellen**. Weitere Informationen finden Sie unter [Bericht erstellen-Aktion](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Bericht-Editor-Kunden)_.
+Bei Projekten mit aktivierter Berichtsseite enthält das Menü für ausgewählte Elementaktionen eine zusätzliche Option, wenn nur **Dokumente** ausgewählt sind: **Bericht erstellen**. Weitere Informationen finden Sie unter [Aktion Bericht erstellen](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden mit Berichtseditor)_.
 
 ### 4.2 **Zeileninhalt**
 
@@ -7333,7 +7335,7 @@ Mit der Berichtsaktion können Sie einen Bericht über Ihre ausgewählten Dokume
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Report-Editor)_, um mehr über die Berichtsaktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
+Klicken Sie [hier](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden des Report-Editors)_, um mehr über die Report-Aktion zu erfahren. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument
 
 ### 2.5 **Veröffentlichen**
 
@@ -10709,7 +10711,7 @@ Wenn Sie eine oder mehrere Genehmigungsanfragen in der Genehmigungsliste auswäh
 
 ![Das Menü für ausgewählte Elemente auf der Seite Freigaben, mit einer ausgewählten Freigabeanfrage und „Bericht erstellen“](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Bericht erstellen** Erstellt einen Bericht der ausgewählten Freigabeanfragen auf Grundlage einer Freigabevorlage. Weitere Informationen dazu finden Sie unter [Aktion „Bericht erstellen“](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Berichtseditor)_.
+**Bericht erstellen** Erstellt einen Bericht der ausgewählten Freigabeanfragen auf Grundlage einer Freigabevorlage. Weitere Informationen finden Sie unter [Aktion „Bericht erstellen“](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden mit Berichtseditor)_.
 
 ## 5. **Dokumentrevisionsliste**
 
@@ -16614,7 +16616,7 @@ Die Aktionen auf der Seite Berichtvorlagen können Sie finden, indem Sie oben re
 
 ![Das Aktionsmenü der Berichtsvorlagenseite mit Neue Themenvorlage, Neue Dokumentvorlage und Neue Genehmigungsvorlage](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Diese Aktionen erstellen eine völlig neue Vorlage, beginnend mit einer leeren Seite. Es wird empfohlen, stattdessen mit einer der vorgefertigten Berichtvorlagen zu beginnen und diese an das Projekt anzupassen. Sie können von [Vorgefertigte Berichtvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) heruntergeladen werden _(nur für Berichteditor-Kunden)_.
+Diese Aktionen erstellen eine völlig neue Vorlage, ausgehend von einer leeren Seite. Es wird empfohlen, stattdessen von einer der fertigen Berichtsvorlagen auszugehen und sie an das Projekt anzupassen. Sie können über [Fertige Berichtsvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) _(für Kunden des Berichtseditors)_ heruntergeladen werden.
 
 ### 1.1 **Neue Themenvorlage**
 
@@ -20731,6 +20733,8 @@ Auf der Einstellungsseite können Sie den Namen des Projekts ändern, wenn Sie A
 
 > **Wichtig:** Catenda AI Connect befindet sich in der Early-Access-Phase. Funktionen und Einrichtungsschritte ändern sich häufig, daher kann das, was auf dem Bildschirm erscheint, von diesem Artikel abweichen.
 
+> **Hinweis:** Dieser Artikel richtet sich an nicht angemeldete Leser. Links zu allen drei Ebenen dieses Themas finden sich am Ende dieses Artikels.
+
 Der Gewinn bei einem Bauprojekt liegt irgendwo zwischen dem, was vereinbart wurde, dem, was geplant wurde, dem, was gebaut wurde, und dem, was gesagt und geschrieben wurde. Um diese Punkte aufeinander abzustimmen, sind Überprüfungsbesprechungen, Lieferprüfungen und das Durchforsten von Kommentaren und alten E-Mail-Threads erforderlich.
 
 Dieses Produkt verbindet die KI, die eine Organisation bereits nutzt und vertraut, direkt mit den Modellen, Dokumenten und Themen in Catenda Hub. Fragen zu einem Projekt werden in natürlicher Sprache gestellt und aus den Live-Projektdaten beantwortet, bereit zum Erstellen von Berichten und Nachweisen. Wo die Organisation ihrer KI-App erlaubt, Änderungen vorzunehmen, werden die Erkenntnisse auch zu Themen in Catenda Hub.
@@ -20789,13 +20793,15 @@ Catenda AI Connect ist nicht nur für Organisationen, die Projekte in Catenda Hu
 
 Um mit der Verwendung von Catenda AI Connect zu beginnen, wenden Sie sich an den Catenda-Vertrieb: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Für Catenda-Kunden ist mehr verfügbar. Melden Sie sich bei Catenda unter [https://hub.catenda.com](https://hub.catenda.com) an und öffnen oder laden Sie dann eine Seite des Help Centers neu. Das Help Center zeigt dann mehr für angemeldete Kunden an, beginnend mit [Einführung in Catenda AI Connect](https://support.catenda.com/de/articles/17778901-einfuhrung-in-catenda-ai-connect) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Catenda AI Connect wird auf drei Ebenen beschrieben. Über: dieser Artikel für nicht angemeldete Leser. [Einführung](https://support.catenda.com/de/articles/17778901) _(für angemeldete Kunden, die AI Connect erkunden)_: wofür es gedacht ist. [Details](https://support.catenda.com/de/articles/17778710) _(für AI-Connect-Kunden)_: wie es eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Help Centers neu.
 
 # Über Catenda AI Connect für ChatGPT
 
 > Catenda AI Connect bringt Projektdaten aus Catenda Hub in ChatGPT. Hier erfahren Sie, wofür Teams es verwenden, was eine Organisation vor dem Start prüft und wie Sie loslegen.
 
 > **Wichtig:** Catenda AI Connect befindet sich im Early Access. Funktionen und Einrichtungsschritte ändern sich häufig, daher kann das, was auf dem Bildschirm erscheint, von diesem Artikel abweichen.
+
+> **Hinweis:** Dieser Artikel richtet sich an nicht angemeldete Leser. Links zu allen drei Ebenen dieses Themas finden Sie am Ende dieses Artikels.
 
 Catenda AI Connect verbindet ChatGPT mit den models, Dokumenten und Themen in Catenda Hub. Fragen zu einem Projekt werden in ChatGPT in einfacher Sprache gestellt und anhand der aktuellen Projektdaten beantwortet. Wenn die Organisation ChatGPT Änderungen erlaubt, werden die Ergebnisse außerdem zu Themen in Catenda Hub.
 
@@ -20875,13 +20881,15 @@ Catenda AI Connect ist nicht nur für Organisationen gedacht, die Projekte in Ca
 
 Um Catenda AI Connect in ChatGPT zu nutzen, kontaktieren Sie den Catenda-Vertrieb: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Für Catenda-Kunden gibt es mehr. Melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen Sie dann eine Seite des Help Centers oder laden Sie sie neu. Das Help Center zeigt angemeldeten Kunden dann mehr an, beginnend mit [Einführung in Catenda AI Connect für ChatGPT](https://support.catenda.com/de/articles/18485791-einfuhrung-in-catenda-ai-connect-fur-chatgpt) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Catenda AI Connect for ChatGPT wird auf drei Ebenen beschrieben. Über: dieser Artikel, für nicht angemeldete Leser. [Einführung](https://support.catenda.com/de/articles/18485791) _(für angemeldete Kunden, die AI Connect erkunden)_: wofür es gedacht ist. [Details](https://support.catenda.com/de/articles/17778881) _(für Kunden mit AI Connect)_: wie es eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Hilfecenters neu.
 
 # Über Catenda AI Connect für Gemini
 
 > Catenda AI Connect bringt Projektdaten aus Catenda Hub in Gemini. Wofür Teams es nutzen, was die Organisation vor dem Start benötigt und wie man beginnt.
 
 > **Wichtig:** Catenda AI Connect befindet sich in der Early-Access-Phase. Funktionen und Einrichtungsschritte ändern sich häufig, daher kann das, was auf dem Bildschirm erscheint, von diesem Artikel abweichen.
+
+> **Hinweis:** Dieser Artikel richtet sich an abgemeldete Leser. Links zu allen drei Ebenen dieses Themas finden Sie am Ende dieses Artikels.
 
 Catenda AI Connect verbindet Gemini mit model, Dokumenten und Themen in Catenda Hub. Fragen zu einem Projekt werden in Gemini in einfacher Sprache gestellt und anhand der aktuellen Projektdaten beantwortet. Wenn die Organisation Gemini Änderungen erlaubt, werden die Ergebnisse außerdem als Themen in Catenda Hub angelegt.
 
@@ -20947,13 +20955,15 @@ Catenda AI Connect ist nicht nur für Organisationen gedacht, die Projekte in Ca
 
 Um Catenda AI Connect in Gemini zu nutzen, wenden Sie sich an den Vertrieb von Catenda: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Weitere Inhalte sind für Catenda-Kunden verfügbar. Melden Sie sich bei Catenda unter [https://hub.catenda.com](https://hub.catenda.com) an und öffnen oder laden Sie dann eine Seite des Hilfecenters neu. Das Hilfecenter zeigt angemeldeten Kunden dann mehr an, beginnend mit [Einführung in Catenda AI Connect für Gemini](https://support.catenda.com/en/articles/18485781-introduction-to-catenda-ai-connect-for-gemini) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Catenda AI Connect für Gemini wird auf drei Ebenen beschrieben. Über: dieser Artikel, für abgemeldete Leser. [Einführung](https://support.catenda.com/en/articles/18485781) _(für angemeldete Kunden, die AI Connect erkunden)_: wofür es gedacht ist. [Details](https://support.catenda.com/en/articles/18485784) _(für Kunden von AI Connect)_: wie es eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Help Centers neu.
 
 # Über Catenda AI Connect für Microsoft Copilot
 
 > Catenda AI Connect bringt Projektdaten aus Catenda Hub über einen Agenten in Microsoft 365 Copilot und Teams. Wofür Teams es nutzen, was eine Organisation einrichtet und wie Sie beginnen, erfahren Sie hier.
 
 > **Wichtig:** Catenda AI Connect befindet sich in der Early-Access-Phase. Funktionen und Einrichtungsschritte ändern sich häufig, daher kann das, was auf dem Bildschirm erscheint, von diesem Artikel abweichen.
+
+> **Hinweis:** Dieser Artikel richtet sich an abgemeldete Leser. Die Links zu allen drei Ebenen dieses Hilfeartikels finden Sie am Ende des Artikels.
 
 Viele Projektteams arbeiten bereits in Microsoft 365, wobei Copilot und Teams den ganzen Tag geöffnet sind. Catenda AI Connect bringt die Modelle, Dokumente und Themen aus Catenda Hub an denselben Ort. Fragen zu einem Projekt werden in Microsoft 365 Copilot oder Teams in einfacher Sprache gestellt und auf Basis der aktuellen Projektdaten beantwortet.
 
@@ -21027,11 +21037,13 @@ Catenda AI Connect ist nicht nur für Organisationen gedacht, die Projekte in Ca
 
 Um Catenda AI Connect zu nutzen, wenden Sie sich an den Catenda-Vertrieb: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Für Catenda-Kunden gibt es mehr. Melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Hilfecenters neu. Das Hilfecenter zeigt angemeldeten Kunden dann mehr an, beginnend mit [Einführung in Catenda AI Connect für Microsoft Copilot](https://support.catenda.com/de/articles/18485782-einfuhrung-in-catenda-ai-connect-fur-microsoft-copilot) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Catenda AI Connect für Microsoft Copilot wird auf drei Ebenen beschrieben. Übersicht: dieser Artikel, für abgemeldete Leser. [Einführung](https://support.catenda.com/de/articles/18485782) _(für angemeldete Kunden, die AI Connect entdecken)_: wofür es da ist. [Details](https://support.catenda.com/de/articles/17778842) _(für AI-Connect-Kunden)_: wie man es einrichtet und verwendet. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Hilfecenters neu.
 
 # Über Catenda Desktop Connector für Systemimages
 
 > Eine Version des Catenda Desktop Connector für Organisationen, die Software in einem Betriebssystem-Image installieren, die angefordert werden kann.
+
+> **Hinweis:** Dieser Artikel richtet sich an nicht angemeldete Leser. Links zu allen drei Ebenen dieses Themas finden Sie am Ende dieses Artikels.
 
 Der Catenda Desktop Connector plant Uploads und Downloads zwischen Catenda Hub und einem Computer und wird in [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) beschrieben. Eine Version für Organisationen, die Software in ein Betriebssystem-Image installieren, kann angefordert werden.
 
@@ -21043,11 +21055,13 @@ Es ist dieselbe Anwendung wie der reguläre Desktop Connector, verpackt so, dass
 
 Der Catenda Desktop Connector funktioniert mit Projekten in Catenda Hub. Um ihn zu nutzen, kontaktieren Sie den Catenda-Vertrieb, um mit einem ersten Projekt zu beginnen: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Mehr ist für Catenda-Kunden verfügbar. Melden Sie sich bei Catenda unter [https://hub.catenda.com](https://hub.catenda.com) an, öffnen oder laden Sie dann eine Seite des Help Center neu. Das Help Center zeigt dann mehr für angemeldete Kunden an, beginnend mit [Einführung in Catenda Desktop Connector für Systemimages](https://support.catenda.com/de/articles/17778688-einfuhrung-in-catenda-desktop-connector-fur-systemabbilder) _(nur angemeldete Kunden)_.
+> **Hinweis:** Catenda Desktop Connector für Systemabbilder wird auf drei Ebenen beschrieben. Übersicht: dieser Artikel, für nicht angemeldete Leser. [Einführung](https://support.catenda.com/de/articles/17778688) _(für angemeldete Kunden, die das Systemabbild-Paket erkunden)_: wofür es gedacht ist. [Details](https://support.catenda.com/de/articles/17778690) _(für Personen, denen das Systemabbild-Paket bereitgestellt wurde)_: wie es eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Hilfe-Centers neu.
 
 # Über Catenda für Power BI (On Demand)
 
 > Catenda für Power BI bringt Catenda Hub-Projektdaten in Power BI. Eine nächste Version mit Visuals und einer vorgefertigten Berichtsvorlage ist auf Anfrage verfügbar.
+
+> **Hinweis:** Dieser Artikel richtet sich an nicht angemeldete Leser. Links zu allen drei Ebenen dieses Themas finden Sie am Ende dieses Artikels.
 
 Catenda for Power BI bringt die Daten eines Catenda Hub-Projekts in Microsoft Power BI, für Berichte zu den Modellen, Dokumenten und Themen des Projekts. Der veröffentlichte [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector) steht allen Catenda-Kunden zur Verfügung. Eine nächste Version ist auf Anfrage verfügbar: Sie kann allen bereits vor ihrer allgemeinen Veröffentlichung angefordert werden.
 
@@ -21059,11 +21073,13 @@ Die nächste Version wird mit einem neuen Connector geliefert, der viel mehr Pro
 
 Catenda für Power BI funktioniert mit Projekten in Catenda Hub. Um es zu verwenden, kontaktieren Sie den Catenda-Vertrieb, um mit einem ersten Projekt zu beginnen: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Mehr ist für Catenda-Kunden verfügbar. Melden Sie sich bei Catenda unter [https://hub.catenda.com](https://hub.catenda.com) an, öffnen oder laden Sie dann eine Seite des Hilfecenters erneut. Das Hilfecenter zeigt dann mehr für angemeldete Kunden, angefangen mit [Einführung in Catenda für Power BI (On Demand)](https://support.catenda.com/de/articles/17778865-einfuhrung-in-catenda-fur-power-bi-on-demand) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Catenda for Power BI (On Demand) wird auf drei Ebenen beschrieben. Zunächst dieser Artikel für nicht angemeldete Leser. [Einführung](https://support.catenda.com/de/articles/17778865) _(für angemeldete Kunden, die Power BI On Demand erkunden)_: wofür es gedacht ist. [Details](https://support.catenda.com/de/articles/17778868) _(für Unternehmen mit Power BI On Demand)_: wie es eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden anschließend eine Seite des Help Center neu.
 
 # Über das Catenda Archiving Portal
 
 > Das Catenda Archiving Portal ermöglicht es Benutzern, die von ihnen ausgewählten Dokumente und Themen aus Catenda Hub in ihr Archivierungssystem der Organisation zu übertragen.
+
+> **Hinweis:** Dieser Artikel richtet sich an nicht angemeldete Leser. Links zu allen drei Ebenen dieses Themas finden Sie am Ende dieses Artikels.
 
 Das Catenda Archiving Portal ermöglicht es Benutzern, die von ihnen ausgewählten Dokumente und Themen aus Catenda Hub-Projekten in ihr eigenes Archivierungssystem der Organisation zu übertragen, sodass die Projektunterlagen dort enden, wo die Organisation sie aufbewahrt. Es ist ein separates Produkt neben Catenda Hub.
 
@@ -21075,11 +21091,13 @@ Die Archivierung läuft in eine Richtung ab, von Catenda Hub zum Archivierungssy
 
 Das Archiving Portal funktioniert mit Projekten in Catenda Hub. Um es zu verwenden, kontaktieren Sie den Catenda-Vertrieb, um mit einem ersten Projekt zu beginnen: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Mehr ist für Catenda-Kunden verfügbar. Melden Sie sich bei Catenda unter [https://hub.catenda.com](https://hub.catenda.com) an, öffnen oder laden Sie eine Seite des Hilfecenters neu. Das Hilfecenter zeigt dann mehr für angemeldete Kunden an, beginnend mit [Einführung in das Catenda Archiving Portal](https://support.catenda.com/de/articles/17778822-einfuhrung-in-das-catenda-archivierungsportal) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Das Catenda Archiving Portal wird auf drei Ebenen beschrieben. Zum Überblick: dieser Artikel für nicht angemeldete Leser. [Einführung](https://support.catenda.com/de/articles/17778822) _(für angemeldete Kunden, die das Archiving Portal erkunden)_: wofür es gedacht ist. [Details](https://support.catenda.com/de/articles/16968870) _(für Kunden des Archiving Portals)_: wie es eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie anschließend eine Seite des Help Centers neu.
 
 # Über den Report-Editor
 
 > Catenda Hub erstellt Berichte aus den Themen, Dokumenten und Genehmigungen eines Projekts. Mit dem Report-Editor kann ein Projekt über eigene Report-Vorlagen verfügen.
+
+> **Hinweis:** Dieser Artikel richtet sich an abgemeldete Leser. Links zu allen drei Ebenen dieses Themenbereichs befinden sich am Ende dieses Artikels.
 
 Auf der [Berichtsseite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite) erstellt Catenda Hub Berichte aus den Themen, Dokumenten und Genehmigungsanfragen eines Projekts, die zum Speichern und Freigeben als Dokument bereit sind. Jeder Bericht wird aus einer Report-Vorlage erstellt, die bestimmt, wie der Bericht aussieht und welche Projektinformationen angezeigt werden. Der Report-Editor, in dem Report-Vorlagen entworfen werden, kann für Projekte angefordert werden, die ihn benötigen.
 
@@ -21091,7 +21109,7 @@ Der Report-Editor gibt einem Projekt eigene Report-Vorlagen, vom Titelblock bis 
 
 Der Report-Editor funktioniert mit Projekten in Catenda Hub. Um ihn zu verwenden, wenden Sie sich an den Catenda-Vertrieb, um mit einem ersten Projekt zu beginnen: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Mehr ist für Catenda-Kunden verfügbar. Melden Sie sich bei Catenda unter [https://hub.catenda.com](https://hub.catenda.com) an, öffnen oder laden Sie dann eine Seite des Help Centers neu. Das Help Center zeigt dann mehr für angemeldete Kunden, beginnend mit [Einführung in den Report-Editor](https://support.catenda.com/de/articles/17778684-einfuhrung-in-den-report-editor) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Der Berichtseditor wird auf drei Ebenen beschrieben. Überblick: dieser Artikel, für abgemeldete Leser. [Einführung](https://support.catenda.com/de/articles/17778684) _(für angemeldete Kunden, die den Berichtseditor erkunden)_: wozu er dient. [Details](https://support.catenda.com/de/articles/17778656) _(für Kunden des Berichtseditors)_: wie er eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Help Centers neu.
 
 # Benutzerdefinierte Felder in Themen-Boards - Kurzvideo
 
@@ -23425,7 +23443,7 @@ Themendaten können über [Exchange Topics](https://support.catenda.com/de/artic
 
 **Excel** Exportiert Themenparameter in ein Tabellenformat für Filterung, Sortierung und Datenmanipulation. Dieses Format bietet strukturierte Zeilen und Spalten, die sich ideal für die Auswahl und das Kopieren von Daten eignen, und Excel-Dateien können in den meisten Archivierungsplattformen leicht vorhergesehen werden. Für Archivierungszwecke wird der PDF-Export in der Regel dem Excel-Export vorgezogen, da er mehr Informationen enthält.
 
-**PDF** Generiert einen sauberen, lesbaren Zusammenfassungsbericht im Standard-PDF-Format (v1.4), das ohne spezialisierte Software zugänglich ist (siehe [Themen als PDF exportieren](https://support.catenda.com/de/articles/9784934-themen-in-pdf-exportieren)). Standard-PDF-Exporte enthalten einen konsolidierten Download-Zeitstempel für die Berichterstattung an Behörden und für die Archivierung und bieten mehr Informationen als ein Excel-Export. Während der Basis-Export eine Standard-PDF-Datei (v1.4) generiert, die viele Archivsysteme beim Upload automatisch in PDF/A konvertieren, um eine langfristige Vorschau zu ermöglichen, können Projekte mit der optionalen [Berichtsseite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite) auch Themen in Archivierungsformaten exportieren, wie in [Projektdaten mit Berichten exportieren](https://support.catenda.com/de/articles/17779017-projektdaten-mit-berichten-exportieren) beschrieben _(nur für Berichtereditor-Kunden)_.
+**PDF** Erzeugt eine übersichtliche, gut lesbare Zusammenfassung im Standardformat PDF (v1.4), die ohne spezielle Software zugänglich ist (siehe [Exportieren von Themen als PDF](https://support.catenda.com/de/articles/9784934-themen-in-pdf-exportieren)). Standard-PDF-Exporte enthalten einen zusammengefassten Download-Zeitstempel für formelle Berichte an Behörden und zur Archivierung und bieten mehr Informationen als ein Excel-Export. Während der Basisexport eine Standard-PDF-Datei (v1.4) erzeugt, die viele Archivierungssysteme beim Hochladen automatisch in PDF/A konvertieren, um eine langfristige Vorschau zu ermöglichen, können Projekte mit aktivierter, optionaler [Reports-Seite](https://support.catenda.com/de/articles/12303098-berichterstattungsseite) Themen auch in Archivierungsformaten exportieren, wie in [Exportieren von Projektdaten mit Reports](https://support.catenda.com/de/articles/17779017-projektdaten-mit-berichten-exportieren) beschrieben _(für Kunden mit Report-Editor)_.
 
 ### 2.3 **Dokumente und Sammlungen exportieren**
 
@@ -23483,11 +23501,11 @@ Die [Berichtsseite](https://support.catenda.com/de/articles/12303098-berichterst
 
 **Vorlagenbasierte Verwaltung** Wenn diese aktiviert ist, verwenden Projektadministratoren die [Seite mit Berichtsvorlagen](https://support.catenda.com/de/articles/12380837-seite-berichtvorlagen), um ihre eigenen Berichtsvorlagen einzurichten und formatierte Exporte für ausgewählte Dokumente oder Themen zu generieren.
 
-Was exportiert werden kann und in welchen Dateiformaten, wird in [Projektdaten mit Berichten exportieren](https://support.catenda.com/de/articles/17779017-projektdaten-mit-berichten-exportieren) beschrieben _(nur für Berichtereditor-Kunden)_.
+Was exportiert werden kann und in welchen Dateiformaten, ist in [Exportieren von Projektdaten mit Reports](https://support.catenda.com/de/articles/17779017-projektdaten-mit-berichten-exportieren) beschrieben _(für Kunden mit Report-Editor)_.
 
 ## 3. **Catenda Data Export**
 
-Catenda Data Export wird separat von Catenda Hub verkauft. Anders als bei den oben genannten Downloads kopiert es Projektdaten automatisch direkt von Catenda Hub in den eigenen Cloud-Speicher einer Organisation bei Amazon S3 oder Azure Blob Storage. Es eignet sich für Organisationen, die ein Backup wünschen, das mit ihren Projekten Schritt hält, oder Projektunterlagen in ihrem eigenen Speicher aufbewahren möchten. Es ist nicht nur für Projektinhaber gedacht. Ein Projektinhaber kann ein vollständiges Backup seiner Projekte exportieren, und ein Projektteilnehmer kann alles exportieren, worauf er in den Projekten, an denen er teilnimmt, Zugriff hat. Mehr dazu finden Sie unter [Über Catenda Data Export](https://support.catenda.com/de/articles/17779020-uber-catenda-data-export) _(für Leser, die nicht angemeldet sind)_ und [Einführung in Catenda Data Export](https://support.catenda.com/de/articles/17779027-einfuhrung-in-catenda-data-export) _(nur für angemeldete Kunden)_. Kunden, die es haben, finden die Einrichtung unter [Catenda Data Export](https://support.catenda.com/de/articles/17779052-catenda-datenexport) _(nur für Data-Export-Kunden)_.
+Catenda Data Export wird separat von Catenda Hub verkauft. Anders als die oben genannten Downloads kopiert es Projektdaten automatisch direkt von Catenda Hub in den eigenen Cloud-Speicher einer Organisation in Amazon S3 oder Azure Blob Storage. Es eignet sich für Organisationen, die ein Backup wünschen, das mit ihren Projekten Schritt hält, oder Projektunterlagen in ihrem eigenen Speicher aufbewahren möchten. Es ist nicht nur für Projektinhaber gedacht. Ein Projektinhaber kann ein vollständiges Backup seiner Projekte exportieren, und ein Projektteilnehmer kann alles exportieren, worauf er in den Projekten, an denen er teilnimmt, Zugriff hat. Mehr dazu finden Sie unter [Über Catenda Data Export](https://support.catenda.com/de/articles/17779020-uber-catenda-data-export) _(für abgemeldete Leser)_ und [Einführung in Catenda Data Export](https://support.catenda.com/de/articles/17779027-einfuhrung-in-catenda-data-export) _(für angemeldete Kunden, die Data Export erkunden)_. Kunden, die es haben, finden die Einrichtung unter [Catenda Data Export](https://support.catenda.com/de/articles/17779052-catenda-datenexport) _(für Data-Export-Kunden)_.
 
 # Filterergebnisse begrenzen
 
@@ -24928,6 +24946,8 @@ Das Benachrichtigungssystem ist nützlich, um den Überblick über das zu behalt
 
 > Catenda Data Export kopiert die Daten von Catenda Hub-Projekten automatisch in den Cloud-Speicher einer Organisation.
 
+> **Hinweis:** Dieser Artikel richtet sich an nicht angemeldete Leser. Links zu allen drei Ebenen dieses Themas finden Sie am Ende dieses Artikels.
+
 Catenda Hub bietet mehrere Möglichkeiten zum Herunterladen von Projektdaten, die in [Alle Projektdaten exportieren](https://support.catenda.com/de/articles/7946690-exportieren-aller-projektdaten) beschrieben sind. Catenda Data Export ist die automatisierte Lösung: Sie kopiert Projektdaten direkt in den Cloud-Speicher einer Organisation in Amazon S3 oder Azure Blob Storage. Sie wird separat von Catenda Hub verkauft.
 
 ## 1. **Was es ist**
@@ -24950,7 +24970,7 @@ Eine Organisation, die an Projekten anderer Organisationen beteiligt ist, kann C
 
 Wenn Sie es nutzen möchten, wenden Sie sich an den Catenda-Vertrieb, um mit einem ersten Projekt zu beginnen: [https://catenda.com/get-started](https://catenda.com/get-started) oder [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Hinweis:** Weitere Informationen sind für Catenda-Kunden verfügbar. Melden Sie sich bei Catenda unter [https://hub.catenda.com](https://hub.catenda.com) an, öffnen oder aktualisieren Sie dann eine Seite des Help Centers. Das Help Center zeigt dann mehr für angemeldete Kunden an, beginnend mit [Einführung in Catenda Data Export](https://support.catenda.com/de/articles/17779027-einfuhrung-in-catenda-data-export) _(nur für angemeldete Kunden)_.
+> **Hinweis:** Catenda Data Export wird auf drei Ebenen beschrieben. Über: dieser Artikel, für nicht angemeldete Leser. [Einführung](https://support.catenda.com/de/articles/17779027) _(für angemeldete Kunden, die Data Export erkunden)_: wozu es dient. [Details](https://support.catenda.com/de/articles/17779052) _(für Data Export-Kunden)_: wie es eingerichtet und verwendet wird. Um die Einführung zu öffnen, melden Sie sich unter [https://hub.catenda.com](https://hub.catenda.com) bei Catenda an und öffnen oder laden Sie dann eine Seite des Help Center neu.
 
 # 3D-Messaktualisierung!
 
@@ -25502,24 +25522,24 @@ Da neue Funktionen eingeführt und Fehler behoben werden, werden Artikel mit den
 **Kontoverwaltung**
 
 - Organisationen
-    - [Organisationskonfiguration](https://support.catenda.com/de/articles/13653794-organisationskonfiguration)
-    - [Organisationstypen](https://support.catenda.com/de/articles/13653807-organisationstypen)
-    - [Organisations- und Projekteinrichtung](https://support.catenda.com/de/articles/13653804-organisation-und-projekteinrichtung)
+  - [Organisationskonfiguration](https://support.catenda.com/de/articles/13653794-organisationskonfiguration)
+  - [Organisationstypen](https://support.catenda.com/de/articles/13653807-organisationstypen)
+  - [Organisations- und Projekteinrichtung](https://support.catenda.com/de/articles/13653804-organisation-und-projekteinrichtung)
 
 **Produktmerkmale**
 
 - Themen
-    - [Seite mit Themenvorlageneinstellungen](https://support.catenda.com/de/articles/14076010-einstellungsseite-fur-themenvorlagen)
+  - [Seite mit Themenvorlageneinstellungen](https://support.catenda.com/de/articles/14076010-einstellungsseite-fur-themenvorlagen)
 - Themenvorlagen
-    - [Allgemeine Themenvorlage bei der Themenerstellung anwenden](https://support.catenda.com/de/articles/14075921-verwenden-von-themen-vorlagen-in-einem-themen-board)
-    - [Dokumentthemenvorlage beim Erstellen einer Markup aus einem Dokument anwenden](https://support.catenda.com/de/articles/14078352-verwenden-von-themen-vorlagen-beim-speichern-von-markup-themen)
-    - [Genehmigungsthemenvorlage auf Genehmigungsworkflow-Vorlage anwenden](https://support.catenda.com/de/articles/14078683-themen-vorlagen-mit-genehmigungen-verwenden)
+  - [Allgemeine Themenvorlage bei der Themenerstellung anwenden](https://support.catenda.com/de/articles/14075921-verwenden-von-themen-vorlagen-in-einem-themen-board)
+  - [Dokumentthemenvorlage beim Erstellen einer Markup aus einem Dokument anwenden](https://support.catenda.com/de/articles/14078352-verwenden-von-themen-vorlagen-beim-speichern-von-markup-themen)
+  - [Genehmigungsthemenvorlage auf Genehmigungsworkflow-Vorlage anwenden](https://support.catenda.com/de/articles/14078683-themen-vorlagen-mit-genehmigungen-verwenden)
 - Kategorieübergreifend
-    - [Bericht erstellen-Aktion](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur für Kunden mit Berichtereditor)_
-    - [Aktion "Link kopieren"](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren)
+  - [Aktion „Bericht erstellen“](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden mit Berichtseditor)_
+  - [Aktion "Link kopieren"](https://support.catenda.com/de/articles/14323982-link-aktion-kopieren)
 - Catenda-Plugins und -Integrationen
-    - [Catenda Revit Plugin-Changelog - 1.0.15](https://support.catenda.com/de/articles/13449051-catenda-revit-plugin-anderungsprotokoll-1-0-15)
-    - [Catenda Archicad Plugin-Changelog - 1.0.1.17](https://support.catenda.com/de/articles/13449075-catenda-archicad-plugin-anderungsprotokoll-1-0-1-17)
+  - [Catenda Revit Plugin-Changelog - 1.0.15](https://support.catenda.com/de/articles/13449051-catenda-revit-plugin-anderungsprotokoll-1-0-15)
+  - [Catenda Archicad Plugin-Changelog - 1.0.1.17](https://support.catenda.com/de/articles/13449075-catenda-archicad-plugin-anderungsprotokoll-1-0-1-17)
 
 **Fehlerbehebung**
 
@@ -25534,9 +25554,9 @@ Aktuelle Updates
 **Häufig gestellte Fragen**
 
 - Themen-FAQ
-    - [2D-Standort von Themen - Catenda-Website](https://support.catenda.com/de/articles/13616245-2d-position-von-themen-catenda-site)
+  - [2D-Standort von Themen - Catenda-Website](https://support.catenda.com/de/articles/13616245-2d-position-von-themen-catenda-site)
 - Projekt-FAQ
-    - [FAQ zu benutzerdefinierten Feldern](https://support.catenda.com/de/articles/11384331-haufig-gestellte-fragen-zu-benutzerdefinierten-feldern)
+  - [FAQ zu benutzerdefinierten Feldern](https://support.catenda.com/de/articles/11384331-haufig-gestellte-fragen-zu-benutzerdefinierten-feldern)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 
@@ -26839,7 +26859,7 @@ PDF-Zeichnungen können jetzt im [3D-Viewer](https://support.catenda.com/de/arti
 
 ### 2.3 **Catenda AI Connect**
 
-Catenda AI Connect wurde aktualisiert, und die Änderungen sind im [Catenda AI Connect-Changelog](https://support.catenda.com/de/articles/17778717-changelog-fur-catenda-ai-connect) aufgelistet _(nur für AI Connect-Kunden)_.
+Catenda AI Connect wurde aktualisiert, die Änderungen sind im [Catenda AI Connect-Changelog](https://support.catenda.com/de/articles/17778717-changelog-fur-catenda-ai-connect) aufgeführt _(für AI Connect-Kunden)_.
 
 ### 2.4 **3D-Viewer**
 
@@ -26867,15 +26887,15 @@ Einige Funktionen können von der Kontaktperson für Ihre Catenda-Lizenz für be
 
 ### 3.2 **Berichts-Editor**
 
-Erstellen Sie Berichtsvorlagen für Themen und Dokumente, damit Projektmitglieder Themen oder Dokumente aus der Tabelle auswählen und die Berichtsaktion verwenden können, um einen Bericht zu erstellen. Die Berichtsseite ist eine On-Demand-Funktion, die für laufende Projekte zur Aktivierung angefordert werden kann. Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert. Separate Vorlagen können für Themen und Dokumente erstellt werden. Berichte können auch aus Genehmigungen mit der [Berichtsaktion erstellen](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(nur Berichts-Editor-Kunden)_ erstellt werden. Wenn eine Vorlage in einem Projekt verfügbar ist, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht basierend auf der ausgewählten Vorlage zu erstellen. Unterstützung für die Anzeige verschiedener Werte auf der Seite wird von Catenda angeboten. Wenn Sie einen benutzerdefinierten Bericht für Ihr Unternehmen wünschen, können wir Sie mit einem Berater in Verbindung bringen, der Ihnen helfen kann. Beispielberichte für Themen, Dokumente und Genehmigungen sind jetzt unter [Vorgefertigte Berichtsvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) _(nur Berichts-Editor-Kunden)_ verfügbar. Wie der Berichts-Editor funktioniert, wird in [Berichts-Editor](https://support.catenda.com/de/articles/17778656-berichts-editor) _(nur Berichts-Editor-Kunden)_ beschrieben.
+Erstellen Sie Berichtsvorlagen für Themen und Dokumente, damit Projektmitglieder Themen oder Dokumente aus der Tabelle auswählen und mit der Aktion zum Erstellen eines Berichts einen Bericht generieren können. Die Berichtsseite ist eine On-Demand-Funktion, die für laufende Projekte aktiviert werden kann. Neue Projekte, die auf Basis eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert. Für Themen und Dokumente können separate Vorlagen erstellt werden. Berichte können auch aus Freigaben mit der Aktion [Bericht erstellen](https://support.catenda.com/de/articles/13973721-berichtsaktion-erstellen) _(für Kunden des Report-Editors)_ erstellt werden. Ist eine Vorlage im Projekt verfügbar, kann die Berichtsaktion mit ausgewählten Themen und Dokumenten verwendet werden, um einen Bericht auf Basis der ausgewählten Vorlage zu erstellen. Catenda bietet Unterstützung dafür, wie verschiedene Werte auf der Seite angezeigt werden können. Wenn Sie einen individuellen, auf Ihr Unternehmen zugeschnittenen Bericht wünschen, können wir Sie mit einem Berater in Verbindung bringen, der dabei helfen kann. Beispielberichte für Themen, Dokumente und Freigaben sind nun in [Fertige Berichtsvorlagen](https://support.catenda.com/de/articles/17778911-vorgefertigte-berichtsvorlagen) _(für Kunden des Report-Editors)_ verfügbar. Wie der Report-Editor funktioniert, wird in [Report-Editor](https://support.catenda.com/de/articles/17778656-berichts-editor) _(für Kunden des Report-Editors)_ beschrieben.
 
 ### 3.3 **Catenda für Power BI (On Demand)**
 
-Eine On-Demand-Version von Catenda für Power BI ist jetzt verfügbar. Sie kann auf die gleiche Weise wie die anderen On-Demand-Funktionen angefordert werden. Wofür es gedacht ist, wird in [Einführung in Catenda für Power BI (On Demand)](https://support.catenda.com/de/articles/17778865-einfuhrung-in-catenda-fur-power-bi-on-demand) _(nur angemeldete Kunden)_ beschrieben. Die Einrichtung wird in [Catenda für Power BI (On Demand)](https://support.catenda.com/de/articles/17778868-catenda-fur-power-bi-on-demand) _(auf Anfrage)_ beschrieben.
+Eine On-Demand-Version von Catenda for Power BI ist jetzt verfügbar. Sie kann auf die gleiche Weise wie die anderen On-Demand-Funktionen angefordert werden. Was sie leistet, wird in [Einführung in Catenda for Power BI (On Demand)](https://support.catenda.com/de/articles/17778865-einfuhrung-in-catenda-fur-power-bi-on-demand) _(für angemeldete Kunden, die Power BI On Demand erkunden)_ beschrieben. Die Einrichtung wird in [Catenda for Power BI (On Demand)](https://support.catenda.com/de/articles/17778868-catenda-fur-power-bi-on-demand) _(für Power BI On Demand-Unternehmen)_ beschrieben.
 
 ### 3.4 **Catenda Desktop Connector für Systembilder (On Demand)**
 
-Eine On-Demand-Version des Catenda Desktop Connectors für Systembilder ist jetzt verfügbar. Sie kann auf die gleiche Weise wie die anderen On-Demand-Funktionen angefordert werden. Wofür es gedacht ist, wird in [Einführung in Catenda Desktop Connector für Systembilder](https://support.catenda.com/de/articles/17778688-einfuhrung-in-catenda-desktop-connector-fur-systemabbilder) _(nur angemeldete Kunden)_ beschrieben. Die Einrichtung wird in [Catenda Desktop Connector für Systembilder (On Demand)](https://support.catenda.com/de/articles/17778690-catenda-desktop-connector-fur-systemabbilder-on-demand) _(auf Anfrage)_ beschrieben.
+Eine On-Demand-Version des Catenda Desktop Connector for System Images ist jetzt verfügbar. Sie kann auf die gleiche Weise wie die anderen On-Demand-Funktionen angefordert werden. Was sie leistet, wird in [Einführung in Catenda Desktop Connector for System Images](https://support.catenda.com/de/articles/17778688-einfuhrung-in-catenda-desktop-connector-fur-systemabbilder) _(für angemeldete Kunden, die das System-Image-Paket erkunden)_ beschrieben. Die Einrichtung wird in [Catenda Desktop Connector for System Images (On Demand)](https://support.catenda.com/de/articles/17778690-catenda-desktop-connector-fur-systemabbilder-on-demand) _(für Personen, denen das System-Image-Paket bereitgestellt wurde)_ beschrieben.
 
 ## 4. **Co-Creation-Programm**
 

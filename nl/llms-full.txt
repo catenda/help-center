@@ -4334,7 +4334,7 @@ Met de rapportactie kunt u een rapport maken van uw geselecteerde documenten. De
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen klanten met de rapporteditor)_ om meer te lezen over de rapportageactie. _Vereiste toegang:_ leesrechten voor het document
+Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de rapporteditor)_ om meer te lezen over de rapportactie. _Vereiste toegang:_ Leestoegang tot het document
 
 ### 2.5 **Publiceren**
 
@@ -5199,6 +5199,8 @@ Als u onderaan de lijst op gearchiveerd weergeven klikt, kunt u gearchiveerde on
 
 > **Belangrijk:** Catenda AI Connect is in vroege toegang. Functies en instelstappen veranderen vaak, dus wat op het scherm verschijnt, kan afwijken van dit artikel.
 
+> **Opmerking:** Dit artikel is bedoeld voor lezers die niet zijn ingelogd. Koppelingen naar alle drie de niveaus van deze Topics staan onderaan dit artikel.
+
 Catenda AI Connect bereikt alleen wat elke gebruiker al kan openen in Catenda Hub en werkt als die gebruiker.
 
 ## 1. **Wie kan het op een project gebruiken**
@@ -5223,7 +5225,7 @@ De eigen KI-app van de organisatie heeft zijn eigen beheerdersinstellingen. Zij 
 
 Als u Catenda AI Connect wilt gaan gebruiken of vragen hebt over andere regelingen, neem contact op met Catenda-verkoop: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Opmerking:** Voor Catenda-klanten is meer beschikbaar. Meld u aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com), open of herlaad vervolgens een pagina van het Hulpcentrum. Het Hulpcentrum toont dan meer aan aangemelde klanten, te beginnen met [Toegang tot projecten met Catenda AI Connect](https://support.catenda.com/nl/articles/17778906-toegang-tot-projecten-met-catenda-ai-connect) _(alleen aangemelde klanten)_.
+> **Opmerking:** Projecttoegang met Catenda AI Connect wordt op drie niveaus beschreven. Over: dit artikel, voor lezers die niet zijn ingelogd. [Introductie](https://support.catenda.com/nl/articles/17778906) _(voor ingelogde klanten die KI-integratie verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/17778731) _(voor AI Connect-klanten)_: hoe het wordt ingesteld en gebruikt. Om de Introductie te openen, meld je aan bij Catenda via [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad vervolgens een pagina van het Help Center.
 
 # Catenda Archicad-plugin
 
@@ -7248,7 +7250,7 @@ Na het selecteren van een elementrij verschijnen geselecteerde itemacties boven 
 
 Klik [hier](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) voor meer informatie over de geselecteerde itemacties op de documentenpagina.
 
-Bij projecten met de rapportenpagina ingeschakeld, heeft het menu voor geselecteerde itemaacties één extra optie wanneer alleen documenten zijn geselecteerd: **Rapport maken**. Lees er meer over in [Rapport maken-actie](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van rapporteditor)_.
+Op projecten met de rapportenpagina ingeschakeld heeft het menu met acties voor geselecteerde items één extra optie wanneer alleen **Documenten** zijn geselecteerd: **Rapport maken**. Lees meer hierover in [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de rapporteditor)_.
 
 ### 4.2 **Rijinhoud**
 
@@ -13803,6 +13805,8 @@ Klik [hier](https://support.catenda.com/nl/articles/12495130-tabblad-documenten-
 
 > **Belangrijk:** Catenda AI Connect is in early access. Functies en installatiestappen veranderen vaak, dus wat er op het scherm staat kan afwijken van dit artikel.
 
+> **Opmerking:** Dit artikel is bedoeld voor lezers die niet zijn ingelogd. Koppelingen naar alle drie de niveaus van dit onderwerp staan aan het einde van dit artikel.
+
 De winst op een bouwproject bevindt zich ergens tussen wat werd vastgesteld, wat werd ontworpen, wat werd gebouwd en wat onderweg werd gezegd en geschreven. Deze op elkaar afstemmen vereist beoordelingsvergaderingen, controle van leveringen en het doorzoeken van opmerkingen en oude e-maildraden.
 
 Dit product verbindt de KI die een organisatie al gebruikt en vertrouwt rechtstreeks met de modellen, documenten en Topics in Catenda Hub. Vragen over een project worden in natuurlijke taal gesteld en beantwoord aan de hand van live projectgegevens, klaar om rapporten en bewijzen te worden. Waar de organisatie haar KI-app toestaat wijzigingen aan te brengen, worden de bevindingen ook Topics in Catenda Hub.
@@ -13861,13 +13865,15 @@ Catenda AI Connect is niet alleen voor organisaties die projecten in Catenda Hub
 
 Neem contact op met de Catenda-verkoop om Catenda AI Connect te gaan gebruiken: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Opmerking:** Meer is beschikbaar voor Catenda-klanten. Meld u aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com), open of laad vervolgens een pagina van het Help Center opnieuw. Het Help Center toont dan meer aan aangemelde klanten, te beginnen met [Inleiding tot Catenda AI Connect](https://support.catenda.com/nl/articles/17778901-inleiding-tot-catenda-ai-connect) _(alleen voor aangemelde klanten)_.
+> **Opmerking:** Catenda AI Connect wordt op drie niveaus beschreven. Over: dit artikel, voor lezers die niet zijn ingelogd. [Introductie](https://support.catenda.com/nl/articles/17778901) _(voor ingelogde klanten die AI Connect verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/17778710) _(voor AI Connect-klanten)_: hoe het wordt ingesteld en gebruikt. Om de Introductie te openen, log je in bij Catenda op [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad je vervolgens een pagina van het Help Center.
 
 # Over Catenda AI Connect voor ChatGPT
 
 > Catenda AI Connect brengt Catenda Hub-projectgegevens naar ChatGPT. Waarvoor teams het gebruiken, waar een organisatie naar kijkt voordat ze begint, en hoe je aan de slag gaat.
 
 > **Belangrijk:** Catenda AI Connect is in early access. Functies en installatiestappen veranderen vaak, dus wat op het scherm verschijnt, kan afwijken van dit artikel.
+
+> **Opmerking:** Dit artikel is bedoeld voor lezers die niet zijn aangemeld. Koppelingen naar alle drie niveaus van dit onderwerp staan aan het einde van dit artikel.
 
 Catenda AI Connect verbindt ChatGPT met de modellen, Documenten en Topics in Catenda Hub. Vragen over een project worden in natuurlijke taal gesteld in ChatGPT en beantwoord aan de hand van live projectgegevens. Waar de organisatie ChatGPT wijzigingen laat aanbrengen, worden de bevindingen ook Topics in Catenda Hub.
 
@@ -13947,13 +13953,15 @@ Catenda AI Connect is niet alleen bedoeld voor organisaties die projecten in Cat
 
 Om Catenda AI Connect in ChatGPT te gaan gebruiken, neem je contact op met Catenda sales: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Let op:** Meer is beschikbaar voor Catenda-klanten. Log in bij Catenda op [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad vervolgens een pagina van het Help Center. Het Help Center toont dan meer aan ingelogde klanten, te beginnen met [Introduction to Catenda AI Connect for ChatGPT](https://support.catenda.com/nl/articles/18485791-inleiding-tot-catenda-ai-connect-voor-chatgpt) _(alleen voor ingelogde klanten)_.
+> **Opmerking:** Catenda AI Connect voor ChatGPT wordt op drie niveaus beschreven. Over: dit artikel, voor lezers die niet zijn aangemeld. [Introductie](https://support.catenda.com/nl/articles/18485791) _(voor aangemelde klanten die Catenda AI Connect verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/17778881) _(voor klanten van Catenda AI Connect)_: hoe het wordt ingesteld en gebruikt. Om de introductie te openen, meldt u zich aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com) en opent of vernieuwt u vervolgens een pagina van het Help Center.
 
 # Over Catenda AI Connect voor Claude
 
 > Met Catenda AI Connect voor Claude kan een team Claude vragen stellen over hun Catenda Hub-projecten, projectgegevens controleren en routinematig werk overdragen. Wat het is, wat een organisatie voorbereidt en hoe je kunt beginnen.
 
 > **Belangrijk:** Catenda AI Connect is in early access. Functies en installatiestappen veranderen regelmatig, dus wat op het scherm verschijnt, kan afwijken van dit artikel.
+
+> **Opmerking:** Dit artikel is bedoeld voor lezers die niet zijn ingelogd. Koppelingen naar alle drie de niveaus van dit Topics staan aan het eind van dit artikel.
 
 Veel teams gebruiken Claude, de KI-app van Anthropic, al voor schrijfwerk, onderzoek en analyse. Catenda AI Connect brengt hun Catenda Hub-projecten in diezelfde Claude. Vragen over een project worden in gewone taal gesteld en beantwoord op basis van de actuele models, Documenten en Topics. Waar de organisatie Claude wijzigingen laat aanbrengen, worden de bevindingen ook Topics in Catenda Hub.
 
@@ -14037,13 +14045,15 @@ Catenda AI Connect werkt ook met andere KI-apps, zoals beschreven in [Over Caten
 
 Om Catenda AI Connect te gaan gebruiken, neem je contact op met de verkoop van Catenda: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Let op:** Meer is beschikbaar voor Catenda-klanten. Meld je aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com) en open of laad daarna een pagina van het Helpcenter opnieuw. Het Helpcenter toont dan meer aan aangemelde klanten, te beginnen met [Introductie tot Catenda AI Connect voor Claude](https://support.catenda.com/nl/articles/18485783-introductie-tot-catenda-ai-connect-voor-claude) _(alleen voor aangemelde klanten)_.
+> **Opmerking:** Catenda AI Connect for Claude wordt op drie niveaus beschreven. Over: dit artikel, voor lezers die niet zijn ingelogd. [Introductie](https://support.catenda.com/nl/articles/18485783) _(voor ingelogde klanten die AI Connect verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/17778825) _(voor AI Connect-klanten)_: hoe je het instelt en gebruikt. Om de Introductie te openen, log je in op Catenda via [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad je vervolgens een pagina van het Help Center.
 
 # Over Catenda AI Connect voor Gemini
 
 > Catenda AI Connect brengt projectgegevens uit Catenda Hub in Gemini. Waarvoor teams het gebruiken, wat de organisatie nodig heeft voordat ze ermee beginnen en hoe je aan de slag gaat.
 
 > **Belangrijk:** Catenda AI Connect is in early access. Functies en installatiestappen veranderen vaak, dus wat er op het scherm verschijnt, kan afwijken van dit artikel.
+
+> **Opmerking:** Dit artikel is bedoeld voor niet-aangemelde lezers. Koppelingen naar alle drie niveaus van dit Topics staan aan het eind van dit artikel.
 
 Catenda AI Connect koppelt Gemini aan de model, documenten en Topics in Catenda Hub. Vragen over een project stel je in gewone taal in Gemini en worden beantwoord op basis van de actuele projectgegevens. Als de organisatie Gemini wijzigingen laat aanbrengen, worden de bevindingen ook Topics in Catenda Hub.
 
@@ -14109,13 +14119,15 @@ Catenda AI Connect is niet alleen bedoeld voor organisaties die projecten in Cat
 
 Om Catenda AI Connect in Gemini te gaan gebruiken, neem je contact op met de verkoop van Catenda: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Let op:** Meer is beschikbaar voor klanten van Catenda. Log in bij Catenda op [https://hub.catenda.com](https://hub.catenda.com), open daarna een pagina van het Help Center of laad deze opnieuw. Het Help Center toont dan meer aan ingelogde klanten, te beginnen met [Introductie tot Catenda AI Connect voor Gemini](https://support.catenda.com/nl/articles/18485781-introductie-van-catenda-ai-connect-voor-gemini) _(alleen voor ingelogde klanten)_.
+> **Opmerking:** Catenda AI Connect for Gemini wordt op drie niveaus beschreven. Over: dit artikel, voor niet-aangemelde lezers. [Inleiding](https://support.catenda.com/nl/articles/18485781) _(voor aangemelde klanten die AI Connect verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/18485784) _(voor AI Connect-klanten)_: hoe het wordt ingesteld en gebruikt. Om de Inleiding te openen, meldt u zich aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com) en opent of laadt u vervolgens een pagina van het Help Center opnieuw.
 
 # Over Catenda AI Connect voor Microsoft Copilot
 
 > Catenda AI Connect brengt Catenda Hub-projectgegevens via een agent naar Microsoft 365 Copilot en Teams. Wat teams ermee doen, wat een organisatie instelt en hoe je aan de slag gaat.
 
 > **Belangrijk:** Catenda AI Connect is in early access. Functies en installatiestappen veranderen vaak, dus wat er op het scherm staat, kan afwijken van dit artikel.
+
+> **Let op:** Dit artikel is bedoeld voor niet-aangemelde lezers. Koppelingen naar alle drie de niveaus van deze Topics staan aan het einde van dit artikel.
 
 Veel projectteams werken al in Microsoft 365, met Copilot en Teams de hele dag open. Catenda AI Connect brengt de modellen, Documenten en Topics in Catenda Hub naar diezelfde plek. Vragen over een project worden in gewone taal gesteld in Microsoft 365 Copilot of Teams en beantwoord met de actuele projectgegevens.
 
@@ -14189,11 +14201,13 @@ Catenda AI Connect is niet alleen bedoeld voor organisaties die projecten in Cat
 
 Om Catenda AI Connect te gaan gebruiken, neem je contact op met de verkoop van Catenda: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Let op:** Meer is beschikbaar voor Catenda-klanten. Meld je aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad daarna een pagina van het Help Center. Het Help Center toont dan meer aan aangemelde klanten, te beginnen met [Introductie tot Catenda AI Connect voor Microsoft Copilot](https://support.catenda.com/nl/articles/18485782-introductie-tot-catenda-ai-connect-voor-microsoft-copilot) _(alleen voor aangemelde klanten)_.
+> **Let op:** Catenda AI Connect for Microsoft Copilot wordt op drie niveaus beschreven. Over: dit artikel, voor niet-aangemelde lezers. [Introductie](https://support.catenda.com/nl/articles/18485782) _(voor aangemelde klanten die AI Connect verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/17778842) _(voor AI Connect-klanten)_: hoe je het instelt en gebruikt. Om de Introductie te openen, meld je aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad vervolgens een pagina van het Help Center.
 
 # Over Catenda Desktop Connector voor systeemafbeeldingen
 
 > Een versie van de Catenda Desktop Connector voor organisaties die software installeren in een besturingssysteemafbeelding, die kan worden aangevraagd.
+
+> **Opmerking:** Dit artikel is bedoeld voor lezers die niet zijn ingelogd. Koppelingen naar alle drie de niveaus van deze Topics staan aan het einde van dit artikel.
 
 De Catenda Desktop Connector plant uploads en downloads tussen Catenda Hub en een computer en wordt beschreven in [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector). Een versie voor organisaties die software installeren in een besturingssysteemimage kan worden aangevraagd.
 
@@ -14205,11 +14219,13 @@ Het is dezelfde toepassing als de reguliere Desktop Connector, verpakt zodat dez
 
 De Catenda Desktop Connector werkt met projecten in Catenda Hub. Neem contact op met Catenda-verkoop om aan de slag te gaan met uw eerste project: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Opmerking:** Meer is beschikbaar voor Catenda-klanten. Meld u aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com), open of herlaad vervolgens een pagina van het Helpcentrum. Het Helpcentrum toont vervolgens meer aan aangemelde klanten, te beginnen met [Inleiding tot Catenda Desktop Connector voor systeemafbeeldingen](https://support.catenda.com/nl/articles/17778688-inleiding-tot-catenda-desktop-connector-voor-systeemafbeeldingen) _(alleen voor aangemelde klanten)_.
+> **Opmerking:** Catenda Desktop Connector for System Images wordt op drie niveaus beschreven. Over: dit artikel, voor lezers die niet zijn ingelogd. [Introductie](https://support.catenda.com/nl/articles/17778688) _(voor ingelogde klanten die het systeemimagepakket verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/17778690) _(voor personen die het systeemimagepakket hebben gekregen)_: hoe het wordt ingesteld en gebruikt. Om de Introductie te openen, log in op Catenda via [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad vervolgens een pagina van het Help Center.
 
 # Over Catenda voor Power BI (On Demand)
 
 > Catenda voor Power BI brengt Catenda Hub-projectgegevens in Power BI. Een volgende versie, met visuele elementen en een kant-en-klaar rapportTemplate, is beschikbaar op aanvraag.
+
+> **Opmerking:** Dit artikel is bedoeld voor niet-ingelogde lezers. Koppelingen naar alle drie niveaus van deze Topics staan aan het einde van dit artikel.
 
 Catenda for Power BI brengt de gegevens van een Catenda Hub-project naar Microsoft Power BI, voor rapporten over de modellen, Documenten en Topics van het project. De vrijgegeven [Catenda Power BI Connector](https://support.catenda.com/nl/articles/5784721-catenda-power-bi-connector) is beschikbaar voor elke Catenda-klant. Een volgende versie is op aanvraag beschikbaar: die kan vóór de release aan iedereen worden aangevraagd.
 
@@ -14221,11 +14237,13 @@ De volgende versie wordt geleverd met een nieuwe connector die veel meer project
 
 Catenda voor Power BI werkt met projecten in Catenda Hub. Neem contact op met Catenda sales om aan de slag te gaan met uw eerste project: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Opmerking:** Meer is beschikbaar voor Catenda-klanten. Meld u aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com), open of laad vervolgens een pagina van het Help Center opnieuw. Het Help Center toont vervolgens meer aan ingelogde klanten, te beginnen met [Inleiding tot Catenda voor Power BI (On Demand)](https://support.catenda.com/nl/articles/17778865-inleiding-tot-catenda-voor-power-bi-on-demand) _(alleen ingelogde klanten)_.
+> **Opmerking:** Catenda for Power BI (On Demand) wordt op drie niveaus beschreven. Over: dit artikel, voor niet-ingelogde lezers. [Introduction](https://support.catenda.com/nl/articles/17778865) _(voor ingelogde klanten die Power BI On Demand verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/17778868) _(voor bedrijven met Power BI On Demand)_: hoe het wordt ingesteld en gebruikt. Om de Introduction te openen, meldt u zich aan bij Catenda via [https://hub.catenda.com](https://hub.catenda.com) en opent of herlaadt u vervolgens een pagina van het Help Center.
 
 # Over de Catenda Archiving Portal
 
 > De Catenda Archiving Portal stelt mensen in staat om Documenten en Topics naar keuze van Catenda Hub naar het archiefsysteem van hun organisatie over te dragen.
+
+> **Opmerking:** Dit artikel is bedoeld voor lezers die niet zijn aangemeld. Koppelingen naar alle drie niveaus van dit Topics staan aan het einde van dit artikel.
 
 De Catenda Archiving Portal stelt mensen in staat om Documenten en Topics naar keuze van Catenda Hub-projecten naar het archiefsysteem van hun organisatie over te dragen, zodat de projectrecords terechtkomen waar de organisatie deze bewaart. Het is een afzonderlijk product naast Catenda Hub.
 
@@ -14237,11 +14255,13 @@ Archivering verloopt in één richting, van Catenda Hub naar het archiefsysteem.
 
 De Archiving Portal werkt met projecten in Catenda Hub. Neem contact op met Catenda-verkoop om aan de slag te gaan met uw eerste project: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Opmerking:** meer informatie is beschikbaar voor klanten van Catenda. Meld u aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com), open of herlaad vervolgens een pagina van het Help Center. Het Help Center toont dan meer informatie voor aangemelde klanten, te beginnen met [Inleiding tot de Catenda Archiving Portal](https://support.catenda.com/nl/articles/17778822-inleiding-tot-de-catenda-archiving-portal) _(alleen voor aangemelde klanten)_.
+> **Opmerking:** Het Catenda Archiving Portal wordt op drie niveaus beschreven. Over: dit artikel, voor lezers die niet zijn aangemeld. [Introduction](https://support.catenda.com/nl/articles/17778822) _(voor aangemelde klanten die het Archiving Portal verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/16968870) _(voor klanten van het Archiving Portal)_: hoe het wordt ingesteld en gebruikt. Om de Introduction te openen, meld je aan bij Catenda via [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad vervolgens een pagina van het Help Center.
 
 # Over de rapportage-editor
 
 > Catenda Hub maakt rapporten van Topics, Documenten en goedkeuringen van een project. Met de rapportage-editor kan een project zijn eigen Templates hebben.
+
+> **Opmerking:** Dit artikel is bedoeld voor lezers die niet zijn ingelogd. Koppelingen naar alle drie de niveaus van dit Topics staan aan het einde van dit artikel.
 
 Op de [rapportage-pagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina) maakt Catenda Hub rapporten van de Topics, Documenten en goedkeuringsverzoeken van een project, klaar om op te slaan en te delen als document. Elk rapport is opgebouwd uit een rapportagetemplate, die bepaalt hoe het rapport eruitziet en welke projectinformatie het weergeeft. De rapportage-editor, waar rapportagetemplates worden ontworpen, kan worden aangevraagd voor projecten die dat nodig hebben.
 
@@ -14253,7 +14273,7 @@ De rapportage-editor geeft een project zijn eigen rapportagetemplates, van het t
 
 De rapportage-editor werkt met projecten in Catenda Hub. Als u deze wilt gebruiken, neemt u contact op met Catenda-verkoop over het aan de slag gaan met een eerste project: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Opmerking:** Meer is beschikbaar voor Catenda-klanten. Meld u aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com), open of herlaad vervolgens een pagina van het Helpcentrum. Het Helpcentrum toont vervolgens meer aan aangemelde klanten, te beginnen met [Inleiding tot de rapportage-editor](https://support.catenda.com/nl/articles/17778684-inleiding-tot-de-rapporteditor) _(alleen voor aangemelde klanten)_.
+> **Opmerking:** De rapporteditor wordt op drie niveaus beschreven. Over: dit artikel, voor lezers die niet zijn ingelogd. [Inleiding](https://support.catenda.com/nl/articles/17778684) _(voor ingelogde klanten die de rapporteditor verkennen)_: waarvoor deze dient. [Details](https://support.catenda.com/nl/articles/17778656) _(voor klanten van de rapporteditor)_: hoe deze in te stellen en te gebruiken. Om de Inleiding te openen, meld je aan bij Catenda via [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad vervolgens een pagina van het Helpcentrum.
 
 # Overzichtstabblad in een beoordelingsverzoek
 
@@ -14645,7 +14665,7 @@ Wanneer u een of meer goedkeuringsaanvragen in de goedkeuringslijst selecteert, 
 
 ![Het menu geselecteerde itemacties op de goedkeuringspagina, met één geselecteerde goedkeuringsaanvraag en Rapport maken](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/09-selected-item-actions.png)
 
-**Rapport maken** Maakt een rapport van de geselecteerde goedkeuringsaanvragen, op basis van een goedkeuringssjabloon. Lees er meer over in [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor rapporteditorklanten)_.
+**Rapport aanmaken** Maakt een rapport aan van de geselecteerde goedkeuringsverzoeken, op basis van een Template voor goedkeuring. Lees meer hierover in [Actie Rapport aanmaken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten met rapporteditor)_.
 
 ## 5. **Documentrevisieslijst**
 
@@ -15633,7 +15653,7 @@ De acties op de pagina met rapportsjablonen kunt u vinden door op het actiemenu 
 
 ![Het actiemenu van de rapportagesjablonenpagina met Nieuw Topics-sjabloon, Nieuw documentsjabloon en Nieuw goedkeuringssjabloon](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-new-template-actions.png)
 
-Deze acties maken een volledig nieuw sjabloon aan, beginnend met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapportagessjablonen en deze aan het project aan te passen. Deze kunnen worden gedownload van [Kant-en-klare rapportagessjablonen](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(alleen voor klanten met rapportage-editor)_.
+Deze acties maken een volledig nieuw Template aan, te beginnen met een lege pagina. Het wordt aanbevolen om in plaats daarvan te beginnen met een van de kant-en-klare rapporttemplates en deze aan te passen aan het project. Ze kunnen worden gedownload via [Kant-en-klare rapporttemplates](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(voor klanten van de rapporteditor)_.
 
 ### 1.1 **Nieuw onderwerpsjabloon**
 
@@ -16824,7 +16844,7 @@ Als u uw query wilt opslaan om later verder mee te werken, maakt u een 3D-snapsh
 > **Opmerking 1:** De rapportenpagina is een opt-in-functie die kan worden aangevraagd voor lopende projecten.
 > **Opmerking 2:** Nieuwe projecten die zijn gebaseerd op een sjabloonproject waarvan deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
 
-De rapportenpagina kunt u vinden als het zesde item in het navigatiemenu. Deze pagina maakt deel uit van het inhoudspaneel. Met de rapportenpagina kunnen sjabloonrapporten worden gemaakt in een [rapporteditor](https://support.catenda.com/nl/articles/17778656-rapporteditor) _(alleen voor klanten met rapporteditor)_. Afzonderlijke sjablonen kunnen worden gemaakt voor Topics en Documenten. Wanneer een sjabloon beschikbaar is in een project, kan de rapportactie worden gebruikt met geselecteerde Topics en Documenten om een rapport op basis van het geselecteerde sjabloon te genereren.
+De rapportagepagina bevindt zich als zesde item in het navigatiemenu. Deze pagina maakt deel uit van het inhoudspaneel. Met een Template voor de rapportagepagina kunnen rapporten worden gemaakt in een [rapporteditor](https://support.catenda.com/nl/articles/17778656-rapporteditor) _(voor klanten met een rapporteditor)_. Er kunnen afzonderlijke Templates worden gemaakt voor Topics en Documenten. Wanneer een Template beschikbaar is in een project, kan de rapportageactie worden gebruikt met geselecteerde Topics en Documenten om een rapport te genereren op basis van de geselecteerde Template.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
@@ -19635,7 +19655,7 @@ Het rapportinginstrument kan per project worden geactiveerd. Met de actie rappor
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
 
-Deze optie is beschikbaar wanneer Topics van meerdere boards zijn geselecteerd. Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor rapporteditor-klanten)_ voor meer informatie over het maken van rapporten.
+Deze optie is beschikbaar wanneer topics uit meerdere boards zijn geselecteerd. Klik [hier](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de report editor)_ om meer te lezen over het maken van rapporten.
 
 ### 2.4 **Volgen**
 
@@ -23270,7 +23290,7 @@ Topicgegevens kunnen in drie primaire formaten worden geëxtraheerd via [topics 
 
 **Excel** Exporteert topicparameters naar een spreadsheetindeling voor filteren, sorteren en gegevensmanipulatie. Dit formaat biedt gestructureerde rijen en kolommen die ideaal zijn voor het selecteren en kopiëren van gegevens. Excel-bestanden kunnen eenvoudig worden bekeken in de meeste archiveringsplatforms. Voor archiveringsdoeleinden heeft de PDF-export meestal de voorkeur boven Excel omdat deze meer informatie bevat.
 
-**PDF** Genereert een schoon, leesbaar samenvattingsrapport in standaard PDF-indeling (v1.4) toegankelijk zonder gespecialiseerde software (zie [topics naar PDF exporteren](https://support.catenda.com/nl/articles/9784934-onderwerpen-naar-pdf-exporteren)). Standaard PDF-exports bevatten een geconsolideerde downloadtijdstempel voor officiële overheidsrapportage en archivering, met meer informatie dan een Excel-export. Terwijl de basisexport een standaard PDF-bestand (v1.4) genereert, dat veel archiveringssystemen automatisch naar PDF/A converteren bij upload voor langdurig voorbeeld, kunnen projecten met de opt-in [rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina) ingeschakeld ook topics in archiveringindelingen exporteren, zoals beschreven in [Projectgegevens exporteren met rapporten](https://support.catenda.com/nl/articles/17779017-projectgegevens-exporteren-met-rapporten) _(alleen rapporteditor-klanten)_.
+**PDF** Genereert een overzichtelijk, leesbaar samenvattingsrapport in standaard PDF-formaat (v1.4) dat toegankelijk is zonder gespecialiseerde software (zie [Topics exporteren naar PDF](https://support.catenda.com/nl/articles/9784934-onderwerpen-naar-pdf-exporteren)). Standaard PDF-exports bevatten een geconsolideerd downloadtijdstempel voor formele rapportage aan autoriteiten en archivering, en bieden meer informatie dan een Excel-export. Hoewel de basisexport een standaard PDF (v1.4)-bestand genereert, dat veel archiveringssystemen bij upload automatisch naar PDF/A converteren voor langetermijnvoorvertoning, kunnen projecten waarvoor de optionele [Reports Page](https://support.catenda.com/nl/articles/12303098-rapportenpagina) is ingeschakeld, Topics ook exporteren in archiveringsformaten, zoals beschreven in [Exporting project data with reports](https://support.catenda.com/nl/articles/17779017-projectgegevens-exporteren-met-rapporten) _(voor klanten met report editor)_.
 
 ### 2.3 **Documenten en bundels exporteren**
 
@@ -23328,11 +23348,11 @@ De [rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenp
 
 **Op templates gebaseerd beheer** Wanneer dit is ingeschakeld, gebruiken projectbeheerders de [pagina met rapportsjablonen](https://support.catenda.com/nl/articles/12380837-pagina-met-rapportsjablonen) om hun eigen rapportsjablonen in te stellen en geformatteerde exports voor geselecteerde Documenten of Topics te genereren.
 
-Wat kan worden geëxporteerd en in welke bestandsindelingen wordt beschreven in [Projectgegevens exporteren met rapporten](https://support.catenda.com/nl/articles/17779017-projectgegevens-exporteren-met-rapporten) _(alleen rapporteditor-klanten)_.
+Wat er geëxporteerd kan worden en in welke bestandsformaten, wordt beschreven in [Exporting project data with reports](https://support.catenda.com/nl/articles/17779017-projectgegevens-exporteren-met-rapporten) _(voor klanten met report editor)_.
 
 ## 3. **Catenda Data Export**
 
-Catenda Data Export wordt los van Catenda Hub verkocht. Anders dan bij de hierboven genoemde downloads kopieert deze service projectgegevens automatisch, rechtstreeks van Catenda Hub naar de eigen cloudopslag van een organisatie in Amazon S3 of Azure Blob storage. Het is geschikt voor organisaties die een back-up willen die gelijke tred houdt met hun projecten, of voor projectregistraties die in hun eigen opslag moeten worden bewaard. Het is niet alleen bedoeld voor projecteigenaren. Een projecteigenaar kan een volledige back-up van zijn projecten exporteren, en een projectdeelnemer kan exporteren wat hij binnen de projecten waaraan hij deelneemt, kan inzien. Meer informatie vindt u in [Over Catenda Data Export](https://support.catenda.com/nl/articles/17779020-over-catenda-data-export) _(voor lezers die niet zijn aangemeld)_ en [Introductie van Catenda Data Export](https://support.catenda.com/nl/articles/17779027-inleiding-tot-catenda-data-export) _(alleen voor aangemelde klanten)_. Klanten die deze service hebben, vinden de installatie in [Catenda Data Export](https://support.catenda.com/nl/articles/17779052-catenda-data-export) _(alleen voor Data Export-klanten)_.
+Catenda Data Export wordt los van Catenda Hub verkocht. Anders dan de hierboven genoemde downloads kopieert het projectgegevens automatisch, rechtstreeks van Catenda Hub naar de eigen cloudopslag van een organisatie in Amazon S3 of Azure Blob storage. Het is geschikt voor organisaties die een back-up willen die gelijke tred houdt met hun projecten, of projectgegevens die in hun eigen opslag worden bewaard. Het is niet alleen bedoeld voor projecteigenaren. Een projecteigenaar kan een volledige back-up van zijn projecten exporteren, en een projectdeelnemer kan exporteren waartoe het toegang heeft binnen de projecten waaraan het deelneemt. Meer informatie hierover vindt u in [About Catenda Data Export](https://support.catenda.com/nl/articles/17779020-over-catenda-data-export) _(voor niet-ingelogde lezers)_ en [Introduction to Catenda Data Export](https://support.catenda.com/nl/articles/17779027-inleiding-tot-catenda-data-export) _(voor ingelogde klanten die Data Export verkennen)_. Klanten die het hebben, vinden de installatie in [Catenda Data Export](https://support.catenda.com/nl/articles/17779052-catenda-data-export) _(voor Data Export-klanten)_.
 
 # Bestandstypen bekijken op Catenda Hub
 
@@ -24210,6 +24230,8 @@ Protocol: TCP + UDP Al het Catenda Hub-verkeer is versleuteld met TLS op deze po
 
 > Catenda Data Export kopieert de gegevens van Catenda Hub-projecten automatisch naar de eigen cloudopslag van een organisatie.
 
+> **Note:** Dit artikel is bedoeld voor lezers die niet zijn ingelogd. Koppelingen naar alle drie niveaus van deze Topics staan onderaan dit artikel.
+
 Catenda Hub heeft verschillende manieren om projectgegevens te downloaden, beschreven in [Alle projectgegevens exporteren](https://support.catenda.com/nl/articles/7946690-alles-projectgegevens-exporteren). Catenda Data Export is de geautomatiseerde: het kopieert projectgegevens rechtstreeks naar de eigen cloudopslag van een organisatie in Amazon S3 of Azure Blob-opslag. Het wordt apart van Catenda Hub verkocht.
 
 ## 1. **Wat het is**
@@ -24232,7 +24254,7 @@ Een organisatie die deelneemt aan projecten die door anderen worden beheerd, kan
 
 Neem contact op met Catenda-verkoop om aan de slag te gaan met een eerste project: [https://catenda.com/get-started](https://catenda.com/get-started) of [sales@catenda.com](mailto:sales@catenda.com).
 
-> **Opmerking:** meer is beschikbaar voor Catenda-klanten. Meld u aan bij Catenda op [https://hub.catenda.com](https://hub.catenda.com), open of herlaad vervolgens een pagina van het Helpcentrum. Het Helpcentrum toont dan meer aan ingelogde klanten, te beginnen met [Inleiding tot Catenda Data Export](https://support.catenda.com/nl/articles/17779027-inleiding-tot-catenda-data-export) _(alleen voor ingelogde klanten)_.
+> **Note:** Catenda Data Export wordt op drie niveaus beschreven. Over: dit artikel, voor lezers die niet zijn ingelogd. [Introductie](https://support.catenda.com/nl/articles/17779027) _(voor ingelogde klanten die Data Export verkennen)_: waarvoor het dient. [Details](https://support.catenda.com/nl/articles/17779052) _(voor Data Export-klanten)_: hoe je het instelt en gebruikt. Om de Introductie te openen, log je in bij Catenda op [https://hub.catenda.com](https://hub.catenda.com) en open of herlaad je een pagina van het Help Center.
 
 # Projectbeveiliging
 
@@ -25622,24 +25644,24 @@ Naarmate nieuwe functies uitrollen en bugs worden opgelost, worden artikelen bij
 **Accountbeheer**
 
 - Organisaties
-    - [Organisatieconfiguratie](https://support.catenda.com/nl/articles/13653794-organisatieconfiguratie)
-    - [Organisatietypen](https://support.catenda.com/nl/articles/13653807-organisatietypen)
-    - [Organisatie- en projectopstelling](https://support.catenda.com/nl/articles/13653804-organisatie-en-projectinstellingen)
+  - [Organisatieconfiguratie](https://support.catenda.com/nl/articles/13653794-organisatieconfiguratie)
+  - [Organisatietypen](https://support.catenda.com/nl/articles/13653807-organisatietypen)
+  - [Organisatie- en projectopstelling](https://support.catenda.com/nl/articles/13653804-organisatie-en-projectinstellingen)
 
 **Productfuncties**
 
 - Onderwerpen
-    - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/nl/articles/14076010-pagina-topic-template-instellingen)
+  - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/nl/articles/14076010-pagina-topic-template-instellingen)
 - Onderwerpsjablonen
-    - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/nl/articles/14075921-onderwerpssjablonen-in-een-onderwerpsboard-gebruiken)
-    - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen)
-    - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen)
+  - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/nl/articles/14075921-onderwerpssjablonen-in-een-onderwerpsboard-gebruiken)
+  - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen)
+  - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen)
 - Categorieoverschrijdend
-    - [Actie Rapport maken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van de rapporteditor)_
-    - [Koppelingsactie kopiëren](https://support.catenda.com/nl/articles/14323982-koppelingen-actie)
+  - [Actie Rapport aanmaken](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de rapporteditor)_
+  - [Koppelingsactie kopiëren](https://support.catenda.com/nl/articles/14323982-koppelingen-actie)
 - Catenda-plugins en integraties
-    - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/nl/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
-    - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/nl/articles/13449075-changelog-catenda-archicad-plugin-1-0-1-17)
+  - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/nl/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
+  - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/nl/articles/13449075-changelog-catenda-archicad-plugin-1-0-1-17)
 
 **Probleemoplossing**
 
@@ -25654,9 +25676,9 @@ Recente updates
 **Veelgestelde vragen**
 
 - Veelgestelde vragen over onderwerpen
-    - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/nl/articles/13616245-2d-locatie-van-topics-catenda-site)
+  - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/nl/articles/13616245-2d-locatie-van-topics-catenda-site)
 - Projectveelgestelde vragen
-    - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/nl/articles/11384331-veelgestelde-vragen-over-aangepaste-velden)
+  - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/nl/articles/11384331-veelgestelde-vragen-over-aangepaste-velden)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -26807,7 +26829,7 @@ PDF-tekeningen kunnen nu in de [3D Viewer](https://support.catenda.com/nl/articl
 
 ### 2.3 **Catenda AI Connect**
 
-Catenda AI Connect is bijgewerkt, en de wijzigingen staan vermeld in het [Catenda AI Connect-wijzigingslogboek](https://support.catenda.com/nl/articles/17778717-catenda-ai-connect-wijzigingenlogboek) _(Alleen voor AI Connect-klanten)_.
+Catenda AI Connect is bijgewerkt en de wijzigingen staan vermeld in het [Catenda AI Connect-changelog](https://support.catenda.com/nl/articles/17778717-catenda-ai-connect-wijzigingenlogboek) _(voor klanten van AI Connect)_.
 
 ### 2.4 **3D Viewer**
 
@@ -26835,15 +26857,15 @@ Sommige functies kunnen door de contactpersoon voor uw Catenda-licentie worden a
 
 ### 3.2 **Rapporteditor**
 
-Maak report Templates voor Topics en Documenten aan, zodat leden van het project Topics of Documenten uit de tabel kunnen selecteren en via de rapportactie een rapport kunnen genereren. De rapportenpagina is een on-demand functie die voor lopende projecten kan worden aangevraagd. Nieuwe projecten die zijn gemaakt op basis van een Template-project waarin deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Afzonderlijke Templates kunnen worden gemaakt voor Topics en Documenten. Rapporten kunnen ook worden gemaakt vanuit goedkeuringen met de [rapport maken-actie](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(alleen voor klanten van de report editor)_. Wanneer een Template beschikbaar is in een project, kan de rapportactie worden gebruikt met geselecteerde Topics en Documenten om een rapport te genereren op basis van het geselecteerde Template. Catenda biedt ondersteuning voor de manier waarop verschillende waarden op de pagina kunnen worden weergegeven. Als u een op maat gemaakt rapport voor uw bedrijf wilt, kunnen we u in contact brengen met een consultant die hierbij kan helpen. Voorbeeldrapporten voor Topics, Documenten en goedkeuringen zijn nu beschikbaar in [Kant-en-klare rapporttemplates](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(alleen voor klanten van de report editor)_. Hoe de report editor werkt, wordt beschreven in [Report editor](https://support.catenda.com/nl/articles/17778656-rapporteditor) _(alleen voor klanten van de report editor)_.
+Maak rapporttemplates voor Topics en Documenten zodat projectleden Topics of Documenten uit de tabel kunnen selecteren en de report action kunnen gebruiken om een rapport te genereren. De rapportenpagina is een on-demand-functie die kan worden aangevraagd om te worden ingeschakeld voor lopende projecten. Nieuwe projecten die zijn gemaakt op basis van een template-project waarin deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Afzonderlijke templates kunnen worden gemaakt voor Topics en Documenten. Rapporten kunnen ook worden gemaakt op basis van goedkeuringen met de [create report action](https://support.catenda.com/nl/articles/13973721-rapportactie-maken) _(voor klanten van de rapporteditor)_. Wanneer een template beschikbaar is in een project, kan de report action worden gebruikt met geselecteerde Topics en Documenten om een rapport te genereren op basis van de geselecteerde template. Catenda biedt ondersteuning bij de manier waarop verschillende waarden op de pagina kunnen worden weergegeven. Als u een op maat gemaakt rapport voor uw bedrijf wilt, kunnen wij u in contact brengen met een consultant die hierbij kan helpen. Voorbeeldrapporten voor Topics, Documenten en goedkeuringen zijn nu beschikbaar in [Kant-en-klare rapporttemplates](https://support.catenda.com/nl/articles/17778911-kant-en-klare-rapportsjablonen) _(voor klanten van de rapporteditor)_. Hoe de rapporteditor werkt, wordt beschreven in [Rapporteditor](https://support.catenda.com/nl/articles/17778656-rapporteditor) _(voor klanten van de rapporteditor)_.
 
 ### 3.3 **Catenda voor Power BI (On Demand)**
 
-Een on-demand versie van Catenda voor Power BI is nu beschikbaar. Het kan op dezelfde manier worden aangevraagd als de andere on-demand functies. Wat het voor is, wordt beschreven in [Inleiding tot Catenda voor Power BI (On Demand)](https://support.catenda.com/nl/articles/17778865-inleiding-tot-catenda-voor-power-bi-on-demand) _(alleen aangemelde klanten)_. De installatie wordt beschreven in [Catenda voor Power BI (On Demand)](https://support.catenda.com/nl/articles/17778868-catenda-voor-power-bi-on-demand) _(alleen op aanvraag)_.
+Er is nu een on-demand-versie van Catenda for Power BI beschikbaar. Deze kan op dezelfde manier worden aangevraagd als de andere on-demand-functies. Wat het doet, wordt beschreven in [Introductie tot Catenda for Power BI (On Demand)](https://support.catenda.com/nl/articles/17778865-inleiding-tot-catenda-voor-power-bi-on-demand) _(voor ingelogde klanten die Power BI On Demand verkennen)_. Het instellen ervan wordt beschreven in [Catenda for Power BI (On Demand)](https://support.catenda.com/nl/articles/17778868-catenda-voor-power-bi-on-demand) _(voor Power BI On Demand-bedrijven)_.
 
 ### 3.4 **Catenda Desktop Connector voor systeemafbeeldingen (On Demand)**
 
-Een on-demand versie van de Catenda Desktop Connector voor systeemafbeeldingen is nu beschikbaar. Het kan op dezelfde manier worden aangevraagd als de andere on-demand functies. Wat het voor is, wordt beschreven in [Inleiding tot Catenda Desktop Connector voor systeemafbeeldingen](https://support.catenda.com/nl/articles/17778688-inleiding-tot-catenda-desktop-connector-voor-systeemafbeeldingen) _(alleen aangemelde klanten)_. De installatie wordt beschreven in [Catenda Desktop Connector voor systeemafbeeldingen (On Demand)](https://support.catenda.com/nl/articles/17778690-catenda-desktop-connector-voor-systeemafbeeldingen-op-aanvraag) _(alleen op aanvraag)_.
+Er is nu een on-demand-versie van de Catenda Desktop Connector for System Images beschikbaar. Deze kan op dezelfde manier worden aangevraagd als de andere on-demand-functies. Wat het doet, wordt beschreven in [Introductie tot Catenda Desktop Connector for System Images](https://support.catenda.com/nl/articles/17778688-inleiding-tot-catenda-desktop-connector-voor-systeemafbeeldingen) _(voor ingelogde klanten die het systeemimagepakket verkennen)_. Het instellen ervan wordt beschreven in [Catenda Desktop Connector for System Images (On Demand)](https://support.catenda.com/nl/articles/17778690-catenda-desktop-connector-voor-systeemafbeeldingen-op-aanvraag) _(voor personen die het systeemimagepakket hebben ontvangen)_.
 
 ## 4. **Co-creatieprogramma**
 
